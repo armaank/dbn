@@ -1,0 +1,475 @@
+{'text': 'Hi, good evening.', 'start': 5.938, 'duration': 1.869}
+{'text': "We're actually going\nto get started.", 'start': 7.907, 'duration': 1.402}
+{'text': 'More or less on time,\nwhich is shocking.', 'start': 9.409, 'duration': 2.401}
+{'text': "I'm very pleased to host another\nevent in a series of lectures", 'start': 11.91, 'duration': 4.038}
+{'text': 'and conversations\nhosted by the master', 'start': 16.048, 'duration': 2.737}
+{'text': 'in his own engineering\nprogram, which, as you know,', 'start': 18.885, 'duration': 2.903}
+{'text': 'is a collaborative\nendeavor between the GSD', 'start': 21.888, 'duration': 2.936}
+{'text': 'and the Paulson School of\nEngineering and Applied', 'start': 24.924, 'duration': 2.136}
+{'text': 'Science.', 'start': 27.16, 'duration': 1.033}
+{'text': 'We are thrilled to have\nHarry West here tonight.', 'start': 28.294, 'duration': 2.97}
+{'text': 'And I will introduce\nhim in a moment.', 'start': 31.364, 'duration': 2.636}
+{'text': 'Let me just take a\nminute, initially,', 'start': 34.1, 'duration': 2.436}
+{'text': 'to trace very briefly the\nhistory of a company that', 'start': 36.636, 'duration': 4.17}
+{'text': 'has had a decisive\ninfluence in shaping many', 'start': 40.907, 'duration': 3.203}
+{'text': "of the early\ninteractions we've had", 'start': 44.21, 'duration': 1.768}
+{'text': 'with various forms of\ntechnology from music', 'start': 46.079, 'duration': 2.602}
+{'text': 'tapes to personal computers.', 'start': 48.781, 'duration': 2.569}
+{'text': 'The history of frog is\nsomewhat representative', 'start': 51.451, 'duration': 2.636}
+{'text': 'of the profound changes that\nthe field of product design', 'start': 54.187, 'duration': 3.303}
+{'text': 'has undergone, from giving\nshape to functions and needs', 'start': 57.59, 'duration': 3.337}
+{'text': 'to system-based\nconsultancy and strategy.', 'start': 61.027, 'duration': 3.57}
+{'text': 'The formation of frog actually\ndates back indirectly to 1969--', 'start': 64.697, 'duration': 5.105}
+{'text': 'most of you were not\naround then, I think--', 'start': 69.902, 'duration': 2.603}
+{'text': 'when Hartmut Esslinger found\nEsslinger Design in the Black', 'start': 72.605, 'duration': 2.77}
+{'text': 'Forest area in Germany.', 'start': 75.475, 'duration': 2.302}
+{'text': 'The company was a\nproduct design company', 'start': 77.877, 'duration': 1.868}
+{'text': 'in the traditional sense,\ngiving shape to products,', 'start': 79.845, 'duration': 4.639}
+{'text': 'and excelled really in the\nconsumer electronics area.', 'start': 84.584, 'duration': 3.67}
+{'text': 'The Sony Walkman was one of\nthe early signature products.', 'start': 88.354, 'duration': 4.338}
+{'text': 'After meeting with\nSteve Jobs, the company', 'start': 92.792, 'duration': 2.469}
+{'text': 'eventually relocated\nto California,', 'start': 95.361, 'duration': 2.302}
+{'text': 'renamed itself of\nfrog design in 1984.', 'start': 97.763, 'duration': 3.303}
+{'text': 'Now also working\nfor Apple oversea,', 'start': 101.166, 'duration': 2.236}
+{'text': 'the early designs for\nthe Macintosh computers', 'start': 103.503, 'duration': 2.202}
+{'text': 'were produced by frog design.', 'start': 105.805, 'duration': 2.502}
+{'text': 'These early McIntosh\ncomputers are now', 'start': 108.407, 'duration': 2.236}
+{'text': 'part of a permanent collection\nof the Whitney Museum of Art.', 'start': 110.743, 'duration': 3.871}
+{'text': 'It was finally in 2005 that\nthe current company of frog', 'start': 114.714, 'duration': 3.937}
+{'text': 'was formed, and Harry West\nhas been its CEO since 2015.', 'start': 118.751, 'duration': 5.706}
+{'text': 'frog today focuses on\nglobal design and innovation', 'start': 124.557, 'duration': 3.47}
+{'text': 'with an emphasis on user\nexperience in industries,', 'start': 128.127, 'duration': 3.303}
+{'text': 'such as financial services;\ntelecommunications;', 'start': 131.53, 'duration': 3.604}
+{'text': 'health care; enterprise\nsoftware; mobility;', 'start': 135.234, 'duration': 3.236}
+{'text': 'financial services; I\nactually said already,', 'start': 138.571, 'duration': 2.369}
+{'text': 'government services\nand consumer products.', 'start': 141.04, 'duration': 3.136}
+{'text': 'Harry leads a talented group\nof designers, strategists,', 'start': 144.276, 'duration': 3.437}
+{'text': 'researchers, technologists,\nand program managers', 'start': 147.813, 'duration': 3.203}
+{'text': 'who strive to improve the\ndaily experiences of people', 'start': 151.116, 'duration': 2.737}
+{'text': 'around the world.', 'start': 153.953, 'duration': 1.568}
+{'text': 'Harry has degrees in engineering\nfrom Cambridge University,', 'start': 155.621, 'duration': 3.37}
+{'text': 'in technology and\npolicy from MIT,', 'start': 159.091, 'duration': 2.37}
+{'text': 'and a PhD in robotics\nfrom MIT as well.', 'start': 161.561, 'duration': 2.935}
+{'text': 'He has led design and innovation\nat MIT, Continuum, and Prophet', 'start': 164.596, 'duration': 4.872}
+{'text': 'before joining frog.', 'start': 169.568, 'duration': 1.469}
+{'text': "He's no stranger to the GSD.", 'start': 171.137, 'duration': 1.401}
+{'text': "He's been active on the external\nadvisory board of the NDE", 'start': 172.638, 'duration': 3.604}
+{'text': 'Program.', 'start': 176.342, 'duration': 1.268}
+{'text': 'He lives locally, and each week,\nworks from a different frog', 'start': 177.71, 'duration': 3.971}
+{'text': 'studio in San Francisco, Austin,\nNew York, Boston, London,', 'start': 181.781, 'duration': 4.337}
+{'text': 'Milano, Munich, and Shanghai.', 'start': 186.218, 'duration': 2.569}
+{'text': "He's flying out\ntomorrow, so we're", 'start': 188.887, 'duration': 1.535}
+{'text': 'happy to have you here today.', 'start': 190.522, 'duration': 1.669}
+{'text': 'And without much further ado,\nplease welcome Harry West.', 'start': 192.291, 'duration': 3.67}
+{'text': '[applause]', 'start': 196.062, 'duration': 6.806}
+{'text': 'Thank you, Martin.', 'start': 202.968, 'duration': 1.836}
+{'text': 'Very honored to be here.', 'start': 204.904, 'duration': 2.502}
+{'text': 'I look forward to talking with\nyou for the next few quarters,', 'start': 207.506, 'duration': 2.537}
+{'text': 'an hour or so about design,\nAI, and customer experience.', 'start': 210.143, 'duration': 5.438}
+{'text': 'Servant or Svengali?', 'start': 215.681, 'duration': 2.937}
+{'text': 'That is the question.', 'start': 218.718, 'duration': 1.501}
+{'text': 'I do not know the answer, but\nI will share some thoughts', 'start': 220.319, 'duration': 3.504}
+{'text': 'around that.', 'start': 223.923, 'duration': 1.234}
+{'text': 'Please feel free to interrupt.', 'start': 225.257, 'duration': 2.47}
+{'text': "I'm told that you won't,\nbut I'm going to ask anyway.", 'start': 227.827, 'duration': 3.47}
+{'text': 'So we are living in\nthe age of experiences,', 'start': 234.6, 'duration': 3.637}
+{'text': 'magical experiences.', 'start': 238.337, 'duration': 1.802}
+{'text': 'And I think that\nthis image captures', 'start': 240.239, 'duration': 3.504}
+{'text': "that sense of awe in her\nface, that little girl's face,", 'start': 243.843, 'duration': 6.539}
+{'text': 'because she is about to meet\na princess or somebody who', 'start': 250.482, 'duration': 3.404}
+{'text': 'knows a princess.', 'start': 253.986, 'duration': 1.902}
+{'text': "And this is the\nmoment that she's", 'start': 255.988, 'duration': 1.268}
+{'text': 'been dreaming of for years.', 'start': 257.356, 'duration': 3.704}
+{'text': 'And that princess\nknows her name,', 'start': 261.16, 'duration': 2.702}
+{'text': 'and she is going to greet\nher by name on her birthday.', 'start': 263.962, 'duration': 2.67}
+{'text': "And that is a\nmemory that's going", 'start': 266.732, 'duration': 1.301}
+{'text': 'to live with her for\nthe rest of her life.', 'start': 268.133, 'duration': 3.371}
+{'text': 'Now that is all facilitated\nby its interesting technology', 'start': 271.604, 'duration': 5.505}
+{'text': 'right there on\nher wrist that you', 'start': 277.209, 'duration': 2.603}
+{'text': "didn't notice until\nI pointed it out;", 'start': 279.912, 'duration': 2.435}
+{'text': 'that enables Disney\nto know who she is', 'start': 282.447, 'duration': 3.738}
+{'text': 'and to track her throughout\nDisney World and her parents;', 'start': 286.285, 'duration': 4.704}
+{'text': 'and for Disney to let\nher in without hindrance', 'start': 291.09, 'duration': 4.371}
+{'text': 'into this magical world; and for\nthe princess or the person who', 'start': 295.561, 'duration': 4.338}
+{'text': 'knows the princess\nto greet her by name.', 'start': 299.999, 'duration': 5.038}
+{'text': "And that's magic.", 'start': 305.137, 'duration': 1.501}
+{'text': 'And for that magic, her parents\nhave saved up for many years,', 'start': 306.738, 'duration': 3.504}
+{'text': 'probably, to give\nthat their daughter', 'start': 310.342, 'duration': 4.004}
+{'text': 'this extraordinary experience.', 'start': 314.446, 'duration': 3.404}
+{'text': 'And the experience is going\nbe so wonderful for her', 'start': 317.95, 'duration': 3.103}
+{'text': "that they're going to try to\nsave up again to bring her back", 'start': 321.153, 'duration': 2.436}
+{'text': 'next year.', 'start': 323.69, 'duration': 2.001}
+{'text': "And even if they don't\ndo that, their daughter", 'start': 325.792, 'duration': 1.834}
+{'text': 'will remember this for\nthe rest of her life.', 'start': 327.727, 'duration': 1.734}
+{'text': 'And when she has\nchildren, she will', 'start': 329.561, 'duration': 2.169}
+{'text': 'want to bring them\nback to Disney World', 'start': 331.83, 'duration': 1.636}
+{'text': 'as well to share that experience\nthat she remembers so fondly', 'start': 333.566, 'duration': 4.404}
+{'text': 'from her childhood.', 'start': 338.07, 'duration': 2.169}
+{'text': 'This is the age of experience.', 'start': 340.339, 'duration': 1.902}
+{'text': 'Now, not all of us every day\nexperience something quite as', 'start': 342.341, 'duration': 3.97}
+{'text': 'magical as that.', 'start': 346.411, 'duration': 1.302}
+{'text': "Or, we're not aware of it\nas we're experiencing it.", 'start': 347.813, 'duration': 4.238}
+{'text': 'But in fact, every day-- in\nfact, I can see some of you', 'start': 352.151, 'duration': 2.936}
+{'text': 'in the audience right\nnow using technology', 'start': 355.187, 'duration': 2.57}
+{'text': 'in a very magical way.', 'start': 357.857, 'duration': 2.836}
+{'text': "And we're so oblivious to that.", 'start': 360.793, 'duration': 1.301}
+{'text': "We're so used to that.", 'start': 362.194, 'duration': 2.27}
+{'text': "And every day, we're enjoying\nthe products and services", 'start': 364.564, 'duration': 3.135}
+{'text': 'of the companies\nthat we buy from.', 'start': 367.799, 'duration': 2.837}
+{'text': 'And those experiences\nare extraordinary.', 'start': 370.736, 'duration': 3.203}
+{'text': 'How did this happen?', 'start': 374.039, 'duration': 0.835}
+{'text': 'Technology and design.', 'start': 377.61, 'duration': 1.969}
+{'text': 'I think that probably the\nmost important technology', 'start': 382.414, 'duration': 4.238}
+{'text': "that most of us don't pay\nany attention to anymore", 'start': 386.752, 'duration': 5.005}
+{'text': 'is the internet.', 'start': 391.857, 'duration': 1.001}
+{'text': 'And when that became\npublic in around 1993', 'start': 392.958, 'duration': 3.304}
+{'text': 'with the launch of Mosaic,\nthat unleashed the possibility', 'start': 396.362, 'duration': 4.704}
+{'text': "for the experiences that\nwe're enjoying today.", 'start': 401.167, 'duration': 3.57}
+{'text': 'That was followed\nshortly thereafter', 'start': 404.837, 'duration': 3.57}
+{'text': 'by the mobile phone and\nmobile communication.', 'start': 408.508, 'duration': 4.905}
+{'text': 'It has changed a lot since then.', 'start': 418.517, 'duration': 2.135}
+{'text': 'But this came out\naround 1999 and was', 'start': 420.752, 'duration': 3.004}
+{'text': 'the first mobile communication\ntechnology or smart phone.', 'start': 423.856, 'duration': 6.139}
+{'text': 'And then, followed\nquickly around 2002', 'start': 430.095, 'duration': 2.903}
+{'text': 'by the first social\nnetwork, Friendster--', 'start': 433.098, 'duration': 4.738}
+{'text': 'still big in\nMalaysia, I believe.', 'start': 437.936, 'duration': 1.336}
+{'text': 'And that unleashed a revolution.', 'start': 442.107, 'duration': 3.871}
+{'text': 'Because with the\npower of the internet', 'start': 446.078, 'duration': 3.27}
+{'text': 'and mobile phones\nand social networks,', 'start': 449.448, 'duration': 4.038}
+{'text': 'our opinions as\nindividual consumers', 'start': 453.586, 'duration': 2.602}
+{'text': 'mattered more than ever.', 'start': 456.288, 'duration': 2.736}
+{'text': 'And with a tweet, we\ncould bring down a brand.', 'start': 459.124, 'duration': 4.037}
+{'text': 'Or with a tweet, we could\neven bring down a candidate,', 'start': 463.261, 'duration': 3.905}
+{'text': "as it's happening today.", 'start': 467.266, 'duration': 2.435}
+{'text': 'And so, what happened was\nthat instead of the consumer', 'start': 469.801, 'duration': 7.775}
+{'text': 'rotating around\nthe enterprise, we', 'start': 477.676, 'duration': 3.671}
+{'text': 'went through a\nCopernican revolution.', 'start': 481.447, 'duration': 2.902}
+{'text': 'And the enterprise began to\nrotate around the consumer', 'start': 484.449, 'duration': 4.539}
+{'text': 'because each\nindividual consumer has', 'start': 489.088, 'duration': 3.67}
+{'text': 'a power of communicating\nthrough social networks', 'start': 492.859, 'duration': 3.002}
+{'text': 'with every other consumer.', 'start': 495.961, 'duration': 1.968}
+{'text': 'And that opinion matters.', 'start': 498.029, 'duration': 0.969}
+{'text': "And it's that collective\nvoice of all of us", 'start': 503.602, 'duration': 4.171}
+{'text': 'that determines the fate of\ncompanies, large and small.', 'start': 507.873, 'duration': 3.804}
+{'text': 'And so, that today,\nevery company', 'start': 511.777, 'duration': 1.936}
+{'text': 'is determined to deliver the\nvery best possible customer', 'start': 513.813, 'duration': 2.902}
+{'text': 'experience.', 'start': 516.815, 'duration': 2.202}
+{'text': 'Their future, their very\nexistence, depends on it.', 'start': 519.117, 'duration': 5.739}
+{'text': 'And this is the revolution that\nhas happened over the last 20', 'start': 524.956, 'duration': 2.97}
+{'text': 'years or so during our lifetime.', 'start': 528.026, 'duration': 2.904}
+{'text': 'And so, today, we experience\nthese extraordinarily high', 'start': 534.399, 'duration': 4.305}
+{'text': 'quality products and services.', 'start': 538.804, 'duration': 1.302}
+{'text': "And I'll just go through\nsome obvious examples", 'start': 543.743, 'duration': 2.402}
+{'text': 'of extraordinary high quality,\nlike the BMW automobile', 'start': 546.245, 'duration': 6.439}
+{'text': 'or your iPhone.', 'start': 552.784, 'duration': 1.302}
+{'text': 'Or for some of us, for some\npeople, their automobile', 'start': 556.922, 'duration': 4.805}
+{'text': 'insurance company--', 'start': 561.827, 'duration': 2.403}
+{'text': 'extraordinarily high quality\nand a highly rated customer', 'start': 564.33, 'duration': 4.471}
+{'text': 'experience.', 'start': 568.901, 'duration': 2.903}
+{'text': 'On Netflix, how we\nchoose our movies.', 'start': 571.904, 'duration': 3.603}
+{'text': 'Almost every product and\nservice that we interact', 'start': 575.608, 'duration': 3.069}
+{'text': 'with today, the experience\nhas been very painstakingly', 'start': 578.777, 'duration': 4.204}
+{'text': 'designed for our delight.', 'start': 583.081, 'duration': 2.804}
+{'text': 'We are all like that little\ngirl greeting the princess.', 'start': 585.985, 'duration': 3.836}
+{'text': 'These companies know\nus by name often,', 'start': 589.921, 'duration': 3.37}
+{'text': "and they've designed the\nexperience around us.", 'start': 593.392, 'duration': 2.936}
+{'text': 'And we love it,\nand we pay for it.', 'start': 596.428, 'duration': 3.27}
+{'text': "And if we're ever disappointed,\nwe let everybody know.", 'start': 599.798, 'duration': 2.17}
+{'text': 'And then, a new\ntechnology came along.', 'start': 605.237, 'duration': 3.003}
+{'text': 'And I think that the first\npaper around deep learning', 'start': 608.34, 'duration': 4.304}
+{'text': 'and backpropagation\ncame around 2006.', 'start': 612.744, 'duration': 4.605}
+{'text': 'And that is just beginning\nto unleash a new revolution.', 'start': 617.449, 'duration': 4.004}
+{'text': "And we don't really know\nwhere that is going.", 'start': 621.553, 'duration': 3.104}
+{'text': 'And so, what I want to do\ntoday is explore with you', 'start': 624.757, 'duration': 3.37}
+{'text': 'where the revolution\nof AI and design', 'start': 628.227, 'duration': 2.802}
+{'text': 'is going to take us, and think\nabout what good can come of it', 'start': 631.129, 'duration': 5.139}
+{'text': 'and what traps there\nmay lie in our future.', 'start': 636.368, 'duration': 4.504}
+{'text': "So that's the question\nthat we want to address.", 'start': 640.973, 'duration': 3.337}
+{'text': "And before I do that,\nI'm going to share", 'start': 644.41, 'duration': 2.502}
+{'text': 'a little bit about\nfrog because I would', 'start': 647.012, 'duration': 2.136}
+{'text': 'like to show you some pictures\nabout some of the work', 'start': 649.248, 'duration': 2.102}
+{'text': 'we have done.', 'start': 651.45, 'duration': 1.135}
+{'text': "Because I'm so proud of the\ncompany that I work for.", 'start': 652.685, 'duration': 2.969}
+{'text': 'So, frog.', 'start': 655.755, 'duration': 3.002}
+{'text': 'Rumor has it that frog stands\nfor Federal Republic of Germany', 'start': 658.857, 'duration': 4.938}
+{'text': 'because Hartmut\ncame from Germany.', 'start': 663.895, 'duration': 3.304}
+{'text': "I don't know if\nthat's really true.", 'start': 667.299, 'duration': 1.335}
+{'text': 'And Hartmut has\nsome other stories,', 'start': 668.734, 'duration': 1.368}
+{'text': 'which I will not relay today.', 'start': 670.202, 'duration': 2.636}
+{'text': 'But frog is in the business of\nadvancing the human experience.', 'start': 672.938, 'duration': 4.238}
+{'text': "We design customer experiences,\nand we're constantly", 'start': 677.276, 'duration': 2.969}
+{'text': 'looking for ways to\nadvance those experiences,', 'start': 680.345, 'duration': 2.436}
+{'text': 'to make them even\nbetter for people.', 'start': 682.881, 'duration': 3.871}
+{'text': "We started, as Martin described,\nback in the early '80s", 'start': 686.852, 'duration': 4.871}
+{'text': 'when Steve Jobs was looking for\nthe best designer in the world', 'start': 691.823, 'duration': 4.338}
+{'text': 'and found Hartmut\nEsslinger, and said,', 'start': 696.261, 'duration': 3.003}
+{'text': 'Hartmut, I need you to\ndesign my computers.', 'start': 699.364, 'duration': 3.037}
+{'text': 'And Hartmut said,\nSteve, I will do that.', 'start': 702.501, 'duration': 2.035}
+{'text': 'But I will not work for you--', 'start': 704.636, 'duration': 1.902}
+{'text': 'which is why he moved\nhis company to California', 'start': 706.638, 'duration': 3.704}
+{'text': 'and set up right\nnext door to Apple', 'start': 710.442, 'duration': 1.902}
+{'text': "and designed most of Apple's\ncomputers in the early years,", 'start': 712.444, 'duration': 3.704}
+{'text': 'including the first Macs, the\nApple 2 that is shown here.', 'start': 716.248, 'duration': 5.372}
+{'text': 'And what you see\nhere is a revolution', 'start': 721.72, 'duration': 3.203}
+{'text': 'because it is leading a company\nthrough a transformation', 'start': 725.023, 'duration': 4.004}
+{'text': 'enabled by new technology and\nchanging customer expectations.', 'start': 729.127, 'duration': 5.006}
+{'text': "It's a revolution\nbecause she is smiling.", 'start': 734.233, 'duration': 7.04}
+{'text': 'She is filled with happiness\nas she uses her computer.', 'start': 741.373, 'duration': 4.604}
+{'text': 'Until this time, computers\nwere primarily work-related.', 'start': 746.077, 'duration': 4.505}
+{'text': 'They were industrial products\nor military products.', 'start': 750.682, 'duration': 3.104}
+{'text': 'And Steve Jobs and\nothers had the vision', 'start': 753.886, 'duration': 2.702}
+{'text': 'to transform an industry from\nbeing a business to a consumer', 'start': 756.688, 'duration': 6.607}
+{'text': 'product industry.', 'start': 763.395, 'duration': 2.169}
+{'text': "And as a result,\nit's now, perhaps,", 'start': 765.664, 'duration': 2.503}
+{'text': 'the most valuable\ncompany in the world.', 'start': 768.267, 'duration': 1.668}
+{'text': 'Technology is really not\nthat easily distinguishable', 'start': 773.906, 'duration': 2.769}
+{'text': 'from magic.', 'start': 776.775, 'duration': 1.134}
+{'text': "And magic makes us\nsmile, whether it's", 'start': 778.009, 'duration': 2.17}
+{'text': 'the computer or the experience\nthat this little boy.', 'start': 780.279, 'duration': 3.503}
+{'text': 'Because boys like to\ngo to Disney World too,', 'start': 783.882, 'duration': 2.536}
+{'text': 'being greeted by Mickey Mouse.', 'start': 786.518, 'duration': 3.37}
+{'text': 'And the challenge today is\nhow do we deliver a better', 'start': 789.988, 'duration': 2.469}
+{'text': 'experience for customers?', 'start': 792.557, 'duration': 2.937}
+{'text': 'And the economic\nadvantage is in being', 'start': 795.594, 'duration': 3.07}
+{'text': 'able to deliver that\nexperience in a way that', 'start': 798.764, 'duration': 3.27}
+{'text': 'is cost effective.', 'start': 802.134, 'duration': 1.768}
+{'text': "So this is recent\nwork that we've just", 'start': 804.002, 'duration': 3.904}
+{'text': 'launched or helped\nIkea launch, which', 'start': 808.006, 'duration': 3.704}
+{'text': 'is their new line\nof smart lighting.', 'start': 811.81, 'duration': 2.836}
+{'text': 'Smart lighting has existed\nfor several years now.', 'start': 814.746, 'duration': 4.405}
+{'text': 'But the challenge was how to\nmake it so simple and seamless', 'start': 819.251, 'duration': 5.605}
+{'text': 'that anybody could use\nit; and so low cost', 'start': 824.956, 'duration': 3.471}
+{'text': 'that, as Ikea talks\nabout it, it is', 'start': 828.527, 'duration': 2.068}
+{'text': 'designed for the many people.', 'start': 830.695, 'duration': 2.703}
+{'text': 'So that anybody can use\nit in a Western society.', 'start': 833.499, 'duration': 3.77}
+{'text': "It's low cost.", 'start': 837.369, 'duration': 0.667}
+{'text': 'It is very simple.', 'start': 838.136, 'duration': 1.569}
+{'text': 'It is very secure.', 'start': 839.805, 'duration': 1.602}
+{'text': 'It is lighting for anybody.', 'start': 841.507, 'duration': 1.601}
+{'text': "And of course, the measure of\nhow well you're doing today", 'start': 847.345, 'duration': 3.704}
+{'text': 'is the Net Promoter Score.', 'start': 851.149, 'duration': 2.336}
+{'text': 'And I trust that everybody here\nis familiar with Net Promoter', 'start': 853.585, 'duration': 2.536}
+{'text': 'Score.', 'start': 856.221, 'duration': 1.001}
+{'text': 'That is the ultimate\nmeasure for how good', 'start': 857.322, 'duration': 3.537}
+{'text': 'your customer experience is.', 'start': 860.959, 'duration': 2.569}
+{'text': 'And senior executives today are\nliving in fear of this score', 'start': 863.628, 'duration': 7.641}
+{'text': 'because their compensation or\ntheir future in the company', 'start': 871.369, 'duration': 5.272}
+{'text': "will depend on how well they're\ndoing on their Net Promoter", 'start': 876.741, 'duration': 3.004}
+{'text': 'Score.', 'start': 879.845, 'duration': 1.235}
+{'text': "It's a measure of, are your\ncustomers willing to promote", 'start': 881.18, 'duration': 5.104}
+{'text': 'or say they will\npromote your product,', 'start': 886.384, 'duration': 2.603}
+{'text': 'your brand, your\ncompany to other people?', 'start': 889.087, 'duration': 3.404}
+{'text': 'If that is high, your\ncompany will grow.', 'start': 892.591, 'duration': 3.236}
+{'text': "If it is low, you'll\nprobably go out of business.", 'start': 895.927, 'duration': 2.803}
+{'text': 'So the Net Promoter\nScore is super important.', 'start': 898.83, 'duration': 2.503}
+{'text': 'And this is a service that we\ndesigned with Saudi Telecom', 'start': 901.433, 'duration': 3.27}
+{'text': 'in Saudi Arabia.', 'start': 904.803, 'duration': 0.734}
+{'text': "It's called Jawwy.", 'start': 905.637, 'duration': 1.302}
+{'text': "It's a new telecom service.", 'start': 907.039, 'duration': 2.702}
+{'text': 'And apparently,\naccording to the CEO,', 'start': 909.841, 'duration': 2.269}
+{'text': "it's now got the highest Net\nPromoter Score of any telecom", 'start': 912.21, 'duration': 3.304}
+{'text': 'provider in the world.', 'start': 915.614, 'duration': 1.501}
+{'text': "So we're super proud of that.", 'start': 917.215, 'duration': 2.803}
+{'text': 'And what Jawwy is\nan example of is', 'start': 920.118, 'duration': 6.106}
+{'text': 'how design mediates technology.', 'start': 926.324, 'duration': 3.971}
+{'text': "Because what's on that\nscreen shown in the top right", 'start': 930.395, 'duration': 7.308}
+{'text': 'is only possible\nbecause the technology--', 'start': 937.803, 'duration': 3.804}
+{'text': 'the, about, 10 or 11\ntechnology providers', 'start': 941.707, 'duration': 3.569}
+{'text': 'that are enabling that\nto appear on the screen.', 'start': 945.377, 'duration': 3.103}
+{'text': 'And what design is doing, as\nshown in that orange layer', 'start': 948.58, 'duration': 4.571}
+{'text': 'beneath the products,\nis we are mediating.', 'start': 953.251, 'duration': 4.571}
+{'text': "We're coordinating.", 'start': 957.922, 'duration': 0.935}
+{'text': "We're channeling all\nof that technology", 'start': 958.957, 'duration': 2.068}
+{'text': 'so that that woman\nlooking at her phone', 'start': 961.125, 'duration': 2.97}
+{'text': 'gets a single unified experience\nof all of those technologies.', 'start': 964.195, 'duration': 3.538}
+{'text': "And that's what makes\nit work for her.", 'start': 967.833, 'duration': 1.502}
+{'text': "So that's frog.", 'start': 973.671, 'duration': 1.136}
+{'text': "And we're about 400\npeople globally.", 'start': 974.907, 'duration': 1.935}
+{'text': "We're in these studios\nacross the world--", 'start': 976.942, 'duration': 2.302}
+{'text': 'North America,\nEurope, India, China.', 'start': 979.344, 'duration': 2.536}
+{'text': "And now let's talk a little\nbit about the power of design.", 'start': 986.051, 'duration': 5.205}
+{'text': 'Hartmut Eslinger talked\nabout form follows emotion.', 'start': 991.356, 'duration': 3.67}
+{'text': 'That was a response to\nform follows function.', 'start': 995.127, 'duration': 3.703}
+{'text': 'And Hartmut recognized\nthat it was in motion.', 'start': 998.931, 'duration': 3.47}
+{'text': 'That was the goal of design.', 'start': 1002.501, 'duration': 1.902}
+{'text': 'Our job is to seduce.', 'start': 1004.503, 'duration': 3.169}
+{'text': "That's what we do.", 'start': 1007.772, 'duration': 1.635}
+{'text': 'We are licensed to seduce.', 'start': 1009.507, 'duration': 3.204}
+{'text': 'We design, we create products\nand services that you want.', 'start': 1012.811, 'duration': 6.74}
+{'text': "And there is, I'm\nsure, people here", 'start': 1019.651, 'duration': 3.604}
+{'text': 'who are lusting after the latest\niPhone, which we had nothing', 'start': 1023.355, 'duration': 3.469}
+{'text': 'to do with, but which\nfollows in the heritage', 'start': 1026.925, 'duration': 3.704}
+{'text': 'that frog and Hartmut helped\nto create some 40 years ago.', 'start': 1030.729, 'duration': 7.207}
+{'text': "So design can seduce,\nand that that's", 'start': 1038.036, 'duration': 3.07}
+{'text': 'why we get paid to do our jobs.', 'start': 1041.206, 'duration': 1.368}
+{'text': 'That is my job.', 'start': 1042.674, 'duration': 2.302}
+{'text': "Our job is to create good design\nthat improves our customers'", 'start': 1045.076, 'duration': 3.938}
+{'text': 'experience, that\nshape their behavior,', 'start': 1049.114, 'duration': 4.571}
+{'text': 'so that the business\nthat paid us grows.', 'start': 1053.785, 'duration': 4.504}
+{'text': "It's mercantile.", 'start': 1058.389, 'duration': 2.503}
+{'text': "It's commercial.", 'start': 1060.992, 'duration': 0.901}
+{'text': "But that's the\nbusiness that we're in.", 'start': 1061.993, 'duration': 1.769}
+{'text': 'That is the business of design.', 'start': 1063.862, 'duration': 1.468}
+{'text': "And design's reach\nhas spread very far.", 'start': 1068.566, 'duration': 3.104}
+{'text': 'If we go back 40 years, we were\ndesigning things like this--', 'start': 1071.77, 'duration': 4.438}
+{'text': 'objects.', 'start': 1076.308, 'duration': 0.4}
+{'text': 'And that was the\nprimary role of design.', 'start': 1079.577, 'duration': 3.571}
+{'text': 'Today, design has moved\nto the far top right hand', 'start': 1083.248, 'duration': 4.337}
+{'text': 'corner of my graph.', 'start': 1087.685, 'duration': 1.569}
+{'text': "And we're designing systems\nof things, or experiences.", 'start': 1089.354, 'duration': 5.005}
+{'text': "We've gone from designing\ndiscrete products to systems", 'start': 1094.459, 'duration': 3.237}
+{'text': 'of brand, product, and\nservices; and then also building', 'start': 1097.796, 'duration': 3.67}
+{'text': 'the capabilities\nwithin the enterprise', 'start': 1101.566, 'duration': 2.203}
+{'text': 'to continue their\ndesign and development.', 'start': 1103.869, 'duration': 3.136}
+{'text': "That's the role of design today.", 'start': 1107.105, 'duration': 1.235}
+{'text': 'And one way to\nthink about that is', 'start': 1112.01, 'duration': 4.337}
+{'text': "to think that, ultimately, we're\ndesigning customer experience.", 'start': 1116.447, 'duration': 6.107}
+{'text': 'And back when Hartmut was\ndesigning the original Mac,', 'start': 1122.654, 'duration': 5.005}
+{'text': 'he was designing the\ncustom experience', 'start': 1127.759, 'duration': 1.969}
+{'text': 'of a discrete product.', 'start': 1129.828, 'duration': 1.935}
+{'text': "Today, we're designing\nthe customer experience", 'start': 1131.864, 'duration': 2.435}
+{'text': 'of an entire company.', 'start': 1134.399, 'duration': 1.535}
+{'text': 'And by customer experience, we\nmean all of the interactions', 'start': 1136.034, 'duration': 3.336}
+{'text': 'and impressions that people\nhave with an organization', 'start': 1139.47, 'duration': 2.904}
+{'text': 'over time--', 'start': 1142.474, 'duration': 1.334}
+{'text': 'shaping their opinions and\nin turn, the economic value', 'start': 1143.908, 'duration': 2.97}
+{'text': 'of the brand.', 'start': 1146.978, 'duration': 2.536}
+{'text': 'And those interactions can be\nthrough many different touch', 'start': 1149.614, 'duration': 2.303}
+{'text': 'points-- through web, through\nmobile, through in-store,', 'start': 1152.017, 'duration': 2.602}
+{'text': 'through call centers,\nthrough physical products,', 'start': 1154.719, 'duration': 2.936}
+{'text': 'through buildings,\nthrough spaces,', 'start': 1157.755, 'duration': 2.403}
+{'text': 'all of the interactions\nwith the brand.', 'start': 1160.258, 'duration': 3.57}
+{'text': 'And those impressions can\nbe deliberately designed.', 'start': 1163.928, 'duration': 4.238}
+{'text': 'Buy the product.', 'start': 1168.266, 'duration': 1.402}
+{'text': "But more often today,\nlet's think back", 'start': 1169.768, 'duration': 2.603}
+{'text': 'to that social network,\nthe mobile phone.', 'start': 1172.471, 'duration': 2.469}
+{'text': 'More often today,\nthose impressions', 'start': 1175.04, 'duration': 1.634}
+{'text': 'come from friends and families\nand anecdotes from colleagues,', 'start': 1176.774, 'duration': 4.739}
+{'text': 'from earned and\nunearned media, and PR.', 'start': 1181.613, 'duration': 3.503}
+{'text': "That's where we hear about the\nproducts and services today--", 'start': 1185.216, 'duration': 3.27}
+{'text': 'from our Facebook\nwall, from our feed.', 'start': 1188.586, 'duration': 3.137}
+{'text': "That's what tells us what our\nfriends are talking about.", 'start': 1191.823, 'duration': 2.37}
+{'text': 'And often, we care\nabout the feedback', 'start': 1197.095, 'duration': 2.202}
+{'text': "we're getting beyond\nthe moment of purchase,", 'start': 1199.397, 'duration': 1.869}
+{'text': 'but throughout the ownership\nand consumption of that product.', 'start': 1201.366, 'duration': 4.671}
+{'text': "That's the customer experience.", 'start': 1206.137, 'duration': 1.602}
+{'text': "And that's what we have to\ndesign so that people love", 'start': 1207.839, 'duration': 4.804}
+{'text': 'using it, so that\npeople recommend it,', 'start': 1212.743, 'duration': 3.537}
+{'text': 'so that you go back\nand buy it again,', 'start': 1216.38, 'duration': 2.237}
+{'text': 'and so that your\nfriends buy it too.', 'start': 1218.717, 'duration': 3.203}
+{'text': "That's what we do.", 'start': 1222.02, 'duration': 2.169}
+{'text': 'Now AI adds a new dimension\nto customer experience.', 'start': 1224.289, 'duration': 6.639}
+{'text': "And that's what we\nwant to talk about.", 'start': 1231.028, 'duration': 1.97}
+{'text': 'AI enables\nmulti-dimensional design.', 'start': 1233.098, 'duration': 4.071}
+{'text': 'Let me explain.', 'start': 1241.172, 'duration': 1.168}
+{'text': "So, here's a design for a\ndigital experience for AI,", 'start': 1242.44, 'duration': 7.275}
+{'text': 'which is a large insurance\ncompany, particularly in Asia.', 'start': 1249.815, 'duration': 3.603}
+{'text': 'And we have helped\nto lead them through', 'start': 1253.518, 'duration': 2.335}
+{'text': 'a digital transformation.', 'start': 1255.953, 'duration': 2.036}
+{'text': 'And when you look at that\nscreen, we have x and y.', 'start': 1258.089, 'duration': 4.739}
+{'text': 'And that changes over time.', 'start': 1262.928, 'duration': 2.803}
+{'text': "But today, there is a new access\nin design, and that's you.", 'start': 1265.831, 'duration': 5.672}
+{'text': 'And by you, I mean you.', 'start': 1271.603, 'duration': 1.801}
+{'text': "So, what's happening is that\nscreen knows who you are.", 'start': 1273.504, 'duration': 5.806}
+{'text': 'And they know a lot about you.', 'start': 1279.41, 'duration': 2.47}
+{'text': 'They know your demographics.', 'start': 1281.98, 'duration': 1.801}
+{'text': 'They know how you\nare interacting', 'start': 1283.881, 'duration': 1.502}
+{'text': 'with the screen in the moment.', 'start': 1285.483, 'duration': 3.337}
+{'text': 'They know, based on\nhistory, how people', 'start': 1288.92, 'duration': 2.402}
+{'text': 'like you are going to\nbehave in the future.', 'start': 1291.423, 'duration': 3.469}
+{'text': 'And they can use that knowledge\nto make your experience better', 'start': 1294.992, 'duration': 3.104}
+{'text': 'and to guide you in\ncertain directions.', 'start': 1298.196, 'duration': 4.071}
+{'text': 'So we look at AI as\na tool that designers', 'start': 1302.367, 'duration': 4.371}
+{'text': 'use to make the\nexperience of customers', 'start': 1306.838, 'duration': 2.669}
+{'text': 'even more convenient, even more\nseamless, even more emotionally', 'start': 1309.607, 'duration': 4.638}
+{'text': 'connecting.', 'start': 1314.345, 'duration': 0.868}
+{'text': "It's great.", 'start': 1319.517, 'duration': 1.802}
+{'text': 'Why would you not\nwant to do that?', 'start': 1321.419, 'duration': 3.404}
+{'text': 'And here some three simple\nways that we can use', 'start': 1324.923, 'duration': 3.336}
+{'text': 'AI in our design.', 'start': 1328.359, 'duration': 2.436}
+{'text': 'We can use AI to develop\nnew ways to interact.', 'start': 1330.896, 'duration': 3.57}
+{'text': 'We can interact easily today\nthrough speech or text,', 'start': 1334.566, 'duration': 3.804}
+{'text': 'for example.', 'start': 1338.47, 'duration': 1.601}
+{'text': 'And AI can help us to understand\nor help a machine to understand', 'start': 1340.171, 'duration': 4.004}
+{'text': 'what that speech or text means.', 'start': 1344.275, 'duration': 4.005}
+{'text': 'We can simplify the experience\nby anticipating what', 'start': 1348.38, 'duration': 4.837}
+{'text': 'is going to be easier for you.', 'start': 1353.317, 'duration': 2.136}
+{'text': 'So we can make\njudgments on the fly.', 'start': 1355.553, 'duration': 1.935}
+{'text': 'I say, we, I mean, the machine\ncan make judgments on the fly', 'start': 1357.588, 'duration': 6.373}
+{'text': 'as to what is going to be easier\nfor you to navigate and offer', 'start': 1364.061, 'duration': 3.371}
+{'text': 'those up for you.', 'start': 1367.532, 'duration': 2.836}
+{'text': 'We can make things\nmore relevant.', 'start': 1370.468, 'duration': 1.902}
+{'text': 'And again, I say we, I\nmean the machine can make', 'start': 1372.47, 'duration': 2.036}
+{'text': 'things more relevant to you.', 'start': 1374.606, 'duration': 1.501}
+{'text': 'But optimizing the offers by\nenticing you with things by', 'start': 1376.207, 'duration': 4.205}
+{'text': 'offers that you are\nmore likely to buy.', 'start': 1380.512, 'duration': 3.636}
+{'text': 'And all of this will\nhappen seamlessly.', 'start': 1384.248, 'duration': 2.737}
+{'text': "And generally, you're not\naware that it's happening.", 'start': 1387.085, 'duration': 2.269}
+{'text': "And it's been enabled by that\nclever algorithm that was first", 'start': 1392.189, 'duration': 8.243}
+{'text': 'written about in 2006.', 'start': 1400.532, 'duration': 3.403}
+{'text': 'Because suddenly, once we\nintroduce deep learning,', 'start': 1404.035, 'duration': 3.771}
+{'text': 'then the ability to recognize\nspeech, for example,', 'start': 1407.906, 'duration': 3.97}
+{'text': 'went from a high error rate to\na very much lower error rate.', 'start': 1411.976, 'duration': 5.273}
+{'text': 'So suddenly, speech\nrecognition became practical.', 'start': 1417.349, 'duration': 3.236}
+{'text': 'It was a breakthrough.', 'start': 1420.685, 'duration': 1.502}
+{'text': 'It was unanticipated.', 'start': 1422.287, 'duration': 2.168}
+{'text': 'It was a surprise\nthat it worked well.', 'start': 1424.555, 'duration': 3.27}
+{'text': 'And it continues to surprise\nus that it works it well.', 'start': 1427.925, 'duration': 2.77}
+{'text': 'But it does.', 'start': 1430.795, 'duration': 2.402}
+{'text': 'And so, this leads to all\nsorts of possibilities.', 'start': 1433.297, 'duration': 2.236}
+{'text': "And I'm not going to show\nyou any current clock client", 'start': 1435.633, 'duration': 2.503}
+{'text': 'work, because that would\nviolate some confidentiality.', 'start': 1438.236, 'duration': 5.505}
+{'text': "So I'm going to show\nyou some examples", 'start': 1443.841, 'duration': 1.802}
+{'text': 'that different frogs in\nour different studios', 'start': 1445.744, 'duration': 2.802}
+{'text': 'around the world have\ncreated to demonstrate', 'start': 1448.647, 'duration': 2.001}
+{'text': "what they're working on\nin a more abstract way.", 'start': 1450.749, 'duration': 3.169}
+{'text': 'So we can create systems\nfor conversational health.', 'start': 1454.018, 'duration': 7.274}
+{'text': 'We can streamline access\nto complex services', 'start': 1461.392, 'duration': 3.303}
+{'text': 'and support with flows as simple\nas just using a WhatsApp chat.', 'start': 1464.795, 'duration': 5.272}
+{'text': 'And so, this can be our health\ncare experience in the future.', 'start': 1470.167, 'duration': 5.239}
+{'text': 'Or at least, how we\naccess health insurance,', 'start': 1475.506, 'duration': 3.137}
+{'text': 'perhaps, or our car insurance.', 'start': 1478.743, 'duration': 4.672}
+{'text': "And so you're having a\nconversation with a device.", 'start': 1489.12, 'duration': 3.67}
+{'text': 'And the device understands you\nbecause it understands text', 'start': 1492.89, 'duration': 4.305}
+{'text': 'and it anticipates your needs.', 'start': 1497.295, 'duration': 2.802}
+{'text': 'And then it offers you\nthings that it thinks', 'start': 1500.198, 'duration': 2.369}
+{'text': 'will be more attractive to you.', 'start': 1502.667, 'duration': 2.102}
+{'text': "And it's fun and simple to use.", 'start': 1509.473, 'duration': 1.469}
+{'text': 'And there you go.', 'start': 1517.648, 'duration': 0.968}
+{'text': 'You just bought\nitself some insurance.', 'start': 1518.716, 'duration': 3.904}
+{'text': "Here's an example\nthat we have worked on", 'start': 1522.72, 'duration': 3.236}
+{'text': 'with a financial\nservice company.', 'start': 1526.057, 'duration': 1.268}
+{'text': 'The financial service\ncompany discovered', 'start': 1530.261, 'duration': 1.668}
+{'text': 'that people were leaving their\nwebsite before they completed', 'start': 1532.029, 'duration': 5.539}
+{'text': 'a transaction, and that\nwas a problem for them.', 'start': 1537.669, 'duration': 5.105}
+{'text': "It was partly a problem\nbecause they weren't completing", 'start': 1542.874, 'duration': 2.869}
+{'text': 'the transaction,\nbut it was mainly', 'start': 1545.843, 'duration': 1.735}
+{'text': 'a problem because of\ntheir next action, which', 'start': 1547.678, 'duration': 3.504}
+{'text': 'was to pick up the phone\nand call customer service.', 'start': 1551.282, 'duration': 3.203}
+{'text': 'And customer service\nis very expensive.', 'start': 1554.585, 'duration': 2.803}
+{'text': 'So they asked us to look at ways\nthat we could improve that--', 'start': 1557.488, 'duration': 4.939}
+{'text': 'make it easier for the\nconsumer, for the customer--', 'start': 1562.527, 'duration': 3.87}
+{'text': 'and also reduce their\ncosts by having less load', 'start': 1566.497, 'duration': 3.237}
+{'text': 'on their customer service lines.', 'start': 1569.834, 'duration': 2.769}
+{'text': 'So this is a very simple model.', 'start': 1572.703, 'duration': 2.57}
+{'text': "There's questions\naround allocation.", 'start': 1575.373, 'duration': 1.835}
+{'text': 'If you have investments,\nyou may want', 'start': 1577.308, 'duration': 2.102}
+{'text': "to think about how you're\ngoing to allocate money.", 'start': 1579.51, 'duration': 2.636}
+{'text': "There's questions\naround transfers--", 'start': 1582.246, 'duration': 1.669}
+{'text': "how you're going to transfer\nmoney from one fund to another.", 'start': 1584.015, 'duration': 4.637}
+{'text': 'And questions around\nrebalancing-- how', 'start': 1588.752, 'duration': 1.503}
+{'text': 'are you going to\nrebalance your fund.', 'start': 1590.355, 'duration': 1.968}
+{'text': 'And for those of you with\n401(k)s or investments,', 'start': 1592.423, 'duration': 4.104}
+{'text': 'you are probably familiar\nwith these challenges.', 'start': 1596.627, 'duration': 4.038}
+{'text': 'What we discovered was that\ncustomers were getting partway', 'start': 1600.765, 'duration': 4.204}
+{'text': 'through one of these operations,\nand then they were giving up.', 'start': 1605.069, 'duration': 4.271}
+{'text': 'It was too difficult for them.', 'start': 1609.44, 'duration': 1.335}
+{'text': "Or they weren't quite\nsure what to do,", 'start': 1610.875, 'duration': 1.502}
+{'text': 'and they were phoning\ncustomer service.', 'start': 1612.477, 'duration': 2.402}
+{'text': 'And we looked into it.', 'start': 1614.979, 'duration': 1.034}
+{'text': 'And we discovered, using\na deep learning network,', 'start': 1616.114, 'duration': 3.57}
+{'text': 'that we could\ncharacterize the behavior', 'start': 1619.784, 'duration': 2.97}
+{'text': 'of different customers.', 'start': 1622.854, 'duration': 1.868}
+{'text': 'And then we could,\non the fly, modify', 'start': 1624.822, 'duration': 3.47}
+{'text': 'the web experience,\nthe online experience,', 'start': 1628.392, 'duration': 2.17}
+{'text': 'to make it easier for them.', 'start': 1630.662, 'duration': 2.002}

@@ -1,0 +1,853 @@
+{'text': 'thank you so my my goal today is to', 'start': 12.769, 'duration': 8.071}
+{'text': 'outline a few ideas that I have been', 'start': 16.97, 'duration': 6.53}
+{'text': 'playing with in this area of smarts', 'start': 20.84, 'duration': 7.46}
+{'text': 'studies and how is the nature of our', 'start': 23.5, 'duration': 8.41}
+{'text': 'studies as an artifact and also how we', 'start': 28.3, 'duration': 6.689}
+{'text': 'go about designing and planning them as', 'start': 31.91, 'duration': 6.96}
+{'text': 'processes how are they under going very', 'start': 34.989, 'duration': 7.66}
+{'text': 'very fundamental changes due to the', 'start': 38.87, 'duration': 8.1}
+{'text': 'access of technologies in order to do', 'start': 42.649, 'duration': 8.43}
+{'text': 'that I will hopefully go through this', 'start': 46.97, 'duration': 10.17}
+{'text': 'agenda now in in all fairness I very', 'start': 51.079, 'duration': 10.291}
+{'text': 'rarely stick to an agenda so we may get', 'start': 57.14, 'duration': 6.81}
+{'text': 'through half of this and then we may', 'start': 61.37, 'duration': 6.63}
+{'text': 'talk about other issues so feel free to', 'start': 63.95, 'duration': 8.94}
+{'text': 'interrupt me at any time I enjoy getting', 'start': 68.0, 'duration': 7.11}
+{'text': 'questions as we go through the', 'start': 72.89, 'duration': 4.679}
+{'text': 'presentation rather than trying to keep', 'start': 75.11, 'duration': 9.24}
+{'text': "everything to the end so it's important", 'start': 77.569, 'duration': 9.39}
+{'text': 'that I share with you a little bit about', 'start': 84.35, 'duration': 5.899}
+{'text': 'how did I arrived at this topic because', 'start': 86.959, 'duration': 7.62}
+{'text': 'how I arrived at it plays a quite', 'start': 90.249, 'duration': 7.66}
+{'text': 'critical role in how I see things my', 'start': 94.579, 'duration': 5.25}
+{'text': 'original academic training and', 'start': 97.909, 'duration': 5.57}
+{'text': 'everything proposed from a school of', 'start': 99.829, 'duration': 6.96}
+{'text': 'management where I was focused on', 'start': 103.479, 'duration': 6.21}
+{'text': 'learning how do these large information', 'start': 106.789, 'duration': 6.15}
+{'text': 'technologies transform organizations and', 'start': 109.689, 'duration': 6.91}
+{'text': 'very very specifically how do they', 'start': 112.939, 'duration': 6.301}
+{'text': 'transform organizations in the ability', 'start': 116.599, 'duration': 6.57}
+{'text': 'of the organization to move information', 'start': 119.24, 'duration': 8.039}
+{'text': 'and knowledge for the purposes of high', 'start': 123.169, 'duration': 8.311}
+{'text': 'and innovation so how were individuals', 'start': 127.279, 'duration': 8.371}
+{'text': 'using email how people using intranets', 'start': 131.48, 'duration': 7.89}
+{'text': 'to really drive how did the organization', 'start': 135.65, 'duration': 8.42}
+{'text': 'innovate and as I began to explore a', 'start': 139.37, 'duration': 7.199}
+{'text': 'fair amount of organizing', 'start': 144.07, 'duration': 7.83}
+{'text': 'I realized very quickly that the role of', 'start': 146.569, 'duration': 8.4}
+{'text': 'Technology was not that important you', 'start': 151.9, 'duration': 4.78}
+{'text': 'could have the greatest intranet you', 'start': 154.969, 'duration': 5.011}
+{'text': 'could have the greatest technology you', 'start': 156.68, 'duration': 5.669}
+{'text': 'throw it in the wrong organization and', 'start': 159.98, 'duration': 4.97}
+{'text': "it wouldn't make a damn difference and", 'start': 162.349, 'duration': 5.491}
+{'text': 'organizations that just went out and', 'start': 164.95, 'duration': 6.55}
+{'text': 'spent a lot of money would never get the', 'start': 167.84, 'duration': 7.59}
+{'text': 'results then a colleague of mine up told', 'start': 171.5, 'duration': 6.419}
+{'text': "me Kevin why don't you examine the", 'start': 175.43, 'duration': 6.739}
+{'text': 'public sector I said why do I even care', 'start': 177.919, 'duration': 8.581}
+{'text': 'well the public sector on average', 'start': 182.169, 'duration': 8.171}
+{'text': 'depends twice or three times the amount', 'start': 186.5, 'duration': 6.949}
+{'text': 'that the private sector does on', 'start': 190.34, 'duration': 6.959}
+{'text': 'technology think about that for a second', 'start': 193.449, 'duration': 5.831}
+{'text': 'there are how much money the department', 'start': 197.299, 'duration': 5.55}
+{'text': 'of defense spends on technology think', 'start': 199.28, 'duration': 6.12}
+{'text': 'about any other department they spend a', 'start': 202.849, 'duration': 6.09}
+{'text': "lot of money on technology as you'll see", 'start': 205.4, 'duration': 8.729}
+{'text': 'later on in my slides the public sector', 'start': 208.939, 'duration': 8.58}
+{'text': 'has a hopeless record at getting any', 'start': 214.129, 'duration': 7.61}
+{'text': 'technology project completed on time on', 'start': 217.519, 'duration': 7.411}
+{'text': 'Project and there are a lot of reasons', 'start': 221.739, 'duration': 7.301}
+{'text': 'why so I began playing around with the', 'start': 224.93, 'duration': 7.649}
+{'text': 'role of Technology in the public sector', 'start': 229.04, 'duration': 8.969}
+{'text': 'and then about three years back we saw', 'start': 232.579, 'duration': 8.94}
+{'text': 'this big wave and the wave came in terms', 'start': 238.009, 'duration': 6.241}
+{'text': 'of about three years back you had', 'start': 241.519, 'duration': 5.761}
+{'text': 'unprecedented unprecedented mobile', 'start': 244.25, 'duration': 7.65}
+{'text': 'access and a lord of the application', 'start': 247.28, 'duration': 7.26}
+{'text': 'platforms and a lot of the development', 'start': 251.9, 'duration': 6.799}
+{'text': 'environments was stable enough to', 'start': 254.54, 'duration': 8.999}
+{'text': 'Anchorage everyday citizens to begin to', 'start': 258.699, 'duration': 8.65}
+{'text': 'develop apps and you have platforms and', 'start': 263.539, 'duration': 8.37}
+{'text': 'markets in place where everyday citizens', 'start': 267.349, 'duration': 8.43}
+{'text': 'could take technology and pick on their', 'start': 271.909, 'duration': 7.241}
+{'text': 'own entrepreneurs that wave', 'start': 275.779, 'duration': 6.701}
+{'text': 'to me though the most critical element', 'start': 279.15, 'duration': 5.49}
+{'text': 'of that is how is that going to change', 'start': 282.48, 'duration': 5.31}
+{'text': 'us society how is that going to impact', 'start': 284.64, 'duration': 6.77}
+{'text': 'how we do things and so for the last', 'start': 287.79, 'duration': 7.17}
+{'text': "about three years I've been focused on", 'start': 291.41, 'duration': 9.37}
+{'text': 'the role of Technology in how does it', 'start': 294.96, 'duration': 8.16}
+{'text': 'enable us to change our governance', 'start': 300.78, 'duration': 5.1}
+{'text': 'process how does it enable us to change', 'start': 303.12, 'duration': 5.84}
+{'text': 'how we plan and how we design our', 'start': 305.88, 'duration': 7.02}
+{'text': 'societies so I have a word up that', 'start': 308.96, 'duration': 6.34}
+{'text': 'challenge gov how many of you have heard', 'start': 312.9, 'duration': 12.62}
+{'text': 'of challenge God one two three four five', 'start': 315.3, 'duration': 10.22}
+{'text': "so slowly we'll get more if you have an", 'start': 326.3, 'duration': 5.08}
+{'text': 'order challenge challenge.gov going', 'start': 329.46, 'duration': 4.41}
+{'text': "you're about go online and look up", 'start': 331.38, 'duration': 5.37}
+{'text': 'challenge our God so challenge.gov came', 'start': 333.87, 'duration': 6.23}
+{'text': 'into operation a few years back and', 'start': 336.75, 'duration': 6.75}
+{'text': "today it's one of the most vibrant crowd", 'start': 340.1, 'duration': 7.33}
+{'text': 'sourcing platforms for federal agencies', 'start': 343.5, 'duration': 8.97}
+{'text': 'to involve everyday citizens the private', 'start': 347.43, 'duration': 8.81}
+{'text': 'sector the NGO space to solve problems', 'start': 352.47, 'duration': 8.82}
+{'text': 'okay through a grant from IBM i was able', 'start': 356.24, 'duration': 9.49}
+{'text': 'to examine the range of competitions', 'start': 361.29, 'duration': 7.71}
+{'text': 'that will run on these platforms talk to', 'start': 365.73, 'duration': 8.07}
+{'text': 'app developers talk to people who hosted', 'start': 369.0, 'duration': 8.7}
+{'text': "these these challenges and i'll share a", 'start': 373.8, 'duration': 7.71}
+{'text': 'few of those results later on in terms', 'start': 377.7, 'duration': 9.02}
+{'text': 'of information systems and how I see', 'start': 381.51, 'duration': 8.46}
+{'text': 'governance and smarts cities as i know', 'start': 386.72, 'duration': 6.37}
+{'text': 'that early on there are two distinct', 'start': 389.97, 'duration': 6.33}
+{'text': 'ways i operate and fade these things one', 'start': 393.09, 'duration': 5.76}
+{'text': 'is as the artifact okay so we all', 'start': 396.3, 'duration': 9.02}
+{'text': 'interact with things a city a town', 'start': 398.85, 'duration': 9.9}
+{'text': 'campus can be viewed as a noun as a', 'start': 405.32, 'duration': 8.14}
+{'text': 'thing okay and we can decide how we', 'start': 408.75, 'duration': 8.789}
+{'text': 'these things and for about a year I had', 'start': 413.46, 'duration': 6.6}
+{'text': 'the pleasure of having an appointment in', 'start': 417.539, 'duration': 5.19}
+{'text': 'a school of architecture where I had a', 'start': 420.06, 'duration': 5.37}
+{'text': 'lot of colleagues who were interested in', 'start': 422.729, 'duration': 5.94}
+{'text': 'the thing and how does the thing', 'start': 425.43, 'duration': 8.609}
+{'text': "interact with its environment in today's", 'start': 428.669, 'duration': 9.81}
+{'text': "world we don't have to depend on others", 'start': 434.039, 'duration': 8.791}
+{'text': 'to create things that have longevity in', 'start': 438.479, 'duration': 9.151}
+{'text': 'US cities prior to the technology', 'start': 442.83, 'duration': 8.429}
+{'text': 'revolution okay most of the things that', 'start': 447.63, 'duration': 6.24}
+{'text': 'were designed was most of them not all', 'start': 451.259, 'duration': 5.541}
+{'text': 'of them most of them originated out of', 'start': 453.87, 'duration': 7.7}
+{'text': 'central plans out of central structures', 'start': 456.8, 'duration': 8.41}
+{'text': 'today the nature of how we design things', 'start': 461.57, 'duration': 6.7}
+{'text': 'and install them in our environments has', 'start': 465.21, 'duration': 7.889}
+{'text': 'changed the process of how we engage the', 'start': 468.27, 'duration': 8.16}
+{'text': 'community in the design process for our', 'start': 473.099, 'duration': 5.94}
+{'text': 'studies is undergoing a lot of change as', 'start': 476.43, 'duration': 5.01}
+{'text': "well and I'll highlight a few examples", 'start': 479.039, 'duration': 7.35}
+{'text': 'later on the the role of Technology', 'start': 481.44, 'duration': 8.729}
+{'text': 'today one of the most interesting', 'start': 486.389, 'duration': 6.87}
+{'text': "aspects of it is today we don't have to", 'start': 490.169, 'duration': 6.75}
+{'text': 'guess about the future to a large degree', 'start': 493.259, 'duration': 6.63}
+{'text': 'we do not have to guess as an example', 'start': 496.919, 'duration': 4.56}
+{'text': 'how many of you have played around with', 'start': 499.889, 'duration': 8.731}
+{'text': 'agent based models 12 today right if if', 'start': 501.479, 'duration': 8.731}
+{'text': 'you began playing with agent based', 'start': 508.62, 'duration': 5.4}
+{'text': "models let's say five years back they", 'start': 510.21, 'duration': 7.11}
+{'text': 'were very very hard to work with today', 'start': 514.02, 'duration': 5.639}
+{'text': 'they are easier to work with five years', 'start': 517.32, 'duration': 5.49}
+{'text': 'back we in the research community', 'start': 519.659, 'duration': 6.271}
+{'text': 'struggle with how to validate them how', 'start': 522.81, 'duration': 6.589}
+{'text': 'to appreciate them so on so forth today', 'start': 525.93, 'duration': 6.92}
+{'text': 'the use of agent-based models and', 'start': 529.399, 'duration': 8.051}
+{'text': 'simulation environment a part of parcel', 'start': 532.85, 'duration': 8.08}
+{'text': 'of most design elements when you think', 'start': 537.45, 'duration': 6.06}
+{'text': 'about planning cities and especially', 'start': 540.93, 'duration': 4.959}
+{'text': 'smart cities so I get', 'start': 543.51, 'duration': 8.679}
+{'text': 'with that background to basically give', 'start': 545.889, 'duration': 10.68}
+{'text': 'you my lengths of how I view these', 'start': 552.189, 'duration': 7.77}
+{'text': "problems so it's a very very engineering", 'start': 556.569, 'duration': 11.85}
+{'text': 'is driven lens so most of you pretty', 'start': 559.959, 'duration': 14.43}
+{'text': 'much know everything on this slide we', 'start': 568.419, 'duration': 11.431}
+{'text': 'are moving very very radically towards', 'start': 574.389, 'duration': 12.81}
+{'text': 'mega cities as a dominant structure we', 'start': 579.85, 'duration': 12.149}
+{'text': 'have large large cities that are being', 'start': 587.199, 'duration': 9.0}
+{'text': 'constructed being built and most of them', 'start': 591.999, 'duration': 7.14}
+{'text': 'so the last point is probably the most', 'start': 596.199, 'duration': 6.32}
+{'text': 'important one most of our future mega', 'start': 599.139, 'duration': 6.901}
+{'text': 'cities are not in places we know a lot', 'start': 602.519, 'duration': 8.62}
+{'text': "about we don't know a lot about a lot of", 'start': 606.04, 'duration': 7.68}
+{'text': 'these areas in terms of infrastructures', 'start': 611.139, 'duration': 5.76}
+{'text': 'in terms of policy development in terms', 'start': 613.72, 'duration': 5.88}
+{'text': 'of governance structures and many of', 'start': 616.899, 'duration': 6.331}
+{'text': 'these places are highly unstable as well', 'start': 619.6, 'duration': 6.649}
+{'text': 'so if you look at', 'start': 623.23, 'duration': 3.019}
+{'text': 'if you look at various numbers okay we', 'start': 631.98, 'duration': 12.19}
+{'text': 'are about 7 billion individuals in the', 'start': 639.579, 'duration': 9.091}
+{'text': 'world 1 billion cars and you can just go', 'start': 644.17, 'duration': 7.609}
+{'text': 'online and get all the numbers you need', 'start': 648.67, 'duration': 8.789}
+{'text': 'most dense mega cities and you can see', 'start': 651.779, 'duration': 7.841}
+{'text': 'them they are all getting concentrated', 'start': 657.459, 'duration': 13.171}
+{'text': 'in a few areas okay this is all data if', 'start': 659.62, 'duration': 14.01}
+{'text': 'you were to charge mega cities in 20-25', 'start': 670.63, 'duration': 5.519}
+{'text': 'if you trust predictions this is what', 'start': 673.63, 'duration': 5.009}
+{'text': 'the world would look like this is not my', 'start': 676.149, 'duration': 6.601}
+{'text': "prediction this is somebody else's but", 'start': 678.639, 'duration': 7.2}
+{'text': 'you notice a few trends you see things', 'start': 682.75, 'duration': 5.569}
+{'text': 'happen', 'start': 685.839, 'duration': 2.48}
+{'text': 'if you look at the literature and the', 'start': 697.379, 'duration': 8.73}
+{'text': 'practice on smart cities about', 'start': 702.119, 'duration': 6.81}
+{'text': 'ninety-nine point nine percent of it is', 'start': 706.109, 'duration': 7.44}
+{'text': "focused on those large bubbles that I've", 'start': 708.929, 'duration': 9.71}
+{'text': 'talked about or I showed on the map or', 'start': 713.549, 'duration': 10.71}
+{'text': 'the major mega cities of today if you', 'start': 718.639, 'duration': 8.41}
+{'text': 'think about New York London so on and so', 'start': 724.259, 'duration': 5.04}
+{'text': 'forth a lot of the literature is around', 'start': 727.049, 'duration': 7.97}
+{'text': 'that and what I want to do is give you a', 'start': 729.299, 'duration': 12.11}
+{'text': 'vision this is an idea on what I think', 'start': 735.019, 'duration': 13.0}
+{'text': 'magus a smart city needs to have and we', 'start': 741.409, 'duration': 10.57}
+{'text': 'will go through each one in some detail', 'start': 748.019, 'duration': 6.54}
+{'text': 'throughout this presentation but i just', 'start': 751.979, 'duration': 5.991}
+{'text': 'want to throw this up here for a minute', 'start': 754.559, 'duration': 3.411}
+{'text': 'does anybody have anything to add to', 'start': 758.929, 'duration': 6.91}
+{'text': 'this anybody disagree and if he wants to', 'start': 761.279, 'duration': 8.81}
+{'text': 'change something just as with any', 'start': 765.839, 'duration': 7.2}
+{'text': 'outline this is half wrong and half', 'start': 770.089, 'duration': 9.18}
+{'text': 'right yes sir', 'start': 773.039, 'duration': 6.23}
+{'text': "okay let me go back why well there's a", 'start': 780.9, 'duration': 19.42}
+{'text': 'very easy answer to that and a more', 'start': 797.86, 'duration': 6.11}
+{'text': 'difficult answer the easy answer is the', 'start': 800.32, 'duration': 7.29}
+{'text': 'reproduction rate is very high in India', 'start': 803.97, 'duration': 7.32}
+{'text': 'in China I mean I mean people are', 'start': 807.61, 'duration': 5.94}
+{'text': 'reproducing at a very very high rate', 'start': 811.29, 'duration': 3.81}
+{'text': 'compared to the rest of the world', 'start': 813.55, 'duration': 6.21}
+{'text': 'especially India China is not so the the', 'start': 815.1, 'duration': 9.31}
+{'text': 'other reason that people attribute to', 'start': 819.76, 'duration': 9.57}
+{'text': 'large population growth are high level', 'start': 824.41, 'duration': 8.88}
+{'text': 'of education you know the role of women', 'start': 829.33, 'duration': 6.96}
+{'text': 'in in society I mean there are a number', 'start': 833.29, 'duration': 7.1}
+{'text': 'of reasons that drive population growth', 'start': 836.29, 'duration': 12.81}
+{'text': 'but so I outlined this vision and', 'start': 840.39, 'duration': 12.33}
+{'text': 'basically this vision grew out of a', 'start': 849.1, 'duration': 6.63}
+{'text': 'whole series of meetings with the Lord', 'start': 852.72, 'duration': 7.51}
+{'text': 'of city managers and city planners where', 'start': 855.73, 'duration': 7.86}
+{'text': 'I went to them and ask them when you', 'start': 860.23, 'duration': 6.54}
+{'text': 'hear the word smart city what comes to', 'start': 863.59, 'duration': 6.93}
+{'text': 'mind okay now let me give you an', 'start': 866.77, 'duration': 8.76}
+{'text': 'illustration of why the word smart city', 'start': 870.52, 'duration': 9.93}
+{'text': 'gets interesting this is from IBM so IBM', 'start': 875.53, 'duration': 9.33}
+{'text': 'did a study in 2011 and they try to', 'start': 880.45, 'duration': 9.9}
+{'text': 'calculate the pain of commuter fields in', 'start': 884.86, 'duration': 12.74}
+{'text': 'a given steady so you see mexico city', 'start': 890.35, 'duration': 10.71}
+{'text': 'beijing I Roby Johannesburg so on so', 'start': 897.6, 'duration': 8.65}
+{'text': 'forth and then you have the other cities', 'start': 901.06, 'duration': 9.56}
+{'text': 'on the other side having lived in', 'start': 906.25, 'duration': 7.769}
+{'text': "Chicago for nine years I'm not sure a 25", 'start': 910.62, 'duration': 6.1}
+{'text': "is accurate but you know that's what", 'start': 914.019, 'duration': 5.161}
+{'text': 'they think it is but I guess compared to', 'start': 916.72, 'duration': 7.679}
+{'text': "Joanna's book maybe but this is what IBM", 'start': 919.18, 'duration': 11.07}
+{'text': 'calculated the amount of pain a commuter', 'start': 924.399, 'duration': 11.25}
+{'text': "feels okay soon I'll get the hang of", 'start': 930.25, 'duration': 15.779}
+{'text': 'this depending on your mindset each of', 'start': 935.649, 'duration': 15.351}
+{'text': 'these interventions would consider or', 'start': 946.029, 'duration': 7.74}
+{'text': 'would be applicable if you thought about', 'start': 951.0, 'duration': 6.13}
+{'text': 'an intervention to make us titties model', 'start': 953.769, 'duration': 7.081}
+{'text': 'in terms of transport London introduced', 'start': 957.13, 'duration': 7.68}
+{'text': 'the congestion charge to change', 'start': 960.85, 'duration': 9.15}
+{'text': 'transport behavior singapore introduced', 'start': 964.81, 'duration': 8.37}
+{'text': "smart metering and tolling that's", 'start': 970.0, 'duration': 6.86}
+{'text': 'considered a smart city intervention', 'start': 973.18, 'duration': 10.98}
+{'text': 'vienna just started adding more bicycle', 'start': 976.86, 'duration': 11.26}
+{'text': "lanes and removing callings that's a", 'start': 984.16, 'duration': 6.659}
+{'text': 'smart city intervention and then you', 'start': 988.12, 'duration': 7.43}
+{'text': "have con francisco's bike coalition", 'start': 990.819, 'duration': 9.21}
+{'text': 'another example so you can take any', 'start': 995.55, 'duration': 8.92}
+{'text': 'issue of a city and the minute you begin', 'start': 1000.029, 'duration': 7.29}
+{'text': 'to tease it apart you will find just', 'start': 1004.47, 'duration': 6.51}
+{'text': 'about any intervention gets classified', 'start': 1007.319, 'duration': 8.341}
+{'text': "into a smart city thing what's the", 'start': 1010.98, 'duration': 8.52}
+{'text': 'problem with that or the problem of', 'start': 1015.66, 'duration': 6.409}
+{'text': 'everything', 'start': 1019.5, 'duration': 2.569}
+{'text': 'right so drawing lines becomes very very', 'start': 1028.37, 'duration': 6.76}
+{'text': 'tricky right on the one hand if you ask', 'start': 1032.07, 'duration': 6.12}
+{'text': "the IBM's and this siemens they would", 'start': 1035.13, 'duration': 5.34}
+{'text': 'tell you everything to do with', 'start': 1038.19, 'duration': 6.56}
+{'text': 'technology is smart if you talk to', 'start': 1040.47, 'duration': 9.15}
+{'text': 'public agencies and local governments to', 'start': 1044.75, 'duration': 7.51}
+{'text': 'them as we did our research the minute', 'start': 1049.62, 'duration': 5.84}
+{'text': 'deal about the words sustainability', 'start': 1052.26, 'duration': 8.88}
+{'text': 'smartness resonates with them if you', 'start': 1055.46, 'duration': 11.23}
+{'text': 'talk about young citizens they they', 'start': 1061.14, 'duration': 8.13}
+{'text': 'think about information provision as', 'start': 1066.69, 'duration': 5.49}
+{'text': 'their dominant variable when they think', 'start': 1069.27, 'duration': 6.96}
+{'text': 'about smart so the number of apps to to', 'start': 1072.18, 'duration': 7.68}
+{'text': 'any college going student I would', 'start': 1076.23, 'duration': 7.64}
+{'text': 'hypothesize that if a city had more apps', 'start': 1079.86, 'duration': 6.06}
+{'text': "you're probably going to get them to", 'start': 1083.87, 'duration': 4.54}
+{'text': "think it's smart so so one of the big", 'start': 1085.92, 'duration': 5.72}
+{'text': 'big issues in the literature and', 'start': 1088.41, 'duration': 5.88}
+{'text': 'practices you can take just about any', 'start': 1091.64, 'duration': 6.34}
+{'text': "dimension office Teddy's operation and", 'start': 1094.29, 'duration': 6.33}
+{'text': 'you can collect the range of examples', 'start': 1097.98, 'duration': 8.13}
+{'text': 'from highly technology to economic', 'start': 1100.62, 'duration': 10.08}
+{'text': 'incentive issues to infrastructure as in', 'start': 1106.11, 'duration': 9.12}
+{'text': 'the case of Vienna to just civic action', 'start': 1110.7, 'duration': 7.5}
+{'text': 'and they all fall into this category of', 'start': 1115.23, 'duration': 11.52}
+{'text': 'making things smarter okay now because', 'start': 1118.2, 'duration': 12.33}
+{'text': 'of the range of those examples my posts', 'start': 1126.75, 'duration': 7.38}
+{'text': 'no view which is the answer to the', 'start': 1130.53, 'duration': 7.89}
+{'text': "question of this is you I don't believe", 'start': 1134.13, 'duration': 12.36}
+{'text': 'any city is dumb right thus city by its', 'start': 1138.42, 'duration': 10.47}
+{'text': 'very existence have to has to have some', 'start': 1146.49, 'duration': 6.21}
+{'text': 'level of intelligence smartness so the', 'start': 1148.89, 'duration': 5.22}
+{'text': 'question is not', 'start': 1152.7, 'duration': 4.58}
+{'text': 'smart cities or not smart cities', 'start': 1154.11, 'duration': 5.31}
+{'text': 'question is how do we take existing', 'start': 1157.28, 'duration': 4.39}
+{'text': "things and make them smarter if that's", 'start': 1159.42, 'duration': 5.67}
+{'text': 'how you want to frame them or what are', 'start': 1161.67, 'duration': 6.57}
+{'text': 'the range of interventions that you can', 'start': 1165.09, 'duration': 9.66}
+{'text': 'use in my view technology is one of many', 'start': 1168.24, 'duration': 9.48}
+{'text': "interventions and as I'll show you", 'start': 1174.75, 'duration': 6.87}
+{'text': 'through examples technology with our', 'start': 1177.72, 'duration': 8.16}
+{'text': 'process interventions are almost always', 'start': 1181.62, 'duration': 8.61}
+{'text': 'useless we can have a lot of apps a lot', 'start': 1185.88, 'duration': 9.36}
+{'text': 'of platforms lot of senses if the', 'start': 1190.23, 'duration': 7.05}
+{'text': 'process and the governance is not', 'start': 1195.24, 'duration': 4.559}
+{'text': 'accounted for we just are paying a lot', 'start': 1197.28, 'duration': 6.779}
+{'text': "of money to construct technology so it's", 'start': 1199.799, 'duration': 6.781}
+{'text': 'important to appreciate cities', 'start': 1204.059, 'duration': 4.141}
+{'text': 'especially if you want to make them', 'start': 1206.58, 'duration': 7.67}
+{'text': 'smarter as very very complex ecosystems', 'start': 1208.2, 'duration': 6.05}
+{'text': 'amigo so very very basically if you', 'start': 1215.929, 'duration': 10.831}
+{'text': 'break down any city and you view it from', 'start': 1222.72, 'duration': 9.3}
+{'text': "a complex ecosystem and there's a", 'start': 1226.76, 'duration': 9.909}
+{'text': 'growing literature today on complex', 'start': 1232.02, 'duration': 7.46}
+{'text': 'adaptive systems of systems you will see', 'start': 1236.669, 'duration': 7.531}
+{'text': 'that if city has few very discerning', 'start': 1239.48, 'duration': 7.81}
+{'text': 'elements you have agents you have', 'start': 1244.2, 'duration': 8.07}
+{'text': 'objects and you have platforms hopefully', 'start': 1247.29, 'duration': 8.1}
+{'text': 'the agents objects and platforms are all', 'start': 1252.27, 'duration': 7.02}
+{'text': 'in us in an environment because they', 'start': 1255.39, 'duration': 8.49}
+{'text': 'choose to be there everything on the', 'start': 1259.29, 'duration': 6.93}
+{'text': 'lower end of that slide in terms of the', 'start': 1263.88, 'duration': 5.539}
+{'text': 'features are how these things operate', 'start': 1266.22, 'duration': 8.25}
+{'text': 'okay you have local control you have', 'start': 1269.419, 'duration': 7.75}
+{'text': 'emergent structures you have each', 'start': 1274.47, 'duration': 6.23}
+{'text': 'element being goal-directed on their own', 'start': 1277.169, 'duration': 5.881}
+{'text': 'you have environments that are', 'start': 1280.7, 'duration': 5.62}
+{'text': 'influenced and the systems that', 'start': 1283.05, 'duration': 4.71}
+{'text': 'influence them', 'start': 1286.32, 'duration': 3.06}
+{'text': 'and you have a lot of information', 'start': 1287.76, 'duration': 3.99}
+{'text': 'exchange that happens in these', 'start': 1289.38, 'duration': 5.28}
+{'text': 'environments if you just stripped away', 'start': 1291.75, 'duration': 7.05}
+{'text': 'and viewed cities in the abstract you', 'start': 1294.66, 'duration': 11.16}
+{'text': 'would see them as these okay given this', 'start': 1298.8, 'duration': 14.76}
+{'text': 'view how do our current planning and', 'start': 1305.82, 'duration': 14.04}
+{'text': 'design approaches account for them how', 'start': 1313.56, 'duration': 9.18}
+{'text': 'do they account for them if we want to', 'start': 1319.86, 'duration': 6.0}
+{'text': 'make something smarter we have to', 'start': 1322.74, 'duration': 6.18}
+{'text': 'intervene we have to do something to', 'start': 1325.86, 'duration': 9.32}
+{'text': 'move it from state a two-state be most', 'start': 1328.92, 'duration': 9.93}
+{'text': 'researchers and practitioners if you', 'start': 1335.18, 'duration': 5.65}
+{'text': 'bought them in a room and asked them to', 'start': 1338.85, 'duration': 5.13}
+{'text': 'describe the elements of us city would', 'start': 1340.83, 'duration': 6.99}
+{'text': 'list all of these things if you view', 'start': 1343.98, 'duration': 8.07}
+{'text': 'them as that most of our planning and', 'start': 1347.82, 'duration': 7.89}
+{'text': "design approaches unfortunately don't", 'start': 1352.05, 'duration': 7.35}
+{'text': 'account for these things can anybody', 'start': 1355.71, 'duration': 5.64}
+{'text': 'give me an example of a planning and', 'start': 1359.4, 'duration': 4.2}
+{'text': 'design approach that accounts for most', 'start': 1361.35, 'duration': 7.32}
+{'text': 'of these this is the Q&A part where I', 'start': 1363.6, 'duration': 15.29}
+{'text': 'get to drink water wheel of reductionism', 'start': 1368.67, 'duration': 14.55}
+{'text': 'we love it we try to account for', 'start': 1378.89, 'duration': 7.84}
+{'text': 'everything in a plan we try to build a', 'start': 1383.22, 'duration': 8.72}
+{'text': 'grand plans we try to build mega cities', 'start': 1386.73, 'duration': 8.19}
+{'text': 'when we know this is how in reality', 'start': 1391.94, 'duration': 5.46}
+{'text': 'things operate', 'start': 1394.92, 'duration': 2.48}
+{'text': 'in my research group this these are the', 'start': 1401.28, 'duration': 9.57}
+{'text': 'imperatives that we are trying to build', 'start': 1408.18, 'duration': 7.22}
+{'text': 'on as we conduct our research and build', 'start': 1410.85, 'duration': 10.65}
+{'text': 'solutions one is for every project we', 'start': 1415.4, 'duration': 9.16}
+{'text': 'try to embrace complexity rather than', 'start': 1421.5, 'duration': 5.73}
+{'text': 'trying to say complexity is an error', 'start': 1424.56, 'duration': 5.97}
+{'text': "term or we don't understand it and so", 'start': 1427.23, 'duration': 6.75}
+{'text': "we'll leave it to us tied or let's have", 'start': 1430.53, 'duration': 6.83}
+{'text': 'all these assumptions and then come up', 'start': 1433.98, 'duration': 7.34}
+{'text': 'with an answer we try our hardest to', 'start': 1437.36, 'duration': 10.66}
+{'text': 'model complexity okay any intervention', 'start': 1441.32, 'duration': 10.6}
+{'text': 'that you think about that has some', 'start': 1448.02, 'duration': 8.58}
+{'text': 'ability to make us city smarter has to', 'start': 1451.92, 'duration': 8.82}
+{'text': 'in some way increase the situational', 'start': 1456.6, 'duration': 8.79}
+{'text': 'awareness of the various elements you', 'start': 1460.74, 'duration': 7.92}
+{'text': 'are either trying to increase the amount', 'start': 1465.39, 'duration': 6.18}
+{'text': 'of information relevant information not', 'start': 1468.66, 'duration': 4.92}
+{'text': 'just any information relevant', 'start': 1471.57, 'duration': 5.88}
+{'text': 'information one element has about how', 'start': 1473.58, 'duration': 10.2}
+{'text': 'their behavior impacts others other ways', 'start': 1477.45, 'duration': 10.11}
+{'text': 'you can make things smarter if you adopt', 'start': 1483.78, 'duration': 6.96}
+{'text': 'the complex adaptive system view is you', 'start': 1487.56, 'duration': 5.88}
+{'text': 'create emerging platforms for', 'start': 1490.74, 'duration': 6.74}
+{'text': 'decision-making you have to build cities', 'start': 1493.44, 'duration': 7.68}
+{'text': 'where rather than trying to plan every', 'start': 1497.48, 'duration': 7.12}
+{'text': 'single thing or our institutions you', 'start': 1501.12, 'duration': 7.14}
+{'text': 'must allow for emerging platforms to to', 'start': 1504.6, 'duration': 7.02}
+{'text': "originate and I'll share examples of", 'start': 1508.26, 'duration': 8.76}
+{'text': 'these leverage technologies is obviously', 'start': 1511.62, 'duration': 8.58}
+{'text': "important okay i'm not saying technology", 'start': 1517.02, 'duration': 6.99}
+{'text': "is not important but it's more important", 'start': 1520.2, 'duration': 7.94}
+{'text': 'that the technologies are plug-and-play', 'start': 1524.01, 'duration': 6.3}
+{'text': "it's more important that the", 'start': 1528.14, 'duration': 5.649}
+{'text': 'technologies of plug and play', 'start': 1530.31, 'duration': 6.9}
+{'text': 'how many of you have done any reading on', 'start': 1533.789, 'duration': 9.6}
+{'text': "the Dreamliner Boeing's dreamline so if", 'start': 1537.21, 'duration': 10.98}
+{'text': 'you think about that project okay it was', 'start': 1543.389, 'duration': 6.961}
+{'text': 'a fairly complex undertaking actually', 'start': 1548.19, 'duration': 4.679}
+{'text': 'its tail is a complex undertaking is not', 'start': 1550.35, 'duration': 6.5}
+{'text': 'yet done and what did they want to do', 'start': 1552.869, 'duration': 9.81}
+{'text': 'they they actually wanted to build the', 'start': 1556.85, 'duration': 10.059}
+{'text': 'airplane with complete appreciation of', 'start': 1562.679, 'duration': 7.2}
+{'text': 'complexity so on the one hand I have to', 'start': 1566.909, 'duration': 5.791}
+{'text': 'go to them and say you guys are geniuses', 'start': 1569.879, 'duration': 6.78}
+{'text': 'rather than Boeing designing the chairs', 'start': 1572.7, 'duration': 8.969}
+{'text': 'or the TV screens or any other element', 'start': 1576.659, 'duration': 10.051}
+{'text': 'of the airplane boeing went to the chair', 'start': 1581.669, 'duration': 7.71}
+{'text': 'designers and said you know how to make', 'start': 1586.71, 'duration': 5.88}
+{'text': 'chairs make the best chair you know how', 'start': 1589.379, 'duration': 4.831}
+{'text': 'to make the best screens make the best', 'start': 1592.59, 'duration': 4.669}
+{'text': 'screens and boeing assumed one thing', 'start': 1594.21, 'duration': 6.469}
+{'text': 'that we all take for granted', 'start': 1597.259, 'duration': 7.36}
+{'text': 'plug-and-play meaning all of these', 'start': 1600.679, 'duration': 5.5}
+{'text': 'independent things will come together', 'start': 1604.619, 'duration': 5.071}
+{'text': 'and Boing would assemble it kind of like', 'start': 1606.179, 'duration': 7.531}
+{'text': 'how we build computers and it would fly', 'start': 1609.69, 'duration': 7.559}
+{'text': "as you know there's been a lot of", 'start': 1613.71, 'duration': 7.649}
+{'text': 'problems with it but its approach is one', 'start': 1617.249, 'duration': 6.27}
+{'text': 'where I recommend anybody who has any', 'start': 1621.359, 'duration': 4.65}
+{'text': "free time read about it because that's", 'start': 1623.519, 'duration': 5.76}
+{'text': "what's going to be required to really", 'start': 1626.009, 'duration': 6.66}
+{'text': 'build smartest cities we have to think', 'start': 1629.279, 'duration': 7.83}
+{'text': 'about how we enable for plug-and-play to', 'start': 1632.669, 'duration': 10.651}
+{'text': 'happen today most cities do not have', 'start': 1637.109, 'duration': 10.05}
+{'text': 'opportunities for citizens to plug their', 'start': 1643.32, 'duration': 6.089}
+{'text': 'information in readily plug their', 'start': 1647.159, 'duration': 6.061}
+{'text': 'devices in plug their ideas in and those', 'start': 1649.409, 'duration': 6.84}
+{'text': 'that are making headway in those areas', 'start': 1653.22, 'duration': 5.22}
+{'text': 'are struggling with what we do with', 'start': 1656.249, 'duration': 4.41}
+{'text': 'those inputs ok so the plug-and-play', 'start': 1658.44, 'duration': 5.28}
+{'text': 'aspect becomes very important and lastly', 'start': 1660.659, 'duration': 5.01}
+{'text': 'if you really want to appreciate the', 'start': 1663.72, 'duration': 2.81}
+{'text': 'whole', 'start': 1665.669, 'duration': 6.051}
+{'text': 'call them up and lack of central control', 'start': 1666.53, 'duration': 10.45}
+{'text': 'you really need to enable ways for those', 'start': 1671.72, 'duration': 10.29}
+{'text': 'living in a city to actually actively', 'start': 1676.98, 'duration': 7.19}
+{'text': 'participate in its construction', 'start': 1682.01, 'duration': 5.86}
+{'text': 'maintenance implementations building so', 'start': 1684.17, 'duration': 6.91}
+{'text': 'if you were to go home and ask yourself', 'start': 1687.87, 'duration': 6.62}
+{'text': 'how many times did you actively', 'start': 1691.08, 'duration': 9.08}
+{'text': 'participate in the design of your city', 'start': 1694.49, 'duration': 13.09}
+{'text': 'how many instances how do you recall not', 'start': 1700.16, 'duration': 14.52}
+{'text': 'that many none of most of us are passive', 'start': 1707.58, 'duration': 11.61}
+{'text': 'residents we use our home we design our', 'start': 1714.68, 'duration': 7.35}
+{'text': "home we don't care about the next home", 'start': 1719.19, 'duration': 7.77}
+{'text': 'right in a complex adaptive system model', 'start': 1722.03, 'duration': 7.93}
+{'text': "you can't do that you design your home", 'start': 1726.96, 'duration': 6.18}
+{'text': 'and you design your home so well that', 'start': 1729.96, 'duration': 6.11}
+{'text': 'you can zoom all the resources', 'start': 1733.14, 'duration': 4.74}
+{'text': 'eventually a home is not going to be', 'start': 1736.07, 'duration': 3.85}
+{'text': 'that good they take some time for that', 'start': 1737.88, 'duration': 4.62}
+{'text': 'feedback to materialize so how do we', 'start': 1739.92, 'duration': 9.74}
+{'text': 'enables citizens sorry to be active', 'start': 1742.5, 'duration': 11.31}
+{'text': 'participants is so these are our', 'start': 1749.66, 'duration': 6.97}
+{'text': 'imperatives that we are working off of', 'start': 1753.81, 'duration': 6.65}
+{'text': 'as we try to conduct research and', 'start': 1756.63, 'duration': 8.06}
+{'text': 'projects around smarter cities and', 'start': 1760.46, 'duration': 10.93}
+{'text': 'organization so let me give you a few', 'start': 1764.69, 'duration': 11.17}
+{'text': 'examples now in the interest of time I', 'start': 1771.39, 'duration': 8.4}
+{'text': 'will not be able to get through every', 'start': 1775.86, 'duration': 5.82}
+{'text': "research project because I've chosen a", 'start': 1779.79, 'duration': 5.43}
+{'text': "few examples but I'd be glad to chat", 'start': 1781.68, 'duration': 6.21}
+{'text': 'afterwards you can email me I have all', 'start': 1785.22, 'duration': 5.49}
+{'text': 'the articles you can read them we can', 'start': 1787.89, 'duration': 4.92}
+{'text': 'skype we can do a whole group of things', 'start': 1790.71, 'duration': 5.43}
+{'text': "so I apologize in advance if I don't get", 'start': 1792.81, 'duration': 6.38}
+{'text': 'into the nitty gritties', 'start': 1796.14, 'duration': 6.93}
+{'text': 'so I already know of Jennifers work', 'start': 1799.19, 'duration': 6.43}
+{'text': 'around apps and mobile apps and', 'start': 1803.07, 'duration': 4.79}
+{'text': 'everything so we also did a project', 'start': 1805.62, 'duration': 7.74}
+{'text': 'while I was out of Virginia Tech we', 'start': 1807.86, 'duration': 7.36}
+{'text': 'examined the whole group of apps as well', 'start': 1813.36, 'duration': 10.08}
+{'text': 'and most if you see on this end there we', 'start': 1815.22, 'duration': 11.67}
+{'text': 'go all of this stuff you will find apps', 'start': 1823.44, 'duration': 8.22}
+{'text': 'in just about every aspect of what would', 'start': 1826.89, 'duration': 9.15}
+{'text': 'be considered urban management policy or', 'start': 1831.66, 'duration': 7.85}
+{'text': 'local government just about everything', 'start': 1836.04, 'duration': 8.85}
+{'text': 'ok for example transparency and', 'start': 1839.51, 'duration': 7.18}
+{'text': 'corruption let me just give you one', 'start': 1844.89, 'duration': 10.1}
+{'text': 'example ok in India in one of the Megas', 'start': 1846.69, 'duration': 13.41}
+{'text': 'in one country that as that has one of', 'start': 1854.99, 'duration': 8.98}
+{'text': 'the highest growth rates of mega cities', 'start': 1860.1, 'duration': 8.16}
+{'text': 'in the future corruption is very very', 'start': 1863.97, 'duration': 10.4}
+{'text': "high so a non-profit created an app it's", 'start': 1868.26, 'duration': 15.66}
+{'text': 'called I PAB I paid a bribe to cool app', 'start': 1874.37, 'duration': 12.49}
+{'text': 'you should go check it out so basically', 'start': 1883.92, 'duration': 6.86}
+{'text': 'if you go into a government office or a', 'start': 1886.86, 'duration': 7.34}
+{'text': 'public agency or you deal with any', 'start': 1890.78, 'duration': 11.47}
+{'text': 'stable Sylvan and you pay a bribe to get', 'start': 1894.2, 'duration': 11.62}
+{'text': 'a particular transaction completed you', 'start': 1902.25, 'duration': 6.72}
+{'text': 'can go online and say I went to this', 'start': 1905.82, 'duration': 6.84}
+{'text': 'agency I wanted to do this this is how', 'start': 1908.97, 'duration': 7.5}
+{'text': 'much the bribe so it serves one you are', 'start': 1912.66, 'duration': 6.72}
+{'text': "reporting it plus two you don't want", 'start': 1916.47, 'duration': 5.49}
+{'text': 'other people to pay more than the going', 'start': 1919.38, 'duration': 5.31}
+{'text': 'rate so the going rate for this', 'start': 1921.96, 'duration': 6.09}
+{'text': 'transaction is hundred rupees and you', 'start': 1924.69, 'duration': 5.13}
+{'text': 'have an officer saying well give me 400', 'start': 1928.05, 'duration': 4.36}
+{'text': "you can say to them no look it's hundred", 'start': 1929.82, 'duration': 6.01}
+{'text': "they're going rate is hundred the the", 'start': 1932.41, 'duration': 5.43}
+{'text': "other reason why it's very important is", 'start': 1935.83, 'duration': 6.95}
+{'text': 'if you went to the bank withdrew money', 'start': 1937.84, 'duration': 7.98}
+{'text': 'right and then you went to do your', 'start': 1942.78, 'duration': 5.71}
+{'text': 'transaction and the force and then', 'start': 1945.82, 'duration': 7.5}
+{'text': 'accept money you can also report that so', 'start': 1948.49, 'duration': 8.54}
+{'text': 'in India a non-profit constructed this', 'start': 1953.32, 'duration': 7.59}
+{'text': 'you have apps so for example in', 'start': 1957.03, 'duration': 8.85}
+{'text': 'transportation when I was at the', 'start': 1960.91, 'duration': 8.88}
+{'text': 'University of Washington a few students', 'start': 1965.88, 'duration': 5.8}
+{'text': 'that will join from the information', 'start': 1969.79, 'duration': 5.76}
+{'text': 'school and computers x created the one', 'start': 1971.68, 'duration': 7.68}
+{'text': 'bus away app okay where they basically', 'start': 1975.55, 'duration': 7.35}
+{'text': "took advantage of GPS data that's on", 'start': 1979.36, 'duration': 7.53}
+{'text': "buses so that you don't have to wait in", 'start': 1982.9, 'duration': 6.9}
+{'text': "the rain it's a very simple prom and", 'start': 1986.89, 'duration': 5.46}
+{'text': 'they built an app so you have a whole', 'start': 1989.8, 'duration': 6.33}
+{'text': 'collection of apps what we did was we', 'start': 1992.35, 'duration': 6.83}
+{'text': 'wanted to see what were they doing and', 'start': 1996.13, 'duration': 8.1}
+{'text': 'how were they being built and why most', 'start': 1999.18, 'duration': 9.7}
+{'text': 'apps took advantage of either user feeds', 'start': 2004.23, 'duration': 8.64}
+{'text': 'meaning like in the I paid a bribe that', 'start': 2008.88, 'duration': 6.24}
+{'text': 'was a user feed app you have to input', 'start': 2012.87, 'duration': 5.58}
+{'text': 'information in order to get any value', 'start': 2015.12, 'duration': 6.24}
+{'text': 'from it or they took advantage of', 'start': 2018.45, 'duration': 6.36}
+{'text': 'government data or a combination of the', 'start': 2021.36, 'duration': 8.34}
+{'text': 'two most apps had goals that are noted', 'start': 2024.81, 'duration': 10.32}
+{'text': 'there as we began to tease away at these', 'start': 2029.7, 'duration': 8.85}
+{'text': 'apps we became very curious about one', 'start': 2035.13, 'duration': 10.46}
+{'text': 'thing why would a portion develop an app', 'start': 2038.55, 'duration': 13.44}
+{'text': 'how many of you have developed apps 12', 'start': 2045.59, 'duration': 8.89}
+{'text': 'why did you develop your app was your', 'start': 2051.99, 'duration': 7.83}
+{'text': 'motive motivation entertainment there', 'start': 2054.48, 'duration': 9.51}
+{'text': 'was another hand somewhere up there that', 'start': 2059.82, 'duration': 5.58}
+{'text': 'hand went away', 'start': 2063.99, 'duration': 6.87}
+{'text': 'okay motivation entertainment what we', 'start': 2065.4, 'duration': 10.52}
+{'text': 'found is basically this beep their role', 'start': 2070.86, 'duration': 8.27}
+{'text': 'agencies that gave out little prizes', 'start': 2075.92, 'duration': 6.91}
+{'text': 'that got individuals moving so for', 'start': 2079.13, 'duration': 7.0}
+{'text': 'example the most notable one is the', 'start': 2082.83, 'duration': 6.86}
+{'text': 'competition that was run in DC where', 'start': 2086.13, 'duration': 6.27}
+{'text': 'they open up data and they gave our', 'start': 2089.69, 'duration': 7.45}
+{'text': 'prizes small small amounts two thousand', 'start': 2092.4, 'duration': 8.22}
+{'text': 'five thousand the other ones they were', 'start': 2097.14, 'duration': 7.47}
+{'text': 'just civic activists that wanted to', 'start': 2100.62, 'duration': 8.97}
+{'text': 'solve a problem and the third one we', 'start': 2104.61, 'duration': 8.01}
+{'text': 'found a lot of developers who built the', 'start': 2109.59, 'duration': 4.89}
+{'text': 'original app because they thought', 'start': 2112.62, 'duration': 4.83}
+{'text': "they're going to make money they were", 'start': 2114.48, 'duration': 4.71}
+{'text': 'going to open a business open everything', 'start': 2117.45, 'duration': 4.74}
+{'text': 'else unfortunately for a lot of those', 'start': 2119.19, 'duration': 6.95}
+{'text': "they haven't made money yet okay so we", 'start': 2122.19, 'duration': 7.47}
+{'text': 'began this project as our first input', 'start': 2126.14, 'duration': 7.65}
+{'text': 'and to try to understand how is the', 'start': 2129.66, 'duration': 7.86}
+{'text': 'democratization of Technology how is it', 'start': 2133.79, 'duration': 8.11}
+{'text': 'transforming things now a few things we', 'start': 2137.52, 'duration': 10.29}
+{'text': 'found that are worth remembering now and', 'start': 2141.9, 'duration': 9.06}
+{'text': 'I will build on this one how many of you', 'start': 2147.81, 'duration': 6.39}
+{'text': 'have heard of the long tail effect no', 'start': 2150.96, 'duration': 7.79}
+{'text': "the long tail it's very true for apps", 'start': 2154.2, 'duration': 12.14}
+{'text': 'what does that mean most apps most apps', 'start': 2158.75, 'duration': 13.8}
+{'text': 'have very few users very few usage', 'start': 2166.34, 'duration': 10.0}
+{'text': "there's a long tail effect if you look", 'start': 2172.55, 'duration': 7.77}
+{'text': 'at apps in general and especially apps', 'start': 2176.34, 'duration': 7.32}
+{'text': "around urban governance and let's use", 'start': 2180.32, 'duration': 5.92}
+{'text': 'that work that basically captures all of', 'start': 2183.66, 'duration': 6.45}
+{'text': 'this you always have a long tail number', 'start': 2186.24, 'duration': 7.62}
+{'text': 'two the other thing we found and if you', 'start': 2190.11, 'duration': 7.5}
+{'text': 'go on my website I have even copied of', 'start': 2193.86, 'duration': 5.1}
+{'text': 'or not copy', 'start': 2197.61, 'duration': 3.99}
+{'text': 'I have made available a few of our', 'start': 2198.96, 'duration': 4.95}
+{'text': 'interview transcripts and then you can', 'start': 2201.6, 'duration': 9.29}
+{'text': 'just read them we found a lot of', 'start': 2203.91, 'duration': 10.89}
+{'text': "competition among developers so if I'm", 'start': 2210.89, 'duration': 5.89}
+{'text': 'developing an app to solve', 'start': 2214.8, 'duration': 4.65}
+{'text': "transportation and he's developing an", 'start': 2216.78, 'duration': 4.8}
+{'text': "app to solve transportation and he's", 'start': 2219.45, 'duration': 4.56}
+{'text': 'developing an app and we might be a', 'start': 2221.58, 'duration': 4.71}
+{'text': 'block away we are not talking to each', 'start': 2224.01, 'duration': 7.98}
+{'text': 'other as a result as a result most app', 'start': 2226.29, 'duration': 9.36}
+{'text': 'developers give up after the first', 'start': 2231.99, 'duration': 7.71}
+{'text': "failure there's no environments right", 'start': 2235.65, 'duration': 7.2}
+{'text': 'now that are in place to promote lesson', 'start': 2239.7, 'duration': 6.21}
+{'text': 'sharing knowledge sharing around app', 'start': 2242.85, 'duration': 5.88}
+{'text': "development for governance and I'm being", 'start': 2245.91, 'duration': 4.7}
+{'text': 'very very specific around governance', 'start': 2248.73, 'duration': 4.95}
+{'text': 'okay whereas if you look at other kinds', 'start': 2250.61, 'duration': 6.37}
+{'text': 'of app development there are usergroups', 'start': 2253.68, 'duration': 6.32}
+{'text': 'there are user Nets there are other', 'start': 2256.98, 'duration': 5.94}
+{'text': 'platforms that are promoting exchanges', 'start': 2260.0, 'duration': 5.68}
+{'text': 'so if you look at the biomedical', 'start': 2262.92, 'duration': 6.03}
+{'text': 'community okay where a lot of the data', 'start': 2265.68, 'duration': 5.31}
+{'text': 'is being made available open large-scale', 'start': 2268.95, 'duration': 4.86}
+{'text': 'data there are forums for people to', 'start': 2270.99, 'duration': 5.99}
+{'text': "share in this place there's very little", 'start': 2273.81, 'duration': 6.96}
+{'text': 'okay so we found a few interesting', 'start': 2276.98, 'duration': 10.99}
+{'text': 'things that led us to this one so we so', 'start': 2280.77, 'duration': 10.76}
+{'text': 'we looked at what US citizens doing and', 'start': 2287.97, 'duration': 6.56}
+{'text': "then we'll begin to tackle the issue of", 'start': 2291.53, 'duration': 8.31}
+{'text': 'how is inputs translating into action', 'start': 2294.53, 'duration': 10.0}
+{'text': 'okay how are any of these technologies', 'start': 2299.84, 'duration': 6.97}
+{'text': 'actually making a difference and what we', 'start': 2304.53, 'duration': 6.27}
+{'text': 'found is you can categorize most apps', 'start': 2306.81, 'duration': 9.62}
+{'text': 'and platforms where you have citizens', 'start': 2310.8, 'duration': 7.98}
+{'text': 'collaborating to solve urban governance', 'start': 2316.43, 'duration': 6.82}
+{'text': 'problems in these four categories okay', 'start': 2318.78, 'duration': 7.68}
+{'text': 'so the first one is where you have a', 'start': 2323.25, 'duration': 7.47}
+{'text': 'group of locals titas ins coming', 'start': 2326.46, 'duration': 6.47}
+{'text': 'together and their share', 'start': 2330.72, 'duration': 7.06}
+{'text': 'bring citizen data on an issue ok so in', 'start': 2332.93, 'duration': 7.77}
+{'text': "Massachusetts as an example there's a", 'start': 2337.78, 'duration': 6.549}
+{'text': 'group called local I can never say the', 'start': 2340.7, 'duration': 9.359}
+{'text': 'name its local AC are a cy and any we', 'start': 2344.329, 'duration': 8.851}
+{'text': 'want to try that local oversee local', 'start': 2350.059, 'duration': 7.8}
+{'text': 'crazy whatever local a RC c 1 basically', 'start': 2353.18, 'duration': 9.179}
+{'text': "it's a group that just wanted it was 22", 'start': 2357.859, 'duration': 8.161}
+{'text': 'citizens that wanted a platform for', 'start': 2362.359, 'duration': 7.851}
+{'text': 'people to share ideas wart on them', 'start': 2366.02, 'duration': 7.829}
+{'text': 'discuss them and then recommend them to', 'start': 2370.21, 'duration': 7.56}
+{'text': 'the local government for implementation', 'start': 2373.849, 'duration': 9.151}
+{'text': 'in example number two where you have a', 'start': 2377.77, 'duration': 8.2}
+{'text': 'lot of development happening is where', 'start': 2383.0, 'duration': 6.45}
+{'text': 'you have citizens that take advantage of', 'start': 2385.97, 'duration': 7.879}
+{'text': 'open data so for example in the Bay Area', 'start': 2389.45, 'duration': 9.659}
+{'text': "ok there's an app called crime spotting", 'start': 2393.849, 'duration': 8.25}
+{'text': "it's a nap and a web-based platform", 'start': 2399.109, 'duration': 7.131}
+{'text': 'crime sporting basically it was taking', 'start': 2402.099, 'duration': 10.661}
+{'text': 'the police feed data to give residents', 'start': 2406.24, 'duration': 9.309}
+{'text': 'of Oakland and then later on han', 'start': 2412.76, 'duration': 6.42}
+{'text': 'francisco the ability to know crime data', 'start': 2415.549, 'duration': 6.661}
+{'text': "in their locality so if there's an", 'start': 2419.18, 'duration': 5.55}
+{'text': 'incident how many incidences statistics', 'start': 2422.21, 'duration': 6.06}
+{'text': 'on and so forth the really cool thing', 'start': 2424.73, 'duration': 8.129}
+{'text': 'about that platform was and this is an', 'start': 2428.27, 'duration': 7.529}
+{'text': 'important thing to remember as we think', 'start': 2432.859, 'duration': 7.381}
+{'text': 'about interventions when the app was', 'start': 2435.799, 'duration': 8.55}
+{'text': 'forced beginning to be developed the', 'start': 2440.24, 'duration': 8.069}
+{'text': 'group had some discussions with the city', 'start': 2444.349, 'duration': 7.321}
+{'text': 'government made sure that the data over', 'start': 2448.309, 'duration': 6.661}
+{'text': 'was able to be imported everything else', 'start': 2451.67, 'duration': 7.77}
+{'text': 'so on so forth the app became so popular', 'start': 2454.97, 'duration': 7.76}
+{'text': 'that this', 'start': 2459.44, 'duration': 7.669}
+{'text': 'city had more demand on its silvers and', 'start': 2462.73, 'duration': 7.05}
+{'text': 'everything else and they decided to cut', 'start': 2467.109, 'duration': 8.25}
+{'text': 'off the data feed city decided to say no', 'start': 2469.78, 'duration': 8.43}
+{'text': "no let's cut the data feed that lasted", 'start': 2475.359, 'duration': 6.271}
+{'text': 'for about two weeks and then that will', 'start': 2478.21, 'duration': 6.0}
+{'text': 'reopen the data feeling why am i sharing', 'start': 2481.63, 'duration': 5.489}
+{'text': 'that example most of the literature', 'start': 2484.21, 'duration': 7.56}
+{'text': 'around smart cities assumes we can just', 'start': 2487.119, 'duration': 9.811}
+{'text': "do this and it's no cost there are real", 'start': 2491.77, 'duration': 9.06}
+{'text': 'resource costs if we want to make steady', 'start': 2496.93, 'duration': 10.23}
+{'text': 'smarter when any of these apps start to', 'start': 2500.83, 'duration': 8.0}
+{'text': 'be developed any of these platforms', 'start': 2507.16, 'duration': 3.69}
+{'text': "especially if you're relying on", 'start': 2508.83, 'duration': 5.56}
+{'text': 'traditional agency resources to the', 'start': 2510.85, 'duration': 6.09}
+{'text': "average citizen they don't think about", 'start': 2514.39, 'duration': 4.8}
+{'text': "the implications they don't think about", 'start': 2516.94, 'duration': 5.82}
+{'text': 'the demand and most agencies today are', 'start': 2519.19, 'duration': 6.54}
+{'text': 'opening up their data and we will get to', 'start': 2522.76, 'duration': 5.609}
+{'text': 'that most of them and we have', 'start': 2525.73, 'duration': 5.04}
+{'text': "interviewed a lot of them haven't", 'start': 2528.369, 'duration': 6.331}
+{'text': 'thought about resource implications have', 'start': 2530.77, 'duration': 5.7}
+{'text': 'not thought about resource implication', 'start': 2534.7, 'duration': 6.87}
+{'text': "the third one is at and I've thrown this", 'start': 2536.47, 'duration': 9.09}
+{'text': 'up there pick up austin is a good', 'start': 2541.57, 'duration': 6.24}
+{'text': 'example of the third model you see a lot', 'start': 2545.56, 'duration': 6.09}
+{'text': 'of these now propping up where the', 'start': 2547.81, 'duration': 7.4}
+{'text': 'government creates the platform and', 'start': 2551.65, 'duration': 9.66}
+{'text': 'chitosan share information if you were', 'start': 2555.21, 'duration': 9.28}
+{'text': "to guess what's the big problem with", 'start': 2561.31, 'duration': 9.049}
+{'text': 'this one is a big problem', 'start': 2564.49, 'duration': 5.869}
+{'text': 'depends on perspective but close close', 'start': 2572.48, 'duration': 13.21}
+{'text': "people have to go there it's actually", 'start': 2579.349, 'duration': 9.851}
+{'text': 'people have to go there and they do they', 'start': 2585.69, 'duration': 7.919}
+{'text': 'throw out a lot of ideas all of you', 'start': 2589.2, 'duration': 9.2}
+{'text': "decide those ideas are wonderful he's at", 'start': 2593.609, 'duration': 9.121}
+{'text': 'Capitol Hill or the city hall or', 'start': 2598.4, 'duration': 6.969}
+{'text': "whatever building and he thinks it's", 'start': 2602.73, 'duration': 10.889}
+{'text': 'irrelevant what do what does he do does', 'start': 2605.369, 'duration': 11.071}
+{'text': 'he still implement them does he ignore', 'start': 2613.619, 'duration': 7.47}
+{'text': "them does he respond to them and he's", 'start': 2616.44, 'duration': 10.74}
+{'text': 'won everybody that provided an idea what', 'start': 2621.089, 'duration': 10.411}
+{'text': 'do they want feedback he has to make a', 'start': 2627.18, 'duration': 7.35}
+{'text': 'decision do I give feedback do I not', 'start': 2631.5, 'duration': 6.42}
+{'text': 'give feedback if I give feedback or kind', 'start': 2634.53, 'duration': 6.69}
+{'text': 'of feedback if I give feedback how does', 'start': 2637.92, 'duration': 6.84}
+{'text': 'that interfere with the future contract', 'start': 2641.22, 'duration': 8.609}
+{'text': 'bid if I give feedback can I enter into', 'start': 2644.76, 'duration': 10.289}
+{'text': 'or can I get myself into a lawsuit so as', 'start': 2649.829, 'duration': 6.99}
+{'text': 'a result I mean these are serious', 'start': 2655.049, 'duration': 5.49}
+{'text': "serious implications there's a lot these", 'start': 2656.819, 'duration': 6.121}
+{'text': 'websites these platforms if you trace', 'start': 2660.539, 'duration': 5.361}
+{'text': 'them you will see something early on', 'start': 2662.94, 'duration': 6.69}
+{'text': 'Lord of activity a lot of activity why', 'start': 2665.9, 'duration': 7.03}
+{'text': "because it's being talked about in the", 'start': 2669.63, 'duration': 8.37}
+{'text': 'news media there the this city may take', 'start': 2672.93, 'duration': 8.58}
+{'text': 'out an ad in the local paper you have a', 'start': 2678.0, 'duration': 8.73}
+{'text': "momentum and a lot of titans and there's", 'start': 2681.51, 'duration': 9.98}
+{'text': 'a beautiful book in which Clay Shirky', 'start': 2686.73, 'duration': 8.849}
+{'text': 'talks about cognitive hopeless a lot of', 'start': 2691.49, 'duration': 6.309}
+{'text': 'us want to change want to help something', 'start': 2695.579, 'duration': 4.321}
+{'text': 'gentle we get energized and we', 'start': 2697.799, 'duration': 3.841}
+{'text': 'contribute contribute contribute and', 'start': 2699.9, 'duration': 5.27}
+{'text': 'then the black box', 'start': 2701.64, 'duration': 3.53}
+{'text': 'the policy issue here is again', 'start': 2705.64, 'duration': 8.41}
+{'text': 'technology very nice but if the city', 'start': 2709.45, 'duration': 7.75}
+{'text': 'then give him three other people to', 'start': 2714.05, 'duration': 7.17}
+{'text': "respond you're gonna be in a lot of", 'start': 2717.2, 'duration': 6.899}
+{'text': "trouble because now you've just", 'start': 2721.22, 'duration': 6.51}
+{'text': 'aggravated everybody government centric', 'start': 2724.099, 'duration': 7.321}
+{'text': 'and state is a nap model is very common', 'start': 2727.73, 'duration': 9.139}
+{'text': 'okay a lord of titties from Chicago to', 'start': 2731.42, 'duration': 9.15}
+{'text': 'Boston have all tried that where they', 'start': 2736.869, 'duration': 6.73}
+{'text': 'make data open available and they', 'start': 2740.57, 'duration': 6.81}
+{'text': "provide little incentives and we'll talk", 'start': 2743.599, 'duration': 6.721}
+{'text': 'about why or the critical issues around', 'start': 2747.38, 'duration': 6.6}
+{'text': 'those in a minute okay so open data', 'start': 2750.32, 'duration': 6.24}
+{'text': 'which is related to the last one a lot', 'start': 2753.98, 'duration': 6.98}
+{'text': 'of ladies are opening this up and as', 'start': 2756.56, 'duration': 12.75}
+{'text': "it's written right up there and I have", 'start': 2760.96, 'duration': 13.23}
+{'text': 'interviewed state CIOs on this and', 'start': 2769.31, 'duration': 9.72}
+{'text': 'steady CIOs how many of them actually', 'start': 2774.19, 'duration': 10.63}
+{'text': "have a plan that's why I call it it's", 'start': 2779.03, 'duration': 10.14}
+{'text': "cool you know it's become very very if", 'start': 2784.82, 'duration': 8.07}
+{'text': "you don't do it now this is where", 'start': 2789.17, 'duration': 5.939}
+{'text': "institutional theory comes in it's it's", 'start': 2792.89, 'duration': 5.31}
+{'text': 'quite a nice thing if anybody wants to', 'start': 2795.109, 'duration': 6.931}
+{'text': "write their dissertation on today it's", 'start': 2798.2, 'duration': 6.21}
+{'text': "all about let's just keep up with the", 'start': 2802.04, 'duration': 6.72}
+{'text': 'jones people are opening data because', 'start': 2804.41, 'duration': 9.959}
+{'text': "it's fashionable it's fashionable people", 'start': 2808.76, 'duration': 9.27}
+{'text': 'may read to you all of the right things', 'start': 2814.369, 'duration': 9.151}
+{'text': 'that they claim that open data will do', 'start': 2818.03, 'duration': 8.64}
+{'text': 'like transparency accountability promote', 'start': 2823.52, 'duration': 6.23}
+{'text': 'innovation promote this promote that', 'start': 2826.67, 'duration': 7.41}
+{'text': "they don't have a plan the flip side of", 'start': 2829.75, 'duration': 8.23}
+{'text': 'doing that is wait and see', 'start': 2834.08, 'duration': 8.16}
+{'text': 'and right now we have a lot of lot of', 'start': 2837.98, 'duration': 9.05}
+{'text': 'data related issues that unfortunately', 'start': 2842.24, 'duration': 10.41}
+{'text': 'are just going to get intensified down', 'start': 2847.03, 'duration': 9.93}
+{'text': 'your talk about chief data officers one', 'start': 2852.65, 'duration': 7.19}
+{'text': 'project we are embarking on right now', 'start': 2856.96, 'duration': 6.43}
+{'text': 'how many ladies have a chief data', 'start': 2859.84, 'duration': 12.97}
+{'text': 'officer how many cities have achieved it', 'start': 2863.39, 'duration': 13.83}
+{'text': 'if you are a major company will you not', 'start': 2872.81, 'duration': 8.58}
+{'text': 'have a post and in charge of your data', 'start': 2877.22, 'duration': 6.149}
+{'text': "if you're making it available especially", 'start': 2881.39, 'duration': 4.59}
+{'text': "if you're making it available how many", 'start': 2883.369, 'duration': 7.681}
+{'text': 'cities have achieved an officer time', 'start': 2885.98, 'duration': 9.69}
+{'text': "Francisco is trying to get one it's", 'start': 2891.05, 'duration': 8.25}
+{'text': 'trying to get on the last year towards', 'start': 2895.67, 'duration': 8.28}
+{'text': 'uh I want to say October they try to', 'start': 2899.3, 'duration': 8.76}
+{'text': 'release a new open data policy blah blah', 'start': 2903.95, 'duration': 9.36}
+{'text': 'blah the reason being without dedicated', 'start': 2908.06, 'duration': 10.08}
+{'text': "resources there's no guarantee data is", 'start': 2913.31, 'duration': 9.66}
+{'text': 'protected one most of the data being', 'start': 2918.14, 'duration': 9.36}
+{'text': "made open okay he's being made open", 'start': 2922.97, 'duration': 7.11}
+{'text': "under the assumption there's no", 'start': 2927.5, 'duration': 7.859}
+{'text': 'individual harm done to anybody okay', 'start': 2930.08, 'duration': 9.21}
+{'text': 'after the gun shooting we saw what', 'start': 2935.359, 'duration': 6.601}
+{'text': 'happens with open data where maps were', 'start': 2939.29, 'duration': 6.03}
+{'text': "made there's no security there's there's", 'start': 2941.96, 'duration': 7.22}
+{'text': "a lot of issues then again if you don't", 'start': 2945.32, 'duration': 7.59}
+{'text': 'think about them from technology is not', 'start': 2949.18, 'duration': 8.58}
+{'text': 'the problem okay so I just want to get', 'start': 2952.91, 'duration': 4.85}
+{'text': 'okay so the other things cities are', 'start': 2960.63, 'duration': 6.84}
+{'text': "doing which I'll wrap up for it is is it", 'start': 2964.89, 'duration': 4.55}
+{'text': 'doing a lot of challenges and', 'start': 2967.47, 'duration': 6.54}
+{'text': 'competitions take a minute to choose any', 'start': 2969.44, 'duration': 7.84}
+{'text': 'two coats and just read them and pretty', 'start': 2974.01, 'duration': 6.12}
+{'text': 'much make my point and these are', 'start': 2977.28, 'duration': 8.04}
+{'text': 'extracted directly from managers that', 'start': 2980.13, 'duration': 7.53}
+{'text': 'have ran competitions to make this', 'start': 2985.32, 'duration': 5.94}
+{'text': 'cities or towns smarter and they have', 'start': 2987.66, 'duration': 14.39}
+{'text': 'open data and given you notice something', 'start': 2991.26, 'duration': 10.79}
+{'text': "there's a huge disconnect in the two", 'start': 3011.52, 'duration': 7.23}
+{'text': 'groups huge and these are people who', 'start': 3013.92, 'duration': 10.73}
+{'text': 'actually won imagine those that lost', 'start': 3018.75, 'duration': 5.9}
+{'text': 'managers have won mental schema when', 'start': 3025.04, 'duration': 8.02}
+{'text': "they're trying to make apps platforms", 'start': 3028.95, 'duration': 6.99}
+{'text': 'data every all of these things available', 'start': 3033.06, 'duration': 6.39}
+{'text': 'and those are the things up the people', 'start': 3035.94, 'duration': 7.05}
+{'text': 'who actually do stuff like this we', 'start': 3039.45, 'duration': 8.82}
+{'text': 'already talked about this one so again', 'start': 3042.99, 'duration': 8.1}
+{'text': "there's a lot of policy and governance", 'start': 3048.27, 'duration': 5.58}
+{'text': 'issues that go beyond just having cool', 'start': 3051.09, 'duration': 6.21}
+{'text': 'technologies in the interest of time', 'start': 3053.85, 'duration': 6.84}
+{'text': "months I'll just rush you through this", 'start': 3057.3, 'duration': 9.48}
+{'text': 'one very quickly the key point that I', 'start': 3060.69, 'duration': 8.73}
+{'text': 'want to leave you with is technology', 'start': 3066.78, 'duration': 4.26}
+{'text': "without governance and policy if you're", 'start': 3069.42, 'duration': 3.84}
+{'text': 'not going to get anything smarter this', 'start': 3071.04, 'duration': 6.81}
+{'text': 'is an example of what agencies are', 'start': 3073.26, 'duration': 8.24}
+{'text': 'trying to do with technology today and', 'start': 3077.85, 'duration': 7.98}
+{'text': 'the numbers speak for themselves over', 'start': 3081.5, 'duration': 7.65}
+{'text': 'three billion not done blah blah blah', 'start': 3085.83, 'duration': 7.4}
+{'text': 'okay I hate to it end on such depressing', 'start': 3089.15, 'duration': 7.78}
+{'text': 'but in the duration of the project see', 'start': 3093.23, 'duration': 9.28}
+{'text': 'how many CIOs were changed every year', 'start': 3096.93, 'duration': 7.56}
+{'text': 'the government kept coming up write a', 'start': 3102.51, 'duration': 6.18}
+{'text': 'report and trust me on this even if you', 'start': 3104.49, 'duration': 5.94}
+{'text': "can't read them it was the same thing", 'start': 3108.69, 'duration': 4.23}
+{'text': 'here in your after and we still spend', 'start': 3110.43, 'duration': 4.32}
+{'text': 'billions and billions of dollars on', 'start': 3112.92, 'duration': 9.33}
+{'text': 'technology bottom line we took open data', 'start': 3114.75, 'duration': 13.56}
+{'text': 'and this is very similar to anything if', 'start': 3122.25, 'duration': 8.33}
+{'text': 'you just look at technology and smart', 'start': 3128.31, 'duration': 5.64}
+{'text': 'you begin with people talking with high', 'start': 3130.58, 'duration': 7.57}
+{'text': 'confidence and high sentiment and then', 'start': 3133.95, 'duration': 7.38}
+{'text': 'over time you notice the decline and', 'start': 3138.15, 'duration': 5.73}
+{'text': 'these were from just analyzing press', 'start': 3141.33, 'duration': 3.36}
+{'text': 'releases', 'start': 3143.88, 'duration': 3.66}
+{'text': 'doing traditional text mining when these', 'start': 3144.69, 'duration': 5.46}
+{'text': "projects begin people have it's going to", 'start': 3147.54, 'duration': 4.26}
+{'text': 'change the wall and I completely believe', 'start': 3150.15, 'duration': 5.85}
+{'text': "it as a project progresses I don't think", 'start': 3151.8, 'duration': 5.61}
+{'text': "it's going to change the world but I", 'start': 3156.0, 'duration': 4.41}
+{'text': "hope it doesn't harm the world and I", 'start': 3157.41, 'duration': 9.12}
+{'text': "don't believe it okay so with this I'll", 'start': 3160.41, 'duration': 10.02}
+{'text': "end I'll just leave this up but", 'start': 3166.53, 'duration': 9.15}
+{'text': 'basically bottom line being our take on', 'start': 3170.43, 'duration': 7.139}
+{'text': 'Smart City design and planning is', 'start': 3175.68, 'duration': 5.909}
+{'text': 'technology is absolutely wonderful but', 'start': 3177.569, 'duration': 5.371}
+{'text': "if you don't account for everything else", 'start': 3181.589, 'duration': 3.301}
+{'text': 'around the technology from a complex', 'start': 3182.94, 'duration': 5.28}
+{'text': "systems point of view you're never going", 'start': 3184.89, 'duration': 4.979}
+{'text': 'to make any headway in this and there', 'start': 3188.22, 'duration': 5.22}
+{'text': 'are a few ways i recommend that we do', 'start': 3189.869, 'duration': 5.75}
+{'text': 'this', 'start': 3193.44, 'duration': 2.179}
+{'text': 'mm-hmm so right away oh right so I think', 'start': 3263.72, 'duration': 10.629}
+{'text': 'these three elements or these three', 'start': 3269.99, 'duration': 6.129}
+{'text': 'design considerations need to be', 'start': 3274.349, 'duration': 5.19}
+{'text': 'critical rather than thinking of', 'start': 3276.119, 'duration': 9.511}
+{'text': 'designing something so probably the best', 'start': 3279.539, 'duration': 8.52}
+{'text': 'way to thing about is I call it the', 'start': 3285.63, 'duration': 6.739}
+{'text': 'Google way everything is in beta', 'start': 3288.059, 'duration': 8.22}
+{'text': 'everything is always in beta right we', 'start': 3292.369, 'duration': 7.18}
+{'text': 'have to take that approach we every time', 'start': 3296.279, 'duration': 5.971}
+{'text': 'that I speak to people designing stuff', 'start': 3299.549, 'duration': 6.57}
+{'text': 'okay they want the end product they they', 'start': 3302.25, 'duration': 7.46}
+{'text': 'they want it to be version 1 or version', 'start': 3306.119, 'duration': 6.121}
+{'text': 'whereas if you assume everything is', 'start': 3309.71, 'duration': 4.69}
+{'text': 'designed as beta and through constant', 'start': 3312.24, 'duration': 4.559}
+{'text': "feedback you'll eventually extend it", 'start': 3314.4, 'duration': 4.949}
+{'text': 'make it more flexible I think you have a', 'start': 3316.799, 'duration': 4.77}
+{'text': 'better chance is it easy to do', 'start': 3319.349, 'duration': 5.46}
+{'text': 'absolutely not but at least what we are', 'start': 3321.569, 'duration': 5.04}
+{'text': 'trying to do is we are trying to launch', 'start': 3324.809, 'duration': 4.8}
+{'text': 'platform so at ASU we have a platform', 'start': 3326.609, 'duration': 6.391}
+{'text': "and it's done in collaboration with it", 'start': 3329.609, 'duration': 6.091}
+{'text': "Ashok has change makers where it's an", 'start': 3333.0, 'duration': 7.109}
+{'text': "ideation platform and every I guess it's", 'start': 3335.7, 'duration': 6.119}
+{'text': 'every four months or so we keep', 'start': 3340.109, 'duration': 4.021}
+{'text': 'iterating with the feedback we get and', 'start': 3341.819, 'duration': 5.071}
+{'text': "we're trying to learn and Regina so", 'start': 3344.13, 'duration': 5.13}
+{'text': 'rather than saying this is the platform', 'start': 3346.89, 'duration': 6.179}
+{'text': 'and then and we are involving our users', 'start': 3349.26, 'duration': 8.039}
+{'text': "in in the next iterations so it's a", 'start': 3353.069, 'duration': 6.51}
+{'text': "different way and especially if you're", 'start': 3357.299, 'duration': 4.711}
+{'text': 'talking about smart cities in order to', 'start': 3359.579, 'duration': 6.99}
+{'text': 'do that you need citizens to be active', 'start': 3362.01, 'duration': 6.45}
+{'text': 'players in the design process rather', 'start': 3366.569, 'duration': 4.321}
+{'text': 'than just recipients of it which', 'start': 3368.46, 'duration': 5.55}
+{'text': 'requires interventions on the policy', 'start': 3370.89, 'duration': 5.3}
+{'text': 'side', 'start': 3374.01, 'duration': 2.18}
+{'text': 'you', 'start': 3379.34, 'duration': 2.06}
+{'text': 'you', 'start': 3390.55, 'duration': 2.06}

@@ -1,0 +1,2115 @@
+{'text': "okay so I'm testing yet so welcome", 'start': 19.279, 'duration': 9.37}
+{'text': 'everybody this is the first lecture of', 'start': 25.829, 'duration': 4.29}
+{'text': 'the architecture department spring', 'start': 28.649, 'duration': 3.57}
+{'text': 'lecture series', 'start': 30.119, 'duration': 4.561}
+{'text': "I'm McCall son I'm a second-year PhD", 'start': 32.219, 'duration': 4.381}
+{'text': 'student in the design and computation', 'start': 34.68, 'duration': 3.659}
+{'text': "group and I'll just introduce our", 'start': 36.6, 'duration': 6.209}
+{'text': 'session this evening this session is', 'start': 38.339, 'duration': 6.451}
+{'text': 'hosted by the designing computation', 'start': 42.809, 'duration': 4.77}
+{'text': "group and it's such it constitutes the", 'start': 44.79, 'duration': 4.5}
+{'text': 'fourth session in our lecture series', 'start': 47.579, 'duration': 5.69}
+{'text': 'under the title computational mediations', 'start': 49.29, 'duration': 6.39}
+{'text': 'before I introduce our speaker this', 'start': 53.269, 'duration': 4.301}
+{'text': 'evening I will just say a couple of', 'start': 55.68, 'duration': 4.86}
+{'text': 'words about the series which this year', 'start': 57.57, 'duration': 6.059}
+{'text': 'is curated by PhD candidate Theodora VAR', 'start': 60.54, 'duration': 4.86}
+{'text': 'Dooley in collaboration with Professor', 'start': 63.629, 'duration': 4.861}
+{'text': 'Terry Knight our theme this year', 'start': 65.4, 'duration': 6.06}
+{'text': 'computational mediations is selected to', 'start': 68.49, 'duration': 5.76}
+{'text': 'probe new modalities in action agency', 'start': 71.46, 'duration': 4.949}
+{'text': 'and expression that may emerge in the', 'start': 74.25, 'duration': 4.32}
+{'text': 'confluence between human intentionality', 'start': 76.409, 'duration': 4.411}
+{'text': 'and the properties of computational', 'start': 78.57, 'duration': 5.01}
+{'text': 'technologies in this mode of', 'start': 80.82, 'duration': 5.49}
+{'text': 'investigation some of the questions that', 'start': 83.58, 'duration': 6.27}
+{'text': 'works were exploring include what what', 'start': 86.31, 'duration': 6.66}
+{'text': 'how does computation inflect processes', 'start': 89.85, 'duration': 5.85}
+{'text': 'of design and making what is the role of', 'start': 92.97, 'duration': 5.49}
+{'text': 'the sign and of designers in instituting', 'start': 95.7, 'duration': 5.099}
+{'text': 'new forms of human technology', 'start': 98.46, 'duration': 5.67}
+{'text': 'relationships and also can mediation', 'start': 100.799, 'duration': 6.901}
+{'text': 'itself become a locus of design this', 'start': 104.13, 'duration': 5.19}
+{'text': 'evening we have the immense pleasure of', 'start': 107.7, 'duration': 4.89}
+{'text': 'welcoming Fred Turner whose work on', 'start': 109.32, 'duration': 4.92}
+{'text': 'media and cultural relationships', 'start': 112.59, 'duration': 3.69}
+{'text': 'continues to provide provocative', 'start': 114.24, 'duration': 4.41}
+{'text': 'insights into our topic of this series', 'start': 116.28, 'duration': 5.49}
+{'text': 'Media and agency in particular Fred', 'start': 118.65, 'duration': 5.25}
+{'text': "Turner is a cultural historian he's a", 'start': 121.77, 'duration': 4.02}
+{'text': 'professor and chair of the Department of', 'start': 123.9, 'duration': 4.339}
+{'text': 'Communication at Stanford University', 'start': 125.79, 'duration': 5.699}
+{'text': 'where his work explores media technology', 'start': 128.239, 'duration': 5.89}
+{'text': 'and American cultural history with a', 'start': 131.489, 'duration': 5.011}
+{'text': 'specific emphasis on how emerging', 'start': 134.129, 'duration': 4.351}
+{'text': 'technologies and media have shaped', 'start': 136.5, 'duration': 4.43}
+{'text': 'American life since the second world war', 'start': 138.48, 'duration': 5.64}
+{'text': 'he is the author of three books the', 'start': 140.93, 'duration': 4.959}
+{'text': 'award-winning from counterculture to', 'start': 144.12, 'duration': 4.649}
+{'text': 'cyber culture Stuart brand the whole', 'start': 145.889, 'duration': 3.781}
+{'text': 'earth Network', 'start': 148.769, 'duration': 2.671}
+{'text': 'the rights of digital utopianism from', 'start': 149.67, 'duration': 7.17}
+{'text': '2006 echoes of combat the Vietnam War in', 'start': 151.44, 'duration': 8.549}
+{'text': 'American memory from 1996 and most', 'start': 156.84, 'duration': 5.479}
+{'text': 'recently the Democratic surround', 'start': 159.989, 'duration': 5.011}
+{'text': 'multimedia and American liberalism from', 'start': 162.319, 'duration': 4.721}
+{'text': 'the world from World War 2 to the', 'start': 165.0, 'duration': 5.45}
+{'text': 'psychedelic sixties published in 2013', 'start': 167.04, 'duration': 5.61}
+{'text': 'Fred Turner earned his PhD in', 'start': 170.45, 'duration': 3.91}
+{'text': 'communication from the University of', 'start': 172.65, 'duration': 5.52}
+{'text': 'California at San Diego a BA in American', 'start': 174.36, 'duration': 5.43}
+{'text': 'and English literature from Brown', 'start': 178.17, 'duration': 4.11}
+{'text': 'University and he holds an MA in English', 'start': 179.79, 'duration': 5.64}
+{'text': 'from Columbia University before joining', 'start': 182.28, 'duration': 5.429}
+{'text': 'the faculty at Stanford Fred Turner', 'start': 185.43, 'duration': 4.47}
+{'text': "taught at the Harvard University's John", 'start': 187.709, 'duration': 4.351}
+{'text': 'F Kennedy School of Government as well', 'start': 189.9, 'duration': 4.14}
+{'text': 'as here at MIT at Sloan School of', 'start': 192.06, 'duration': 4.38}
+{'text': 'Management as well as the Institute for', 'start': 194.04, 'duration': 5.46}
+{'text': 'foreign languages and literature in', 'start': 196.44, 'duration': 4.769}
+{'text': 'addition to a prolific career in', 'start': 199.5, 'duration': 3.989}
+{'text': 'academia Fred Turner has also worked as', 'start': 201.209, 'duration': 4.441}
+{'text': 'a freelance journalist for more than a', 'start': 203.489, 'duration': 4.53}
+{'text': 'decade so please join me in welcoming', 'start': 205.65, 'duration': 9.78}
+{'text': 'Fred Turner thank you thank you very', 'start': 208.019, 'duration': 7.981}
+{'text': 'much', 'start': 215.43, 'duration': 4.32}
+{'text': "I like this crowd already so it's a", 'start': 216.0, 'duration': 5.31}
+{'text': 'little toasty here tonight do you mind', 'start': 219.75, 'duration': 5.28}
+{'text': 'if I take the jacket off thank you', 'start': 221.31, 'duration': 6.51}
+{'text': 'all right California style you know', 'start': 225.03, 'duration': 4.38}
+{'text': 'every time I come east I have this', 'start': 227.82, 'duration': 3.33}
+{'text': 'horrible confusion about you know do I', 'start': 229.41, 'duration': 6.15}
+{'text': "do I pack a suit do i I don't know okay", 'start': 231.15, 'duration': 5.94}
+{'text': "it's a real treat for me to be here", 'start': 235.56, 'duration': 3.899}
+{'text': 'tonight this is in many ways home', 'start': 237.09, 'duration': 3.959}
+{'text': 'territory for me', 'start': 239.459, 'duration': 3.03}
+{'text': 'you know I was born about a mile down', 'start': 241.049, 'duration': 4.56}
+{'text': 'the river I grew up in the nearby and I', 'start': 242.489, 'duration': 4.951}
+{'text': 'worked as a very modest freelance', 'start': 245.609, 'duration': 3.241}
+{'text': "journalist for a long time we've gone", 'start': 247.44, 'duration': 2.94}
+{'text': 'dark can we bring those back up a little', 'start': 248.85, 'duration': 5.639}
+{'text': 'bit please more light thank you oh okay', 'start': 250.38, 'duration': 6.03}
+{'text': 'all right in the back if you get sleepy', 'start': 254.489, 'duration': 4.171}
+{'text': 'raise your hand okay thank you great', 'start': 256.41, 'duration': 3.87}
+{'text': "thank you very much that's great", 'start': 258.66, 'duration': 3.389}
+{'text': "and I'm absolutely delighted to be back", 'start': 260.28, 'duration': 3.99}
+{'text': "here I'm particularly delighted because", 'start': 262.049, 'duration': 4.021}
+{'text': "much of the story that I'm going to tell", 'start': 264.27, 'duration': 4.68}
+{'text': 'has its origins literally in this', 'start': 266.07, 'duration': 5.76}
+{'text': 'building I think we are sitting in the', 'start': 268.95, 'duration': 5.07}
+{'text': 'middle of one of the most important', 'start': 271.83, 'duration': 4.61}
+{'text': 'engines of cultural change in America', 'start': 274.02, 'duration': 5.459}
+{'text': 'over the last 75 years and I want to', 'start': 276.44, 'duration': 4.87}
+{'text': 'tell you a little bit about that engine', 'start': 279.479, 'duration': 3.351}
+{'text': 'tonight', 'start': 281.31, 'duration': 3.99}
+{'text': "I'm gonna give a talk that should walk", 'start': 282.83, 'duration': 4.21}
+{'text': "through about three pieces I'd like to", 'start': 285.3, 'duration': 3.84}
+{'text': 'talk for about 45 minutes straight if', 'start': 287.04, 'duration': 3.93}
+{'text': 'you have questions of fact please just', 'start': 289.14, 'duration': 3.57}
+{'text': "jump right in raise your hand I'll call", 'start': 290.97, 'duration': 3.42}
+{'text': 'you on on you if you have conceptual', 'start': 292.71, 'duration': 2.79}
+{'text': 'questions if you could hold them to the', 'start': 294.39, 'duration': 2.43}
+{'text': "end that would be great we'll have lots", 'start': 295.5, 'duration': 4.41}
+{'text': "of time for for Q&A I'm gonna start with", 'start': 296.82, 'duration': 4.95}
+{'text': "Facebook and I'm gonna argue that", 'start': 299.91, 'duration': 4.29}
+{'text': 'Facebook poses a particular set of', 'start': 301.77, 'duration': 4.32}
+{'text': 'historical problems for American', 'start': 304.2, 'duration': 3.75}
+{'text': 'cultural historians and also for', 'start': 306.09, 'duration': 3.75}
+{'text': 'analysts of digital media digital media', 'start': 307.95, 'duration': 5.34}
+{'text': 'technology I sort of give to you in a', 'start': 309.84, 'duration': 5.79}
+{'text': 'nutshell now Facebook offers us a world', 'start': 313.29, 'duration': 4.71}
+{'text': 'in which connecting with one another', 'start': 315.63, 'duration': 5.12}
+{'text': 'through a commercial institutional space', 'start': 318.0, 'duration': 5.22}
+{'text': 'is presented as something that is a', 'start': 320.75, 'duration': 5.68}
+{'text': 'democratic good our interpersonal', 'start': 323.22, 'duration': 5.46}
+{'text': 'relations connecting to one another', 'start': 326.43, 'duration': 4.1}
+{'text': 'through devices through commerce is', 'start': 328.68, 'duration': 4.92}
+{'text': 'supposed to be a good how on earth did', 'start': 330.53, 'duration': 6.1}
+{'text': 'we come to believe that was true okay', 'start': 333.6, 'duration': 4.92}
+{'text': "that's the core question there the", 'start': 336.63, 'duration': 3.63}
+{'text': 'answer turns out to lie in a place that', 'start': 338.52, 'duration': 2.85}
+{'text': 'I would never have guessed when I', 'start': 340.26, 'duration': 2.159}
+{'text': "started this book and I'll say more", 'start': 341.37, 'duration': 3.33}
+{'text': 'about how I got to it it actually seems', 'start': 342.419, 'duration': 4.891}
+{'text': 'to lie in world war two and in a turn', 'start': 344.7, 'duration': 6.6}
+{'text': 'against mass media mass society top-down', 'start': 347.31, 'duration': 6.42}
+{'text': 'systems of all kinds seeming to be', 'start': 351.3, 'duration': 4.32}
+{'text': 'fascist at the time as many thought they', 'start': 353.73, 'duration': 6.18}
+{'text': 'were that turn led to a widespread', 'start': 355.62, 'duration': 5.79}
+{'text': 'belief among American elites', 'start': 359.91, 'duration': 4.83}
+{'text': 'particularly here at MIT that multimedia', 'start': 361.41, 'duration': 5.04}
+{'text': 'environments environments with screens', 'start': 364.74, 'duration': 3.6}
+{'text': 'all around us sounds coming from all', 'start': 366.45, 'duration': 5.16}
+{'text': 'sides would in fact free us to', 'start': 368.34, 'duration': 5.46}
+{'text': 'experience democratic modes of', 'start': 371.61, 'duration': 4.26}
+{'text': 'perception modes of perception based on', 'start': 373.8, 'duration': 5.9}
+{'text': 'choice integration of experience', 'start': 375.87, 'duration': 6.0}
+{'text': "tonight's talk that's the theme of my", 'start': 379.7, 'duration': 3.79}
+{'text': "book the Democratic surround and I'll go", 'start': 381.87, 'duration': 3.51}
+{'text': "into that in some depth but tonight's", 'start': 383.49, 'duration': 4.17}
+{'text': 'talk is to aim to do to tell you that', 'start': 385.38, 'duration': 4.89}
+{'text': 'story that origin story and then to', 'start': 387.66, 'duration': 5.61}
+{'text': 'argue about how computers got attached', 'start': 390.27, 'duration': 5.22}
+{'text': "to that story there's a fantasy of", 'start': 393.27, 'duration': 3.78}
+{'text': 'multimedia that emerges during World War', 'start': 395.49, 'duration': 3.989}
+{'text': 'two to which computers were quite', 'start': 397.05, 'duration': 4.5}
+{'text': 'self-consciously attached first by', 'start': 399.479, 'duration': 3.75}
+{'text': 'Norbert Wiener here in the late 40s and', 'start': 401.55, 'duration': 3.96}
+{'text': 'early 50s and then later by a group of', 'start': 403.229, 'duration': 4.021}
+{'text': 'counterculture based artists and', 'start': 405.51, 'duration': 5.219}
+{'text': 'engineers from Bell Labs in the 1970s it', 'start': 407.25, 'duration': 5.099}
+{'text': "will tell that story too there's gotta", 'start': 410.729, 'duration': 3.12}
+{'text': 'be a lot of history coming at you bear', 'start': 412.349, 'duration': 3.181}
+{'text': 'with me be patient', 'start': 413.849, 'duration': 5.281}
+{'text': "that's where we're headed and yeah let's", 'start': 415.53, 'duration': 4.67}
+{'text': 'get underway', 'start': 419.13, 'duration': 4.77}
+{'text': 'so we inhabit a world in which we are', 'start': 420.2, 'duration': 6.25}
+{'text': 'surrounded by screens I have a screen in', 'start': 423.9, 'duration': 3.75}
+{'text': "my pocket we're actually doing my bag", 'start': 426.45, 'duration': 4.92}
+{'text': "now so it doesn't ring we have laptops", 'start': 427.65, 'duration': 6.87}
+{'text': 'we have screens in the backs of all the', 'start': 431.37, 'duration': 4.59}
+{'text': 'seats on the airplane that I flew to get', 'start': 434.52, 'duration': 3.24}
+{'text': 'here we have screens in the backs of our', 'start': 435.96, 'duration': 6.03}
+{'text': 'SUV seats screens surround us and as', 'start': 437.76, 'duration': 6.0}
+{'text': 'they surround us they work a lot like', 'start': 441.99, 'duration': 4.83}
+{'text': 'Facebook they are offered to us by a', 'start': 443.76, 'duration': 5.88}
+{'text': 'wide variety of corporations as devices', 'start': 446.82, 'duration': 5.88}
+{'text': 'for interpersonal connection and the', 'start': 449.64, 'duration': 4.56}
+{'text': 'fantasy of interpersonal connection is', 'start': 452.7, 'duration': 3.42}
+{'text': 'not only that we will become more', 'start': 454.2, 'duration': 4.02}
+{'text': 'intimate with one another but that we', 'start': 456.12, 'duration': 4.799}
+{'text': 'will build a new kind of polity by quote', 'start': 458.22, 'duration': 4.77}
+{'text': 'connecting to one another we will be', 'start': 460.919, 'duration': 3.871}
+{'text': 'both independent agents of our own', 'start': 462.99, 'duration': 3.72}
+{'text': 'satisfaction seeking others that we want', 'start': 464.79, 'duration': 4.56}
+{'text': 'to be connected to and will be part of a', 'start': 466.71, 'duration': 4.68}
+{'text': 'sort of connected independent polity of', 'start': 469.35, 'duration': 4.68}
+{'text': 'individuals doing this seeking the', 'start': 471.39, 'duration': 5.16}
+{'text': 'seeking is managed not by the state but', 'start': 474.03, 'duration': 4.17}
+{'text': 'by a corporation based in Menlo Park', 'start': 476.55, 'duration': 6.36}
+{'text': 'California Facebook the images that we', 'start': 478.2, 'duration': 6.99}
+{'text': 'create for our Facebook are in turn', 'start': 482.91, 'duration': 3.9}
+{'text': 'conditioned by the images that we', 'start': 485.19, 'duration': 4.229}
+{'text': "encounter in the commercial sphere we're", 'start': 486.81, 'duration': 4.919}
+{'text': 'being offered I want to argue a kind of', 'start': 489.419, 'duration': 5.041}
+{'text': 'technology enabled commercially enabled', 'start': 491.729, 'duration': 6.571}
+{'text': 'mode of democratic politics that is in', 'start': 494.46, 'duration': 6.15}
+{'text': 'fact not democratic in any fundamental', 'start': 498.3, 'duration': 5.22}
+{'text': 'sense at all but is rather a mode of', 'start': 500.61, 'duration': 7.23}
+{'text': 'management of surveillance and I want to', 'start': 503.52, 'duration': 8.31}
+{'text': "see just exactly how we got there that's", 'start': 507.84, 'duration': 7.31}
+{'text': 'our goal today so a bit of background', 'start': 511.83, 'duration': 5.31}
+{'text': 'well thank you for that very kind', 'start': 515.15, 'duration': 2.71}
+{'text': 'introduction', 'start': 517.14, 'duration': 3.209}
+{'text': 'that was that was great so I went back', 'start': 517.86, 'duration': 5.85}
+{'text': "to it to grad school oh I don't know how", 'start': 520.349, 'duration': 4.711}
+{'text': "many years ago was it I don't about 20", 'start': 523.71, 'duration': 4.23}
+{'text': 'years ago now eek um and since that time', 'start': 525.06, 'duration': 5.79}
+{'text': "since about 2002 when I got my PhD I've", 'start': 527.94, 'duration': 5.64}
+{'text': 'been trying to do a kind of two things', 'start': 530.85, 'duration': 5.34}
+{'text': "I've been trying to tell a story of", 'start': 533.58, 'duration': 4.77}
+{'text': 'American cultural history after World', 'start': 536.19, 'duration': 4.8}
+{'text': 'War 2 that takes media technology very', 'start': 538.35, 'duration': 4.8}
+{'text': 'seriously if you ask are there any', 'start': 540.99, 'duration': 3.24}
+{'text': 'America are there any card-carrying', 'start': 543.15, 'duration': 3.2}
+{'text': 'American Historians in the room', 'start': 544.23, 'duration': 4.919}
+{'text': 'excellent', 'start': 546.35, 'duration': 4.989}
+{'text': 'all right good then I can say this thing', 'start': 549.149, 'duration': 4.05}
+{'text': 'without fear I know this will go on the', 'start': 551.339, 'duration': 4.341}
+{'text': 'web but you know whatever', 'start': 553.199, 'duration': 5.7}
+{'text': 'when you talk to a 2008 of American 20th', 'start': 555.68, 'duration': 5.019}
+{'text': "century culture and you ask them what's", 'start': 558.899, 'duration': 3.87}
+{'text': 'really important most of them will get', 'start': 560.699, 'duration': 7.5}
+{'text': 'all misty-eyed and say Roosevelt because', 'start': 562.769, 'duration': 7.081}
+{'text': 'American history of the 20th century', 'start': 568.199, 'duration': 3.75}
+{'text': 'like much American history tends to be a', 'start': 569.85, 'duration': 3.719}
+{'text': 'history of political leaders and the', 'start': 571.949, 'duration': 3.411}
+{'text': 'social forces that they managed that', 'start': 573.569, 'duration': 4.2}
+{'text': 'boggles my mind when I think about the', 'start': 575.36, 'duration': 3.88}
+{'text': '20th century I think about the rise of', 'start': 577.769, 'duration': 5.611}
+{'text': 'radio television recorded music cinema', 'start': 579.24, 'duration': 7.289}
+{'text': 'the internet those things are so', 'start': 583.38, 'duration': 5.1}
+{'text': 'antithetical to the study of American', 'start': 586.529, 'duration': 4.11}
+{'text': 'history as traditionally practiced that', 'start': 588.48, 'duration': 3.51}
+{'text': "they've actually migrated to their own", 'start': 590.639, 'duration': 3.06}
+{'text': 'Association the Society for the history', 'start': 591.99, 'duration': 4.14}
+{'text': 'of Technology the American Historical', 'start': 593.699, 'duration': 4.711}
+{'text': 'Association has no space for media', 'start': 596.13, 'duration': 5.069}
+{'text': 'history as such okay so goal one is to', 'start': 598.41, 'duration': 5.22}
+{'text': 'return media to the center of American', 'start': 601.199, 'duration': 5.37}
+{'text': 'cultural history goal two is to his', 'start': 603.63, 'duration': 5.459}
+{'text': "store a size Media Studies I don't know", 'start': 606.569, 'duration': 4.171}
+{'text': "what it's like here so much anymore at", 'start': 609.089, 'duration': 3.721}
+{'text': 'Stanford most of my friends who think', 'start': 610.74, 'duration': 4.11}
+{'text': 'hard about media media technology think', 'start': 612.81, 'duration': 3.63}
+{'text': 'about it in a sort of three year window', 'start': 614.85, 'duration': 3.78}
+{'text': "they're completely wedded to the product", 'start': 616.44, 'duration': 3.99}
+{'text': "development cycle right what's what's", 'start': 618.63, 'duration': 4.019}
+{'text': 'gonna happen to the iPhone in version', 'start': 620.43, 'duration': 6.12}
+{'text': 'seven right you know is Steve Jobs gonna', 'start': 622.649, 'duration': 5.851}
+{'text': 'launch uber of his own uber you know I', 'start': 626.55, 'duration': 6.24}
+{'text': "mean whatever from that place it's very", 'start': 628.5, 'duration': 6.81}
+{'text': 'hard to think about how the the', 'start': 632.79, 'duration': 3.84}
+{'text': 'large-scale claims for social change', 'start': 635.31, 'duration': 3.3}
+{'text': 'that are emerging in the tech world have', 'start': 636.63, 'duration': 4.709}
+{'text': 'historical roots let alone to challenge', 'start': 638.61, 'duration': 4.89}
+{'text': 'them and so my goal is to do historical', 'start': 641.339, 'duration': 3.661}
+{'text': 'work that provides a groundwork a', 'start': 643.5, 'duration': 4.769}
+{'text': 'groundwork a basis for rethinking the', 'start': 645.0, 'duration': 4.8}
+{'text': 'technologies that are emerging around us', 'start': 648.269, 'duration': 3.231}
+{'text': 'and the kinds of politics they promised', 'start': 649.8, 'duration': 4.139}
+{'text': "so that's my goal and I've written these", 'start': 651.5, 'duration': 4.24}
+{'text': 'two odd books the first was a book', 'start': 653.939, 'duration': 2.88}
+{'text': 'called from counterculture to cyber', 'start': 655.74, 'duration': 2.82}
+{'text': 'culture which started as my dissertation', 'start': 656.819, 'duration': 3.661}
+{'text': 'I was working on a part of it while I', 'start': 658.56, 'duration': 3.99}
+{'text': 'was teaching it Sloan and just four', 'start': 660.48, 'duration': 3.299}
+{'text': 'graduate students in the room I want to', 'start': 662.55, 'duration': 2.82}
+{'text': 'offer some encouragement that book', 'start': 663.779, 'duration': 3.42}
+{'text': 'changed my life but before it changed my', 'start': 665.37, 'duration': 5.159}
+{'text': 'life it was an obsessive strange project', 'start': 667.199, 'duration': 5.221}
+{'text': 'conducted in a back room inside another', 'start': 670.529, 'duration': 5.16}
+{'text': 'back room in the Sloan School and you', 'start': 672.42, 'duration': 4.469}
+{'text': 'know I was working on that book around', 'start': 675.689, 'duration': 4.231}
+{'text': "2000 and I thought I'd killed my career", 'start': 676.889, 'duration': 4.8}
+{'text': 'I just want I want sentence for the grad', 'start': 679.92, 'duration': 2.01}
+{'text': 'school', 'start': 681.689, 'duration': 1.771}
+{'text': 'in the room I was working on hippies', 'start': 681.93, 'duration': 3.36}
+{'text': 'while the rest of my field was working', 'start': 683.46, 'duration': 4.819}
+{'text': 'on the internet it all worked out okay', 'start': 685.29, 'duration': 4.859}
+{'text': 'so I just want to say that to the grad', 'start': 688.279, 'duration': 3.641}
+{'text': 'students in the room so this is a story', 'start': 690.149, 'duration': 4.621}
+{'text': 'of how countercultural ideals of the', 'start': 691.92, 'duration': 4.43}
+{'text': 'good society from the late 1960s', 'start': 694.77, 'duration': 5.009}
+{'text': "migrated into the tech world of the 80's", 'start': 696.35, 'duration': 5.109}
+{'text': "and 90's thanks largely to the effort of", 'start': 699.779, 'duration': 3.93}
+{'text': 'Stewart Brand and his cohort some of', 'start': 701.459, 'duration': 3.361}
+{'text': "whom you'll know you'll know", 'start': 703.709, 'duration': 3.301}
+{'text': "Tim O'Reilly you'll know Howard", 'start': 704.82, 'duration': 4.23}
+{'text': 'Rheingold Kevin Kelley the wired crew', 'start': 707.01, 'duration': 3.81}
+{'text': 'they all appear watching tomorrow it', 'start': 709.05, 'duration': 2.88}
+{'text': "doesn't appear but the others all appear", 'start': 710.82, 'duration': 3.51}
+{'text': "in this book and it's a track it's it's", 'start': 711.93, 'duration': 4.05}
+{'text': 'er attracts a network of people who come', 'start': 714.33, 'duration': 3.449}
+{'text': 'together in the 60s and stay together', 'start': 715.98, 'duration': 4.169}
+{'text': 'for 30 years and when they do they bring', 'start': 717.779, 'duration': 5.391}
+{'text': 'us terms like personal computer', 'start': 720.149, 'duration': 6.051}
+{'text': 'electronic frontier virtual community', 'start': 723.17, 'duration': 5.83}
+{'text': 'they really revamp our understanding of', 'start': 726.2, 'duration': 4.389}
+{'text': 'what the internet and the web can be in', 'start': 729.0, 'duration': 4.17}
+{'text': 'terms set by their own sixties', 'start': 730.589, 'duration': 5.671}
+{'text': 'countercultural experience so I finished', 'start': 733.17, 'duration': 6.74}
+{'text': 'that book came out that was good um', 'start': 736.26, 'duration': 5.79}
+{'text': 'wanted to get underway with another book', 'start': 739.91, 'duration': 4.78}
+{'text': 'and I was struck with the paradox I had', 'start': 742.05, 'duration': 5.039}
+{'text': 'always been told that the 1960s were a', 'start': 744.69, 'duration': 6.54}
+{'text': 'clean hard multi-colored break with this', 'start': 747.089, 'duration': 6.44}
+{'text': 'sort of dull black-and-white McCarthy a', 'start': 751.23, 'duration': 5.49}
+{'text': "1940s 1950s I'd always been told that", 'start': 753.529, 'duration': 4.211}
+{'text': 'the Cold War was a kind of', 'start': 756.72, 'duration': 4.2}
+{'text': 'black-and-white locked-down time imagine', 'start': 757.74, 'duration': 4.68}
+{'text': 'my surprise when in the course of', 'start': 760.92, 'duration': 3.48}
+{'text': 'researching that book I found that the', 'start': 762.42, 'duration': 3.63}
+{'text': 'hippies I was studying notably Stuart', 'start': 764.4, 'duration': 3.72}
+{'text': 'brand but all of his circle really can', 'start': 766.05, 'duration': 4.65}
+{'text': 'Kesey many others were actually reading', 'start': 768.12, 'duration': 4.83}
+{'text': 'the core literature of the 1940s and 50s', 'start': 770.7, 'duration': 4.77}
+{'text': 'for inspiration they were reading Erik', 'start': 772.95, 'duration': 4.61}
+{'text': 'Frome they were reading Karen horney', 'start': 775.47, 'duration': 4.559}
+{'text': 'they were reading Gordon Allport a', 'start': 777.56, 'duration': 4.779}
+{'text': 'psychologist employed at Harvard led', 'start': 780.029, 'duration': 3.871}
+{'text': 'some studies with the Boston police here', 'start': 782.339, 'duration': 3.211}
+{'text': 'and so what I started doing was just', 'start': 783.9, 'duration': 4.05}
+{'text': 'following those networks back just', 'start': 785.55, 'duration': 3.84}
+{'text': 'reading what they were reading and then', 'start': 787.95, 'duration': 3.509}
+{'text': 'seeing how those folks tied together in', 'start': 789.39, 'duration': 4.83}
+{'text': 'the past and that led me over a period', 'start': 791.459, 'duration': 4.171}
+{'text': "of years to the book I'll be talking", 'start': 794.22, 'duration': 3.9}
+{'text': 'about tonight the Democratic surround in', 'start': 795.63, 'duration': 4.32}
+{'text': 'many ways the Democratic surround is a', 'start': 798.12, 'duration': 4.38}
+{'text': 'prequel to from counterculture to cyber', 'start': 799.95, 'duration': 4.77}
+{'text': "culture so far so good everybody's", 'start': 802.5, 'duration': 5.67}
+{'text': 'hearing me okay excellent all right so', 'start': 804.72, 'duration': 6.63}
+{'text': "let's go back in let me take you now to", 'start': 808.17, 'duration': 7.68}
+{'text': 'the late 1930s until the 1930s', 'start': 811.35, 'duration': 6.77}
+{'text': 'American intellectuals tended to believe', 'start': 815.85, 'duration': 5.76}
+{'text': 'that the leading source of high culture', 'start': 818.12, 'duration': 7.39}
+{'text': 'on this planet was Germany not France', 'start': 821.61, 'duration': 5.94}
+{'text': "Germany and don't nevermind World War", 'start': 825.51, 'duration': 3.72}
+{'text': 'one despite World War one this was the', 'start': 827.55, 'duration': 2.67}
+{'text': 'country that had brought us you know', 'start': 829.23, 'duration': 3.24}
+{'text': 'Beethoven it brought us philosophy', 'start': 830.22, 'duration': 4.05}
+{'text': 'heinrich heine the poet it had brought', 'start': 832.47, 'duration': 3.96}
+{'text': 'us high culture of the highest kinds it', 'start': 834.27, 'duration': 4.56}
+{'text': 'was still the home in the 1930s of some', 'start': 836.43, 'duration': 5.06}
+{'text': 'of the very best academies in the world', 'start': 838.83, 'duration': 6.27}
+{'text': 'so when Hitler comes to power American', 'start': 841.49, 'duration': 5.38}
+{'text': 'intellectuals politicians journalists', 'start': 845.1, 'duration': 4.8}
+{'text': 'have a problem how can they explain the', 'start': 846.87, 'duration': 5.07}
+{'text': 'fact that the most literate nation on', 'start': 849.9, 'duration': 3.84}
+{'text': 'earth from their perspective has', 'start': 851.94, 'duration': 4.17}
+{'text': 'suddenly turned itself over to this', 'start': 853.74, 'duration': 5.97}
+{'text': 'wacky mustachioed former clerk Adolf', 'start': 856.11, 'duration': 6.36}
+{'text': 'Hitler now today I think we could say', 'start': 859.71, 'duration': 4.32}
+{'text': 'that a lot of the answer has to do with', 'start': 862.47, 'duration': 3.81}
+{'text': 'the chaos of Aimar Germany economic', 'start': 864.03, 'duration': 4.32}
+{'text': 'collapse the search for strong', 'start': 866.28, 'duration': 3.27}
+{'text': 'leadership out of such a chaotic', 'start': 868.35, 'duration': 3.84}
+{'text': 'situation but at the time that', 'start': 869.55, 'duration': 4.83}
+{'text': 'explanation was actually relatively sort', 'start': 872.19, 'duration': 4.26}
+{'text': 'of a minority explanation a much more', 'start': 874.38, 'duration': 4.71}
+{'text': 'common explanation was simply that', 'start': 876.45, 'duration': 5.51}
+{'text': 'Hitler had mastered the mass media', 'start': 879.09, 'duration': 5.73}
+{'text': 'Hitler had somehow found a way mostly', 'start': 881.96, 'duration': 5.38}
+{'text': 'through radio but also through film and', 'start': 884.82, 'duration': 6.21}
+{'text': 'the print press to unmanned the reason', 'start': 887.34, 'duration': 5.55}
+{'text': 'of German citizens to disabled the', 'start': 891.03, 'duration': 4.23}
+{'text': 'reason of German citizens to stir up', 'start': 892.89, 'duration': 4.86}
+{'text': 'their unconscious now remember this is', 'start': 895.26, 'duration': 4.02}
+{'text': 'in the 30s the unconscious is still a', 'start': 897.75, 'duration': 3.84}
+{'text': 'very new idea Freud only had only come', 'start': 899.28, 'duration': 4.65}
+{'text': 'to the US very recently stir up their', 'start': 901.59, 'duration': 3.87}
+{'text': 'unconsciousness stop them from thinking', 'start': 903.93, 'duration': 3.96}
+{'text': 'and cause them to bind their affections', 'start': 905.46, 'duration': 5.46}
+{'text': 'in a single upward direction there were', 'start': 907.89, 'duration': 5.37}
+{'text': 'two theories of how this worked the', 'start': 910.92, 'duration': 4.11}
+{'text': 'first theory this is one of my favs', 'start': 913.26, 'duration': 4.35}
+{'text': "that's why hermann goering is here doing", 'start': 915.03, 'duration': 6.12}
+{'text': 'his fascist pose the first theory was', 'start': 917.61, 'duration': 5.16}
+{'text': 'that Hitler in his circle were literally', 'start': 921.15, 'duration': 4.2}
+{'text': 'clinically insane and that they were', 'start': 922.77, 'duration': 4.98}
+{'text': 'able to transmit their interior', 'start': 925.35, 'duration': 4.74}
+{'text': 'psychological madness to large', 'start': 927.75, 'duration': 5.07}
+{'text': 'populations through the media media was', 'start': 930.09, 'duration': 4.14}
+{'text': 'literally a vehicle for conveying their', 'start': 932.82, 'duration': 2.61}
+{'text': 'madness I know it sounds a little wacky', 'start': 934.23, 'duration': 3.39}
+{'text': 'to us today but this is a sincere belief', 'start': 935.43, 'duration': 3.63}
+{'text': 'it was published in the New York Times', 'start': 937.62, 'duration': 4.8}
+{'text': "many other reputable outlets and that's", 'start': 939.06, 'duration': 6.57}
+{'text': 'one vision the other vision is in the', 'start': 942.42, 'duration': 5.4}
+{'text': 'nature of mass media themselves and I', 'start': 945.63, 'duration': 3.08}
+{'text': 'wanted you to see', 'start': 947.82, 'duration': 2.54}
+{'text': 'this image from the rural', 'start': 948.71, 'duration': 3.27}
+{'text': 'electrification administration in the US', 'start': 950.36, 'duration': 3.21}
+{'text': 'because I think it conveys this second', 'start': 951.98, 'duration': 3.78}
+{'text': 'idea you can see these rays coming in', 'start': 953.57, 'duration': 3.75}
+{'text': "and they're meant to show that now", 'start': 955.76, 'duration': 3.9}
+{'text': 'finally radio can reach the most rural', 'start': 957.32, 'duration': 4.68}
+{'text': 'houses in America but I think they also', 'start': 959.66, 'duration': 4.53}
+{'text': 'show just how powerful people thought', 'start': 962.0, 'duration': 4.8}
+{'text': 'the Rays of radio were they believed', 'start': 964.19, 'duration': 4.5}
+{'text': 'many Americans and many others believed', 'start': 966.8, 'duration': 5.19}
+{'text': 'that the one-to-many situation that mass', 'start': 968.69, 'duration': 6.39}
+{'text': 'media require was itself a theatrical', 'start': 971.99, 'duration': 6.45}
+{'text': 'practice of the fascist situation that', 'start': 975.08, 'duration': 6.33}
+{'text': 'the mass media asked you to turn your', 'start': 978.44, 'duration': 5.61}
+{'text': 'attentions toward a single point even a', 'start': 981.41, 'duration': 4.98}
+{'text': 'distant point in Washington or in', 'start': 984.05, 'duration': 5.19}
+{'text': 'Germany and melt yourself into an', 'start': 986.39, 'duration': 6.33}
+{'text': 'imagined mass attune to and ultimately', 'start': 989.24, 'duration': 5.81}
+{'text': 'perhaps obedient to such distant figures', 'start': 992.72, 'duration': 5.67}
+{'text': 'now this is not just a German problem in', 'start': 995.05, 'duration': 6.76}
+{'text': 'the 30s I was completely surprised when', 'start': 998.39, 'duration': 4.71}
+{'text': 'I went back and started reading old', 'start': 1001.81, 'duration': 3.0}
+{'text': 'issues of The Saturday Evening Post and', 'start': 1003.1, 'duration': 3.96}
+{'text': 'other magazines from the 30s to see', 'start': 1004.81, 'duration': 4.35}
+{'text': 'Franklin Roosevelt called the fourth', 'start': 1007.06, 'duration': 3.38}
+{'text': 'fascist', 'start': 1009.16, 'duration': 3.39}
+{'text': "this is especially shocking if you've", 'start': 1010.44, 'duration': 4.54}
+{'text': 'grown up as I have around historians of', 'start': 1012.55, 'duration': 4.49}
+{'text': "the 20th century who worship Roosevelt's", 'start': 1014.98, 'duration': 5.39}
+{'text': 'no he tuple issues here tonight', 'start': 1017.04, 'duration': 6.78}
+{'text': 'roosevelt was was was laid up alongside', 'start': 1020.37, 'duration': 8.469}
+{'text': 'Tojo Mussolini and Hitler why because he', 'start': 1023.82, 'duration': 7.389}
+{'text': 'too seemed to have mastered the mass', 'start': 1028.839, 'duration': 5.161}
+{'text': 'media and to through his fireside chats', 'start': 1031.209, 'duration': 5.311}
+{'text': 'to be reaching down into the homes of', 'start': 1034.0, 'duration': 5.22}
+{'text': 'Americans where they lived emotionally', 'start': 1036.52, 'duration': 5.64}
+{'text': 'grabbing their emotions and turning them', 'start': 1039.22, 'duration': 5.4}
+{'text': 'toward the service of his own efforts to', 'start': 1042.16, 'duration': 4.53}
+{'text': 'centralize and massif I the American', 'start': 1044.62, 'duration': 3.63}
+{'text': 'state in the national reconstruction', 'start': 1046.69, 'duration': 5.52}
+{'text': 'administration people were just terribly', 'start': 1048.25, 'duration': 6.84}
+{'text': 'afraid that mass media and even in the', 'start': 1052.21, 'duration': 4.67}
+{'text': 'hands of a relatively benevolent leader', 'start': 1055.09, 'duration': 7.02}
+{'text': 'could be the gateway to fascism nor were', 'start': 1056.88, 'duration': 8.77}
+{'text': 'their concerns without context something', 'start': 1062.11, 'duration': 4.53}
+{'text': 'that I think many of us have forgotten', 'start': 1065.65, 'duration': 4.02}
+{'text': 'certainly I never knew was how viable', 'start': 1066.64, 'duration': 6.33}
+{'text': 'fascism was as a political option in the', 'start': 1069.67, 'duration': 5.07}
+{'text': 'United States and in England before the', 'start': 1072.97, 'duration': 4.11}
+{'text': 'war these are British fascists circa', 'start': 1074.74, 'duration': 6.06}
+{'text': '1938 in Devon England but there were', 'start': 1077.08, 'duration': 5.189}
+{'text': 'fascists all through the United', 'start': 1080.8, 'duration': 4.379}
+{'text': 'States you may remember father Coughlin', 'start': 1082.269, 'duration': 4.53}
+{'text': 'father Coughlin was a right-wing', 'start': 1085.179, 'duration': 4.23}
+{'text': 'preacher not unlike Donald Trump went on', 'start': 1086.799, 'duration': 3.96}
+{'text': 'the air was Catholic he went on the air', 'start': 1089.409, 'duration': 3.57}
+{'text': 'once a week he had an audience of 3', 'start': 1090.759, 'duration': 4.92}
+{'text': 'million he prote he preached in favor of', 'start': 1092.979, 'duration': 4.95}
+{'text': 'the protocols of the Elders of Zion and', 'start': 1095.679, 'duration': 4.401}
+{'text': 'which is a famous pro-nazi tract', 'start': 1097.929, 'duration': 5.85}
+{'text': 'advocated Nazi ideals a Gallup poll', 'start': 1100.08, 'duration': 5.979}
+{'text': 'suggested that 68% of his weekly', 'start': 1103.779, 'duration': 7.31}
+{'text': 'listeners agreed with his views 1939', 'start': 1106.059, 'duration': 7.5}
+{'text': 'Madison Square Garden in the heart of', 'start': 1111.089, 'duration': 8.04}
+{'text': 'Jewish New York 22,000 Americans 22,000', 'start': 1113.559, 'duration': 8.641}
+{'text': 'rallied on behalf of fascism', 'start': 1119.129, 'duration': 5.41}
+{'text': 'they hung banners from Madison Square', 'start': 1122.2, 'duration': 5.49}
+{'text': 'Garden saying stop Jewish domination of', 'start': 1124.539, 'duration': 6.21}
+{'text': 'Christian America and they put people in', 'start': 1127.69, 'duration': 5.579}
+{'text': 'brown shirt uniforms on the front stage', 'start': 1130.749, 'duration': 5.22}
+{'text': 'before banners of the American flag and', 'start': 1133.269, 'duration': 4.38}
+{'text': "George Washington there's a picture of", 'start': 1135.969, 'duration': 2.94}
+{'text': 'this in the in the book Democratic', 'start': 1137.649, 'duration': 5.94}
+{'text': 'surround worse after Hitler went into', 'start': 1138.909, 'duration': 7.55}
+{'text': 'Poland after Hitler went into Poland a', 'start': 1143.589, 'duration': 5.4}
+{'text': 'thousand Americans marched down East', 'start': 1146.459, 'duration': 5.231}
+{'text': '86th Street carrying', 'start': 1148.989, 'duration': 5.1}
+{'text': 'swastikas and American flags wearing', 'start': 1151.69, 'duration': 4.439}
+{'text': 'fake Nazi uniforms and they were not', 'start': 1154.089, 'duration': 5.64}
+{'text': 'booed they were not booed it was a', 'start': 1156.129, 'duration': 5.311}
+{'text': 'picture that in the book two crowds', 'start': 1159.729, 'duration': 3.39}
+{'text': 'lined the street and they did not boo', 'start': 1161.44, 'duration': 4.589}
+{'text': "them chances aren't you know Humphrey", 'start': 1163.119, 'duration': 4.41}
+{'text': 'Bogart what movies do you know that', 'start': 1166.029, 'duration': 2.671}
+{'text': 'Humphrey Bogart has been in just shout', 'start': 1167.529, 'duration': 4.08}
+{'text': 'them out Casablanca great help me Bob', 'start': 1168.7, 'duration': 7.129}
+{'text': 'help me here Mario get him out way', 'start': 1171.609, 'duration': 6.95}
+{'text': "ballsy's Falken big sleep keep going", 'start': 1175.829, 'duration': 5.17}
+{'text': 'treasure yet treasures here Madre great', 'start': 1178.559, 'duration': 6.4}
+{'text': 'okay my guess is that you like me have', 'start': 1180.999, 'duration': 5.67}
+{'text': 'never had never seen until I saw this in', 'start': 1184.959, 'duration': 3.18}
+{'text': 'the middle of the night a film called', 'start': 1186.669, 'duration': 4.11}
+{'text': 'the Black Legion the Black Legion was a', 'start': 1188.139, 'duration': 5.49}
+{'text': '1937 Humphrey Bogart film in which he', 'start': 1190.779, 'duration': 4.65}
+{'text': "played a black shirt 'add American", 'start': 1193.629, 'duration': 2.49}
+{'text': 'fascist', 'start': 1195.429, 'duration': 4.56}
+{'text': 'who killed his Polish neighbor he and', 'start': 1196.119, 'duration': 6.03}
+{'text': 'his black shirt team hoped to foment a', 'start': 1199.989, 'duration': 4.23}
+{'text': "fascist revolution in the u.s. let's", 'start': 1202.149, 'duration': 3.09}
+{'text': "just say that movie doesn't get as much", 'start': 1204.219, 'duration': 4.5}
+{'text': "play as Casablanca does okay I haven't I", 'start': 1205.239, 'duration': 5.28}
+{'text': 'had no idea I thought by Miller Lite', 'start': 1208.719, 'duration': 4.38}
+{'text': "couldn't sleep caught it on TV was had", 'start': 1210.519, 'duration': 4.801}
+{'text': 'my mind blown you know in the immortal', 'start': 1213.099, 'duration': 2.761}
+{'text': 'words of sink', 'start': 1215.32, 'duration': 2.25}
+{'text': 'Louis there was a fear in the US that it', 'start': 1215.86, 'duration': 5.34}
+{'text': 'really can happen here so I want to set', 'start': 1217.57, 'duration': 4.62}
+{'text': 'the stage before I go into the', 'start': 1221.2, 'duration': 3.329}
+{'text': 'multimedia stuff just by again repeating', 'start': 1222.19, 'duration': 3.8}
+{'text': 'the fear here is that mass media', 'start': 1224.529, 'duration': 6.931}
+{'text': 'one-to-many media create fascists either', 'start': 1225.99, 'duration': 8.2}
+{'text': 'by engaging individuals with mad leaders', 'start': 1231.46, 'duration': 4.74}
+{'text': 'or simply by putting us all in crowds', 'start': 1234.19, 'duration': 4.739}
+{'text': 'pointing in the same direction so world', 'start': 1236.2, 'duration': 4.8}
+{'text': 'war 2 gets underway and this poses a', 'start': 1238.929, 'duration': 4.051}
+{'text': 'problem for American leaders and', 'start': 1241.0, 'duration': 3.45}
+{'text': 'American leaders at this time includes', 'start': 1242.98, 'duration': 3.419}
+{'text': 'political leaders but also intellectuals', 'start': 1244.45, 'duration': 4.65}
+{'text': 'social scientists if we want to engage', 'start': 1246.399, 'duration': 6.061}
+{'text': 'in confronting fascism and we want to go', 'start': 1249.1, 'duration': 5.789}
+{'text': 'to war how are we going to get our own', 'start': 1252.46, 'duration': 5.219}
+{'text': 'citizens to confront fascism in a way', 'start': 1254.889, 'duration': 5.88}
+{'text': "that doesn't turn them into fascists so", 'start': 1257.679, 'duration': 4.531}
+{'text': "there's a circle in Roosevelt's crowd", 'start': 1260.769, 'duration': 4.051}
+{'text': "that says don't worry about it gurbles", 'start': 1262.21, 'duration': 4.26}
+{'text': 'is doing an incredibly good job', 'start': 1264.82, 'duration': 3.479}
+{'text': 'we need to imitate his methods and', 'start': 1266.47, 'duration': 5.87}
+{'text': "deprogram the people later ok that's", 'start': 1268.299, 'duration': 5.88}
+{'text': 'yeah I wish I were kidding', 'start': 1272.34, 'duration': 5.5}
+{'text': "that's almost verbatim there was another", 'start': 1274.179, 'duration': 5.61}
+{'text': 'group however that had a very different', 'start': 1277.84, 'duration': 3.87}
+{'text': 'view and they actually ended up having a', 'start': 1279.789, 'duration': 3.451}
+{'text': 'lot of influence they are long forgotten', 'start': 1281.71, 'duration': 2.88}
+{'text': 'but very important group of', 'start': 1283.24, 'duration': 3.12}
+{'text': 'intellectuals called the committee for', 'start': 1284.59, 'duration': 4.17}
+{'text': 'national morale they formed together in', 'start': 1286.36, 'duration': 5.189}
+{'text': '1941 they were led by an art historian', 'start': 1288.76, 'duration': 5.7}
+{'text': 'named Arthur up on Pope our historians', 'start': 1291.549, 'duration': 4.831}
+{'text': 'in the room you too can lead political', 'start': 1294.46, 'duration': 5.04}
+{'text': 'movements ok and time has a chuckle but', 'start': 1296.38, 'duration': 4.56}
+{'text': 'back then it was not he brought together', 'start': 1299.5, 'duration': 3.029}
+{'text': "60 of America's leading social", 'start': 1300.94, 'duration': 3.209}
+{'text': 'scientists anthropologists people like', 'start': 1302.529, 'duration': 3.9}
+{'text': 'Margaret Mead Gregory Bateson Gordon', 'start': 1304.149, 'duration': 4.77}
+{'text': 'Allport from Harvard he gathered them', 'start': 1306.429, 'duration': 5.73}
+{'text': 'together and tasked them with figuring', 'start': 1308.919, 'duration': 6.541}
+{'text': 'out how to build an American mode of', 'start': 1312.159, 'duration': 5.61}
+{'text': 'morale that would preserve American', 'start': 1315.46, 'duration': 5.04}
+{'text': 'individuality but at the same time allow', 'start': 1317.769, 'duration': 4.201}
+{'text': 'us to be unified in our confrontation', 'start': 1320.5, 'duration': 4.74}
+{'text': 'with fascism he had two ideas that are', 'start': 1321.97, 'duration': 5.91}
+{'text': 'really important a first idea in this', 'start': 1325.24, 'duration': 4.23}
+{'text': 'crowd is the idea of democratic', 'start': 1327.88, 'duration': 5.159}
+{'text': 'character in this period much of', 'start': 1329.47, 'duration': 5.069}
+{'text': 'American social science was preoccupied', 'start': 1333.039, 'duration': 3.301}
+{'text': 'with the idea brought to us by Franz', 'start': 1334.539, 'duration': 4.14}
+{'text': 'boas the anthropologist the different', 'start': 1336.34, 'duration': 4.62}
+{'text': 'nations have different character styles', 'start': 1338.679, 'duration': 5.941}
+{'text': 'and that whether child-rearing or media', 'start': 1340.96, 'duration': 5.91}
+{'text': 'they tended to invoke those styles and', 'start': 1344.62, 'duration': 3.36}
+{'text': "reproduce them and that's what gave", 'start': 1346.87, 'duration': 2.31}
+{'text': 'cultures their coherent', 'start': 1347.98, 'duration': 4.11}
+{'text': 'so one theory here is that mass media', 'start': 1349.18, 'duration': 5.25}
+{'text': 'triggered the authoritarian personality', 'start': 1352.09, 'duration': 4.17}
+{'text': 'style of Nazi Germany reinforced it and', 'start': 1354.43, 'duration': 5.67}
+{'text': 'triggered it how would we get media that', 'start': 1356.26, 'duration': 7.46}
+{'text': 'would produce Democratic character', 'start': 1360.1, 'duration': 6.66}
+{'text': 'Allport wrote something in 1942 that I', 'start': 1363.72, 'duration': 4.42}
+{'text': 'think gives us an insight into how they', 'start': 1366.76, 'duration': 3.69}
+{'text': 'hope to do this this is just a passage', 'start': 1368.14, 'duration': 3.48}
+{'text': 'from an essay he wrote the nature of', 'start': 1370.45, 'duration': 3.24}
+{'text': 'democratic morale and there are two', 'start': 1371.62, 'duration': 3.87}
+{'text': 'pieces two words here that I want to', 'start': 1373.69, 'duration': 4.95}
+{'text': 'really flag for you as key the first', 'start': 1375.49, 'duration': 7.05}
+{'text': 'word is personality in a democracy you', 'start': 1378.64, 'duration': 6.69}
+{'text': 'resist fascism by strengthening', 'start': 1382.54, 'duration': 5.19}
+{'text': "something inside yourself it's your", 'start': 1385.33, 'duration': 4.23}
+{'text': 'personality something inside you', 'start': 1387.73, 'duration': 4.19}
+{'text': 'individually must be strengthened and', 'start': 1389.56, 'duration': 5.58}
+{'text': "once it's strengthened it needs to be", 'start': 1391.92, 'duration': 6.67}
+{'text': 'brought together with others not on the', 'start': 1395.14, 'duration': 5.34}
+{'text': 'basis of top-down ordering systems not', 'start': 1398.59, 'duration': 3.68}
+{'text': 'on the basis of hierarchy or bureaucracy', 'start': 1400.48, 'duration': 4.89}
+{'text': 'but rather on principles of voluntary', 'start': 1402.27, 'duration': 8.86}
+{'text': 'coordination Facebook sorry you see', 'start': 1405.37, 'duration': 9.54}
+{'text': "where I'm going here okay this is an", 'start': 1411.13, 'duration': 5.25}
+{'text': 'effort to liberate Americans from the', 'start': 1414.91, 'duration': 3.33}
+{'text': "threat of fascism but we're opening a", 'start': 1416.38, 'duration': 3.33}
+{'text': 'door to something that we I think know', 'start': 1418.24, 'duration': 5.04}
+{'text': 'now as something different okay so here', 'start': 1419.71, 'duration': 5.91}
+{'text': 'we are in New York this is 1942 groups', 'start': 1423.28, 'duration': 3.51}
+{'text': 'are working together for about two years', 'start': 1425.62, 'duration': 2.76}
+{'text': "they're writing white papers they're", 'start': 1426.79, 'duration': 3.21}
+{'text': "publishing books they're very visible", 'start': 1428.38, 'duration': 4.5}
+{'text': "they're advising Roosevelt and they are", 'start': 1430.0, 'duration': 4.26}
+{'text': 'the opposition to the sort of pro', 'start': 1432.88, 'duration': 4.22}
+{'text': "gurbles faction inside Roosevelt's group", 'start': 1434.26, 'duration': 5.46}
+{'text': 'they theorize that in order to', 'start': 1437.1, 'duration': 5.29}
+{'text': 'coordinate the intelligences and wills', 'start': 1439.72, 'duration': 5.07}
+{'text': 'of people what they need to do is design', 'start': 1442.39, 'duration': 5.46}
+{'text': 'a medium built on non hierarchical', 'start': 1444.79, 'duration': 5.55}
+{'text': "principles now what's that going to look", 'start': 1447.85, 'duration': 4.68}
+{'text': 'like they have lots of different ideas', 'start': 1450.34, 'duration': 4.08}
+{'text': 'but basically they are all oriented', 'start': 1452.53, 'duration': 5.07}
+{'text': 'around putting images sounds smoke bombs', 'start': 1454.42, 'duration': 6.27}
+{'text': 'okay what kind of wacky around people so', 'start': 1457.6, 'duration': 4.56}
+{'text': 'that they could gather up some idea of', 'start': 1460.69, 'duration': 3.63}
+{'text': 'what America meant for themselves they', 'start': 1462.16, 'duration': 4.17}
+{'text': "had theories but they're all writers", 'start': 1464.32, 'duration': 4.34}
+{'text': "they really don't know how to make media", 'start': 1466.33, 'duration': 7.95}
+{'text': 'lucky for them they were right down the', 'start': 1468.66, 'duration': 7.72}
+{'text': 'street from a group of refugee Bauhaus', 'start': 1474.28, 'duration': 4.47}
+{'text': 'artists who had moved to New York in', 'start': 1476.38, 'duration': 5.16}
+{'text': '1937 so Walter Gropius is part of this', 'start': 1478.75, 'duration': 3.62}
+{'text': 'crowd but the', 'start': 1481.54, 'duration': 2.57}
+{'text': 'the figure who and as well as his lászló', 'start': 1482.37, 'duration': 3.45}
+{'text': 'moholy-nagy and yogi Kepesh who later', 'start': 1484.11, 'duration': 3.63}
+{'text': "came here to MIT they're all part of", 'start': 1485.82, 'duration': 3.66}
+{'text': 'this crowd but the figure who matters', 'start': 1487.74, 'duration': 3.9}
+{'text': 'most for our story tonight is Herbert', 'start': 1489.48, 'duration': 5.16}
+{'text': 'Beier Herbert Beier was the inventor of', 'start': 1491.64, 'duration': 4.89}
+{'text': 'the all lowercase type that many of us', 'start': 1494.64, 'duration': 5.4}
+{'text': "still use from the Bauhaus he's a", 'start': 1496.53, 'duration': 5.73}
+{'text': 'typographer designer museum exhibition', 'start': 1500.04, 'duration': 4.86}
+{'text': 'designer he also went on parenthetically', 'start': 1502.26, 'duration': 4.56}
+{'text': 'to help create Aspen as the place where', 'start': 1504.9, 'duration': 3.6}
+{'text': 'we have the Aspen Institute created as a', 'start': 1506.82, 'duration': 3.03}
+{'text': 'sort of intellectual center later in', 'start': 1508.5, 'duration': 5.01}
+{'text': 'life in the early 1930s he came up with', 'start': 1509.85, 'duration': 6.66}
+{'text': 'a new theory of exhibitions that had an', 'start': 1513.51, 'duration': 5.669}
+{'text': 'enormous impact on American culture and', 'start': 1516.51, 'duration': 4.86}
+{'text': 'American media today in our own time', 'start': 1519.179, 'duration': 4.741}
+{'text': 'right how you hang paintings just', 'start': 1521.37, 'duration': 4.559}
+{'text': "doesn't seem like a massively important", 'start': 1523.92, 'duration': 4.889}
+{'text': "political project ok just it's like yeah", 'start': 1525.929, 'duration': 3.961}
+{'text': 'okay so you hung him over the ceiling', 'start': 1528.809, 'duration': 3.931}
+{'text': 'big deal right in his time it matters', 'start': 1529.89, 'duration': 4.59}
+{'text': 'enormous ly it matters in two different', 'start': 1532.74, 'duration': 3.45}
+{'text': 'ways the first thing to know is that', 'start': 1534.48, 'duration': 3.0}
+{'text': 'when he starts designing museum', 'start': 1536.19, 'duration': 3.48}
+{'text': 'exhibitions traditional museums are', 'start': 1537.48, 'duration': 5.22}
+{'text': 'doing this picture ilvl individual', 'start': 1539.67, 'duration': 6.99}
+{'text': 'encounter absorbed picture eye level', 'start': 1542.7, 'duration': 6.39}
+{'text': 'individual counter absorbed you were', 'start': 1546.66, 'duration': 4.35}
+{'text': 'meant to go sort of around the wall', 'start': 1549.09, 'duration': 3.78}
+{'text': 'there are exceptions to this we can talk', 'start': 1551.01, 'duration': 3.75}
+{'text': 'about Russian constructivism surrealism', 'start': 1552.87, 'duration': 3.93}
+{'text': 'the salons of ancient France mean we can', 'start': 1554.76, 'duration': 4.5}
+{'text': 'go deep on the differences but the world', 'start': 1556.8, 'duration': 4.8}
+{'text': "that he's pushing back on is a world in", 'start': 1559.26, 'duration': 3.9}
+{'text': 'which individual images are hung at eye', 'start': 1561.6, 'duration': 5.01}
+{'text': 'level in a line around a room what he', 'start': 1563.16, 'duration': 5.85}
+{'text': "says is that's not how people work he's", 'start': 1566.61, 'duration': 4.59}
+{'text': "not a Freudian he's a gestalt issed", 'start': 1569.01, 'duration': 6.24}
+{'text': 'he believes that what we need to do to', 'start': 1571.2, 'duration': 6.42}
+{'text': 'become whole people is to see things', 'start': 1575.25, 'duration': 4.95}
+{'text': 'around ourselves knit them together into', 'start': 1577.62, 'duration': 4.89}
+{'text': 'our individual personalities in a way', 'start': 1580.2, 'duration': 4.56}
+{'text': 'that is individual to us and strengthen', 'start': 1582.51, 'duration': 5.22}
+{'text': 'ourselves in the 1930s in order to', 'start': 1584.76, 'duration': 5.299}
+{'text': 'resist the predations of Aimar Germany', 'start': 1587.73, 'duration': 5.43}
+{'text': 'when he comes to the US he needs a job', 'start': 1590.059, 'duration': 6.011}
+{'text': "very badly okay and he's more than happy", 'start': 1593.16, 'duration': 6.21}
+{'text': 'to take the multimedia theory of display', 'start': 1596.07, 'duration': 4.82}
+{'text': "that he's developed in Europe and", 'start': 1599.37, 'duration': 4.77}
+{'text': "repurpose it now he's going to help", 'start': 1600.89, 'duration': 5.62}
+{'text': 'produce not just the new man of Germany', 'start': 1604.14, 'duration': 3.51}
+{'text': 'in the early 30s which is what he was', 'start': 1606.51, 'duration': 4.35}
+{'text': 'aiming for but instead the Democratic', 'start': 1607.65, 'duration': 5.76}
+{'text': 'man of the United States sufficiently', 'start': 1610.86, 'duration': 4.76}
+{'text': 'strong inside himself in usual', 'start': 1613.41, 'duration': 6.2}
+{'text': 'with him himself to push back against', 'start': 1615.62, 'duration': 8.85}
+{'text': 'the Nazi regime the first place buyer', 'start': 1619.61, 'duration': 7.26}
+{'text': 'saw his designs implemented was the', 'start': 1624.47, 'duration': 5.1}
+{'text': 'Museum of Modern Art this is 1942 this', 'start': 1626.87, 'duration': 4.05}
+{'text': 'is an exhibition called the road to', 'start': 1629.57, 'duration': 1.77}
+{'text': 'victory', 'start': 1630.92, 'duration': 2.97}
+{'text': 'it was a huge smash was up for about', 'start': 1631.34, 'duration': 5.31}
+{'text': 'eight weeks 80,000 people came which is', 'start': 1633.89, 'duration': 4.169}
+{'text': 'a lot of people for the Museum of Modern', 'start': 1636.65, 'duration': 4.29}
+{'text': 'Art in 1942 and it was designed by', 'start': 1638.059, 'duration': 4.891}
+{'text': 'Herbert Beier and Edward Steichen who', 'start': 1640.94, 'duration': 3.42}
+{'text': 'would later go on to do the family of', 'start': 1642.95, 'duration': 3.859}
+{'text': 'man very much on the same design lines', 'start': 1644.36, 'duration': 5.819}
+{'text': 'you can see here things that to our', 'start': 1646.809, 'duration': 4.961}
+{'text': 'modern I might really be disgruntled', 'start': 1650.179, 'duration': 3.75}
+{'text': 'right these are large Native Americans', 'start': 1651.77, 'duration': 8.94}
+{'text': 'referred to as red men you know but you', 'start': 1653.929, 'duration': 8.071}
+{'text': 'can also see if the images are very', 'start': 1660.71, 'duration': 3.75}
+{'text': "large they come in all sizes they're", 'start': 1662.0, 'duration': 4.89}
+{'text': 'weirdly colliding so this is a farmer', 'start': 1664.46, 'duration': 4.349}
+{'text': "war they asked for it now by God they'll", 'start': 1666.89, 'duration': 4.8}
+{'text': "get it here's Tojo giggling about Pearl", 'start': 1668.809, 'duration': 5.551}
+{'text': 'Harbor clear strong propagandistic', 'start': 1671.69, 'duration': 6.36}
+{'text': 'intent but what was interesting to me at', 'start': 1674.36, 'duration': 5.58}
+{'text': "least is that it's not the strong", 'start': 1678.05, 'duration': 3.9}
+{'text': 'propaganda images that make the make the', 'start': 1679.94, 'duration': 4.11}
+{'text': "exhibition so popular it's the way", 'start': 1681.95, 'duration': 4.77}
+{'text': "they're hung people write in newspapers", 'start': 1684.05, 'duration': 4.71}
+{'text': 'about the show all the time and what', 'start': 1686.72, 'duration': 4.29}
+{'text': 'they say is you know this show suddenly', 'start': 1688.76, 'duration': 4.41}
+{'text': 'allows us to experience the freedom of', 'start': 1691.01, 'duration': 4.65}
+{'text': "being an American and they're talking", 'start': 1693.17, 'duration': 4.74}
+{'text': 'about this thing this is the actual road', 'start': 1695.66, 'duration': 3.54}
+{'text': 'that you walk through this is a model of', 'start': 1697.91, 'duration': 3.12}
+{'text': 'the exhibition to us we might feel very', 'start': 1699.2, 'duration': 3.51}
+{'text': 'manipulated walking through that line', 'start': 1701.03, 'duration': 3.84}
+{'text': 'but audiences at the time felt enormous', 'start': 1702.71, 'duration': 3.93}
+{'text': 'ly free they could move they could', 'start': 1704.87, 'duration': 3.12}
+{'text': 'congregate they could put together', 'start': 1706.64, 'duration': 4.05}
+{'text': 'meaning out of images that were selected', 'start': 1707.99, 'duration': 4.35}
+{'text': 'for them but that they still felt in', 'start': 1710.69, 'duration': 3.39}
+{'text': 'charge of and just to give you a feel', 'start': 1712.34, 'duration': 3.03}
+{'text': 'for what people were saying at the time', 'start': 1714.08, 'duration': 4.32}
+{'text': 'the New York Times critic said I think', 'start': 1715.37, 'duration': 4.89}
+{'text': 'no one can see the exhibition without', 'start': 1718.4, 'duration': 5.779}
+{'text': 'feeling that he is a part of America', 'start': 1720.26, 'duration': 6.0}
+{'text': 'okay', 'start': 1724.179, 'duration': 4.031}
+{'text': 'another critic for different paper said', 'start': 1726.26, 'duration': 5.16}
+{'text': "road to victory doesn't mold the", 'start': 1728.21, 'duration': 5.04}
+{'text': 'visitors opinions for that word smacks', 'start': 1731.42, 'duration': 3.75}
+{'text': 'of the fascist concept of dominating', 'start': 1733.25, 'duration': 5.04}
+{'text': "men's minds this concept of not molding", 'start': 1735.17, 'duration': 5.16}
+{'text': 'opinion but rather letting opinion form', 'start': 1738.29, 'duration': 4.05}
+{'text': 'from below through the experience of', 'start': 1740.33, 'duration': 4.98}
+{'text': 'media is the alternative to fascist mass', 'start': 1742.34, 'duration': 5.089}
+{'text': 'media in this period okay so far so good', 'start': 1745.31, 'duration': 4.229}
+{'text': "all right we're gonna take a serious", 'start': 1747.429, 'duration': 4.781}
+{'text': 'the computational now alright so in the', 'start': 1749.539, 'duration': 5.07}
+{'text': 'book I go on at some length about sort', 'start': 1752.21, 'duration': 4.11}
+{'text': 'of where this goes in the art world', 'start': 1754.609, 'duration': 3.27}
+{'text': 'where this goes in the propaganda world', 'start': 1756.32, 'duration': 3.329}
+{'text': "and I don't talk as much about where it", 'start': 1757.879, 'duration': 4.02}
+{'text': 'goes in the computer world but it goes', 'start': 1759.649, 'duration': 4.23}
+{'text': 'very directly into cybernetics and', 'start': 1761.899, 'duration': 5.071}
+{'text': 'Norbert wieners vision of computer', 'start': 1763.879, 'duration': 5.941}
+{'text': "networks so Wiener isn't actually in", 'start': 1766.97, 'duration': 5.13}
+{'text': 'this picture Margaret Mead is her', 'start': 1769.82, 'duration': 6.979}
+{'text': 'husband Gregory Bateson is back here', 'start': 1772.1, 'duration': 6.959}
+{'text': 'the Macy conference is the actual the', 'start': 1776.799, 'duration': 3.73}
+{'text': 'first Macy conference took place almost', 'start': 1779.059, 'duration': 3.45}
+{'text': 'in parallel with the first committee for', 'start': 1780.529, 'duration': 3.72}
+{'text': 'national morale meeting also in New York', 'start': 1782.509, 'duration': 5.55}
+{'text': 'in 1941 they went on through the 50s and', 'start': 1784.249, 'duration': 5.49}
+{'text': 'they became a place where the', 'start': 1788.059, 'duration': 3.3}
+{'text': 'anthropologists and sociologists who had', 'start': 1789.739, 'duration': 2.79}
+{'text': 'been part of the committee for national', 'start': 1791.359, 'duration': 4.02}
+{'text': 'morale actually engaged with scientists', 'start': 1792.529, 'duration': 5.13}
+{'text': 'technologists biologists and others were', 'start': 1795.379, 'duration': 3.78}
+{'text': 'part of the world that brought us', 'start': 1797.659, 'duration': 5.19}
+{'text': 'cybernetics I want to provoke more in', 'start': 1799.159, 'duration': 5.041}
+{'text': 'this talk than inform and I could give', 'start': 1802.849, 'duration': 2.64}
+{'text': 'you a whole night on Norbert Weiner and', 'start': 1804.2, 'duration': 3.63}
+{'text': "I won't although if he were here he", 'start': 1805.489, 'duration': 5.461}
+{'text': "would you've seen pictures of Norbert", 'start': 1807.83, 'duration': 6.449}
+{'text': 'Weiner right yeah I think his girth says', 'start': 1810.95, 'duration': 6.539}
+{'text': "it all he's he's just big and strong I", 'start': 1814.279, 'duration': 6.421}
+{'text': 'love the man in any case weiners core', 'start': 1817.489, 'duration': 6.24}
+{'text': 'idea was drawn in large part I think', 'start': 1820.7, 'duration': 5.699}
+{'text': 'from the kind of surround theories that', 'start': 1823.729, 'duration': 3.75}
+{'text': 'were floating around in the committee', 'start': 1826.399, 'duration': 4.291}
+{'text': 'for national morale Weiner like the key', 'start': 1827.479, 'duration': 4.56}
+{'text': 'members of the committee for national', 'start': 1830.69, 'duration': 4.469}
+{'text': 'morale was a radical anti-fascist and he', 'start': 1832.039, 'duration': 5.46}
+{'text': 'believed that human beings needed to be', 'start': 1835.159, 'duration': 5.281}
+{'text': 'understood as self-regulating feedback', 'start': 1837.499, 'duration': 5.581}
+{'text': 'mechanisms the beauty of computers was', 'start': 1840.44, 'duration': 4.77}
+{'text': 'that they modeled what a democratic', 'start': 1843.08, 'duration': 4.709}
+{'text': 'citizen might be like not an obedient', 'start': 1845.21, 'duration': 6.269}
+{'text': 'member of a fascist bundle but rather a', 'start': 1847.789, 'duration': 7.171}
+{'text': 'system moving through space seeking', 'start': 1851.479, 'duration': 5.37}
+{'text': 'things getting feedback from that are', 'start': 1854.96, 'duration': 3.86}
+{'text': 'changing their behavior accordingly and', 'start': 1856.849, 'duration': 4.08}
+{'text': 'to give you a feel for what this sounded', 'start': 1858.82, 'duration': 4.479}
+{'text': 'like in in wieners language let me read', 'start': 1860.929, 'duration': 3.901}
+{'text': 'you a little passage from the human use', 'start': 1863.299, 'duration': 3.36}
+{'text': 'of human beings which was his attempt to', 'start': 1864.83, 'duration': 3.39}
+{'text': 'translate his theories of cybernetics', 'start': 1866.659, 'duration': 3.39}
+{'text': 'for a general public was a best-seller', 'start': 1868.22, 'duration': 5.309}
+{'text': 'in 1950 our view of society differ', 'start': 1870.049, 'duration': 5.55}
+{'text': 'differs from the ideal of society which', 'start': 1873.529, 'duration': 4.62}
+{'text': 'is held by many fascist strong men in', 'start': 1875.599, 'duration': 6.18}
+{'text': 'business and government similar men of', 'start': 1878.149, 'duration': 5.16}
+{'text': 'sorry similar men of AM', 'start': 1881.779, 'duration': 4.051}
+{'text': 'four-power are not entirely unknown in', 'start': 1883.309, 'duration': 4.171}
+{'text': 'scientific and educational institutions', 'start': 1885.83, 'duration': 4.709}
+{'text': 'within MIT such you could where he', 'start': 1887.48, 'duration': 5.34}
+{'text': 'worked at the time such people prefer an', 'start': 1890.539, 'duration': 4.86}
+{'text': 'organization in which all orders come', 'start': 1892.82, 'duration': 6.929}
+{'text': 'from above and none return I wish to', 'start': 1895.399, 'duration': 7.051}
+{'text': 'devote this book to a protest against', 'start': 1899.749, 'duration': 5.101}
+{'text': 'this inhuman use of human beings for in', 'start': 1902.45, 'duration': 4.53}
+{'text': 'my mind any use of a human being in', 'start': 1904.85, 'duration': 4.23}
+{'text': 'which less is demanded of him and less', 'start': 1906.98, 'duration': 4.62}
+{'text': 'and less is attributed to him than his', 'start': 1909.08, 'duration': 5.599}
+{'text': 'full status is a degradation and a waste', 'start': 1911.6, 'duration': 6.51}
+{'text': 'he goes on to compare the fascist person', 'start': 1914.679, 'duration': 5.771}
+{'text': 'to the ant the ant is imagined as a', 'start': 1918.11, 'duration': 4.5}
+{'text': 'mechanistic follower of collective', 'start': 1920.45, 'duration': 4.829}
+{'text': "orders I'm thinking ok by the way this", 'start': 1922.61, 'duration': 4.529}
+{'text': 'is also the book in which the Star Trek', 'start': 1925.279, 'duration': 4.321}
+{'text': 'transporter is first theorized just so', 'start': 1927.139, 'duration': 5.461}
+{'text': "you know it's a fun fact for an aside", 'start': 1929.6, 'duration': 6.149}
+{'text': 'but um you know ants ants are those', 'start': 1932.6, 'duration': 5.37}
+{'text': 'obedient creatures to be fully human in', 'start': 1935.749, 'duration': 4.591}
+{'text': 'his view is to recognize that you are an', 'start': 1937.97, 'duration': 4.35}
+{'text': 'information system seeking information', 'start': 1940.34, 'duration': 4.319}
+{'text': "from other systems that's what makes you", 'start': 1942.32, 'duration': 5.16}
+{'text': 'democratic you hear the fusion here', 'start': 1944.659, 'duration': 5.12}
+{'text': 'right of technical feedback and', 'start': 1947.48, 'duration': 4.71}
+{'text': "democratic individualism they're", 'start': 1949.779, 'duration': 9.01}
+{'text': 'starting to get entangled ok now in the', 'start': 1952.19, 'duration': 9.66}
+{'text': 'book I take this story forward down two', 'start': 1958.789, 'duration': 3.541}
+{'text': 'lines', 'start': 1961.85, 'duration': 1.769}
+{'text': "the thing that I'm calling the", 'start': 1962.33, 'duration': 3.24}
+{'text': 'Democratic surround this multimedia', 'start': 1963.619, 'duration': 3.091}
+{'text': 'environment designed to produce', 'start': 1965.57, 'duration': 3.989}
+{'text': 'Democratic psyches emerges in World War', 'start': 1966.71, 'duration': 4.679}
+{'text': 'two and it comes all the way down to the', 'start': 1969.559, 'duration': 4.261}
+{'text': 'counterculture down two lines it', 'start': 1971.389, 'duration': 4.23}
+{'text': 'migrates through propaganda exhibitions', 'start': 1973.82, 'duration': 3.599}
+{'text': "overseas and I'll show you one of those", 'start': 1975.619, 'duration': 3.961}
+{'text': 'it also migrates through art world and', 'start': 1977.419, 'duration': 5.401}
+{'text': "I'll talk a little bit about those at", 'start': 1979.58, 'duration': 6.179}
+{'text': 'every stage computation is part of the', 'start': 1982.82, 'duration': 6.689}
+{'text': 'process computation is entangle in each', 'start': 1985.759, 'duration': 4.441}
+{'text': 'of these things', 'start': 1989.509, 'duration': 4.29}
+{'text': "um just a pause for a riff I'd always", 'start': 1990.2, 'duration': 5.419}
+{'text': 'thought that computers were sort of a', 'start': 1993.799, 'duration': 4.26}
+{'text': 'cultural objects before us got to know', 'start': 1995.619, 'duration': 4.0}
+{'text': 'them I thought they were you know', 'start': 1998.059, 'duration': 3.09}
+{'text': 'devices that were somehow outside', 'start': 1999.619, 'duration': 3.81}
+{'text': 'culture that did their own thing and we', 'start': 2001.149, 'duration': 4.441}
+{'text': 'worked with them and they were tools one', 'start': 2003.429, 'duration': 3.09}
+{'text': 'of the things that you see when you do', 'start': 2005.59, 'duration': 3.449}
+{'text': 'historical work is all the radical', 'start': 2006.519, 'duration': 4.471}
+{'text': 'efforts to contextualise computers and', 'start': 2009.039, 'duration': 3.84}
+{'text': 'to make them mean in terms of cultural', 'start': 2010.99, 'duration': 3.21}
+{'text': 'projects that are underway at that', 'start': 2012.879, 'duration': 4.081}
+{'text': 'moment let me take you to one here', 'start': 2014.2, 'duration': 5.43}
+{'text': 'this is one my favorites he said to', 'start': 2016.96, 'duration': 5.16}
+{'text': 'pause for the beauty of that this is', 'start': 2019.63, 'duration': 5.1}
+{'text': 'Moscow 1959 this is something called the', 'start': 2022.12, 'duration': 4.98}
+{'text': 'American National Exhibition it was', 'start': 2024.73, 'duration': 3.59}
+{'text': 'sponsored by Khrushchev', 'start': 2027.1, 'duration': 3.0}
+{'text': 'Khrushchev had been on American', 'start': 2028.32, 'duration': 4.03}
+{'text': 'television and had made a mistake he had', 'start': 2030.1, 'duration': 3.569}
+{'text': 'said he got an angry with the host and', 'start': 2032.35, 'duration': 4.17}
+{'text': 'he said look if if you let us have an', 'start': 2033.669, 'duration': 4.86}
+{'text': 'exhibition of Soviet goods in Manhattan', 'start': 2036.52, 'duration': 3.75}
+{'text': "we'll let you have an American", 'start': 2038.529, 'duration': 4.65}
+{'text': 'exhibition in Moscow we were all over it', 'start': 2040.27, 'duration': 7.92}
+{'text': 'okay and so in 59 the American state the', 'start': 2043.179, 'duration': 6.841}
+{'text': 'United States Information Agency any', 'start': 2048.19, 'duration': 3.84}
+{'text': 'number of large American corporations', 'start': 2050.02, 'duration': 4.889}
+{'text': 'pooled their resources and built an', 'start': 2052.03, 'duration': 4.77}
+{'text': 'enormous exhibition scene by 2 million', 'start': 2054.909, 'duration': 5.22}
+{'text': 'Soviets and here in Moscow and this is a', 'start': 2056.8, 'duration': 6.839}
+{'text': 'picture of its core area this is a', 'start': 2060.129, 'duration': 5.071}
+{'text': 'geodesic dome designed by Buckminster', 'start': 2063.639, 'duration': 3.27}
+{'text': "Fuller it's glittering gold on the", 'start': 2065.2, 'duration': 5.13}
+{'text': 'outside these are seven screens provided', 'start': 2066.909, 'duration': 5.661}
+{'text': 'by the Eames ray and Charles Eames and', 'start': 2070.33, 'duration': 4.14}
+{'text': "they are designed they're part of an", 'start': 2072.57, 'duration': 3.549}
+{'text': 'exhibition called glimpses of the USA', 'start': 2074.47, 'duration': 4.649}
+{'text': "and they're all single image slides that", 'start': 2076.119, 'duration': 5.04}
+{'text': "move not in tandem they're all just", 'start': 2079.119, 'duration': 3.711}
+{'text': 'seven different slides at every time', 'start': 2081.159, 'duration': 4.171}
+{'text': "they're designed to show Soviets", 'start': 2082.83, 'duration': 5.529}
+{'text': "abundance but they're also designed to", 'start': 2085.33, 'duration': 5.789}
+{'text': 'give Soviets the experience of multi', 'start': 2088.359, 'duration': 6.091}
+{'text': 'image choice on which democracy depends', 'start': 2091.119, 'duration': 6.0}
+{'text': 'I want a flag for you here in sort of', 'start': 2094.45, 'duration': 3.81}
+{'text': 'short form when you talk about it more', 'start': 2097.119, 'duration': 3.661}
+{'text': 'later a weird depoliticization that has', 'start': 2098.26, 'duration': 5.339}
+{'text': 'just occurred in the 40s the committee', 'start': 2100.78, 'duration': 4.5}
+{'text': 'for national morale was radically', 'start': 2103.599, 'duration': 4.531}
+{'text': 'anti-racist and radically Pro gender', 'start': 2105.28, 'duration': 4.53}
+{'text': 'diversity and pro sexual choice', 'start': 2108.13, 'duration': 3.33}
+{'text': "diversity that's not something that we", 'start': 2109.81, 'duration': 2.91}
+{'text': 'remember at all we think of this is an', 'start': 2111.46, 'duration': 4.5}
+{'text': "entirely closeted period it wasn't here", 'start': 2112.72, 'duration': 6.09}
+{'text': 'the same mechanisms of choice that had', 'start': 2115.96, 'duration': 5.399}
+{'text': 'been meant in the 40s to offer you the', 'start': 2118.81, 'duration': 4.2}
+{'text': 'chance to get to know and identify with', 'start': 2121.359, 'duration': 3.331}
+{'text': 'folks who are different than yourself to', 'start': 2123.01, 'duration': 3.089}
+{'text': 'reach out to races and sexual', 'start': 2124.69, 'duration': 3.2}
+{'text': 'preferences that might not be your own', 'start': 2126.099, 'duration': 4.861}
+{'text': 'have begun to look a lot like commercial', 'start': 2127.89, 'duration': 6.01}
+{'text': 'choice this is a the American actual', 'start': 2130.96, 'duration': 4.379}
+{'text': 'National Exhibition is filled with', 'start': 2133.9, 'duration': 3.959}
+{'text': 'consumer products in fact this is where', 'start': 2135.339, 'duration': 4.711}
+{'text': "the kitchen debate took place that's", 'start': 2137.859, 'duration': 3.421}
+{'text': "right about down here there's a little", 'start': 2140.05, 'duration': 3.0}
+{'text': 'kitchen installed and Nixon and', 'start': 2141.28, 'duration': 5.579}
+{'text': 'Khrushchev debate there okay um this is', 'start': 2143.05, 'duration': 4.89}
+{'text': 'what the environment looked like when', 'start': 2146.859, 'duration': 2.401}
+{'text': 'you entered it this is the core', 'start': 2147.94, 'duration': 2.4}
+{'text': 'environment you can', 'start': 2149.26, 'duration': 3.21}
+{'text': 'see just people surrounded by images I', 'start': 2150.34, 'duration': 3.48}
+{'text': 'think that one on the right is actually', 'start': 2152.47, 'duration': 3.18}
+{'text': 'a tagged image from family of man but', 'start': 2153.82, 'duration': 4.11}
+{'text': "I'm not sure that's glimpses of the USA", 'start': 2155.65, 'duration': 7.74}
+{'text': 'overhead alright so pause for archival', 'start': 2157.93, 'duration': 8.37}
+{'text': 'terror I had this horrible wonderful but', 'start': 2163.39, 'duration': 4.56}
+{'text': 'horrible experience in the archives I', 'start': 2166.3, 'duration': 2.91}
+{'text': 'was at the United States information our', 'start': 2167.95, 'duration': 4.23}
+{'text': 'agency archives in Maryland and I found', 'start': 2169.21, 'duration': 4.77}
+{'text': 'some recently Declassified reports from', 'start': 2172.18, 'duration': 3.69}
+{'text': 'the United States Information Agency and', 'start': 2173.98, 'duration': 4.05}
+{'text': 'I found one that blew my mind it said it', 'start': 2175.87, 'duration': 4.44}
+{'text': 'was it was a it was an articulation of', 'start': 2178.03, 'duration': 5.25}
+{'text': 'exhibition policy is a big dry dull', 'start': 2180.31, 'duration': 6.06}
+{'text': 'document no it said what we need to do', 'start': 2183.28, 'duration': 7.47}
+{'text': 'as a nation is act like therapists we', 'start': 2186.37, 'duration': 7.02}
+{'text': 'have to first assess the psychological', 'start': 2190.75, 'duration': 5.46}
+{'text': 'condition of our target populations then', 'start': 2193.39, 'duration': 5.31}
+{'text': 'we need to stage a communication', 'start': 2196.21, 'duration': 3.84}
+{'text': 'intervention to change that', 'start': 2198.7, 'duration': 4.41}
+{'text': 'psychological condition and then third', 'start': 2200.05, 'duration': 4.83}
+{'text': 'step we need to test to see if our', 'start': 2203.11, 'duration': 4.86}
+{'text': 'intervention has worked okay and this', 'start': 2204.88, 'duration': 6.81}
+{'text': 'was deployed in spades in Moscow the', 'start': 2207.97, 'duration': 5.61}
+{'text': 'Moscow environment was surveilled to a', 'start': 2211.69, 'duration': 3.99}
+{'text': "degree that's hard to imagine today we", 'start': 2213.58, 'duration': 5.46}
+{'text': 'said well maybe not um sorry my bad um', 'start': 2215.68, 'duration': 5.31}
+{'text': 'we said 20 russian-speaking students', 'start': 2219.04, 'duration': 3.09}
+{'text': "they're college students the Russians", 'start': 2220.99, 'duration': 3.02}
+{'text': "were amazed you'd let us talk to them", 'start': 2222.13, 'duration': 3.81}
+{'text': "didn't know that at the end of every day", 'start': 2224.01, 'duration': 4.27}
+{'text': 'the Russians were debriefed by minders', 'start': 2225.94, 'duration': 4.8}
+{'text': 'from the State Department this is a', 'start': 2228.28, 'duration': 5.91}
+{'text': 'computer donated by IBM programmed with', 'start': 2230.74, 'duration': 5.97}
+{'text': '4,000 answers to questions the Soviets', 'start': 2234.19, 'duration': 4.92}
+{'text': "might ask about America that's a Russian", 'start': 2236.71, 'duration': 4.26}
+{'text': 'speaking interpreter he receives the', 'start': 2239.11, 'duration': 5.39}
+{'text': 'question types it in gets an answer back', 'start': 2240.97, 'duration': 7.35}
+{'text': 'as you might guess the primary purposes', 'start': 2244.5, 'duration': 5.47}
+{'text': 'the computer is not in fact to answer', 'start': 2248.32, 'duration': 3.87}
+{'text': 'Soviet questions but rather to record', 'start': 2249.97, 'duration': 4.74}
+{'text': "them we didn't know a lot about the", 'start': 2252.19, 'duration': 4.02}
+{'text': 'mindset of the Soviet Union at this', 'start': 2254.71, 'duration': 3.87}
+{'text': 'point and we needed to one of the', 'start': 2256.21, 'duration': 3.9}
+{'text': 'wonderful things about studying this is', 'start': 2258.58, 'duration': 3.54}
+{'text': 'that the records for this are copious', 'start': 2260.11, 'duration': 4.02}
+{'text': 'the American government kept copies of', 'start': 2262.12, 'duration': 4.17}
+{'text': 'every Russian publication everything', 'start': 2264.13, 'duration': 3.12}
+{'text': 'that had to do with this they had', 'start': 2266.29, 'duration': 2.31}
+{'text': 'notebooks guest books where you could', 'start': 2267.25, 'duration': 3.18}
+{'text': 'sign your name and write a comment those', 'start': 2268.6, 'duration': 4.56}
+{'text': 'are all summed up and reported back to', 'start': 2270.43, 'duration': 5.52}
+{'text': "Washington everyday okay it's a it's a", 'start': 2273.16, 'duration': 5.16}
+{'text': 'huge deal so this is one place where', 'start': 2275.95, 'duration': 4.17}
+{'text': 'computation gets sucked up into the', 'start': 2278.32, 'duration': 3.12}
+{'text': 'surround in a way that has to do with', 'start': 2280.12, 'duration': 2.79}
+{'text': 'surveillance', 'start': 2281.44, 'duration': 2.819}
+{'text': "and consumer culture in a way that we'll", 'start': 2282.91, 'duration': 3.959}
+{'text': 'see a little bit later the other place', 'start': 2284.259, 'duration': 3.871}
+{'text': 'where this starts to happen is actually', 'start': 2286.869, 'duration': 3.781}
+{'text': 'in the art world and I had always been', 'start': 2288.13, 'duration': 3.81}
+{'text': 'taught that the art world was a world', 'start': 2290.65, 'duration': 3.629}
+{'text': 'that was sort of outside big Cold War', 'start': 2291.94, 'duration': 5.159}
+{'text': 'culture outside Commerce I knew that the', 'start': 2294.279, 'duration': 4.53}
+{'text': 'CIA had funded some painting but I', 'start': 2297.099, 'duration': 3.18}
+{'text': "didn't think that someone like John Cage", 'start': 2298.809, 'duration': 4.911}
+{'text': 'had been close to that world I was wrong', 'start': 2300.279, 'duration': 6.121}
+{'text': 'this is John Cage the famous composer', 'start': 2303.72, 'duration': 5.68}
+{'text': "those of you who don't know him won't", 'start': 2306.4, 'duration': 5.1}
+{'text': "know that he's probably most famous for", 'start': 2309.4, 'duration': 3.959}
+{'text': 'a composition called four minutes and 33', 'start': 2311.5, 'duration': 4.049}
+{'text': 'seconds in which he sat someone at a', 'start': 2313.359, 'duration': 8.73}
+{'text': "piano I won't go on for four minutes but", 'start': 2315.549, 'duration': 8.641}
+{'text': 'you get the idea he sat someone at a', 'start': 2322.089, 'duration': 3.26}
+{'text': 'piano and they did nothing', 'start': 2324.19, 'duration': 3.119}
+{'text': 'eventually they lifted the top of the', 'start': 2325.349, 'duration': 5.321}
+{'text': 'piano closed it but the point was that', 'start': 2327.309, 'duration': 5.851}
+{'text': 'he wanted people to experience sounds', 'start': 2330.67, 'duration': 5.369}
+{'text': 'around them in a way that would allow', 'start': 2333.16, 'duration': 4.5}
+{'text': 'them to integrate those sounds into a', 'start': 2336.039, 'duration': 4.861}
+{'text': 'new form of American personality I was', 'start': 2337.66, 'duration': 4.889}
+{'text': 'always told that Cage had come to this', 'start': 2340.9, 'duration': 3.33}
+{'text': 'aesthetic through his encounter with', 'start': 2342.549, 'duration': 3.931}
+{'text': 'Eastern religion', 'start': 2344.23, 'duration': 4.139}
+{'text': 'I actually was very lucky I found new', 'start': 2346.48, 'duration': 3.24}
+{'text': 'stash of documents at the Northwestern', 'start': 2348.369, 'duration': 3.871}
+{'text': "University music library and I'm willing", 'start': 2349.72, 'duration': 4.079}
+{'text': "to say here and now that that's not the", 'start': 2352.24, 'duration': 4.079}
+{'text': 'case at all that in fact in the late 30s', 'start': 2353.799, 'duration': 5.82}
+{'text': 'and early 40s when cage was married to a', 'start': 2356.319, 'duration': 6.78}
+{'text': 'woman he had a very different life he', 'start': 2359.619, 'duration': 6.21}
+{'text': 'was a fairly rabid patriot in fact he', 'start': 2363.099, 'duration': 5.94}
+{'text': 'was in New York he met and taught for a', 'start': 2365.829, 'duration': 4.891}
+{'text': 'summer with the new Bauhaus folks I just', 'start': 2369.039, 'duration': 3.48}
+{'text': 'mentioned to you and then in 41 he', 'start': 2370.72, 'duration': 4.2}
+{'text': 'actually went to Chicago for a year to', 'start': 2372.519, 'duration': 3.901}
+{'text': 'teach with these same folks he was', 'start': 2374.92, 'duration': 3.57}
+{'text': 'immersed in a group of people focused on', 'start': 2376.42, 'duration': 5.099}
+{'text': 'the surround and he believed that music', 'start': 2378.49, 'duration': 5.25}
+{'text': 'would be a tool of patriotic revolution', 'start': 2381.519, 'duration': 4.951}
+{'text': 'he even sent percussion music was 39', 'start': 2383.74, 'duration': 5.43}
+{'text': 'percussion music is revolution sound and', 'start': 2386.47, 'duration': 5.28}
+{'text': 'rhythm have too long been submissive to', 'start': 2389.17, 'duration': 4.369}
+{'text': 'the restrictions of 19th century music', 'start': 2391.75, 'duration': 3.69}
+{'text': 'today we are fighting for their', 'start': 2393.539, 'duration': 4.931}
+{'text': 'emancipation tomorrow with electronic', 'start': 2395.44, 'duration': 5.48}
+{'text': 'music in our ears we will hear freedom', 'start': 2398.47, 'duration': 8.49}
+{'text': "doesn't it feel good to say okay so Cage", 'start': 2400.92, 'duration': 7.78}
+{'text': 'is intimately involved with a number of', 'start': 2406.96, 'duration': 3.149}
+{'text': "propaganda exhibitions I won't go into", 'start': 2408.7, 'duration': 4.559}
+{'text': 'that here what I do want to say though', 'start': 2410.109, 'duration': 5.25}
+{'text': 'is that his understanding of the sonics', 'start': 2413.259, 'duration': 2.61}
+{'text': 'around', 'start': 2415.359, 'duration': 3.45}
+{'text': 'and emerges from the same aesthetic that', 'start': 2415.869, 'duration': 4.861}
+{'text': 'Herbert Beier was using to create the', 'start': 2418.809, 'duration': 4.2}
+{'text': 'visual surround and not simply the same', 'start': 2420.73, 'duration': 4.049}
+{'text': 'aesthetic but literally the same social', 'start': 2423.009, 'duration': 3.84}
+{'text': 'group of people all of whom are', 'start': 2424.779, 'duration': 3.33}
+{'text': 'connected to the committee for national', 'start': 2426.849, 'duration': 3.69}
+{'text': 'morale and the may see group who bring', 'start': 2428.109, 'duration': 5.73}
+{'text': 'us cybernetics so jump forward a little', 'start': 2430.539, 'duration': 5.76}
+{'text': 'bit Black Mountain College home of the', 'start': 2433.839, 'duration': 3.72}
+{'text': 'American avant-garde in this period', 'start': 2436.299, 'duration': 4.77}
+{'text': 'famous for producing art performance art', 'start': 2437.559, 'duration': 6.69}
+{'text': "poetry that's John Cage on the Left", 'start': 2441.069, 'duration': 5.131}
+{'text': "that's Merce Cunningham his partner", 'start': 2444.249, 'duration': 4.651}
+{'text': 'dancing Buckminster Fuller this is where', 'start': 2446.2, 'duration': 4.44}
+{'text': 'Buckminster Fuller first deployed his', 'start': 2448.9, 'duration': 5.459}
+{'text': 'version of the geodesic dome 1948 cage', 'start': 2450.64, 'duration': 5.76}
+{'text': 'and Cunningham go to Black Mountain', 'start': 2454.359, 'duration': 6.21}
+{'text': 'College to teach summer school in 1952', 'start': 2456.4, 'duration': 7.02}
+{'text': 'they come back and they staged the very', 'start': 2460.569, 'duration': 6.061}
+{'text': 'first happening looking around the room', 'start': 2463.42, 'duration': 4.589}
+{'text': "I'm like there's not nearly enough gray", 'start': 2466.63, 'duration': 5.34}
+{'text': 'hair in this room happenings ladies and', 'start': 2468.009, 'duration': 5.971}
+{'text': 'gentlemen were the quintessential', 'start': 2471.97, 'duration': 3.99}
+{'text': 'countercultural art form of the late 50s', 'start': 2473.98, 'duration': 4.349}
+{'text': 'and early 1960s the first one actually', 'start': 2475.96, 'duration': 4.23}
+{'text': 'took place here in 1952 and let me tell', 'start': 2478.329, 'duration': 3.75}
+{'text': 'you what happened a bunch of people', 'start': 2480.19, 'duration': 3.139}
+{'text': 'walked into a room there were chairs', 'start': 2482.079, 'duration': 3.841}
+{'text': 'there was a ladder somebody climbed the', 'start': 2483.329, 'duration': 4.78}
+{'text': 'ladder and acclaimed a poem a dog ran', 'start': 2485.92, 'duration': 5.22}
+{'text': 'around okay somebody pounded on a piano', 'start': 2488.109, 'duration': 5.851}
+{'text': 'and then several people put tea cups on', 'start': 2491.14, 'duration': 7.29}
+{'text': 'chairs that was it now think for a', 'start': 2493.96, 'duration': 6.98}
+{'text': 'second right like on what planet is that', 'start': 2498.43, 'duration': 5.609}
+{'text': 'so important to people that it sparks', 'start': 2500.94, 'duration': 6.309}
+{'text': 'two decades worth of art no I mean like', 'start': 2504.039, 'duration': 6.361}
+{'text': 'huh right well I think it only works in', 'start': 2507.249, 'duration': 6.03}
+{'text': 'a world where the the the idea that if', 'start': 2510.4, 'duration': 4.649}
+{'text': 'you surround people with a seemingly', 'start': 2513.279, 'duration': 4.141}
+{'text': 'random experience and give them the', 'start': 2515.049, 'duration': 4.2}
+{'text': 'chance and the choice to knit that', 'start': 2517.42, 'duration': 3.48}
+{'text': 'experience into their own lives and', 'start': 2519.249, 'duration': 4.62}
+{'text': "bodies you will free them that's a world", 'start': 2520.9, 'duration': 5.189}
+{'text': 'in which happening begins to look like', 'start': 2523.869, 'duration': 4.531}
+{'text': 'an impact of empowerment an act of', 'start': 2526.089, 'duration': 4.28}
+{'text': 'freedom', 'start': 2528.4, 'duration': 6.869}
+{'text': 'hey cage goes to New York in 1957 and he', 'start': 2530.369, 'duration': 7.301}
+{'text': 'begins teaching the founders of The', 'start': 2535.269, 'duration': 3.151}
+{'text': 'Happening world', 'start': 2537.67, 'duration': 3.03}
+{'text': 'these are Allan Kaprow dick Higgins', 'start': 2538.42, 'duration': 5.609}
+{'text': 'bunch of other folks they go on to', 'start': 2540.7, 'duration': 6.69}
+{'text': 'produce happenings and in 1966 they', 'start': 2544.029, 'duration': 5.07}
+{'text': "helped with it's complicated but they", 'start': 2547.39, 'duration': 2.429}
+{'text': 'shape', 'start': 2549.099, 'duration': 3.12}
+{'text': 'this thing an exhibition at the', 'start': 2549.819, 'duration': 5.49}
+{'text': 'Riverside Museum in New York called by a', 'start': 2552.219, 'duration': 4.62}
+{'text': 'journalist covering it for I think it', 'start': 2555.309, 'duration': 4.89}
+{'text': 'was Life magazine a be in it was a', 'start': 2556.839, 'duration': 6.36}
+{'text': 'multimedia psychedelic environment that', 'start': 2560.199, 'duration': 6.481}
+{'text': 'you were to enter and by entering begin', 'start': 2563.199, 'duration': 6.12}
+{'text': 'to understand yourself as a global', 'start': 2566.68, 'duration': 5.429}
+{'text': 'citizen as someone who was one with the', 'start': 2569.319, 'duration': 5.97}
+{'text': 'global forces this ladies and gentlemen', 'start': 2572.109, 'duration': 5.85}
+{'text': "though it doesn't look like it was the", 'start': 2575.289, 'duration': 6.29}
+{'text': 'aesthetic of late Universal humanism', 'start': 2577.959, 'duration': 9.181}
+{'text': "okay so that's that's where we are this", 'start': 2581.579, 'duration': 7.38}
+{'text': 'is not a world without computers', 'start': 2587.14, 'duration': 4.319}
+{'text': 'strangely enough this is a world in', 'start': 2588.959, 'duration': 3.731}
+{'text': 'which computer scientists and engineers', 'start': 2591.459, 'duration': 3.451}
+{'text': 'particularly from Bell Labs very much', 'start': 2592.69, 'duration': 3.72}
+{'text': 'want to play and a world in which', 'start': 2594.91, 'duration': 2.879}
+{'text': 'artists very much want to engage', 'start': 2596.41, 'duration': 3.899}
+{'text': 'engineers this is something called the', 'start': 2597.789, 'duration': 5.401}
+{'text': 'pavilion the PEFC pavilion in 1970 at', 'start': 2600.309, 'duration': 4.2}
+{'text': "the Osaka World's Fair", 'start': 2603.19, 'duration': 4.46}
+{'text': 'these here this is the entryway here', 'start': 2604.509, 'duration': 6.54}
+{'text': "these are cybernetic organisms they're", 'start': 2607.65, 'duration': 5.589}
+{'text': 'little self-motivating things on wheels', 'start': 2611.049, 'duration': 5.73}
+{'text': "think I'll really make talking noises if", 'start': 2613.239, 'duration': 5.401}
+{'text': 'you bump into them they take your', 'start': 2616.779, 'duration': 4.5}
+{'text': "feedback and go backwards okay we're", 'start': 2618.64, 'duration': 5.849}
+{'text': 'meant to play with those once you went', 'start': 2621.279, 'duration': 6.24}
+{'text': 'inside you entered a world that was', 'start': 2624.489, 'duration': 5.57}
+{'text': 'meant to be a three-dimensional', 'start': 2627.519, 'duration': 5.7}
+{'text': "computational and multimedia 'td", 'start': 2630.059, 'duration': 5.831}
+{'text': 'experience before I say a little bit', 'start': 2633.219, 'duration': 3.661}
+{'text': 'about how that works let me just say', 'start': 2635.89, 'duration': 2.189}
+{'text': 'about the communities that were here', 'start': 2636.88, 'duration': 4.169}
+{'text': 'making this two groups experiments in', 'start': 2638.079, 'duration': 6.061}
+{'text': 'art and technology a group of engineers', 'start': 2641.049, 'duration': 4.68}
+{'text': 'and artists from New York led by Billy', 'start': 2644.14, 'duration': 4.52}
+{'text': 'kluever an engineer from Bell Labs', 'start': 2645.729, 'duration': 4.74}
+{'text': 'closely affiliated with Robert', 'start': 2648.66, 'duration': 2.349}
+{'text': 'Rauschenberg', 'start': 2650.469, 'duration': 2.961}
+{'text': 'John Cage both of whom were members and', 'start': 2651.009, 'duration': 4.98}
+{'text': 'a series of performance artists from', 'start': 2653.43, 'duration': 3.73}
+{'text': 'that world some of whom had been', 'start': 2655.989, 'duration': 3.3}
+{'text': 'involved in cages happenings some in the', 'start': 2657.16, 'duration': 5.549}
+{'text': 'ESCO shrine they build this on contract', 'start': 2659.289, 'duration': 5.16}
+{'text': 'to Pepsi because of course Pepsi as you', 'start': 2662.709, 'duration': 4.38}
+{'text': 'know is bringing us the young generation', 'start': 2664.449, 'duration': 6.59}
+{'text': 'right what does what does the Pepsi song', 'start': 2667.089, 'duration': 9.061}
+{'text': "come on somebody knows this oh it's", 'start': 2671.039, 'duration': 6.101}
+{'text': 'funny that no one knows this anymore', 'start': 2676.15, 'duration': 2.76}
+{'text': "they would be but they'd be mortified ah", 'start': 2677.14, 'duration': 3.75}
+{'text': 'right they began singing Pepsi', 'start': 2678.91, 'duration': 3.57}
+{'text': 'generation song this was', 'start': 2680.89, 'duration': 4.05}
+{'text': 'to be a modern Pepsi generation kind of', 'start': 2682.48, 'duration': 5.61}
+{'text': 'thing so they set it up in Japan but', 'start': 2684.94, 'duration': 6.12}
+{'text': 'what it really is is a computer monitor', 'start': 2688.09, 'duration': 5.51}
+{'text': 'monitored and maintained environment', 'start': 2691.06, 'duration': 4.98}
+{'text': 'designed to produce psychological', 'start': 2693.6, 'duration': 5.05}
+{'text': "freedom it's completely fascinating so", 'start': 2696.04, 'duration': 4.74}
+{'text': 'um you enter underground you come up you', 'start': 2698.65, 'duration': 3.51}
+{'text': 'enter this thing called the mirror room', 'start': 2700.78, 'duration': 3.54}
+{'text': 'in the mirror room you stand on the', 'start': 2702.16, 'duration': 4.68}
+{'text': "ground and there's a mylar giant", 'start': 2704.32, 'duration': 5.28}
+{'text': 'inflated mylar dome you look up and', 'start': 2706.84, 'duration': 5.04}
+{'text': 'because of the way the dome is built you', 'start': 2709.6, 'duration': 4.05}
+{'text': 'see your own image in three dimensions', 'start': 2711.88, 'duration': 4.41}
+{'text': 'upside down you enter literally a', 'start': 2713.65, 'duration': 3.9}
+{'text': 'surround in which you are mirrored', 'start': 2716.29, 'duration': 5.31}
+{'text': 'Facebook seriously', 'start': 2717.55, 'duration': 5.67}
+{'text': 'okay the lights are controlled by', 'start': 2721.6, 'duration': 3.36}
+{'text': 'programs on punched paper tape which are', 'start': 2723.22, 'duration': 4.02}
+{'text': 'here and the artist is not called an', 'start': 2724.96, 'duration': 5.49}
+{'text': 'artist or a creator or a host or happen', 'start': 2727.24, 'duration': 5.88}
+{'text': 'or or a bee in draw a generator no no no', 'start': 2730.45, 'duration': 4.95}
+{'text': 'the artist is called a programmer and', 'start': 2733.12, 'duration': 5.15}
+{'text': 'they are there to manage the environment', 'start': 2735.4, 'duration': 5.85}
+{'text': 'the environment itself is a living', 'start': 2738.27, 'duration': 5.08}
+{'text': 'example of cybernetic principles this is', 'start': 2741.25, 'duration': 4.08}
+{'text': 'one of my favorite pictures these are', 'start': 2743.35, 'duration': 3.96}
+{'text': "hostess's Japanese hostesses assigned to", 'start': 2745.33, 'duration': 3.75}
+{'text': 'the pavilion there was a section of', 'start': 2747.31, 'duration': 3.12}
+{'text': "floor it's actually fairly large section", 'start': 2749.08, 'duration': 2.01}
+{'text': 'I think it might have been about a', 'start': 2750.43, 'duration': 2.85}
+{'text': 'hundred square feet in which each panel', 'start': 2751.09, 'duration': 5.1}
+{'text': 'of the floor has sensors underneath and', 'start': 2753.28, 'duration': 4.59}
+{'text': 'as you walk across it it produces', 'start': 2756.19, 'duration': 4.35}
+{'text': 'different sounds so one section produces', 'start': 2757.87, 'duration': 5.19}
+{'text': 'rustling grass another produces gravel', 'start': 2760.54, 'duration': 4.59}
+{'text': 'you hear these sounds with these', 'start': 2763.06, 'duration': 5.16}
+{'text': 'handsets and in the process you become', 'start': 2765.13, 'duration': 6.42}
+{'text': 'part of a cybernetic loop you become', 'start': 2768.22, 'duration': 5.61}
+{'text': 'part of the cybernetic system but not in', 'start': 2771.55, 'duration': 3.57}
+{'text': 'a way that we might imagine is', 'start': 2773.83, 'duration': 3.42}
+{'text': 'surveilled or controlled but rather in a', 'start': 2775.12, 'duration': 5.16}
+{'text': 'way that frees you to experience the', 'start': 2777.25, 'duration': 4.44}
+{'text': 'diversity of the natural and the', 'start': 2780.28, 'duration': 3.6}
+{'text': 'mechanical world as part of a single', 'start': 2781.69, 'duration': 5.25}
+{'text': 'global information system remember that', 'start': 2783.88, 'duration': 4.92}
+{'text': 'Weiner says we are but patterns of', 'start': 2786.94, 'duration': 5.13}
+{'text': 'information in rivers of time here you', 'start': 2788.8, 'duration': 6.23}
+{'text': 'get to actually experience that as such', 'start': 2792.07, 'duration': 7.11}
+{'text': "so you might think that there's a happy", 'start': 2795.03, 'duration': 7.06}
+{'text': 'ending here this is the 1967 human being', 'start': 2799.18, 'duration': 5.82}
+{'text': 'Golden Gate Park sparks the Summer of', 'start': 2802.09, 'duration': 6.63}
+{'text': 'Love in about six months tens of', 'start': 2805.0, 'duration': 5.16}
+{'text': 'thousands of people gather in the park', 'start': 2808.72, 'duration': 3.33}
+{'text': 'they are precisely the kind of', 'start': 2810.16, 'duration': 4.8}
+{'text': 'self-seeking self-affirming highly', 'start': 2812.05, 'duration': 4.29}
+{'text': 'individuated people', 'start': 2814.96, 'duration': 3.27}
+{'text': 'the Margaret Mead and the members of the', 'start': 2816.34, 'duration': 3.42}
+{'text': 'committee for national morale called for', 'start': 2818.23, 'duration': 9.63}
+{'text': "in 1941 you know but there's a problem", 'start': 2819.76, 'duration': 12.24}
+{'text': 'I want to see if I can lay it out in the', 'start': 2827.86, 'duration': 5.61}
+{'text': 'context of the late 30s in the early', 'start': 2832.0, 'duration': 4.8}
+{'text': '1940s the idea of a media surround and', 'start': 2833.47, 'duration': 5.49}
+{'text': 'of Gestalt a Psychology underlying it is', 'start': 2836.8, 'duration': 5.01}
+{'text': "enormously freeing it's a it's a robust", 'start': 2838.96, 'duration': 5.91}
+{'text': 'antidote to mass media and the threat of', 'start': 2841.81, 'duration': 6.11}
+{'text': 'fascism that mass media seems to carry', 'start': 2844.87, 'duration': 5.07}
+{'text': 'and you can see it here this is actually', 'start': 2847.92, 'duration': 4.54}
+{'text': 'a 1955 the family of man on display in', 'start': 2849.94, 'duration': 4.35}
+{'text': 'Washington people who are moving in this', 'start': 2852.46, 'duration': 3.72}
+{'text': 'space feel enormous ly free and they', 'start': 2854.29, 'duration': 3.39}
+{'text': "write about it at great lengths and it's", 'start': 2856.18, 'duration': 2.94}
+{'text': "all in the book I won't bore you with it", 'start': 2857.68, 'duration': 3.93}
+{'text': 'here they feel free to cluster to clump', 'start': 2859.12, 'duration': 4.47}
+{'text': 'to see images of people who are unlike', 'start': 2861.61, 'duration': 3.72}
+{'text': 'themselves the family of man has', 'start': 2863.59, 'duration': 3.54}
+{'text': 'pictures of traditional Japanese ten', 'start': 2865.33, 'duration': 3.45}
+{'text': 'years after the war an amazing thing to', 'start': 2867.13, 'duration': 3.84}
+{'text': 'see pictures of Africans and African', 'start': 2868.78, 'duration': 4.8}
+{'text': 'Americans made by Africans and African', 'start': 2870.97, 'duration': 5.1}
+{'text': 'Americans held up on equal terms to', 'start': 2873.58, 'duration': 4.53}
+{'text': 'pictures of white folks in the same show', 'start': 2876.07, 'duration': 4.95}
+{'text': 'this is a show that engages diversity', 'start': 2878.11, 'duration': 4.41}
+{'text': 'and that by moving freely among it you', 'start': 2881.02, 'duration': 3.6}
+{'text': 'begin to imagine yourself as a free', 'start': 2882.52, 'duration': 4.32}
+{'text': 'citizen in a diverse society so much to', 'start': 2884.62, 'duration': 7.62}
+{'text': 'the good trouble is as you can see in', 'start': 2886.84, 'duration': 8.37}
+{'text': 'this picture you feel free and you are', 'start': 2892.24, 'duration': 5.22}
+{'text': 'in a world that appears radically open', 'start': 2895.21, 'duration': 4.8}
+{'text': "and free to you but there's a backstage", 'start': 2897.46, 'duration': 6.03}
+{'text': "and you can't see it not only is there a", 'start': 2900.01, 'duration': 5.22}
+{'text': 'backstage but these images have been', 'start': 2903.49, 'duration': 4.08}
+{'text': 'carefully selected for you you are', 'start': 2905.23, 'duration': 5.07}
+{'text': 'actually inhabit a feeling free in and', 'start': 2907.57, 'duration': 6.03}
+{'text': 'feeling individuated by a world that has', 'start': 2910.3, 'duration': 6.15}
+{'text': 'been intensely curated in which power is', 'start': 2913.6, 'duration': 4.32}
+{'text': 'being exercised on you through', 'start': 2916.45, 'duration': 4.2}
+{'text': 'aggregation and in which those who are', 'start': 2917.92, 'duration': 4.85}
+{'text': 'doing the work are invisible', 'start': 2920.65, 'duration': 4.89}
+{'text': 'you can shout back at Herman Goering but', 'start': 2922.77, 'duration': 5.01}
+{'text': 'who do you shout back to here', 'start': 2925.54, 'duration': 4.74}
+{'text': 'these people who built this show Edward', 'start': 2927.78, 'duration': 4.9}
+{'text': 'Steichen Herbert Beier who influenced it', 'start': 2930.28, 'duration': 4.02}
+{'text': "they genuinely believe they're freeing", 'start': 2932.68, 'duration': 6.3}
+{'text': 'you how do you shout back to them and to', 'start': 2934.3, 'duration': 6.96}
+{'text': "conclude gentlemen I'm afraid that's", 'start': 2938.98, 'duration': 4.68}
+{'text': 'where we are now this is the Consumer', 'start': 2941.26, 'duration': 5.19}
+{'text': "Electronics Show in 2010 as you'll see", 'start': 2943.66, 'duration': 4.98}
+{'text': 'that the precise replica of the pavilion', 'start': 2946.45, 'duration': 3.89}
+{'text': 'from 1970', 'start': 2948.64, 'duration': 5.09}
+{'text': 'we inhabit a world in which individual', 'start': 2950.34, 'duration': 7.68}
+{'text': 'freedom individuation personal choice', 'start': 2953.73, 'duration': 6.55}
+{'text': 'reaching out to connect with distant', 'start': 2958.02, 'duration': 5.5}
+{'text': 'others folks unlike ourselves have', 'start': 2960.28, 'duration': 5.58}
+{'text': 'become the terms by which we are managed', 'start': 2963.52, 'duration': 5.43}
+{'text': 'by which we are organized by which our', 'start': 2965.86, 'duration': 4.8}
+{'text': 'social lives are turned into the', 'start': 2968.95, 'duration': 5.19}
+{'text': 'fundamental terms of profit and this is', 'start': 2970.66, 'duration': 5.31}
+{'text': "a paradox I don't know where to go from", 'start': 2974.14, 'duration': 4.08}
+{'text': "here I'm hoping you do thank you very", 'start': 2975.97, 'duration': 15.51}
+{'text': "much you don't need to be near me but", 'start': 2978.22, 'duration': 15.8}
+{'text': 'thanks so we have time for questions', 'start': 2991.48, 'duration': 4.92}
+{'text': "it's essential for the recording that", 'start': 2994.02, 'duration': 4.27}
+{'text': 'you wait for the mic before you ask your', 'start': 2996.4, 'duration': 4.26}
+{'text': 'question no matter how eager you are we', 'start': 2998.29, 'duration': 6.12}
+{'text': 'have one at the back and I so remember', 'start': 3000.66, 'duration': 7.37}
+{'text': "you'll be on the web at the end hey Fred", 'start': 3004.41, 'duration': 7.38}
+{'text': 'we we taught the Democratic surround in', 'start': 3008.03, 'duration': 5.26}
+{'text': 'comparative Media Studies this year', 'start': 3011.79, 'duration': 3.33}
+{'text': 'thank you and we had a great discussion', 'start': 3013.29, 'duration': 3.84}
+{'text': "about it and what's interesting because", 'start': 3015.12, 'duration': 4.08}
+{'text': 'of course when you teach grad students', 'start': 3017.13, 'duration': 5.04}
+{'text': 'the first thing they learn to do is pick', 'start': 3019.2, 'duration': 6.09}
+{'text': 'stuff apart yeah that and and so the', 'start': 3022.17, 'duration': 4.71}
+{'text': 'picking apart that they did to your book', 'start': 3025.29, 'duration': 5.67}
+{'text': 'I found really interesting what they', 'start': 3026.88, 'duration': 7.56}
+{'text': 'were concerned with was this question of', 'start': 3030.96, 'duration': 8.94}
+{'text': 'how weak these tools were in response to', 'start': 3034.44, 'duration': 9.39}
+{'text': 'how powerful broadcast media was so this', 'start': 3039.9, 'duration': 6.09}
+{'text': 'whole idea that somehow a pavilion that', 'start': 3043.83, 'duration': 4.98}
+{'text': 'a few thousand people walk through or a', 'start': 3045.99, 'duration': 5.73}
+{'text': 'John Cage performance that somehow that', 'start': 3048.81, 'duration': 6.18}
+{'text': 'was gonna counteract a radio broadcast', 'start': 3051.72, 'duration': 6.56}
+{'text': "hang everyone's home that that seemed", 'start': 3054.99, 'duration': 7.77}
+{'text': "incredibly weak at the same time you're", 'start': 3058.28, 'duration': 6.49}
+{'text': 'leaving us at this moment of sort of', 'start': 3062.76, 'duration': 5.04}
+{'text': 'incredible strength and control that', 'start': 3064.77, 'duration': 4.89}
+{'text': 'this whole notion of stage management', 'start': 3067.8, 'duration': 3.33}
+{'text': 'this whole notion of sort of creating', 'start': 3069.66, 'duration': 4.41}
+{'text': 'these architectures now is encompassing', 'start': 3071.13, 'duration': 7.23}
+{'text': "more than a billion people we're my", 'start': 3074.07, 'duration': 7.77}
+{'text': 'students under valuing those pavilions', 'start': 3078.36, 'duration': 5.04}
+{'text': 'and those art movement', 'start': 3081.84, 'duration': 5.55}
+{'text': 'or were they not yet seeing this last', 'start': 3083.4, 'duration': 5.82}
+{'text': "step which you've only really brought in", 'start': 3087.39, 'duration': 5.159}
+{'text': 'post-book in the ways in which this sort', 'start': 3089.22, 'duration': 5.46}
+{'text': 'of stage management is now the precursor', 'start': 3092.549, 'duration': 4.8}
+{'text': 'for sort of platform control today so I', 'start': 3094.68, 'duration': 4.439}
+{'text': "would thank you that's a wonderful", 'start': 3097.349, 'duration': 3.9}
+{'text': 'question I was gonna hide behind the', 'start': 3099.119, 'duration': 3.811}
+{'text': 'screen that I usually hide behind with a', 'start': 3101.249, 'duration': 4.05}
+{'text': 'question like this which is I never', 'start': 3102.93, 'duration': 4.349}
+{'text': 'believed what my subjects did right my', 'start': 3105.299, 'duration': 3.841}
+{'text': 'subject believed my subjects believed', 'start': 3107.279, 'duration': 3.181}
+{'text': 'that these sources were powerful', 'start': 3109.14, 'duration': 4.169}
+{'text': 'I was always ambivalent about it but', 'start': 3110.46, 'duration': 3.96}
+{'text': 'they really did believe it whether they', 'start': 3113.309, 'duration': 3.601}
+{'text': "were naive or not I don't know you know", 'start': 3114.42, 'duration': 3.629}
+{'text': "in retrospect I don't think they're", 'start': 3116.91, 'duration': 2.76}
+{'text': "naive I didn't go into this in the book", 'start': 3118.049, 'duration': 2.73}
+{'text': 'because I wanted the book to stop', 'start': 3119.67, 'duration': 3.449}
+{'text': 'cleanly as a history I wanted to I was', 'start': 3120.779, 'duration': 3.421}
+{'text': 'just trying to explain sort of where a', 'start': 3123.119, 'duration': 2.7}
+{'text': 'particular mode of Management came by', 'start': 3124.2, 'duration': 4.169}
+{'text': 'the 1960s and the story after that gets', 'start': 3125.819, 'duration': 3.811}
+{'text': 'taken up a lot in the counterculture', 'start': 3128.369, 'duration': 4.771}
+{'text': "book so I didn't want to go farther but", 'start': 3129.63, 'duration': 6.5}
+{'text': 'but I think your students are wrong', 'start': 3133.14, 'duration': 5.639}
+{'text': 'actually yeah no I think your students', 'start': 3136.13, 'duration': 3.729}
+{'text': 'are wrong and I think this is actually a', 'start': 3138.779, 'duration': 4.05}
+{'text': 'legacy for the left more generally we', 'start': 3139.859, 'duration': 4.71}
+{'text': 'tend to on the left think of ourselves', 'start': 3142.829, 'duration': 4.29}
+{'text': 'as being the folks who push back on', 'start': 3144.569, 'duration': 5.581}
+{'text': 'bureaucratic fascist hierarchical', 'start': 3147.119, 'duration': 4.351}
+{'text': 'systems that imprison otherwise', 'start': 3150.15, 'duration': 3.449}
+{'text': 'authentic individuals and what I would', 'start': 3151.47, 'duration': 3.329}
+{'text': "argue is that the system I've just", 'start': 3153.599, 'duration': 3.601}
+{'text': 'described to you is a system designed to', 'start': 3154.799, 'duration': 4.861}
+{'text': 'produce authentic individuals and in the', 'start': 3157.2, 'duration': 4.619}
+{'text': 'production of your authenticity lies the', 'start': 3159.66, 'duration': 3.689}
+{'text': 'beginning of your imprisonment in this', 'start': 3161.819, 'duration': 3.71}
+{'text': 'system', 'start': 3163.349, 'duration': 2.18}
+{'text': 'Thanks great question', 'start': 3166.249, 'duration': 3.54}
+{'text': "that's kind of a bummer huh have we got", 'start': 3171.18, 'duration': 12.37}
+{'text': 'some other ones one on the way back so', 'start': 3176.68, 'duration': 7.95}
+{'text': 'could you repeat that', 'start': 3183.55, 'duration': 4.59}
+{'text': 'sure yeah yep yep so so so the so this', 'start': 3184.63, 'duration': 4.92}
+{'text': 'is irony here right and one of things', 'start': 3188.14, 'duration': 2.969}
+{'text': 'that I do a lot of my work is I get kind', 'start': 3189.55, 'duration': 5.67}
+{'text': 'of preoccupied with this these systems', 'start': 3191.109, 'duration': 6.211}
+{'text': 'were designed to maximize the', 'start': 3195.22, 'duration': 3.78}
+{'text': 'individuation of the people who', 'start': 3197.32, 'duration': 3.66}
+{'text': 'encountered them so in going to the', 'start': 3199.0, 'duration': 4.08}
+{'text': 'family of man you were offered 500', 'start': 3200.98, 'duration': 4.08}
+{'text': 'images and you were encouraged to walk', 'start': 3203.08, 'duration': 3.66}
+{'text': 'among them to find the images that were', 'start': 3205.06, 'duration': 3.9}
+{'text': 'most meaningful to you and to knit those', 'start': 3206.74, 'duration': 4.14}
+{'text': 'images into a personal experience that', 'start': 3208.96, 'duration': 3.6}
+{'text': 'could be robust and coherent inside', 'start': 3210.88, 'duration': 3.87}
+{'text': 'yourself in a way theorized by Gestalt', 'start': 3212.56, 'duration': 4.02}
+{'text': 'psychology and that would that would', 'start': 3214.75, 'duration': 3.21}
+{'text': 'make you more individual you and I would', 'start': 3216.58, 'duration': 3.21}
+{'text': 'go and see the same images but different', 'start': 3217.96, 'duration': 3.27}
+{'text': 'images would be meaningful to you and to', 'start': 3219.79, 'duration': 3.27}
+{'text': 'me we would be individuated by this', 'start': 3221.23, 'duration': 4.08}
+{'text': 'collective experience okay so far so', 'start': 3223.06, 'duration': 4.65}
+{'text': 'good okay so where this becomes a', 'start': 3225.31, 'duration': 6.45}
+{'text': 'problem is when we start to think about', 'start': 3227.71, 'duration': 6.81}
+{'text': 'what the terms of our individual are the', 'start': 3231.76, 'duration': 4.44}
+{'text': 'images but against which we are', 'start': 3234.52, 'duration': 3.03}
+{'text': 'individuating ourselves have in fact', 'start': 3236.2, 'duration': 2.909}
+{'text': 'been selected for us within certain', 'start': 3237.55, 'duration': 4.41}
+{'text': 'genres I happen to think that the images', 'start': 3239.109, 'duration': 4.351}
+{'text': 'offered and family of man were in fact', 'start': 3241.96, 'duration': 2.94}
+{'text': 'deeply liberating at that historical', 'start': 3243.46, 'duration': 3.57}
+{'text': 'moment and that the images offered on', 'start': 3244.9, 'duration': 4.2}
+{'text': 'Facebook are not so much and we can talk', 'start': 3247.03, 'duration': 6.45}
+{'text': 'about those differences but the notion', 'start': 3249.1, 'duration': 7.11}
+{'text': 'that by curating a world we will free', 'start': 3253.48, 'duration': 6.36}
+{'text': 'the people inside it is is fundamentally', 'start': 3256.21, 'duration': 7.08}
+{'text': 'wrong I think does it am I making sense', 'start': 3259.84, 'duration': 6.3}
+{'text': 'maybe not so much now completely I still', 'start': 3263.29, 'duration': 4.71}
+{'text': "don't understand but okay I guess", 'start': 3266.14, 'duration': 3.479}
+{'text': "there's two different kinds you know", 'start': 3268.0, 'duration': 2.85}
+{'text': "there's two different kinds of people", 'start': 3269.619, 'duration': 3.091}
+{'text': 'involved in two different movements and', 'start': 3270.85, 'duration': 4.32}
+{'text': 'people who think very differently so one', 'start': 3272.71, 'duration': 4.71}
+{'text': 'on one hand you have the artists you', 'start': 3275.17, 'duration': 4.14}
+{'text': 'have the designers of the exhibition', 'start': 3277.42, 'duration': 4.83}
+{'text': "right and they're not the oppressors I", 'start': 3279.31, 'duration': 5.58}
+{'text': 'disagree I really disagree with that I', 'start': 3282.25, 'duration': 4.41}
+{'text': 'think this is really important I think', 'start': 3284.89, 'duration': 3.39}
+{'text': 'John Cage would think of himself as a', 'start': 3286.66, 'duration': 3.84}
+{'text': 'liberator but just as he is liberating', 'start': 3288.28, 'duration': 4.32}
+{'text': 'us in his sound space and took pushing', 'start': 3290.5, 'duration': 3.57}
+{'text': "away Beethoven and saying I'm going to", 'start': 3292.6, 'duration': 2.67}
+{'text': 'teach you how to listen to the world', 'start': 3294.07, 'duration': 3.93}
+{'text': 'around you he is in fact also teaching', 'start': 3295.27, 'duration': 5.43}
+{'text': 'us how to inhabit a mode of subjectivity', 'start': 3298.0, 'duration': 4.29}
+{'text': 'entirely appropriate for a consumer', 'start': 3300.7, 'duration': 3.69}
+{'text': 'society well but I mean', 'start': 3302.29, 'duration': 3.749}
+{'text': "you know you're here interpreting and", 'start': 3304.39, 'duration': 3.03}
+{'text': "things for us and you're generating", 'start': 3306.039, 'duration': 3.391}
+{'text': "stuff and I don't feel oppressed by that", 'start': 3307.42, 'duration': 6.06}
+{'text': "so yeah I don't think in cage we think", 'start': 3309.43, 'duration': 5.49}
+{'text': 'of himself as an oppressor obviously but', 'start': 3313.48, 'duration': 3.539}
+{'text': 'you know do you think of yourself I mean', 'start': 3314.92, 'duration': 3.84}
+{'text': "as an oppressor accurate I mean I don't", 'start': 3317.019, 'duration': 4.171}
+{'text': "mean that - just because you're curating", 'start': 3318.76, 'duration': 4.47}
+{'text': "for us and I don't think that no right", 'start': 3321.19, 'duration': 3.57}
+{'text': 'now we all curate for each other at', 'start': 3323.23, 'duration': 2.67}
+{'text': 'different times there may not', 'start': 3324.76, 'duration': 3.75}
+{'text': 'necessarily a tool of oppression so why', 'start': 3325.9, 'duration': 4.08}
+{'text': "they jump to that yeah you're pointing", 'start': 3328.51, 'duration': 2.759}
+{'text': 'to a really important question which is', 'start': 3329.98, 'duration': 2.52}
+{'text': 'maybe maybe I could phrase this a little', 'start': 3331.269, 'duration': 2.881}
+{'text': 'bit differently which is under what', 'start': 3332.5, 'duration': 4.529}
+{'text': 'conditions did the otherwise Liberatore', 'start': 3334.15, 'duration': 4.619}
+{'text': 'efforts of these folks become oppressive', 'start': 3337.029, 'duration': 6.121}
+{'text': 'and I roll that sentence back sir so so', 'start': 3338.769, 'duration': 6.51}
+{'text': 'so I would argue that in the 40s the', 'start': 3343.15, 'duration': 3.419}
+{'text': 'committee for national morale efforts', 'start': 3345.279, 'duration': 3.631}
+{'text': 'were in fact genuinely Liberatore like I', 'start': 3346.569, 'duration': 4.29}
+{'text': 'think they really actually did help', 'start': 3348.91, 'duration': 3.33}
+{'text': 'people imagine themselves differently', 'start': 3350.859, 'duration': 2.46}
+{'text': 'and I would say the same for cages', 'start': 3352.24, 'duration': 4.379}
+{'text': 'compositions at some point really in the', 'start': 3353.319, 'duration': 5.191}
+{'text': 'mid 50s with something with a campaign', 'start': 3356.619, 'duration': 4.111}
+{'text': "called the people's capitalism and it", 'start': 3358.51, 'duration': 3.21}
+{'text': 'was sponsored by the National', 'start': 3360.73, 'duration': 2.22}
+{'text': 'advertising agency in Unites States', 'start': 3361.72, 'duration': 2.549}
+{'text': 'government', 'start': 3362.95, 'duration': 4.44}
+{'text': 'those same forms began to turn toward', 'start': 3364.269, 'duration': 4.981}
+{'text': 'become becoming training for consumption', 'start': 3367.39, 'duration': 3.78}
+{'text': 'and the political valence that was', 'start': 3369.25, 'duration': 2.849}
+{'text': 'attached to them at their birth', 'start': 3371.17, 'duration': 3.27}
+{'text': 'disappeared the anti-racist implications', 'start': 3372.099, 'duration': 5.341}
+{'text': 'melted away the the sort of pro', 'start': 3374.44, 'duration': 5.25}
+{'text': 'diversity implications melted away and', 'start': 3377.44, 'duration': 4.5}
+{'text': 'we ended up with diversity and choice', 'start': 3379.69, 'duration': 4.04}
+{'text': 'being the language of consumption and', 'start': 3381.94, 'duration': 4.409}
+{'text': 'the notion of self production being one', 'start': 3383.73, 'duration': 4.95}
+{'text': 'wedded to consumption as opposed to', 'start': 3386.349, 'duration': 4.74}
+{'text': "encounters with other folks I'm very", 'start': 3388.68, 'duration': 4.089}
+{'text': 'happy to go deep on this afterwards I', 'start': 3391.089, 'duration': 2.7}
+{'text': 'want make sure everybody gets a shot at', 'start': 3392.769, 'duration': 2.52}
+{'text': 'this thank you but yeah very happy to go', 'start': 3393.789, 'duration': 3.211}
+{'text': 'deep on it later thanks thank you and', 'start': 3395.289, 'duration': 3.601}
+{'text': "I've just should I called you want to", 'start': 3397.0, 'duration': 5.94}
+{'text': 'call okay yes so you call you call and', 'start': 3398.89, 'duration': 6.6}
+{'text': "I'll answer great Thanks hi thank you", 'start': 3402.94, 'duration': 4.7}
+{'text': 'very much for your presentation yeah', 'start': 3405.49, 'duration': 7.5}
+{'text': "it's very provocative argument one thing", 'start': 3407.64, 'duration': 6.429}
+{'text': 'I would like to know your opinion on is', 'start': 3412.99, 'duration': 2.629}
+{'text': 'how you', 'start': 3414.069, 'duration': 3.99}
+{'text': 'similarly following up on that question', 'start': 3415.619, 'duration': 6.371}
+{'text': "is it seems like you're positioning the", 'start': 3418.059, 'duration': 6.421}
+{'text': 'artists under something that they did', 'start': 3421.99, 'duration': 7.519}
+{'text': 'have you know they did lead to these', 'start': 3424.48, 'duration': 10.079}
+{'text': 'modes of very specific limited choice', 'start': 3429.509, 'duration': 8.471}
+{'text': 'within you know what we have but it was', 'start': 3434.559, 'duration': 5.161}
+{'text': 'the artists just because they paved the', 'start': 3437.98, 'duration': 3.629}
+{'text': 'way for consumer society as your', 'start': 3439.72, 'duration': 7.74}
+{'text': "argument why would we say that it's not", 'start': 3441.609, 'duration': 8.25}
+{'text': 'the companies that been right under', 'start': 3447.46, 'duration': 4.95}
+{'text': 'under the logic of capitalism I mean so', 'start': 3449.859, 'duration': 3.871}
+{'text': "that's that's another super important", 'start': 3452.41, 'duration': 3.24}
+{'text': 'question I think we have this habit', 'start': 3453.73, 'duration': 4.08}
+{'text': 'historically and and in the present of', 'start': 3455.65, 'duration': 4.98}
+{'text': 'looking for bad actors and for looking', 'start': 3457.81, 'duration': 5.37}
+{'text': 'for centers of concentrated financial or', 'start': 3460.63, 'duration': 4.29}
+{'text': 'material power as the sources of bad', 'start': 3463.18, 'duration': 4.919}
+{'text': 'action - I would tell us a little more', 'start': 3464.92, 'duration': 4.65}
+{'text': 'personally my first book was a book', 'start': 3468.099, 'duration': 2.73}
+{'text': 'about how Americans remember the Vietnam', 'start': 3469.57, 'duration': 3.06}
+{'text': 'War and I spent a long time with a group', 'start': 3470.829, 'duration': 3.931}
+{'text': 'of traumatized combat vets in Vietnam', 'start': 3472.63, 'duration': 3.57}
+{'text': 'combat vets in a Veterans Administration', 'start': 3474.76, 'duration': 5.01}
+{'text': 'Day program in Boston and in working', 'start': 3476.2, 'duration': 5.46}
+{'text': 'with them the constant challenge that', 'start': 3479.77, 'duration': 3.51}
+{'text': 'the constant mystery to them one of the', 'start': 3481.66, 'duration': 2.79}
+{'text': 'most traumatizing features of their', 'start': 3483.28, 'duration': 4.44}
+{'text': 'lives was that they had done things that', 'start': 3484.45, 'duration': 4.83}
+{'text': 'were entirely contrary to their own', 'start': 3487.72, 'duration': 3.69}
+{'text': 'moral beliefs and yet they had done them', 'start': 3489.28, 'duration': 6.36}
+{'text': "were they made to do them hmm where I'm", 'start': 3491.41, 'duration': 6.48}
+{'text': "going with this is it's back to the", 'start': 3495.64, 'duration': 4.35}
+{'text': 'world of John Cage and others you know', 'start': 3497.89, 'duration': 4.17}
+{'text': 'they may well have believed that they', 'start': 3499.99, 'duration': 5.01}
+{'text': 'were doing liberating things but they as', 'start': 3502.06, 'duration': 4.049}
+{'text': 'were many corporate leaders in the', 'start': 3505.0, 'duration': 2.19}
+{'text': 'period many corporate leaders believed', 'start': 3506.109, 'duration': 2.611}
+{'text': 'that they were freeing the world around', 'start': 3507.19, 'duration': 4.5}
+{'text': "us that doesn't mean that they're the", 'start': 3508.72, 'duration': 4.94}
+{'text': "choices they made didn't have", 'start': 3511.69, 'duration': 4.31}
+{'text': 'alternative kinds of kinds of impacts', 'start': 3513.66, 'duration': 4.06}
+{'text': 'let me say about artists more', 'start': 3516.0, 'duration': 4.24}
+{'text': 'specifically I want to I want to really', 'start': 3517.72, 'duration': 4.2}
+{'text': "say that artists don't look very good in", 'start': 3520.24, 'duration': 3.81}
+{'text': 'this book at the end of the day Herbert', 'start': 3521.92, 'duration': 3.48}
+{'text': 'Beier helps create the Aspen Institute', 'start': 3524.05, 'duration': 3.09}
+{'text': 'that you know a massive corporate Center', 'start': 3525.4, 'duration': 4.08}
+{'text': "okay but he's by far the are the most", 'start': 3527.14, 'duration': 3.84}
+{'text': 'benign the folks who look really', 'start': 3529.48, 'duration': 3.389}
+{'text': 'terrible in my eyes are the happen errs', 'start': 3530.98, 'duration': 5.01}
+{'text': 'Allan Kaprow and his crowd when you go', 'start': 3532.869, 'duration': 4.321}
+{'text': 'look at pictures of happenings I did not', 'start': 3535.99, 'duration': 3.18}
+{'text': "know this they're almost exclusively", 'start': 3537.19, 'duration': 4.2}
+{'text': 'young white men what women are in the', 'start': 3539.17, 'duration': 4.53}
+{'text': 'pictures tend to be naked under sheets', 'start': 3541.39, 'duration': 4.709}
+{'text': 'which have been soaked in water their', 'start': 3543.7, 'duration': 3.3}
+{'text': 'pictures of women with their mouths', 'start': 3546.099, 'duration': 3.631}
+{'text': 'stuffed with vegetables Yoko Ono makes', 'start': 3547.0, 'duration': 4.56}
+{'text': 'her bones arguably covering herself in', 'start': 3549.73, 'duration': 3.0}
+{'text': 'cream and having it licked off by male', 'start': 3551.56, 'duration': 2.73}
+{'text': 'artists or having her clothes cut off or', 'start': 3552.73, 'duration': 3.21}
+{'text': "by my artist yeah you could say that's a", 'start': 3554.29, 'duration': 3.6}
+{'text': "claiming of power I don't buy it", 'start': 3555.94, 'duration': 3.96}
+{'text': 'you know there are a few happen errs who', 'start': 3557.89, 'duration': 3.179}
+{'text': 'are women very few Carolee schneemann', 'start': 3559.9, 'duration': 3.54}
+{'text': 'would be a good example but but but that', 'start': 3561.069, 'duration': 4.921}
+{'text': 'was a a radically oppressive environment', 'start': 3563.44, 'duration': 3.99}
+{'text': 'that claimed to be a radically', 'start': 3565.99, 'duration': 4.36}
+{'text': 'liberating one yeah', 'start': 3567.43, 'duration': 8.23}
+{'text': "um I had a question about the where's", 'start': 3570.35, 'duration': 9.09}
+{'text': "where are you I can't see the voice from", 'start': 3575.66, 'duration': 9.75}
+{'text': 'nowhere so I kept thinking about the the', 'start': 3579.44, 'duration': 8.4}
+{'text': 'art pieces and the kind of benevolent', 'start': 3585.41, 'duration': 6.75}
+{'text': 'intentions behind them and wondering you', 'start': 3587.84, 'duration': 7.53}
+{'text': 'know as like as modern artists what', 'start': 3592.16, 'duration': 7.14}
+{'text': 'people can do to protect against these', 'start': 3595.37, 'duration': 9.66}
+{'text': "kinds of like accidental oppressions I'd", 'start': 3599.3, 'duration': 7.02}
+{'text': 'like keep thinking about like The Truman', 'start': 3605.03, 'duration': 3.36}
+{'text': "Show and don't you know the movie where", 'start': 3606.32, 'duration': 3.66}
+{'text': "he like he believes he's totally", 'start': 3608.39, 'duration': 3.99}
+{'text': 'liberated but the the fake walls around', 'start': 3609.98, 'duration': 6.3}
+{'text': 'him and so how if you were to go back', 'start': 3612.38, 'duration': 8.61}
+{'text': 'and like you could be there with the', 'start': 3616.28, 'duration': 5.52}
+{'text': 'family man', 'start': 3620.99, 'duration': 3.42}
+{'text': 'how would you how would you redesign', 'start': 3621.8, 'duration': 4.89}
+{'text': 'that exhibit to be actually Liberatore', 'start': 3624.41, 'duration': 5.49}
+{'text': 'instead of being like so I love your', 'start': 3626.69, 'duration': 4.8}
+{'text': 'phrase accidentally oppressive I think', 'start': 3629.9, 'duration': 2.7}
+{'text': "that's accidental oppression I think", 'start': 3631.49, 'duration': 2.22}
+{'text': "that's a really helpful and useful", 'start': 3632.6, 'duration': 3.42}
+{'text': "phrase the family man's a tough case to", 'start': 3633.71, 'duration': 3.48}
+{'text': "work with because I've actually written", 'start': 3636.02, 'duration': 2.58}
+{'text': 'a long paper on it which I argue that it', 'start': 3637.19, 'duration': 2.61}
+{'text': 'is Liberatore and I would argue that', 'start': 3638.6, 'duration': 2.94}
+{'text': "it's sort of the last of its kind it's", 'start': 3639.8, 'duration': 4.44}
+{'text': 'the last moment at which race and gender', 'start': 3641.54, 'duration': 4.83}
+{'text': 'and class are right on the front stage', 'start': 3644.24, 'duration': 3.75}
+{'text': "and you're asked to really think those", 'start': 3646.37, 'duration': 3.18}
+{'text': "things through so I think it's a harder", 'start': 3647.99, 'duration': 3.24}
+{'text': "case I don't really have a good answer", 'start': 3649.55, 'duration': 4.35}
+{'text': "but I'll speculate my speculation would", 'start': 3651.23, 'duration': 4.35}
+{'text': 'be to pay if you were an artist to be', 'start': 3653.9, 'duration': 2.79}
+{'text': "very close attention to who you're", 'start': 3655.58, 'duration': 3.03}
+{'text': "collaborating with all the folks I'm", 'start': 3656.69, 'duration': 3.51}
+{'text': 'talking with talking about here are', 'start': 3658.61, 'duration': 3.78}
+{'text': 'collaborating as many artists at MIT do', 'start': 3660.2, 'duration': 4.68}
+{'text': 'in ways that I would not denigrate with', 'start': 3662.39, 'duration': 4.35}
+{'text': 'large corporate actors large technology', 'start': 3664.88, 'duration': 4.14}
+{'text': 'firms which also may have military', 'start': 3666.74, 'duration': 4.38}
+{'text': 'contacts which may be tied up in lots of', 'start': 3669.02, 'duration': 4.92}
+{'text': 'different kinds of things in even', 'start': 3671.12, 'duration': 5.43}
+{'text': "setting that aside I'm struck by the", 'start': 3673.94, 'duration': 4.35}
+{'text': 'relative paucity of impoverished people', 'start': 3676.55, 'duration': 4.68}
+{'text': 'right in the discussion in the in the', 'start': 3678.29, 'duration': 4.86}
+{'text': 'mid world there was a real effort to', 'start': 3681.23, 'duration': 3.51}
+{'text': 'reach out to folks who were not like', 'start': 3683.15, 'duration': 4.53}
+{'text': 'ourselves and and and that effort I', 'start': 3684.74, 'duration': 4.71}
+{'text': 'think has melted away I sometimes get', 'start': 3687.68, 'duration': 3.42}
+{'text': 'asked what I think utopia is these days', 'start': 3689.45, 'duration': 5.31}
+{'text': 'right and my answer actually is a church', 'start': 3691.1, 'duration': 6.45}
+{'text': 'I go to periodically in San Francisco', 'start': 3694.76, 'duration': 4.86}
+{'text': 'called glide memorial live memorial is a', 'start': 3697.55, 'duration': 3.66}
+{'text': 'radically affirming Methodist Church', 'start': 3699.62, 'duration': 2.73}
+{'text': 'where they took the cross off the wall', 'start': 3701.21, 'duration': 2.1}
+{'text': 'and brought it out into the street', 'start': 3702.35, 'duration': 1.98}
+{'text': 'because they thought it belong with the', 'start': 3703.31, 'duration': 3.33}
+{'text': "people it's the only place in my life I", 'start': 3704.33, 'duration': 3.72}
+{'text': "teach at Stanford it's the only place in", 'start': 3706.64, 'duration': 3.72}
+{'text': 'my life where I meet people of all', 'start': 3708.05, 'duration': 3.84}
+{'text': 'different classes all different races', 'start': 3710.36, 'duration': 3.63}
+{'text': 'all different life experiences and we do', 'start': 3711.89, 'duration': 6.51}
+{'text': 'things together on equal terms that that', 'start': 3713.99, 'duration': 5.79}
+{'text': "wasn't what happenings were happenings", 'start': 3718.4, 'duration': 3.87}
+{'text': 'claimed to equalize society now they', 'start': 3719.78, 'duration': 3.48}
+{'text': 'just made it easier for audiences to', 'start': 3722.27, 'duration': 3.57}
+{'text': "come in that's very different so so who", 'start': 3723.26, 'duration': 3.84}
+{'text': 'are you working with I think is part of', 'start': 3725.84, 'duration': 2.49}
+{'text': "the big is that is the first place I'd", 'start': 3727.1, 'duration': 3.93}
+{'text': 'start like when I brought up the family', 'start': 3728.33, 'duration': 4.83}
+{'text': 'man I think it was because you mentioned', 'start': 3731.03, 'duration': 4.92}
+{'text': 'that people felt like they were free but', 'start': 3733.16, 'duration': 5.01}
+{'text': 'in jet but in fact there was this highly', 'start': 3735.95, 'duration': 5.1}
+{'text': "curated space and it's something I was", 'start': 3738.17, 'duration': 4.92}
+{'text': "actually just thinking about so it's how", 'start': 3741.05, 'duration': 4.71}
+{'text': 'do you like or how does an artist like', 'start': 3743.09, 'duration': 4.68}
+{'text': 'have a highly curated space with a', 'start': 3745.76, 'duration': 4.5}
+{'text': 'vision but still like bring in this', 'start': 3747.77, 'duration': 5.01}
+{'text': 'opportunity for serendipity or for a', 'start': 3750.26, 'duration': 5.52}
+{'text': 'chance like that kind of egalitarian but', 'start': 3752.78, 'duration': 4.74}
+{'text': 'it gets worse because now I really have', 'start': 3755.78, 'duration': 3.21}
+{'text': 'to confess I am actually an oppressor in', 'start': 3757.52, 'duration': 3.6}
+{'text': 'this sense no no this is actually really', 'start': 3758.99, 'duration': 4.17}
+{'text': "important because I realizes you're", 'start': 3761.12, 'duration': 4.02}
+{'text': 'asking your question that I think the', 'start': 3763.16, 'duration': 3.51}
+{'text': 'family of man is Liberatore because it', 'start': 3765.14, 'duration': 4.32}
+{'text': 'promotes values that I celebrate it asks', 'start': 3766.67, 'duration': 4.68}
+{'text': 'folks to literally identify with those', 'start': 3769.46, 'duration': 3.83}
+{'text': 'who are different than themselves and', 'start': 3771.35, 'duration': 4.17}
+{'text': 'imagine themselves as members of a poly', 'start': 3773.29, 'duration': 6.88}
+{'text': "racial society I really don't know it's", 'start': 3775.52, 'duration': 10.89}
+{'text': 'a great question hi oh hey thanks thank', 'start': 3780.17, 'duration': 8.52}
+{'text': 'you for your presentation', 'start': 3786.41, 'duration': 6.71}
+{'text': "I'm Joelle and I'm an interactive artist", 'start': 3788.69, 'duration': 7.35}
+{'text': 'and I could argue about all right for', 'start': 3793.12, 'duration': 7.84}
+{'text': 'you but there is just quest well I have', 'start': 3796.04, 'duration': 6.66}
+{'text': 'a question but I also have a comment', 'start': 3800.96, 'duration': 6.42}
+{'text': "brief I would say that it's it would be", 'start': 3802.7, 'duration': 8.43}
+{'text': 'very hard for me to argue like in which', 'start': 3807.38, 'duration': 9.15}
+{'text': 'way John Cage and fellow artists of the', 'start': 3811.13, 'duration': 7.89}
+{'text': 'time would have influenced people so far', 'start': 3816.53, 'duration': 4.74}
+{'text': "I don't think because no one knew", 'start': 3819.02, 'duration': 7.76}
+{'text': "necessarily Cage's agenda of liberation", 'start': 3821.27, 'duration': 9.5}
+{'text': 'people have been like how could you and', 'start': 3826.78, 'duration': 9.96}
+{'text': 'how could you think that cage and others', 'start': 3830.77, 'duration': 7.8}
+{'text': 'how could you measure', 'start': 3836.74, 'duration': 4.92}
+{'text': 'their influence and the fact that they', 'start': 3838.57, 'duration': 5.88}
+{'text': 'have reached much beyond the scope of', 'start': 3841.66, 'duration': 6.27}
+{'text': 'their little circle of friends and', 'start': 3844.45, 'duration': 6.29}
+{'text': 'community in the 60s they probably have', 'start': 3847.93, 'duration': 5.48}
+{'text': 'influenced so many people rich and poor', 'start': 3850.74, 'duration': 5.8}
+{'text': 'you know from all continents so I think', 'start': 3853.41, 'duration': 6.73}
+{'text': "it's it's hard to to have an opinion on", 'start': 3856.54, 'duration': 10.17}
+{'text': 'like based on an assumption that they', 'start': 3860.14, 'duration': 9.33}
+{'text': 'were oppressors that they have actually', 'start': 3866.71, 'duration': 8.73}
+{'text': 'maybe reached beyond that scope yeah', 'start': 3869.47, 'duration': 7.95}
+{'text': 'very fair point I went to Poland and', 'start': 3875.44, 'duration': 4.05}
+{'text': 'gave this presentation at a cage', 'start': 3877.42, 'duration': 3.27}
+{'text': 'conference or version of the present day', 'start': 3879.49, 'duration': 4.14}
+{'text': 'she was talking about cage and the polls', 'start': 3880.69, 'duration': 4.41}
+{'text': "were too polite to say you know you're", 'start': 3883.63, 'duration': 4.65}
+{'text': 'wrong what they did that was fascinating', 'start': 3885.1, 'duration': 4.86}
+{'text': 'though they older Polish professors', 'start': 3888.28, 'duration': 4.71}
+{'text': 'staged a neo K gene happening at this', 'start': 3889.96, 'duration': 5.16}
+{'text': 'event because they saw a cage as a', 'start': 3892.99, 'duration': 3.75}
+{'text': 'vision of freedom from the Soviet Union', 'start': 3895.12, 'duration': 3.63}
+{'text': 'in its period what what I want to argue', 'start': 3896.74, 'duration': 3.57}
+{'text': "is that that that's exactly right within", 'start': 3898.75, 'duration': 3.96}
+{'text': "the arc of their history and I'm gonna", 'start': 3900.31, 'duration': 4.8}
+{'text': 'plead that my vision of cage as a proto', 'start': 3902.71, 'duration': 5.1}
+{'text': 'oppressor only makes sense within the', 'start': 3905.11, 'duration': 4.83}
+{'text': "arc of history that I'm telling he's", 'start': 3907.81, 'duration': 3.42}
+{'text': 'taken up very differently in other', 'start': 3909.94, 'duration': 3.12}
+{'text': 'places and I totally respect that you', 'start': 3911.23, 'duration': 3.69}
+{'text': 'can see that that that challenge again', 'start': 3913.06, 'duration': 3.57}
+{'text': 'now yes they think about the maker', 'start': 3914.92, 'duration': 2.88}
+{'text': 'movement right the maker movement is', 'start': 3916.63, 'duration': 3.72}
+{'text': 'being taken up in China in India in ways', 'start': 3917.8, 'duration': 4.02}
+{'text': 'that might in fact be quite liberating', 'start': 3920.35, 'duration': 3.48}
+{'text': 'in those spaces even even as I would', 'start': 3921.82, 'duration': 3.15}
+{'text': "argue that it's a promotion of the", 'start': 3923.83, 'duration': 3.27}
+{'text': 'californian ideology here in the US so', 'start': 3924.97, 'duration': 5.46}
+{'text': 'so you know yes you have a very', 'start': 3927.1, 'duration': 5.43}
+{'text': 'important point there well I could', 'start': 3930.43, 'duration': 4.05}
+{'text': 'actually also discuss that point where', 'start': 3932.53, 'duration': 4.92}
+{'text': 'actually the practices of making in', 'start': 3934.48, 'duration': 8.04}
+{'text': 'India or Ghana or Nigeria or in China', 'start': 3937.45, 'duration': 6.99}
+{'text': "I've actually influenced like also our", 'start': 3942.52, 'duration': 5.24}
+{'text': 'perspective of repurposing for that', 'start': 3944.44, 'duration': 7.26}
+{'text': 'point my question was because the talk', 'start': 3947.76, 'duration': 6.88}
+{'text': 'mentions interactivity and going back to', 'start': 3951.7, 'duration': 5.07}
+{'text': 'this and and maybe we can also mention', 'start': 3954.64, 'duration': 5.7}
+{'text': 'Cage notion of randomness and chance but', 'start': 3956.77, 'duration': 6.6}
+{'text': "I'm as an artist who uses interactivity", 'start': 3960.34, 'duration': 7.41}
+{'text': 'I do feel that I embrace interactivity', 'start': 3963.37, 'duration': 7.64}
+{'text': 'when I encountered it in 96', 'start': 3967.75, 'duration': 9.71}
+{'text': 'as a way for me to actually pose the', 'start': 3971.01, 'duration': 10.35}
+{'text': 'question of choice and pose a question', 'start': 3977.46, 'duration': 7.74}
+{'text': "of free will so in that sense I'm not", 'start': 3981.36, 'duration': 5.97}
+{'text': 'trying to put an agenda necessarily out', 'start': 3985.2, 'duration': 4.11}
+{'text': 'there but I feel that interactivity is', 'start': 3987.33, 'duration': 6.24}
+{'text': 'the is the best option that I have as an', 'start': 3989.31, 'duration': 7.8}
+{'text': 'artist to propose the consciousness of', 'start': 3993.57, 'duration': 4.86}
+{'text': 'choice right', 'start': 3997.11, 'duration': 4.67}
+{'text': 'and Margaret Mead would celebrate you', 'start': 3998.43, 'duration': 5.7}
+{'text': "yeah that's that's really important I I", 'start': 4001.78, 'duration': 4.03}
+{'text': 'we can talk about the varieties of', 'start': 4004.13, 'duration': 2.67}
+{'text': "interactivity I don't think all the", 'start': 4005.81, 'duration': 2.73}
+{'text': 'modes of interactivity are alike you', 'start': 4006.8, 'duration': 2.76}
+{'text': 'know Walt Disney thought he was an', 'start': 4008.54, 'duration': 5.4}
+{'text': 'interactivity artist too but we got the', 'start': 4009.56, 'duration': 5.64}
+{'text': 'longer conversations but Margaret Mead', 'start': 4013.94, 'duration': 4.58}
+{'text': "would be really happy you're here yeah", 'start': 4015.2, 'duration': 6.69}
+{'text': 'scenes make a movement and those things', 'start': 4018.52, 'duration': 5.56}
+{'text': 'we already mentioned walk right into it', 'start': 4021.89, 'duration': 5.15}
+{'text': "tonight yeah yeah I forgot I'm at MIT", 'start': 4024.08, 'duration': 7.02}
+{'text': "right okay I'm really interested in what", 'start': 4027.04, 'duration': 5.89}
+{'text': 'is your verdict and you know if you look', 'start': 4031.1, 'duration': 4.88}
+{'text': 'at rhetorics of hacking and creative', 'start': 4032.93, 'duration': 5.88}
+{'text': 'misappropriation and so on is this also', 'start': 4035.98, 'duration': 5.17}
+{'text': 'something that is infused with some kind', 'start': 4038.81, 'duration': 4.62}
+{'text': 'of government allottee or would you say', 'start': 4041.15, 'duration': 3.9}
+{'text': 'that okay this is actually something', 'start': 4043.43, 'duration': 5.36}
+{'text': 'that is against this kind of staging of', 'start': 4045.05, 'duration': 6.21}
+{'text': "experience and and I'm wondering you", 'start': 4048.79, 'duration': 4.24}
+{'text': 'know in this context whether sometimes', 'start': 4051.26, 'duration': 6.0}
+{'text': "you know let's say top-down democratic", 'start': 4053.03, 'duration': 8.28}
+{'text': 'structures and infrastructures can not', 'start': 4057.26, 'duration': 6.36}
+{'text': 'necessarily I can also have something', 'start': 4061.31, 'duration': 4.86}
+{'text': 'liberating in that sense so you got a', 'start': 4063.62, 'duration': 4.44}
+{'text': "couple pieces here I'll try to keep my", 'start': 4066.17, 'duration': 4.32}
+{'text': "rant kind of short you're looking at a", 'start': 4068.06, 'duration': 4.05}
+{'text': 'guy who wrote an essay in defense of', 'start': 4070.49, 'duration': 3.84}
+{'text': 'bureaucracy okay', 'start': 4072.11, 'duration': 4.11}
+{'text': 'because bureaucracies were designed to', 'start': 4074.33, 'duration': 3.6}
+{'text': 'create spaces in which people could not', 'start': 4076.22, 'duration': 4.14}
+{'text': 'act out their filial loyalties to their', 'start': 4077.93, 'duration': 4.05}
+{'text': 'families or their home villages or their', 'start': 4080.36, 'duration': 3.03}
+{'text': 'groups of prejudice or their stereotypes', 'start': 4081.98, 'duration': 3.83}
+{'text': 'but had to in fact act in accord with', 'start': 4083.39, 'duration': 4.53}
+{'text': 'negotiated rules for the public good or', 'start': 4085.81, 'duration': 3.67}
+{'text': 'for the good of whoever managed to', 'start': 4087.92, 'duration': 4.11}
+{'text': 'negotiate those rules but so so but I', 'start': 4089.48, 'duration': 4.02}
+{'text': "think that's really important right I", 'start': 4092.03, 'duration': 2.64}
+{'text': 'mean how do you what are things that', 'start': 4093.5, 'duration': 2.34}
+{'text': 'happened to me if I looked at communes', 'start': 4094.67, 'duration': 3.18}
+{'text': 'communes in the 60s communes in the 60s', 'start': 4095.84, 'duration': 3.15}
+{'text': 'were places where everybody was supposed', 'start': 4097.85, 'duration': 3.0}
+{'text': 'to be free but what happened in those', 'start': 4098.99, 'duration': 3.51}
+{'text': 'places was that when you drop the rules', 'start': 4100.85, 'duration': 3.09}
+{'text': 'of bureaucracy when you stop negotiating', 'start': 4102.5, 'duration': 2.279}
+{'text': 'on rule', 'start': 4103.94, 'duration': 3.049}
+{'text': 'you shifted to negotiating based on cool', 'start': 4104.779, 'duration': 4.32}
+{'text': 'the coolest person just said you know', 'start': 4106.989, 'duration': 3.431}
+{'text': "that's so uncool man you don't need your", 'start': 4109.099, 'duration': 3.571}
+{'text': 'money back you know and people not like', 'start': 4110.42, 'duration': 3.6}
+{'text': "that person we're just kind of uncool", 'start': 4112.67, 'duration': 2.52}
+{'text': 'you know yeah black folks can come here', 'start': 4114.02, 'duration': 2.759}
+{'text': "that's okay you know we're open to it", 'start': 4115.19, 'duration': 3.75}
+{'text': 'but you know most of our so uncool if', 'start': 4116.779, 'duration': 3.9}
+{'text': 'the whole Panther thing going you know', 'start': 4118.94, 'duration': 3.54}
+{'text': "what's that about right so this is the", 'start': 4120.679, 'duration': 3.091}
+{'text': 'kind of way the power works in that', 'start': 4122.48, 'duration': 4.02}
+{'text': 'space so in that context yes I think', 'start': 4123.77, 'duration': 4.889}
+{'text': 'that rule based bureaucratic', 'start': 4126.5, 'duration': 5.159}
+{'text': 'institutionally housed systems for the', 'start': 4128.659, 'duration': 4.56}
+{'text': 'management and propagation of equality', 'start': 4131.659, 'duration': 3.42}
+{'text': 'among citizens of different potentials', 'start': 4133.219, 'duration': 4.65}
+{'text': 'and resources are absolutely central ok', 'start': 4135.079, 'duration': 4.74}
+{'text': "let's stop there the making and hacking", 'start': 4137.869, 'duration': 4.321}
+{'text': "stuff you know I don't I haven't got it", 'start': 4139.819, 'duration': 4.65}
+{'text': "figured out I'm doing a paper now on the", 'start': 4142.19, 'duration': 3.779}
+{'text': 'on the maker movements strange', 'start': 4144.469, 'duration': 3.241}
+{'text': 'resuscitation of the deepest wells of', 'start': 4145.969, 'duration': 2.46}
+{'text': 'American culture', 'start': 4147.71, 'duration': 2.79}
+{'text': 'my first intellectual affection was the', 'start': 4148.429, 'duration': 5.1}
+{'text': 'American Puritans and when I read the', 'start': 4150.5, 'duration': 5.52}
+{'text': 'confessionals of makers about how they', 'start': 4153.529, 'duration': 4.38}
+{'text': 'were lost in an economic wilderness and', 'start': 4156.02, 'duration': 3.719}
+{'text': 'found their way to tech shop or a', 'start': 4157.909, 'duration': 3.9}
+{'text': 'makerspace or a hacker space and were', 'start': 4159.739, 'duration': 4.35}
+{'text': 'reborn thanks to the spirit of', 'start': 4161.809, 'duration': 3.72}
+{'text': 'creativity that they discovered via', 'start': 4164.089, 'duration': 2.96}
+{'text': 'passion inside themselves', 'start': 4165.529, 'duration': 4.08}
+{'text': "that's a Puritan conversion narrative", 'start': 4167.049, 'duration': 4.84}
+{'text': 'which is the oldest and most defining', 'start': 4169.609, 'duration': 4.67}
+{'text': 'narrative in American literary culture', 'start': 4171.889, 'duration': 4.98}
+{'text': 'so my argument in that space this is not', 'start': 4174.279, 'duration': 4.38}
+{'text': 'maybe going to help but is that is that', 'start': 4176.869, 'duration': 4.14}
+{'text': 'what where we live now is a world where', 'start': 4178.659, 'duration': 3.46}
+{'text': 'we have all these technologists and', 'start': 4181.009, 'duration': 2.52}
+{'text': 'business men calling for disruption and', 'start': 4182.119, 'duration': 2.821}
+{'text': "saying I'm just RUP ting the society I'm", 'start': 4183.529, 'duration': 3.23}
+{'text': 'disrupting their culture oh no no no no', 'start': 4184.94, 'duration': 5.069}
+{'text': 'you are drawing on reinforcing and', 'start': 4186.759, 'duration': 5.44}
+{'text': 'remarketing the deepest values of the', 'start': 4190.009, 'duration': 3.991}
+{'text': "culture I'm going to go even farther and", 'start': 4192.199, 'duration': 3.181}
+{'text': "say that it's only because you're doing", 'start': 4194.0, 'duration': 3.0}
+{'text': 'that that your inventions make sense to', 'start': 4195.38, 'duration': 3.509}
+{'text': "the rest of us you can't sell something", 'start': 4197.0, 'duration': 4.409}
+{'text': "that people don't recognize it's a part", 'start': 4198.889, 'duration': 3.571}
+{'text': 'of the work of the communities that I', 'start': 4201.409, 'duration': 3.27}
+{'text': 'study is to make emerging things', 'start': 4202.46, 'duration': 4.71}
+{'text': 'recognizable in older terms which has', 'start': 4204.679, 'duration': 4.261}
+{'text': 'this ironic effect can disrupt a', 'start': 4207.17, 'duration': 4.199}
+{'text': 'marketplace but reinforce the power of a', 'start': 4208.94, 'duration': 4.92}
+{'text': 'culture so even now as we are exporting', 'start': 4211.369, 'duration': 4.141}
+{'text': 'interactivity and hacking and other', 'start': 4213.86, 'duration': 4.739}
+{'text': 'modes of life abroad we are I would', 'start': 4215.51, 'duration': 4.56}
+{'text': 'argue in a moment of the greatest', 'start': 4218.599, 'duration': 4.321}
+{'text': 'American cultural expansion since the', 'start': 4220.07, 'duration': 5.009}
+{'text': "50s it's just it's just an expansion", 'start': 4222.92, 'duration': 5.819}
+{'text': "that everybody's volunteering for that", 'start': 4225.079, 'duration': 5.16}
+{'text': 'some great work by the way out there', 'start': 4228.739, 'duration': 3.661}
+{'text': "Lili irani is wonderful UCSD she's she's", 'start': 4230.239, 'duration': 2.991}
+{'text': 'terrific', 'start': 4232.4, 'duration': 3.029}
+{'text': 'Sylvia Lintner has done amazing work on', 'start': 4233.23, 'duration': 3.489}
+{'text': 'this as a lot of great people writing in', 'start': 4235.429, 'duration': 2.561}
+{'text': 'this area', 'start': 4236.719, 'duration': 4.551}
+{'text': 'yeah okay so um the point that really', 'start': 4237.99, 'duration': 4.33}
+{'text': 'stuck out for me from what you were', 'start': 4241.27, 'duration': 2.85}
+{'text': 'talking about was this and this is on', 'start': 4242.32, 'duration': 4.11}
+{'text': 'the invisibility of the curation itself', 'start': 4244.12, 'duration': 5.04}
+{'text': 'also which I think does easily kind of', 'start': 4246.43, 'duration': 4.23}
+{'text': "connect as the conundrum we've got today", 'start': 4249.16, 'duration': 4.64}
+{'text': 'with kind of the invisible curation of', 'start': 4250.66, 'duration': 6.75}
+{'text': 'great so to me though that leads to kind', 'start': 4253.8, 'duration': 6.07}
+{'text': 'of a the easy solution of that is', 'start': 4257.41, 'duration': 4.23}
+{'text': 'transparency right so we want to make', 'start': 4259.87, 'duration': 4.23}
+{'text': 'visible the invisible aspects of this', 'start': 4261.64, 'duration': 4.83}
+{'text': "system I'm curious how would that have", 'start': 4264.1, 'duration': 4.44}
+{'text': 'worked historically and then how is that', 'start': 4266.47, 'duration': 4.17}
+{'text': 'complicated today when the complexity of', 'start': 4268.54, 'duration': 4.98}
+{'text': 'the decisions that are being made is', 'start': 4270.64, 'duration': 4.47}
+{'text': 'perhaps beyond the scope of our', 'start': 4273.52, 'duration': 3.18}
+{'text': 'traditional kind of transparency', 'start': 4275.11, 'duration': 3.69}
+{'text': 'mechanisms so transparency is a really', 'start': 4276.7, 'duration': 3.78}
+{'text': 'good start the trouble with transparency', 'start': 4278.8, 'duration': 3.78}
+{'text': 'is if you imagine it as like crowd based', 'start': 4280.48, 'duration': 4.14}
+{'text': "transparency you're imagining that all", 'start': 4282.58, 'duration': 3.54}
+{'text': 'people can see through the window with', 'start': 4284.62, 'duration': 3.42}
+{'text': 'the same eyes and have the same agency', 'start': 4286.12, 'duration': 3.18}
+{'text': 'to effect change on the other side of', 'start': 4288.04, 'duration': 2.88}
+{'text': "the window and that's not true in the", 'start': 4289.3, 'duration': 3.03}
+{'text': "50s and it's not true now but for", 'start': 4290.92, 'duration': 3.81}
+{'text': 'different reasons in the 50s Steichen', 'start': 4292.33, 'duration': 3.99}
+{'text': 'Beyer were very well-known figures they', 'start': 4294.73, 'duration': 4.17}
+{'text': 'were actually paraded widely in the', 'start': 4296.32, 'duration': 4.71}
+{'text': 'press you could have written to the', 'start': 4298.9, 'duration': 3.27}
+{'text': 'Museum of Modern Art you could have', 'start': 4301.03, 'duration': 3.24}
+{'text': 'written a letter to the editor but but', 'start': 4302.17, 'duration': 3.27}
+{'text': 'those folks are institutionally', 'start': 4304.27, 'duration': 3.15}
+{'text': "entrenched figures and it's very hard", 'start': 4305.44, 'duration': 4.5}
+{'text': 'for Joe public to move and', 'start': 4307.42, 'duration': 4.65}
+{'text': "institutionally entrenched figure that's", 'start': 4309.94, 'duration': 3.75}
+{'text': 'part of their nature now one of the', 'start': 4312.07, 'duration': 2.67}
+{'text': 'things that I think a lot of computer', 'start': 4313.69, 'duration': 2.64}
+{'text': 'scientists I know are excited about is', 'start': 4314.74, 'duration': 3.18}
+{'text': 'the possibility of building systems in', 'start': 4316.33, 'duration': 2.91}
+{'text': 'which institutionally entrenched figures', 'start': 4317.92, 'duration': 4.17}
+{'text': "don't have power the trouble is that the", 'start': 4319.24, 'duration': 5.34}
+{'text': 'algorithms that manage those systems', 'start': 4322.09, 'duration': 4.83}
+{'text': 'frequently automate the very modes of', 'start': 4324.58, 'duration': 3.6}
+{'text': 'power that the formerly entrenched', 'start': 4326.92, 'duration': 3.93}
+{'text': 'individuals have and now how do you how', 'start': 4328.18, 'duration': 5.04}
+{'text': 'do you how do you make that kind of', 'start': 4330.85, 'duration': 4.11}
+{'text': 'automation visible and negotiable I', 'start': 4333.22, 'duration': 3.69}
+{'text': "truly don't know I think that's one of", 'start': 4334.96, 'duration': 3.9}
+{'text': 'the great questions for our era Helenus', 'start': 4336.91, 'duration': 3.39}
+{'text': 'embalm at NYU has been working on this', 'start': 4338.86, 'duration': 3.33}
+{'text': "pretty hard she's got the best take that", 'start': 4340.3, 'duration': 4.47}
+{'text': "I know I truly don't know but I think we", 'start': 4342.19, 'duration': 3.99}
+{'text': 'might be the queen people in this room', 'start': 4344.77, 'duration': 2.4}
+{'text': 'might be the very people who could', 'start': 4346.18, 'duration': 4.83}
+{'text': 'figure that out my own impulses were', 'start': 4347.17, 'duration': 5.64}
+{'text': 'shaped during the Vietnam War and and', 'start': 4351.01, 'duration': 3.93}
+{'text': 'and I and are very sort of conventional', 'start': 4352.81, 'duration': 5.04}
+{'text': 'lefty I kind of want to see us elect the', 'start': 4354.94, 'duration': 4.53}
+{'text': 'right people and run the state better I', 'start': 4357.85, 'duration': 3.72}
+{'text': 'recognize how hard that is under', 'start': 4359.47, 'duration': 3.78}
+{'text': 'conditions of rampant corruption and', 'start': 4361.57, 'duration': 3.99}
+{'text': 'massive corporate and non corporate just', 'start': 4363.25, 'duration': 4.68}
+{'text': "big money sponsorship I haven't got a", 'start': 4365.56, 'duration': 3.88}
+{'text': 'better option to that', 'start': 4367.93, 'duration': 4.09}
+{'text': 'I wish I did and maybe you guys come up', 'start': 4369.44, 'duration': 7.77}
+{'text': "with one I'd love that hi I would like", 'start': 4372.02, 'duration': 6.87}
+{'text': 'to go back to the question of resistance', 'start': 4377.21, 'duration': 5.6}
+{'text': 'yes you kind of love us with that and', 'start': 4378.89, 'duration': 3.92}
+{'text': 'the way in which you relate oppression', 'start': 4382.93, 'duration': 8.16}
+{'text': 'yep and freedom and particularly', 'start': 4387.739, 'duration': 7.311}
+{'text': 'oppression in terms of being located in', 'start': 4391.09, 'duration': 9.129}
+{'text': "actors right whether it's cage or other", 'start': 4395.05, 'duration': 6.49}
+{'text': 'people and then the way in which you', 'start': 4400.219, 'duration': 3.781}
+{'text': 'talk about the individual of the three', 'start': 4401.54, 'duration': 6.659}
+{'text': 'men as coming from an environment which', 'start': 4404.0, 'duration': 8.06}
+{'text': 'is not particularly located in any side', 'start': 4408.199, 'duration': 7.621}
+{'text': 'forces and whether you think of that', 'start': 4412.06, 'duration': 5.35}
+{'text': 'environment as having completely', 'start': 4415.82, 'duration': 4.56}
+{'text': 'subsumed any possibility of individual', 'start': 4417.41, 'duration': 5.42}
+{'text': 'outside of capitalism and outside of', 'start': 4420.38, 'duration': 5.88}
+{'text': 'yeah because partly one of the things', 'start': 4422.83, 'duration': 6.19}
+{'text': 'that seems to me to be hard then is that', 'start': 4426.26, 'duration': 4.26}
+{'text': 'the solution for resistance is only', 'start': 4429.02, 'duration': 4.56}
+{'text': 'coming up with a different immersive and', 'start': 4430.52, 'duration': 5.429}
+{'text': 'mediated environment that can free yes', 'start': 4433.58, 'duration': 6.06}
+{'text': "and so we're the practices ok what a", 'start': 4435.949, 'duration': 4.981}
+{'text': 'wonderful question thank you thank you', 'start': 4439.64, 'duration': 3.0}
+{'text': 'thank you okay a couple thoughts the', 'start': 4440.93, 'duration': 3.84}
+{'text': 'first thought is that the the surround', 'start': 4442.64, 'duration': 3.329}
+{'text': "that I've been describing one of my", 'start': 4444.77, 'duration': 2.52}
+{'text': 'goals in the book is to say that it is', 'start': 4445.969, 'duration': 2.701}
+{'text': 'in fact anchored in very specific', 'start': 4447.29, 'duration': 3.84}
+{'text': 'historical communities and institutional', 'start': 4448.67, 'duration': 3.75}
+{'text': "locations we're sitting in one of them", 'start': 4451.13, 'duration': 4.44}
+{'text': 'now okay so so there are actors here', 'start': 4452.42, 'duration': 5.34}
+{'text': 'with agendas who move through history', 'start': 4455.57, 'duration': 4.169}
+{'text': 'together and are actively in different', 'start': 4457.76, 'duration': 3.78}
+{'text': "settings trying to colonize things I'm", 'start': 4459.739, 'duration': 3.031}
+{'text': 'some of you may know that the Center for', 'start': 4461.54, 'duration': 3.0}
+{'text': 'International Studies was may still be', 'start': 4462.77, 'duration': 3.63}
+{'text': 'here at MIT very involved in planning', 'start': 4464.54, 'duration': 4.62}
+{'text': 'the Vietnam War many of the people doing', 'start': 4466.4, 'duration': 4.049}
+{'text': 'that planning were immersed in this', 'start': 4469.16, 'duration': 2.82}
+{'text': 'aesthetic and began to imagine that we', 'start': 4470.449, 'duration': 2.971}
+{'text': 'could deploy in Vietnam the kind of', 'start': 4471.98, 'duration': 2.52}
+{'text': 'management and control that were', 'start': 4473.42, 'duration': 2.46}
+{'text': 'deployed museums', 'start': 4474.5, 'duration': 4.29}
+{'text': "it's the archives are here it's wild so", 'start': 4475.88, 'duration': 5.089}
+{'text': 'there is a deliberate oppressive', 'start': 4478.79, 'duration': 4.11}
+{'text': 'movement that moves through the book and', 'start': 4480.969, 'duration': 3.821}
+{'text': "rises for the end however I don't", 'start': 4482.9, 'duration': 4.4}
+{'text': 'believe that the surround has become', 'start': 4484.79, 'duration': 4.62}
+{'text': "impermeable I don't believe that", 'start': 4487.3, 'duration': 4.96}
+{'text': "everyone is in meshed in it what I'd", 'start': 4489.41, 'duration': 4.44}
+{'text': "like to do I think there's a lot of", 'start': 4492.26, 'duration': 2.85}
+{'text': 'different kinds of folks out there who', 'start': 4493.85, 'duration': 2.4}
+{'text': 'actually have very little access to', 'start': 4495.11, 'duration': 3.66}
+{'text': 'technology or even media that much who', 'start': 4496.25, 'duration': 3.66}
+{'text': 'should be tapped', 'start': 4498.77, 'duration': 4.35}
+{'text': "I actually think ironically it's the", 'start': 4499.91, 'duration': 5.58}
+{'text': 'in America who are most preoccupied with', 'start': 4503.12, 'duration': 5.49}
+{'text': 'self formation image management self', 'start': 4505.49, 'duration': 6.12}
+{'text': 'branding network building all the things', 'start': 4508.61, 'duration': 5.79}
+{'text': 'that we all know how to do and that that', 'start': 4511.61, 'duration': 4.89}
+{'text': 'ironically that I elite self focused', 'start': 4514.4, 'duration': 4.29}
+{'text': 'narcissistic style is a style that makes', 'start': 4516.5, 'duration': 4.08}
+{'text': 'it harder to reach out to precisely the', 'start': 4518.69, 'duration': 4.08}
+{'text': 'people who would be able to resist and', 'start': 4520.58, 'duration': 3.81}
+{'text': 'who need to resist who can lead that', 'start': 4522.77, 'duration': 3.66}
+{'text': 'resistance one encouraging moment black', 'start': 4524.39, 'duration': 4.02}
+{'text': 'lives matter those many of those are', 'start': 4526.43, 'duration': 3.72}
+{'text': 'folks coming from what would be from the', 'start': 4528.41, 'duration': 4.23}
+{'text': 'surround story the periphery at least', 'start': 4530.15, 'duration': 4.47}
+{'text': 'inside the United States you know how do', 'start': 4532.64, 'duration': 3.87}
+{'text': 'we and I think our challenge as folks', 'start': 4534.62, 'duration': 3.93}
+{'text': 'here in this elite pinnacle institution', 'start': 4536.51, 'duration': 4.2}
+{'text': 'what have we done lately about Flint', 'start': 4538.55, 'duration': 3.75}
+{'text': "right I haven't done anything about", 'start': 4540.71, 'duration': 3.63}
+{'text': "Flint I'll go back to Stanford and think", 'start': 4542.3, 'duration': 3.87}
+{'text': "thoughts about the Puritans I'm sort of", 'start': 4544.34, 'duration': 3.33}
+{'text': 'embarrassed by that right but it but', 'start': 4546.17, 'duration': 4.47}
+{'text': "it's a fact you know what are we done", 'start': 4547.67, 'duration': 4.77}
+{'text': "about Detroit we're a weird country we", 'start': 4550.64, 'duration': 3.51}
+{'text': 'have these incredible first world', 'start': 4552.44, 'duration': 3.75}
+{'text': 'centers where people can pursue you know', 'start': 4554.15, 'duration': 4.5}
+{'text': "self self-development it all turns we'd", 'start': 4556.19, 'duration': 5.46}
+{'text': "all be Maslow's and we have Detroit I", 'start': 4558.65, 'duration': 5.01}
+{'text': "don't know so I think the answer to", 'start': 4561.65, 'duration': 3.72}
+{'text': 'resistance has to come from Detroit and', 'start': 4563.66, 'duration': 3.39}
+{'text': 'the challenge to those of us who inhabit', 'start': 4565.37, 'duration': 3.72}
+{'text': 'the surround spaces is to get out of', 'start': 4567.05, 'duration': 3.9}
+{'text': 'them enough to hear the voices of people', 'start': 4569.09, 'duration': 3.96}
+{'text': 'like those in Detroit that means', 'start': 4570.95, 'duration': 4.17}
+{'text': 'parenthetically going to places that we', 'start': 4573.05, 'duration': 4.29}
+{'text': 'may find reprehensible or repugnant I go', 'start': 4575.12, 'duration': 2.88}
+{'text': 'to churches', 'start': 4577.34, 'duration': 2.73}
+{'text': 'I am very at the least conflicted about', 'start': 4578.0, 'duration': 5.76}
+{'text': 'theology okay at the very least you know', 'start': 4580.07, 'duration': 6.12}
+{'text': 'some of my best friends are members of', 'start': 4583.76, 'duration': 4.62}
+{'text': "the Mormon Church Mormon Church's stance", 'start': 4586.19, 'duration': 4.14}
+{'text': 'on gay Americans makes me want to you', 'start': 4588.38, 'duration': 6.0}
+{'text': 'know Chuck but these folks and their', 'start': 4590.33, 'duration': 6.69}
+{'text': 'beliefs and their churches and those', 'start': 4594.38, 'duration': 4.26}
+{'text': 'folks are people who can help us build', 'start': 4597.02, 'duration': 4.23}
+{'text': 'an America that is not invest in the', 'start': 4598.64, 'duration': 4.23}
+{'text': "world I've just described but is in fact", 'start': 4601.25, 'duration': 3.75}
+{'text': 'genuinely diverse open collaborative you', 'start': 4602.87, 'duration': 3.63}
+{'text': "got to reach out to those who aren't in", 'start': 4605.0, 'duration': 5.87}
+{'text': 'your circle already does that help yeah', 'start': 4606.5, 'duration': 4.37}
+{'text': "you've been silenced my question is on", 'start': 4615.71, 'duration': 10.6}
+{'text': 'the rate of adoption right because like', 'start': 4623.34, 'duration': 5.16}
+{'text': 'okay this presents us with that', 'start': 4626.31, 'duration': 4.97}
+{'text': "possibility but it's not guaranteed", 'start': 4628.5, 'duration': 7.469}
+{'text': 'right that then this individual gets on', 'start': 4631.28, 'duration': 7.78}
+{'text': 'board I remember in the 90s that with my', 'start': 4635.969, 'duration': 4.801}
+{'text': 'left his friends at the University of', 'start': 4639.06, 'duration': 4.56}
+{'text': 'Rome we were ridiculing people going', 'start': 4640.77, 'duration': 4.77}
+{'text': 'around with the first cell phones right', 'start': 4643.62, 'duration': 3.619}
+{'text': "and now I'm hooked", 'start': 4645.54, 'duration': 7.11}
+{'text': "so ideologically I wasn't on board right", 'start': 4647.239, 'duration': 8.111}
+{'text': "but then something happened and I'm", 'start': 4652.65, 'duration': 5.52}
+{'text': 'thinking here of gilbert simondon work', 'start': 4655.35, 'duration': 6.24}
+{'text': 'on the process of trans individuation', 'start': 4658.17, 'duration': 5.97}
+{'text': 'when he talks about the technical', 'start': 4661.59, 'duration': 5.31}
+{'text': 'invention proceeds from individual to', 'start': 4664.14, 'duration': 6.09}
+{'text': 'individual without the communitarian', 'start': 4666.9, 'duration': 5.16}
+{'text': 'integration that is guaranteed by a', 'start': 4670.23, 'duration': 4.14}
+{'text': 'collective mythology so he says there is', 'start': 4672.06, 'duration': 4.74}
+{'text': 'something in technology that creates a', 'start': 4674.37, 'duration': 4.11}
+{'text': 'community of inventors as well as a', 'start': 4676.8, 'duration': 4.41}
+{'text': "community of users so that I'm now", 'start': 4678.48, 'duration': 4.38}
+{'text': 'relating to all the people who are using', 'start': 4681.21, 'duration': 4.29}
+{'text': 'a cell phone in this room if by the very', 'start': 4682.86, 'duration': 5.04}
+{'text': 'fact of using the same technology and', 'start': 4685.5, 'duration': 4.35}
+{'text': 'the artists you have been looking at are', 'start': 4687.9, 'duration': 4.23}
+{'text': "I've been working with technologists and", 'start': 4689.85, 'duration': 5.19}
+{'text': 'perhaps can be described as technologies', 'start': 4692.13, 'duration': 6.06}
+{'text': 'themselves and so I wonder whether there', 'start': 4695.04, 'duration': 5.96}
+{'text': 'is something this is also still aryan', 'start': 4698.19, 'duration': 4.97}
+{'text': 'argument right burn a circular argument', 'start': 4701.0, 'duration': 6.489}
+{'text': 'that draws us there right towards this', 'start': 4703.16, 'duration': 7.39}
+{'text': 'around that is not just ideological', 'start': 4707.489, 'duration': 5.491}
+{'text': 'because you are curated all the part of', 'start': 4710.55, 'duration': 4.59}
+{'text': 'the transmission of ideas but what about', 'start': 4712.98, 'duration': 4.14}
+{'text': 'the a signifying non signifying', 'start': 4715.14, 'duration': 5.24}
+{'text': 'processes that lead us in that direction', 'start': 4717.12, 'duration': 6.93}
+{'text': "so I'm I'm I'm I would be I might", 'start': 4720.38, 'duration': 5.71}
+{'text': 'persuade me but as a starting point I I', 'start': 4724.05, 'duration': 3.149}
+{'text': "think I would have to say I don't", 'start': 4726.09, 'duration': 3.149}
+{'text': 'believe in a signifying processes I', 'start': 4727.199, 'duration': 3.331}
+{'text': 'think I would have to say that I believe', 'start': 4729.239, 'duration': 4.171}
+{'text': 'in history and that our draw toward the', 'start': 4730.53, 'duration': 4.8}
+{'text': 'devices that we use is historically', 'start': 4733.41, 'duration': 4.59}
+{'text': 'specific and that we get the devices we', 'start': 4735.33, 'duration': 4.05}
+{'text': 'get partly because of the moments that', 'start': 4738.0, 'duration': 3.81}
+{'text': "we're in and we take them up the way", 'start': 4739.38, 'duration': 3.569}
+{'text': 'that we take them up because of the', 'start': 4741.81, 'duration': 2.7}
+{'text': "moments that we're in take the example", 'start': 4742.949, 'duration': 2.011}
+{'text': 'the cell', 'start': 4744.51, 'duration': 1.68}
+{'text': "I don't think the cellphone makes any", 'start': 4744.96, 'duration': 3.33}
+{'text': 'sense until we have airplanes in cars', 'start': 4746.19, 'duration': 4.47}
+{'text': 'I think airplanes and cars give us a', 'start': 4748.29, 'duration': 4.5}
+{'text': 'kind of mobility that we can that a', 'start': 4750.66, 'duration': 4.17}
+{'text': 'mobility in which the cellphone makes', 'start': 4752.79, 'duration': 3.929}
+{'text': "sense you know in my grandmother's time", 'start': 4754.83, 'duration': 3.42}
+{'text': 'growing up in rural Texas right she', 'start': 4756.719, 'duration': 2.821}
+{'text': 'probably went a mile from the house she', 'start': 4758.25, 'duration': 2.85}
+{'text': 'went as far as she could walk in that', 'start': 4759.54, 'duration': 3.48}
+{'text': 'world a cell phone makes no sense at all', 'start': 4761.1, 'duration': 3.96}
+{'text': 'so I think maybe the question to ask', 'start': 4763.02, 'duration': 4.31}
+{'text': "isn't that steagle area moment rather is", 'start': 4765.06, 'duration': 6.39}
+{'text': 'what historical conditions create the', 'start': 4767.33, 'duration': 6.01}
+{'text': 'pasta create the possibilities or', 'start': 4771.45, 'duration': 3.66}
+{'text': 'incentives for desires that move in some', 'start': 4773.34, 'duration': 4.5}
+{'text': 'directions and not others and and that', 'start': 4775.11, 'duration': 4.47}
+{'text': 'that that also this gets back to this', 'start': 4777.84, 'duration': 3.0}
+{'text': "question of sort of who's in power right", 'start': 4779.58, 'duration': 3.45}
+{'text': "that does not presume that there's an", 'start': 4780.84, 'duration': 4.77}
+{'text': 'evil power figure anywhere demanding', 'start': 4783.03, 'duration': 4.11}
+{'text': 'that you know demanding to appropriate', 'start': 4785.61, 'duration': 3.39}
+{'text': "our authentic being like I've stopped", 'start': 4787.14, 'duration': 3.18}
+{'text': 'believing in appropriation stories', 'start': 4789.0, 'duration': 2.67}
+{'text': "actually that's another thing I've kind", 'start': 4790.32, 'duration': 4.29}
+{'text': 'of let go of as I age what I see instead', 'start': 4791.67, 'duration': 5.73}
+{'text': 'is all of us genuinely and usually', 'start': 4794.61, 'duration': 4.29}
+{'text': 'authentically and kindly trying to work', 'start': 4797.4, 'duration': 3.24}
+{'text': 'our lives out in conditions that we', 'start': 4798.9, 'duration': 3.81}
+{'text': "didn't make and trying to figure it out", 'start': 4800.64, 'duration': 5.67}
+{'text': "and and you know it starts it's it can", 'start': 4802.71, 'duration': 5.009}
+{'text': 'be a little bit like fish in the ocean', 'start': 4806.31, 'duration': 2.73}
+{'text': 'when the waters called on one side all', 'start': 4807.719, 'duration': 3.151}
+{'text': "the fish go the other way and it's not", 'start': 4809.04, 'duration': 3.87}
+{'text': 'because the fish were drawn toward the', 'start': 4810.87, 'duration': 3.45}
+{'text': 'warmer you know that had some kind of', 'start': 4812.91, 'duration': 3.24}
+{'text': 'native feeling because they were just', 'start': 4814.32, 'duration': 3.96}
+{'text': 'like boom boom so I put it back on', 'start': 4816.15, 'duration': 8.13}
+{'text': 'history thanks these are the hardest', 'start': 4818.28, 'duration': 8.49}
+{'text': "questions I've ever had we're gonna have", 'start': 4824.28, 'duration': 5.209}
+{'text': 'just one more and I think we have to', 'start': 4826.77, 'duration': 6.719}
+{'text': 'wait for my cocktails okay', 'start': 4829.489, 'duration': 6.401}
+{'text': "no definitely yeah yeah no I'm all good", 'start': 4833.489, 'duration': 4.411}
+{'text': "I'm fired up because I know a cocktail", 'start': 4835.89, 'duration': 4.47}
+{'text': 'is coming thank you and in the in the', 'start': 4837.9, 'duration': 8.01}
+{'text': 'interest of completing this row and feel', 'start': 4840.36, 'duration': 8.16}
+{'text': 'feel free to rephrase this question but', 'start': 4845.91, 'duration': 4.2}
+{'text': 'I guess the question is really like this', 'start': 4848.52, 'duration': 4.29}
+{'text': 'makes me think you know like what are I', 'start': 4850.11, 'duration': 4.74}
+{'text': 'guess the basic agencies that are', 'start': 4852.81, 'duration': 4.44}
+{'text': "relevant for democracy grant if we've", 'start': 4854.85, 'duration': 4.619}
+{'text': 'gone through these right because you', 'start': 4857.25, 'duration': 4.62}
+{'text': 'know you met you mentioned black lives', 'start': 4859.469, 'duration': 4.02}
+{'text': "matter but I mean the reason why it's", 'start': 4861.87, 'duration': 3.119}
+{'text': 'black life matters interesting is', 'start': 4863.489, 'duration': 4.171}
+{'text': 'because it demonstrates a paradox in our', 'start': 4864.989, 'duration': 6.271}
+{'text': 'attitude toward universal life right', 'start': 4867.66, 'duration': 6.27}
+{'text': "like there's the the sense of course", 'start': 4871.26, 'duration': 4.2}
+{'text': 'that everyone would say on official', 'start': 4873.93, 'duration': 3.72}
+{'text': 'terms that black lives matter but', 'start': 4875.46, 'duration': 4.02}
+{'text': 'the facts on the ground speak', 'start': 4877.65, 'duration': 4.23}
+{'text': 'differently and so the reason why why', 'start': 4879.48, 'duration': 3.81}
+{'text': "this is significant is because it's", 'start': 4881.88, 'duration': 4.2}
+{'text': 'dealing with this kind of rupture in our', 'start': 4883.29, 'duration': 4.86}
+{'text': "and our common sense and that's that's", 'start': 4886.08, 'duration': 3.659}
+{'text': "that's agency like that's interesting", 'start': 4888.15, 'duration': 2.279}
+{'text': 'yeah', 'start': 4889.739, 'duration': 2.311}
+{'text': 'whereas like my ability to plan my', 'start': 4890.429, 'duration': 4.831}
+{'text': 'calendar with X app and everything else', 'start': 4892.05, 'duration': 4.649}
+{'text': 'like that all of that fades away and', 'start': 4895.26, 'duration': 3.09}
+{'text': "doesn't matter so I want to refer you", 'start': 4896.699, 'duration': 3.391}
+{'text': "first to Ethan Zuckerman who's on the", 'start': 4898.35, 'duration': 3.389}
+{'text': 'side there and his Center for civic', 'start': 4900.09, 'duration': 3.66}
+{'text': 'media he has the most developed answer', 'start': 4901.739, 'duration': 3.451}
+{'text': 'to your question out there and it we', 'start': 4903.75, 'duration': 3.06}
+{'text': "haven't book length in a little while so", 'start': 4905.19, 'duration': 3.39}
+{'text': "I just want to refer you to say there's", 'start': 4906.81, 'duration': 4.44}
+{'text': 'somebody better at this there okay my', 'start': 4908.58, 'duration': 4.11}
+{'text': 'own take is a little bit different I I', 'start': 4911.25, 'duration': 2.58}
+{'text': 'think one of the things you see in', 'start': 4912.69, 'duration': 3.21}
+{'text': 'politics right now is a migration of', 'start': 4913.83, 'duration': 4.38}
+{'text': 'consumer style and consumer modes of', 'start': 4915.9, 'duration': 3.6}
+{'text': 'making choice back into the political', 'start': 4918.21, 'duration': 3.33}
+{'text': 'sphere so we begin to imagine that just', 'start': 4919.5, 'duration': 3.9}
+{'text': 'expressing ourselves forming our public', 'start': 4921.54, 'duration': 3.6}
+{'text': 'brands is sufficient for political', 'start': 4923.4, 'duration': 2.819}
+{'text': 'change you see this in the Occupy', 'start': 4925.14, 'duration': 2.55}
+{'text': "movement I'm enormous ly disappointed in", 'start': 4926.219, 'duration': 3.031}
+{'text': 'occupy I could just cry when I think of', 'start': 4927.69, 'duration': 3.81}
+{'text': 'Occupy you know well occupy was busy', 'start': 4929.25, 'duration': 3.75}
+{'text': 'giving us the term the 90 percent of the', 'start': 4931.5, 'duration': 3.989}
+{'text': '1 percent 10 percent whatever the Tea', 'start': 4933.0, 'duration': 4.64}
+{'text': 'Party was taking over Congress oops', 'start': 4935.489, 'duration': 4.651}
+{'text': "I'm so angry I could spit about this I", 'start': 4937.64, 'duration': 3.94}
+{'text': 'you know yes we had the human radio', 'start': 4940.14, 'duration': 5.25}
+{'text': 'great we gave voice ok', 'start': 4941.58, 'duration': 5.31}
+{'text': 'we gave voice which brings us back to', 'start': 4945.39, 'duration': 2.55}
+{'text': 'the question of what matters for', 'start': 4946.89, 'duration': 1.8}
+{'text': 'democracy', 'start': 4947.94, 'duration': 2.13}
+{'text': 'I actually think what matters for', 'start': 4948.69, 'duration': 3.719}
+{'text': 'democracy is something that these folks', 'start': 4950.07, 'duration': 4.14}
+{'text': 'kind of missed but I can see why they', 'start': 4952.409, 'duration': 3.991}
+{'text': 'missed it these folks were focused on', 'start': 4954.21, 'duration': 4.02}
+{'text': 'individuation and the need to make', 'start': 4956.4, 'duration': 3.54}
+{'text': 'individuation the basis of a kind of', 'start': 4958.23, 'duration': 3.77}
+{'text': 'unity that would be non fascist and', 'start': 4959.94, 'duration': 3.529}
+{'text': 'ultimately non-bureaucratic', 'start': 4962.0, 'duration': 3.79}
+{'text': 'non-hierarchical I think they missed a', 'start': 4963.469, 'duration': 4.361}
+{'text': 'thing and I think the challenge for us', 'start': 4965.79, 'duration': 4.23}
+{'text': 'is to find what I think of as', 'start': 4967.83, 'duration': 4.11}
+{'text': 'institutions of collision that were', 'start': 4970.02, 'duration': 3.54}
+{'text': 'already in better shape in their period', 'start': 4971.94, 'duration': 2.61}
+{'text': 'than they are in ours Margaret Mead', 'start': 4973.56, 'duration': 2.88}
+{'text': 'worked at the Museum of American Natural', 'start': 4974.55, 'duration': 3.629}
+{'text': 'History she actually wrote a wonderful', 'start': 4976.44, 'duration': 3.21}
+{'text': 'essay called museums in the emergency', 'start': 4978.179, 'duration': 2.881}
+{'text': 'which gets which is makes the point that', 'start': 4979.65, 'duration': 2.19}
+{'text': "I'm about to make", 'start': 4981.06, 'duration': 3.659}
+{'text': 'we need more institutions where we do', 'start': 4981.84, 'duration': 5.04}
+{'text': 'not cluster with those like ourselves as', 'start': 4984.719, 'duration': 4.681}
+{'text': 'individuals but rather where we', 'start': 4986.88, 'duration': 5.58}
+{'text': 'collaborate on terms legislated and made', 'start': 4989.4, 'duration': 6.24}
+{'text': 'explicit by rules with others who are', 'start': 4992.46, 'duration': 4.89}
+{'text': "unlike ourselves who don't have as much", 'start': 4995.64, 'duration': 3.0}
+{'text': "money who don't have as much education", 'start': 4997.35, 'duration': 3.48}
+{'text': "who don't travel as much and who aren't", 'start': 4998.64, 'duration': 4.019}
+{'text': 'as preoccupied with the formation of', 'start': 5000.83, 'duration': 6.86}
+{'text': "their inner selves so that's my answer", 'start': 5002.659, 'duration': 7.381}
+{'text': 'thank you all very much really nice to', 'start': 5007.69, 'duration': 4.65}
+{'text': 'be here', 'start': 5010.04, 'duration': 2.3}
+{'text': 'yeah thank you everyone for coming and', 'start': 5020.59, 'duration': 4.39}
+{'text': 'thank you for your really interesting', 'start': 5023.36, 'duration': 4.109}
+{'text': 'question and thank you thank you yeah', 'start': 5024.98, 'duration': 4.88}
+{'text': 'Cheers', 'start': 5027.469, 'duration': 2.391}

@@ -1,0 +1,2092 @@
+{'text': 'Good evening.', 'start': 8.808, 'duration': 1.234}
+{'text': 'I think we should\nget going so we have', 'start': 10.142, 'duration': 1.602}
+{'text': 'enough time for discussion.', 'start': 11.844, 'duration': 1.268}
+{'text': 'Good evening and thank\nyou for being here', 'start': 13.212, 'duration': 2.269}
+{'text': 'for this keynote talk that would\nkick off a conference, slums,', 'start': 15.581, 'duration': 5.206}
+{'text': 'new visions for enduring\nglobal phenomena.', 'start': 20.887, 'duration': 3.036}
+{'text': 'And I welcome you here on behalf\nof the Lincoln Land Institute', 'start': 24.023, 'duration': 2.97}
+{'text': 'and the Joint Center\nfor Housing Studies', 'start': 27.093, 'duration': 1.801}
+{'text': 'and the Graduate\nSchool of Design.', 'start': 28.994, 'duration': 2.036}
+{'text': "And I hope you'll also\ncome for the next two days", 'start': 31.13, 'duration': 3.303}
+{'text': 'for the conference.', 'start': 34.533, 'duration': 1.268}
+{'text': 'And before I go on to introduce\nour keynote speaker, Ranjani', 'start': 35.901, 'duration': 2.536}
+{'text': 'Mazumdar, I want\nto quickly thank', 'start': 38.538, 'duration': 2.269}
+{'text': 'Dr. George McCarthy,\nknown as Mac,', 'start': 40.907, 'duration': 2.569}
+{'text': 'president and CEO of the Lincoln\nInstitute of Land Policy,', 'start': 43.576, 'duration': 3.003}
+{'text': 'and Dr. Chris Herbert,\nwho is the managing', 'start': 46.679, 'duration': 1.935}
+{'text': 'director of the Harvard Joint\nCenter for Housing Studies,', 'start': 48.714, 'duration': 2.536}
+{'text': 'for having facilitated\nand supported this effort', 'start': 51.35, 'duration': 2.737}
+{'text': 'and made the GSD a\npartner in this process.', 'start': 54.187, 'duration': 2.969}
+{'text': 'For me personally, these\nare important efforts', 'start': 57.257, 'duration': 2.936}
+{'text': 'that I believe create true\ninterdisciplinary conversations', 'start': 60.293, 'duration': 4.004}
+{'text': 'around really wicked problems\nthat we face globally.', 'start': 64.397, 'duration': 3.27}
+{'text': 'And it has really been\nan educative process', 'start': 67.767, 'duration': 2.236}
+{'text': 'to be part of the\ndiscussion in evolving', 'start': 70.103, 'duration': 2.502}
+{'text': 'a format and thrust for a\nsymposium such as this one.', 'start': 72.705, 'duration': 4.204}
+{'text': 'Dr. Enrique Silva from the\nLincoln Land Institute,', 'start': 77.009, 'duration': 3.337}
+{'text': 'who also teaches here at the\nGSD, Alejandro Mazarro, David--', 'start': 80.446, 'duration': 4.338}
+{'text': 'there are many others\nwho you will see and hear', 'start': 84.884, 'duration': 1.868}
+{'text': 'from in the next few days\nthrough the conference.', 'start': 86.852, 'duration': 4.973}
+{'text': 'And lastly, I want to thank\nDiane Davis, the chair', 'start': 91.925, 'duration': 2.168}
+{'text': 'of the Urban Planning\nand Design Department', 'start': 94.194, 'duration': 1.867}
+{'text': 'for having supported this, and\nour dean, Mohsen Mostafavi, Ken', 'start': 96.161, 'duration': 4.539}
+{'text': 'and Paige for making\navailable the piper', 'start': 100.8, 'duration': 2.636}
+{'text': 'for this inaugural\nsession, and also', 'start': 103.536, 'duration': 1.568}
+{'text': 'including this as part of the\nformal GSD lecture series.', 'start': 105.204, 'duration': 3.704}
+{'text': 'This symposium is about\ntaking perhaps one', 'start': 109.008, 'duration': 2.602}
+{'text': 'of the most enduring\nproblems on the planet,', 'start': 111.71, 'duration': 2.203}
+{'text': 'perhaps aside from\nclimate change,', 'start': 114.013, 'duration': 2.169}
+{'text': 'and exposing ourselves to\nnew frames of reference', 'start': 116.282, 'duration': 2.736}
+{'text': 'and developing new lenses\nto inform our approach', 'start': 119.118, 'duration': 2.837}
+{'text': 'to the global and\nsystemic challenges that', 'start': 122.055, 'duration': 2.135}
+{'text': 'produce patterns of\nsociospatial poverty.', 'start': 124.29, 'duration': 3.137}
+{'text': "Of course, there's been\nmuch discussion about slums.", 'start': 127.527, 'duration': 2.202}
+{'text': 'And even the use of the word\nslums, we really deliberated.', 'start': 129.829, 'duration': 4.304}
+{'text': 'Because the word slum has a\nlonger and more continuous', 'start': 134.233, 'duration': 3.204}
+{'text': 'history of usage and\nreference that has perhaps', 'start': 137.537, 'duration': 2.802}
+{'text': 'made it more enduring\nthan the more recent four,', 'start': 140.439, 'duration': 3.637}
+{'text': 'five decade-old use of the\nword informal, which also,', 'start': 144.176, 'duration': 3.738}
+{'text': 'in my view, sets up an\nunproductive binary sometimes,', 'start': 148.014, 'duration': 4.003}
+{'text': 'at least from a sociospatial\nplanning and design', 'start': 152.117, 'duration': 2.537}
+{'text': 'perspective.', 'start': 154.754, 'duration': 0.968}
+{'text': 'And I just wanted to\nmake that point here', 'start': 155.822, 'duration': 1.468}
+{'text': 'in the design school.', 'start': 157.39, 'duration': 1.968}
+{'text': 'In fact, Francis\n[? linea, ?] who also taught', 'start': 159.458, 'duration': 2.67}
+{'text': "here, doesn't even\nuse the word slums", 'start': 162.228, 'duration': 2.302}
+{'text': "because he feels that's\na generalization.", 'start': 164.63, 'duration': 1.736}
+{'text': "He uses the word shantytowns\nand it's cultural invention", 'start': 166.466, 'duration': 4.604}
+{'text': 'as a phenomenon.', 'start': 171.17, 'duration': 0.934}
+{'text': 'And so I think the\nusage of these words', 'start': 172.204, 'duration': 1.769}
+{'text': 'is something we are going to\ndeliberate to perhaps come up', 'start': 174.073, 'duration': 2.936}
+{'text': 'with a more\nconstructive, productive,', 'start': 177.109, 'duration': 2.837}
+{'text': 'and instrumental narrative.', 'start': 180.046, 'duration': 2.435}
+{'text': 'I mean, you know, if you\nlook up the dictionary,', 'start': 182.582, 'duration': 2.502}
+{'text': 'the slum is a squalid,\novercrowded, urban street,', 'start': 185.184, 'duration': 3.603}
+{'text': 'distinctly habited, very often\nby poor people, hovel, ghetto,', 'start': 188.887, 'duration': 4.172}
+{'text': 'shantytown favela,\nJhuggi-Jhopri, bustee,', 'start': 193.159, 'duration': 3.504}
+{'text': 'cabbagetown, rookery--', 'start': 196.763, 'duration': 1.901}
+{'text': 'many, many such suggestions,\nbut off the physical state', 'start': 198.764, 'duration': 3.203}
+{'text': 'of a place, of settlement,\nits material and condition.', 'start': 202.067, 'duration': 3.404}
+{'text': 'And of course, used as a\nverb, slumming it out--', 'start': 205.572, 'duration': 2.935}
+{'text': 'that means spending time\nat a lower social level', 'start': 208.608, 'duration': 2.268}
+{'text': "than one's own through curiosity\nor a charitable purpose.", 'start': 210.976, 'duration': 3.171}
+{'text': "So it's used in\ndifferent contexts.", 'start': 214.247, 'duration': 1.701}
+{'text': 'And informal, which is off\nthe record, unauthorized,', 'start': 216.048, 'duration': 2.803}
+{'text': 'unsanctioned, confidential,\nunconfirmed, et cetera,', 'start': 218.951, 'duration': 3.137}
+{'text': 'also has great potency.', 'start': 222.188, 'duration': 1.735}
+{'text': 'The word slum\nclearly is directed', 'start': 224.023, 'duration': 1.668}
+{'text': 'towards physical and material\nexistence of a habitat.', 'start': 225.791, 'duration': 3.037}
+{'text': 'So in this context, I think\nwe must understand that cities', 'start': 228.928, 'duration': 4.637}
+{'text': 'are a set of disparities between\nthe intentions of formal modes', 'start': 233.665, 'duration': 3.404}
+{'text': 'of practice and their spatial\nmanifestation on the ground,', 'start': 237.169, 'duration': 3.404}
+{'text': 'thus perhaps no one\ncategory is really adequate', 'start': 240.673, 'duration': 2.669}
+{'text': 'to describe this phenomena\nin the world today.', 'start': 243.442, 'duration': 2.602}
+{'text': 'You know, I often hear\nin the design school--', 'start': 246.145, 'duration': 2.469}
+{'text': "I'd like to share this.", 'start': 248.714, 'duration': 1.168}
+{'text': 'Marc Angelil, who is a\nprofessor at the ETH,', 'start': 249.983, 'duration': 2.401}
+{'text': 'once shared with me their\nbig project on Ethiopia.', 'start': 252.484, 'duration': 2.903}
+{'text': 'And it was a project that\nwas incredibly well-funded.', 'start': 255.487, 'duration': 2.469}
+{'text': 'And they were looking\nat informal settlements.', 'start': 258.057, 'duration': 1.835}
+{'text': 'And so they took 20\nstudents, got a bus,', 'start': 259.992, 'duration': 3.003}
+{'text': 'spent two days identifying\nan informal settlement,', 'start': 263.095, 'duration': 2.803}
+{'text': 'spent eight days mapping it--', 'start': 265.998, 'duration': 1.768}
+{'text': 'photo montage, measure drawings.', 'start': 267.866, 'duration': 2.203}
+{'text': 'And they kept the last\nday for interviews.', 'start': 270.169, 'duration': 1.635}
+{'text': 'Now social scientists would\nhave done exactly the opposite.', 'start': 271.904, 'duration': 2.77}
+{'text': 'And so after they finished\ntheir incredible documentation,', 'start': 274.774, 'duration': 2.402}
+{'text': 'in the second interview, they\ndiscovered it was actually', 'start': 277.276, 'duration': 3.003}
+{'text': 'a formal settlement.', 'start': 280.379, 'duration': 0.968}
+{'text': 'It only looked like\nan informal setting.', 'start': 281.447, 'duration': 1.401}
+{'text': '[laughter]', 'start': 282.949, 'duration': 1.1}
+{'text': 'And so I just want to say\nthis in a design school', 'start': 284.149, 'duration': 1.636}
+{'text': 'because the aesthetic\nquestion also', 'start': 285.885, 'duration': 2.035}
+{'text': 'becomes a very important one.', 'start': 288.02, 'duration': 1.301}
+{'text': 'And the baggage we carry\nof that lens of aesthetics', 'start': 289.421, 'duration': 3.237}
+{'text': 'is also highly\nproblematic sometimes.', 'start': 292.758, 'duration': 2.102}
+{'text': 'And I hope we can\ntogether peel away', 'start': 294.96, 'duration': 2.303}
+{'text': 'some of these layers\nin our discussions.', 'start': 297.363, 'duration': 2.803}
+{'text': 'So we have oscillated between\nthe word informal slums.', 'start': 300.266, 'duration': 4.204}
+{'text': 'And like I said, in\nmy own understanding,', 'start': 304.57, 'duration': 1.969}
+{'text': 'it encodes the\nphysical condition.', 'start': 306.639, 'duration': 2.102}
+{'text': 'And formality is the process\nof becoming and operating.', 'start': 308.841, 'duration': 3.003}
+{'text': 'And so if you look at\ngovernance and claims and modes', 'start': 311.944, 'duration': 2.436}
+{'text': 'of citizenship and many\nother political questions,', 'start': 314.48, 'duration': 3.003}
+{'text': 'informal, of course, is a much,\nmuch more productive category.', 'start': 317.583, 'duration': 3.169}
+{'text': 'And so there is this\ncontinuing tension', 'start': 320.852, 'duration': 2.203}
+{'text': 'that we have to somehow resolve,\nbecause they are intrinsically', 'start': 323.155, 'duration': 3.504}
+{'text': 'linked.', 'start': 326.759, 'duration': 1.034}
+{'text': 'And often, the discussions\naround these terms', 'start': 327.894, 'duration': 1.501}
+{'text': 'are nonproductive\nbecause we unintendingly', 'start': 329.495, 'duration': 2.636}
+{'text': 'inflate one or the other\nmore often and then sometimes', 'start': 332.231, 'duration': 3.003}
+{'text': 'use them interchangeably.', 'start': 335.334, 'duration': 1.502}
+{'text': "We've also focused on\nslums because these spaces,", 'start': 336.936, 'duration': 2.736}
+{'text': 'for all our three\ninstitutions involved,', 'start': 339.772, 'duration': 2.903}
+{'text': 'challenge our usual\nnotions of housing,', 'start': 342.775, 'duration': 2.235}
+{'text': 'land occupation processes,\nas well as urban form', 'start': 345.11, 'duration': 2.837}
+{'text': 'and urbanism more broadly,\nversus the making and imagining', 'start': 348.047, 'duration': 3.236}
+{'text': 'of the ideal manifestation\nthat we all aspire to,', 'start': 351.383, 'duration': 3.838}
+{'text': 'which is to say that the formal\ncity also produces slums.', 'start': 355.321, 'duration': 5.005}
+{'text': 'Slums really present\na compelling vision', 'start': 360.426, 'duration': 2.235}
+{'text': 'that potentially allows\nus to better understand', 'start': 362.762, 'duration': 2.335}
+{'text': 'the blurred lines of\ncontemporary urbanism', 'start': 365.197, 'duration': 2.202}
+{'text': 'and the changing roles of people\nin spaces in urban societies.', 'start': 367.499, 'duration': 3.304}
+{'text': 'In this context, an\narchitecture or urbanism', 'start': 370.903, 'duration': 2.569}
+{'text': 'of equality in an increasingly\ninequitable economic condition', 'start': 373.572, 'duration': 4.872}
+{'text': 'requires looking deeper to\nfind a wide range of places', 'start': 378.544, 'duration': 3.103}
+{'text': 'to mark and commemorate\nthe cultures of those', 'start': 381.748, 'duration': 2.668}
+{'text': 'who most often are excluded\nfrom the spaces or architecture', 'start': 384.516, 'duration': 3.437}
+{'text': 'and urban form of global flows.', 'start': 388.053, 'duration': 2.236}
+{'text': 'And the camera, as our keynote\nspeaker, Ranjani, has argued,', 'start': 390.389, 'duration': 3.537}
+{'text': 'has the ability to\npenetrate those lives', 'start': 394.026, 'duration': 2.302}
+{'text': 'in these otherwise\nmarginalized spaces which', 'start': 396.429, 'duration': 2.102}
+{'text': 'are hard to present in any\nother abstract terms or form.', 'start': 398.631, 'duration': 3.603}
+{'text': 'Cinema, she argues, is not\nan institutionalized medium', 'start': 402.334, 'duration': 3.237}
+{'text': 'and thus is not taken seriously\nas a scholarly enterprise', 'start': 405.671, 'duration': 3.27}
+{'text': 'in its form.', 'start': 409.041, 'duration': 0.834}
+{'text': 'And it is for this\nreason that we', 'start': 409.975, 'duration': 1.202}
+{'text': 'choose to begin our symposium\nthrough the lens of film.', 'start': 411.277, 'duration': 3.704}
+{'text': 'Ranjani Mazumdar is a\nprofessor of cinema studies', 'start': 415.081, 'duration': 2.402}
+{'text': 'at the School of\nArt and Aesthetics', 'start': 417.583, 'duration': 1.368}
+{'text': 'at the Jawaharlal\nNehru Institute, JNU,', 'start': 419.051, 'duration': 1.935}
+{'text': "as as it's called.", 'start': 421.086, 'duration': 1.235}
+{'text': 'Her publications focus on\nurban culture, popular cinema,', 'start': 422.421, 'duration': 3.571}
+{'text': 'gender, and cinematic city.', 'start': 426.092, 'duration': 1.968}
+{'text': "She's the author of\nBombay Cinema an Archive", 'start': 428.16, 'duration': 2.402}
+{'text': 'of the City, which\nshe did in 2007,', 'start': 430.662, 'duration': 2.236}
+{'text': 'and co-editor of a\nforthcoming a Wiley Blackwell', 'start': 432.998, 'duration': 2.536}
+{'text': 'Companion to Indian Cinema.', 'start': 435.634, 'duration': 1.869}
+{'text': 'Her writings have appeared\nin anthologies as well', 'start': 437.603, 'duration': 2.102}
+{'text': 'as journals, such as Bioscope,\nContinuum, Screen, Social', 'start': 439.805, 'duration': 3.003}
+{'text': 'Research, Journal of Television\nand New Media, et cetera--', 'start': 442.908, 'duration': 3.371}
+{'text': 'very widely published.', 'start': 446.379, 'duration': 2.068}
+{'text': 'She has been a European Union\nfellow in the on Indian films', 'start': 448.547, 'duration': 3.871}
+{'text': 'at the University of\nWestminster in London,', 'start': 452.518, 'duration': 2.502}
+{'text': 'a fellow at the Davis Center of\nHistorical Studies at Princeton', 'start': 455.12, 'duration': 3.504}
+{'text': 'University, a British Academy\nfellow, a fellow in Paris,', 'start': 458.724, 'duration': 3.37}
+{'text': 'visiting faculty at the\nDepartment of Cinema Studies', 'start': 462.194, 'duration': 2.069}
+{'text': 'at New York University, and\nseveral other such positions.', 'start': 464.363, 'duration': 3.77}
+{'text': 'She has also worked as\na documentary filmmaker.', 'start': 468.234, 'duration': 2.402}
+{'text': 'And her productions\ninclude Delhi Diary 2001', 'start': 470.736, 'duration': 2.769}
+{'text': 'and the Power of the Image,\nwhich she has co-directed.', 'start': 473.605, 'duration': 4.372}
+{'text': "Ranjani's body of\nwork and practice", 'start': 478.077, 'duration': 1.535}
+{'text': "speaks about cinema's ability\nto both blur and perpetuate", 'start': 479.712, 'duration': 3.77}
+{'text': 'the formal versus\ninformal binary', 'start': 483.582, 'duration': 2.102}
+{'text': 'that has become a definite\nelement in the approaches', 'start': 485.784, 'duration': 2.169}
+{'text': 'to the enduring global\nphenomenon of slums.', 'start': 488.053, 'duration': 2.336}
+{'text': 'What can be said about the\ncomplexity of contested space,', 'start': 490.489, 'duration': 3.203}
+{'text': 'where thousands, even\nmillions of other individuals', 'start': 493.792, 'duration': 2.236}
+{'text': 'are staking their own claims?', 'start': 496.128, 'duration': 1.569}
+{'text': 'How does one even begin\nto frame the issue', 'start': 497.797, 'duration': 1.801}
+{'text': 'without simplifying it?', 'start': 499.698, 'duration': 1.335}
+{'text': 'Perhaps cinema offers\nus a point of entry.', 'start': 501.133, 'duration': 3.036}
+{'text': 'Cinematic creative\nprojects have the ability', 'start': 504.27, 'duration': 2.135}
+{'text': 'to blur the boundaries\nand prevent us', 'start': 506.505, 'duration': 1.968}
+{'text': 'from realizing concrete\nand fixed assumptions', 'start': 508.574, 'duration': 2.902}
+{'text': 'about the world.', 'start': 511.576, 'duration': 1.102}
+{'text': 'What if we understand the\ninformal city and the slums', 'start': 516.448, 'duration': 3.137}
+{'text': 'that produce as the\nexpression and representation', 'start': 519.685, 'duration': 3.07}
+{'text': 'of the unrealized aspirations\nof the formal city?', 'start': 522.855, 'duration': 4.805}
+{'text': 'How might this lens inform our\nunderstanding of the broader', 'start': 527.76, 'duration': 2.435}
+{'text': 'visual landscape as another\nspace where the most', 'start': 530.295, 'duration': 2.67}
+{'text': 'extreme have-nots lack agency?', 'start': 533.065, 'duration': 2.636}
+{'text': 'To work in the contested\nspace of slums,', 'start': 535.801, 'duration': 1.936}
+{'text': 'we must recognize is\na political choice.', 'start': 537.837, 'duration': 2.302}
+{'text': 'When we examine the\nrole, for example today,', 'start': 540.239, 'duration': 2.368}
+{'text': 'of doctored videos and\nfake news items which', 'start': 542.708, 'duration': 2.57}
+{'text': 'have played a major\nrole in fueling', 'start': 545.378, 'duration': 2.902}
+{'text': 'the flames of our current\npolitical climate,', 'start': 548.381, 'duration': 2.335}
+{'text': 'we recognize the\npower of the visual', 'start': 550.816, 'duration': 2.136}
+{'text': 'to blur or sharpen boundaries\nof privilege and power.', 'start': 553.052, 'duration': 3.537}
+{'text': 'Such a reality became\nexplicitly clear to our speaker', 'start': 556.689, 'duration': 3.236}
+{'text': 'in recent years.', 'start': 560.025, 'duration': 1.134}
+{'text': 'Since February, 2016,\nthe students and teachers', 'start': 561.259, 'duration': 4.139}
+{'text': 'at the JNU university where\nRanjani is a professor', 'start': 565.498, 'duration': 2.836}
+{'text': 'have been at the receiving\nend of extremely hostility', 'start': 568.434, 'duration': 3.703}
+{'text': 'by the Indian National\ngovernment, the BJP.', 'start': 572.237, 'duration': 2.47}
+{'text': "The president of the students'\nunion, Kanhaiya Kumar,", 'start': 574.807, 'duration': 2.435}
+{'text': 'was arrested and\ncharged with sedition', 'start': 577.342, 'duration': 2.503}
+{'text': 'for supposedly shouting\nanti-national slogans', 'start': 579.946, 'duration': 2.735}
+{'text': 'at an event on Kashmir.', 'start': 582.781, 'duration': 1.535}
+{'text': 'Six other students\nwere arrested.', 'start': 584.416, 'duration': 2.002}
+{'text': 'These events led to countrywide\nprotests, political debates', 'start': 586.518, 'duration': 3.137}
+{'text': 'in parliament, heated\ndiscussions on issues related', 'start': 589.755, 'duration': 2.669}
+{'text': 'to nationalism, patriotism,\nthe freedom of expression,', 'start': 592.524, 'duration': 3.203}
+{'text': 'and the laws related to this.', 'start': 595.827, 'duration': 1.201}
+{'text': 'Teachers say the ecosystem\nof the university,', 'start': 597.129, 'duration': 2.435}
+{'text': 'known for its liberal views and\nculture of political activism,', 'start': 599.664, 'duration': 3.405}
+{'text': 'is in a fragile\nstate of existence.', 'start': 603.169, 'duration': 3.335}
+{'text': 'Teachers went on\na hunger strike.', 'start': 606.605, 'duration': 1.835}
+{'text': 'And there have been\nall sorts of protests.', 'start': 608.54, 'duration': 2.904}
+{'text': 'Here in most of the academy\nin the United States,', 'start': 611.544, 'duration': 2.568}
+{'text': 'we are privileged\nand hard to imagine', 'start': 614.212, 'duration': 1.535}
+{'text': 'that, for example, an\ninstitution like Harvard,', 'start': 615.847, 'duration': 2.436}
+{'text': 'for example, coming under\nsome similar fire, where', 'start': 618.383, 'duration': 2.47}
+{'text': 'our daily lives are not\nimpinged on in complicated ways.', 'start': 620.953, 'duration': 3.069}
+{'text': 'Perhaps not-- maybe\nwe are close to that.', 'start': 624.122, 'duration': 2.103}
+{'text': 'But when our voices\nare suppressed,', 'start': 626.325, 'duration': 1.501}
+{'text': 'how do we keep integrity?', 'start': 627.926, 'duration': 1.135}
+{'text': 'Can we also think\nabout and be aware', 'start': 629.161, 'duration': 1.902}
+{'text': 'of our academic environment\nas another space', 'start': 631.163, 'duration': 2.335}
+{'text': 'where slums are defined,\nnot by their inhabitants,', 'start': 633.598, 'duration': 2.803}
+{'text': 'but by experts,\npractitioners, and scholars,', 'start': 636.501, 'duration': 2.47}
+{'text': 'and what does this mean\nis something I think', 'start': 639.071, 'duration': 2.136}
+{'text': 'we should also be aware of.', 'start': 641.307, 'duration': 2.903}
+{'text': 'What are the\naesthetic decisions we', 'start': 644.31, 'duration': 1.534}
+{'text': 'make as designers and\nprofessional policymakers', 'start': 645.944, 'duration': 2.469}
+{'text': 'and academics when asked\nto represent the space', 'start': 648.514, 'duration': 2.802}
+{'text': 'and define what we call slums?', 'start': 651.416, 'duration': 2.302}
+{'text': 'And I think this is the\ntype of dialectic space', 'start': 653.819, 'duration': 2.135}
+{'text': 'that we hope the\nsymposium will foster.', 'start': 656.054, 'duration': 2.336}
+{'text': 'The keynote lecture will be\nfollowed by a discussion, which', 'start': 658.49, 'duration': 2.769}
+{'text': 'will involve Janice Perlman\nand [? brodwyn ?] Fischer,', 'start': 661.359, 'duration': 3.271}
+{'text': 'responding to the lecture and\nthen a discussion moderated', 'start': 664.73, 'duration': 2.469}
+{'text': 'by Mac, George McCarthy, who\nis the president and the CEO', 'start': 667.299, 'duration': 2.803}
+{'text': 'of the Lincoln Institute of\nLand Policy here in Cambridge,', 'start': 670.202, 'duration': 2.669}
+{'text': 'Massachusetts.', 'start': 672.971, 'duration': 1.268}
+{'text': 'The Lincoln Institute seeks\nto improve the quality of life', 'start': 674.339, 'duration': 1.969}
+{'text': 'through effective use,\ntaxation, stewardship of land.', 'start': 676.408, 'duration': 3.437}
+{'text': 'He will tell us more about\nthe institution and its work', 'start': 679.945, 'duration': 2.669}
+{'text': 'in the coming days.', 'start': 682.714, 'duration': 0.868}
+{'text': 'But as a short intro,\nwhat I would say', 'start': 683.682, 'duration': 2.169}
+{'text': 'is Mac is well-known for\nhis blunt and honest views', 'start': 685.951, 'duration': 3.938}
+{'text': 'and his ability to challenge\nas well as inspire those', 'start': 689.989, 'duration': 2.368}
+{'text': 'he works with.', 'start': 692.457, 'duration': 1.034}
+{'text': 'He has long seen land\nuse policy as a means', 'start': 693.592, 'duration': 2.603}
+{'text': 'to reach gritty goals.', 'start': 696.295, 'duration': 1.301}
+{'text': "He's worked for his role\nas a teacher, researcher,", 'start': 697.696, 'duration': 2.936}
+{'text': 'and funder.', 'start': 700.732, 'duration': 0.834}
+{'text': 'He will introduce\nthe respondents', 'start': 701.666, 'duration': 1.368}
+{'text': 'after the keynote lecture.', 'start': 703.134, 'duration': 1.102}
+{'text': 'And with that, I invite\nProfessor Ranjani Mazumdar', 'start': 704.336, 'duration': 2.503}
+{'text': 'to deliver her keynote lecture\ntitled, The Cinematic Slum.', 'start': 706.939, 'duration': 3.369}
+{'text': 'Thank you.', 'start': 710.409, 'duration': 0.833}
+{'text': '[applause]', 'start': 711.343, 'duration': 2.87}
+{'text': 'Thank you very much,\nRahul, for the introduction', 'start': 720.285, 'duration': 4.005}
+{'text': 'to the symposium\nand to my own work.', 'start': 724.39, 'duration': 3.569}
+{'text': 'I feel honored to have got\nthis invitation to kickstart', 'start': 728.059, 'duration': 3.938}
+{'text': 'a symposium like this.', 'start': 732.097, 'duration': 1.636}
+{'text': 'And I hope I can provoke\nsome new types of questions', 'start': 733.833, 'duration': 5.471}
+{'text': 'with what I have to say today.', 'start': 739.404, 'duration': 2.803}
+{'text': 'And I will not waste much\ntime and begin immediately,', 'start': 742.307, 'duration': 3.937}
+{'text': 'because we want to stick\nto a tight schedule.', 'start': 746.344, 'duration': 3.838}
+{'text': 'The slum has been a visual\nforce in a number of city films', 'start': 750.282, 'duration': 3.671}
+{'text': 'from across the world.', 'start': 754.053, 'duration': 1.667}
+{'text': 'The use of certain geographical\nlocations in popular discourses', 'start': 755.82, 'duration': 3.538}
+{'text': 'about crime and poverty\nhave given shape', 'start': 759.458, 'duration': 2.135}
+{'text': 'to a diverse range\nof images that', 'start': 761.693, 'duration': 2.402}
+{'text': 'are at once powerful,\nmythic, and disturbing.', 'start': 764.196, 'duration': 3.269}
+{'text': 'I would like to present\ntoday an account of some', 'start': 767.566, 'duration': 2.169}
+{'text': 'of the perceptions that\nhave fueled the imagination', 'start': 769.835, 'duration': 2.603}
+{'text': 'of the cinematic slum.', 'start': 772.538, 'duration': 1.834}
+{'text': 'Let me start with the discussion\nof the planetary consciousness', 'start': 774.472, 'duration': 3.204}
+{'text': 'at work and some of\nthe literature on slums', 'start': 777.776, 'duration': 3.37}
+{'text': 'and then trace its relationship\nto photographic and cinematic', 'start': 781.246, 'duration': 3.904}
+{'text': 'forms.', 'start': 785.25, 'duration': 1.969}
+{'text': 'As I will show, this planetary\nvision, often influenced', 'start': 787.319, 'duration': 3.036}
+{'text': 'by certain kinds of\nurban plans, policies,', 'start': 790.455, 'duration': 2.603}
+{'text': 'and academic\ndiscourses, translates', 'start': 793.158, 'duration': 2.269}
+{'text': 'into an aerial imagination.', 'start': 795.527, 'duration': 2.102}
+{'text': 'These aerial views are,\nhowever, constantly threatened', 'start': 797.729, 'duration': 3.237}
+{'text': 'by an overspill of challenging\nimages that foreground', 'start': 801.066, 'duration': 2.636}
+{'text': 'a dense slum ecology.', 'start': 803.802, 'duration': 1.936}
+{'text': 'Whether exploitative,\nsensational,', 'start': 805.838, 'duration': 2.669}
+{'text': 'or prone to accusations\nof poverty porn,', 'start': 808.607, 'duration': 3.77}
+{'text': 'the range of cinematic\nimages offered', 'start': 812.477, 'duration': 2.236}
+{'text': 'a hyper-sensory encounter\nwith the world of the slum.', 'start': 814.813, 'duration': 3.77}
+{'text': 'These encounters rely on\ncertain techniques that', 'start': 818.684, 'duration': 2.802}
+{'text': 'are unique to cinema\nand therefore provide', 'start': 821.586, 'duration': 2.469}
+{'text': 'an alternative form\nof knowledge that', 'start': 824.155, 'duration': 2.069}
+{'text': 'is different from\nsociological, historical,', 'start': 826.325, 'duration': 3.203}
+{'text': 'and economic accounts of slums.', 'start': 829.628, 'duration': 2.235}
+{'text': 'I hope to focus particularly\non the visceral, violent,', 'start': 831.963, 'duration': 3.904}
+{'text': 'and embodied forms\nof experiences', 'start': 835.967, 'duration': 2.269}
+{'text': 'that the cinematic slum\nhas become known for.', 'start': 838.337, 'duration': 3.67}
+{'text': 'In his book, Planet\nof the Slums,', 'start': 842.107, 'duration': 1.869}
+{'text': 'Mike Davis presents us\nwith an apocalyptic account', 'start': 844.076, 'duration': 3.103}
+{'text': 'of a future overwhelmed\nby the expansion of slums.', 'start': 847.279, 'duration': 3.837}
+{'text': 'Large-scale migration\nto the cities', 'start': 851.216, 'duration': 1.802}
+{'text': 'has resulted in\ncongested spaces.', 'start': 853.118, 'duration': 2.703}
+{'text': 'And the slum is now\na fait accompli.', 'start': 855.921, 'duration': 3.236}
+{'text': 'While slums have been a presence\nin most cities of the world', 'start': 859.257, 'duration': 2.87}
+{'text': 'in the second half\nof the 20th century,', 'start': 862.227, 'duration': 2.435}
+{'text': 'the global south\nhas increasingly', 'start': 864.763, 'duration': 1.501}
+{'text': 'witnessed a concentration\nof squatter settlements.', 'start': 866.364, 'duration': 3.971}
+{'text': "Davis's account is powerful.", 'start': 870.435, 'duration': 2.069}
+{'text': 'It makes us sit up\nwith a sense of shock', 'start': 872.604, 'duration': 2.436}
+{'text': 'and asks us to understand the\npower of statistics and data', 'start': 875.14, 'duration': 4.037}
+{'text': 'that he parades for the reader.', 'start': 879.277, 'duration': 2.103}
+{'text': 'The whirlwind of\nstaggering information', 'start': 881.48, 'duration': 2.002}
+{'text': 'is meant to shake us\nout of our reverie,', 'start': 883.582, 'duration': 2.435}
+{'text': 'to recognize a crisis that\nis at once economic, social,', 'start': 886.117, 'duration': 4.672}
+{'text': 'political, and ecological.', 'start': 890.889, 'duration': 2.602}
+{'text': 'The cover of the\nbook provides us', 'start': 893.592, 'duration': 2.168}
+{'text': 'with a high angle view\nof a Brazilian favela.', 'start': 895.861, 'duration': 3.903}
+{'text': "A decade after the publication\nof Davis's book, Johnny Miller,", 'start': 899.864, 'duration': 3.838}
+{'text': 'in his award-winning\nphotographic work', 'start': 903.802, 'duration': 2.135}
+{'text': 'titled Unequal Scenes, captured\naerial views of inequality.', 'start': 906.037, 'duration': 5.506}
+{'text': 'Miller started work\ninitially in South Africa', 'start': 911.643, 'duration': 2.836}
+{'text': 'but soon branched\nout in 2016 to use', 'start': 914.579, 'duration': 3.471}
+{'text': 'drones for the capture\nof striking images', 'start': 918.15, 'duration': 2.569}
+{'text': 'from around the world.', 'start': 920.819, 'duration': 1.768}
+{'text': 'These images provide high\nangle views of major cities,', 'start': 922.687, 'duration': 3.437}
+{'text': 'with dense clusters of\nlow-income housing set', 'start': 926.225, 'duration': 3.069}
+{'text': 'against the wealthier districts.', 'start': 929.394, 'duration': 2.336}
+{'text': 'The countries where\nMiller took pictures', 'start': 931.83, 'duration': 1.869}
+{'text': 'include South Africa, India,\nTanzania, the United States,', 'start': 933.799, 'duration': 4.737}
+{'text': 'and Kenya.', 'start': 938.637, 'duration': 1.434}
+{'text': 'The desire to generate\nthese high angle images', 'start': 940.172, 'duration': 2.469}
+{'text': 'came to Miller during his time\nas an anthropology student', 'start': 942.741, 'duration': 3.537}
+{'text': 'in South Africa.', 'start': 946.378, 'duration': 1.301}
+{'text': 'He was struck by the tin\nshacks and their existence', 'start': 947.779, 'duration': 3.104}
+{'text': 'right next to the\naffluent neighborhoods.', 'start': 950.983, 'duration': 2.969}
+{'text': 'Says Miller, and I\nquote, "The images', 'start': 954.052, 'duration': 2.669}
+{'text': 'that I find the\nmost powerful are', 'start': 956.821, 'duration': 2.036}
+{'text': "when the camera is looking\nstraight down what's", 'start': 958.957, 'duration': 2.87}
+{'text': 'known as nadir view, looking\nat the actual borders', 'start': 961.927, 'duration': 3.871}
+{'text': 'between rich and poor.', 'start': 965.898, 'duration': 1.468}
+{'text': 'Sometimes this is a fence,\nsometimes a road or wetlands,', 'start': 967.466, 'duration': 4.504}
+{'text': 'with small shacks of\npoor houses on one side', 'start': 972.07, 'duration': 2.936}
+{'text': 'and larger houses or\nmansions on the other.', 'start': 975.106, 'duration': 3.104}
+{'text': 'Whatever it is about\nthe composition', 'start': 978.31, 'duration': 2.101}
+{'text': 'of those photographs, they are\nextremely powerful to people.', 'start': 980.511, 'duration': 3.771}
+{'text': 'I think the images make\ninequality relevant.', 'start': 984.382, 'duration': 3.537}
+{'text': 'People can see themselves\nreflected in the images.', 'start': 988.019, 'duration': 3.437}
+{'text': 'And it\'s deeply\nunsettling," end of quote.', 'start': 991.556, 'duration': 3.07}
+{'text': "There is an uncanny\nresemblance in Davis's account", 'start': 994.726, 'duration': 2.802}
+{'text': "in the Planet of Slums\nand Miller's photographs", 'start': 997.629, 'duration': 3.671}
+{'text': 'in his Unequal Scenes.', 'start': 1001.4, 'duration': 1.768}
+{'text': 'Both capture broad\ntrends in the world', 'start': 1003.268, 'duration': 2.269}
+{'text': 'and focus on scale,\nnumbers, and the desire', 'start': 1005.637, 'duration': 3.137}
+{'text': 'to instill a sense of shock.', 'start': 1008.874, 'duration': 2.702}
+{'text': 'There is something powerful in\nthis spectacle of inequality.', 'start': 1011.676, 'duration': 3.204}
+{'text': 'And it is hard to ignore it.', 'start': 1014.98, 'duration': 1.869}
+{'text': 'The issue, however, is the\ndeployment of a distanced gaze,', 'start': 1016.949, 'duration': 4.537}
+{'text': 'both in the book and\nin the photographs.', 'start': 1021.586, 'duration': 2.836}
+{'text': 'This distance is created\nby an aerial perspective,', 'start': 1024.522, 'duration': 4.005}
+{'text': 'a planetary view,\nso to speak, which', 'start': 1028.627, 'duration': 2.703}
+{'text': 'recognizes an essential\ninterconnectedness', 'start': 1031.43, 'duration': 3.236}
+{'text': 'between all humankind\nand the earth,', 'start': 1034.766, 'duration': 2.335}
+{'text': 'a relationship that transcends\nnations to foreground a shared', 'start': 1037.201, 'duration': 4.305}
+{'text': 'vision of a united humanity.', 'start': 1041.606, 'duration': 2.937}
+{'text': 'The aerial view popularized\nsince the experience of flight', 'start': 1044.643, 'duration': 3.47}
+{'text': 'is now a widespread\nform and has deeply', 'start': 1048.213, 'duration': 2.502}
+{'text': 'affected the way we understand\ngeography and territory.', 'start': 1050.815, 'duration': 4.272}
+{'text': 'While aerial photography has\nbeen constructively deployed', 'start': 1055.187, 'duration': 2.869}
+{'text': 'in the service of\nwar, cartography,', 'start': 1058.156, 'duration': 2.402}
+{'text': 'and archaeological\nsurveys, we need', 'start': 1060.658, 'duration': 2.303}
+{'text': 'to understand how\nthis form of vision', 'start': 1063.061, 'duration': 2.269}
+{'text': 'emerged so strongly as\na cultural phenomenon.', 'start': 1065.431, 'duration': 3.836}
+{'text': 'In the course of its\nhistory, the aerial view', 'start': 1069.367, 'duration': 2.269}
+{'text': 'has offered us the fantasy\nof visual possession', 'start': 1071.736, 'duration': 3.47}
+{'text': 'of vast space.', 'start': 1075.306, 'duration': 1.603}
+{'text': 'Since this form of\nlooking is distinctly', 'start': 1077.009, 'duration': 3.27}
+{'text': 'different from ground\nlevel perception,', 'start': 1080.379, 'duration': 2.769}
+{'text': 'there is a quality\nof abstraction', 'start': 1083.248, 'duration': 1.868}
+{'text': 'that comes into play in any\nhigh angle view of the world.', 'start': 1085.216, 'duration': 4.538}
+{'text': 'What we experience\nis a move away', 'start': 1089.854, 'duration': 2.603}
+{'text': 'from a complex and contradictory\nreality to an image form', 'start': 1092.557, 'duration': 4.338}
+{'text': 'where the unruly and\nthe untidy appear tidy.', 'start': 1096.995, 'duration': 4.071}
+{'text': 'This is a process where\neyesores seen at ground level', 'start': 1101.166, 'duration': 3.503}
+{'text': 'get transformed\nthrough aerial vision', 'start': 1104.769, 'duration': 2.203}
+{'text': 'into striking\nforms of spectacle.', 'start': 1107.072, 'duration': 2.436}
+{'text': 'Complex social context, lived\nrealities, and experiences', 'start': 1109.608, 'duration': 4.204}
+{'text': 'are reduced to a\nplanar spatiality', 'start': 1113.912, 'duration': 2.603}
+{'text': 'that instills a generalized\nnotion of the universal.', 'start': 1116.615, 'duration': 3.87}
+{'text': "Davis's book has been classified\nas urban crisis writing", 'start': 1120.585, 'duration': 3.871}
+{'text': 'by Ravi Sundaram, an\napocalyptic imagination that', 'start': 1124.556, 'duration': 3.536}
+{'text': 'seems to steer clear from\nthe complexities that exist', 'start': 1128.192, 'duration': 3.505}
+{'text': 'inside the slums themselves.', 'start': 1131.797, 'duration': 2.135}
+{'text': "Miller's photographs seem\nto carry Davis's ideas", 'start': 1134.032, 'duration': 3.47}
+{'text': 'into his striking account of\ninequality seen from above.', 'start': 1137.602, 'duration': 4.538}
+{'text': 'These descriptions,\nhowever, do not obviously', 'start': 1142.24, 'duration': 2.37}
+{'text': "capture the concrete experiences\nof the slums' inhabitants.", 'start': 1144.71, 'duration': 4.471}
+{'text': "As against Davis's\napocalyptic imagination,", 'start': 1149.281, 'duration': 3.036}
+{'text': 'we do also have other\nperspectives that', 'start': 1152.417, 'duration': 2.402}
+{'text': 'have documented not just\nthe concrete realities', 'start': 1154.92, 'duration': 2.602}
+{'text': 'and experiences of\nthose living in slums,', 'start': 1157.622, 'duration': 2.869}
+{'text': 'but also provided access\nto the infrastructures', 'start': 1160.592, 'duration': 2.969}
+{'text': 'of the informal economies that\noperate in these locations.', 'start': 1163.661, 'duration': 4.072}
+{'text': 'The effort in these\nmicro accounts', 'start': 1167.833, 'duration': 1.767}
+{'text': 'has been to trace patterns as\nwell as distinct differences,', 'start': 1169.7, 'duration': 4.205}
+{'text': 'to understand the diverse\ncontext of slum worlds,', 'start': 1174.005, 'duration': 3.471}
+{'text': 'the way they look,\noperate, and survive.', 'start': 1177.576, 'duration': 3.336}
+{'text': 'There are many examples\nof this kind of work.', 'start': 1181.013, 'duration': 4.203}
+{'text': 'In Shadow Cities,\nRobert Neuwirth', 'start': 1185.316, 'duration': 2.569}
+{'text': 'provides narratives of\nordinary slum dwellers.', 'start': 1187.986, 'duration': 3.904}
+{'text': 'For two years, he explored\nslums in four continents.', 'start': 1191.99, 'duration': 3.57}
+{'text': 'And despite their world\nof poverty, despair,', 'start': 1195.66, 'duration': 2.402}
+{'text': 'and political corruption,\nhe experienced a great deal', 'start': 1198.162, 'duration': 3.604}
+{'text': 'of the human spirit.', 'start': 1201.866, 'duration': 1.636}
+{'text': 'The book has a\nstrong tone of hope.', 'start': 1203.602, 'duration': 2.034}
+{'text': 'And squatters are\npresented as entrepreneurs', 'start': 1205.737, 'duration': 2.836}
+{'text': 'who cope by staying\noutside of the asphalt', 'start': 1208.673, 'duration': 2.97}
+{'text': 'world, the term used\nby them to refer', 'start': 1211.743, 'duration': 2.435}
+{'text': 'to the streets and political\nsystem of the legal city.', 'start': 1214.278, 'duration': 4.005}
+{'text': 'The book takes us to\na sense of community,', 'start': 1218.383, 'duration': 2.569}
+{'text': 'a place of friendship and bonds,\nand a highly productive life.', 'start': 1221.052, 'duration': 4.004}
+{'text': 'In some ways, these\ntwo opposing tendencies', 'start': 1225.156, 'duration': 3.303}
+{'text': 'of expressing the\nexpansive horror', 'start': 1228.559, 'duration': 2.437}
+{'text': 'of the slum\nexperience via numbers', 'start': 1231.096, 'duration': 2.335}
+{'text': 'and statistical\nclassification and the search', 'start': 1233.532, 'duration': 2.902}
+{'text': 'for a spirited community\nof residents engaged', 'start': 1236.534, 'duration': 3.104}
+{'text': 'in informal networks\nof the economy', 'start': 1239.738, 'duration': 2.335}
+{'text': 'has framed the popular dynamics\nof slum representations.', 'start': 1242.173, 'duration': 4.371}
+{'text': 'In the cinematic world,\nhowever, this narrative', 'start': 1246.645, 'duration': 3.169}
+{'text': 'becomes complicated.', 'start': 1249.914, 'duration': 2.236}
+{'text': "Danny Boyle's Slumdog\nMillionaire, released in 2008,", 'start': 1252.25, 'duration': 4.304}
+{'text': 'became a major success across\nthe world with its rags', 'start': 1256.654, 'duration': 3.537}
+{'text': 'to riches story.', 'start': 1260.291, 'duration': 1.569}
+{'text': 'Based on a novel, the primary\nstructure of the narrative', 'start': 1261.96, 'duration': 3.036}
+{'text': 'moves between a popular\ntelevision game show,', 'start': 1265.097, 'duration': 2.802}
+{'text': 'How to be a Millionaire,\nand memories', 'start': 1267.999, 'duration': 2.336}
+{'text': 'of one of the contestants,\nJamal, a Muslim boy', 'start': 1270.435, 'duration': 3.437}
+{'text': 'who grew up in Bombay slums.', 'start': 1273.972, 'duration': 2.335}
+{'text': 'Just before the\nfinal round, when', 'start': 1276.407, 'duration': 1.936}
+{'text': 'he is about to win a\nlarge sum of money,', 'start': 1278.443, 'duration': 2.803}
+{'text': 'Jamal is picked up by the\npolice for questioning', 'start': 1281.346, 'duration': 4.171}
+{'text': "because the host of\nthe show can't believe", 'start': 1285.617, 'duration': 2.269}
+{'text': 'a boy from the\nslum could possibly', 'start': 1287.986, 'duration': 2.202}
+{'text': 'know all the answers to the\nquestions asked in the show.', 'start': 1290.288, 'duration': 4.204}
+{'text': 'The narrative does not try to\nbe plausible or believable,', 'start': 1294.592, 'duration': 3.637}
+{'text': 'for the focus clearly was to\nfind a language with which', 'start': 1298.329, 'duration': 2.937}
+{'text': "to convey the memory of\ngrowing up in Bombay's slums.", 'start': 1301.366, 'duration': 4.037}
+{'text': 'The film was both controversial\nas well as appealing.', 'start': 1305.503, 'duration': 3.904}
+{'text': "There is a desire to penetrate\nthe density of Bombay's slum", 'start': 1309.507, 'duration': 3.237}
+{'text': 'world, to access sensory fabric.', 'start': 1312.844, 'duration': 3.303}
+{'text': 'Boyle deploys a cinematic\nlanguage of encounters', 'start': 1316.247, 'duration': 4.605}
+{'text': 'to explore the\nnetworks of the slum,', 'start': 1320.952, 'duration': 2.402}
+{'text': 'to narrate the stories\nof two brothers,', 'start': 1323.454, 'duration': 3.003}
+{'text': 'yet the labyrinthine\nstructure of the space', 'start': 1326.557, 'duration': 2.503}
+{'text': 'defies any easy access\nto a totalizing view.', 'start': 1329.161, 'duration': 3.702}
+{'text': 'A key issue for us here\nis that of navigation', 'start': 1332.964, 'duration': 3.97}
+{'text': 'since it is in the\nworld of cinema', 'start': 1337.034, 'duration': 2.236}
+{'text': 'that we have seen the most\nsustained desire to move', 'start': 1339.37, 'duration': 3.17}
+{'text': 'into these spaces, to\ntrade on various kinds', 'start': 1342.641, 'duration': 3.036}
+{'text': 'of spectatorial experiences of\nfear, excitement, voyeurism,', 'start': 1345.777, 'duration': 4.738}
+{'text': 'and thrill.', 'start': 1350.615, 'duration': 1.735}
+{'text': 'This is absolutely central to\nthe way the idea of the slum', 'start': 1352.45, 'duration': 2.87}
+{'text': 'has become enmeshed in our\nthinking of certain kinds', 'start': 1355.42, 'duration': 2.969}
+{'text': 'of urban spaces that we\ndo not always know well', 'start': 1358.49, 'duration': 3.537}
+{'text': 'but have only\nheard of or learned', 'start': 1362.127, 'duration': 2.168}
+{'text': 'about via a global production\nof pictures and documents, news', 'start': 1364.395, 'duration': 4.272}
+{'text': 'reporting, literature,\nand cinema.', 'start': 1368.767, 'duration': 2.969}
+{'text': 'This indeed is what makes\nthe slum iconography so', 'start': 1371.836, 'duration': 3.17}
+{'text': 'difficult to establish, since\nits so-called authentic life is', 'start': 1375.106, 'duration': 4.204}
+{'text': 'now no longer available\noutside this blitzkrieg', 'start': 1379.411, 'duration': 3.603}
+{'text': 'of visual production.', 'start': 1383.114, 'duration': 1.768}
+{'text': 'Slums are diverse\narchitecturally, socially,', 'start': 1384.983, 'duration': 3.47}
+{'text': 'in terms of infrastructure,\nand in terms', 'start': 1388.553, 'duration': 2.436}
+{'text': 'of the geographical locations\nwithin urban spaces.', 'start': 1391.089, 'duration': 3.704}
+{'text': 'They are mysterious,\nalways around', 'start': 1394.893, 'duration': 2.369}
+{'text': 'but never fully understood.', 'start': 1397.362, 'duration': 1.935}
+{'text': 'So the techniques\nused by cinema have', 'start': 1399.397, 'duration': 1.936}
+{'text': 'tended to play with the\nnature of the medium itself.', 'start': 1401.433, 'duration': 3.603}
+{'text': 'Giuliana Bruno refers to film\nas a form of modern cartography,', 'start': 1405.136, 'duration': 4.672}
+{'text': 'where we can clearly\nsee connections', 'start': 1409.908, 'duration': 2.035}
+{'text': 'between space and emotion.', 'start': 1412.043, 'duration': 2.569}
+{'text': 'Forms of mobility\ndeployed by cinema', 'start': 1414.712, 'duration': 2.803}
+{'text': 'usually take us\nacross time and space', 'start': 1417.615, 'duration': 2.803}
+{'text': 'to invoke a unique\nmap of filmic affect.', 'start': 1420.518, 'duration': 3.703}
+{'text': 'Slumdog revels in this\nkind of expressivity.', 'start': 1424.322, 'duration': 3.804}
+{'text': 'The opening sequence\nin the film uses', 'start': 1428.226, 'duration': 2.102}
+{'text': 'the chase, a popular\ndevice in cinema,', 'start': 1430.428, 'duration': 3.136}
+{'text': 'to navigate Mumbai slums.', 'start': 1433.664, 'duration': 2.202}
+{'text': 'Boyle takes us to Dharavi as the\nsite for the story to unfold.', 'start': 1435.966, 'duration': 4.672}
+{'text': 'Dharavi is one of the\nlargest slums in Asia', 'start': 1440.739, 'duration': 2.802}
+{'text': 'and houses around\n700,000 people.', 'start': 1443.641, 'duration': 3.604}
+{'text': 'It is a complex space, a\nsite of high productivity,', 'start': 1447.345, 'duration': 3.837}
+{'text': 'poor infrastructure, outsourced\nlabor, and global networks.', 'start': 1451.282, 'duration': 4.905}
+{'text': 'Within this space, many\ndifferent lives co-exist.', 'start': 1456.287, 'duration': 3.27}
+{'text': 'And not all of these stories are\ncaptured by Boyle in Slumdog,', 'start': 1459.657, 'duration': 4.871}
+{'text': 'and yet it is what\nhe captures that is', 'start': 1464.628, 'duration': 2.337}
+{'text': 'of particular\nsignificance for us', 'start': 1467.065, 'duration': 2.335}
+{'text': 'to understand how a narrative\nof embodied knowledge', 'start': 1469.5, 'duration': 3.738}
+{'text': 'is presented as a distinctly\ndifferent imagination', 'start': 1473.338, 'duration': 3.703}
+{'text': 'from the planetary\nconsciousness at work in Davis', 'start': 1477.141, 'duration': 3.537}
+{'text': "and Miller's work.", 'start': 1480.778, 'duration': 1.535}
+{'text': 'If the high angle drone\nimagery that we have just seen', 'start': 1482.413, 'duration': 3.804}
+{'text': 'seeks to generate abstract\nspectacles of shock,', 'start': 1486.317, 'duration': 3.47}
+{'text': 'Boyle assaults our senses with\na form of visual cartography', 'start': 1489.887, 'duration': 4.572}
+{'text': "to invoke the ecology\nof Mumbai's slums.", 'start': 1494.559, 'duration': 4.471}
+{'text': '[video playback]', 'start': 1499.13, 'duration': 0.901}
+{'text': '[non-english singing]', 'start': 1500.131, 'duration': 2.869}
+{'text': '- Jamal, [non-english], Jamal.', 'start': 1503.1, 'duration': 4.839}
+{'text': 'Jamal, [non-english].', 'start': 1508.039, 'duration': 2.869}
+{'text': '[airplane noise]', 'start': 1511.008, 'duration': 1.636}
+{'text': '[yelling]', 'start': 1513.245, 'duration': 2.368}
+{'text': '-', 'start': 1515.713, 'duration': 0.601}
+{'text': '- [non-english speech]', 'start': 1516.414, 'duration': 4.071}
+{'text': '- [non-english speech]', 'start': 1520.585, 'duration': 4.405}
+{'text': '- [non-english speech]', 'start': 1525.09, 'duration': 3.369}
+{'text': '[children yelling]', 'start': 1528.559, 'duration': 2.87}
+{'text': '[music playing]', 'start': 1535.366, 'duration': 0.601}
+{'text': '[non-english singing]', 'start': 1536.067, 'duration': 2.837}
+{'text': '[children yelling]', 'start': 1548.446, 'duration': 3.871}
+{'text': '[non-english singing]', 'start': 1555.887, 'duration': 2.403}
+{'text': '[screaming]', 'start': 1562.86, 'duration': 3.371}
+{'text': '[non-english singing]', 'start': 1566.331, 'duration': 3.37}
+{'text': '[yelling]', 'start': 1576.775, 'duration': 3.87}
+{'text': '[non-english singing]', 'start': 1584.716, 'duration': 3.37}
+{'text': '[music - "o, saya"]', 'start': 1598.629, 'duration': 1.902}
+{'text': "- (SINGING) They can't touch me.", 'start': 1600.631, 'duration': 1.402}
+{'text': "We break off, run so fast,\nthey can't even touch me.", 'start': 1602.133, 'duration': 2.869}
+{'text': 'Been that gypsy.', 'start': 1605.102, 'duration': 1.135}
+{'text': 'Touch me.', 'start': 1606.338, 'duration': 0.967}
+{'text': "I'll show you gypsy\nmy zig-zag quickly.", 'start': 1607.405, 'duration': 1.635}
+{'text': 'Pick up that pack on my journey.', 'start': 1609.14, 'duration': 1.936}
+{'text': "Don't suddenly\nstart to follow me.", 'start': 1611.176, 'duration': 1.667}
+{'text': 'I am in luck.', 'start': 1612.943, 'duration': 1.035}
+{'text': 'Some days they suck when\nwe live for the buck.', 'start': 1614.079, 'duration': 1.267}
+{'text': 'We get for the family.', 'start': 1615.446, 'duration': 1.635}
+{'text': "One day, I'm wanna to be a star,\nwhere I get to hang in a bar.", 'start': 1617.181, 'duration': 4.405}
+{'text': "I'll go to Vegas with the\nplayas just to forget my stars.", 'start': 1621.686, 'duration': 3.637}
+{'text': '- Hey, what?', 'start': 1625.423, 'duration': 1.335}
+{'text': '- Sorry.', 'start': 1626.858, 'duration': 2.369}
+{'text': 'Sorry.', 'start': 1629.327, 'duration': 0.868}
+{'text': 'Sorry, [non-english].', 'start': 1630.295, 'duration': 1.601}
+{'text': '- [non-english]', 'start': 1631.996, 'duration': 0.5}
+{'text': '- [non-english].', 'start': 1632.596, 'duration': 0.902}
+{'text': 'Sorry.', 'start': 1633.598, 'duration': 1.368}
+{'text': 'Sorry.', 'start': 1635.066, 'duration': 0.6}
+{'text': '[music - "o, saya"]', 'start': 1635.766, 'duration': 0.734}
+{'text': "- (SINGING) They can't touch me.", 'start': 1636.6, 'duration': 1.169}
+{'text': "We break off, run so fast,\nthey can't even touch me.", 'start': 1637.869, 'duration': 1.768}
+{'text': 'Been that gypsy.', 'start': 1639.737, 'duration': 1.068}
+{'text': 'Touch me, I show you\ngypsy my zig-zag quickly.', 'start': 1640.905, 'duration': 2.67}
+{'text': '- [non-english speech]', 'start': 1643.675, 'duration': 1.901}
+{'text': '[end playback]', 'start': 1645.676, 'duration': 1.235}
+{'text': 'The sequence starts with a\ndynamic view of an airport', 'start': 1647.011, 'duration': 2.736}
+{'text': 'track, the hazy apartment block\nskyline, the impish playfulness', 'start': 1649.847, 'duration': 4.338}
+{'text': 'of the children, to finally\nenter the streets and bylanes', 'start': 1654.285, 'duration': 3.57}
+{'text': 'of Dharavi as the children get\nchased by a police constable.', 'start': 1657.955, 'duration': 4.038}
+{'text': 'The chase is superbly\ncrafted, an energetic run', 'start': 1662.093, 'duration': 3.837}
+{'text': 'that reveals various\naspects of the space to us.', 'start': 1666.03, 'duration': 3.203}
+{'text': 'Yet this is a form\nof mapping that', 'start': 1669.333, 'duration': 1.569}
+{'text': 'foregrounds the bodily\nexperiences of the children', 'start': 1671.002, 'duration': 3.036}
+{'text': 'and their deft navigation\nacross rooftops, alleys,', 'start': 1674.138, 'duration': 3.404}
+{'text': 'water pipes, and staircases.', 'start': 1677.642, 'duration': 2.135}
+{'text': 'The constable finds it difficult\nto negotiate the space.', 'start': 1679.877, 'duration': 3.17}
+{'text': 'The children, on the other hand,\nhave a relationship of play', 'start': 1683.147, 'duration': 3.17}
+{'text': 'as Boyle edits their\nspeedy movement to music.', 'start': 1686.417, 'duration': 3.003}
+{'text': 'We see the slum as a\nspace with giant pipes,', 'start': 1689.52, 'duration': 2.837}
+{'text': 'sewage, blue-colored\nplastic floating in water,', 'start': 1692.457, 'duration': 3.87}
+{'text': 'narrow alleys, and a combination\nof tin and thatched roofs.', 'start': 1696.427, 'duration': 4.238}
+{'text': 'The two kids really\nknow their way around', 'start': 1700.765, 'duration': 2.236}
+{'text': 'as the director moves\nfrom ground level', 'start': 1703.101, 'duration': 2.235}
+{'text': 'to the high angle shot\nshowing the thatched roofs.', 'start': 1705.436, 'duration': 3.136}
+{'text': 'This play between\nthe high and the low', 'start': 1708.672, 'duration': 2.303}
+{'text': 'is interesting since up close,\nwe get a sense of the slum', 'start': 1711.075, 'duration': 3.57}
+{'text': 'as we blur through the alleys.', 'start': 1714.745, 'duration': 2.937}
+{'text': 'This is typical for\nany chase sequence,', 'start': 1717.782, 'duration': 1.969}
+{'text': 'since its attempt is always\nto capture a sensorium', 'start': 1719.851, 'duration': 3.203}
+{'text': 'and thrill of\nmovement through what', 'start': 1723.154, 'duration': 1.601}
+{'text': 'appears to be very dense space.', 'start': 1724.855, 'duration': 2.436}
+{'text': 'Through this\nopening sequence, we', 'start': 1727.391, 'duration': 1.502}
+{'text': 'are provided access to a\nform of spatial knowledge', 'start': 1728.993, 'duration': 3.504}
+{'text': 'that children possess.', 'start': 1732.597, 'duration': 2.535}
+{'text': 'A similar controversy about the\nsensational nature of the film', 'start': 1735.232, 'duration': 3.604}
+{'text': "shadowed Fernando Meirelles's\nCity of God, released in 2002.", 'start': 1738.936, 'duration': 5.339}
+{'text': 'City of God is based\non a true story', 'start': 1744.375, 'duration': 2.535}
+{'text': 'set in 1960s Rio based\non a best selling novel', 'start': 1747.011, 'duration': 3.97}
+{'text': 'by Paulo Lins, who\ngrew up in a favela.', 'start': 1751.081, 'duration': 3.605}
+{'text': "The narrative moves between\nthe '60s and the '80s", 'start': 1754.786, 'duration': 3.203}
+{'text': 'and follows the different\njourneys of the two', 'start': 1758.089, 'duration': 2.168}
+{'text': "protagonists, Li'l Ze, a dreaded\nteenage gangster, and Rocket,", 'start': 1760.357, 'duration': 5.105}
+{'text': 'another teenager who wants to\nbecome a photographer to escape', 'start': 1765.562, 'duration': 3.738}
+{'text': 'the favela.', 'start': 1769.4, 'duration': 1.268}
+{'text': 'The story unfolds from the\npoint of view of Rocket.', 'start': 1770.768, 'duration': 3.303}
+{'text': 'City of God adopted a style\nthat relentlessly pummels', 'start': 1774.171, 'duration': 3.604}
+{'text': 'the spectator with\na tale of drugs,', 'start': 1777.875, 'duration': 2.436}
+{'text': 'crime, and corruption\nlocated inside the favelas.', 'start': 1780.411, 'duration': 3.904}
+{'text': 'It is intriguing how\nthe opening of the film', 'start': 1784.415, 'duration': 2.67}
+{'text': 'opens with a similar\ncartographic impulse', 'start': 1787.185, 'duration': 2.402}
+{'text': 'as Slumdog but with a\ndistinctly violent edge to it.', 'start': 1789.687, 'duration': 5.305}
+{'text': '[video playback]', 'start': 1795.092, 'duration': 0.835}
+{'text': '[chicken clucking]', 'start': 1796.027, 'duration': 3.203}
+{'text': "- Fuck, the chicken's got away.", 'start': 1800.164, 'duration': 1.068}
+{'text': 'Go after that chicken, man.', 'start': 1801.332, 'duration': 1.902}
+{'text': "Go on, for fuck's sake.", 'start': 1807.772, 'duration': 2.369}
+{'text': '[laughs]', 'start': 1810.241, 'duration': 4.838}
+{'text': "- If it's a good photo,\nI'll get a job at the paper.", 'start': 1830.461, 'duration': 2.203}
+{'text': '- You think so, Rocket?', 'start': 1832.764, 'duration': 1.268}
+{'text': '- Gotta take the risk.', 'start': 1834.132, 'duration': 1.3}
+{'text': "- You'd risk your\nlife for a picture?", 'start': 1835.532, 'duration': 2.169}
+{'text': 'Forget it.', 'start': 1837.802, 'duration': 0.768}
+{'text': '- You think I want to meet up\nwith that motherfucking hood?', 'start': 1841.305, 'duration': 3.504}
+{'text': '- Get that chicken, bro.', 'start': 1844.909, 'duration': 0.901}
+{'text': '[chicken clucking]', 'start': 1849.914, 'duration': 1.902}
+{'text': '- Motherfucker, I told\nyou to grab that chicken.', 'start': 1851.916, 'duration': 3.37}
+{'text': 'Outta my way, Get that chicken!', 'start': 1855.386, 'duration': 3.404}
+{'text': '[laughs]', 'start': 1858.89, 'duration': 2.402}
+{'text': '[background voices]', 'start': 1861.392, 'duration': 1.901}
+{'text': '[gunshots]', 'start': 1863.394, 'duration': 3.37}
+{'text': "- If Li'l Ze catches\nyou, he'll kill you.", 'start': 1878.342, 'duration': 3.404}
+{'text': "- Yeah, well, he's\ngot to find me first.", 'start': 1881.846, 'duration': 2.403}
+{'text': '- Hey, kid.', 'start': 1893.824, 'duration': 0.901}
+{'text': 'Get that chicken.', 'start': 1894.825, 'duration': 0.901}
+{'text': 'Get that chicken!', 'start': 1895.826, 'duration': 3.37}
+{'text': '- Shit, the cops.', 'start': 1899.296, 'duration': 1.903}
+{'text': "- Don't fucking run off.", 'start': 1901.299, 'duration': 2.435}
+{'text': 'Give me that.', 'start': 1903.834, 'duration': 0.468}
+{'text': 'Hey, melonhead, you fucking fag.', 'start': 1908.339, 'duration': 3.77}
+{'text': '- A picture could change my\nlife, but in the City of God,', 'start': 1912.209, 'duration': 2.636}
+{'text': 'if you run away, they get you.', 'start': 1914.945, 'duration': 3.237}
+{'text': 'And if you stay,\nthey get you, too.', 'start': 1918.282, 'duration': 1.535}
+{'text': "- They're coming for us.", 'start': 1919.917, 'duration': 1.001}
+{'text': "- It's been that way\never since I was a kid.", 'start': 1921.018, 'duration': 3.037}
+{'text': '[end playback]', 'start': 1930.794, 'duration': 1.836}
+{'text': 'The significance of\nboth these sequences', 'start': 1932.73, 'duration': 2.136}
+{'text': 'lies in their\nattempt to carve out', 'start': 1934.966, 'duration': 1.935}
+{'text': 'a mediatized imagination\nfor a discussion of slums', 'start': 1937.001, 'duration': 3.47}
+{'text': 'in a globalized world.', 'start': 1940.571, 'duration': 1.736}
+{'text': 'Both films deal with the\nmetamorphosis of childhood.', 'start': 1942.407, 'duration': 3.87}
+{'text': 'This focus on childhood is\nnot unknown in the history', 'start': 1946.377, 'duration': 3.036}
+{'text': 'of world cinema.', 'start': 1949.513, 'duration': 1.201}
+{'text': 'And yet there is something\ndifferent about films', 'start': 1950.814, 'duration': 2.136}
+{'text': 'like City of God and Slumdog.', 'start': 1953.05, 'duration': 2.436}
+{'text': 'A brief comparison\nwith certain depictions', 'start': 1955.586, 'duration': 2.369}
+{'text': 'available from an earlier era\nmay help to shed light on this.', 'start': 1958.055, 'duration': 5.505}
+{'text': "Hector Babenco's\nPixote, released", 'start': 1963.661, 'duration': 2.269}
+{'text': "in 1981, and Mira Nair's Salaam\nBombay, released in 1988,", 'start': 1966.03, 'duration': 4.905}
+{'text': 'are two iconic\nfilms of the 1980s.', 'start': 1971.035, 'duration': 2.902}
+{'text': 'Both films on childhood\nexperiences of poverty', 'start': 1974.038, 'duration': 2.969}
+{'text': 'were inspired by\nthe Mexican film', 'start': 1977.108, 'duration': 1.935}
+{'text': 'Los Olvidados, which translates\nas The Young and the Damned,', 'start': 1979.143, 'duration': 3.704}
+{'text': 'directed by Luis.', 'start': 1982.947, 'duration': 0.867}
+{'text': 'Bunuel in 1959.', 'start': 1983.914, 'duration': 2.37}
+{'text': 'In each of these films, the\nslum is the master narrative', 'start': 1986.384, 'duration': 2.869}
+{'text': 'that is never overtly present\nin its architectural density', 'start': 1989.353, 'duration': 4.371}
+{'text': 'but is the infrastructural\ncondition for the way', 'start': 1993.824, 'duration': 2.803}
+{'text': 'that children experience life.', 'start': 1996.727, 'duration': 2.636}
+{'text': "Mira Nair's Salaam Bombay\ndeals with the lives", 'start': 1999.463, 'duration': 2.302}
+{'text': 'of street children.', 'start': 2001.865, 'duration': 1.335}
+{'text': 'Shot in the slums\nof Bombay, the film', 'start': 2003.3, 'duration': 1.836}
+{'text': 'shows the story of Krishna,\na 10-year-old boy who', 'start': 2005.236, 'duration': 3.003}
+{'text': 'works for a traveling\ncircus but is', 'start': 2008.339, 'duration': 2.135}
+{'text': 'abandoned when the employers\nmove away abruptly.', 'start': 2010.574, 'duration': 3.871}
+{'text': 'He then heads for\nBombay and gets', 'start': 2014.545, 'duration': 2.069}
+{'text': 'a job working as a tea boy.', 'start': 2016.714, 'duration': 2.069}
+{'text': "The film centers on\nKrishna's daily deliveries", 'start': 2018.883, 'duration': 3.236}
+{'text': 'to a brothel and the\nassortment of characters', 'start': 2022.219, 'duration': 2.803}
+{'text': 'he meets over there.', 'start': 2025.122, 'duration': 1.401}
+{'text': 'Salaam Bombay builds on\na sentimental narrative,', 'start': 2026.624, 'duration': 3.237}
+{'text': 'with the child retaining an\nintrinsically human quality', 'start': 2029.961, 'duration': 3.903}
+{'text': 'that remains untouched\nby his circumstances.', 'start': 2033.965, 'duration': 3.569}
+{'text': 'The film refrains from\nany direct articulation', 'start': 2037.635, 'duration': 3.237}
+{'text': 'of physical aggression.', 'start': 2040.972, 'duration': 1.534}
+{'text': 'There are intimations\nof potential violence,', 'start': 2042.607, 'duration': 2.602}
+{'text': "but we don't see them on screen.", 'start': 2045.309, 'duration': 1.802}
+{'text': 'And the desire to hold\nonto some [? originally ?]', 'start': 2047.211, 'duration': 2.202}
+{'text': 'sense of innocence\nor absolute truth', 'start': 2049.513, 'duration': 2.87}
+{'text': 'remains the dominant emotional\ntexture of the narrative.', 'start': 2052.483, 'duration': 4.104}
+{'text': "Many critics and viewers\nhave compared Nair's venture", 'start': 2056.687, 'duration': 4.405}
+{'text': "to Babenco's Pixote, released\nearlier in the decade.", 'start': 2061.192, 'duration': 4.337}
+{'text': 'As abandoned cast-offs,\nthe children of Pixote', 'start': 2065.63, 'duration': 3.235}
+{'text': 'live by their wits on the cruel\nstreets of Sao Paulo in Brazil.', 'start': 2068.965, 'duration': 4.372}
+{'text': 'Their survival depends on\nthe trading of sex and drugs', 'start': 2073.437, 'duration': 3.37}
+{'text': 'as the narrative takes us\nthrough a series of events', 'start': 2076.907, 'duration': 2.67}
+{'text': 'that act upon the children.', 'start': 2079.677, 'duration': 2.068}
+{'text': 'Unlike Salaam Bombay, there is\nsomething relentlessly brutal', 'start': 2081.845, 'duration': 3.604}
+{'text': 'in Pixote.', 'start': 2085.55, 'duration': 1.2}
+{'text': "It's like being in a\nno-exit world, where not", 'start': 2086.85, 'duration': 2.97}
+{'text': 'even the cleverest of\nthe children can survive.', 'start': 2089.92, 'duration': 3.003}
+{'text': 'A sense of desperation\nruns through the narrative', 'start': 2093.023, 'duration': 3.604}
+{'text': 'with absolutely no hope\navailable for the children.', 'start': 2096.727, 'duration': 4.071}
+{'text': 'We are made to view a cataloging\nof strange atrocities, where', 'start': 2100.898, 'duration': 4.037}
+{'text': 'beauty is forever doomed\nand a sense of entrapment', 'start': 2105.035, 'duration': 3.303}
+{'text': 'emerges as the dominant emotion.', 'start': 2108.438, 'duration': 2.737}
+{'text': 'Babenco takes an ironic\napproach to the aerial view', 'start': 2111.275, 'duration': 4.17}
+{'text': 'by opening the film with a\nstraightforward introduction', 'start': 2115.545, 'duration': 3.471}
+{'text': "to the film's context.", 'start': 2119.116, 'duration': 1.335}
+{'text': '[video playback]', 'start': 2120.551, 'duration': 2.736}
+{'text': '- [speaking spanish]', 'start': 2123.387, 'duration': 2.169}
+{'text': '[end playback]', 'start': 2217.781, 'duration': 1.702}
+{'text': 'This opening,\nhowever, has little', 'start': 2219.583, 'duration': 1.868}
+{'text': 'to do with the series of\ndevastating brutalities', 'start': 2221.552, 'duration': 3.203}
+{'text': 'we witness in the\nrest of the narrative.', 'start': 2224.855, 'duration': 2.335}
+{'text': 'The opening introduces us to a\nbroader context with statistics', 'start': 2227.29, 'duration': 4.271}
+{'text': 'and a wide angle\nframe of the slum.', 'start': 2231.661, 'duration': 2.503}
+{'text': 'For the rest of the narrative,\nthe actual slum disappears.', 'start': 2234.264, 'duration': 3.37}
+{'text': 'This is a sequence\nfrom the reform', 'start': 2237.734, 'duration': 1.602}
+{'text': 'school, where Pixote is sent.', 'start': 2239.436, 'duration': 1.969}
+{'text': '[video playback]', 'start': 2241.505, 'duration': 3.27}
+{'text': '[voice on radio]', 'start': 2244.875, 'duration': 2.036}
+{'text': '[dog barking]', 'start': 2248.478, 'duration': 2.904}
+{'text': '- Drawn up by\nPresident Figueiredo', 'start': 2269.3, 'duration': 2.402}
+{'text': 'and on the bond of\nfriendship which unites', 'start': 2271.802, 'duration': 3.803}
+{'text': 'Brazil and Uruguay.', 'start': 2275.705, 'duration': 2.103}
+{'text': '- Violence on the streets of\nSao Paolo increases daily.', 'start': 2277.908, 'duration': 3.537}
+{'text': 'At dawn, the body\nof LCB was found.', 'start': 2281.545, 'duration': 4.171}
+{'text': 'He had been missing\nfor two weeks.', 'start': 2285.816, 'duration': 1.535}
+{'text': 'The director of the institute\nexplained to our reporters.', 'start': 2287.451, 'duration': 4.571}
+{'text': '- Fights are frequent\nbetween the children,', 'start': 2292.123, 'duration': 3.669}
+{'text': 'mostly due to their\nsocial background.', 'start': 2295.892, 'duration': 2.203}
+{'text': 'Concerning the boy\nwho was found dead,', 'start': 2298.195, 'duration': 3.47}
+{'text': 'I have been informed that he\nhad been brutally beaten up', 'start': 2301.765, 'duration': 6.24}
+{'text': 'by one of his colleagues\nand that the attacker has', 'start': 2308.105, 'duration': 4.871}
+{'text': 'been identified.', 'start': 2313.076, 'duration': 2.67}
+{'text': '- His assailant, a minor,\nhas a police record', 'start': 2315.846, 'duration': 4.671}
+{'text': 'of armed robbery,\nassault, and one homicide,', 'start': 2320.618, 'duration': 3.403}
+{'text': 'a typical juvenile delinquent.', 'start': 2324.121, 'duration': 2.602}
+{'text': "- I don't know.", 'start': 2326.823, 'duration': 1.402}
+{'text': "I really don't know.", 'start': 2328.325, 'duration': 2.67}
+{'text': "I went and he wasn't there.", 'start': 2331.095, 'duration': 1.001}
+{'text': 'They told me he had run away.', 'start': 2334.965, 'duration': 1.102}
+{'text': 'Then they told me he\nwas in the infirmary.', 'start': 2339.703, 'duration': 1.636}
+{'text': 'Then a boy told\nme that was a lie,', 'start': 2345.675, 'duration': 5.74}
+{'text': 'that the police had got him.', 'start': 2351.515, 'duration': 2.669}
+{'text': "I don't know who's to blame.", 'start': 2354.284, 'duration': 1.435}
+{'text': '[crying] I just want my son.', 'start': 2355.819, 'duration': 4.905}
+{'text': "I think this institution's\npretty mysterious.", 'start': 2360.825, 'duration': 4.371}
+{'text': "The boy's mother saw it.", 'start': 2365.296, 'duration': 3.202}
+{'text': 'And I did see the boy\nin a terrible state.', 'start': 2368.598, 'duration': 3.371}
+{'text': "He couldn't have taken a step.", 'start': 2372.069, 'duration': 1.134}
+{'text': 'How could he have run away?', 'start': 2373.303, 'duration': 1.035}
+{'text': "- It's enough.", 'start': 2377.207, 'duration': 1.435}
+{'text': 'Everyone to bed.', 'start': 2378.742, 'duration': 0.567}
+{'text': '[end playback]', 'start': 2379.409, 'duration': 1.368}
+{'text': 'Notice how the media here is a\nmediator between a public world', 'start': 2380.877, 'duration': 4.205}
+{'text': 'and the reform school.', 'start': 2385.182, 'duration': 1.535}
+{'text': "The film's context of\ncorruption, violence, and crime", 'start': 2386.817, 'duration': 4.07}
+{'text': 'is a threat the children begin\nto understand after they hear', 'start': 2390.987, 'duration': 3.838}
+{'text': 'this telecast on television.', 'start': 2394.925, 'duration': 2.202}
+{'text': 'It is ironic that the boy who\nplayed Pixote, Fernando Ramos', 'start': 2397.227, 'duration': 3.07}
+{'text': 'da Silva, went back to\nthe streets after the film', 'start': 2400.397, 'duration': 3.67}
+{'text': 'was over and was\nultimately killed', 'start': 2404.167, 'duration': 2.136}
+{'text': 'by police bullets in 1987.', 'start': 2406.403, 'duration': 3.703}
+{'text': 'In Los Olvidados, the film that\ninfluenced both Salaam Bombay', 'start': 2410.206, 'duration': 3.737}
+{'text': 'and Pixoote, the\nopening sequence', 'start': 2414.044, 'duration': 2.002}
+{'text': 'introduces us to the\nport of New York,', 'start': 2416.146, 'duration': 2.536}
+{'text': 'the island of Manhattan\nwith its skyscrapers,', 'start': 2418.783, 'duration': 2.869}
+{'text': 'the Eiffel Tower in\nParis, Big Ben in London,', 'start': 2421.752, 'duration': 3.436}
+{'text': 'and then downtown Mexico City.', 'start': 2425.288, 'duration': 3.137}
+{'text': "Bunuel's vision is informed\nby a healthy holism", 'start': 2428.525, 'duration': 3.203}
+{'text': 'for whom poverty\nand the poor are', 'start': 2431.829, 'duration': 1.634}
+{'text': 'shown in the unrefined\nreality of urban misery.', 'start': 2433.564, 'duration': 6.706}
+{'text': '[video playback]', 'start': 2440.37, 'duration': 2.803}
+{'text': '- The great modern cities,\nNew York, Paris, London,', 'start': 2443.273, 'duration': 4.438}
+{'text': 'hide behind their\nmagnificent buildings', 'start': 2447.811, 'duration': 1.569}
+{'text': 'homes of misery that shelter\nmalnourished children,', 'start': 2449.48, 'duration': 3.203}
+{'text': 'without hygiene, without\nschools, a harvest', 'start': 2452.783, 'duration': 2.102}
+{'text': 'of future delinquency.', 'start': 2454.985, 'duration': 2.669}
+{'text': 'The society tries to\ncorrect this evil.', 'start': 2457.754, 'duration': 1.935}
+{'text': 'But the success of its\nefforts is very limited.', 'start': 2459.79, 'duration': 2.736}
+{'text': "Only if in a near\nfuture children's", 'start': 2462.626, 'duration': 1.367}
+{'text': "and adolescents' rights\nare vindicated will they", 'start': 2464.094, 'duration': 3.07}
+{'text': 'be useful for society.', 'start': 2467.264, 'duration': 2.669}
+{'text': 'Mexico, the great modern\ncity, is not an exception', 'start': 2470.033, 'duration': 2.503}
+{'text': 'to this universal rue.', 'start': 2472.636, 'duration': 2.068}
+{'text': "That's why this film based\non facts from real life", 'start': 2474.804, 'duration': 2.537}
+{'text': 'is not optimistic.', 'start': 2477.441, 'duration': 1.535}
+{'text': 'And it leaves the\nsolution to the problem', 'start': 2479.076, 'duration': 2.002}
+{'text': "to society's progressive forces.", 'start': 2481.178, 'duration': 1.768}
+{'text': '[children playing]', 'start': 2483.046, 'duration': 2.837}
+{'text': '[drum beating]', 'start': 2493.323, 'duration': 3.804}
+{'text': '[end playback]', 'start': 2497.227, 'duration': 1.401}
+{'text': "Bunuel's project was\nclear, a demystification", 'start': 2498.728, 'duration': 3.037}
+{'text': 'of poverty, camera\nwork that went', 'start': 2501.865, 'duration': 2.303}
+{'text': 'against the usual\ntechniques of social films.', 'start': 2504.268, 'duration': 3.069}
+{'text': 'The film mocks its\naudience, savagely', 'start': 2507.437, 'duration': 2.336}
+{'text': 'denying any space for\nmiddle class sentiments', 'start': 2509.874, 'duration': 2.869}
+{'text': "as it narrates the brutalized\nexperiences of Mexico's", 'start': 2512.843, 'duration': 3.17}
+{'text': 'urban delinquents.', 'start': 2516.113, 'duration': 1.501}
+{'text': 'The use of these postcard and\naerial views in the opening', 'start': 2517.714, 'duration': 2.903}
+{'text': 'sequence was to address\na Mexican audience', 'start': 2520.717, 'duration': 3.137}
+{'text': 'about the existence\nof slums everywhere.', 'start': 2523.954, 'duration': 2.736}
+{'text': 'Bunuel here was\nsquarely negotiating', 'start': 2526.79, 'duration': 2.602}
+{'text': 'the anxious nationalism\nof third world elites', 'start': 2529.493, 'duration': 3.003}
+{'text': 'about the global\ncirculation of films', 'start': 2532.596, 'duration': 2.169}
+{'text': 'depicting poverty\nin their country.', 'start': 2534.865, 'duration': 4.637}
+{'text': 'Pedro, one of the\nprotagonists in the film,', 'start': 2539.603, 'duration': 2.936}
+{'text': 'is sent to reform school\nby his unfeeling mother', 'start': 2542.64, 'duration': 3.736}
+{'text': 'for a crime he did not commit.', 'start': 2546.476, 'duration': 2.036}
+{'text': 'He escapes from there\nto make his way back', 'start': 2548.612, 'duration': 2.135}
+{'text': 'to a fugitive life.', 'start': 2550.847, 'duration': 1.569}
+{'text': 'He is finally killed by his\nfriend from the street gang', 'start': 2552.516, 'duration': 3.47}
+{'text': 'that they were all part of.', 'start': 2556.086, 'duration': 1.668}
+{'text': 'The body is discovered\nby people who know Pedro.', 'start': 2557.854, 'duration': 2.87}
+{'text': 'But fear of being\nimplicated in the crime', 'start': 2560.824, 'duration': 2.535}
+{'text': 'leads them to wrap him\nunceremoniously in a bag', 'start': 2563.46, 'duration': 3.203}
+{'text': 'and throw him down\na garbage dump.', 'start': 2566.763, 'duration': 3.403}
+{'text': '[video playback]', 'start': 2570.266, 'duration': 1.869}
+{'text': '- Good evening.', 'start': 2572.235, 'duration': 1.402}
+{'text': '- Good evening.', 'start': 2573.737, 'duration': 2.903}
+{'text': '[dramatic music]', 'start': 2576.74, 'duration': 3.871}
+{'text': '[playback ends]', 'start': 2626.523, 'duration': 1.168}
+{'text': 'While these three very\nsignificant films on childhood', 'start': 2627.791, 'duration': 2.302}
+{'text': 'are distinctly different\nin their approach,', 'start': 2630.193, 'duration': 2.703}
+{'text': 'together they offer a\nset of interventions', 'start': 2632.996, 'duration': 2.336}
+{'text': "on the slum child's existence.", 'start': 2635.432, 'duration': 2.403}
+{'text': 'In these slice-of-life\nnarratives,', 'start': 2637.935, 'duration': 2.202}
+{'text': 'events act upon the\nchildren and their bodies.', 'start': 2640.237, 'duration': 3.036}
+{'text': 'Despite their very\ndifferent styles,', 'start': 2643.373, 'duration': 2.202}
+{'text': 'a binding element\nin the three films', 'start': 2645.675, 'duration': 2.837}
+{'text': 'is the influence of\nItalian neorealism.', 'start': 2648.612, 'duration': 2.836}
+{'text': 'Let me quickly describe\nsome of the features', 'start': 2651.548, 'duration': 2.035}
+{'text': 'of this cinematic\nstyle, which emerged', 'start': 2653.683, 'duration': 2.236}
+{'text': 'in the context of post-war\ndevastation in Italy', 'start': 2656.019, 'duration': 3.303}
+{'text': 'and soon became a global\ndebate about realism and cinema', 'start': 2659.422, 'duration': 3.337}
+{'text': 'in the decades to follow.', 'start': 2662.859, 'duration': 1.235}
+{'text': 'Where am I?', 'start': 2666.93, 'duration': 0.868}
+{'text': '[laughs] In the\ndecades to follow--', 'start': 2667.898, 'duration': 3.303}
+{'text': 'neorealists were\ncommitted to a notion', 'start': 2671.301, 'duration': 2.036}
+{'text': 'of the everyday [inaudible].', 'start': 2673.437, 'duration': 2.469}
+{'text': 'One of its theorists,\nCesare Zavattini,', 'start': 2676.006, 'duration': 3.036}
+{'text': "referred to it as a\ndailiness of people's lives.", 'start': 2679.142, 'duration': 3.271}
+{'text': 'The camera should just\nenter the ongoing unfolding', 'start': 2682.513, 'duration': 3.303}
+{'text': 'of reality as a guest.', 'start': 2685.916, 'duration': 1.734}
+{'text': 'Neorealists believed in\nan unconditional focus', 'start': 2687.751, 'duration': 3.336}
+{'text': "on the present, to explore how\npeople's actions were shaped", 'start': 2691.187, 'duration': 3.471}
+{'text': 'by necessity and circumstances.', 'start': 2694.758, 'duration': 2.803}
+{'text': 'Real locations,\nstreet images, the use', 'start': 2697.661, 'duration': 2.902}
+{'text': 'of nonprofessional actors, and\nan analytical documentary style', 'start': 2700.663, 'duration': 4.239}
+{'text': 'became the chief characteristics\nof the realist mode.', 'start': 2705.002, 'duration': 3.903}
+{'text': 'There was a belief here in\nthe ontological wholeness', 'start': 2709.005, 'duration': 3.337}
+{'text': 'of the reality being filmed.', 'start': 2712.442, 'duration': 1.902}
+{'text': 'They preferred the long take\nand depth in cinematography', 'start': 2714.444, 'duration': 4.672}
+{'text': 'and did not appreciate\nthe use of montage', 'start': 2719.216, 'duration': 2.869}
+{'text': 'or any other\nstylization generated', 'start': 2722.185, 'duration': 2.536}
+{'text': 'at the post-production stage.', 'start': 2724.821, 'duration': 2.269}
+{'text': 'Nair, Bunuel, and Babenco\nused nonprofessional actors,', 'start': 2727.19, 'duration': 4.504}
+{'text': 'along with an overt use of many\nof the well-known conventions', 'start': 2731.794, 'duration': 3.705}
+{'text': 'of Italian neorealism.', 'start': 2735.599, 'duration': 1.935}
+{'text': 'The aerial view was\nironically structured', 'start': 2737.634, 'duration': 3.503}
+{'text': 'in two of these films\nwith a clear belief', 'start': 2741.237, 'duration': 3.204}
+{'text': 'that observation from an\nexternalized point of view', 'start': 2744.541, 'duration': 3.404}
+{'text': 'was perhaps the best way to\ncapture a sense of reality.', 'start': 2748.045, 'duration': 3.67}
+{'text': "Bunuel's Los Olvidados,\nhowever, played", 'start': 2751.815, 'duration': 2.869}
+{'text': 'with surrealistic elements\nand remained unsentimental', 'start': 2754.784, 'duration': 3.871}
+{'text': 'till the end.', 'start': 2758.755, 'duration': 1.068}
+{'text': 'He was clear about\nthe role of the camera', 'start': 2759.923, 'duration': 2.369}
+{'text': 'and did not want to\nexpress some naive', 'start': 2762.392, 'duration': 2.135}
+{'text': 'discourse on authentic reality.', 'start': 2764.627, 'duration': 2.337}
+{'text': 'It is perhaps this\nfilm that in some ways', 'start': 2767.064, 'duration': 2.602}
+{'text': 'offers us the entry\npoint for a discussion', 'start': 2769.766, 'duration': 3.203}
+{'text': 'of the hypersensory drives of\nboth Slumdog and City of God.', 'start': 2773.069, 'duration': 5.072}
+{'text': 'The most significant\nelement in both films', 'start': 2778.241, 'duration': 2.636}
+{'text': 'is the movement between\npast and present', 'start': 2780.977, 'duration': 3.07}
+{'text': 'and the stylized use of\nflashbacks, techniques', 'start': 2784.148, 'duration': 3.035}
+{'text': 'that neorealism did not deploy.', 'start': 2787.283, 'duration': 2.803}
+{'text': 'In both films, the\nchildren grew up.', 'start': 2790.186, 'duration': 2.07}
+{'text': 'And the temporal play between\nchildhood and the present', 'start': 2792.356, 'duration': 3.369}
+{'text': 'offers an unusual instance\nof embodied knowledge', 'start': 2795.825, 'duration': 3.27}
+{'text': 'that is foregrounded as a\ndeep and felt experience,', 'start': 2799.195, 'duration': 4.706}
+{'text': 'yet there is no\nfixed identity that', 'start': 2804.001, 'duration': 2.001}
+{'text': 'emerges since we have\ntwo sets of characters', 'start': 2806.103, 'duration': 2.802}
+{'text': 'in each film, both\nfollowing different parts,', 'start': 2809.006, 'duration': 3.202}
+{'text': 'despite a common and\nshared experience.', 'start': 2812.308, 'duration': 2.903}
+{'text': 'They are not sociological\ntypes but subjects', 'start': 2815.312, 'duration': 2.869}
+{'text': 'who approach life differently.', 'start': 2818.281, 'duration': 2.502}
+{'text': 'Close to the end of City of\nGod, Rocket, the narrator', 'start': 2820.883, 'duration': 3.371}
+{'text': 'of the film, is confronted\nwith a dramatic moment when', 'start': 2824.354, 'duration': 2.937}
+{'text': 'the police suddenly\narrive and start', 'start': 2827.391, 'duration': 2.135}
+{'text': "to round up the gang's leaders.", 'start': 2829.626, 'duration': 2.202}
+{'text': "Li's Ze is one of the\nfigures who is arrested,", 'start': 2831.929, 'duration': 3.703}
+{'text': 'only to be taken\nto a secluded place', 'start': 2835.732, 'duration': 3.47}
+{'text': 'where a deal is struck\nfor his release.', 'start': 2839.302, 'duration': 3.003}
+{'text': 'All this is captured by\nRocket on his camera.', 'start': 2842.406, 'duration': 3.136}
+{'text': "This is something he's\nable to do primarily", 'start': 2845.642, 'duration': 2.769}
+{'text': 'because of his embodied\nknowledge of the space.', 'start': 2848.512, 'duration': 3.036}
+{'text': 'Let me show you a clip\nfirst before I offer', 'start': 2851.648, 'duration': 2.102}
+{'text': 'my thoughts on the sequence.', 'start': 2853.85, 'duration': 3.337}
+{'text': '[video playback]', 'start': 2857.287, 'duration': 1.368}
+{'text': '[background voices]', 'start': 2858.755, 'duration': 2.837}
+{'text': '- Rocket, where are you going?', 'start': 2873.503, 'duration': 1.502}
+{'text': '- I got something closer up.', 'start': 2875.105, 'duration': 1.068}
+{'text': '[distant yelling]', 'start': 2896.693, 'duration': 2.869}
+{'text': '[car screeching to a stop]', 'start': 2899.662, 'duration': 2.904}
+{'text': '- OK, lovebirds.', 'start': 2909.105, 'duration': 1.435}
+{'text': "- Come on, Li'l Ze.", 'start': 2910.64, 'duration': 0.935}
+{'text': "Let's go settle our scores.", 'start': 2911.675, 'duration': 3.236}
+{'text': 'Not you.', 'start': 2915.011, 'duration': 0.734}
+{'text': "you're a present for the media.", 'start': 2915.845, 'duration': 3.67}
+{'text': '[trunk slamming]', 'start': 2919.615, 'duration': 2.871}
+{'text': '[background voices]', 'start': 2925.588, 'duration': 3.371}
+{'text': '[camera whirring and clicking]', 'start': 2938.501, 'duration': 2.87}
+{'text': '[footsteps]', 'start': 2947.944, 'duration': 2.87}
+{'text': '- Does it come to 10,000?', 'start': 2955.918, 'duration': 1.535}
+{'text': '- Almost.', 'start': 2957.554, 'duration': 0.534}
+{'text': "That's all I have.", 'start': 2958.188, 'duration': 2.035}
+{'text': "- That's all there was, Chief.", 'start': 2960.323, 'duration': 1.335}
+{'text': "- We've searched everywhere.", 'start': 2961.758, 'duration': 1.535}
+{'text': '- Let him go.', 'start': 2963.393, 'duration': 0.434}
+{'text': '- What about his ring?', 'start': 2971.368, 'duration': 0.967}
+{'text': 'Is it gold?', 'start': 2972.435, 'duration': 1.034}
+{'text': '- Fill it up.', 'start': 2973.569, 'duration': 1.035}
+{'text': "You'll owe us the rest.", 'start': 2974.704, 'duration': 0.935}
+{'text': '[crash]', 'start': 2982.579, 'duration': 0.834}
+{'text': '- Fucking [non-english].', 'start': 2983.513, 'duration': 1.334}
+{'text': '[dog squealing]', 'start': 2984.947, 'duration': 2.603}
+{'text': '[non-english]', 'start': 2987.65, 'duration': 3.003}
+{'text': "- You're fucked, eh?", 'start': 2990.753, 'duration': 2.837}
+{'text': '- Kids.', 'start': 2993.69, 'duration': 1.301}
+{'text': "We'll have to do a few hold-ups\nto get my business going again.", 'start': 2995.091, 'duration': 3.57}
+{'text': "- Your business, Li'l Ze?", 'start': 2998.761, 'duration': 1.202}
+{'text': "- What's your problem, kid?", 'start': 3000.063, 'duration': 2.102}
+{'text': '- This is for our\nfriend, motherfucker.', 'start': 3002.265, 'duration': 1.835}
+{'text': '[gunshot]', 'start': 3004.201, 'duration': 0.9}
+{'text': 'A Soviet attack!', 'start': 3005.201, 'duration': 1.701}
+{'text': '[gunfire]', 'start': 3007.003, 'duration': 2.903}
+{'text': '- The business is ours!', 'start': 3015.445, 'duration': 0.901}
+{'text': '[kids yelling]', 'start': 3016.446, 'duration': 3.37}
+{'text': '[frenetic music]', 'start': 3027.89, 'duration': 2.871}
+{'text': '[camera whir]', 'start': 3050.746, 'duration': 2.871}
+{'text': '[playback ends]', 'start': 3061.591, 'duration': 1.034}
+{'text': 'So we see Rocket running\nthrough the favela space', 'start': 3062.726, 'duration': 2.468}
+{'text': 'with great confidence, a\nmaze of decrepit walls,', 'start': 3065.295, 'duration': 3.436}
+{'text': 'unclean streets,\nrooftops, and garbage.', 'start': 3068.831, 'duration': 3.27}
+{'text': 'His camera captures\nthe backdoor deals', 'start': 3072.201, 'duration': 2.036}
+{'text': "between the cops and Li'l Ze.", 'start': 3074.337, 'duration': 2.269}
+{'text': "This is immediately\nfollowed by Li'l Ze's murder", 'start': 3076.706, 'duration': 2.936}
+{'text': 'by a rival gang of younger\nkids known as The Runts.', 'start': 3079.742, 'duration': 4.005}
+{'text': 'The camera is a\nprotagonist here precisely', 'start': 3083.847, 'duration': 2.235}
+{'text': 'because it is in the\nhands of Rocket, who', 'start': 3086.182, 'duration': 2.202}
+{'text': 'knows how to navigate\nthe favela and draw', 'start': 3088.484, 'duration': 2.736}
+{'text': 'on his embodied knowledge\nof it to get the best', 'start': 3091.32, 'duration': 2.67}
+{'text': 'possible pictures he can.', 'start': 3094.09, 'duration': 2.836}
+{'text': 'Making the world of\nthe favela visible', 'start': 3097.026, 'duration': 3.037}
+{'text': 'is dependent on who\nis photographing it.', 'start': 3100.163, 'duration': 2.802}
+{'text': "Once Li'l Ze is\nkilled, the camera", 'start': 3103.065, 'duration': 2.337}
+{'text': 'goes into a frenzied\nstate to finally', 'start': 3105.502, 'duration': 2.168}
+{'text': 'show us his dead body on the\nground from the point of view', 'start': 3107.77, 'duration': 3.971}
+{'text': 'of the camera that Rocket has.', 'start': 3111.841, 'duration': 2.135}
+{'text': 'His speedy return to the\nsite of the body this time', 'start': 3114.076, 'duration': 3.571}
+{'text': 'is presented like\nan abstract blur.', 'start': 3117.747, 'duration': 3.036}
+{'text': 'The details of the same\njourney made earlier', 'start': 3120.883, 'duration': 2.603}
+{'text': 'is now rendered abstract.', 'start': 3123.586, 'duration': 1.969}
+{'text': 'Perhaps the blurred\nform is asking', 'start': 3125.655, 'duration': 2.102}
+{'text': 'us to reflect on the nature\nof embodied experience, which', 'start': 3127.857, 'duration': 3.336}
+{'text': "is showcased first\nthrough Rocket's run", 'start': 3131.293, 'duration': 2.57}
+{'text': 'to the exact location from\nwhere he can get his pictures', 'start': 3133.963, 'duration': 4.504}
+{'text': 'and then make visible\ninto an abstract loop.', 'start': 3138.568, 'duration': 5.105}
+{'text': 'In Slumdog, all the\nanswers that Jamal provides', 'start': 3143.773, 'duration': 3.27}
+{'text': 'are drawn from his own\nembodied experience of life.', 'start': 3147.143, 'duration': 3.603}
+{'text': "In a sequence early\nin the film, he's", 'start': 3150.846, 'duration': 2.003}
+{'text': 'asked a question\nabout the god Ram.', 'start': 3152.949, 'duration': 2.97}
+{'text': 'And we are taken to a powerful\nmoment from his childhood.', 'start': 3156.019, 'duration': 3.603}
+{'text': "Jamal's mother is washing\nclothes inside a water tank", 'start': 3159.722, 'duration': 3.303}
+{'text': 'at the center of the slum,\nher two children playing', 'start': 3163.125, 'duration': 2.937}
+{'text': 'in the water.', 'start': 3166.162, 'duration': 1.134}
+{'text': 'Let me show you\nthe sequence now.', 'start': 3167.396, 'duration': 2.203}
+{'text': '[video playback]', 'start': 3169.699, 'duration': 1.869}
+{'text': '[train whistle]', 'start': 3177.673, 'duration': 1.402}
+{'text': '[distant voices]', 'start': 3179.175, 'duration': 3.404}
+{'text': '[voices fade]', 'start': 3200.63, 'duration': 3.404}
+{'text': '- [muffled voice] Run, Jamal!', 'start': 3214.11, 'duration': 1.868}
+{'text': 'Run!', 'start': 3216.078, 'duration': 0.401}
+{'text': 'Salim, Jamal, run!', 'start': 3221.084, 'duration': 2.903}
+{'text': "- They're Muslim.", 'start': 3227.09, 'duration': 0.867}
+{'text': 'Get them!', 'start': 3228.058, 'duration': 0.901}
+{'text': '- Come on, Salim.', 'start': 3232.061, 'duration': 1.902}
+{'text': 'Come on.', 'start': 3234.063, 'duration': 0.401}
+{'text': "- Jamal, let's go.", 'start': 3237.8, 'duration': 0.635}
+{'text': '[yelling]', 'start': 3241.538, 'duration': 5.405}
+{'text': '[baby crying]', 'start': 3247.043, 'duration': 3.37}
+{'text': '[muffled background yelling]', 'start': 3256.019, 'duration': 2.903}
+{'text': '- Run!', 'start': 3269.499, 'duration': 0.4}
+{'text': "- Let's run!", 'start': 3283.012, 'duration': 0.401}
+{'text': '[screaming]', 'start': 3288.484, 'duration': 3.371}
+{'text': '- Hey, get lost!', 'start': 3295.424, 'duration': 1.903}
+{'text': 'Why are you standing?', 'start': 3297.427, 'duration': 0.901}
+{'text': 'Go home.', 'start': 3298.428, 'duration': 0.4}
+{'text': '- Go, Jamal.', 'start': 3304.367, 'duration': 0.767}
+{'text': '- Come with us.', 'start': 3305.234, 'duration': 0.535}
+{'text': '- Wake up every\nmorning, wishing I', 'start': 3318.247, 'duration': 1.335}
+{'text': "didn't know the answer\nto that question.", 'start': 3319.682, 'duration': 1.569}
+{'text': "If it wasn't for\nRamah and Allah,", 'start': 3325.955, 'duration': 3.47}
+{'text': 'I would still have a mother.', 'start': 3329.525, 'duration': 2.202}
+{'text': '[dramatic music]', 'start': 3331.827, 'duration': 2.303}
+{'text': '[playback ends]', 'start': 3338.501, 'duration': 1.368}
+{'text': 'The sequence that we just\nsaw begins with a high angle', 'start': 3339.969, 'duration': 3.17}
+{'text': 'perspective with the camera\npanning from the trains', 'start': 3343.239, 'duration': 2.469}
+{'text': 'to the water tank.', 'start': 3345.808, 'duration': 1.402}
+{'text': 'The public activity of bathing\nand fun for the children', 'start': 3347.31, 'duration': 3.337}
+{'text': 'is suddenly interrupted\nby the train scene', 'start': 3350.747, 'duration': 2.102}
+{'text': "from Jamal's mother's\npoint of view.", 'start': 3352.949, 'duration': 2.335}
+{'text': 'Before she sees the\nrioters, she displays', 'start': 3355.384, 'duration': 2.536}
+{'text': 'an instinctive knowledge of\nsomething that appears amiss.', 'start': 3358.02, 'duration': 4.405}
+{'text': 'She just about manages\nto warn her children', 'start': 3362.525, 'duration': 2.268}
+{'text': 'before she is bludgeoned\nto death by the rioters.', 'start': 3364.894, 'duration': 3.37}
+{'text': 'As the children run\nthrough the slum,', 'start': 3368.364, 'duration': 1.968}
+{'text': 'they witness a\nseries of events--', 'start': 3370.432, 'duration': 2.103}
+{'text': 'the house been burnt, a man on\nfire, stabbing, the looting,', 'start': 3372.635, 'duration': 4.571}
+{'text': 'and the cops\nsitting in their van', 'start': 3377.306, 'duration': 1.702}
+{'text': 'with no intention of\nintervening to stop the riot.', 'start': 3379.108, 'duration': 3.603}
+{'text': 'These moments are woven into\nthe fabric of the sequence', 'start': 3382.811, 'duration': 3.07}
+{'text': 'as the language of\narchitecture, news photography,', 'start': 3385.981, 'duration': 3.504}
+{'text': "uncanny intrusions,\nand the children's", 'start': 3389.585, 'duration': 2.402}
+{'text': 'bewildered expressions\nprovide the aesthetic form', 'start': 3392.087, 'duration': 3.304}
+{'text': 'for the expression of violence.', 'start': 3395.491, 'duration': 2.203}
+{'text': 'We then return to Jamal\nnow in the studio,', 'start': 3397.794, 'duration': 2.668}
+{'text': 'his face marked by\na grave expression,', 'start': 3400.562, 'duration': 2.637}
+{'text': 'a violent moment from the\npast vividly felt even today.', 'start': 3403.299, 'duration': 4.371}
+{'text': 'Jamal now gets his answer right.', 'start': 3407.77, 'duration': 2.236}
+{'text': 'The specter of Ram,\nthe reference to Allah,', 'start': 3410.106, 'duration': 3.036}
+{'text': 'are all drawn into\nhis complex account', 'start': 3413.242, 'duration': 3.104}
+{'text': 'of a life seen in the slums.', 'start': 3416.446, 'duration': 2.268}
+{'text': 'As he relays his\nanswer to the TV show,', 'start': 3418.814, 'duration': 2.636}
+{'text': 'the spectator is made\naware of the nature', 'start': 3421.55, 'duration': 2.303}
+{'text': 'of embodied experience,\nfelt and relayed as memory.', 'start': 3423.953, 'duration': 3.937}
+{'text': 'In doing this, Danny Boyle is\nprivileging the sensory world', 'start': 3427.99, 'duration': 3.804}
+{'text': 'of the slum inhabitant\nand moving away', 'start': 3431.894, 'duration': 2.636}
+{'text': 'from a realist and objectivist\naccount of life in the slums.', 'start': 3434.63, 'duration': 4.705}
+{'text': 'Both films offer descriptions\nof sites and spaces', 'start': 3439.435, 'duration': 3.437}
+{'text': 'which are conveyed through\nthe language of memory.', 'start': 3442.972, 'duration': 2.736}
+{'text': 'The recognition that\nthe catastrophes', 'start': 3445.808, 'duration': 2.336}
+{'text': 'of the past, present,\nand future are', 'start': 3448.244, 'duration': 2.202}
+{'text': 'located in the\nspaces of the city', 'start': 3450.546, 'duration': 2.236}
+{'text': 'saturates the overall\nvision of the films.', 'start': 3452.882, 'duration': 2.937}
+{'text': 'The shadow of death and\nplay creates an intersection', 'start': 3455.919, 'duration': 3.536}
+{'text': 'between memory and\nsetting, time and place.', 'start': 3459.555, 'duration': 3.203}
+{'text': 'Memory gives form\nto the city just', 'start': 3462.858, 'duration': 2.403}
+{'text': 'as the city transforms memory.', 'start': 3465.361, 'duration': 2.469}
+{'text': 'Knowing a city\nwell is linked also', 'start': 3467.93, 'duration': 2.169}
+{'text': 'to childhood, the\nability to play out', 'start': 3470.199, 'duration': 2.836}
+{'text': 'the intersections between\nchildhood impressions', 'start': 3473.135, 'duration': 2.97}
+{'text': "and the adult's\nability to recall.", 'start': 3476.205, 'duration': 2.903}
+{'text': 'It is this interconnectedness\nof perspectives', 'start': 3479.209, 'duration': 3.503}
+{'text': 'that Walter Benjamin\nhad described so vividly', 'start': 3482.812, 'duration': 2.903}
+{'text': 'in his reflections on childhood\nas a conceptual framework', 'start': 3485.815, 'duration': 4.104}
+{'text': 'for urban memory.', 'start': 3490.019, 'duration': 1.501}
+{'text': 'The child provides\na disruptive vision', 'start': 3491.62, 'duration': 2.636}
+{'text': "that punctures the notion\nof the adult's recall", 'start': 3494.356, 'duration': 4.272}
+{'text': 'as stable and distant.', 'start': 3498.728, 'duration': 2.202}
+{'text': 'The perception of the\nchild, in a sense,', 'start': 3501.03, 'duration': 1.969}
+{'text': 'becomes a privileged\nmode of knowing.', 'start': 3503.099, 'duration': 2.402}
+{'text': 'But it is in the fullness of\ntime and the space of adulthood', 'start': 3505.601, 'duration': 4.038}
+{'text': 'that meaning is achieved\nretrospectively.', 'start': 3509.739, 'duration': 3.136}
+{'text': 'The significance\nof the past comes', 'start': 3512.975, 'duration': 1.802}
+{'text': 'to light only in the context\nof a pressing present.', 'start': 3514.877, 'duration': 3.737}
+{'text': 'It is the complex relationship\nbetween the memory', 'start': 3518.714, 'duration': 3.003}
+{'text': 'of a particular site and the\nsite of that particular memory', 'start': 3521.817, 'duration': 3.871}
+{'text': 'that is of immense importance in\nthe narratives of urban recall.', 'start': 3525.788, 'duration': 4.438}
+{'text': 'City of God and\nSlumdog Millionaire', 'start': 3530.326, 'duration': 2.402}
+{'text': 'are unique for the\nway they operate', 'start': 3532.828, 'duration': 2.169}
+{'text': 'through these\nlandscapes of memory.', 'start': 3535.097, 'duration': 2.402}
+{'text': 'They also draw on a form\nof mediatized language,', 'start': 3537.6, 'duration': 3.07}
+{'text': 'televisual liveness, music\ntelevision, news photography,', 'start': 3540.77, 'duration': 4.471}
+{'text': 'the use of digital effects.', 'start': 3545.341, 'duration': 2.135}
+{'text': 'These intermedial elements\ncreate their own sensorium,', 'start': 3547.576, 'duration': 3.67}
+{'text': 'which some have described\nas hyper-realism.', 'start': 3551.347, 'duration': 2.569}
+{'text': 'Both Slumdog and City of\nGod adopt a multimedia', 'start': 3554.017, 'duration': 4.237}
+{'text': 'expressivity.', 'start': 3558.354, 'duration': 1.368}
+{'text': 'And it is interesting how\nthe media itself is so', 'start': 3559.822, 'duration': 3.036}
+{'text': 'crucially placed in both films.', 'start': 3562.958, 'duration': 2.603}
+{'text': 'Jamal in Slumdog is speaking\nto us through television,', 'start': 3565.661, 'duration': 4.605}
+{'text': "while in City of\nGod, Rocket's memory", 'start': 3570.366, 'duration': 2.136}
+{'text': 'is channelized for the world\nthrough his photographs.', 'start': 3572.602, 'duration': 3.603}
+{'text': 'In City of God, the\nevents move at a pace', 'start': 3576.305, 'duration': 2.636}
+{'text': 'that becomes difficult to\nretain for the filmmaker.', 'start': 3579.041, 'duration': 3.27}
+{'text': 'There is a desire to\nrecognize the media', 'start': 3582.411, 'duration': 2.103}
+{'text': 'world and its circulation\nof popular culture,', 'start': 3584.614, 'duration': 3.003}
+{'text': 'to stage this entry\ninto slum life.', 'start': 3587.717, 'duration': 4.17}
+{'text': 'Through these intersections, the\nfilms make it clear that they', 'start': 3591.987, 'duration': 3.337}
+{'text': 'cannot transcend into a\nplanetary perspective.', 'start': 3595.425, 'duration': 3.57}
+{'text': 'Rather, life itself has\ncome to resemble the movies.', 'start': 3599.095, 'duration': 4.504}
+{'text': 'Igor Krstic, in fact, suggests a\nconnection between the gunshots', 'start': 3603.699, 'duration': 4.705}
+{'text': 'and the camera in City of God.', 'start': 3608.504, 'duration': 2.503}
+{'text': 'By drawing on a more general\ntendency of popular cinema,', 'start': 3611.107, 'duration': 3.704}
+{'text': 'particularly in popular\nmale action, horror, crime,', 'start': 3614.911, 'duration': 3.803}
+{'text': 'or gangster film\ngenres, the film', 'start': 3618.815, 'duration': 2.301}
+{'text': 'probes the ethical limits\nof representing violence', 'start': 3621.216, 'duration': 3.604}
+{'text': 'on screen.', 'start': 3624.921, 'duration': 0.967}
+{'text': 'Narrative itself\nfrays at the edges', 'start': 3625.988, 'duration': 2.536}
+{'text': 'as events bleed through\nwith great force.', 'start': 3628.624, 'duration': 3.203}
+{'text': 'I hope through the\npresentations today,', 'start': 3631.927, 'duration': 2.236}
+{'text': 'I have managed to foreground\nthe distinctly different logic', 'start': 3634.263, 'duration': 3.637}
+{'text': 'at work in the capture\nof slum life on screen.', 'start': 3638.001, 'duration': 5.938}
+{'text': 'Thank you.', 'start': 3644.04, 'duration': 1.334}
+{'text': '[applause]', 'start': 3645.475, 'duration': 2.903}
+{'text': '[inaudible]', 'start': 3656.452, 'duration': 0.901}
+{'text': "Well, I guess that's\na hard act to follow.", 'start': 3664.96, 'duration': 3.77}
+{'text': 'Thank you, Ranjani, for\nthe disturbing images.', 'start': 3668.831, 'duration': 5.138}
+{'text': 'The goal of our two\nand a half day venture', 'start': 3674.069, 'duration': 3.27}
+{'text': 'here is not to\ndisturb you entirely,', 'start': 3677.439, 'duration': 4.472}
+{'text': "although we don't mind\ndisturbing you a little bit,", 'start': 3682.011, 'duration': 2.102}
+{'text': 'but actually to provoke.', 'start': 3684.213, 'duration': 1.201}
+{'text': "And so I'm just going to\nthis as the first opportunity", 'start': 3685.514, 'duration': 2.836}
+{'text': "that I'll have to provoke you\nand say after watching this,", 'start': 3688.45, 'duration': 3.438}
+{'text': 'do we think that\nslums are a problem?', 'start': 3691.988, 'duration': 2.369}
+{'text': 'And the reason I ask\nthat is because if you', 'start': 3697.493, 'duration': 1.835}
+{'text': 'look at the way we have\nentitled this two and a half day', 'start': 3699.428, 'duration': 3.137}
+{'text': "adventure, it's nothing\nabout the problem of slums.", 'start': 3702.665, 'duration': 2.669}
+{'text': "But it's about an\nenduring phenomenon.", 'start': 3705.434, 'duration': 3.87}
+{'text': 'And so what if we imagine that\nslums are the answer, and then', 'start': 3709.404, 'duration': 6.807}
+{'text': 'the answer to what?', 'start': 3716.311, 'duration': 1.368}
+{'text': 'Because maybe their endurance\nis the illustration of a fact', 'start': 3717.779, 'duration': 6.04}
+{'text': 'that somebody benefits\nfrom their existence.', 'start': 3723.92, 'duration': 5.238}
+{'text': 'And those who benefit\nfrom their existence', 'start': 3729.258, 'duration': 1.635}
+{'text': 'have lots of reasons not\nto do things about slums.', 'start': 3730.993, 'duration': 4.638}
+{'text': 'We come to this discussion after\nmore than 100 years of attempts', 'start': 3735.731, 'duration': 3.804}
+{'text': 'to deal with slums and after\nmore than 200 years at least', 'start': 3739.635, 'duration': 3.737}
+{'text': 'of their existence\nat scale in cities.', 'start': 3743.472, 'duration': 3.07}
+{'text': "We haven't been able to do\nvery much over 100 years,", 'start': 3746.642, 'duration': 2.469}
+{'text': "although we've talked\na lot about it.", 'start': 3749.211, 'duration': 2.369}
+{'text': 'And so I have an idea that\nmaybe our account is wrong.', 'start': 3751.68, 'duration': 6.941}
+{'text': 'And maybe our account\nwraps around it', 'start': 3758.721, 'duration': 2.002}
+{'text': 'in narrative like the narrative\nthat film then reinforces', 'start': 3760.823, 'duration': 4.071}
+{'text': 'that then leaves us all feeling\nso numb and unable to act', 'start': 3764.994, 'duration': 5.071}
+{'text': 'that we just assume that\nthe problem is just either', 'start': 3770.165, 'duration': 3.203}
+{'text': 'too big to deal with\nor maybe we forget', 'start': 3773.468, 'duration': 3.371}
+{'text': 'that slums themselves\nactually represent', 'start': 3776.939, 'duration': 1.902}
+{'text': 'the answer to something.', 'start': 3778.941, 'duration': 0.934}
+{'text': 'But what is it?', 'start': 3779.975, 'duration': 1.168}
+{'text': "I don't know.", 'start': 3781.243, 'duration': 1.135}
+{'text': "But maybe we'll find out\nin the next couple of days.", 'start': 3782.478, 'duration': 2.969}
+{'text': "So I'm George McCarthy,\notherwise known", 'start': 3785.547, 'duration': 1.702}
+{'text': 'as Mac, the president\nat the Lincoln', 'start': 3787.349, 'duration': 1.101}
+{'text': 'Institute of Land Policy.', 'start': 3788.55, 'duration': 1.034}
+{'text': 'Now I want to welcome up\nto the stage to respond,', 'start': 3789.685, 'duration': 2.602}
+{'text': "as we're now going to have\nto make some sense out", 'start': 3792.387, 'duration': 1.97}
+{'text': 'of the horror that we just\nviewed-- and it was stunning,', 'start': 3794.457, 'duration': 4.103}
+{'text': 'I have to say, but chilling--', 'start': 3798.66, 'duration': 4.305}
+{'text': 'Brody, Brodwyn\nFischer, a professor', 'start': 3803.065, 'duration': 1.635}
+{'text': 'of history from the University\nof Chicago and Janice', 'start': 3804.8, 'duration': 4.471}
+{'text': 'Perlman-- oh, OK.', 'start': 3809.371, 'duration': 1.535}
+{'text': 'All right.', 'start': 3811.007, 'duration': 0.967}
+{'text': 'I guess I should have\ngone over there--', 'start': 3812.074, 'duration': 2.069}
+{'text': 'and Janice Perlman,\nthe president', 'start': 3814.243, 'duration': 1.402}
+{'text': 'of the Mega-Cities\nProject and researcher', 'start': 3815.745, 'duration': 3.77}
+{'text': 'at the Columbia University.', 'start': 3819.615, 'duration': 2.869}
+{'text': 'And so one of the things\nthat Ranjani showed', 'start': 3822.584, 'duration': 2.603}
+{'text': 'us is that how we view\nor where we view slums', 'start': 3825.288, 'duration': 4.87}
+{'text': 'are clearly an important\nfact, a point of view.', 'start': 3830.259, 'duration': 4.438}
+{'text': 'And part of the point of view\nof the way we look at them', 'start': 3834.797, 'duration': 2.402}
+{'text': 'are in still photos or even\nin images that only depict', 'start': 3837.299, 'duration': 3.57}
+{'text': 'kind of a moment in time.', 'start': 3840.969, 'duration': 1.468}
+{'text': 'And I think that\nmaybe it would be', 'start': 3842.537, 'duration': 1.336}
+{'text': 'useful to start with kind of\na more historic perspective', 'start': 3843.973, 'duration': 2.836}
+{'text': 'to actually put slums into a\nlonger frame, a longer vision.', 'start': 3846.909, 'duration': 4.505}
+{'text': 'And so Brody, maybe\nyou can give us', 'start': 3851.514, 'duration': 1.401}
+{'text': 'some reflections on what we\njust saw and provoke us further.', 'start': 3853.015, 'duration': 3.704}
+{'text': 'Thanks.', 'start': 3856.819, 'duration': 1.601}
+{'text': 'Thank you.', 'start': 3858.521, 'duration': 1.1}
+{'text': "It's an honor to be here\nand a pleasure especially", 'start': 3859.721, 'duration': 1.669}
+{'text': 'to share the stage with this\nwonderful three colleagues.', 'start': 3861.49, 'duration': 4.838}
+{'text': 'We have very little time.', 'start': 3866.428, 'duration': 1.001}
+{'text': "So I'm going to get\nstraight to the point.", 'start': 3867.529, 'duration': 1.602}
+{'text': 'As a historian of Latin\nAmerica and Brazil,', 'start': 3869.231, 'duration': 3.337}
+{'text': 'I would like to do three things\nin these quick comments--', 'start': 3872.668, 'duration': 2.802}
+{'text': "the first is to try to place the\ninformal city that we've just", 'start': 3875.57, 'duration': 3.438}
+{'text': 'seen in these filmic\nrepresentations both', 'start': 3879.108, 'duration': 2.669}
+{'text': 'in the context of time-- to\ntake us back in time and think', 'start': 3881.877, 'duration': 3.437}
+{'text': 'a little bit about cinema\nin the early stages,', 'start': 3885.414, 'duration': 2.803}
+{'text': 'particularly in Brazil--', 'start': 3888.317, 'duration': 1.401}
+{'text': 'and also to take it to\nthe realm of other kinds', 'start': 3889.819, 'duration': 4.971}
+{'text': 'of cultural representation\nand talk a little bit', 'start': 3894.89, 'duration': 1.902}
+{'text': 'about how film is very similar\nto other ways of representing', 'start': 3896.892, 'duration': 3.103}
+{'text': 'the favela that we can\nsee in other contexts', 'start': 3900.096, 'duration': 2.235}
+{'text': 'and other spaces.', 'start': 3902.431, 'duration': 1.268}
+{'text': "I'll then second\ngo on to talk about", 'start': 3903.799, 'duration': 1.868}
+{'text': 'what is the nature\nof the messages that', 'start': 3905.767, 'duration': 2.003}
+{'text': 'are coming from cultural\nproduction about the favela,', 'start': 3907.87, 'duration': 3.537}
+{'text': 'particularly in Brazil, but\nalso in this larger context?', 'start': 3911.507, 'duration': 3.137}
+{'text': "And lastly, I'd like to\ntalk a little bit about what", 'start': 3914.744, 'duration': 2.202}
+{'text': 'that has meant in terms of\nthe kinds of policies that', 'start': 3917.046, 'duration': 2.535}
+{'text': 'tend to be created on the basis\nof the images and the visions', 'start': 3919.681, 'duration': 3.604}
+{'text': 'that we see in film\nand that we see', 'start': 3923.385, 'duration': 1.668}
+{'text': 'in other cultural\nrepresentations.', 'start': 3925.153, 'duration': 2.937}
+{'text': "So it's actually\nreally a privilege", 'start': 3928.19, 'duration': 1.601}
+{'text': 'to be somebody who\nworks in Brazil', 'start': 3929.891, 'duration': 2.336}
+{'text': 'and to think about these issues,\nbecause Brazil has had places', 'start': 3932.327, 'duration': 3.738}
+{'text': 'that have been\nidentified as favelas,', 'start': 3936.165, 'duration': 2.235}
+{'text': 'as shantytowns, as informal\ncities, for almost exactly 120', 'start': 3938.5, 'duration': 4.271}
+{'text': 'years.', 'start': 3942.871, 'duration': 1.268}
+{'text': '1898 was the date that the first\nfavela was named in Brazil.', 'start': 3944.239, 'duration': 3.538}
+{'text': "It wasn't the first time\nthat that kind of settlement", 'start': 3947.877, 'duration': 2.102}
+{'text': 'existed.', 'start': 3950.079, 'duration': 1.0}
+{'text': 'But it was the first\ntime that it was named.', 'start': 3951.179, 'duration': 1.369}
+{'text': 'And importantly, that\nwas when it began', 'start': 3952.648, 'duration': 1.902}
+{'text': 'to be thought of as a problem.', 'start': 3954.65, 'duration': 1.901}
+{'text': 'And almost as soon as\nthat kind of neighborhood', 'start': 3956.651, 'duration': 3.271}
+{'text': 'began to be thought\nof by the elite,', 'start': 3960.022, 'duration': 2.002}
+{'text': 'by architects, by planners,\nby governors, as a problem,', 'start': 3962.124, 'duration': 3.203}
+{'text': 'then it started\nto be represented', 'start': 3965.427, 'duration': 1.402}
+{'text': 'in different kinds of media.', 'start': 3966.929, 'duration': 1.802}
+{'text': 'The first filmic representations\nof favelas in Brazil', 'start': 3968.831, 'duration': 3.504}
+{'text': 'are actually from the 1900s,\nfrom the very beginnings', 'start': 3972.435, 'duration': 3.169}
+{'text': 'of the genre of film\nin Brazil itself.', 'start': 3975.704, 'duration': 2.469}
+{'text': 'And they were not surprisingly\nrepresentations of Carnival.', 'start': 3978.273, 'duration': 3.237}
+{'text': 'Carnival came from the favelas.', 'start': 3981.61, 'duration': 2.402}
+{'text': 'And the music samba\ncame from the favelas.', 'start': 3984.112, 'duration': 3.003}
+{'text': 'And almost as soon\nas it began to make', 'start': 3987.215, 'duration': 1.836}
+{'text': 'its way into the\nstreets of Rio, you', 'start': 3989.151, 'duration': 1.802}
+{'text': 'began to have photographers\nand filmmakers', 'start': 3991.053, 'duration': 3.037}
+{'text': 'going and trying to catch\nsnippets of that live action.', 'start': 3994.19, 'duration': 3.469}
+{'text': 'You had the first\nactual lengthy film', 'start': 3997.759, 'duration': 2.503}
+{'text': 'devoted to the favela in 1926.', 'start': 4000.362, 'duration': 2.403}
+{'text': 'It was a rant\nagainst favelas that', 'start': 4002.865, 'duration': 1.868}
+{'text': 'was meant to justify\na removal campaign', 'start': 4004.833, 'duration': 2.87}
+{'text': 'by a member of the\nRotary Club and a very', 'start': 4007.803, 'duration': 2.569}
+{'text': 'important influential policy\nmaker named Mattos Pimenta.', 'start': 4010.472, 'duration': 5.205}
+{'text': 'And then in 1935, you had\nthe first long action drama,', 'start': 4015.777, 'duration': 5.306}
+{'text': 'not only that was the first\none to be set in the favela,', 'start': 4021.183, 'duration': 3.403}
+{'text': 'but a movie-- it was called\nFavela Dos Meus Amores-- that', 'start': 4024.686, 'duration': 3.136}
+{'text': 'was considered the very first\nserious dramatic national film', 'start': 4027.922, 'duration': 5.072}
+{'text': 'in Brazilian cinema.', 'start': 4033.094, 'duration': 1.236}
+{'text': "So it wasn't only the first\nrepresentation of a favela,", 'start': 4034.43, 'duration': 2.302}
+{'text': 'but it was actually\nthought to be', 'start': 4036.832, 'duration': 1.301}
+{'text': 'the beginning of\nthe representation', 'start': 4038.233, 'duration': 2.069}
+{'text': 'of some authentic vision of\nBrazil in the cinematic realm.', 'start': 4040.402, 'duration': 5.372}
+{'text': 'And that juxtaposition\nis very important.', 'start': 4045.874, 'duration': 2.235}
+{'text': "It isn't just a kind of external\nrepresentation of this place,", 'start': 4048.209, 'duration': 3.939}
+{'text': 'but an external representation\nof this place as something', 'start': 4052.248, 'duration': 3.036}
+{'text': 'that represents what\nBrazil is all about.', 'start': 4055.384, 'duration': 2.035}
+{'text': "And so that's a very\ninteresting difference,", 'start': 4057.519, 'duration': 1.735}
+{'text': "I think, between the\nfilms that we've just seen", 'start': 4059.354, 'duration': 2.569}
+{'text': 'and some of these early films.', 'start': 4062.023, 'duration': 2.537}
+{'text': 'It was followed in the 1950s\nwith two very important films', 'start': 4064.66, 'duration': 3.47}
+{'text': 'that are understood\nas the beginning', 'start': 4068.23, 'duration': 1.401}
+{'text': 'of cinematic realism in Brazil\nby Nelson Pereira dos Santos.', 'start': 4069.731, 'duration': 3.67}
+{'text': 'One of them in 1955 is\ncalled Rio 40 Graus--', 'start': 4073.502, 'duration': 2.969}
+{'text': 'so Rio 40 Degrees\nor 110 degrees--', 'start': 4076.571, 'duration': 4.004}
+{'text': 'and another one in 1957\ncalled Rio Zona Norte.', 'start': 4080.676, 'duration': 4.271}
+{'text': "And then, of course, there's\nthe very famous Orfeu Negro", 'start': 4085.047, 'duration': 2.236}
+{'text': 'in 1959.', 'start': 4087.383, 'duration': 1.0}
+{'text': 'And this series of\nfilms is actually', 'start': 4088.483, 'duration': 1.869}
+{'text': 'the beginnings of\nthe representations', 'start': 4090.452, 'duration': 1.502}
+{'text': 'of the favela in Brazil.', 'start': 4092.054, 'duration': 3.236}
+{'text': 'And it was coincident\nwith the beginnings', 'start': 4095.39, 'duration': 1.669}
+{'text': 'of these kinds of\nrepresentations in other parts', 'start': 4097.159, 'duration': 1.902}
+{'text': "of Latin America as well,\nalthough I don't have time", 'start': 4099.161, 'duration': 2.068}
+{'text': 'to talk about that.', 'start': 4101.329, 'duration': 2.002}
+{'text': "One of the things that's really\ninteresting about these films", 'start': 4103.431, 'duration': 3.27}
+{'text': 'is that they mimic in\nmany ways other forms', 'start': 4106.802, 'duration': 2.569}
+{'text': 'of cultural production.', 'start': 4109.471, 'duration': 1.402}
+{'text': 'So we have, for example, in\n1903, the very first example', 'start': 4110.973, 'duration': 3.169}
+{'text': 'of a chronicler who goes\nup to the hills of Rio', 'start': 4114.243, 'duration': 3.503}
+{'text': 'and wants to expose them\nto the rest of the world,', 'start': 4117.846, 'duration': 2.737}
+{'text': 'wants to tell everybody\nwhat these places are like.', 'start': 4120.683, 'duration': 2.969}
+{'text': 'That begins in 1903.', 'start': 4123.752, 'duration': 1.701}
+{'text': 'You also have samba, which is\na kind of popular journalism.', 'start': 4125.553, 'duration': 3.171}
+{'text': 'And its material,\nits prime material', 'start': 4128.824, 'duration': 2.502}
+{'text': 'from the very\nbeginning, is to tell', 'start': 4131.426, 'duration': 1.802}
+{'text': 'outsiders what the world\nof the favela is like.', 'start': 4133.329, 'duration': 2.935}
+{'text': "And this becomes, by the 1930s,\nBrazil's national music, right?", 'start': 4136.364, 'duration': 3.204}
+{'text': "And so Brazil's\nnational music is", 'start': 4139.668, 'duration': 1.768}
+{'text': 'about these places, usually\nvery positive representations,', 'start': 4141.536, 'duration': 3.304}
+{'text': 'the favela as a site\nof authenticity,', 'start': 4144.94, 'duration': 2.002}
+{'text': 'of love, of community\nin this sense', 'start': 4147.042, 'duration': 2.969}
+{'text': 'of togetherness and unity.', 'start': 4150.111, 'duration': 3.17}
+{'text': "It's also, of course,\na space of blackness.", 'start': 4153.382, 'duration': 1.701}
+{'text': "And it's the first\ncultural medium", 'start': 4155.183, 'duration': 2.069}
+{'text': 'in which blackness is really\nportrayed in a positive light,', 'start': 4157.352, 'duration': 2.87}
+{'text': 'is through samba.', 'start': 4160.322, 'duration': 1.901}
+{'text': 'You have photographers\ngoing up in the hills', 'start': 4162.324, 'duration': 1.735}
+{'text': 'as early as the early 1900s.', 'start': 4164.159, 'duration': 2.436}
+{'text': 'And poets and novelists\nsoon followed.', 'start': 4166.695, 'duration': 1.869}
+{'text': 'There are, in 1935,\ntwo major novels', 'start': 4168.664, 'duration': 2.569}
+{'text': 'that are set in favela\ncommunities and that project', 'start': 4171.333, 'duration': 3.503}
+{'text': 'to the rest of the world what\nthese places are all about.', 'start': 4174.936, 'duration': 3.237}
+{'text': 'And then, of course, you\nhave the modernist artists', 'start': 4178.273, 'duration': 2.269}
+{'text': "who very famously go up into\nthe hills in the 1920s and '30s", 'start': 4180.642, 'duration': 3.538}
+{'text': 'and produce not only\npaintings, but also other forms', 'start': 4184.28, 'duration': 3.336}
+{'text': 'of more abstract visual art.', 'start': 4187.716, 'duration': 1.802}
+{'text': 'And poets follow them\nup into the hills--', 'start': 4189.618, 'duration': 2.169}
+{'text': 'all of this to say that\ncinematic representations are', 'start': 4191.887, 'duration': 2.569}
+{'text': 'very old.', 'start': 4194.557, 'duration': 1.2}
+{'text': "And they're part of a whole\nkind of cultural construct", 'start': 4195.857, 'duration': 2.07}
+{'text': 'that exists from very, very\nearly on in the history', 'start': 4198.027, 'duration': 2.301}
+{'text': 'of these kinds of settlements.', 'start': 4200.428, 'duration': 1.835}
+{'text': 'Now the second question-- what\ndoes this cultural production', 'start': 4202.363, 'duration': 2.57}
+{'text': 'tell us?', 'start': 4205.033, 'duration': 1.034}
+{'text': "Now there's a very\nsimplistic way", 'start': 4206.167, 'duration': 1.369}
+{'text': 'of thinking about this--\nthat it can tell us', 'start': 4207.636, 'duration': 1.734}
+{'text': 'good things about the\nfavelas and bad things', 'start': 4209.471, 'duration': 2.168}
+{'text': 'about the favelas, right?', 'start': 4211.739, 'duration': 1.036}
+{'text': 'And if we were to\nthink about the movies', 'start': 4212.875, 'duration': 1.568}
+{'text': "that we've just seen,\nthere is, of course,", 'start': 4214.543, 'duration': 2.202}
+{'text': "a deeper level where\nwhat we're seeing", 'start': 4216.845, 'duration': 1.735}
+{'text': 'is the nature of the\nprotagonists in these films.', 'start': 4218.68, 'duration': 3.337}
+{'text': 'And I very much agree that\nthere is, in these latest', 'start': 4222.117, 'duration': 3.503}
+{'text': 'representations, a lot\nmore depth, a lot more', 'start': 4225.721, 'duration': 2.235}
+{'text': 'understanding of the meaning\nof what these places are.', 'start': 4228.056, 'duration': 2.536}
+{'text': 'But they are overwhelmingly\nnegative representations--', 'start': 4230.692, 'duration': 2.637}
+{'text': 'representations of suffering,\nof violence, of extremes.', 'start': 4233.429, 'duration': 3.87}
+{'text': "And one of the things that's\ninteresting about Brazilian", 'start': 4237.399, 'duration': 2.235}
+{'text': 'films is that from\nthe beginning,', 'start': 4239.734, 'duration': 1.502}
+{'text': "they're not\ncompletely about that.", 'start': 4241.336, 'duration': 1.702}
+{'text': 'In fact, the early\ngeneration of films', 'start': 4243.138, 'duration': 2.136}
+{'text': 'is much more about these\nexperiences of human emotion,', 'start': 4245.374, 'duration': 4.537}
+{'text': 'experiences of family,\nexperiences of connection,', 'start': 4250.011, 'duration': 3.604}
+{'text': 'experiences of all of the\nthings that the sambas', 'start': 4253.715, 'duration': 2.569}
+{'text': 'were telling the rest\nof the Brazilian public', 'start': 4256.385, 'duration': 2.068}
+{'text': 'that favela life was all about.', 'start': 4258.553, 'duration': 1.769}
+{'text': "So they'll say the\nasphalt, the city,", 'start': 4260.422, 'duration': 1.634}
+{'text': 'those are the fake people.', 'start': 4262.156, 'duration': 1.002}
+{'text': 'Those are the liars.', 'start': 4263.258, 'duration': 1.001}
+{'text': 'Those are the policemen\nand the authorities', 'start': 4264.359, 'duration': 1.602}
+{'text': 'that come in to beat us up.', 'start': 4266.061, 'duration': 1.334}
+{'text': 'But we here, we have invented\nthis beautiful musical genre.', 'start': 4267.495, 'duration': 3.704}
+{'text': 'We understand what human\nfeeling is all about.', 'start': 4271.3, 'duration': 2.969}
+{'text': 'We understand that\ngreed is wrong in a way', 'start': 4274.369, 'duration': 2.67}
+{'text': 'that people down\nthere on the asphalt', 'start': 4277.139, 'duration': 1.435}
+{'text': "who are speculating on real\nestate don't understand.", 'start': 4278.674, 'duration': 3.47}
+{'text': 'And we want you to see our\nauthentic Brazilian black life', 'start': 4282.244, 'duration': 4.037}
+{'text': 'here in the favela.', 'start': 4286.381, 'duration': 1.101}
+{'text': "And so there's this kind\nof positive representation", 'start': 4287.582, 'duration': 1.702}
+{'text': "that comes across in these early\nfilms that's very interesting.", 'start': 4289.384, 'duration': 2.77}
+{'text': "Of course, there's also a lot\nof negative representation.", 'start': 4292.254, 'duration': 2.269}
+{'text': 'And films were used\nas propaganda pieces', 'start': 4294.623, 'duration': 2.702}
+{'text': 'to try to build sentiment\nagainst what were understood', 'start': 4297.425, 'duration': 2.737}
+{'text': 'to be all of the problems of\nthe space of the favela as well.', 'start': 4300.262, 'duration': 2.769}
+{'text': "But I won't repeat that\nbecause that vision, I think,", 'start': 4303.131, 'duration': 2.102}
+{'text': 'is projected far more\nthan the positive vision', 'start': 4305.334, 'duration': 2.535}
+{'text': "that I've just told you about.", 'start': 4307.969, 'duration': 1.769}
+{'text': "But there's also a\ndeeper level that I just", 'start': 4309.838, 'duration': 1.701}
+{'text': 'want to spend the\nvery few minutes', 'start': 4311.639, 'duration': 3.004}
+{'text': 'that I have left explaining.', 'start': 4314.743, 'duration': 3.103}
+{'text': 'And that is that\nwhether these films', 'start': 4317.946, 'duration': 2.536}
+{'text': 'and these other\ncultural expressions', 'start': 4320.582, 'duration': 1.902}
+{'text': 'were positive or\nnegative, whether they', 'start': 4322.584, 'duration': 2.135}
+{'text': 'saw beautiful blackness\nor whether they', 'start': 4324.819, 'duration': 2.27}
+{'text': 'saw degenerate, racialized\nideas of misery and marginality,', 'start': 4327.189, 'duration': 6.406}
+{'text': 'no matter which side\nof that they fell on,', 'start': 4333.695, 'duration': 1.768}
+{'text': 'there are certain\ncommonalities in all', 'start': 4335.563, 'duration': 1.902}
+{'text': 'of these representations.', 'start': 4337.565, 'duration': 1.735}
+{'text': 'And to put this in\nvery few words, what', 'start': 4339.4, 'duration': 3.637}
+{'text': "it is that they're\nseeing in the favela", 'start': 4343.137, 'duration': 2.27}
+{'text': 'is a space that is separate,\na space that is enclosed,', 'start': 4345.507, 'duration': 5.071}
+{'text': 'and a space that\nis fundamentally', 'start': 4350.679, 'duration': 2.035}
+{'text': 'understood as other when you\ncompare it to the asphalt, when', 'start': 4352.814, 'duration': 3.003}
+{'text': 'you compare it to the city.', 'start': 4355.917, 'duration': 1.335}
+{'text': 'You can even see that it\nLos Olvidados in that clip', 'start': 4357.352, 'duration': 2.235}
+{'text': 'that we just saw this idea that\nyou have these modern cities.', 'start': 4359.687, 'duration': 2.937}
+{'text': 'And then you have\nthese other spaces.', 'start': 4362.724, 'duration': 1.434}
+{'text': 'And the other spaces are\nin some ways timeless.', 'start': 4364.259, 'duration': 2.769}
+{'text': "They don't belong to modernity.", 'start': 4367.128, 'duration': 1.402}
+{'text': "They don't belong to what the\nrest of the city is about.", 'start': 4368.63, 'duration': 2.803}
+{'text': "So there's this separation.", 'start': 4371.533, 'duration': 1.735}
+{'text': "There's also this idea in\nall of these cultural mediums", 'start': 4373.368, 'duration': 2.469}
+{'text': 'that you need a\ncultural guide, that you', 'start': 4375.937, 'duration': 1.869}
+{'text': "need some kind of intermediary\nthat's going to take you--", 'start': 4377.906, 'duration': 2.268}
+{'text': 'and this is from 1903 on.', 'start': 4380.274, 'duration': 1.502}
+{'text': 'They actually say it outright.', 'start': 4381.876, 'duration': 1.535}
+{'text': "You can't go up to the\nfavela by yourself.", 'start': 4383.511, 'duration': 3.104}
+{'text': 'You need someone to take you\nand explain to you what is what,', 'start': 4386.715, 'duration': 2.769}
+{'text': "because you're not going to be\nable to navigate these alleys.", 'start': 4389.584, 'duration': 1.969}
+{'text': "You're not going to\nbe able to understand.", 'start': 4391.653, 'duration': 1.635}
+{'text': 'So whether the guide is\nthe chicken in City of God', 'start': 4393.388, 'duration': 3.203}
+{'text': 'or whether the guide\nis the chronicler that', 'start': 4396.691, 'duration': 2.536}
+{'text': 'was such a common persona\nin these early chronicles,', 'start': 4399.327, 'duration': 2.903}
+{'text': 'you need somebody else\nto explain it to you.', 'start': 4402.331, 'duration': 2.034}
+{'text': 'And that person generally\nin the early years', 'start': 4404.466, 'duration': 1.735}
+{'text': 'is from the outside.', 'start': 4406.301, 'duration': 1.268}
+{'text': "They're not from the inside,\nas we just saw in those films.", 'start': 4407.669, 'duration': 2.87}
+{'text': "There's also an idea\nin all of these,", 'start': 4410.639, 'duration': 1.868}
+{'text': 'as I said before, that\nthis is a place apart.', 'start': 4412.608, 'duration': 1.834}
+{'text': 'It is strange.', 'start': 4414.542, 'duration': 0.801}
+{'text': "It's picturesque.", 'start': 4415.443, 'duration': 0.868}
+{'text': "It's fantastical.", 'start': 4416.411, 'duration': 1.268}
+{'text': "It's grotesque.", 'start': 4417.779, 'duration': 1.068}
+{'text': 'But it is another world.', 'start': 4418.947, 'duration': 1.469}
+{'text': 'It is not the same world\nthat the presumed observers', 'start': 4420.516, 'duration': 2.968}
+{'text': 'are observing from, right?', 'start': 4423.584, 'duration': 1.436}
+{'text': 'There is this kind of\nseparation between these spaces.', 'start': 4425.12, 'duration': 2.869}
+{'text': 'There is also a notion that the\nrest of the city might exist,', 'start': 4428.089, 'duration': 3.037}
+{'text': "but there's an invisible\nfrontier between the spaces.", 'start': 4431.226, 'duration': 2.336}
+{'text': "It's the aerial\nphotographs that we just", 'start': 4433.662, 'duration': 1.702}
+{'text': 'saw but written into\nthese texts much', 'start': 4435.464, 'duration': 2.635}
+{'text': 'earlier than aerial photography\nwas actually existing.', 'start': 4438.199, 'duration': 2.804}
+{'text': 'And one very important\nexception to this', 'start': 4441.103, 'duration': 2.836}
+{'text': 'is the film Rio 40 Graus, Rio\n110 Degrees, which actually', 'start': 4444.039, 'duration': 5.705}
+{'text': 'has an aerial view\nat the beginning', 'start': 4449.844, 'duration': 1.836}
+{'text': 'like you see in later films.', 'start': 4451.78, 'duration': 1.768}
+{'text': 'But the aerial view\nis actually meant', 'start': 4453.648, 'duration': 1.435}
+{'text': 'to open our eyes to the\nfact that the favela is', 'start': 4455.184, 'duration': 2.168}
+{'text': 'much bigger than the\ncity, that in fact,', 'start': 4457.452, 'duration': 2.403}
+{'text': 'if you go away from the central\ntouristic points in Rio de', 'start': 4459.955, 'duration': 2.936}
+{'text': 'Janeiro, most people are living\nin these alternate spaces.', 'start': 4462.991, 'duration': 3.103}
+{'text': 'And it really makes\nthat point very clearly.', 'start': 4466.194, 'duration': 2.336}
+{'text': "But that's rare.", 'start': 4468.63, 'duration': 0.968}
+{'text': "In most of these films,\nwhat you're seeing", 'start': 4469.698, 'duration': 1.334}
+{'text': 'are these very clear frontiers\nbetween these spaces.', 'start': 4471.132, 'duration': 3.071}
+{'text': 'And finally, in all\nof these movies,', 'start': 4474.303, 'duration': 2.635}
+{'text': 'everything is happening in\nthe urgent present tense.', 'start': 4477.038, 'duration': 2.136}
+{'text': "And that's something that's\nvery true, I think, in the films", 'start': 4479.274, 'duration': 2.403}
+{'text': "that we've just seen.", 'start': 4481.777, 'duration': 1.134}
+{'text': 'Even though they have these\nhistorical flashbacks,', 'start': 4483.011, 'duration': 2.836}
+{'text': "there's this sense of urgency.", 'start': 4485.947, 'duration': 1.135}
+{'text': "There's a sense of now.", 'start': 4487.182, 'duration': 1.201}
+{'text': "There's a sense that these\nare places where everything", 'start': 4488.483, 'duration': 1.835}
+{'text': 'is always urgent, because\nlife or death always', 'start': 4490.418, 'duration': 2.303}
+{'text': 'depends on what is happening\nright now in these kinds', 'start': 4492.821, 'duration': 2.102}
+{'text': 'of places, right?', 'start': 4495.023, 'duration': 1.235}
+{'text': 'And this is very early on in\nthe history of these places', 'start': 4496.358, 'duration': 2.969}
+{'text': 'as well.', 'start': 4499.427, 'duration': 1.034}
+{'text': 'All right.', 'start': 4500.562, 'duration': 1.068}
+{'text': 'So finally, just a couple\nof sentences on what', 'start': 4501.73, 'duration': 2.402}
+{'text': 'are the seeds that these\nimages place for policy?', 'start': 4504.233, 'duration': 4.203}
+{'text': 'Now it would take\na lot more time', 'start': 4508.536, 'duration': 1.335}
+{'text': 'than I have to talk about the\nspecific positive and negatives', 'start': 4509.971, 'duration': 2.703}
+{'text': 'and the specific\nkinds of campaigns', 'start': 4512.774, 'duration': 1.535}
+{'text': 'that these lead to, not only\nin Brazil, but in the rest', 'start': 4514.409, 'duration': 3.27}
+{'text': 'of Latin America.', 'start': 4517.779, 'duration': 1.135}
+{'text': "There's a lot to do with\nthat that I don't have time", 'start': 4519.014, 'duration': 2.001}
+{'text': 'to do it.', 'start': 4521.116, 'duration': 1.601}
+{'text': 'But one point that I would like\nto-- or two points that I would', 'start': 4522.817, 'duration': 2.936}
+{'text': 'like to specifically emphasize--', 'start': 4525.853, 'duration': 3.571}
+{'text': 'one of them is that films\nand other cultural media', 'start': 4529.524, 'duration': 2.702}
+{'text': 'have tended to reinforce\nthe notion that you need', 'start': 4532.327, 'duration': 4.337}
+{'text': 'an outsider to understand\nand mediate these problems,', 'start': 4536.764, 'duration': 2.97}
+{'text': 'that the policymakers and the\npeople who are going to decide', 'start': 4539.834, 'duration': 3.471}
+{'text': 'what to do about this problem,\nand even the people that', 'start': 4543.405, 'duration': 2.769}
+{'text': 'are going to decide\nwhat the problems are,', 'start': 4546.274, 'duration': 2.269}
+{'text': 'they are not the people that\nare the object of the gaze.', 'start': 4548.643, 'duration': 2.536}
+{'text': "They're not the people that live\ninside of the slum communities.", 'start': 4551.279, 'duration': 4.538}
+{'text': 'You need a mediator.', 'start': 4555.917, 'duration': 0.967}
+{'text': 'You need somebody\nfrom the outside', 'start': 4556.984, 'duration': 1.436}
+{'text': 'to come and tell you\nwhat the problem is', 'start': 4558.52, 'duration': 2.135}
+{'text': 'and how it ought to be solved.', 'start': 4560.755, 'duration': 1.768}
+{'text': 'And the function\nof the people who', 'start': 4562.623, 'duration': 1.736}
+{'text': 'appear in this\ncultural media tends', 'start': 4564.459, 'duration': 1.969}
+{'text': 'to be to simply express\nthe suffering, the problem,', 'start': 4566.528, 'duration': 4.204}
+{'text': 'the experience of being a\nvictim of whatever problem', 'start': 4570.832, 'duration': 2.97}
+{'text': 'it is that has been identified\nby these mediators, right?', 'start': 4573.902, 'duration': 3.236}
+{'text': 'And that, of course, is very\nimportant in policy terms', 'start': 4577.238, 'duration': 2.303}
+{'text': 'because it indicates that\nthe table, the people who', 'start': 4579.641, 'duration': 3.67}
+{'text': 'should be at this conference,\nthe people who should be', 'start': 4583.411, 'duration': 2.737}
+{'text': 'at the places where\ndecisions are made,', 'start': 4586.248, 'duration': 2.836}
+{'text': 'are the ones who are observing,\nwho are being explained', 'start': 4589.184, 'duration': 2.302}
+{'text': 'to by these mediators.', 'start': 4591.586, 'duration': 1.034}
+{'text': "They're not the people\nwho are being observed.", 'start': 4592.721, 'duration': 1.734}
+{'text': "And I think that that's\na very important function", 'start': 4594.555, 'duration': 2.203}
+{'text': 'that a lot of\ncultural media have.', 'start': 4596.858, 'duration': 1.868}
+{'text': 'And I would even say that\na film like City of God', 'start': 4598.826, 'duration': 2.269}
+{'text': "continues with that\nfunction, even though we're", 'start': 4601.195, 'duration': 1.869}
+{'text': 'seeing it from the perspective\nof this person who grows up.', 'start': 4603.164, 'duration': 2.636}
+{'text': 'The filmmaker really did\na lot to change the book', 'start': 4605.901, 'duration': 2.235}
+{'text': 'that it was based\non in ways that', 'start': 4608.236, 'duration': 1.469}
+{'text': "really reflect an outsider's\ngaze in important ways.", 'start': 4609.805, 'duration': 3.87}
+{'text': "And then finally, I'm just\ngoing to end with one last more", 'start': 4613.775, 'duration': 2.936}
+{'text': 'provocative point, which is\nthat in emphasizing the notion', 'start': 4616.811, 'duration': 5.306}
+{'text': 'of these communities as\nbeing closed to the outside,', 'start': 4622.217, 'duration': 2.835}
+{'text': 'as being self-contained,\nas being the expression', 'start': 4625.153, 'duration': 3.504}
+{'text': 'in and of themselves\nof a problem--', 'start': 4628.757, 'duration': 2.535}
+{'text': 'that is, they are\nproblematic spaces.', 'start': 4631.392, 'duration': 2.169}
+{'text': "Maybe they're problematic spaces\nbecause they're victimized.", 'start': 4633.661, 'duration': 2.904}
+{'text': "Maybe they're problematic spaces\nbecause they're oppressed.", 'start': 4636.665, 'duration': 2.769}
+{'text': "Maybe they're problematic\nspaces because the people who", 'start': 4639.534, 'duration': 2.236}
+{'text': 'live in them are somehow\nmisformed, somehow', 'start': 4641.87, 'duration': 3.103}
+{'text': 'full of anomie, or full of\nviolence, or full of rage.', 'start': 4645.073, 'duration': 2.87}
+{'text': 'Whatever the reason,\nthese are portrayed', 'start': 4648.043, 'duration': 2.502}
+{'text': 'as problematic spaces.', 'start': 4650.645, 'duration': 2.169}
+{'text': "And they're also\nportrayed as spaces", 'start': 4652.914, 'duration': 2.336}
+{'text': 'that are not defined\nby their connection', 'start': 4655.35, 'duration': 2.269}
+{'text': 'to what is outside of them.', 'start': 4657.719, 'duration': 2.202}
+{'text': 'And I think that that\nfundamental insight,', 'start': 4660.021, 'duration': 1.902}
+{'text': 'that notion that the problem\nthat we need to solve', 'start': 4662.023, 'duration': 3.17}
+{'text': 'is within the favelas\nborders, has consistently', 'start': 4665.293, 'duration': 3.971}
+{'text': 'misshapen the sorts of\npolicy remedies that', 'start': 4669.364, 'duration': 3.303}
+{'text': 'are being proposed both by the\nleft and by the right and even', 'start': 4672.767, 'duration': 3.37}
+{'text': 'sometimes by the\ncommunities themselves,', 'start': 4676.237, 'duration': 2.302}
+{'text': "and that if we were to take\nan aerial view that's not", 'start': 4678.639, 'duration': 3.638}
+{'text': "like Mike Davis's notion\nof an aerial view,", 'start': 4682.377, 'duration': 2.903}
+{'text': 'but take an aerial view that\nactually tends to emphasize', 'start': 4685.38, 'duration': 4.804}
+{'text': 'what Rio 40 Graus, what\nRio 110 Degrees could see,', 'start': 4690.284, 'duration': 4.138}
+{'text': 'which is that these are spaces\nthat in all kinds of ways', 'start': 4694.522, 'duration': 2.703}
+{'text': 'are fundamentally\nconnected, not only', 'start': 4697.325, 'duration': 2.169}
+{'text': 'physically and\neconomically and socially', 'start': 4699.594, 'duration': 2.736}
+{'text': 'to the rest of the city,', 'start': 4702.43, 'duration': 1.368}
+{'text': 'but these are also\nspaces that serve', 'start': 4703.898, 'duration': 2.169}
+{'text': 'a function within the systems\nof economic inequality', 'start': 4706.167, 'duration': 4.772}
+{'text': 'and also the systems\nof power relationships', 'start': 4711.039, 'duration': 2.335}
+{'text': 'that govern the city as a whole.', 'start': 4713.474, 'duration': 1.435}
+{'text': 'That is, these are not places\nthat are there by accident.', 'start': 4715.009, 'duration': 2.737}
+{'text': 'But they are places\nthat actually', 'start': 4717.846, 'duration': 2.402}
+{'text': 'have a place in larger\nstructures of power,', 'start': 4720.348, 'duration': 3.103}
+{'text': 'larger structures\nof inequality, that', 'start': 4723.551, 'duration': 2.169}
+{'text': 'are the actual roots\nof the problem.', 'start': 4725.82, 'duration': 1.736}
+{'text': "It's not what happens within\nthe favelas borders that", 'start': 4727.656, 'duration': 2.469}
+{'text': 'causes whatever aspects of\nfavela life result in suffering', 'start': 4730.225, 'duration': 5.104}
+{'text': 'or are problematic.', 'start': 4735.429, 'duration': 1.402}
+{'text': 'The problem is actually\nin that relationship', 'start': 4736.931, 'duration': 2.136}
+{'text': 'between those spaces and these\nlarger structures of power.', 'start': 4739.167, 'duration': 3.203}
+{'text': 'And cultural\nrepresentations tend', 'start': 4742.47, 'duration': 2.035}
+{'text': 'to downplay that by focusing\non the favelas as spaces apart,', 'start': 4744.605, 'duration': 4.138}
+{'text': 'as spaces that deserve to be\nfocused on without reference', 'start': 4748.843, 'duration': 3.17}
+{'text': "to what's going on around them.", 'start': 4752.113, 'duration': 1.235}
+{'text': "And I think that's\nsomething that we can really", 'start': 4753.448, 'duration': 1.234}
+{'text': 'take forward, I hope, in\nthe next couple of days', 'start': 4754.783, 'duration': 1.901}
+{'text': 'of discussions at\nthis conference.', 'start': 4756.784, 'duration': 1.368}
+{'text': 'Thank you.', 'start': 4758.253, 'duration': 0.6}
+{'text': '[applause]', 'start': 4758.954, 'duration': 0.867}
+{'text': 'Thank you [inaudible].', 'start': 4759.921, 'duration': 2.268}
+{'text': '[applause]', 'start': 4762.29, 'duration': 3.737}
+{'text': 'Thanks, Brody.', 'start': 4766.127, 'duration': 1.034}
+{'text': "And because I'm blunt, I\nwill restate your point", 'start': 4767.262, 'duration': 1.468}
+{'text': 'in a different way,\nwhich is to say,', 'start': 4768.83, 'duration': 3.17}
+{'text': 'what if slums or favelas\nor these alien other places', 'start': 4772.1, 'duration': 4.838}
+{'text': 'within our cities are not\njust integral to the life', 'start': 4777.038, 'duration': 2.669}
+{'text': "of the cities, but they're\nintegral to the success", 'start': 4779.807, 'duration': 2.469}
+{'text': 'of the cities?', 'start': 4782.376, 'duration': 1.136}
+{'text': 'The cities themselves would\nnot thrive and flourish', 'start': 4783.612, 'duration': 2.068}
+{'text': 'without the existence\nof those favelas.', 'start': 4785.78, 'duration': 2.703}
+{'text': 'So that was our provocation.', 'start': 4788.583, 'duration': 1.602}
+{'text': "We're going to try to\nreserve a little bit of time", 'start': 4790.285, 'duration': 2.202}
+{'text': 'for questions.', 'start': 4792.587, 'duration': 1.268}
+{'text': 'We have a couple of people with\nmicrophones in the audience.', 'start': 4793.955, 'duration': 1.901}
+{'text': 'But I want to turn\nto Janice now to get', 'start': 4795.956, 'duration': 1.869}
+{'text': "her provocations and her views\non the amazing things we've", 'start': 4797.925, 'duration': 5.206}
+{'text': 'just seen already today.', 'start': 4803.231, 'duration': 1.434}
+{'text': 'So is this live?', 'start': 4804.765, 'duration': 1.068}
+{'text': 'Yes.', 'start': 4805.933, 'duration': 0.601}
+{'text': 'Thank you.', 'start': 4806.635, 'duration': 1.033}
+{'text': 'Well, thank you so much,\nBrody, and thank you.', 'start': 4807.769, 'duration': 2.502}
+{'text': "That was just-- it's a\nvery hard act to follow.", 'start': 4810.372, 'duration': 2.668}
+{'text': "I'm very thrilled to be here.", 'start': 4813.14, 'duration': 1.736}
+{'text': "And well, I'm still in\nthe emotional throes", 'start': 4814.976, 'duration': 4.872}
+{'text': 'of seeing those visuals.', 'start': 4819.948, 'duration': 1.768}
+{'text': 'I just wanted to start--', 'start': 4821.816, 'duration': 1.669}
+{'text': 'while I was listening to you,\nI thought of just starting', 'start': 4823.585, 'duration': 4.003}
+{'text': 'by reading-- since this is in\nthe Graduate School of Design,', 'start': 4827.688, 'duration': 3.037}
+{'text': "and it's architecture--", 'start': 4830.825, 'duration': 2.135}
+{'text': 'reading a quote that\ndescribes the new urbanism.', 'start': 4833.06, 'duration': 8.142}
+{'text': 'This is from The Guardian\nof April 30th, 2014.', 'start': 4841.302, 'duration': 3.404}
+{'text': '"The new urbanism\nprovides for communities', 'start': 4844.806, 'duration': 3.237}
+{'text': 'which are robust,\nresilient, sustainable.', 'start': 4848.143, 'duration': 3.403}
+{'text': 'They have high\ndensity and low cost,', 'start': 4851.646, 'duration': 2.77}
+{'text': 'living in locations within\nreach of work by foot or bike.', 'start': 4854.516, 'duration': 4.837}
+{'text': 'They are closely knit with\nself-reliant communities', 'start': 4859.453, 'duration': 2.904}
+{'text': 'in which ties of families and\nneighborhoods are strong."', 'start': 4862.457, 'duration': 4.404}
+{'text': 'Well, if I ever\nheard a description', 'start': 4866.961, 'duration': 1.735}
+{'text': "of a favela or any other\nsquatter settlement, that's it.", 'start': 4868.796, 'duration': 4.638}
+{'text': "So I mean, that's to\nanswer your question of", 'start': 4873.534, 'duration': 2.77}
+{'text': "wouldn't it be wonderful\nif this is the way,", 'start': 4876.404, 'duration': 2.369}
+{'text': 'this would be the model\ninstead of getting', 'start': 4878.873, 'duration': 1.902}
+{'text': 'into an elevator in\na high rise building', 'start': 4880.875, 'duration': 2.303}
+{'text': 'after you go through\na gate and then', 'start': 4883.278, 'duration': 1.635}
+{'text': 'looking at the\nceiling or the floor', 'start': 4885.013, 'duration': 1.901}
+{'text': 'to not make eye contact with the\nother people in your building?', 'start': 4887.014, 'duration': 3.404}
+{'text': 'So this is why, in\nmy book, Favela,', 'start': 4890.518, 'duration': 2.336}
+{'text': 'I wrote a little poem\ncalled "Why I Love Favelas."', 'start': 4892.954, 'duration': 2.469}
+{'text': 'So my point, I\njust wanted to say', 'start': 4898.325, 'duration': 2.07}
+{'text': 'that number one, if you look\nat the way images of favelas', 'start': 4900.495, 'duration': 6.073}
+{'text': 'in Rio have metamorphosized\nover these years,', 'start': 4906.668, 'duration': 4.237}
+{'text': 'I would say it could be said\nto go from the slandered slum', 'start': 4911.005, 'duration': 3.603}
+{'text': 'to the inclusivity to\nthe fetishized favela', 'start': 4914.709, 'duration': 3.57}
+{'text': 'and back again.', 'start': 4918.379, 'duration': 2.169}
+{'text': 'Squatter settlements are the\nfastest growing percentage', 'start': 4920.648, 'duration': 2.636}
+{'text': "of the world's\npopulation right now.", 'start': 4923.384, 'duration': 2.503}
+{'text': 'And they have\nconstantly been, as you', 'start': 4925.987, 'duration': 2.802}
+{'text': 'described, seen as other.', 'start': 4928.889, 'duration': 2.67}
+{'text': 'So I was going to pick\nup on this concept', 'start': 4931.659, 'duration': 4.505}
+{'text': 'of how powerful the ideology\nis and the image we have', 'start': 4936.264, 'duration': 3.637}
+{'text': 'of favelas and how easy\nit is to blame the victim', 'start': 4940.001, 'duration': 2.836}
+{'text': 'once you see these.', 'start': 4942.937, 'duration': 1.569}
+{'text': 'And I was just going to give\na little whirlwind tour very', 'start': 4944.606, 'duration': 2.335}
+{'text': 'quickly through how the\ncircular relationship played out', 'start': 4947.041, 'duration': 3.404}
+{'text': 'in Brazil from the beginning\nof my research in 1968', 'start': 4950.545, 'duration': 4.871}
+{'text': 'during the military dictatorship\nto my current research, which', 'start': 4955.516, 'duration': 4.805}
+{'text': 'was from 2015 to\nthis last month.', 'start': 4960.422, 'duration': 4.003}
+{'text': 'So it shows exactly\nwhat Brody was saying,', 'start': 4964.525, 'duration': 4.071}
+{'text': 'this powerful relationship\nand interrelationship', 'start': 4968.696, 'duration': 3.137}
+{'text': 'between the images we\nhave and the visions', 'start': 4971.933, 'duration': 2.168}
+{'text': 'we have in our heads\nand public policy.', 'start': 4974.201, 'duration': 2.87}
+{'text': 'What makes public policy\npossible and acceptable', 'start': 4977.172, 'duration': 4.67}
+{'text': 'is the images that are sold to\nus as what the policy is acting', 'start': 4981.942, 'duration': 7.142}
+{'text': 'upon, the people and the spaces\nthe policy is acting upon.', 'start': 4989.184, 'duration': 3.402}
+{'text': 'So during the dictatorship in\nBrazil, which started in 1964,', 'start': 4992.686, 'duration': 5.673}
+{'text': 'favelas were seen\nin the usual way', 'start': 4998.459, 'duration': 2.703}
+{'text': "you've seen portrayed--\ndangerous, dirty, violent,", 'start': 5001.262, 'duration': 2.669}
+{'text': 'family breakdown, prostitution,\ncrime, every possible thing,', 'start': 5004.031, 'duration': 4.972}
+{'text': 'unhygienic.', 'start': 5009.103, 'duration': 1.201}
+{'text': 'And if you read any of the\noriginal discussions of any', 'start': 5010.404, 'duration': 3.337}
+{'text': 'of squatter settlements\nanywhere in the world,', 'start': 5013.842, 'duration': 1.901}
+{'text': "you'll see the same\nunhygienic metaphors.", 'start': 5015.843, 'duration': 4.972}
+{'text': 'Even Gordon Parks, who did the\nwonderful photography in Rio', 'start': 5020.915, 'duration': 6.573}
+{'text': 'in 1961 of Catacumba, one\nof the favelas I lived in,', 'start': 5027.588, 'duration': 5.639}
+{'text': 'he talked about the\npathetic story of Flavio.', 'start': 5033.327, 'duration': 3.103}
+{'text': 'There are pictures in\nhis book of a little kid', 'start': 5036.531, 'duration': 2.602}
+{'text': 'with cockroaches crawling\nover him and little', 'start': 5039.233, 'duration': 2.269}
+{'text': 'Flavio with his shirt torn.', 'start': 5041.602, 'duration': 1.735}
+{'text': 'And it was all about the\npathos and how pathetic', 'start': 5043.438, 'duration': 4.871}
+{'text': 'and how we have to come in\nand help them and raise money', 'start': 5048.409, 'duration': 2.87}
+{'text': 'from Life Magazine readers.', 'start': 5051.379, 'duration': 1.201}
+{'text': 'I mean, I lived in that\ncommunity a few years later.', 'start': 5052.68, 'duration': 2.169}
+{'text': 'There was nothing\npathetic about it.', 'start': 5054.949, 'duration': 1.969}
+{'text': 'People were working, organizing,\nfighting the government', 'start': 5057.018, 'duration': 2.902}
+{'text': 'to get urban services,\nwithholding their votes', 'start': 5060.021, 'duration': 3.403}
+{'text': 'from the one place\nthey could vote for,', 'start': 5063.524, 'duration': 2.736}
+{'text': 'which is city councilman, to\nbargain with among candidates', 'start': 5066.36, 'duration': 3.604}
+{'text': 'for better improvements.', 'start': 5070.064, 'duration': 1.334}
+{'text': "I mean, they're really savvy\nand really well-organized.", 'start': 5071.498, 'duration': 3.471}
+{'text': 'And yet these images of favela\nas the so-called cancerous sore', 'start': 5075.069, 'duration': 6.507}
+{'text': 'on the beautiful body\nof Rio de Janeiro', 'start': 5081.676, 'duration': 3.069}
+{'text': 'made it very easy to justify\nremoval, the bulldozing down,', 'start': 5084.845, 'duration': 4.038}
+{'text': "the massive destruction\nof people's lives,", 'start': 5088.983, 'duration': 2.469}
+{'text': 'this community\nwhere Flavio lived,', 'start': 5091.552, 'duration': 2.069}
+{'text': 'Catacumba in the south zone,\nthe wealthiest zone of Rio.', 'start': 5093.721, 'duration': 4.004}
+{'text': 'People were removed.', 'start': 5097.825, 'duration': 1.035}
+{'text': 'They were threatened\nby police violence', 'start': 5101.795, 'duration': 3.405}
+{'text': 'and removed in garbage trucks\nto public housing projects', 'start': 5105.3, 'duration': 3.803}
+{'text': 'outside in greater distance\nfrom their work and school', 'start': 5109.203, 'duration': 5.105}
+{'text': 'and health access than\nthey could navigate.', 'start': 5114.408, 'duration': 4.271}
+{'text': 'And they were put in\npublic housing projects,', 'start': 5118.779, 'duration': 2.469}
+{'text': 'including the City of God.', 'start': 5121.348, 'duration': 1.269}
+{'text': 'That was one of\nthem and other names', 'start': 5122.717, 'duration': 2.169}
+{'text': 'that came from the\nAlliance for Progress.', 'start': 5124.986, 'duration': 4.104}
+{'text': 'One of the places was called\nVilla Alianza, Alianza para el', 'start': 5129.19, 'duration': 3.67}
+{'text': 'Progreso.', 'start': 5132.961, 'duration': 0.833}
+{'text': 'And one was called\nVilla Kennedy.', 'start': 5133.894, 'duration': 2.436}
+{'text': 'So the United States was\ncomplicitous in this idea', 'start': 5136.43, 'duration': 3.437}
+{'text': 'that this was cleaning\nup and improving', 'start': 5139.967, 'duration': 2.069}
+{'text': 'the lives of these\npeople with, again,', 'start': 5142.136, 'duration': 2.069}
+{'text': 'no reference to what the\npeople would like or choose', 'start': 5144.305, 'duration': 3.603}
+{'text': 'your their own trade-offs.', 'start': 5148.008, 'duration': 2.469}
+{'text': 'And the other thing\nis that once they', 'start': 5150.577, 'duration': 4.004}
+{'text': 'were located in these\npublic housing projects,', 'start': 5154.682, 'duration': 2.603}
+{'text': 'they were made to pay 25% of\ntheir previous family income', 'start': 5157.385, 'duration': 5.138}
+{'text': 'every month towards a rent.', 'start': 5162.623, 'duration': 2.369}
+{'text': 'And since their family\nincome decreased by 75%', 'start': 5165.093, 'duration': 3.27}
+{'text': 'because they no longer\ncould work two or three jobs', 'start': 5168.463, 'duration': 2.435}
+{'text': "and the kids couldn't\nwork after school", 'start': 5170.998, 'duration': 2.136}
+{'text': "and the wives\ncouldn't get in-- it", 'start': 5173.234, 'duration': 2.102}
+{'text': 'was too expensive for the\ntransportation-- many of them', 'start': 5175.436, 'duration': 3.303}
+{'text': 'defaulted.', 'start': 5178.84, 'duration': 0.967}
+{'text': 'And in their defaulting\non these payments,', 'start': 5179.907, 'duration': 2.235}
+{'text': 'they were sent to\nwhat very well could', 'start': 5182.242, 'duration': 2.67}
+{'text': 'be described as debtors prison.', 'start': 5185.012, 'duration': 1.835}
+{'text': 'They were called Casa de\n[? triaging-- ?] triage houses.', 'start': 5186.947, 'duration': 3.203}
+{'text': 'Triage in war are\nthe patients who', 'start': 5190.25, 'duration': 2.07}
+{'text': 'were too sick to be worthy of\nthe scarce medical supplies', 'start': 5192.42, 'duration': 4.437}
+{'text': 'and left to die on\nthe battlefield.', 'start': 5196.957, 'duration': 1.869}
+{'text': 'So they were left to\ndie on the battlefield.', 'start': 5198.926, 'duration': 3.37}
+{'text': 'And the pictures I was going\nto show before we decided', 'start': 5202.396, 'duration': 2.436}
+{'text': 'not to show any PowerPoints\nin this section,', 'start': 5204.932, 'duration': 3.604}
+{'text': 'would show these\ntriage houses, which', 'start': 5208.636, 'duration': 3.47}
+{'text': "were way out in the boonies,\nyou'll see on the map.", 'start': 5212.206, 'duration': 2.068}
+{'text': "They're not connected to\nanything, all lined up,", 'start': 5214.375, 'duration': 3.37}
+{'text': 'little boxes in the\nbaking sun, and then', 'start': 5217.845, 'duration': 2.803}
+{'text': 'show more and more\nand more being built.', 'start': 5220.748, 'duration': 2.402}
+{'text': 'And then I zoom\nfrom 1973 to 2011.', 'start': 5223.25, 'duration': 4.638}
+{'text': 'And I show the same houses,\nrows and rows of them, with row.', 'start': 5227.988, 'duration': 5.572}
+{'text': "And that's the new\nBrazilian housing project", 'start': 5233.661, 'duration': 2.636}
+{'text': 'called Minha Casa, Minha Vida--', 'start': 5236.397, 'duration': 1.635}
+{'text': 'my house, my life.', 'start': 5238.132, 'duration': 1.168}
+{'text': "They couldn't come up\nwith one new design", 'start': 5239.4, 'duration': 2.702}
+{'text': 'with all those brilliant\narchitects and planners', 'start': 5242.203, 'duration': 2.502}
+{'text': 'from 1973 to 2010--', 'start': 5244.805, 'duration': 3.27}
+{'text': 'I mean, really?', 'start': 5248.175, 'duration': 3.136}
+{'text': 'OK.', 'start': 5251.411, 'duration': 1.269}
+{'text': "So my research-- in 1968 and\n'69, I lived in three favelas", 'start': 5252.78, 'duration': 6.974}
+{'text': 'in Rio.', 'start': 5259.854, 'duration': 1.101}
+{'text': 'And what I found out\nexactly was that the reason', 'start': 5261.055, 'duration': 5.472}
+{'text': 'I called my book The\nMyth of Marginality', 'start': 5266.627, 'duration': 1.702}
+{'text': 'was that these people who\nlive in these communities', 'start': 5268.429, 'duration': 2.469}
+{'text': 'were not marginal at all.', 'start': 5270.998, 'duration': 2.502}
+{'text': 'In fact, they were\ntotally tightly integrated', 'start': 5273.601, 'duration': 3.203}
+{'text': 'into the rest of society, just\nin a very asymmetrical manner.', 'start': 5276.904, 'duration': 3.837}
+{'text': 'So they gave their labor,\ntheir political support,', 'start': 5280.841, 'duration': 4.671}
+{'text': 'their social and cultural\nlife, to the city', 'start': 5285.613, 'duration': 2.636}
+{'text': 'but got almost nothing\nback in return.', 'start': 5288.349, 'duration': 2.102}
+{'text': "And my mantra was, they're not\nsocially disorganized, which is", 'start': 5290.551, 'duration': 5.472}
+{'text': 'what they were supposed to be.', 'start': 5296.123, 'duration': 1.135}
+{'text': "But they're excluded.", 'start': 5297.358, 'duration': 1.368}
+{'text': "They're not\nculturally backwards.", 'start': 5298.826, 'duration': 1.435}
+{'text': "But they're stigmatized.", 'start': 5300.361, 'duration': 1.502}
+{'text': "They're not\neconomically parasitic.", 'start': 5301.963, 'duration': 1.902}
+{'text': "But they're exploited.", 'start': 5303.965, 'duration': 1.2}
+{'text': 'They do the jobs\nthat no one else', 'start': 5305.266, 'duration': 1.702}
+{'text': 'would do in conditions\nno one else would', 'start': 5307.068, 'duration': 1.935}
+{'text': 'accept for salaries that\nno one else would work for.', 'start': 5309.103, 'duration': 3.337}
+{'text': "And yet they're taken for\ngranted and treated terribly.", 'start': 5312.54, 'duration': 2.97}
+{'text': "And they're not\npolitically radical.", 'start': 5315.61, 'duration': 1.4}
+{'text': 'No one had to be scared of\nthem making any revolution.', 'start': 5317.11, 'duration': 3.104}
+{'text': 'They were so happy\nto be in the city.', 'start': 5320.314, 'duration': 2.203}
+{'text': "And they weren't\ncomparing themselves", 'start': 5322.617, 'duration': 1.935}
+{'text': 'to the rich people who\nlived next to them.', 'start': 5324.652, 'duration': 2.468}
+{'text': 'They were comparing themselves\nto the people back on the farm.', 'start': 5327.22, 'duration': 2.904}
+{'text': 'And in comparison,\nthey were doing great.', 'start': 5330.224, 'duration': 2.002}
+{'text': 'And they knew they\nwere investing', 'start': 5332.326, 'duration': 1.335}
+{'text': 'for the future generations.', 'start': 5333.761, 'duration': 1.868}
+{'text': 'So the policy\nimplication of the fact', 'start': 5335.729, 'duration': 3.337}
+{'text': 'that they were seen as marginal\nwas to get rid of them.', 'start': 5339.166, 'duration': 2.936}
+{'text': 'And so it was very easy to\njustify the massive removal', 'start': 5342.202, 'duration': 3.571}
+{'text': 'of 100,000 people.', 'start': 5345.873, 'duration': 1.502}
+{'text': 'They were burned out.', 'start': 5347.475, 'duration': 0.8}
+{'text': 'They were shot at.', 'start': 5348.375, 'duration': 1.101}
+{'text': 'They were totally traumatized.', 'start': 5349.576, 'duration': 2.136}
+{'text': 'Fast forward, the end\nof the dictatorship', 'start': 5351.812, 'duration': 1.935}
+{'text': 'comes the democracy, 1985,\nthe new democratization.', 'start': 5353.847, 'duration': 4.905}
+{'text': 'And we all think\nthat, of course,', 'start': 5358.853, 'duration': 2.468}
+{'text': "we're never, ever going\nto see removal again.", 'start': 5361.422, 'duration': 2.302}
+{'text': 'Because now favelas, who\nwere either 20% or 25%', 'start': 5363.825, 'duration': 4.104}
+{'text': "of the population of the city,\nnow they're going to vote.", 'start': 5368.029, 'duration': 3.369}
+{'text': 'No one is ever going\nto remove them again.', 'start': 5371.498, 'duration': 2.003}
+{'text': 'And so the new\nidea is incorporate', 'start': 5373.601, 'duration': 2.102}
+{'text': 'them and the inclusive city.', 'start': 5375.803, 'duration': 1.435}
+{'text': "And then there's upgrading.", 'start': 5377.338, 'duration': 1.168}
+{'text': 'And so the policies, the\nvisuals about favelas starting', 'start': 5378.606, 'duration': 3.236}
+{'text': 'to be better, films come\nout like Favela Rising,', 'start': 5381.943, 'duration': 4.07}
+{'text': 'which shows these beautiful\nnonprofit organizations', 'start': 5386.113, 'duration': 4.572}
+{'text': 'like AfroReggae\nthat organize kids.', 'start': 5390.785, 'duration': 2.369}
+{'text': 'As an alternative to\ngoing into the drug gangs,', 'start': 5393.254, 'duration': 2.936}
+{'text': "they can go into an equally\nbonding social group that's", 'start': 5396.29, 'duration': 5.872}
+{'text': 'based around music\nand rhythm and song', 'start': 5402.262, 'duration': 2.903}
+{'text': 'and expressing the words\nof living in a favela.', 'start': 5405.266, 'duration': 3.37}
+{'text': 'So all of this gets translated\ninto massive programs', 'start': 5408.736, 'duration': 4.805}
+{'text': 'of onsite upgrading, where\ninfrastructure is brought', 'start': 5413.641, 'duration': 4.171}
+{'text': "to the favela that's\nsupposed to equalize", 'start': 5417.912, 'duration': 2.569}
+{'text': "the infrastructure that's\nhappening on the asphalt.", 'start': 5420.581, 'duration': 2.903}
+{'text': "And at this moment, there's a\nvery nice political alliance", 'start': 5423.584, 'duration': 4.438}
+{'text': 'between the city government,\nthe state government,', 'start': 5428.122, 'duration': 2.436}
+{'text': 'and the federal government.', 'start': 5430.658, 'duration': 1.301}
+{'text': "And there's a big program called\nFavela-Bairro, which is jointly", 'start': 5432.059, 'duration': 3.037}
+{'text': 'funded by Inter-American\nDevelopment', 'start': 5435.196, 'duration': 1.801}
+{'text': 'Bank and the national Brazilian\ngovernment and the city.', 'start': 5437.097, 'duration': 4.538}
+{'text': 'Unfortunately, just at the\ntime that democracy returned', 'start': 5441.735, 'duration': 4.405}
+{'text': 'and everyone got out of jail,\nall of the war on poverty', 'start': 5446.24, 'duration': 5.606}
+{'text': 'that the US was\nrunning and closing', 'start': 5451.946, 'duration': 1.968}
+{'text': 'the Columbia borders\nredirected the narcotraffic', 'start': 5454.014, 'duration': 3.237}
+{'text': 'through Brazil.', 'start': 5457.351, 'duration': 1.301}
+{'text': 'So now all of these drugs were\nflowing into Brazil, especially', 'start': 5458.752, 'duration': 4.872}
+{'text': 'cocaine.', 'start': 5463.724, 'duration': 0.834}
+{'text': 'And it was taken\ninto the favelas,', 'start': 5464.658, 'duration': 1.535}
+{'text': 'where it could be divided\ninto smaller parcels', 'start': 5466.293, 'duration': 2.369}
+{'text': 'and where the police had\nusually not penetrated,', 'start': 5468.763, 'duration': 4.537}
+{'text': 'especially after\ndemocracy because police', 'start': 5473.4, 'duration': 2.103}
+{'text': 'had been very abusive.', 'start': 5475.603, 'duration': 1.601}
+{'text': "And so the idea of Brizola was,\nlet's just police the asphalt.", 'start': 5477.304, 'duration': 4.906}
+{'text': 'So aside from those\nwinding streets', 'start': 5482.31, 'duration': 1.934}
+{'text': 'where you see the chase scenes,\nthere was a very convenient way', 'start': 5484.344, 'duration': 3.704}
+{'text': 'to hide this drug traffic.', 'start': 5488.148, 'duration': 1.535}
+{'text': 'And even though less\nthan 1%, less than 0.01%', 'start': 5489.783, 'duration': 4.638}
+{'text': 'of the people in the favelas\nwere doing any drug trafficking', 'start': 5494.521, 'duration': 3.17}
+{'text': 'or drug use, they returned\nto the idea of favelas', 'start': 5497.791, 'duration': 4.371}
+{'text': 'as a place of criminality,\nviolence, and danger swept', 'start': 5502.262, 'duration': 2.97}
+{'text': 'back.', 'start': 5505.332, 'duration': 0.734}
+{'text': 'And all the images swept back.', 'start': 5506.166, 'duration': 2.003}
+{'text': 'And there are many,\nmany films came out', 'start': 5508.269, 'duration': 1.734}
+{'text': 'about the violence and Escuadron\nDe La Muerte and Tropa de Elite', 'start': 5510.103, 'duration': 3.838}
+{'text': 'and terrible, terrible things\nabout the violence, the drug', 'start': 5514.041, 'duration': 5.072}
+{'text': 'wars.', 'start': 5519.213, 'duration': 0.5}
+{'text': 'OK.', 'start': 5519.813, 'duration': 1.769}
+{'text': 'So the media, of course,\nis promoting this,', 'start': 5521.682, 'duration': 2.369}
+{'text': 'the global one, television.', 'start': 5524.151, 'duration': 1.534}
+{'text': 'And you see this always,\nphotographs of violence', 'start': 5525.786, 'duration': 4.238}
+{'text': 'and death in the papers.', 'start': 5530.124, 'duration': 1.067}
+{'text': 'OK.', 'start': 5531.291, 'duration': 1.201}
+{'text': 'Fast forward-- then I get\nto come to my second study.', 'start': 5532.592, 'duration': 4.005}
+{'text': 'So my second study\nwas 30 years later', 'start': 5536.697, 'duration': 3.003}
+{'text': 'after I lived in these favelas.', 'start': 5539.8, 'duration': 1.535}
+{'text': 'I interviewed 750 people,\n250 in each of three favelas.', 'start': 5541.435, 'duration': 5.538}
+{'text': 'So I tried to find them\nagain, 30 years later.', 'start': 5547.074, 'duration': 3.203}
+{'text': 'I found several\nhundred-- more than 41%.', 'start': 5550.377, 'duration': 4.672}
+{'text': 'And I interviewed them.', 'start': 5555.149, 'duration': 1.168}
+{'text': 'And I interviewed their children\nand their grandchildren.', 'start': 5556.417, 'duration': 3.369}
+{'text': 'And I already had\ninterviewed their parents', 'start': 5559.887, 'duration': 1.701}
+{'text': 'or asked about them.', 'start': 5561.688, 'duration': 2.603}
+{'text': 'And then we found that a whole--', 'start': 5564.391, 'duration': 3.403}
+{'text': 'I started documenting this\nmetamorphosis of marginality', 'start': 5567.894, 'duration': 4.038}
+{'text': 'and the actual social mobility\nthat many of the kids-- not', 'start': 5572.032, 'duration': 4.739}
+{'text': 'the original people\nin their own lives,', 'start': 5576.871, 'duration': 2.736}
+{'text': 'not so much their children.', 'start': 5579.707, 'duration': 1.367}
+{'text': "But in the grandchildren's\ngeneration,", 'start': 5581.174, 'duration': 1.568}
+{'text': 'they really started to\nhave some integration', 'start': 5582.843, 'duration': 1.969}
+{'text': 'into both the economy, the\nsocial fabric of the city,', 'start': 5584.912, 'duration': 4.471}
+{'text': 'and polity.', 'start': 5589.483, 'duration': 1.034}
+{'text': 'And really, about half\nof them were no longer', 'start': 5590.618, 'duration': 2.836}
+{'text': 'living in a so-called\nmarginalized area.', 'start': 5593.554, 'duration': 6.206}
+{'text': 'However, the prejudice\nand stereotype', 'start': 5599.86, 'duration': 3.136}
+{'text': 'against living in a favela,\nwhere 50% of them still lived,', 'start': 5603.096, 'duration': 3.438}
+{'text': 'was so powerful that\ndespite the fact that they', 'start': 5606.634, 'duration': 3.67}
+{'text': 'were in universities,\nthat they had', 'start': 5610.404, 'duration': 1.601}
+{'text': 'the same level of household\ndomestic appliances', 'start': 5612.105, 'duration': 3.738}
+{'text': 'as the average of the entire\nmunicipality of Rio de Janeiro,', 'start': 5615.943, 'duration': 4.437}
+{'text': 'they never got to be\ntreated with respect.', 'start': 5620.48, 'duration': 2.27}
+{'text': 'They were never treated with\nequal standing under the law.', 'start': 5622.85, 'duration': 5.171}
+{'text': 'Killing them was\nnever prosecuted.', 'start': 5628.121, 'duration': 2.637}
+{'text': 'There was enormous disregard\nfor the humanness and dignity', 'start': 5630.858, 'duration': 4.871}
+{'text': 'of these human beings\njust because they', 'start': 5635.829, 'duration': 2.135}
+{'text': 'lived in a favela\nat the time when', 'start': 5638.064, 'duration': 1.335}
+{'text': 'over these\ngenerations, prejudice,', 'start': 5639.499, 'duration': 1.903}
+{'text': 'their experience of being\ndiscriminated on for dark skin', 'start': 5641.502, 'duration': 4.504}
+{'text': 'just started going\naway and lightening up.', 'start': 5646.106, 'duration': 4.638}
+{'text': "At the end, the kids didn't\nfind it a huge discrimination,", 'start': 5650.844, 'duration': 3.303}
+{'text': 'or being women, or\nbeing anything--', 'start': 5654.247, 'duration': 2.47}
+{'text': 'but living in a favela, yes.', 'start': 5656.817, 'duration': 1.935}
+{'text': 'It was the biggest\nsource of their', 'start': 5658.852, 'duration': 1.735}
+{'text': 'being discriminated for\njobs or anything else.', 'start': 5660.688, 'duration': 2.969}
+{'text': 'So then I wrote my\nsecond book, Favela,', 'start': 5663.757, 'duration': 2.736}
+{'text': 'which talks about these\nmany longitudinal study,', 'start': 5666.594, 'duration': 2.836}
+{'text': 'many generations.', 'start': 5669.53, 'duration': 1.568}
+{'text': 'And the recent thing\nI wanted to report on', 'start': 5671.198, 'duration': 2.036}
+{'text': "was that I've been studying\nthe effects of the Olympics,", 'start': 5673.334, 'duration': 5.205}
+{'text': 'the World Cup and the Olympics,\non the favela communities', 'start': 5678.639, 'duration': 3.569}
+{'text': 'and what has happened in\nthese last three years.', 'start': 5682.309, 'duration': 2.57}
+{'text': 'So now there was a new excuse.', 'start': 5688.014, 'duration': 1.569}
+{'text': 'Getting ready,\ncleaning up the city', 'start': 5689.683, 'duration': 2.136}
+{'text': 'for these mega events opened\nthe doors to the unthinkable', 'start': 5691.919, 'duration': 3.37}
+{'text': 'return of favela removal and\nunthinkable occupation 24/7', 'start': 5695.389, 'duration': 5.239}
+{'text': 'of military police living\ninside the favelas,', 'start': 5700.728, 'duration': 3.57}
+{'text': 'carrying guns and using them\nand using their bullying power', 'start': 5704.398, 'duration': 4.204}
+{'text': 'at will, which ended up\nincreasing violence in the city', 'start': 5708.702, 'duration': 5.205}
+{'text': 'and ended up removing\nanother 177,000', 'start': 5714.007, 'duration': 4.172}
+{'text': 'people under the excuse of\ngetting ready for the Olympics.', 'start': 5718.279, 'duration': 3.636}
+{'text': 'So it was kind of\nback to the future.', 'start': 5722.015, 'duration': 2.736}
+{'text': "I don't have time to tell\nyou about the interplay", 'start': 5724.851, 'duration': 2.469}
+{'text': 'between research and\npractice and public policy.', 'start': 5727.42, 'duration': 2.937}
+{'text': "So I'll skip that and go\nright to my lessons learned.", 'start': 5730.457, 'duration': 5.405}
+{'text': 'OK.', 'start': 5735.962, 'duration': 0.969}
+{'text': "So I'll talk later\nabout the 25-year lag", 'start': 5737.031, 'duration': 2.401}
+{'text': 'time between knowledge creation\nand research and public policy.', 'start': 5739.532, 'duration': 3.638}
+{'text': "But I'll go right\nto what I learned", 'start': 5743.27, 'duration': 2.535}
+{'text': 'in these 50 years of work.', 'start': 5745.905, 'duration': 1.202}
+{'text': "One-- it's extremely\ndifficult to change people's", 'start': 5747.207, 'duration': 4.104}
+{'text': 'attitudes, perceptions,\nand belief systems.', 'start': 5751.411, 'duration': 4.471}
+{'text': 'They are very, very\ndeeply entrenched.', 'start': 5755.982, 'duration': 3.103}
+{'text': 'And media can fan these\nfears and these images', 'start': 5759.186, 'duration': 5.005}
+{'text': 'very easily, as we just saw.', 'start': 5764.291, 'duration': 1.735}
+{'text': "Two-- it's even more difficult\nto change people's behavior.", 'start': 5766.126, 'duration': 3.904}
+{'text': 'You might even open\ntheir minds a little,', 'start': 5770.13, 'duration': 2.302}
+{'text': 'but changing their behavior is\nvery, very much more difficult.', 'start': 5772.532, 'duration': 4.572}
+{'text': "Three-- it's even more difficult\nto change public policy.", 'start': 5777.204, 'duration': 4.638}
+{'text': 'And four-- it is more\nand more and more', 'start': 5781.942, 'duration': 3.337}
+{'text': 'difficult to change the way\npublic policy is implemented.', 'start': 5785.379, 'duration': 3.936}
+{'text': "So I've seen the\nwords and public", 'start': 5789.416, 'duration': 1.801}
+{'text': 'policy get to be perfect--', 'start': 5791.317, 'duration': 1.769}
+{'text': 'citizen participation,\nmonitoring and evaluation,', 'start': 5793.186, 'duration': 2.503}
+{'text': 'community control, community\ndecision making, arrangements', 'start': 5795.789, 'duration': 4.271}
+{'text': 'with the government to hold\naccountable, blah, blah--', 'start': 5800.16, 'duration': 3.737}
+{'text': 'nothing.', 'start': 5803.997, 'duration': 1.168}
+{'text': 'When it gets down to the\nimplementation on the ground,', 'start': 5805.265, 'duration': 3.47}
+{'text': 'the projects are delayed.', 'start': 5808.835, 'duration': 1.301}
+{'text': "It's easier to remove them, put\na public housing project there.", 'start': 5810.236, 'duration': 2.671}
+{'text': 'We started too late, no time\nfor baseline evaluation.', 'start': 5813.007, 'duration': 3.135}
+{'text': 'Forget the citizen\nparticipation, too.', 'start': 5816.242, 'duration': 2.637}
+{'text': 'So I put to us the challenge\nof this sentence that I also', 'start': 5818.979, 'duration': 7.14}
+{'text': 'have in a cartoon\nin my PowerPoint', 'start': 5826.219, 'duration': 3.67}
+{'text': 'that someone drew\nfor me, a Brazilian.', 'start': 5829.989, 'duration': 1.97}
+{'text': 'And it shows a guy\ndrawing a little plant.', 'start': 5832.059, 'duration': 3.837}
+{'text': 'And then it says, to plan is\nhuman, to implement divine.', 'start': 5835.996, 'duration': 4.571}
+{'text': 'And then it shows him watering\nthe plant and [inaudible] it.', 'start': 5840.667, 'duration': 3.37}
+{'text': "And so to end up, the new\nbook that I'm working on now", 'start': 5844.137, 'duration': 4.104}
+{'text': 'is called the\n[speaking portuguese],,', 'start': 5848.341, 'duration': 4.338}
+{'text': 'The Importance of Personhood.', 'start': 5852.779, 'duration': 2.169}
+{'text': "And it's all about\nthe bottom line,", 'start': 5855.048, 'duration': 2.102}
+{'text': 'is whether we can\ntreat the other', 'start': 5857.25, 'duration': 3.237}
+{'text': 'as a human being with\ndignity who is not invisible,', 'start': 5860.587, 'duration': 3.337}
+{'text': 'who is a creator and\nproducer of culture', 'start': 5864.024, 'duration': 2.536}
+{'text': 'and intellectual\ncapital, not a consumer', 'start': 5866.66, 'duration': 2.87}
+{'text': 'of the intellectual\ncapital and culture', 'start': 5869.63, 'duration': 2.068}
+{'text': 'that the elite is producing.', 'start': 5871.798, 'duration': 2.936}
+{'text': 'Thank you very much.', 'start': 5874.834, 'duration': 0.734}
+{'text': '[applause]', 'start': 5875.669, 'duration': 1.902}
+{'text': 'Well, thanks, Janice, and to\njust put another blunt point', 'start': 5883.077, 'duration': 3.97}
+{'text': 'to it, what if the pathology\nis not intrinsic to the slums', 'start': 5887.147, 'duration': 4.672}
+{'text': "but it's actually part and\nparcel of our reaction to them", 'start': 5891.919, 'duration': 4.004}
+{'text': 'and part and parcel\nof the way we', 'start': 5896.023, 'duration': 1.567}
+{'text': 'refuse to bridge the kind\nof gulf of otherness, which', 'start': 5897.69, 'duration': 4.672}
+{'text': 'is very often reinforced by the\nimages we produce in our films,', 'start': 5902.462, 'duration': 4.071}
+{'text': 'in our media, in our\nnews, that tell us', 'start': 5906.633, 'duration': 2.736}
+{'text': 'that we do not want\nto cross a bridge?', 'start': 5909.469, 'duration': 1.668}
+{'text': 'Because we can only do\nit with a guide, right?', 'start': 5911.238, 'duration': 2.702}
+{'text': 'So we have a couple of\nminutes for questions', 'start': 5914.041, 'duration': 2.803}
+{'text': "if there's anybody\nwith burning questions.", 'start': 5916.944, 'duration': 2.001}
+{'text': 'And we have a couple of\nmicrophones out there.', 'start': 5919.046, 'duration': 2.735}
+{'text': "Let's try to keep them quick.", 'start': 5921.881, 'duration': 2.369}
+{'text': "This is probably a response to\nMac's bluntness, provocation.", 'start': 5924.35, 'duration': 6.541}
+{'text': "Do you think it's fair--", 'start': 5930.991, 'duration': 1.201}
+{'text': "I'm interested in\nall of your reactions", 'start': 5932.292, 'duration': 2.736}
+{'text': "to this-- do you think\nit's fair to think", 'start': 5935.128, 'duration': 3.103}
+{'text': 'of slums as actually a vehicle\nfor socioeconomic mobility?', 'start': 5938.331, 'duration': 4.672}
+{'text': 'In my experience,\nslums are often', 'start': 5943.103, 'duration': 1.668}
+{'text': "places where there's incredible\nentrepreneurship, innovation.", 'start': 5944.871, 'duration': 6.04}
+{'text': 'It provides investment\nopportunities', 'start': 5951.011, 'duration': 3.336}
+{'text': 'for families, low\nincome families,', 'start': 5954.447, 'duration': 3.604}
+{'text': 'to invest outside of the\nformal economy in their homes.', 'start': 5958.151, 'duration': 8.109}
+{'text': "Granted, there's a\nlack of basic services.", 'start': 5966.36, 'duration': 3.436}
+{'text': "Do you think that's a\nfair way to view slums?", 'start': 5969.897, 'duration': 4.27}
+{'text': 'Or is somehow that neglecting\nsome intrinsic problems', 'start': 5974.267, 'duration': 5.005}
+{'text': 'that we should be addressing?', 'start': 5979.372, 'duration': 2.202}
+{'text': 'Well, my answer is I think\nit is a fair depiction.', 'start': 5981.674, 'duration': 3.071}
+{'text': 'And I think Sheila and\nothers that are part of this', 'start': 5984.845, 'duration': 2.035}
+{'text': 'will say yes.', 'start': 5986.98, 'duration': 0.968}
+{'text': 'In fact, these are\nthriving areas of both', 'start': 5988.048, 'duration': 4.204}
+{'text': 'of shelter and commerce.', 'start': 5992.352, 'duration': 2.502}
+{'text': 'And in Dharavi, what\ndo they produce--', 'start': 5994.954, 'duration': 1.602}
+{'text': '20-something percent of\nthe GDP of Mumbai, right?', 'start': 5996.656, 'duration': 5.005}
+{'text': 'I think we take a few questions.', 'start': 6001.761, 'duration': 1.736}
+{'text': '[inaudible]', 'start': 6003.597, 'duration': 0.901}
+{'text': 'Just to say quickly\nthat I think the answer,', 'start': 6007.834, 'duration': 1.735}
+{'text': 'like in so many of these\nthings, is yes and no.', 'start': 6009.67, 'duration': 1.868}
+{'text': "That is, that it's absolutely\nclear every place I've ever", 'start': 6011.638, 'duration': 2.569}
+{'text': 'been that these are oftentimes\nthe only way that people who', 'start': 6014.307, 'duration': 4.405}
+{'text': "come from regions where they\ndon't have an economic future", 'start': 6018.812, 'duration': 2.97}
+{'text': 'can find social mobility,\ncan get their kids in school.', 'start': 6021.882, 'duration': 3.17}
+{'text': 'And you see, really\nover the 120 years,', 'start': 6025.152, 'duration': 2.235}
+{'text': 'you see remarkable\nsocial mobility.', 'start': 6027.487, 'duration': 1.469}
+{'text': 'And people struggle for it.', 'start': 6029.056, 'duration': 0.801}
+{'text': 'And they fight for it.', 'start': 6029.957, 'duration': 0.867}
+{'text': "And it's the battle\nof their lives.", 'start': 6030.924, 'duration': 1.802}
+{'text': 'But this is where the point\ngets to take our focus away', 'start': 6032.826, 'duration': 3.737}
+{'text': 'from these as separate spaces\nand think of them as connected', 'start': 6036.663, 'duration': 3.437}
+{'text': 'to larger structures.', 'start': 6040.2, 'duration': 1.001}
+{'text': 'Because how much\nwould that energy', 'start': 6041.301, 'duration': 1.668}
+{'text': 'be rewarded more\nif these were not', 'start': 6043.069, 'duration': 2.17}
+{'text': 'places that were stigmatized\nby the vulnerabilities that', 'start': 6045.339, 'duration': 2.736}
+{'text': 'come along with not\nbeing legally sanctioned?', 'start': 6048.175, 'duration': 2.768}
+{'text': 'People pay costs\nfor informality,', 'start': 6051.044, 'duration': 2.202}
+{'text': 'even as informality\ngives them opportunity.', 'start': 6053.346, 'duration': 2.303}
+{'text': 'And so the problem is\nnot the slum itself.', 'start': 6055.749, 'duration': 2.002}
+{'text': 'The problem is the\nburden of vulnerability', 'start': 6057.851, 'duration': 3.07}
+{'text': 'that is placed on\nthat neighborhood', 'start': 6061.021, 'duration': 2.635}
+{'text': 'by being called informal,\nby being called illegal,', 'start': 6063.756, 'duration': 2.437}
+{'text': 'by being called a slum.', 'start': 6066.293, 'duration': 1.167}
+{'text': "So that's what I\nwould leave with.", 'start': 6067.56, 'duration': 1.335}
+{'text': 'Right, and the people say, look\nhow much they can do with $50.', 'start': 6068.995, 'duration': 3.271}
+{'text': 'Look how much they\nmade happen with $150.', 'start': 6072.366, 'duration': 3.603}
+{'text': "They don't say,\nimagine what they could", 'start': 6076.069, 'duration': 1.935}
+{'text': 'do if you gave them real money.', 'start': 6078.104, 'duration': 1.402}
+{'text': "It's just like, well, they\ncan get along on so little.", 'start': 6079.606, 'duration': 2.503}
+{'text': 'And they make so much of it.', 'start': 6082.209, 'duration': 1.334}
+{'text': "So that's sort of to\nfollow up what you said.", 'start': 6083.643, 'duration': 4.071}
+{'text': 'Do we have any other\nburning questions?', 'start': 6087.814, 'duration': 4.471}
+{'text': "I think you're all\nas stunned as--", 'start': 6092.385, 'duration': 1.935}
+{'text': "There's a question.", 'start': 6094.42, 'duration': 1.135}
+{'text': 'Alex has a question.', 'start': 6095.655, 'duration': 0.768}
+{'text': "First of all, a wonderful\nevening you're providing us--", 'start': 6099.593, 'duration': 4.404}
+{'text': "I go back to cinema because\nI think what I'm hearing", 'start': 6104.097, 'duration': 4.505}
+{'text': "and also what I'm seeing and\nwhen I look at this problem", 'start': 6108.702, 'duration': 2.769}
+{'text': 'historically, especially\nin the United States,', 'start': 6111.572, 'duration': 2.635}
+{'text': 'is that conception creates\nall sorts of obstacles', 'start': 6114.307, 'duration': 4.805}
+{'text': 'to improvement.', 'start': 6119.212, 'duration': 1.368}
+{'text': "And so I'd like to go back to\nthe idea of the complexity,", 'start': 6120.68, 'duration': 3.704}
+{'text': 'the community, all those\nkinds of things that might', 'start': 6124.484, 'duration': 3.303}
+{'text': 'have been in the early cinema.', 'start': 6127.887, 'duration': 1.902}
+{'text': "And of course, that's\na kind of trope", 'start': 6129.889, 'duration': 1.969}
+{'text': 'also, to find the\nauthentic [inaudible]', 'start': 6131.958, 'duration': 2.903}
+{'text': 'what you see in early\nAmerican cinema as well.', 'start': 6134.962, 'duration': 5.037}
+{'text': 'But anyway, the question\nwould be, is there a way', 'start': 6140.1, 'duration': 3.504}
+{'text': 'or are there filmmakers who\nwould take a different angle', 'start': 6143.704, 'duration': 4.938}
+{'text': 'and not take this\ndichotomy that was', 'start': 6148.742, 'duration': 2.869}
+{'text': 'so obvious in your\noriginal aerials,', 'start': 6151.711, 'duration': 3.137}
+{'text': "where it's always\nthis versus that,", 'start': 6154.948, 'duration': 3.103}
+{'text': 'and get at the complexity\nand the interconnection', 'start': 6158.151, 'duration': 3.236}
+{'text': 'of urban life?', 'start': 6161.487, 'duration': 0.969}
+{'text': 'Because we just said,\nthese are cities.', 'start': 6162.556, 'duration': 2.401}
+{'text': 'And some of the parts of\nthe city look like this.', 'start': 6165.058, 'duration': 1.935}
+{'text': 'Some parts look like that.', 'start': 6167.093, 'duration': 1.269}
+{'text': "We'd have a whole\ndifferent story to tell.", 'start': 6168.462, 'duration': 1.801}
+{'text': 'So that would be my question.', 'start': 6170.363, 'duration': 1.135}
+{'text': "It's on.", 'start': 6175.368, 'duration': 0.401}
+{'text': 'Just--', 'start': 6175.869, 'duration': 0.934}
+{'text': 'OK.', 'start': 6176.903, 'duration': 0.834}
+{'text': 'So the thing about\ncinema is that--', 'start': 6177.837, 'duration': 3.57}
+{'text': "and this is a question\nthat's posed all the time", 'start': 6181.507, 'duration': 3.504}
+{'text': 'to filmmakers-- because\ncinema approximates', 'start': 6185.111, 'duration': 2.87}
+{'text': 'the illusion of reality.', 'start': 6188.081, 'duration': 2.302}
+{'text': "So it's seen as a vehicle\nof representation.", 'start': 6190.484, 'duration': 3.403}
+{'text': "It's not representing.", 'start': 6193.987, 'duration': 1.535}
+{'text': 'None of these films\nare representing', 'start': 6195.622, 'duration': 1.969}
+{'text': 'any authentic reality.', 'start': 6197.691, 'duration': 2.002}
+{'text': 'They are entering\nthis universe of what', 'start': 6199.793, 'duration': 2.669}
+{'text': 'they imagine urban\nlife is to produce', 'start': 6202.562, 'duration': 3.47}
+{'text': 'a different kind of expression.', 'start': 6206.132, 'duration': 1.902}
+{'text': 'So I would like us to think\nabout cinema, these expressions', 'start': 6208.134, 'duration': 5.906}
+{'text': 'of an experience.', 'start': 6214.14, 'duration': 2.236}
+{'text': "It's not about capturing\nauthentic reality,", 'start': 6216.476, 'duration': 2.369}
+{'text': 'which is why I started\noff by saying that this', 'start': 6218.946, 'duration': 2.935}
+{'text': 'is a different form\nof knowledge that', 'start': 6221.981, 'duration': 2.169}
+{'text': 'has no relationship directly\nwith sociology, economics.', 'start': 6224.25, 'duration': 3.471}
+{'text': "It's about affect.", 'start': 6227.821, 'duration': 1.434}
+{'text': "It's about bodily sensation\nand that sensorium.", 'start': 6229.355, 'duration': 4.004}
+{'text': 'And I think the way in which\nthese last two films, City', 'start': 6233.459, 'duration': 2.803}
+{'text': 'of God, and the fact\nthat it disturbs,', 'start': 6236.362, 'duration': 3.337}
+{'text': 'for me is the great\nsuccess of these two films,', 'start': 6239.799, 'duration': 3.27}
+{'text': 'that it tends to disturb.', 'start': 6243.169, 'duration': 2.103}
+{'text': "And if you see\nBunuel's film, 1959,", 'start': 6245.372, 'duration': 2.903}
+{'text': "that is also really\ndisturbing because there's", 'start': 6248.375, 'duration': 2.369}
+{'text': 'no place for us to escape into\nfeeling a sense of pathos.', 'start': 6250.844, 'duration': 8.242}
+{'text': "And for me, that's\nthe key question here.", 'start': 6259.186, 'duration': 3.269}
+{'text': 'What these agency?', 'start': 6262.555, 'duration': 1.235}
+{'text': 'These are all people\nwho are agents of what', 'start': 6263.89, 'duration': 3.77}
+{'text': 'they are doing in these films.', 'start': 6267.76, 'duration': 1.335}
+{'text': 'So in that sense, the\ndepiction of the world', 'start': 6269.196, 'duration': 4.738}
+{'text': 'of the slum in\nwhich we feel we can', 'start': 6274.034, 'duration': 3.169}
+{'text': 'capture the complexity, to me\nseems like a bit of a myth.', 'start': 6277.303, 'duration': 4.872}
+{'text': "It's not really possible.", 'start': 6282.275, 'duration': 2.77}
+{'text': "That's the whole\npoint of these films,", 'start': 6285.145, 'duration': 1.902}
+{'text': "is that even when\nthey're at ground level,", 'start': 6287.147, 'duration': 3.302}
+{'text': "you can't see everything.", 'start': 6290.549, 'duration': 2.97}
+{'text': 'And from an aerial\nperspective, you', 'start': 6293.619, 'duration': 1.602}
+{'text': 'see even less of what\nthat experience is.', 'start': 6295.321, 'duration': 3.304}
+{'text': "So it's the density\nof this ecology.", 'start': 6298.725, 'duration': 2.136}
+{'text': "It's not about\ncapturing a vision.", 'start': 6300.961, 'duration': 2.969}
+{'text': "But it's about understanding\nthis what is this ecology?", 'start': 6304.03, 'duration': 4.405}
+{'text': 'It is dense.', 'start': 6308.535, 'duration': 0.9}
+{'text': 'It is difficult.\nAnd it is complex.', 'start': 6309.535, 'duration': 2.503}
+{'text': 'So as a practitioner and in\nseeing world cinema and the way', 'start': 6312.138, 'duration': 7.007}
+{'text': 'that world cinema has\ninteracted with all', 'start': 6319.245, 'duration': 3.637}
+{'text': 'these different\ngeographical territories', 'start': 6322.982, 'duration': 2.036}
+{'text': 'and tried to deal\nwith these questions,', 'start': 6325.118, 'duration': 2.236}
+{'text': "it's always this difficulty,\nthe problems of vision.", 'start': 6327.454, 'duration': 4.571}
+{'text': "No, it's about the limits\nof vision and what you can", 'start': 6332.125, 'duration': 2.769}
+{'text': 'and cannot capture.', 'start': 6334.994, 'duration': 1.903}
+{'text': 'And that arrogance--\nfilms, cinema', 'start': 6336.997, 'duration': 2.235}
+{'text': 'will have even less\nthan academics.', 'start': 6339.332, 'duration': 4.304}
+{'text': 'Filmmakers cannot\nwork that arrogance,', 'start': 6343.736, 'duration': 1.969}
+{'text': 'that I will show it all to you.', 'start': 6345.805, 'duration': 2.736}
+{'text': "That's the whole myth\nof the concept city", 'start': 6348.641, 'duration': 2.202}
+{'text': 'versus the labyrinth\nin city, that you', 'start': 6350.943, 'duration': 2.97}
+{'text': 'feel that you can\ntranscend to a point', 'start': 6354.013, 'duration': 3.737}
+{'text': 'from where you can\nactually illuminate.', 'start': 6357.85, 'duration': 2.603}
+{'text': 'But there is that tension\nthat runs throughout.', 'start': 6360.553, 'duration': 2.736}
+{'text': 'And that is the tension\nthat these films capture.', 'start': 6363.389, 'duration': 2.736}
+{'text': "So it's that\ntension that I think", 'start': 6366.225, 'duration': 2.903}
+{'text': 'is very interesting for us to\nthink about these questions.', 'start': 6369.228, 'duration': 3.304}
+{'text': 'And though I feel that\nsome people saw City of God', 'start': 6372.632, 'duration': 6.773}
+{'text': 'as disturbing, and\nSlumdog Millionaire', 'start': 6379.505, 'duration': 2.169}
+{'text': 'was really trashed in India,\nall for the wrong reasons.', 'start': 6381.774, 'duration': 4.672}
+{'text': 'There was some vague nationalism\nthat came to the fore.', 'start': 6386.546, 'duration': 2.869}
+{'text': 'And suddenly, there\nwas total denial.', 'start': 6389.515, 'duration': 1.735}
+{'text': "India doesn't have slums.", 'start': 6391.35, 'duration': 1.669}
+{'text': 'This is what we saw in\nall the newspapers--', 'start': 6393.119, 'duration': 2.703}
+{'text': 'total denial.', 'start': 6395.922, 'duration': 1.168}
+{'text': 'So for me, it was an event.', 'start': 6397.19, 'duration': 1.635}
+{'text': 'These are events.', 'start': 6398.925, 'duration': 1.935}
+{'text': 'Film should be seen--\nthese kinds of film', 'start': 6400.96, 'duration': 2.036}
+{'text': 'should be seen as political,\nsocial events that', 'start': 6403.096, 'duration': 3.437}
+{'text': 'open a world of\ndebate and discussion.', 'start': 6406.633, 'duration': 3.069}
+{'text': 'And it also makes us confront\nsome things about ourselves', 'start': 6409.802, 'duration': 4.438}
+{'text': 'also as spectators.', 'start': 6414.34, 'duration': 1.502}
+{'text': 'We are comfortable about\nseeing it in a certain way.', 'start': 6415.942, 'duration': 3.837}
+{'text': "And when doesn't go\nin that direction,", 'start': 6419.879, 'duration': 1.902}
+{'text': 'then we are disturbed.', 'start': 6421.881, 'duration': 1.635}
+{'text': 'And so that judgment\ncomes very easily.', 'start': 6423.616, 'duration': 2.303}
+{'text': "And that's why-- and I've got\ninto trouble about this many", 'start': 6426.019, 'duration': 3.57}
+{'text': 'times--', 'start': 6429.689, 'duration': 1.034}
+{'text': 'I do believe that the\naesthetics of violence', 'start': 6430.824, 'duration': 2.435}
+{'text': 'is a very powerful mode today.', 'start': 6433.359, 'duration': 2.57}
+{'text': "And unless we\nrecognize what it's", 'start': 6436.029, 'duration': 1.835}
+{'text': 'doing, how violence is actually\ncommunicating something,', 'start': 6437.964, 'duration': 4.471}
+{'text': 'it will be difficult\nfor us to understand', 'start': 6442.535, 'duration': 1.735}
+{'text': 'what is actually shifted in\ncinema in the recent past.', 'start': 6444.37, 'duration': 4.972}
+{'text': "So I think that's, for me,\nit's important to really think", 'start': 6449.442, 'duration': 4.304}
+{'text': 'about the tension and\nnot feel that this is', 'start': 6453.847, 'duration': 4.604}
+{'text': 'a problematic representation.', 'start': 6458.551, 'duration': 1.769}
+{'text': "Because it's not\ntrying to represent.", 'start': 6460.42, 'duration': 1.601}
+{'text': "It's trying to introduce us to\na tension that exists over here.", 'start': 6462.121, 'duration': 5.339}
+{'text': 'And then think about,\nwhat is this space?', 'start': 6467.56, 'duration': 3.337}
+{'text': 'Because I cannot really,\nas a film studies scholar,', 'start': 6470.997, 'duration': 4.905}
+{'text': 'I cannot immediately have\na relationship to policy.', 'start': 6476.002, 'duration': 3.336}
+{'text': 'Neither can I have\na relationship', 'start': 6479.438, 'duration': 1.902}
+{'text': 'to total knowledge.', 'start': 6481.44, 'duration': 2.069}
+{'text': 'Because I know the\nkind of myth-making', 'start': 6483.609, 'duration': 2.437}
+{'text': 'that goes on in\nthe world of cinema', 'start': 6486.146, 'duration': 1.768}
+{'text': 'and in the world of the academy.', 'start': 6488.014, 'duration': 2.303}
+{'text': 'So the fact that there is\nthat total knowledge possible,', 'start': 6490.417, 'duration': 4.604}
+{'text': 'that desire--', 'start': 6495.121, 'duration': 1.535}
+{'text': 'that desire needs to be\nalso questioned a little.', 'start': 6496.756, 'duration': 2.837}
+{'text': 'That total illumination is\nsomething that we can achieve.', 'start': 6502.262, 'duration': 3.236}
+{'text': 'I would like to leave it as\nincomplete and [inaudible]..', 'start': 6505.598, 'duration': 4.204}
+{'text': 'Which is our goal all along, to\ncreate tension and dissonance', 'start': 6509.902, 'duration': 2.937}
+{'text': 'and to provoke.', 'start': 6512.939, 'duration': 1.301}
+{'text': 'And I think this conference\nis off to an auspicious start.', 'start': 6514.34, 'duration': 2.77}
+{'text': "So we'll have to end there.", 'start': 6517.21, 'duration': 1.001}
+{'text': "We're definitely out of time.", 'start': 6518.311, 'duration': 1.201}
+{'text': 'I really, really\nthank you for coming.', 'start': 6519.612, 'duration': 2.002}
+{'text': 'I hope you help me\nthank our panelists', 'start': 6521.714, 'duration': 3.37}
+{'text': 'for a stimulating discussion.', 'start': 6525.184, 'duration': 1.435}
+{'text': '[applause]', 'start': 6526.72, 'duration': 2.669}

@@ -1,0 +1,782 @@
+{'text': 'everyone this is theaters propolis and', 'start': 11.54, 'duration': 5.38}
+{'text': 'the director of the architectural', 'start': 14.76, 'duration': 5.04}
+{'text': "associations design research lab and I'm", 'start': 16.92, 'duration': 5.73}
+{'text': 'joined today with three students as part', 'start': 19.8, 'duration': 6.66}
+{'text': "of our open live session hi I'm Athena", 'start': 22.65, 'duration': 12.12}
+{'text': "I'm a current face - hi I'm sorry yeah", 'start': 26.46, 'duration': 13.01}
+{'text': "hi I'm Olga now my phase one as well", 'start': 34.77, 'duration': 4.7}
+{'text': "we've sort of prepared a little bit of a", 'start': 40.13, 'duration': 4.6}
+{'text': 'presentation to kind of give a little', 'start': 42.87, 'duration': 4.74}
+{'text': 'bit of an overview about what the DRL is', 'start': 44.73, 'duration': 6.599}
+{'text': 'about and how that is really situating', 'start': 47.61, 'duration': 5.4}
+{'text': 'itself relative to the AAA', 'start': 51.329, 'duration': 8.491}
+{'text': 'so the PowerPoint presentation to kind', 'start': 53.01, 'duration': 8.459}
+{'text': 'of understand what the DRL is about I', 'start': 59.82, 'duration': 4.28}
+{'text': "think it's really important to", 'start': 61.469, 'duration': 5.61}
+{'text': 'understand a little bit about the ethos', 'start': 64.1, 'duration': 4.96}
+{'text': 'about what the architectural Association', 'start': 67.079, 'duration': 4.83}
+{'text': "is which for us in particular it's", 'start': 69.06, 'duration': 5.46}
+{'text': 'really about a continuing experiment so', 'start': 71.909, 'duration': 4.62}
+{'text': 'a lot of the work that we do is really', 'start': 74.52, 'duration': 4.769}
+{'text': 'motivated by asking informed questions', 'start': 76.529, 'duration': 5.281}
+{'text': 'about how architecture can really', 'start': 79.289, 'duration': 4.74}
+{'text': 'participate how we could develop a', 'start': 81.81, 'duration': 5.25}
+{'text': 'community of people that are exploring', 'start': 84.029, 'duration': 4.741}
+{'text': 'and I kind of informed the way what', 'start': 87.06, 'duration': 5.189}
+{'text': 'architecture could be the way that we', 'start': 88.77, 'duration': 5.899}
+{'text': 'sort of approach that is really about', 'start': 92.249, 'duration': 4.89}
+{'text': 'opening up these questions and dialogue', 'start': 94.669, 'duration': 5.141}
+{'text': "and discourse in a way that's really", 'start': 97.139, 'duration': 6.27}
+{'text': 'shared and collective and we are very', 'start': 99.81, 'duration': 6.089}
+{'text': 'fortunate to have a group of students', 'start': 103.409, 'duration': 4.17}
+{'text': 'that are coming to us from pretty much', 'start': 105.899, 'duration': 3.96}
+{'text': 'everywhere in the world over 35', 'start': 107.579, 'duration': 5.91}
+{'text': 'different countries 40 students each', 'start': 109.859, 'duration': 6.93}
+{'text': "year to sort of work with a staff that's", 'start': 113.489, 'duration': 5.19}
+{'text': 'also very international and practice', 'start': 116.789, 'duration': 3.63}
+{'text': 'based to really sort of discover what', 'start': 118.679, 'duration': 5.64}
+{'text': 'architecture is the a a spirited way has', 'start': 120.419, 'duration': 5.24}
+{'text': 'always been a place where', 'start': 124.319, 'duration': 3.6}
+{'text': 'experimentation was always for grounded', 'start': 125.659, 'duration': 4.75}
+{'text': 'as a way of actually trying to', 'start': 127.919, 'duration': 3.971}
+{'text': 'interrogate architecture', 'start': 130.409, 'duration': 4.091}
+{'text': 'as a way of thinking to explore that in', 'start': 131.89, 'duration': 5.04}
+{'text': 'a way that is progressive to try to be', 'start': 134.5, 'duration': 4.77}
+{'text': 'inventive and innovative and actually to', 'start': 136.93, 'duration': 5.1}
+{'text': 'try to understand how the contemporary', 'start': 139.27, 'duration': 5.34}
+{'text': 'way of thinking about architecture is', 'start': 142.03, 'duration': 4.44}
+{'text': "really evolving a discourse that's", 'start': 144.61, 'duration': 5.36}
+{'text': 'always been about sort of asking more', 'start': 146.47, 'duration': 7.11}
+{'text': "the DRL to be honest this year's 20th", 'start': 149.97, 'duration': 6.489}
+{'text': 'anniversary and part of that I think is', 'start': 153.58, 'duration': 5.82}
+{'text': "an ongoing kind of community that's been", 'start': 156.459, 'duration': 5.551}
+{'text': "developing that's really part of a much", 'start': 159.4, 'duration': 5.839}
+{'text': 'larger network of people within the AAA', 'start': 162.01, 'duration': 6.66}
+{'text': 'outside of the AAA and a big part of', 'start': 165.239, 'duration': 5.47}
+{'text': 'that I think is really to be very active', 'start': 168.67, 'duration': 4.349}
+{'text': 'in terms of developing this kind of idea', 'start': 170.709, 'duration': 4.261}
+{'text': 'of architecture some of the things that', 'start': 173.019, 'duration': 4.321}
+{'text': 'are very particular to the program have', 'start': 174.97, 'duration': 3.96}
+{'text': 'actually really been questioning the', 'start': 177.34, 'duration': 4.79}
+{'text': 'role of technology and also the way that', 'start': 178.93, 'duration': 5.37}
+{'text': 'architecture is toughts the', 'start': 182.13, 'duration': 4.12}
+{'text': 'methodologies that we sort of use the', 'start': 184.3, 'duration': 4.14}
+{'text': 'idea of practice and a lot of those', 'start': 186.25, 'duration': 3.84}
+{'text': 'things are kind of evolving from a', 'start': 188.44, 'duration': 3.84}
+{'text': 'period of the 60s and 70s where the', 'start': 190.09, 'duration': 5.399}
+{'text': 'computer kind of come into our world and', 'start': 192.28, 'duration': 5.1}
+{'text': 'the way that we sort of work on that is', 'start': 195.489, 'duration': 5.011}
+{'text': 'really about sort of using the a a and', 'start': 197.38, 'duration': 6.81}
+{'text': 'the idea of our space the city of London', 'start': 200.5, 'duration': 5.7}
+{'text': 'as a prototype and sort of exploring', 'start': 204.19, 'duration': 4.079}
+{'text': 'that in a way where we really consider', 'start': 206.2, 'duration': 4.5}
+{'text': 'this idea that almost everything could', 'start': 208.269, 'duration': 4.801}
+{'text': 'be considered architectural our basic', 'start': 210.7, 'duration': 4.64}
+{'text': 'premise is that space is an interface', 'start': 213.07, 'duration': 5.1}
+{'text': 'space is the kind of guiding principle', 'start': 215.34, 'duration': 4.679}
+{'text': 'that allows us to sort of look at', 'start': 218.17, 'duration': 4.95}
+{'text': 'architecture and in a very kind of open', 'start': 220.019, 'duration': 5.381}
+{'text': 'and exploratory way and it takes its', 'start': 223.12, 'duration': 4.26}
+{'text': 'cues I think to a kind of experimental', 'start': 225.4, 'duration': 4.619}
+{'text': 'idea of architecture that resonates', 'start': 227.38, 'duration': 4.169}
+{'text': 'maybe it was something that Hans whole', 'start': 230.019, 'duration': 3.661}
+{'text': 'line once said that he said a true', 'start': 231.549, 'duration': 4.021}
+{'text': 'architecture of our time will have to', 'start': 233.68, 'duration': 4.44}
+{'text': 'redefine itself and expand it means many', 'start': 235.57, 'duration': 3.87}
+{'text': 'areas outside of the traditional', 'start': 238.12, 'duration': 3.69}
+{'text': 'building will enter the realm of', 'start': 239.44, 'duration': 3.96}
+{'text': 'architecture and architecture and', 'start': 241.81, 'duration': 3.5}
+{'text': 'architects will enter new fields', 'start': 243.4, 'duration': 5.369}
+{'text': 'everything is architecture at the a a I', 'start': 245.31, 'duration': 5.29}
+{'text': "think it's always been about community", 'start': 248.769, 'duration': 4.621}
+{'text': 'about people working together I think', 'start': 250.6, 'duration': 4.35}
+{'text': 'this week is a good example of a', 'start': 253.39, 'duration': 2.849}
+{'text': 'graduate school trying to communicate', 'start': 254.95, 'duration': 3.48}
+{'text': 'itself relative to some of the things', 'start': 256.239, 'duration': 4.201}
+{'text': "that we're doing the way that that's", 'start': 258.43, 'duration': 4.14}
+{'text': 'done I think is really much about sort', 'start': 260.44, 'duration': 4.229}
+{'text': 'of using the school as a space where a', 'start': 262.57, 'duration': 2.59}
+{'text': 'lot', 'start': 264.669, 'duration': 2.381}
+{'text': 'this work is actually open to the', 'start': 265.16, 'duration': 4.41}
+{'text': 'general public and we invite people to', 'start': 267.05, 'duration': 4.55}
+{'text': 'come and actually see what we do', 'start': 269.57, 'duration': 6.39}
+{'text': 'January 11th and 12th of 2018 will be', 'start': 271.6, 'duration': 6.31}
+{'text': 'actually a presentation like the one', 'start': 275.96, 'duration': 3.12}
+{'text': "that you're seeing right now", 'start': 277.91, 'duration': 3.03}
+{'text': 'which we invite the whole series of', 'start': 279.08, 'duration': 4.59}
+{'text': 'international guests some from London', 'start': 280.94, 'duration': 5.61}
+{'text': 'some from abroad really share and to', 'start': 283.67, 'duration': 4.44}
+{'text': 'discuss I think a lot of the research', 'start': 286.55, 'duration': 3.72}
+{'text': 'agendas that were sort of developing the', 'start': 288.11, 'duration': 5.28}
+{'text': 'a is always had a of that people coming', 'start': 290.27, 'duration': 5.52}
+{'text': 'together in a kind of very horizontal', 'start': 293.39, 'duration': 5.28}
+{'text': 'manner where we could discuss a lot of', 'start': 295.79, 'duration': 4.92}
+{'text': 'the work and sort of problematize how', 'start': 298.67, 'duration': 4.08}
+{'text': 'architecture can sort of evolve a kind', 'start': 300.71, 'duration': 3.99}
+{'text': 'of agenda beyond this our current', 'start': 302.75, 'duration': 4.41}
+{'text': "research agenda is something that we're", 'start': 304.7, 'duration': 4.32}
+{'text': 'calling constructing agency and our', 'start': 307.16, 'duration': 4.43}
+{'text': 'studio really is an experiment in itself', 'start': 309.02, 'duration': 5.88}
+{'text': 'we work in teams we really believe in', 'start': 311.59, 'duration': 5.17}
+{'text': 'sort of collaboration and an', 'start': 314.9, 'duration': 3.48}
+{'text': 'interdisciplinary sort of approach to', 'start': 316.76, 'duration': 4.68}
+{'text': 'things as much of communicating', 'start': 318.38, 'duration': 4.74}
+{'text': 'ourselves and what teachers kind of', 'start': 321.44, 'duration': 3.57}
+{'text': "offer it's also students actually", 'start': 323.12, 'duration': 4.47}
+{'text': 'feeling a responsibility and', 'start': 325.01, 'duration': 4.59}
+{'text': 'accountability to actually teach and to', 'start': 327.59, 'duration': 4.19}
+{'text': 'share their knowledge with each other', 'start': 329.6, 'duration': 5.25}
+{'text': 'that extends to a community abroad here', 'start': 331.78, 'duration': 4.96}
+{'text': 'for example ray Cappy which is a', 'start': 334.85, 'duration': 5.43}
+{'text': 'director of CyArk with our studio trips', 'start': 336.74, 'duration': 5.85}
+{'text': 'that basically also extend I think the', 'start': 340.28, 'duration': 4.23}
+{'text': 'studio environment at the teaching', 'start': 342.59, 'duration': 3.96}
+{'text': 'environment at a domain of actually', 'start': 344.51, 'duration': 7.77}
+{'text': 'outside collaborators and innovators and', 'start': 346.55, 'duration': 8.25}
+{'text': "their own rights sometimes it's also", 'start': 352.28, 'duration': 4.83}
+{'text': 'having conversations with ourselves and', 'start': 354.8, 'duration': 4.38}
+{'text': 'the things that we sort of design it', 'start': 357.11, 'duration': 4.08}
+{'text': 'could be machines they could be robots', 'start': 359.18, 'duration': 4.8}
+{'text': "it could be prototypes but it's actually", 'start': 361.19, 'duration': 4.92}
+{'text': 'looking through making and making as a', 'start': 363.98, 'duration': 3.9}
+{'text': 'way of forming an understanding about', 'start': 366.11, 'duration': 4.559}
+{'text': 'things and asking about the potential', 'start': 367.88, 'duration': 4.17}
+{'text': 'and the possibilities about what', 'start': 370.669, 'duration': 3.541}
+{'text': 'architecture could be instead of trying', 'start': 372.05, 'duration': 5.07}
+{'text': 'to define what it should be we explore', 'start': 374.21, 'duration': 5.7}
+{'text': 'computation and try to make that the way', 'start': 377.12, 'duration': 5.73}
+{'text': 'that we can communicate in a in a more', 'start': 379.91, 'duration': 5.25}
+{'text': 'kind of expressive way in an accessible', 'start': 382.85, 'duration': 4.92}
+{'text': 'way how some of these ideas are very', 'start': 385.16, 'duration': 4.83}
+{'text': 'time-based and behavioural how things', 'start': 387.77, 'duration': 3.679}
+{'text': 'evolve over time and the', 'start': 389.99, 'duration': 3.109}
+{'text': 'a lot of the challenges that we have in', 'start': 391.449, 'duration': 4.08}
+{'text': 'a contemporary world is to really see', 'start': 393.099, 'duration': 3.96}
+{'text': 'how architecture could actively', 'start': 395.529, 'duration': 3.57}
+{'text': "participate beyond building it's about", 'start': 397.059, 'duration': 4.5}
+{'text': 'trying to think about how architecture', 'start': 399.099, 'duration': 5.19}
+{'text': 'as a way of approaching things and as a', 'start': 401.559, 'duration': 4.621}
+{'text': 'way of sort of communicating in between', 'start': 404.289, 'duration': 4.41}
+{'text': 'things offers the possibility for us to', 'start': 406.18, 'duration': 4.799}
+{'text': 'be involved in in many different things', 'start': 408.699, 'duration': 4.83}
+{'text': "and that's part of the the nature of the", 'start': 410.979, 'duration': 3.951}
+{'text': 'course is actually to create', 'start': 413.529, 'duration': 4.2}
+{'text': 'possibilities to work in architectural', 'start': 414.93, 'duration': 4.449}
+{'text': 'practices that are very leading and', 'start': 417.729, 'duration': 3.571}
+{'text': 'cutting edge to create their own', 'start': 419.379, 'duration': 5.641}
+{'text': 'practices but also to be educators to be', 'start': 421.3, 'duration': 6.479}
+{'text': 'professionals in every manner of', 'start': 425.02, 'duration': 4.59}
+{'text': 'speaking from technologists to', 'start': 427.779, 'duration': 5.07}
+{'text': 'architects and Urbanists we have a very', 'start': 429.61, 'duration': 5.94}
+{'text': 'active making culture we see it as a way', 'start': 432.849, 'duration': 4.65}
+{'text': 'of sort of developing proof of concepts', 'start': 435.55, 'duration': 4.709}
+{'text': 'and part of that is also to demonstrate', 'start': 437.499, 'duration': 5.01}
+{'text': 'prototypes and making things accessible', 'start': 440.259, 'duration': 4.44}
+{'text': 'and shared to communities that are not', 'start': 442.509, 'duration': 5.64}
+{'text': 'necessarily always architectural a lot', 'start': 444.699, 'duration': 5.161}
+{'text': 'of the work that we sort of develop is', 'start': 448.149, 'duration': 3.621}
+{'text': 'really about trying to explore', 'start': 449.86, 'duration': 5.13}
+{'text': 'materiality to sort of use opportunities', 'start': 451.77, 'duration': 6.79}
+{'text': 'to sort of develop live projects so for', 'start': 454.99, 'duration': 5.639}
+{'text': 'example in our tenth anniversary we held', 'start': 458.56, 'duration': 4.099}
+{'text': 'a competition for all of our graduates', 'start': 460.629, 'duration': 6.03}
+{'text': 'basically to design pavilion using fiber', 'start': 462.659, 'duration': 6.07}
+{'text': 'concrete and we built this as a', 'start': 466.659, 'duration': 4.921}
+{'text': 'proof-of-concept kind of site project', 'start': 468.729, 'duration': 5.61}
+{'text': 'that we did outside of the AAA as a way', 'start': 471.58, 'duration': 4.799}
+{'text': 'of also testing some assumptions and to', 'start': 474.339, 'duration': 5.31}
+{'text': 'make that as part of the kind of larger', 'start': 476.379, 'duration': 4.861}
+{'text': 'culture of actually what it means to', 'start': 479.649, 'duration': 4.711}
+{'text': 'create and make space the history of the', 'start': 481.24, 'duration': 6.299}
+{'text': 'DRL and prototyping has continued from', 'start': 484.36, 'duration': 5.01}
+{'text': "the very beginning and I think that's", 'start': 487.539, 'duration': 3.42}
+{'text': 'part of the sensibility this is a', 'start': 489.37, 'duration': 4.229}
+{'text': 'project you could see mark forms here', 'start': 490.959, 'duration': 5.311}
+{'text': 'which is one of our graduates you could', 'start': 493.599, 'duration': 4.891}
+{'text': 'fast forward 12 15 years now and you', 'start': 496.27, 'duration': 4.069}
+{'text': 'could see a project that he just', 'start': 498.49, 'duration': 6.06}
+{'text': 'recently opened large scale pavilion he', 'start': 500.339, 'duration': 5.741}
+{'text': 'set up his own practice called the very', 'start': 504.55, 'duration': 4.079}
+{'text': 'many in New York we have a student like', 'start': 506.08, 'duration': 5.819}
+{'text': 'Malika Alton istic who graduated with us', 'start': 508.629, 'duration': 6.21}
+{'text': 'ten years ago now actually being a', 'start': 511.899, 'duration': 4.591}
+{'text': 'project architect of her own office', 'start': 514.839, 'duration': 4.291}
+{'text': 'largest commission to design the largest', 'start': 516.49, 'duration': 5.13}
+{'text': 'tower in Turkey at the moment a lot of', 'start': 519.13, 'duration': 4.69}
+{'text': 'the things that we sort of developed', 'start': 521.62, 'duration': 4.72}
+{'text': 'really not about a certain tool set or a', 'start': 523.82, 'duration': 3.99}
+{'text': 'certain kind of idea of what', 'start': 526.34, 'duration': 4.41}
+{'text': "architecture style is but it's really", 'start': 527.81, 'duration': 4.86}
+{'text': 'about the culture of actually thinking', 'start': 530.75, 'duration': 3.65}
+{'text': 'and making and trying to find the', 'start': 532.67, 'duration': 4.05}
+{'text': 'possibilities of how to do that if you', 'start': 534.4, 'duration': 5.29}
+{'text': 'want to make an airborne architecture we', 'start': 536.72, 'duration': 5.7}
+{'text': 'believe that it could be possible there', 'start': 539.69, 'duration': 4.86}
+{'text': 'is no idea that actually we feel is not', 'start': 542.42, 'duration': 4.71}
+{'text': 'something worth developing as long as', 'start': 544.55, 'duration': 4.83}
+{'text': "there's a culture and a kind of", 'start': 547.13, 'duration': 4.05}
+{'text': 'accountability to sort of work through', 'start': 549.38, 'duration': 3.93}
+{'text': "some of those problems recently we've", 'start': 551.18, 'duration': 4.11}
+{'text': 'been challenging ideas and notions of', 'start': 553.31, 'duration': 4.47}
+{'text': "robotics our students don't come with a", 'start': 555.29, 'duration': 3.96}
+{'text': 'background in a lot of these things', 'start': 557.78, 'duration': 3.06}
+{'text': "we're not computer scientists were not", 'start': 559.25, 'duration': 4.92}
+{'text': 'robotics engineers but we actually work', 'start': 560.84, 'duration': 5.67}
+{'text': 'through a way of actually thinking and', 'start': 564.17, 'duration': 5.19}
+{'text': 'making that gives us sensibility and the', 'start': 566.51, 'duration': 4.86}
+{'text': 'community and opportunity to sort of', 'start': 569.36, 'duration': 3.6}
+{'text': 'actually see how these things could', 'start': 571.37, 'duration': 4.47}
+{'text': 'actually be attainable through a kind of', 'start': 572.96, 'duration': 6.09}
+{'text': 'learning and educational model which is', 'start': 575.84, 'duration': 6.69}
+{'text': 'really about sharing and developing that', 'start': 579.05, 'duration': 6.18}
+{'text': 'stuff continuously sort of finds its', 'start': 582.53, 'duration': 4.71}
+{'text': 'form in different ways and I think a lot', 'start': 585.23, 'duration': 4.95}
+{'text': 'of the ideas could actually be thought', 'start': 587.24, 'duration': 5.22}
+{'text': 'about this really simple ideas that kind', 'start': 590.18, 'duration': 5.19}
+{'text': 'of build up complexity this complexity', 'start': 592.46, 'duration': 5.49}
+{'text': 'kind of evolves over time and a lot of', 'start': 595.37, 'duration': 5.01}
+{'text': 'these projects by the nature of them', 'start': 597.95, 'duration': 4.11}
+{'text': 'being so collaborative and being', 'start': 600.38, 'duration': 3.33}
+{'text': 'developed in team-based sort of', 'start': 602.06, 'duration': 4.65}
+{'text': 'formations evolve as something that', 'start': 603.71, 'duration': 4.77}
+{'text': "actually is something that's outside of", 'start': 606.71, 'duration': 4.41}
+{'text': "any one particular author it's really", 'start': 608.48, 'duration': 4.29}
+{'text': 'about the group of people coming', 'start': 611.12, 'duration': 4.65}
+{'text': 'together and responding to much larger', 'start': 612.77, 'duration': 5.06}
+{'text': 'challenges this project in particular', 'start': 615.77, 'duration': 4.71}
+{'text': 'looking at what a self organizational', 'start': 617.83, 'duration': 5.5}
+{'text': 'model could be for rethinking a strategy', 'start': 620.48, 'duration': 6.06}
+{'text': 'for a space architecture we took this', 'start': 623.33, 'duration': 5.55}
+{'text': 'project something that was very serious', 'start': 626.54, 'duration': 3.54}
+{'text': "this isn't something about", 'start': 628.88, 'duration': 3.15}
+{'text': 'representation or modeling this was', 'start': 630.08, 'duration': 3.96}
+{'text': 'something about thinking about an', 'start': 632.03, 'duration': 3.96}
+{'text': "architecture that is dynamic that's", 'start': 634.04, 'duration': 4.71}
+{'text': 'continuously challenging evolving very', 'start': 635.99, 'duration': 5.16}
+{'text': 'time-based that also dealing with very', 'start': 638.75, 'duration': 4.79}
+{'text': 'real-world constraints so for example', 'start': 641.15, 'duration': 6.03}
+{'text': 'limitation of materials and the costs', 'start': 643.54, 'duration': 5.5}
+{'text': 'that it takes to actually put things out', 'start': 647.18, 'duration': 4.05}
+{'text': 'into space looking at challenges like', 'start': 649.04, 'duration': 4.16}
+{'text': 'space dust and all of these other things', 'start': 651.23, 'duration': 4.61}
+{'text': 'but already becoming real', 'start': 653.2, 'duration': 4.95}
+{'text': 'issues within that environment but aside', 'start': 655.84, 'duration': 5.12}
+{'text': 'from our own speculations we traveled to', 'start': 658.15, 'duration': 5.55}
+{'text': 'California we met with a jet propulsion', 'start': 660.96, 'duration': 5.35}
+{'text': 'lab we met with space architects a lot', 'start': 663.7, 'duration': 5.55}
+{'text': 'of our assumptions are founded on the', 'start': 666.31, 'duration': 4.41}
+{'text': 'fact that a lot of the kind of', 'start': 669.25, 'duration': 4.11}
+{'text': 'accessible material experimentation is', 'start': 670.72, 'duration': 4.77}
+{'text': 'there but we make it part of our', 'start': 673.36, 'duration': 4.23}
+{'text': 'methodology to really reach out to the', 'start': 675.49, 'duration': 4.47}
+{'text': 'community and to share sort of our', 'start': 677.59, 'duration': 5.49}
+{'text': 'design thinking and research and at the', 'start': 679.96, 'duration': 5.04}
+{'text': 'same time actually open that up I think', 'start': 683.08, 'duration': 5.55}
+{'text': 'to the challenges we very much feel that', 'start': 685.0, 'duration': 5.55}
+{'text': 'the architecture is anticipatory and', 'start': 688.63, 'duration': 4.65}
+{'text': 'participatory by its nature and by doing', 'start': 690.55, 'duration': 4.53}
+{'text': 'that I think it affords us a way to', 'start': 693.28, 'duration': 4.14}
+{'text': 'actually really reach out to the general', 'start': 695.08, 'duration': 5.73}
+{'text': 'public as a whole computation is', 'start': 697.42, 'duration': 5.67}
+{'text': "something that's very important but", 'start': 700.81, 'duration': 3.81}
+{'text': "actually this isn't a course about", 'start': 703.09, 'duration': 4.29}
+{'text': "technology for technology's sake we just", 'start': 704.62, 'duration': 5.01}
+{'text': 'feel that technology today enables us to', 'start': 707.38, 'duration': 5.34}
+{'text': 'really push further I think a lot of the', 'start': 709.63, 'duration': 5.4}
+{'text': 'radical ideas that were set as a', 'start': 712.72, 'duration': 5.07}
+{'text': 'continuing kind of expand our students', 'start': 715.03, 'duration': 5.76}
+{'text': 'are very actively using the tools of', 'start': 717.79, 'duration': 5.37}
+{'text': 'today to sort of be able to continue', 'start': 720.79, 'duration': 5.58}
+{'text': "some of that legacy so I'm just gonna", 'start': 723.16, 'duration': 5.37}
+{'text': 'wrap up by basically saying Cedric price', 'start': 726.37, 'duration': 4.83}
+{'text': 'was one of our key figures that have', 'start': 728.53, 'duration': 4.26}
+{'text': 'come out of the a a used to say that', 'start': 731.2, 'duration': 4.2}
+{'text': 'technology is the answer he followed', 'start': 732.79, 'duration': 4.62}
+{'text': 'that up by actually what was a question', 'start': 735.4, 'duration': 3.72}
+{'text': 'and I think that sort of sets up a', 'start': 737.41, 'duration': 4.2}
+{'text': 'little bit how we actually think about', 'start': 739.12, 'duration': 4.56}
+{'text': "the DRL it's about trying to ask more", 'start': 741.61, 'duration': 4.05}
+{'text': 'informed ways of asking questions', 'start': 743.68, 'duration': 4.41}
+{'text': "so with that I'm gonna pass this to", 'start': 745.66, 'duration': 4.29}
+{'text': 'Arianna and she could speak a little bit', 'start': 748.09, 'duration': 4.38}
+{'text': "about some of the work that they've been", 'start': 749.95, 'duration': 6.0}
+{'text': 'doing actually right now was there time', 'start': 752.47, 'duration': 6.17}
+{'text': 'and build space', 'start': 755.95, 'duration': 18.16}
+{'text': '[Music]', 'start': 758.64, 'duration': 17.37}
+{'text': '[Applause]', 'start': 774.11, 'duration': 35.34}
+{'text': '[Music]', 'start': 776.01, 'duration': 33.44}
+{'text': 'in which our project much more because', 'start': 819.05, 'duration': 6.01}
+{'text': 'we were able to converse about the', 'start': 823.23, 'duration': 3.45}
+{'text': 'things that are happening at the TRL', 'start': 825.06, 'duration': 5.58}
+{'text': 'with people that have no idea of who we', 'start': 826.68, 'duration': 6.57}
+{'text': 'are but are interested in in our work', 'start': 830.64, 'duration': 5.49}
+{'text': 'and I think that the things that', 'start': 833.25, 'duration': 7.23}
+{'text': "happened while we were there like we're", 'start': 836.13, 'duration': 7.53}
+{'text': 'amazing I think that we all come closer', 'start': 840.48, 'duration': 5.58}
+{'text': 'together in this video trip but also we', 'start': 843.66, 'duration': 4.95}
+{'text': 'have time to really just have fun with', 'start': 846.06, 'duration': 4.05}
+{'text': "what we're doing and I think that sees", 'start': 848.61, 'duration': 3.33}
+{'text': "this is what the program is about it's", 'start': 850.11, 'duration': 5.58}
+{'text': 'sixteen months of free freedom for', 'start': 851.94, 'duration': 6.3}
+{'text': 'creation and research and in the best', 'start': 855.69, 'duration': 3.78}
+{'text': 'way possible', 'start': 858.24, 'duration': 5.82}
+{'text': 'just making and creation which I think', 'start': 859.47, 'duration': 7.74}
+{'text': 'it makes the TRL a very special place', 'start': 864.06, 'duration': 6.75}
+{'text': "not we don't have that luxury anywhere", 'start': 867.21, 'duration': 4.92}
+{'text': 'but here', 'start': 870.81, 'duration': 5.22}
+{'text': "so in that way I think that's what sets", 'start': 872.13, 'duration': 8.94}
+{'text': 'us apart you guys want to talk a little', 'start': 876.03, 'duration': 7.65}
+{'text': 'bit about your your experience cuz you', 'start': 881.07, 'duration': 5.82}
+{'text': "guys just came here right so Briana it's", 'start': 883.68, 'duration': 6.33}
+{'text': 'basically in her last five weeks with us', 'start': 886.89, 'duration': 7.38}
+{'text': 'which is a 16 month course and I think', 'start': 890.01, 'duration': 5.94}
+{'text': 'one of the things that makes the course', 'start': 894.27, 'duration': 3.51}
+{'text': 'very interesting is to have this kind of', 'start': 895.95, 'duration': 4.29}
+{'text': 'overlap where the thesis students are', 'start': 897.78, 'duration': 4.92}
+{'text': 'finishing and at the same time we have a', 'start': 900.24, 'duration': 4.65}
+{'text': 'new cohort of students kind of coming in', 'start': 902.7, 'duration': 3.93}
+{'text': 'and maybe I think it would be nice for', 'start': 904.89, 'duration': 3.27}
+{'text': 'you guys just to basically share a', 'start': 906.63, 'duration': 3.8}
+{'text': 'little bit some of your thinking and', 'start': 908.16, 'duration': 4.11}
+{'text': 'some of the things that maybe have', 'start': 910.43, 'duration': 3.76}
+{'text': 'brought you here and I think actually a', 'start': 912.27, 'duration': 4.8}
+{'text': 'little bit probably a lot of the', 'start': 914.19, 'duration': 4.3}
+{'text': 'questions that you had', 'start': 917.07, 'duration': 4.87}
+{'text': "prior to coming here which I'm not sure", 'start': 918.49, 'duration': 4.98}
+{'text': 'that those have been answered yet but I', 'start': 921.94, 'duration': 3.75}
+{'text': 'think as part of the process I think it', 'start': 923.47, 'duration': 5.1}
+{'text': 'would be great for people I think to to', 'start': 925.69, 'duration': 6.15}
+{'text': 'get your perspective I would like to say', 'start': 928.57, 'duration': 5.46}
+{'text': 'that um I came last year for the', 'start': 931.84, 'duration': 6.27}
+{'text': "presentation of phase 2 and that's a", 'start': 934.03, 'duration': 6.45}
+{'text': 'great opportunity to speak with these', 'start': 938.11, 'duration': 4.35}
+{'text': "guys and figure out what we're gonna do", 'start': 940.48, 'duration': 4.53}
+{'text': 'and see the projects they make so I', 'start': 942.46, 'duration': 5.46}
+{'text': "would say if you're interesting this", 'start': 945.01, 'duration': 4.71}
+{'text': 'program just visit this presentation', 'start': 947.92, 'duration': 4.05}
+{'text': "it's amazing we'll be all around you", 'start': 949.72, 'duration': 4.77}
+{'text': "will talk with people and that's great", 'start': 951.97, 'duration': 4.71}
+{'text': 'for me it was really helpful and that', 'start': 954.49, 'duration': 3.72}
+{'text': 'was the point that I say I would like to', 'start': 956.68, 'duration': 4.62}
+{'text': 'join this program and secondly this', 'start': 958.21, 'duration': 4.89}
+{'text': 'overlapping with a face to at the', 'start': 961.3, 'duration': 4.2}
+{'text': 'beginning it was a little bit weird they', 'start': 963.1, 'duration': 4.56}
+{'text': 'told us we have to help this hey guys', 'start': 965.5, 'duration': 4.77}
+{'text': 'and but to be honest the first', 'start': 967.66, 'duration': 4.62}
+{'text': 'presentation or so from you guys I was', 'start': 970.27, 'duration': 3.12}
+{'text': 'like a bit afraid', 'start': 972.28, 'duration': 3.39}
+{'text': 'I saw all this stuff and was like oh my', 'start': 973.39, 'duration': 5.34}
+{'text': 'god am I gonna do this things but after', 'start': 975.67, 'duration': 5.49}
+{'text': 'starting helping you it was much more', 'start': 978.73, 'duration': 4.8}
+{'text': 'easier and yesterday I was sitting there', 'start': 981.16, 'duration': 4.08}
+{'text': 'and so the presentation was pretty sure', 'start': 983.53, 'duration': 7.04}
+{'text': "that I'm gonna do all the stuff so yeah", 'start': 985.24, 'duration': 5.33}
+{'text': 'reasons why you want to come here but I', 'start': 991.65, 'duration': 4.75}
+{'text': 'can share my experience after I came', 'start': 993.79, 'duration': 5.04}
+{'text': 'here because I had some questions in my', 'start': 996.4, 'duration': 4.49}
+{'text': 'mind that we are actually doing in', 'start': 998.83, 'duration': 4.95}
+{'text': 'teamwork and actually this is like the', 'start': 1000.89, 'duration': 5.59}
+{'text': 'the main part of the program actually', 'start': 1003.78, 'duration': 4.41}
+{'text': 'because you learn to communicate with', 'start': 1006.48, 'duration': 5.82}
+{'text': 'people and I think that was I mean tio', 'start': 1008.19, 'duration': 6.51}
+{'text': 'was talking about that small school as a', 'start': 1012.3, 'duration': 4.71}
+{'text': 'community and you get to know people', 'start': 1014.7, 'duration': 5.85}
+{'text': 'from all around the world and you get to', 'start': 1017.01, 'duration': 7.079}
+{'text': 'you know communicate you know in', 'start': 1020.55, 'duration': 6.3}
+{'text': 'architectural you know projects and', 'start': 1024.089, 'duration': 5.131}
+{'text': 'stuff and also the overlapping was super', 'start': 1026.85, 'duration': 5.52}
+{'text': 'helpful that you can dive into the', 'start': 1029.22, 'duration': 5.439}
+{'text': 'projects over the phase twos and you', 'start': 1032.37, 'duration': 5.279}
+{'text': 'you know technical details programming', 'start': 1034.659, 'duration': 5.76}
+{'text': 'you can ever critique about their', 'start': 1037.649, 'duration': 4.45}
+{'text': "projects and you can see what you're", 'start': 1040.419, 'duration': 4.35}
+{'text': 'gonna do in the future as well yeah yeah', 'start': 1042.099, 'duration': 6.15}
+{'text': "I think for me it was it's a lot about", 'start': 1044.769, 'duration': 5.79}
+{'text': 'this accumulation of knowledge which is', 'start': 1048.249, 'duration': 4.53}
+{'text': 'super important in the course because I', 'start': 1050.559, 'duration': 6.391}
+{'text': 'think the overlap between faces gives', 'start': 1052.779, 'duration': 7.14}
+{'text': 'you guys a lot of security it gave me a', 'start': 1056.95, 'duration': 5.069}
+{'text': 'lot of security when I started helping', 'start': 1059.919, 'duration': 4.35}
+{'text': 'the face juice you see that you have a', 'start': 1062.019, 'duration': 4.561}
+{'text': "lot of backup like it's it's a big", 'start': 1064.269, 'duration': 4.26}
+{'text': "community and there's a lot of knowledge", 'start': 1066.58, 'duration': 5.159}
+{'text': "that you build up from it's not that you", 'start': 1068.529, 'duration': 5.28}
+{'text': "are starting from scratch or it's", 'start': 1071.739, 'duration': 4.201}
+{'text': 'expected that you come with all this', 'start': 1073.809, 'duration': 4.131}
+{'text': 'knowledge when programming and coding', 'start': 1075.94, 'duration': 4.89}
+{'text': "it's really a lot that's there it's a", 'start': 1077.94, 'duration': 5.349}
+{'text': "really big foundation and I think that's", 'start': 1080.83, 'duration': 5.76}
+{'text': 'important yeah I mean I think just', 'start': 1083.289, 'duration': 6.031}
+{'text': 'generally speaking the things that are', 'start': 1086.59, 'duration': 6.569}
+{'text': 'really important to me in really', 'start': 1089.32, 'duration': 8.729}
+{'text': 'assessing I think how how we sort of', 'start': 1093.159, 'duration': 6.33}
+{'text': "deliver in the education that we're", 'start': 1098.049, 'duration': 2.94}
+{'text': 'trying to do is really to try to', 'start': 1099.489, 'duration': 3.69}
+{'text': 'maintain the DRL is really a platform', 'start': 1100.989, 'duration': 4.89}
+{'text': "that there's really an open framework to", 'start': 1103.179, 'duration': 5.22}
+{'text': 'kind of allow students particularly to', 'start': 1105.879, 'duration': 5.67}
+{'text': 'come to the course to really bring', 'start': 1108.399, 'duration': 6.301}
+{'text': 'themselves in a very kind of open minded', 'start': 1111.549, 'duration': 5.61}
+{'text': 'way to really explore I think some of', 'start': 1114.7, 'duration': 3.779}
+{'text': "the challenges of what we're dealing", 'start': 1117.159, 'duration': 4.19}
+{'text': 'with today in contemporary society and', 'start': 1118.479, 'duration': 5.43}
+{'text': 'the approach that we have I think is', 'start': 1121.349, 'duration': 4.69}
+{'text': "speaks about community because it's a", 'start': 1123.909, 'duration': 5.13}
+{'text': 'way to actually deeply understand and', 'start': 1126.039, 'duration': 4.801}
+{'text': 'not only the kind of social issues that', 'start': 1129.039, 'duration': 4.2}
+{'text': 'are thought about but actually the', 'start': 1130.84, 'duration': 4.019}
+{'text': 'nature of how we work on those problems', 'start': 1133.239, 'duration': 3.601}
+{'text': 'and actually the way that we produce and', 'start': 1134.859, 'duration': 4.38}
+{'text': 'think about architecture and I think', 'start': 1136.84, 'duration': 4.85}
+{'text': 'sometimes you know for me particularly', 'start': 1139.239, 'duration': 5.461}
+{'text': 'you use the word kind of to be comforted', 'start': 1141.69, 'duration': 5.77}
+{'text': 'in some sense the fact that students are', 'start': 1144.7, 'duration': 4.979}
+{'text': 'coming with a lot of enthusiasm and', 'start': 1147.46, 'duration': 5.399}
+{'text': 'energy I think motivates the staff in a', 'start': 1149.679, 'duration': 6.24}
+{'text': 'way that to be honest is kind of almost', 'start': 1152.859, 'duration': 5.55}
+{'text': 'an obsession or a way of really trying', 'start': 1155.919, 'duration': 6.96}
+{'text': 'to also kind of in a very deeply', 'start': 1158.409, 'duration': 6.93}
+{'text': 'personal way from my perspective remind', 'start': 1162.879, 'duration': 4.701}
+{'text': 'myself why I came here as well', 'start': 1165.339, 'duration': 4.821}
+{'text': 'and maybe as being the longest standing', 'start': 1167.58, 'duration': 6.75}
+{'text': "member of the DRL in some sense it's a", 'start': 1170.16, 'duration': 5.61}
+{'text': 'place that actually on a year-to-year', 'start': 1174.33, 'duration': 3.75}
+{'text': 'basis kind of reinvigorates me to', 'start': 1175.77, 'duration': 4.47}
+{'text': 'actually really engage with a lot of the', 'start': 1178.08, 'duration': 3.81}
+{'text': 'discussions and working with young', 'start': 1180.24, 'duration': 4.8}
+{'text': 'people actually is an amazingly enabling', 'start': 1181.89, 'duration': 5.49}
+{'text': 'way of thinking about how we could', 'start': 1185.04, 'duration': 3.78}
+{'text': 'actually really make a meaningful', 'start': 1187.38, 'duration': 4.35}
+{'text': "influence on things so for me like it's", 'start': 1188.82, 'duration': 5.01}
+{'text': 'always like really important to actually', 'start': 1191.73, 'duration': 5.04}
+{'text': 'be able to discuss these things and our', 'start': 1193.83, 'duration': 5.4}
+{'text': 'staff is also I think very important to', 'start': 1196.77, 'duration': 4.02}
+{'text': 'recognize that there are practitioners', 'start': 1199.23, 'duration': 4.8}
+{'text': "they believe in design we're kind of", 'start': 1200.79, 'duration': 5.61}
+{'text': 'unapologetic about that stuff we we', 'start': 1204.03, 'duration': 4.8}
+{'text': 'really feel that design actually makes a', 'start': 1206.4, 'duration': 4.92}
+{'text': 'difference and a lot of the things that', 'start': 1208.83, 'duration': 4.29}
+{'text': 'actually are brought to the table are', 'start': 1211.32, 'duration': 3.9}
+{'text': 'also very much based on the fact that', 'start': 1213.12, 'duration': 5.16}
+{'text': 'our community is so international that', 'start': 1215.22, 'duration': 5.76}
+{'text': 'though they may be scared or curious if', 'start': 1218.28, 'duration': 4.11}
+{'text': "they're able to do these things that", 'start': 1220.98, 'duration': 2.67}
+{'text': 'they can develop this kind of', 'start': 1222.39, 'duration': 4.52}
+{'text': 'technological kind of approach to stuff', 'start': 1223.65, 'duration': 5.19}
+{'text': "fundamentally they're all architects", 'start': 1226.91, 'duration': 3.88}
+{'text': 'actually really coming with their own', 'start': 1228.84, 'duration': 4.32}
+{'text': 'knowledge and I think as they get more', 'start': 1230.79, 'duration': 4.8}
+{'text': 'confident in terms of actually feeling', 'start': 1233.16, 'duration': 4.71}
+{'text': 'that they are capable of exploring some', 'start': 1235.59, 'duration': 4.35}
+{'text': "of these things and I think that's what", 'start': 1237.87, 'duration': 4.23}
+{'text': 'really makes an empowering kind of', 'start': 1239.94, 'duration': 4.08}
+{'text': 'community is actually understanding how', 'start': 1242.1, 'duration': 4.74}
+{'text': 'these things actually come together and', 'start': 1244.02, 'duration': 4.53}
+{'text': 'they think the projects reflect that', 'start': 1246.84, 'duration': 3.93}
+{'text': 'because they are kind of co-authored and', 'start': 1248.55, 'duration': 4.13}
+{'text': 'shared and this knowledge is something', 'start': 1250.77, 'duration': 5.1}
+{'text': 'that this actually maintains through I', 'start': 1252.68, 'duration': 5.59}
+{'text': 'think the dynamism of conversation and', 'start': 1255.87, 'duration': 5.36}
+{'text': 'the real confidence in the fact that', 'start': 1258.27, 'duration': 5.13}
+{'text': 'architecture is actually a very', 'start': 1261.23, 'duration': 5.47}
+{'text': 'important participant today more so now', 'start': 1263.4, 'duration': 7.14}
+{'text': 'that maybe ever so I think like we have', 'start': 1266.7, 'duration': 5.55}
+{'text': 'some questions that people are sending', 'start': 1270.54, 'duration': 4.71}
+{'text': 'in and some of them have to do with', 'start': 1272.25, 'duration': 8.4}
+{'text': "software that's pretty fair question if", 'start': 1275.25, 'duration': 9.48}
+{'text': "I'm honest so we don't have any mandate", 'start': 1280.65, 'duration': 7.71}
+{'text': 'that you actually have to know digital', 'start': 1284.73, 'duration': 5.97}
+{'text': 'tools prior to coming so generally', 'start': 1288.36, 'duration': 4.5}
+{'text': 'speaking are also our approach to', 'start': 1290.7, 'duration': 6.03}
+{'text': "software isn't tied to a particular way", 'start': 1292.86, 'duration': 6.09}
+{'text': 'of thinking about computation so', 'start': 1296.73, 'duration': 4.6}
+{'text': 'basically any piece of software', 'start': 1298.95, 'duration': 5.75}
+{'text': "that you think would be useful we'll", 'start': 1301.33, 'duration': 6.07}
+{'text': 'teach you and honestly the way that we', 'start': 1304.7, 'duration': 4.83}
+{'text': 'structure everything is that you develop', 'start': 1307.4, 'duration': 4.5}
+{'text': 'workshops that help you to develop I', 'start': 1309.53, 'duration': 4.2}
+{'text': 'think more complex ideas of how to use', 'start': 1311.9, 'duration': 5.13}
+{'text': 'computation the software platforms we', 'start': 1313.73, 'duration': 5.64}
+{'text': 'teach pretty much all of them in', 'start': 1317.03, 'duration': 5.21}
+{'text': 'software tutorials that students are', 'start': 1319.37, 'duration': 5.34}
+{'text': 'working with some very good staff', 'start': 1322.24, 'duration': 4.42}
+{'text': 'teaching some of these things but beyond', 'start': 1324.71, 'duration': 3.84}
+{'text': "skill sets and so forth it's really", 'start': 1326.66, 'duration': 4.71}
+{'text': 'about trying to think in a more', 'start': 1328.55, 'duration': 5.85}
+{'text': 'conceptual way about how to use some of', 'start': 1331.37, 'duration': 4.8}
+{'text': 'these platforms as a way to actually', 'start': 1334.4, 'duration': 4.08}
+{'text': 'develop things we do a lot of scripting', 'start': 1336.17, 'duration': 5.04}
+{'text': 'we developed descriptive geometries we', 'start': 1338.48, 'duration': 5.4}
+{'text': 'work with tangible media we try to', 'start': 1341.21, 'duration': 5.01}
+{'text': 'develop strategies for sensing we think', 'start': 1343.88, 'duration': 4.08}
+{'text': 'about robotics and how to communicate', 'start': 1346.22, 'duration': 4.95}
+{'text': 'with machines I can sound a little bit', 'start': 1347.96, 'duration': 5.97}
+{'text': "overwhelming but realistically we don't", 'start': 1351.17, 'duration': 4.56}
+{'text': "do this in isolation we're working on", 'start': 1353.93, 'duration': 3.48}
+{'text': 'these things together and because the', 'start': 1355.73, 'duration': 3.54}
+{'text': 'students work together with the staff to', 'start': 1357.41, 'duration': 3.51}
+{'text': 'develop this the learning curve of that', 'start': 1359.27, 'duration': 5.4}
+{'text': 'is quite quick so if you have a lot of', 'start': 1360.92, 'duration': 6.27}
+{'text': "reservations about software and it's not", 'start': 1364.67, 'duration': 4.5}
+{'text': 'a software finishing school but we will', 'start': 1367.19, 'duration': 5.67}
+{'text': 'teach you how to do some stuff the other', 'start': 1369.17, 'duration': 6.06}
+{'text': 'questions here where do most graduates', 'start': 1372.86, 'duration': 6.18}
+{'text': 'work after completing this degree which', 'start': 1375.23, 'duration': 6.9}
+{'text': 'I guess this is to me because these guys', 'start': 1379.04, 'duration': 5.88}
+{'text': "are still here I don't really have a", 'start': 1382.13, 'duration': 4.79}
+{'text': 'magic ball with me right now for them', 'start': 1384.92, 'duration': 5.22}
+{'text': 'but I mean our students actually do a', 'start': 1386.92, 'duration': 5.38}
+{'text': 'lot of things over the 20 years I think', 'start': 1390.14, 'duration': 4.95}
+{'text': 'they have set up some very successful', 'start': 1392.3, 'duration': 5.46}
+{'text': 'practices in their own right', 'start': 1395.09, 'duration': 5.57}
+{'text': 'some of them like office and Slovenia or', 'start': 1397.76, 'duration': 6.45}
+{'text': 'Yosuke hi Jana who was a partner of Ma D', 'start': 1400.66, 'duration': 7.15}
+{'text': 'and China mark forms in New York we have', 'start': 1404.21, 'duration': 6.87}
+{'text': 'a lot of I think distinguished graduates', 'start': 1407.81, 'duration': 6.75}
+{'text': 'which is always very humbling to me but', 'start': 1411.08, 'duration': 5.22}
+{'text': 'beyond that you know a lot of them', 'start': 1414.56, 'duration': 4.59}
+{'text': 'continue in education in terms of', 'start': 1416.3, 'duration': 6.69}
+{'text': 'continuing PhD or researchers others', 'start': 1419.15, 'duration': 7.08}
+{'text': 'actually move into actually becoming', 'start': 1422.99, 'duration': 6.06}
+{'text': 'educators their own rights some are here', 'start': 1426.23, 'duration': 4.429}
+{'text': 'in the school', 'start': 1429.05, 'duration': 3.559}
+{'text': 'down the street that the Bartlett and', 'start': 1430.659, 'duration': 4.32}
+{'text': 'the B Pro program is an example there', 'start': 1432.609, 'duration': 4.351}
+{'text': 'are a lot of people that are think very', 'start': 1434.979, 'duration': 4.02}
+{'text': 'actively participating in the community', 'start': 1436.96, 'duration': 4.49}
+{'text': 'and I think they see themselves as', 'start': 1438.999, 'duration': 5.581}
+{'text': 'people that actually want to actually', 'start': 1441.45, 'duration': 4.959}
+{'text': 'really participate and to work with', 'start': 1444.58, 'duration': 3.329}
+{'text': 'other people and I think that that', 'start': 1446.409, 'duration': 3.541}
+{'text': "spirit I think is something that's very", 'start': 1447.909, 'duration': 5.34}
+{'text': 'important they also work in a lot of', 'start': 1449.95, 'duration': 5.609}
+{'text': 'offices so in London in places like', 'start': 1453.249, 'duration': 4.62}
+{'text': 'Thomas Heather workers our deeds office', 'start': 1455.559, 'duration': 5.25}
+{'text': "Norman Foster's there are a lot of", 'start': 1457.869, 'duration': 4.8}
+{'text': 'offices that have a lot of our graduates', 'start': 1460.809, 'duration': 4.74}
+{'text': "in there and honestly I think that's", 'start': 1462.669, 'duration': 6.09}
+{'text': 'part of that extended network of this', 'start': 1465.549, 'duration': 5.281}
+{'text': 'community that has been working in this', 'start': 1468.759, 'duration': 4.441}
+{'text': 'field for 20 years and I can say has', 'start': 1470.83, 'duration': 5.399}
+{'text': 'been working in a way which continuously', 'start': 1473.2, 'duration': 6.409}
+{'text': 'tries to question itself and to sort of', 'start': 1476.229, 'duration': 5.851}
+{'text': 'reconsider actually the nature of what', 'start': 1479.609, 'duration': 5.591}
+{'text': 'that practice actually means so we are I', 'start': 1482.08, 'duration': 5.399}
+{'text': 'think in many ways looking forward to', 'start': 1485.2, 'duration': 4.319}
+{'text': 'kind of continue that and if you have an', 'start': 1487.479, 'duration': 4.29}
+{'text': 'interest in some of the things that we', 'start': 1489.519, 'duration': 4.051}
+{'text': 'talked about then please you should feel', 'start': 1491.769, 'duration': 3.72}
+{'text': 'free to kind of reach out and to speak', 'start': 1493.57, 'duration': 4.679}
+{'text': "to us about that I don't know if there's", 'start': 1495.489, 'duration': 6.42}
+{'text': 'more questions that are coming in at the', 'start': 1498.249, 'duration': 10.201}
+{'text': 'moment okay questions about why we chose', 'start': 1501.909, 'duration': 9.27}
+{'text': 'the arrow like I could answer this even', 'start': 1508.45, 'duration': 10.45}
+{'text': "myself I'm not going to yeah okay", 'start': 1511.179, 'duration': 9.08}
+{'text': '[Laughter]', 'start': 1518.9, 'duration': 5.869}
+{'text': "so I'm also a graduate of the DRL I can", 'start': 1520.259, 'duration': 7.72}
+{'text': 'say if anything I came full circle and', 'start': 1524.769, 'duration': 5.01}
+{'text': 'maybe that lends itself to the previous', 'start': 1527.979, 'duration': 4.26}
+{'text': "question too because I didn't I didn't", 'start': 1529.779, 'duration': 4.77}
+{'text': 'actually come to the AAA with any real', 'start': 1532.239, 'duration': 4.53}
+{'text': 'expectation or did I know what the DRL', 'start': 1534.549, 'duration': 3.84}
+{'text': "was at the time there wasn't even a", 'start': 1536.769, 'duration': 6.48}
+{'text': 'website but I know after I finished that', 'start': 1538.389, 'duration': 9.811}
+{'text': 'I had felt like I achieved something', 'start': 1543.249, 'duration': 7.11}
+{'text': 'like almost like surviving something', 'start': 1548.2, 'duration': 6.029}
+{'text': 'which was kind of the AAA ethos I went', 'start': 1550.359, 'duration': 5.67}
+{'text': 'back to New York and I and I moved back', 'start': 1554.229, 'duration': 3.69}
+{'text': 'a year later to start to teach in a', 'start': 1556.029, 'duration': 4.14}
+{'text': 'place where not too long ago I had', 'start': 1557.919, 'duration': 3.69}
+{'text': 'actually just thought that I would never', 'start': 1560.169, 'duration': 1.921}
+{'text': 'be a', 'start': 1561.609, 'duration': 4.531}
+{'text': 'to come and study to fast forward 15', 'start': 1562.09, 'duration': 6.39}
+{'text': "years and I'm sitting here speaking to", 'start': 1566.14, 'duration': 5.01}
+{'text': 'you guys inviting people who would like', 'start': 1568.48, 'duration': 6.36}
+{'text': 'to come and study here in a similar way', 'start': 1571.15, 'duration': 6.54}
+{'text': "that I did I don't think that there is", 'start': 1574.84, 'duration': 4.319}
+{'text': 'any other place that would allow this', 'start': 1577.69, 'duration': 4.109}
+{'text': 'kind of thing like a kid of 24 years old', 'start': 1579.159, 'duration': 5.701}
+{'text': 'becoming a teacher and been directing', 'start': 1581.799, 'duration': 4.61}
+{'text': 'this thing for 10 years and', 'start': 1584.86, 'duration': 3.929}
+{'text': 'realistically speaking still feel quite', 'start': 1586.409, 'duration': 5.14}
+{'text': 'humbled by that whole thing so my path I', 'start': 1588.789, 'duration': 4.861}
+{'text': "think is not anything that's my own I", 'start': 1591.549, 'duration': 4.98}
+{'text': "think it's part of the place actually", 'start': 1593.65, 'duration': 4.74}
+{'text': 'creating opportunities for young people', 'start': 1596.529, 'duration': 4.591}
+{'text': 'and I think being part of the community', 'start': 1598.39, 'duration': 5.34}
+{'text': 'even if I was a very kind of solitude', 'start': 1601.12, 'duration': 5.6}
+{'text': 'kind of arty type sitting by myself just', 'start': 1603.73, 'duration': 5.25}
+{'text': 'exposed me to such a different way of', 'start': 1606.72, 'duration': 4.689}
+{'text': 'working and the power of actually', 'start': 1608.98, 'duration': 4.079}
+{'text': 'working and collaborating with people', 'start': 1611.409, 'duration': 4.411}
+{'text': 'together which basically changed my life', 'start': 1613.059, 'duration': 5.37}
+{'text': 'and made this place my own for the last', 'start': 1615.82, 'duration': 6.359}
+{'text': "17 years that's my story but I'm sure", 'start': 1618.429, 'duration': 7.641}
+{'text': 'yours is more interesting ah no actually', 'start': 1622.179, 'duration': 6.391}
+{'text': 'my name is very similar to yours in the', 'start': 1626.07, 'duration': 4.63}
+{'text': 'sense that I came to the deal without', 'start': 1628.57, 'duration': 7.709}
+{'text': 'any expectations I sort of dived in and', 'start': 1630.7, 'duration': 8.37}
+{'text': 'I would say that it was a very pleasant', 'start': 1636.279, 'duration': 5.88}
+{'text': "surprise in that way I don't think you", 'start': 1639.07, 'duration': 5.579}
+{'text': 'always need to build up expectations I', 'start': 1642.159, 'duration': 5.49}
+{'text': 'think that is also nice to just jump in', 'start': 1644.649, 'duration': 6.66}
+{'text': "and how spin it's like jumping in a", 'start': 1647.649, 'duration': 6.0}
+{'text': 'bucket of cold water you sort of like', 'start': 1651.309, 'duration': 3.931}
+{'text': 'get shocked at the beginning but then', 'start': 1653.649, 'duration': 3.51}
+{'text': 'slowly you get used to it and like you', 'start': 1655.24, 'duration': 4.559}
+{'text': 'get used to the rhythm but also this', 'start': 1657.159, 'duration': 4.441}
+{'text': 'collaboration and this team', 'start': 1659.799, 'duration': 3.691}
+{'text': 'collaboration which i think is like', 'start': 1661.6, 'duration': 7.35}
+{'text': 'pretty new to a lot of us sorts of sort', 'start': 1663.49, 'duration': 10.11}
+{'text': 'of helps you get there like it talking', 'start': 1668.95, 'duration': 6.719}
+{'text': 'about the the problems that you need to', 'start': 1673.6, 'duration': 4.17}
+{'text': 'solve not only with your teammates but', 'start': 1675.669, 'duration': 4.38}
+{'text': 'with everyone else like the stuff around', 'start': 1677.77, 'duration': 5.46}
+{'text': 'you and the face ones and sometimes we', 'start': 1680.049, 'duration': 6.331}
+{'text': 'even get like a face for like people', 'start': 1683.23, 'duration': 4.98}
+{'text': 'that graduated four years ago dropping', 'start': 1686.38, 'duration': 3.39}
+{'text': "by and saying hello to see what's", 'start': 1688.21, 'duration': 3.54}
+{'text': 'happening and then you get to talk to', 'start': 1689.77, 'duration': 3.93}
+{'text': "them about what you're doing and", 'start': 1691.75, 'duration': 4.769}
+{'text': 'similar issue at their time so I think', 'start': 1693.7, 'duration': 7.5}
+{'text': 'that as you go and ask that you begin to', 'start': 1696.519, 'duration': 6.39}
+{'text': 'understand a bit more of this community', 'start': 1701.2, 'duration': 5.43}
+{'text': 'sense the the bucket starts feeling a', 'start': 1702.909, 'duration': 7.311}
+{'text': 'bit less cold and you start to warm up', 'start': 1706.63, 'duration': 6.99}
+{'text': "so in that sense I think that it doesn't", 'start': 1710.22, 'duration': 5.049}
+{'text': 'matter what the expectations are this', 'start': 1713.62, 'duration': 4.34}
+{'text': 'place will sort of change all of that up', 'start': 1715.269, 'duration': 4.77}
+{'text': 'depending on what you also want to get', 'start': 1717.96, 'duration': 5.709}
+{'text': 'out of it actually I had a lot of', 'start': 1720.039, 'duration': 6.27}
+{'text': 'expectations before coming here but I', 'start': 1723.669, 'duration': 3.72}
+{'text': "mean all these things that you're", 'start': 1726.309, 'duration': 4.47}
+{'text': "talking about I'm working with other", 'start': 1727.389, 'duration': 5.76}
+{'text': 'people other cultures and all the stuff', 'start': 1730.779, 'duration': 4.801}
+{'text': "you don't know that before coming here", 'start': 1733.149, 'duration': 5.01}
+{'text': "and when you have to start and it's very", 'start': 1735.58, 'duration': 5.43}
+{'text': 'intensive from the first day and you', 'start': 1738.159, 'duration': 4.951}
+{'text': 'just have to come if you think if you', 'start': 1741.01, 'duration': 3.36}
+{'text': "feel like you're interesting with this", 'start': 1743.11, 'duration': 3.39}
+{'text': 'stuff I mean this is the best place', 'start': 1744.37, 'duration': 4.35}
+{'text': "we're doing this so that's why I came", 'start': 1746.5, 'duration': 7.08}
+{'text': 'and I just want to see what you guys are', 'start': 1748.72, 'duration': 7.26}
+{'text': "doing here it's not about working with", 'start': 1753.58, 'duration': 4.05}
+{'text': 'other people I mean after that you will', 'start': 1755.98, 'duration': 3.059}
+{'text': 'realize that this is the most important', 'start': 1757.63, 'duration': 3.659}
+{'text': 'thing because even all this stuff that', 'start': 1759.039, 'duration': 4.26}
+{'text': "you're scared about the software's what", 'start': 1761.289, 'duration': 4.98}
+{'text': 'we are working with I mean three weeks', 'start': 1763.299, 'duration': 5.461}
+{'text': "ago I couldn't imagine that I'm gonna", 'start': 1766.269, 'duration': 7.701}
+{'text': "write in codes and I'm doing this and", 'start': 1768.76, 'duration': 8.43}
+{'text': 'because of all of you I mean I could ask', 'start': 1773.97, 'duration': 5.98}
+{'text': 'everyone and the tutors are amazing they', 'start': 1777.19, 'duration': 6.709}
+{'text': 'we have every Saturday software classes', 'start': 1779.95, 'duration': 7.439}
+{'text': 'it was really weekend we were always', 'start': 1783.899, 'duration': 6.041}
+{'text': "here we're working all together and this", 'start': 1787.389, 'duration': 6.061}
+{'text': 'is why we can go through this and one', 'start': 1789.94, 'duration': 5.13}
+{'text': 'and a half year and we know six months', 'start': 1793.45, 'duration': 4.05}
+{'text': 'is a short time to learn all the stuff', 'start': 1795.07, 'duration': 6.15}
+{'text': "and I don't know but don't you think", 'start': 1797.5, 'duration': 5.61}
+{'text': "that it's because like everyone is so", 'start': 1801.22, 'duration': 3.6}
+{'text': 'excited about it that you want to be', 'start': 1803.11, 'duration': 4.47}
+{'text': 'here no yes of course yes for me for me', 'start': 1804.82, 'duration': 4.709}
+{'text': 'that was the greatest thing like seeing', 'start': 1807.58, 'duration': 4.079}
+{'text': 'the tutors coming on a Saturday or a', 'start': 1809.529, 'duration': 6.541}
+{'text': 'Sunday and then you realize like this is', 'start': 1811.659, 'duration': 6.571}
+{'text': 'really exciting like I also want to be', 'start': 1816.07, 'duration': 4.44}
+{'text': 'there this as exciting as London is to', 'start': 1818.23, 'duration': 4.38}
+{'text': "be for sure like it's so exciting to be", 'start': 1820.51, 'duration': 3.99}
+{'text': 'in London but', 'start': 1822.61, 'duration': 3.51}
+{'text': "reason it's also more exciting to be in", 'start': 1824.5, 'duration': 9.96}
+{'text': 'studio thank God we had the website', 'start': 1826.12, 'duration': 11.62}
+{'text': '[Laughter]', 'start': 1834.46, 'duration': 6.14}
+{'text': '[Music]', 'start': 1837.74, 'duration': 6.32}
+{'text': 'schools and stuff the outcome is kinda', 'start': 1840.6, 'duration': 6.01}
+{'text': 'different than the other ones is more', 'start': 1844.06, 'duration': 4.5}
+{'text': 'radical and some of the stuff that you I', 'start': 1846.61, 'duration': 3.63}
+{'text': 'mean I was talking with my dad too', 'start': 1848.56, 'duration': 4.2}
+{'text': 'planning to come here and he visited the', 'start': 1850.24, 'duration': 4.47}
+{'text': 'website and he said like okay there are', 'start': 1852.76, 'duration': 3.66}
+{'text': 'some robots and stuff were you gonna', 'start': 1854.71, 'duration': 6.39}
+{'text': 'study I said master architecture and I', 'start': 1856.42, 'duration': 8.82}
+{'text': 'mean after I came my I mean things that', 'start': 1861.1, 'duration': 6.66}
+{'text': 'are so it was all over my I mean it was', 'start': 1865.24, 'duration': 4.47}
+{'text': 'much more than I expected basically', 'start': 1867.76, 'duration': 3.9}
+{'text': 'after I came here I mean you have the', 'start': 1869.71, 'duration': 4.56}
+{'text': 'space and facilities and all that stuff', 'start': 1871.66, 'duration': 5.25}
+{'text': 'that you can do crazy stuff like this I', 'start': 1874.27, 'duration': 4.68}
+{'text': "mean that's exactly that people don't", 'start': 1876.91, 'duration': 4.26}
+{'text': 'come with the software backgrounds but', 'start': 1878.95, 'duration': 5.04}
+{'text': 'after a year and half people do amazing', 'start': 1881.17, 'duration': 11.09}
+{'text': 'stuff here yeah see the website and', 'start': 1883.99, 'duration': 11.34}
+{'text': "choose that a master I mean that's", 'start': 1892.26, 'duration': 4.54}
+{'text': 'really difficult you have to come and', 'start': 1895.33, 'duration': 3.21}
+{'text': 'see what that means and what is it', 'start': 1896.8, 'duration': 3.12}
+{'text': 'different because you can see this you', 'start': 1898.54, 'duration': 2.85}
+{'text': "can see something else you don't really", 'start': 1899.92, 'duration': 3.39}
+{'text': "understand what's different that I mean", 'start': 1901.39, 'duration': 5.25}
+{'text': 'yeah if you are not if you not familiar', 'start': 1903.31, 'duration': 5.19}
+{'text': 'with things like that I came from a', 'start': 1906.64, 'duration': 6.27}
+{'text': "school we okay and I don't know about", 'start': 1908.5, 'duration': 6.12}
+{'text': "this thing so I'm not able to say if", 'start': 1912.91, 'duration': 3.36}
+{'text': "that's good what they what they are", 'start': 1914.62, 'duration': 4.29}
+{'text': 'doing or not so I mean the beginning is', 'start': 1916.27, 'duration': 4.62}
+{'text': 'very difficult to see just the website', 'start': 1918.91, 'duration': 4.14}
+{'text': "and understand if that's something that", 'start': 1920.89, 'duration': 5.19}
+{'text': "you want to do yeah that's true but at", 'start': 1923.05, 'duration': 5.19}
+{'text': 'least for me it was like more than I', 'start': 1926.08, 'duration': 5.76}
+{'text': "expected I guess that's it this is a", 'start': 1928.24, 'duration': 6.92}
+{'text': "place that you can do some no there's a", 'start': 1931.84, 'duration': 6.06}
+{'text': 'possibilities are considered seriously', 'start': 1935.16, 'duration': 4.12}
+{'text': 'mmm-hmm', 'start': 1937.9, 'duration': 3.36}
+{'text': "I think I mean that that's probably one", 'start': 1939.28, 'duration': 4.59}
+{'text': 'of the things that students say most is', 'start': 1941.26, 'duration': 5.99}
+{'text': "like they don't really know what we do", 'start': 1943.87, 'duration': 4.95}
+{'text': "maybe I'm not", 'start': 1947.25, 'duration': 3.519}
+{'text': 'does that sort of communicating it but', 'start': 1948.82, 'duration': 4.05}
+{'text': 'they think the experience of actually', 'start': 1950.769, 'duration': 5.971}
+{'text': 'really sort of working and exploring the', 'start': 1952.87, 'duration': 5.58}
+{'text': 'stuff and seeing the studio and meeting', 'start': 1956.74, 'duration': 3.179}
+{'text': 'with people I think we could only kind', 'start': 1958.45, 'duration': 3.66}
+{'text': 'of encourage people if they have an', 'start': 1959.919, 'duration': 4.38}
+{'text': 'interest in things to to come and to', 'start': 1962.11, 'duration': 5.25}
+{'text': 'explore that I think one of the aspects', 'start': 1964.299, 'duration': 5.25}
+{'text': 'about a place like the AAA that I think', 'start': 1967.36, 'duration': 3.99}
+{'text': "distinguishes it from many things it's", 'start': 1969.549, 'duration': 4.441}
+{'text': 'not a university it is a place actually', 'start': 1971.35, 'duration': 5.34}
+{'text': 'where it is almost like a completely', 'start': 1973.99, 'duration': 5.519}
+{'text': 'open door policy to walk in to discover', 'start': 1976.69, 'duration': 4.56}
+{'text': "and to see the things that we're doing", 'start': 1979.509, 'duration': 3.39}
+{'text': 'to see those things that other programs', 'start': 1981.25, 'duration': 4.139}
+{'text': 'are doing and to really be able to come', 'start': 1982.899, 'duration': 4.591}
+{'text': 'to your own conclusions about actually', 'start': 1985.389, 'duration': 4.561}
+{'text': 'what this could be and I think the', 'start': 1987.49, 'duration': 4.71}
+{'text': 'direct access to things I think is very', 'start': 1989.95, 'duration': 4.319}
+{'text': 'important and the conversations are', 'start': 1992.2, 'duration': 4.469}
+{'text': 'actually very necessary and we', 'start': 1994.269, 'duration': 4.171}
+{'text': 'understand that architecture is a pretty', 'start': 1996.669, 'duration': 5.46}
+{'text': "complicated thing I'm getting signaled", 'start': 1998.44, 'duration': 6.989}
+{'text': "that it's time to wrap up so with that I", 'start': 2002.129, 'duration': 4.77}
+{'text': 'think I could only sort of really', 'start': 2005.429, 'duration': 3.6}
+{'text': 'encourage people we have the phase to', 'start': 2006.899, 'duration': 3.601}
+{'text': 'final reviews which I showed some', 'start': 2009.029, 'duration': 4.35}
+{'text': 'pictures of on the 11th and 12th of', 'start': 2010.5, 'duration': 5.009}
+{'text': "January I think it's a really", 'start': 2013.379, 'duration': 3.78}
+{'text': "interesting time because it's part of", 'start': 2015.509, 'duration': 4.29}
+{'text': 'graduate school open week and invite you', 'start': 2017.159, 'duration': 5.97}
+{'text': 'all to come to participate in the juries', 'start': 2019.799, 'duration': 5.13}
+{'text': 'and to see the kinds of conversations', 'start': 2023.129, 'duration': 3.9}
+{'text': 'the latest work a discussion that this', 'start': 2024.929, 'duration': 4.411}
+{'text': 'course and I think just to understand', 'start': 2027.029, 'duration': 3.811}
+{'text': 'what it means to actually come to the', 'start': 2029.34, 'duration': 2.939}
+{'text': 'school like the architectural', 'start': 2030.84, 'duration': 4.709}
+{'text': "Association so with that we'd like to", 'start': 2032.279, 'duration': 5.52}
+{'text': 'say thank you for giving us a little bit', 'start': 2035.549, 'duration': 4.441}
+{'text': 'of time and hopefully this has been', 'start': 2037.799, 'duration': 3.99}
+{'text': 'useful to you guys and if you have', 'start': 2039.99, 'duration': 3.929}
+{'text': 'questions please kind of reach out to us', 'start': 2041.789, 'duration': 5.34}
+{'text': "or to reach out to admissions and we'll", 'start': 2043.919, 'duration': 4.861}
+{'text': 'do the best that we can to sort of', 'start': 2047.129, 'duration': 3.871}
+{'text': 'communicate to everybody and try to', 'start': 2048.78, 'duration': 6.299}
+{'text': 'answer what we can but with that thank', 'start': 2051.0, 'duration': 8.45}
+{'text': 'you very much thanks a lot', 'start': 2055.079, 'duration': 4.371}

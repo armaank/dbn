@@ -1,0 +1,2080 @@
+{'text': "pleasure to be here it's my first time", 'start': 0.0, 'duration': 6.87}
+{'text': "being at Cooper so like you heard I'm", 'start': 2.73, 'duration': 5.64}
+{'text': 'faculty in the Department of', 'start': 6.87, 'duration': 4.83}
+{'text': 'Architecture at MIT I have a few main', 'start': 8.37, 'duration': 6.78}
+{'text': 'roles outside of MIT I also run the 3d', 'start': 11.7, 'duration': 4.439}
+{'text': 'printing and additive manufacturing', 'start': 15.15, 'duration': 5.43}
+{'text': 'journal so the the journal was started a', 'start': 16.139, 'duration': 7.411}
+{'text': 'number of years ago by hot Lipson from', 'start': 20.58, 'duration': 6.359}
+{'text': 'Cornell and then I took over I think', 'start': 23.55, 'duration': 5.16}
+{'text': 'three years ago and the journal is', 'start': 26.939, 'duration': 3.151}
+{'text': "interesting for me and you'll see how it", 'start': 28.71, 'duration': 3.63}
+{'text': 'it feeds into some of the research but', 'start': 30.09, 'duration': 4.86}
+{'text': "it's really the only journal focusing on", 'start': 32.34, 'duration': 4.26}
+{'text': 'all things 3d printing additive', 'start': 34.95, 'duration': 5.01}
+{'text': 'manufacturing of all sorts and that in a', 'start': 36.6, 'duration': 5.19}
+{'text': 'way forces it to be across all', 'start': 39.96, 'duration': 3.39}
+{'text': "disciplines so it's not just designers", 'start': 41.79, 'duration': 3.9}
+{'text': "and artists and architects it's also", 'start': 43.35, 'duration': 3.99}
+{'text': 'mechanical engineers and material', 'start': 45.69, 'duration': 3.42}
+{'text': 'scientists and computer scientists and', 'start': 47.34, 'duration': 4.23}
+{'text': "and you know we're really interested in", 'start': 49.11, 'duration': 5.42}
+{'text': 'in the forefront of this this world', 'start': 51.57, 'duration': 5.489}
+{'text': 'another role though is running the', 'start': 54.53, 'duration': 4.27}
+{'text': 'research lab as you heard so I started', 'start': 57.059, 'duration': 4.32}
+{'text': "the research lab at MIT it's called the", 'start': 58.8, 'duration': 5.579}
+{'text': 'self-assembly lab but before that I have', 'start': 61.379, 'duration': 4.681}
+{'text': 'I studied architecture I have a', 'start': 64.379, 'duration': 3.721}
+{'text': 'background in architecture and then came', 'start': 66.06, 'duration': 4.349}
+{'text': 'to MIT for design computation and', 'start': 68.1, 'duration': 5.309}
+{'text': 'computer science we have a growing team', 'start': 70.409, 'duration': 5.25}
+{'text': 'now from many different backgrounds so', 'start': 73.409, 'duration': 5.131}
+{'text': 'we have the 15 people total in the lab', 'start': 75.659, 'duration': 3.811}
+{'text': 'these are some of the full-time', 'start': 78.54, 'duration': 5.149}
+{'text': 'researchers so we have undergrads grads', 'start': 79.47, 'duration': 6.78}
+{'text': 'research scientists visiting artists', 'start': 83.689, 'duration': 4.961}
+{'text': 'product designers mechanical engineers', 'start': 86.25, 'duration': 4.47}
+{'text': 'computer scientists biologists a lot of', 'start': 88.65, 'duration': 4.77}
+{'text': 'different backgrounds that make up the', 'start': 90.72, 'duration': 5.49}
+{'text': 'research lab and the way that I got into', 'start': 93.42, 'duration': 6.39}
+{'text': 'this actually is through software so as', 'start': 96.21, 'duration': 5.159}
+{'text': 'I said I was studying architecture and', 'start': 99.81, 'duration': 3.18}
+{'text': 'then got really interested in the limits', 'start': 101.369, 'duration': 3.36}
+{'text': 'of our design tools this is the first', 'start': 102.99, 'duration': 4.019}
+{'text': 'CAD tool this is Sutherland sketch pad', 'start': 104.729, 'duration': 6.361}
+{'text': 'that was invented in 1960 something I', 'start': 107.009, 'duration': 7.14}
+{'text': 'believe in MIT and that obviously has', 'start': 111.09, 'duration': 4.8}
+{'text': 'contemporary counterparts and', 'start': 114.149, 'duration': 5.01}
+{'text': 'sophisticated design tools computational', 'start': 115.89, 'duration': 7.17}
+{'text': 'tools simulation analysis structural you', 'start': 119.159, 'duration': 6.78}
+{'text': 'name it we can have sophisticated tools', 'start': 123.06, 'duration': 4.61}
+{'text': 'that allow us to imagine things', 'start': 125.939, 'duration': 6.201}
+{'text': 'analyze things test things create things', 'start': 127.67, 'duration': 7.319}
+{'text': 'and all of that computational power', 'start': 132.14, 'duration': 4.349}
+{'text': 'became really fascinating to me because', 'start': 134.989, 'duration': 4.261}
+{'text': 'in a way code became a new language for', 'start': 136.489, 'duration': 5.58}
+{'text': 'design just like the pencil or the', 'start': 139.25, 'duration': 4.92}
+{'text': 't-square or CAD tools or many other', 'start': 142.069, 'duration': 4.201}
+{'text': 'tools that were offered as architects', 'start': 144.17, 'duration': 4.47}
+{'text': 'and designers code was now a language', 'start': 146.27, 'duration': 4.38}
+{'text': 'that we could use to imagine and create', 'start': 148.64, 'duration': 4.92}
+{'text': 'things and that nearly the same time as', 'start': 150.65, 'duration': 4.65}
+{'text': 'that CAD tool was developed the first', 'start': 153.56, 'duration': 4.8}
+{'text': 'CNC machine was invented at MIT', 'start': 155.3, 'duration': 6.42}
+{'text': 'this is 1955 and the first time they', 'start': 158.36, 'duration': 5.129}
+{'text': 'connected a computer with a milling', 'start': 161.72, 'duration': 4.95}
+{'text': 'machine that obviously also has its', 'start': 163.489, 'duration': 6.301}
+{'text': 'contemporaries in digital fabrication so', 'start': 166.67, 'duration': 5.55}
+{'text': '3d printing CNC routing laser cutters', 'start': 169.79, 'duration': 4.62}
+{'text': 'water jets etc 3d printing I think the', 'start': 172.22, 'duration': 5.4}
+{'text': 'first machine was 1985 by Chuck Hall so', 'start': 174.41, 'duration': 5.04}
+{'text': 'you know these tools have been around', 'start': 177.62, 'duration': 4.77}
+{'text': 'but only in the past number of decades', 'start': 179.45, 'duration': 5.7}
+{'text': 'have they connected with the', 'start': 182.39, 'duration': 4.319}
+{'text': 'architecture and design world and and', 'start': 185.15, 'duration': 3.75}
+{'text': 'right as I was graduating from a five', 'start': 186.709, 'duration': 5.701}
+{'text': 'year be arc I went to MIT and I was it', 'start': 188.9, 'duration': 5.339}
+{'text': 'was really the kind of influx of this I', 'start': 192.41, 'duration': 3.389}
+{'text': 'was teaching myself how to write code I', 'start': 194.239, 'duration': 4.111}
+{'text': 'was developing software tools I was', 'start': 195.799, 'duration': 5.22}
+{'text': 'getting really into computational things', 'start': 198.35, 'duration': 4.68}
+{'text': 'and digital fabrication was flooding the', 'start': 201.019, 'duration': 3.511}
+{'text': 'scene every school was trying to have', 'start': 203.03, 'duration': 3.179}
+{'text': 'more and more 3d printers more and more', 'start': 204.53, 'duration': 4.11}
+{'text': 'robots more and more CNC machines and', 'start': 206.209, 'duration': 3.721}
+{'text': 'laser cutters and you know everyone was', 'start': 208.64, 'duration': 5.73}
+{'text': 'kind of tooling up and just as I was', 'start': 209.93, 'duration': 5.88}
+{'text': 'seeing code would become a new language', 'start': 214.37, 'duration': 3.36}
+{'text': 'for design I was seeing code become a', 'start': 215.81, 'duration': 4.35}
+{'text': 'new language to make things so we could', 'start': 217.73, 'duration': 4.2}
+{'text': 'imagine things we could computationally', 'start': 220.16, 'duration': 3.48}
+{'text': 'generate things and then we could', 'start': 221.93, 'duration': 3.42}
+{'text': "fabricate things that we couldn't have", 'start': 223.64, 'duration': 4.23}
+{'text': 'fabricated before because of these new', 'start': 225.35, 'duration': 4.28}
+{'text': 'tools so it sort of exploded our', 'start': 227.87, 'duration': 5.16}
+{'text': 'opportunities as designers but it became', 'start': 229.63, 'duration': 5.229}
+{'text': 'more fascinated about what happens after', 'start': 233.03, 'duration': 3.72}
+{'text': 'that so yes we can design these', 'start': 234.859, 'duration': 3.6}
+{'text': 'sophisticated things yes we can', 'start': 236.75, 'duration': 4.92}
+{'text': 'fabricate customized parts but', 'start': 238.459, 'duration': 4.771}
+{'text': 'essentially it becomes a big jigsaw', 'start': 241.67, 'duration': 3.33}
+{'text': 'puzzle so we see all of these', 'start': 243.23, 'duration': 3.629}
+{'text': 'fascinating installations happening', 'start': 245.0, 'duration': 4.26}
+{'text': 'around the world at all the schools and', 'start': 246.859, 'duration': 4.621}
+{'text': 'practices or even things like the', 'start': 249.26, 'duration': 3.39}
+{'text': 'serpentine pavilion', 'start': 251.48, 'duration': 5.009}
+{'text': 'PSone you know these are famous examples', 'start': 252.65, 'duration': 6.329}
+{'text': 'of the pavilion influx and in our', 'start': 256.489, 'duration': 4.71}
+{'text': 'culture and most of that in at least the', 'start': 258.979, 'duration': 4.351}
+{'text': 'recent recent number of decades have', 'start': 261.199, 'duration': 5.821}
+{'text': 'been kind of exaggerated because of', 'start': 263.33, 'duration': 5.7}
+{'text': 'computational capabilities and digital', 'start': 267.02, 'duration': 3.899}
+{'text': 'fabrication tools and and everyone talks', 'start': 269.03, 'duration': 4.169}
+{'text': 'about mass customization so whenever you', 'start': 270.919, 'duration': 4.051}
+{'text': 'hear about 3d printing or laser cutters', 'start': 273.199, 'duration': 3.631}
+{'text': 'or CNC routers you know not only', 'start': 274.97, 'duration': 4.35}
+{'text': 'architects and designers but across the', 'start': 276.83, 'duration': 4.17}
+{'text': 'manufacturing space people are always', 'start': 279.32, 'duration': 3.629}
+{'text': 'talking about mass customization like 3d', 'start': 281.0, 'duration': 4.16}
+{'text': 'printing gives you this free complexity', 'start': 282.949, 'duration': 4.291}
+{'text': 'supposedly that you can make anything', 'start': 285.16, 'duration': 3.819}
+{'text': "you want and it doesn't cost any more to", 'start': 287.24, 'duration': 3.66}
+{'text': 'make something complex that it does to', 'start': 288.979, 'duration': 3.991}
+{'text': 'make something simple and in some ways', 'start': 290.9, 'duration': 3.96}
+{'text': 'we all drink this kool-aid but the', 'start': 292.97, 'duration': 3.87}
+{'text': 'problem I kept seeing is that you know', 'start': 294.86, 'duration': 3.6}
+{'text': 'this is an installation we did and we', 'start': 296.84, 'duration': 3.0}
+{'text': 'did a number of other installations', 'start': 298.46, 'duration': 3.72}
+{'text': 'around the world many other people are', 'start': 299.84, 'duration': 4.049}
+{'text': 'doing this but no one wants to talk', 'start': 302.18, 'duration': 3.18}
+{'text': 'about the blood sweat and tears that', 'start': 303.889, 'duration': 3.03}
+{'text': 'went into it no one wants to talk about', 'start': 305.36, 'duration': 4.38}
+{'text': 'the hundreds or hundreds of thousands of', 'start': 306.919, 'duration': 6.171}
+{'text': 'rivets bolts screws man-hours and', 'start': 309.74, 'duration': 5.399}
+{'text': "student labor essentially that's", 'start': 313.09, 'duration': 4.75}
+{'text': 'building all these projects and so even', 'start': 315.139, 'duration': 4.771}
+{'text': 'if you have mass customization the big', 'start': 317.84, 'duration': 4.829}
+{'text': 'problem is assembly so it basically the', 'start': 319.91, 'duration': 4.2}
+{'text': 'argument is I could make every component', 'start': 322.669, 'duration': 3.211}
+{'text': "of a building unique and it doesn't cost", 'start': 324.11, 'duration': 3.63}
+{'text': "me any more money well that doesn't make", 'start': 325.88, 'duration': 3.78}
+{'text': 'any sense if you think about assembly', 'start': 327.74, 'duration': 4.5}
+{'text': 'because if every component is unique you', 'start': 329.66, 'duration': 4.47}
+{'text': 'have a big assembly problem because now', 'start': 332.24, 'duration': 4.23}
+{'text': 'you have to find exactly the right part', 'start': 334.13, 'duration': 3.99}
+{'text': 'in this jigsaw puzzle and figure out', 'start': 336.47, 'duration': 3.48}
+{'text': "exactly where it goes so it's it's a", 'start': 338.12, 'duration': 3.93}
+{'text': 'logistics nightmare so I was really', 'start': 339.95, 'duration': 3.719}
+{'text': 'interested in that problem like why do', 'start': 342.05, 'duration': 3.54}
+{'text': 'we have all these computational tools', 'start': 343.669, 'duration': 4.56}
+{'text': 'and we have all this code as a new', 'start': 345.59, 'duration': 4.949}
+{'text': "language for machines why can't we", 'start': 348.229, 'duration': 4.62}
+{'text': 'translate that to construction can code', 'start': 350.539, 'duration': 4.13}
+{'text': 'become a new language for construction', 'start': 352.849, 'duration': 4.171}
+{'text': 'so the way that we think that we can do', 'start': 354.669, 'duration': 4.75}
+{'text': 'that is through materials by looking at', 'start': 357.02, 'duration': 4.8}
+{'text': 'materials specifically in trying to', 'start': 359.419, 'duration': 4.861}
+{'text': 'embed more and more material information', 'start': 361.82, 'duration': 5.31}
+{'text': 'input embed more capabilities in our', 'start': 364.28, 'duration': 5.31}
+{'text': 'physical materials then those materials', 'start': 367.13, 'duration': 3.96}
+{'text': 'could help us make decisions those', 'start': 369.59, 'duration': 3.06}
+{'text': 'materials could potentially assemble', 'start': 371.09, 'duration': 4.139}
+{'text': 'themselves they could make us or enable', 'start': 372.65, 'duration': 4.739}
+{'text': 'us to make better things they could', 'start': 375.229, 'duration': 3.831}
+{'text': 'contain information', 'start': 377.389, 'duration': 3.53}
+{'text': 'and actuation in the materials', 'start': 379.06, 'duration': 4.68}
+{'text': "themselves so it's you know we're seeing", 'start': 380.919, 'duration': 4.5}
+{'text': "software we're seeing fabrication and", 'start': 383.74, 'duration': 3.0}
+{'text': "we're trying to make a new proposition", 'start': 385.419, 'duration': 3.741}
+{'text': 'for construction you know a whole nother', 'start': 386.74, 'duration': 4.41}
+{'text': "direction could have been well let's", 'start': 389.16, 'duration': 3.79}
+{'text': 'just use robots and have like massive', 'start': 391.15, 'duration': 3.81}
+{'text': 'robots that build everything for us but', 'start': 392.95, 'duration': 3.84}
+{'text': "we're specifically more interested in", 'start': 394.96, 'duration': 3.929}
+{'text': 'how do we look at materials in a new way', 'start': 396.79, 'duration': 4.26}
+{'text': 'and then more capabilities and materials', 'start': 398.889, 'duration': 5.011}
+{'text': 'so we take that kind of stance and this', 'start': 401.05, 'duration': 6.0}
+{'text': 'is the scale and the kind of sectors', 'start': 403.9, 'duration': 4.98}
+{'text': 'that were interested in construction and', 'start': 407.05, 'duration': 4.13}
+{'text': 'manufacturing product assembly', 'start': 408.88, 'duration': 4.56}
+{'text': 'distribution logistics product', 'start': 411.18, 'duration': 4.0}
+{'text': 'performance this sort of human scale', 'start': 413.44, 'duration': 4.62}
+{'text': 'world and probably for all of you and', 'start': 415.18, 'duration': 4.68}
+{'text': 'just like me with an architecture', 'start': 418.06, 'duration': 3.48}
+{'text': 'background this is nothing new like this', 'start': 419.86, 'duration': 3.63}
+{'text': 'is the world that we operate in the', 'start': 421.54, 'duration': 4.98}
+{'text': 'human scale world but to me this is', 'start': 423.49, 'duration': 4.62}
+{'text': 'really important and interesting because', 'start': 426.52, 'duration': 4.77}
+{'text': 'for two reasons number one most people', 'start': 428.11, 'duration': 5.22}
+{'text': 'who are talking about self-assembly or', 'start': 431.29, 'duration': 4.56}
+{'text': 'programmable materials outside of what', 'start': 433.33, 'duration': 4.8}
+{'text': "I'm gonna tell you that's all happening", 'start': 435.85, 'duration': 4.65}
+{'text': "at the micro to nano scale so there's", 'start': 438.13, 'duration': 4.8}
+{'text': 'really a boom in synthetic biology and', 'start': 440.5, 'duration': 3.69}
+{'text': 'material science happening right now', 'start': 442.93, 'duration': 3.45}
+{'text': "where there's all these capabilities", 'start': 444.19, 'duration': 4.229}
+{'text': "that are emerging but they're micro -", 'start': 446.38, 'duration': 3.99}
+{'text': "nano scale we can't see them we can't", 'start': 448.419, 'duration': 4.56}
+{'text': "feel them they don't directly impact our", 'start': 450.37, 'duration': 5.01}
+{'text': 'everyday world at least in the product', 'start': 452.979, 'duration': 4.621}
+{'text': 'kind of building landscaping in that', 'start': 455.38, 'duration': 4.32}
+{'text': "human scale world so it's quite", 'start': 457.6, 'duration': 4.23}
+{'text': 'interesting for us to think about these', 'start': 459.7, 'duration': 4.68}
+{'text': 'principles at the human scale and then', 'start': 461.83, 'duration': 4.05}
+{'text': "the other reason that it's important for", 'start': 464.38, 'duration': 4.2}
+{'text': 'us to look at this scale is because if', 'start': 465.88, 'duration': 5.759}
+{'text': 'you look at how things are built at the', 'start': 468.58, 'duration': 5.16}
+{'text': 'micro and the nano scale go all the way', 'start': 471.639, 'duration': 5.4}
+{'text': 'up to the human scale then skip over the', 'start': 473.74, 'duration': 4.92}
+{'text': 'human scale for a second and then think', 'start': 477.039, 'duration': 3.141}
+{'text': 'about how everything is built at', 'start': 478.66, 'duration': 4.65}
+{'text': 'planetary scales so for example with', 'start': 480.18, 'duration': 5.109}
+{'text': "planetary skills there's no like 3d", 'start': 483.31, 'duration': 3.54}
+{'text': 'printers that make planets', 'start': 485.289, 'duration': 4.261}
+{'text': "there's no machines that make weather", 'start': 486.85, 'duration': 4.71}
+{'text': "patterns there's no one that dictates", 'start': 489.55, 'duration': 5.28}
+{'text': 'traffic jams or flocks of birds or', 'start': 491.56, 'duration': 4.829}
+{'text': 'schools of fish and a lot of these', 'start': 494.83, 'duration': 3.87}
+{'text': 'things at huge scales and you know', 'start': 496.389, 'duration': 3.9}
+{'text': 'population scale all the way up to', 'start': 498.7, 'duration': 3.68}
+{'text': 'planetary scale they build themselves', 'start': 500.289, 'duration': 4.541}
+{'text': "there's no global designer", 'start': 502.38, 'duration': 4.909}
+{'text': "there's no construction process and the", 'start': 504.83, 'duration': 4.86}
+{'text': 'same thing happens at smaller than the', 'start': 507.289, 'duration': 3.931}
+{'text': 'human scale so think about how our', 'start': 509.69, 'duration': 4.019}
+{'text': 'bodies are built through DNA think about', 'start': 511.22, 'duration': 4.739}
+{'text': 'how any natural system is built think', 'start': 513.709, 'duration': 4.02}
+{'text': 'about how anything in chemistry and', 'start': 515.959, 'duration': 4.5}
+{'text': 'physics work there is no top-down design', 'start': 517.729, 'duration': 4.411}
+{'text': "there's no one that sits around and says", 'start': 520.459, 'duration': 3.45}
+{'text': 'like I think this is what a human should', 'start': 522.14, 'duration': 3.6}
+{'text': "look like and then I'm gonna build like", 'start': 523.909, 'duration': 4.74}
+{'text': "a DNA sledgehammer and I'm gonna put the", 'start': 525.74, 'duration': 5.039}
+{'text': 'DNA together piece by piece so there', 'start': 528.649, 'duration': 4.171}
+{'text': "there's really no such thing as top-down", 'start': 530.779, 'duration': 5.131}
+{'text': 'design or top-down construction outside', 'start': 532.82, 'duration': 5.07}
+{'text': 'of the human scale so that our human', 'start': 535.91, 'duration': 4.799}
+{'text': 'scale we have created this thing of we', 'start': 537.89, 'duration': 5.28}
+{'text': 'have like master visions and then we', 'start': 540.709, 'duration': 4.201}
+{'text': 'think about these designs and then we', 'start': 543.17, 'duration': 3.87}
+{'text': 'send these designs either to people - or', 'start': 544.91, 'duration': 4.29}
+{'text': 'robots and people and robots build the', 'start': 547.04, 'duration': 4.44}
+{'text': "things that we imagine but that doesn't", 'start': 549.2, 'duration': 4.47}
+{'text': 'happen anywhere else so that to us is', 'start': 551.48, 'duration': 4.32}
+{'text': 'really strange like why at the human', 'start': 553.67, 'duration': 4.62}
+{'text': 'scale are we the only ones that come up', 'start': 555.8, 'duration': 4.68}
+{'text': 'with these top-down ideas and top-down', 'start': 558.29, 'duration': 4.02}
+{'text': 'construction processes and what happens', 'start': 560.48, 'duration': 3.06}
+{'text': 'if there was a kind of different', 'start': 562.31, 'duration': 4.64}
+{'text': 'perspective on that so the main motif', 'start': 563.54, 'duration': 7.38}
+{'text': 'that basically every other scale uses to', 'start': 566.95, 'duration': 5.829}
+{'text': 'build things and to design things is', 'start': 570.92, 'duration': 3.56}
+{'text': 'called self assembly and', 'start': 572.779, 'duration': 4.5}
+{'text': 'self-organization so self assembly is', 'start': 574.48, 'duration': 4.54}
+{'text': 'where you have a bunch of components and', 'start': 577.279, 'duration': 3.421}
+{'text': 'those components should come together on', 'start': 579.02, 'duration': 3.99}
+{'text': 'their own without humans or robots and', 'start': 580.7, 'duration': 4.17}
+{'text': 'those components need to have the', 'start': 583.01, 'duration': 3.81}
+{'text': 'blueprints inside of them those', 'start': 584.87, 'duration': 3.48}
+{'text': 'components need the capability to', 'start': 586.82, 'duration': 3.66}
+{'text': 'interact with each other find one', 'start': 588.35, 'duration': 5.96}
+{'text': 'another and assemble precise structures', 'start': 590.48, 'duration': 6.27}
+{'text': 'self-organization is closely related a', 'start': 594.31, 'duration': 4.269}
+{'text': 'little bit different usually people', 'start': 596.75, 'duration': 3.51}
+{'text': 'think of self-organization more as like', 'start': 598.579, 'duration': 3.901}
+{'text': 'traffic jams and schools of fish and', 'start': 600.26, 'duration': 5.519}
+{'text': 'flocks of birds and these processes that', 'start': 602.48, 'duration': 4.89}
+{'text': 'basically never have a final state', 'start': 605.779, 'duration': 2.941}
+{'text': "they're always fluctuating between", 'start': 607.37, 'duration': 3.39}
+{'text': 'organization and chaos whereas', 'start': 608.72, 'duration': 3.809}
+{'text': 'self-assembly often is a final', 'start': 610.76, 'duration': 3.71}
+{'text': "configuration there's a final design", 'start': 612.529, 'duration': 5.55}
+{'text': "that it moves towards anyway we're", 'start': 614.47, 'duration': 5.739}
+{'text': 'interested in these processes and trying', 'start': 618.079, 'duration': 3.87}
+{'text': 'to see if we could use that at the human', 'start': 620.209, 'duration': 4.111}
+{'text': 'scale so one of the first examples that', 'start': 621.949, 'duration': 3.871}
+{'text': 'we showed is a project with a molecular', 'start': 624.32, 'duration': 3.69}
+{'text': 'biologist where we have this glass flask', 'start': 625.82, 'duration': 5.94}
+{'text': 'we shake it hard in the parts break but', 'start': 628.01, 'duration': 5.639}
+{'text': 'then we shake it a little bit softer and', 'start': 631.76, 'duration': 3.47}
+{'text': 'the parts come back to', 'start': 633.649, 'duration': 4.501}
+{'text': 'so this is a you know real-time video', 'start': 635.23, 'duration': 5.38}
+{'text': "it's not reversed or anything I'm just", 'start': 638.15, 'duration': 5.37}
+{'text': 'shaking it and just by changing the', 'start': 640.61, 'duration': 4.62}
+{'text': 'amount of energy so if I shake it hard', 'start': 643.52, 'duration': 3.42}
+{'text': 'it does one thing and if I shake it a', 'start': 645.23, 'duration': 3.9}
+{'text': 'little bit softer it then assembles', 'start': 646.94, 'duration': 4.38}
+{'text': "instead of disassembles and if I don't", 'start': 649.13, 'duration': 3.84}
+{'text': 'do anything or if I shake it really', 'start': 651.32, 'duration': 4.11}
+{'text': "really soft it basically won't assemble", 'start': 652.97, 'duration': 4.5}
+{'text': "so the only thing I'm doing is I'm", 'start': 655.43, 'duration': 4.5}
+{'text': 'changing the amount of energy in the', 'start': 657.47, 'duration': 5.01}
+{'text': 'system but all of the information is in', 'start': 659.93, 'duration': 4.5}
+{'text': 'the materials and the way that we know', 'start': 662.48, 'duration': 4.8}
+{'text': "that is because if I'm blindfolded it'll", 'start': 664.43, 'duration': 4.65}
+{'text': 'still build the same thing or if I give', 'start': 667.28, 'duration': 4.17}
+{'text': "it to you you're you know random person", 'start': 669.08, 'duration': 3.51}
+{'text': 'on the street I come up to you and I', 'start': 671.45, 'duration': 3.93}
+{'text': 'give you this thing in a few seconds or', 'start': 672.59, 'duration': 4.77}
+{'text': 'minutes you can give it just the right', 'start': 675.38, 'duration': 3.3}
+{'text': "amount of energy and it'll always", 'start': 677.36, 'duration': 3.42}
+{'text': 'assemble the dodecahedron structure even', 'start': 678.68, 'duration': 3.87}
+{'text': "if you don't know what it is even if you", 'start': 680.78, 'duration': 3.66}
+{'text': "have no prior knowledge there's no", 'start': 682.55, 'duration': 5.43}
+{'text': "expertise so it shows that there it's", 'start': 684.44, 'duration': 5.13}
+{'text': 'basically the opposite of our', 'start': 687.98, 'duration': 3.45}
+{'text': 'traditional construction mentality like', 'start': 689.57, 'duration': 4.29}
+{'text': 'normally if we want to build a building', 'start': 691.43, 'duration': 4.62}
+{'text': 'or we want to build a car you either', 'start': 693.86, 'duration': 4.49}
+{'text': 'need skilled labor or precise machines', 'start': 696.05, 'duration': 4.68}
+{'text': 'because no one assumes that having', 'start': 698.35, 'duration': 4.69}
+{'text': 'unskilled labor or really bad machines', 'start': 700.73, 'duration': 4.92}
+{'text': 'would lead to successful results you', 'start': 703.04, 'duration': 4.71}
+{'text': 'always need to have skill or information', 'start': 705.65, 'duration': 4.05}
+{'text': 'you need to have blueprints and this is', 'start': 707.75, 'duration': 3.78}
+{'text': "showing the opposite that there's really", 'start': 709.7, 'duration': 3.63}
+{'text': "no information in the human there's no", 'start': 711.53, 'duration': 4.17}
+{'text': 'skill and the human the information and', 'start': 713.33, 'duration': 3.84}
+{'text': 'the precision is in the materials the', 'start': 715.7, 'duration': 3.92}
+{'text': 'human is just giving noisy random energy', 'start': 717.17, 'duration': 4.65}
+{'text': 'so that was one of the first', 'start': 719.62, 'duration': 3.85}
+{'text': 'demonstrations that you know this is', 'start': 721.82, 'duration': 4.14}
+{'text': 'roughly that big that this could happen', 'start': 723.47, 'duration': 5.13}
+{'text': 'outside of the the micro to nano skills', 'start': 725.96, 'duration': 5.1}
+{'text': "and then from that we've experimented", 'start': 728.6, 'duration': 4.32}
+{'text': 'with lots and lots of different systems', 'start': 731.06, 'duration': 4.2}
+{'text': 'different environments etc each time', 'start': 732.92, 'duration': 3.87}
+{'text': "we're trying to study why does this work", 'start': 735.26, 'duration': 2.7}
+{'text': 'what can we do with it', 'start': 736.79, 'duration': 3.09}
+{'text': 'how do we change the parameter so in', 'start': 737.96, 'duration': 3.72}
+{'text': 'this case what we changed is that every', 'start': 739.88, 'duration': 3.45}
+{'text': 'unit is different in the previous', 'start': 741.68, 'duration': 3.93}
+{'text': 'example all the units are the same so', 'start': 743.33, 'duration': 4.05}
+{'text': 'here they have different geometries and', 'start': 745.61, 'duration': 3.15}
+{'text': 'they have different lock and key', 'start': 747.38, 'duration': 3.96}
+{'text': "mechanisms they're under underwater and", 'start': 748.76, 'duration': 4.29}
+{'text': 'we have pumps that are agitating the', 'start': 751.34, 'duration': 4.189}
+{'text': 'system so the parts find one another', 'start': 753.05, 'duration': 5.329}
+{'text': 'then they assemble into a chair and the', 'start': 755.529, 'duration': 4.891}
+{'text': "chair shows that it's not just about", 'start': 758.379, 'duration': 4.971}
+{'text': "symmetric structures it's not just about", 'start': 760.42, 'duration': 6.359}
+{'text': "dodecahedron there's nothing specific to", 'start': 763.35, 'duration': 6.159}
+{'text': 'that previous example that is limiting', 'start': 766.779, 'duration': 4.141}
+{'text': "it it's not that we can only build", 'start': 769.509, 'duration': 3.781}
+{'text': 'certain things we can also build', 'start': 770.92, 'duration': 4.74}
+{'text': 'arbitrary things we can also build human', 'start': 773.29, 'duration': 4.95}
+{'text': 'design things like chairs or brackets or', 'start': 775.66, 'duration': 4.95}
+{'text': 'connectors or components things that we', 'start': 778.24, 'duration': 4.05}
+{'text': 'have come up with that are not just', 'start': 780.61, 'duration': 4.44}
+{'text': 'naturally found or symmetric you know', 'start': 782.29, 'duration': 5.07}
+{'text': 'buckyball like structures these are', 'start': 785.05, 'duration': 4.38}
+{'text': 'these are arbitrary and the way that we', 'start': 787.36, 'duration': 4.199}
+{'text': 'can show unique components coming', 'start': 789.43, 'duration': 3.75}
+{'text': 'together is a principle called error', 'start': 791.559, 'duration': 4.621}
+{'text': 'correction so basically self-assembly', 'start': 793.18, 'duration': 5.04}
+{'text': 'works because of three three key', 'start': 796.18, 'duration': 3.779}
+{'text': 'ingredients number one is the energy', 'start': 798.22, 'duration': 3.359}
+{'text': 'that I talked about you need just the', 'start': 799.959, 'duration': 3.18}
+{'text': 'right amount of energy not too much', 'start': 801.579, 'duration': 4.2}
+{'text': 'energy not too much you can do that in', 'start': 803.139, 'duration': 4.05}
+{'text': 'all sorts of environments you can have', 'start': 805.779, 'duration': 3.391}
+{'text': 'turbulence you can shake it you can have', 'start': 807.189, 'duration': 4.471}
+{'text': "tumblers you're gonna fans a lot of", 'start': 809.17, 'duration': 4.469}
+{'text': 'different environments number two is the', 'start': 811.66, 'duration': 4.5}
+{'text': 'geometry the geometry is important', 'start': 813.639, 'duration': 4.32}
+{'text': 'because if you change the geometry you', 'start': 816.16, 'duration': 3.57}
+{'text': 'might get a chair or you might get a', 'start': 817.959, 'duration': 3.3}
+{'text': 'bracket or you might get a dodecahedron', 'start': 819.73, 'duration': 4.079}
+{'text': "or you might get something else it's you", 'start': 821.259, 'duration': 4.56}
+{'text': 'know kind of obvious that as you put', 'start': 823.809, 'duration': 4.08}
+{'text': 'things together the geometries gonna', 'start': 825.819, 'duration': 4.08}
+{'text': 'influence the global thing and then the', 'start': 827.889, 'duration': 3.75}
+{'text': 'most important in my mind is the', 'start': 829.899, 'duration': 3.211}
+{'text': 'interactions between them how do you', 'start': 831.639, 'duration': 3.39}
+{'text': 'make sure you know if you had a bunch of', 'start': 833.11, 'duration': 3.419}
+{'text': 'magnets and you throw a bunch of magnets', 'start': 835.029, 'duration': 3.271}
+{'text': "together you're gonna get a big mess", 'start': 836.529, 'duration': 4.261}
+{'text': "you're not gonna get anything useful so", 'start': 838.3, 'duration': 3.599}
+{'text': "how do you make sure that you're gonna", 'start': 840.79, 'duration': 3.989}
+{'text': 'get something precise and repeatable and', 'start': 841.899, 'duration': 5.13}
+{'text': 'not just get a random mess and the way', 'start': 844.779, 'duration': 4.321}
+{'text': 'that you do that is that principle', 'start': 847.029, 'duration': 5.221}
+{'text': 'called error correction so basically DNA', 'start': 849.1, 'duration': 6.15}
+{'text': "does that by ACTG so there's different", 'start': 852.25, 'duration': 6.029}
+{'text': 'base pairs called ACTG and they they', 'start': 855.25, 'duration': 5.459}
+{'text': 'only match the complementary pair so if', 'start': 858.279, 'duration': 5.341}
+{'text': 'you have a a CCC TTT u whatever it is', 'start': 860.709, 'duration': 5.1}
+{'text': 'some pattern only the complementary', 'start': 863.62, 'duration': 4.67}
+{'text': 'pattern will be able to connect and', 'start': 865.809, 'duration': 4.921}
+{'text': 'every one of those connections is very', 'start': 868.29, 'duration': 5.56}
+{'text': 'weak so this phenomenon a week local', 'start': 870.73, 'duration': 5.609}
+{'text': "bonding so every bond is very weak it's", 'start': 873.85, 'duration': 4.02}
+{'text': 'popping in and out popping in and out', 'start': 876.339, 'duration': 4.991}
+{'text': 'all the time and only when you have', 'start': 877.87, 'duration': 5.89}
+{'text': 'long sequence of correct structures do', 'start': 881.33, 'duration': 4.44}
+{'text': 'you get much stronger than anyone bond', 'start': 883.76, 'duration': 4.56}
+{'text': 'so that ensures that your pattern', 'start': 885.77, 'duration': 4.8}
+{'text': 'basically can zip itself up because if', 'start': 888.32, 'duration': 4.08}
+{'text': 'any one bond was too strong it could', 'start': 890.57, 'duration': 4.02}
+{'text': 'never separate itself so you need to', 'start': 892.4, 'duration': 3.57}
+{'text': 'make sure that you have all these bonds', 'start': 894.59, 'duration': 2.91}
+{'text': 'that can connect them then you can zip', 'start': 895.97, 'duration': 4.02}
+{'text': 'themselves up another way you can do', 'start': 897.5, 'duration': 4.47}
+{'text': 'that is through lock and key mechanism', 'start': 899.99, 'duration': 4.32}
+{'text': 'so you know in your house or in your car', 'start': 901.97, 'duration': 4.14}
+{'text': 'you have this lock and key mechanism and', 'start': 904.31, 'duration': 3.78}
+{'text': "that's a way that you can match the", 'start': 906.11, 'duration': 4.08}
+{'text': 'right pattern to the right lock or the', 'start': 908.09, 'duration': 4.23}
+{'text': 'right key to the right lock and in this', 'start': 910.19, 'duration': 3.75}
+{'text': 'case we do the same thing with geometry', 'start': 912.32, 'duration': 4.83}
+{'text': 'so every node has a complementary node', 'start': 913.94, 'duration': 5.64}
+{'text': 'and only that other node can match it so', 'start': 917.15, 'duration': 5.1}
+{'text': 'it basically has a lock and key and then', 'start': 919.58, 'duration': 4.62}
+{'text': 'the last way that you can do that is', 'start': 922.25, 'duration': 5.22}
+{'text': 'through patterned attraction so think', 'start': 924.2, 'duration': 7.31}
+{'text': 'about magnets or surface tension or even', 'start': 927.47, 'duration': 6.24}
+{'text': 'like when you have static electricity', 'start': 931.51, 'duration': 4.27}
+{'text': 'with a balloon you can actually pattern', 'start': 933.71, 'duration': 3.78}
+{'text': 'that with positives and negatives and', 'start': 935.78, 'duration': 3.72}
+{'text': 'the obvious one is is magnets velcro', 'start': 937.49, 'duration': 3.54}
+{'text': 'does the same you have positive and', 'start': 939.5, 'duration': 3.9}
+{'text': 'negative velcro and by having certain', 'start': 941.03, 'duration': 4.29}
+{'text': 'sequences like positive negative or', 'start': 943.4, 'duration': 3.66}
+{'text': 'positive positive negative negative or', 'start': 945.32, 'duration': 3.36}
+{'text': 'positive negative positive negative you', 'start': 947.06, 'duration': 3.12}
+{'text': 'have these patterns that you can make', 'start': 948.68, 'duration': 3.9}
+{'text': 'and those patterns are only going to be', 'start': 950.18, 'duration': 4.23}
+{'text': 'matched with the complementary pair and', 'start': 952.58, 'duration': 4.56}
+{'text': 'so in that way you can ensure that very', 'start': 954.41, 'duration': 4.8}
+{'text': 'precise structures should assemble even', 'start': 957.14, 'duration': 4.17}
+{'text': "if it's a random environment only when", 'start': 959.21, 'duration': 3.96}
+{'text': 'the two complementary pairs stick will', 'start': 961.31, 'duration': 4.41}
+{'text': 'they match and then you can grow so any', 'start': 963.17, 'duration': 4.38}
+{'text': 'one of these is kind of weak but then as', 'start': 965.72, 'duration': 3.99}
+{'text': 'it grows larger and larger it gets it', 'start': 967.55, 'duration': 5.82}
+{'text': 'gets more precise and stronger so the', 'start': 969.71, 'duration': 4.95}
+{'text': 'first one was in a kind of tumbling', 'start': 973.37, 'duration': 3.39}
+{'text': 'shaking environment the second one was', 'start': 974.66, 'duration': 4.83}
+{'text': 'in a water tank and then this one that', 'start': 976.76, 'duration': 4.5}
+{'text': "I'm going to show you is in an aerial", 'start': 979.49, 'duration': 5.19}
+{'text': 'environment here on the left-hand side', 'start': 981.26, 'duration': 5.49}
+{'text': 'you can see all the these are components', 'start': 984.68, 'duration': 4.23}
+{'text': "at the nodes they're actually made with", 'start': 986.75, 'duration': 4.2}
+{'text': 'velcro nodes so we have positive and', 'start': 988.91, 'duration': 5.16}
+{'text': "negative velcro and then that's how we", 'start': 990.95, 'duration': 5.07}
+{'text': 'can pattern to make sure that you know', 'start': 994.07, 'duration': 4.08}
+{'text': 'certain connections can connect with the', 'start': 996.02, 'duration': 4.71}
+{'text': 'complementary ones the other thing here', 'start': 998.15, 'duration': 5.4}
+{'text': "is that they're all made with 36 inch", 'start': 1000.73, 'duration': 4.95}
+{'text': 'diameter weather balloons so the weather', 'start': 1003.55, 'duration': 2.99}
+{'text': 'balloons', 'start': 1005.68, 'duration': 2.69}
+{'text': 'have helium in them and they can float', 'start': 1006.54, 'duration': 3.51}
+{'text': "around I'll show you a video and then", 'start': 1008.37, 'duration': 4.37}
+{'text': 'talk about it', 'start': 1010.05, 'duration': 2.69}
+{'text': '[Music]', 'start': 1029.099, 'duration': 3.09}
+{'text': '[Music]', 'start': 1040.17, 'duration': 4.599}
+{'text': '[Music]', 'start': 1063.21, 'duration': 3.119}
+{'text': '[Laughter]', 'start': 1067.3, 'duration': 10.63}
+{'text': 'so the idea here was that you could have', 'start': 1078.23, 'duration': 5.11}
+{'text': 'components that assemble above the', 'start': 1080.58, 'duration': 5.94}
+{'text': 'airspace or above a construction site in', 'start': 1083.34, 'duration': 5.31}
+{'text': 'the airspace and then come together as', 'start': 1086.52, 'duration': 4.65}
+{'text': 'the helium dies it then comes back to', 'start': 1088.65, 'duration': 3.78}
+{'text': "the ground and you're left with this", 'start': 1091.17, 'duration': 4.62}
+{'text': 'space frame structure particularly we', 'start': 1092.43, 'duration': 5.61}
+{'text': 'were interested in that concept of that', 'start': 1095.79, 'duration': 5.16}
+{'text': 'provocation for urban construction sites', 'start': 1098.04, 'duration': 4.89}
+{'text': 'or extreme environments places where', 'start': 1100.95, 'duration': 3.36}
+{'text': "it's hard to get people hard to get", 'start': 1102.93, 'duration': 4.86}
+{'text': 'machines hard to get materials it would', 'start': 1104.31, 'duration': 5.01}
+{'text': 'be beneficial that we could assemble', 'start': 1107.79, 'duration': 3.75}
+{'text': 'without piece by piece', 'start': 1109.32, 'duration': 4.38}
+{'text': 'human precise labor but that we could do', 'start': 1111.54, 'duration': 5.04}
+{'text': 'it in the air and as I showed each one', 'start': 1113.7, 'duration': 4.62}
+{'text': 'of these experiments you know these are', 'start': 1116.58, 'duration': 3.48}
+{'text': 'just three of many that we have done', 'start': 1118.32, 'duration': 3.81}
+{'text': "they're trying to test something", 'start': 1120.06, 'duration': 3.72}
+{'text': 'different trying to test different scale', 'start': 1122.13, 'duration': 4.05}
+{'text': 'so kind of centimeter scale structures', 'start': 1123.78, 'duration': 4.14}
+{'text': 'up too many metre scale structures', 'start': 1126.18, 'duration': 3.6}
+{'text': 'trying to test different environments', 'start': 1127.92, 'duration': 4.53}
+{'text': 'tumbling versus fluids versus aerial', 'start': 1129.78, 'duration': 4.65}
+{'text': 'structures testing different types of', 'start': 1132.45, 'duration': 3.6}
+{'text': 'connections the lock and key mechanism', 'start': 1134.43, 'duration': 4.65}
+{'text': 'unique geometries versus velcro in this', 'start': 1136.05, 'duration': 6.08}
+{'text': 'case lattice cubic lattice structures', 'start': 1139.08, 'duration': 6.3}
+{'text': 'basically all of this research we really', 'start': 1142.13, 'duration': 5.11}
+{'text': 'think of as our basic research those', 'start': 1145.38, 'duration': 4.53}
+{'text': "basic research and applied research I'll", 'start': 1147.24, 'duration': 4.35}
+{'text': 'show you some of the applied research in', 'start': 1149.91, 'duration': 4.47}
+{'text': 'a second the basic research in a kind of', 'start': 1151.59, 'duration': 4.59}
+{'text': 'academic setting is typically things', 'start': 1154.38, 'duration': 3.15}
+{'text': "that you're trying to ask questions", 'start': 1156.18, 'duration': 2.73}
+{'text': "fundamental questions about what's", 'start': 1157.53, 'duration': 3.72}
+{'text': 'possible ask questions about our world', 'start': 1158.91, 'duration': 3.96}
+{'text': "why does this happen why doesn't that", 'start': 1161.25, 'duration': 4.11}
+{'text': 'happen if this happens what can we do', 'start': 1162.87, 'duration': 4.23}
+{'text': "with it what's the logical extent how do", 'start': 1165.36, 'duration': 3.57}
+{'text': 'we push the limits of scale and material', 'start': 1167.1, 'duration': 5.13}
+{'text': "properties etc so in that way it's sort", 'start': 1168.93, 'duration': 5.31}
+{'text': 'of our our farthest futures are our most', 'start': 1172.23, 'duration': 4.53}
+{'text': 'abstract but you could think about it in', 'start': 1174.24, 'duration': 4.95}
+{'text': 'a way as a future of fabrication or', 'start': 1176.76, 'duration': 4.01}
+{'text': "future of construction that we're", 'start': 1179.19, 'duration': 3.75}
+{'text': 'imagining that material should have the', 'start': 1180.77, 'duration': 3.36}
+{'text': 'information embedded in', 'start': 1182.94, 'duration': 3.86}
+{'text': 'those materials could be assembling new', 'start': 1184.13, 'duration': 3.21}
+{'text': 'things', 'start': 1186.8, 'duration': 2.79}
+{'text': 'the ultimate goal in my mind is that', 'start': 1187.34, 'duration': 4.02}
+{'text': "it's not only about pure assembly but", 'start': 1189.59, 'duration': 3.51}
+{'text': "it's also about how design emerges", 'start': 1191.36, 'duration': 3.72}
+{'text': 'through that process that you know you', 'start': 1193.1, 'duration': 4.62}
+{'text': 'can imagine that chair for example and', 'start': 1195.08, 'duration': 5.19}
+{'text': 'in the same way that our bodies grow and', 'start': 1197.72, 'duration': 5.46}
+{'text': 'adapt or evolve or respond to different', 'start': 1200.27, 'duration': 5.64}
+{'text': 'forces in their environment it would be', 'start': 1203.18, 'duration': 4.53}
+{'text': 'really interesting if you can have some', 'start': 1205.91, 'duration': 4.32}
+{'text': 'materials you do pop deposit them in', 'start': 1207.71, 'duration': 4.65}
+{'text': 'some environments subject them to some', 'start': 1210.23, 'duration': 4.68}
+{'text': 'forces and the design and assembly', 'start': 1212.36, 'duration': 4.41}
+{'text': 'emerges through that environment not', 'start': 1214.91, 'duration': 3.6}
+{'text': "just that we've predetermined the design", 'start': 1216.77, 'duration': 4.02}
+{'text': "like we've shown but rather design could", 'start': 1218.51, 'duration': 4.38}
+{'text': 'emerge through the functionality of the', 'start': 1220.79, 'duration': 5.34}
+{'text': 'process so another category of research', 'start': 1222.89, 'duration': 6.06}
+{'text': 'we focus on as I was saying is much more', 'start': 1226.13, 'duration': 5.7}
+{'text': 'applied applied research the goal is', 'start': 1228.95, 'duration': 4.65}
+{'text': 'that you want to take that research and', 'start': 1231.83, 'duration': 3.5}
+{'text': "it's probably more applicable to many", 'start': 1233.6, 'duration': 4.59}
+{'text': "everyday applications it's much maybe", 'start': 1235.33, 'duration': 6.58}
+{'text': 'more near term and the goal here so this', 'start': 1238.19, 'duration': 4.62}
+{'text': 'research is called programmable', 'start': 1241.91, 'duration': 2.88}
+{'text': 'materials the goal here is that we want', 'start': 1242.81, 'duration': 4.83}
+{'text': 'to take physical materials and add', 'start': 1244.79, 'duration': 5.25}
+{'text': 'information and capabilities into those', 'start': 1247.64, 'duration': 5.52}
+{'text': 'materials in order to enable them to be', 'start': 1250.04, 'duration': 6.11}
+{'text': 'actuator sensors enable them to have', 'start': 1253.16, 'duration': 5.4}
+{'text': 'computational capabilities or enable', 'start': 1256.15, 'duration': 4.51}
+{'text': 'them to be smarter and have higher', 'start': 1258.56, 'duration': 4.35}
+{'text': 'performance perhaps or to be physically', 'start': 1260.66, 'duration': 4.23}
+{'text': 'active literally transforming themselves', 'start': 1262.91, 'duration': 5.25}
+{'text': 'and the way that we do that is a few key', 'start': 1264.89, 'duration': 5.4}
+{'text': 'ingredients so the first thing that we', 'start': 1268.16, 'duration': 3.75}
+{'text': 'start with is the materials and the', 'start': 1270.29, 'duration': 3.84}
+{'text': 'geometry so you know if you want to', 'start': 1271.91, 'duration': 6.9}
+{'text': 'design a facade system or a chair or you', 'start': 1274.13, 'duration': 6.78}
+{'text': 'know product some other product like a', 'start': 1278.81, 'duration': 3.99}
+{'text': "garment you're probably going to start", 'start': 1280.91, 'duration': 4.16}
+{'text': 'with the material properties for example', 'start': 1282.8, 'duration': 5.04}
+{'text': "or that's one place to start so think", 'start': 1285.07, 'duration': 5.05}
+{'text': 'about wood so if you take wood for', 'start': 1287.84, 'duration': 4.59}
+{'text': 'example the second thing you want to', 'start': 1290.12, 'duration': 3.96}
+{'text': 'think about is what kind of activation', 'start': 1292.43, 'duration': 5.01}
+{'text': 'energy can I use to trigger the wood and', 'start': 1294.08, 'duration': 6.03}
+{'text': 'the obvious solution would be moisture', 'start': 1297.44, 'duration': 4.95}
+{'text': 'so we know that woods Wells with', 'start': 1300.11, 'duration': 5.52}
+{'text': 'moisture so we can use that activation', 'start': 1302.39, 'duration': 5.31}
+{'text': 'energy in order to to do something with', 'start': 1305.63, 'duration': 3.78}
+{'text': 'the wood but you could start at the', 'start': 1307.7, 'duration': 3.42}
+{'text': 'opposite end you could say what happens', 'start': 1309.41, 'duration': 3.64}
+{'text': 'if I have a lot of temperature', 'start': 1311.12, 'duration': 3.49}
+{'text': 'in my application like a lot of heat', 'start': 1313.05, 'duration': 3.69}
+{'text': 'then you want to think about materials', 'start': 1314.61, 'duration': 3.24}
+{'text': 'that could be activated by that', 'start': 1316.74, 'duration': 2.94}
+{'text': "temperature so maybe you're going to use", 'start': 1317.85, 'duration': 3.3}
+{'text': "a metal or maybe you're gonna use a", 'start': 1319.68, 'duration': 4.47}
+{'text': 'plastic thermoplastic for example so you', 'start': 1321.15, 'duration': 5.19}
+{'text': 'take that material property but you have', 'start': 1324.15, 'duration': 3.99}
+{'text': 'to fabricate it in a way that it has', 'start': 1326.34, 'duration': 3.48}
+{'text': 'very specific geometries in two', 'start': 1328.14, 'duration': 3.54}
+{'text': 'dimensions and three dimensions because', 'start': 1329.82, 'duration': 4.74}
+{'text': 'that geometry is basically encoding the', 'start': 1331.68, 'duration': 4.41}
+{'text': "information in the structure so it's", 'start': 1334.56, 'duration': 3.69}
+{'text': 'sort of like Braille you have geometric', 'start': 1336.09, 'duration': 5.09}
+{'text': 'information the joints the backbone the', 'start': 1338.25, 'duration': 5.58}
+{'text': 'structure of it and the 2d and 3d', 'start': 1341.18, 'duration': 4.93}
+{'text': "pattern maybe it's multiple materials or", 'start': 1343.83, 'duration': 4.29}
+{'text': "maybe it's a single material just like", 'start': 1346.11, 'duration': 4.56}
+{'text': 'wood grain for example the wood grain', 'start': 1348.12, 'duration': 4.77}
+{'text': "isn't encoding what the wood is going to", 'start': 1350.67, 'duration': 4.67}
+{'text': 'do when it swells and that allows you to', 'start': 1352.89, 'duration': 4.5}
+{'text': 'enable certain type of mechanical', 'start': 1355.34, 'duration': 3.88}
+{'text': 'transformation like folding curling', 'start': 1357.39, 'duration': 4.23}
+{'text': 'stretching shrinking twisting so you can', 'start': 1359.22, 'duration': 4.2}
+{'text': 'take some material activate it with some', 'start': 1361.62, 'duration': 3.87}
+{'text': 'energy and get it to physically', 'start': 1363.42, 'duration': 5.73}
+{'text': 'transform so the way that we started', 'start': 1365.49, 'duration': 5.31}
+{'text': 'this is with a project called 4d', 'start': 1369.15, 'duration': 4.14}
+{'text': 'printing and actually before that when I', 'start': 1370.8, 'duration': 4.92}
+{'text': 'was a grad student I was under Neil', 'start': 1373.29, 'duration': 4.77}
+{'text': 'Gershenfeld slab and the Center for bits', 'start': 1375.72, 'duration': 3.75}
+{'text': 'and atoms and we were under a DARPA', 'start': 1378.06, 'duration': 3.81}
+{'text': 'grant so DARPA had a program called', 'start': 1379.47, 'duration': 5.64}
+{'text': 'programmable matter I was 10 plus years', 'start': 1381.87, 'duration': 5.67}
+{'text': 'ago and programmable matter at the time', 'start': 1385.11, 'duration': 5.1}
+{'text': 'meant to program matter we would likely', 'start': 1387.54, 'duration': 4.89}
+{'text': 'use robots so basically everyone in the', 'start': 1390.21, 'duration': 4.98}
+{'text': 'grant was developing smaller and smaller', 'start': 1392.43, 'duration': 4.89}
+{'text': 'robots and probably because of the', 'start': 1395.19, 'duration': 3.51}
+{'text': 'architecture background I started to', 'start': 1397.32, 'duration': 4.2}
+{'text': 'build larger and larger robots you know', 'start': 1398.7, 'duration': 4.17}
+{'text': 'thinking that maybe we could build these', 'start': 1401.52, 'duration': 5.1}
+{'text': 'large modules that were robotic and they', 'start': 1402.87, 'duration': 5.16}
+{'text': 'could reconfigure assemble themselves', 'start': 1406.62, 'duration': 4.85}
+{'text': 'transform etc but quickly I started to', 'start': 1408.03, 'duration': 6.63}
+{'text': 'question that that principle because if', 'start': 1411.47, 'duration': 5.32}
+{'text': 'you want to build a building you', 'start': 1414.66, 'duration': 3.9}
+{'text': "probably don't want to build every brick", 'start': 1416.79, 'duration': 4.53}
+{'text': 'out of a robot because if every building', 'start': 1418.56, 'duration': 4.77}
+{'text': "component is a robot it's likely gonna", 'start': 1421.32, 'duration': 3.96}
+{'text': "cost a lot more it's likely gonna fail", 'start': 1423.33, 'duration': 4.44}
+{'text': "it's likely gonna be harder to assemble", 'start': 1425.28, 'duration': 5.07}
+{'text': "so it's not that scalable to build", 'start': 1427.77, 'duration': 4.68}
+{'text': 'everything out of robots as you scale up', 'start': 1430.35, 'duration': 4.2}
+{'text': 'for potentially maybe as you scale down', 'start': 1432.45, 'duration': 5.22}
+{'text': 'it makes more sense but but still maybe', 'start': 1434.55, 'duration': 5.43}
+{'text': 'maybe not so we started to think about', 'start': 1437.67, 'duration': 4.609}
+{'text': 'what are other ways that we could', 'start': 1439.98, 'duration': 5.019}
+{'text': 'a program of material to transform and', 'start': 1442.279, 'duration': 5.07}
+{'text': 'then I started this collaboration with', 'start': 1444.999, 'duration': 5.081}
+{'text': 'Auto Dustin Stratasys the goal being', 'start': 1447.349, 'duration': 5.341}
+{'text': 'that we would multi material print so we', 'start': 1450.08, 'duration': 5.099}
+{'text': 'would use sort of the latest printing at', 'start': 1452.69, 'duration': 4.77}
+{'text': 'the time which was the konnex poly jet', 'start': 1455.179, 'duration': 4.29}
+{'text': 'printer you could deposit many different', 'start': 1457.46, 'duration': 4.649}
+{'text': 'materials at the same time by depositing', 'start': 1459.469, 'duration': 3.75}
+{'text': 'those different materials and', 'start': 1462.109, 'duration': 3.39}
+{'text': 'three-dimensional structures and taking', 'start': 1463.219, 'duration': 3.57}
+{'text': 'advantage of different material', 'start': 1465.499, 'duration': 2.85}
+{'text': 'properties we could get these printed', 'start': 1466.789, 'duration': 4.11}
+{'text': 'structures to transform so we print', 'start': 1468.349, 'duration': 5.491}
+{'text': 'different materials the black material', 'start': 1470.899, 'duration': 6.09}
+{'text': 'here is just a rigid a rigid plastic and', 'start': 1473.84, 'duration': 4.469}
+{'text': "then there's another material that's a", 'start': 1476.989, 'duration': 3.091}
+{'text': 'little bit harder to see in this in this', 'start': 1478.309, 'duration': 4.381}
+{'text': "video but it's a hydrogel and that", 'start': 1480.08, 'duration': 6.899}
+{'text': 'hydrogel is swells with moisture so you', 'start': 1482.69, 'duration': 7.109}
+{'text': 'print these structures and at every one', 'start': 1486.979, 'duration': 4.77}
+{'text': 'of the joints for example we can have', 'start': 1489.799, 'duration': 3.901}
+{'text': 'different geometries in those geometries', 'start': 1491.749, 'duration': 4.5}
+{'text': "encode what kind of angle it's going to", 'start': 1493.7, 'duration': 4.74}
+{'text': "turn into or if it's gonna fold left or", 'start': 1496.249, 'duration': 4.14}
+{'text': "fold right or if it's gonna curl or", 'start': 1498.44, 'duration': 4.469}
+{'text': 'twist or whatever you want it to do so', 'start': 1500.389, 'duration': 5.52}
+{'text': "that's how you encode that information", 'start': 1502.909, 'duration': 4.5}
+{'text': "about what it's going to transform into", 'start': 1505.909, 'duration': 3.72}
+{'text': 'the black materials the structure of the', 'start': 1507.409, 'duration': 3.72}
+{'text': 'backbone the joints all that kind of', 'start': 1509.629, 'duration': 3.48}
+{'text': 'stuff and then the hydrogel when it', 'start': 1511.129, 'duration': 3.72}
+{'text': 'meets moisture it senses that an', 'start': 1513.109, 'duration': 4.831}
+{'text': 'environment and actuates it allows you', 'start': 1514.849, 'duration': 4.92}
+{'text': 'to control it through printing different', 'start': 1517.94, 'duration': 3.689}
+{'text': 'combinations of that thicker material', 'start': 1519.769, 'duration': 3.54}
+{'text': 'will be stronger but slower than a', 'start': 1521.629, 'duration': 4.35}
+{'text': 'material weaker but faster you can have', 'start': 1523.309, 'duration': 5.22}
+{'text': 'different joints for example so we then', 'start': 1525.979, 'duration': 4.32}
+{'text': 'figured out how to do fold and curling', 'start': 1528.529, 'duration': 3.08}
+{'text': 'stretching all these different', 'start': 1530.299, 'duration': 3.271}
+{'text': "mechanisms so we'd print the structure", 'start': 1531.609, 'duration': 3.221}
+{'text': 'we dip it underwater and then it', 'start': 1533.57, 'duration': 3.659}
+{'text': 'transforms from a line to a cube or a', 'start': 1534.83, 'duration': 5.399}
+{'text': 'line into the letters MIT or a flat', 'start': 1537.229, 'duration': 6.75}
+{'text': 'sheet into a truncated octahedron or a', 'start': 1540.229, 'duration': 5.61}
+{'text': 'flat sheet that can do curved crease', 'start': 1543.979, 'duration': 5.25}
+{'text': 'origami into a saddle shape flat sheet', 'start': 1545.839, 'duration': 5.34}
+{'text': 'that can expand and contract to create', 'start': 1549.229, 'duration': 4.32}
+{'text': 'double curvature without any manual', 'start': 1551.179, 'duration': 4.891}
+{'text': 'forming a 50-foot long strand that', 'start': 1553.549, 'duration': 4.86}
+{'text': 'folded into a protein we printed a lot', 'start': 1556.07, 'duration': 4.38}
+{'text': 'of different structures that went from 1', 'start': 1558.409, 'duration': 6.27}
+{'text': 'D 2 to D 1 D 2 3d 2d to 3d different', 'start': 1560.45, 'duration': 5.849}
+{'text': 'types of transformation each one of', 'start': 1564.679, 'duration': 3.09}
+{'text': 'those experiments was trying to test', 'start': 1566.299, 'duration': 2.94}
+{'text': 'something different in the beginning we', 'start': 1567.769, 'duration': 2.351}
+{'text': 'only knew how to', 'start': 1569.239, 'duration': 3.521}
+{'text': 'twofold things that we went to curling', 'start': 1570.12, 'duration': 4.59}
+{'text': 'and then we went to arbitrary angles and', 'start': 1572.76, 'duration': 3.89}
+{'text': 'twisting and expanding and contracting', 'start': 1574.71, 'duration': 5.61}
+{'text': 'but after that work one main question', 'start': 1576.65, 'duration': 5.59}
+{'text': 'kept coming up how do we do this with', 'start': 1580.32, 'duration': 3.42}
+{'text': 'other materials and other machines', 'start': 1582.24, 'duration': 3.51}
+{'text': 'because a lot of companies started to', 'start': 1583.74, 'duration': 3.569}
+{'text': 'approach us and say can we do it for', 'start': 1585.75, 'duration': 4.049}
+{'text': 'clothing or shoes or cars or planes or', 'start': 1587.309, 'duration': 5.431}
+{'text': "medical devices and it wasn't just about", 'start': 1589.799, 'duration': 4.651}
+{'text': "plastics and it wasn't just about", 'start': 1592.74, 'duration': 3.84}
+{'text': 'printing you know we had shown it in', 'start': 1594.45, 'duration': 4.62}
+{'text': 'this one specific way but could we do', 'start': 1596.58, 'duration': 5.099}
+{'text': 'the same thing with other materials and', 'start': 1599.07, 'duration': 4.68}
+{'text': "other manufacturing processes and that's", 'start': 1601.679, 'duration': 3.571}
+{'text': 'where we came up with this much larger', 'start': 1603.75, 'duration': 4.049}
+{'text': 'agenda that we call programmable', 'start': 1605.25, 'duration': 4.71}
+{'text': 'materials so we want to be able to', 'start': 1607.799, 'duration': 4.411}
+{'text': 'ideally take any material you can think', 'start': 1609.96, 'duration': 4.62}
+{'text': 'of textiles metal wood plastic foam', 'start': 1612.21, 'duration': 5.04}
+{'text': 'rubber and take different types of', 'start': 1614.58, 'duration': 5.79}
+{'text': 'fabrication processes printing sure but', 'start': 1617.25, 'duration': 5.549}
+{'text': 'also lamination injecting you know', 'start': 1620.37, 'duration': 6.39}
+{'text': 'welding weaving knitting you know all', 'start': 1622.799, 'duration': 6.24}
+{'text': 'these different fabrication processes to', 'start': 1626.76, 'duration': 4.74}
+{'text': 'arrive at similar results but with new', 'start': 1629.039, 'duration': 4.74}
+{'text': 'new materials so this started with a', 'start': 1631.5, 'duration': 4.86}
+{'text': 'group of collaborators and product', 'start': 1633.779, 'duration': 4.291}
+{'text': 'designers and computer scientists', 'start': 1636.36, 'duration': 3.48}
+{'text': 'mathematicians material companies', 'start': 1638.07, 'duration': 3.81}
+{'text': "software companies and now it's grown", 'start': 1639.84, 'duration': 3.809}
+{'text': 'into many many many other other', 'start': 1641.88, 'duration': 4.44}
+{'text': "collaborations we've worked on a number", 'start': 1643.649, 'duration': 3.9}
+{'text': 'of different materials the first', 'start': 1646.32, 'duration': 4.14}
+{'text': 'category is on composites like carbon', 'start': 1647.549, 'duration': 5.941}
+{'text': 'fiber Kevlar fiberglass that can', 'start': 1650.46, 'duration': 4.5}
+{'text': "transform I'll show you some of that", 'start': 1653.49, 'duration': 4.409}
+{'text': 'another category is on textiles and we', 'start': 1654.96, 'duration': 5.04}
+{'text': "have a lot of work on textiles that I'll", 'start': 1657.899, 'duration': 4.41}
+{'text': 'show and you have even even more recent', 'start': 1660.0, 'duration': 4.77}
+{'text': 'work looking at how textiles can', 'start': 1662.309, 'duration': 4.701}
+{'text': "transform but I'll start with wood", 'start': 1664.77, 'duration': 4.71}
+{'text': 'because I hinted at it before wood is a', 'start': 1667.01, 'duration': 4.57}
+{'text': "really interesting example there's a", 'start': 1669.48, 'duration': 4.199}
+{'text': 'long lineage of using wood as an active', 'start': 1671.58, 'duration': 4.02}
+{'text': 'material so you can think about Japanese', 'start': 1673.679, 'duration': 6.021}
+{'text': 'joinery for example or boat building or', 'start': 1675.6, 'duration': 7.65}
+{'text': 'like wine or other alcoholic barrels', 'start': 1679.7, 'duration': 7.24}
+{'text': 'wood barrels or Eames furniture all of', 'start': 1683.25, 'duration': 6.24}
+{'text': 'these examples use moisture to swell', 'start': 1686.94, 'duration': 4.77}
+{'text': 'wood and when you get the wood to swell', 'start': 1689.49, 'duration': 4.86}
+{'text': 'it then becomes active often in the in', 'start': 1691.71, 'duration': 4.469}
+{'text': "the joints or the boat example it's", 'start': 1694.35, 'duration': 4.47}
+{'text': 'about precision and water proofing you', 'start': 1696.179, 'duration': 4.641}
+{'text': 'can use the moisture transfer', 'start': 1698.82, 'duration': 4.52}
+{'text': 'in order to make the material swell and', 'start': 1700.82, 'duration': 5.01}
+{'text': 'be more precise in the Eames example', 'start': 1703.34, 'duration': 5.189}
+{'text': 'they would steam bend plywood to get the', 'start': 1705.83, 'duration': 5.699}
+{'text': 'the famous forms with the chair and then', 'start': 1708.529, 'duration': 4.411}
+{'text': 'in the more contemporary example on the', 'start': 1711.529, 'duration': 3.181}
+{'text': 'right alkane mangas this group in in', 'start': 1712.94, 'duration': 4.68}
+{'text': 'Stuttgart uses wood veneer to open and', 'start': 1714.71, 'duration': 4.17}
+{'text': 'close and that based on the grain', 'start': 1717.62, 'duration': 3.0}
+{'text': 'pattern of the wood it opens and closes', 'start': 1718.88, 'duration': 4.529}
+{'text': 'with different curvature but the two', 'start': 1720.62, 'duration': 4.62}
+{'text': 'main challenges here in the Eames', 'start': 1723.409, 'duration': 3.961}
+{'text': "example there's a lot of energy that", 'start': 1725.24, 'duration': 4.319}
+{'text': 'goes into forcing the plywood into shape', 'start': 1727.37, 'duration': 3.96}
+{'text': 'so they have you know really complex', 'start': 1729.559, 'duration': 4.62}
+{'text': 'molds and they need a lot of steam and', 'start': 1731.33, 'duration': 4.709}
+{'text': 'they force the plywood into the shape', 'start': 1734.179, 'duration': 3.391}
+{'text': "that they have predetermined so they're", 'start': 1736.039, 'duration': 3.0}
+{'text': 'not really taking advantage of the', 'start': 1737.57, 'duration': 4.65}
+{'text': 'natural capability of wood to curl or to', 'start': 1739.039, 'duration': 6.541}
+{'text': 'help them design new capabilities', 'start': 1742.22, 'duration': 5.52}
+{'text': 'forcing it and then on the right hand', 'start': 1745.58, 'duration': 5.91}
+{'text': 'side it has the beautiful elegance of', 'start': 1747.74, 'duration': 5.939}
+{'text': 'responding to the wood grain but the', 'start': 1751.49, 'duration': 3.689}
+{'text': "problem is you're limited by the grain", 'start': 1753.679, 'duration': 3.571}
+{'text': 'that you can find so I think about that', 'start': 1755.179, 'duration': 3.421}
+{'text': 'is the sort of tree in the forest', 'start': 1757.25, 'duration': 3.179}
+{'text': "problem you don't want to have to go to", 'start': 1758.6, 'duration': 3.87}
+{'text': 'the forest to find just the right tree', 'start': 1760.429, 'duration': 4.08}
+{'text': 'that has just the right grain properties', 'start': 1762.47, 'duration': 4.319}
+{'text': 'to do whatever you want you want the', 'start': 1764.509, 'duration': 4.05}
+{'text': 'natural property wood but you want the', 'start': 1766.789, 'duration': 4.951}
+{'text': 'flexibility in design so what we started', 'start': 1768.559, 'duration': 5.25}
+{'text': 'to do is actually print wood and by', 'start': 1771.74, 'duration': 4.289}
+{'text': 'printing with wood we can then create', 'start': 1773.809, 'duration': 4.531}
+{'text': 'our own grain we can create different', 'start': 1776.029, 'duration': 4.11}
+{'text': 'densities and different 2d and 3d', 'start': 1778.34, 'duration': 4.439}
+{'text': 'structures of wood but still have the', 'start': 1780.139, 'duration': 4.231}
+{'text': 'natural property of the wood that would', 'start': 1782.779, 'duration': 3.691}
+{'text': 'swell with moisture so we originally', 'start': 1784.37, 'duration': 3.899}
+{'text': 'started to make our own filaments you', 'start': 1786.47, 'duration': 5.039}
+{'text': 'can now buy wood filaments so we extrude', 'start': 1788.269, 'duration': 5.581}
+{'text': "it it's basically sawdust and plastic", 'start': 1791.509, 'duration': 4.561}
+{'text': "it's sort of like an MDF you can extrude", 'start': 1793.85, 'duration': 4.289}
+{'text': 'with that and then you print your own', 'start': 1796.07, 'duration': 3.809}
+{'text': 'grain so you design different grain', 'start': 1798.139, 'duration': 4.561}
+{'text': 'patterns you then subjected to moisture', 'start': 1799.879, 'duration': 4.591}
+{'text': 'you can either dip it under water or you', 'start': 1802.7, 'duration': 3.27}
+{'text': 'can change the moisture in the', 'start': 1804.47, 'duration': 4.709}
+{'text': 'environment and by changing the grain', 'start': 1805.97, 'duration': 5.069}
+{'text': 'pattern you get different behaviors', 'start': 1809.179, 'duration': 5.37}
+{'text': 'curling behaviors so you can have a wood', 'start': 1811.039, 'duration': 6.09}
+{'text': 'that curls or twists like this or you', 'start': 1814.549, 'duration': 5.311}
+{'text': 'can have wood that folds to 90-degree', 'start': 1817.129, 'duration': 4.891}
+{'text': 'angles or any arbitrary angle you', 'start': 1819.86, 'duration': 4.26}
+{'text': 'would the curls into furniture like', 'start': 1822.02, 'duration': 4.53}
+{'text': 'shapes a lot of different behaviors', 'start': 1824.12, 'duration': 5.01}
+{'text': "you're gonna have fish scales with wood", 'start': 1826.55, 'duration': 5.16}
+{'text': 'all sorts of different shapes that would', 'start': 1829.13, 'duration': 5.31}
+{'text': "naturally wouldn't do you can have total", 'start': 1831.71, 'duration': 4.56}
+{'text': 'freedom in the design that the behavior', 'start': 1834.44, 'duration': 4.11}
+{'text': 'of the wood is the same so then we did', 'start': 1836.27, 'duration': 4.53}
+{'text': 'the knot to the Eames we made the the', 'start': 1838.55, 'duration': 3.96}
+{'text': 'famous plywood elephant but we showed', 'start': 1840.8, 'duration': 3.69}
+{'text': 'that you could just print the flat', 'start': 1842.51, 'duration': 3.69}
+{'text': 'pattern just by subjecting it to', 'start': 1844.49, 'duration': 3.12}
+{'text': 'moisture you can get the elephant to', 'start': 1846.2, 'duration': 4.29}
+{'text': 'form itself into all the complexity just', 'start': 1847.61, 'duration': 6.57}
+{'text': 'by designing that complex grain and then', 'start': 1850.49, 'duration': 6.12}
+{'text': 'another project we did more recently', 'start': 1854.18, 'duration': 5.67}
+{'text': 'with Christoph the product designer was', 'start': 1856.61, 'duration': 5.22}
+{'text': 'these flat sheets so the idea was that', 'start': 1859.85, 'duration': 3.75}
+{'text': 'we would print these flat sheets really', 'start': 1861.83, 'duration': 3.66}
+{'text': 'really fast with minimal materials', 'start': 1863.6, 'duration': 3.69}
+{'text': "there's no extra support materials", 'start': 1865.49, 'duration': 3.81}
+{'text': "they're just printed flat you would ship", 'start': 1867.29, 'duration': 5.07}
+{'text': 'them in vacuum pack seals but with', 'start': 1869.3, 'duration': 5.46}
+{'text': 'moisture inside of the package so that', 'start': 1872.36, 'duration': 4.83}
+{'text': 'when you opened it it then transforms', 'start': 1874.76, 'duration': 4.62}
+{'text': 'into these bowls and baskets so the flat', 'start': 1877.19, 'duration': 4.2}
+{'text': 'sheets are easy to print these bowls and', 'start': 1879.38, 'duration': 3.84}
+{'text': 'baskets would be nearly impossible or', 'start': 1881.39, 'duration': 4.47}
+{'text': 'very difficult and time-consuming but', 'start': 1883.22, 'duration': 4.38}
+{'text': 'they can transform themselves just from', 'start': 1885.86, 'duration': 6.18}
+{'text': 'the moisture embedded in the package so', 'start': 1887.6, 'duration': 6.18}
+{'text': 'then another category was talking about', 'start': 1892.04, 'duration': 4.56}
+{'text': 'is the composites so we take in this', 'start': 1893.78, 'duration': 4.53}
+{'text': "case carbon fiber but it's a very", 'start': 1896.6, 'duration': 4.02}
+{'text': "special kind that's fully flexible so", 'start': 1898.31, 'duration': 3.93}
+{'text': 'normally carbon fiber is rigid and', 'start': 1900.62, 'duration': 5.01}
+{'text': "strong in this case it's very strong and", 'start': 1902.24, 'duration': 6.06}
+{'text': 'light but flexible and then we print or', 'start': 1905.63, 'duration': 4.89}
+{'text': 'bond or spray onto that carbon fiber', 'start': 1908.3, 'duration': 4.8}
+{'text': 'with different polymers and then as the', 'start': 1910.52, 'duration': 4.68}
+{'text': 'temperature changes in this case the', 'start': 1913.1, 'duration': 4.89}
+{'text': 'carbon fiber can fold repeatedly to', 'start': 1915.2, 'duration': 5.76}
+{'text': 'different angles so by changing the', 'start': 1917.99, 'duration': 5.13}
+{'text': 'pattern that we print just like the wood', 'start': 1920.96, 'duration': 4.41}
+{'text': 'grain if we print different patterns in', 'start': 1923.12, 'duration': 3.87}
+{'text': 'relationship to the carbon fiber weave', 'start': 1925.37, 'duration': 4.35}
+{'text': 'we can get it to twist or curl versus', 'start': 1926.99, 'duration': 5.25}
+{'text': 'fold to a specific angle by changing the', 'start': 1929.72, 'duration': 4.65}
+{'text': 'different materials that we print or', 'start': 1932.24, 'duration': 4.53}
+{'text': 'bond onto the carbon fiber we can get it', 'start': 1934.37, 'duration': 3.87}
+{'text': 'to respond to moisture versus', 'start': 1936.77, 'duration': 2.79}
+{'text': 'temperature so we can change the', 'start': 1938.24, 'duration': 4.2}
+{'text': 'activation or we can change the angle or', 'start': 1939.56, 'duration': 5.81}
+{'text': 'behavior of it so an example', 'start': 1942.44, 'duration': 5.01}
+{'text': 'collaboration with this is a project', 'start': 1945.37, 'duration': 5.32}
+{'text': 'that we did with Airbus and they came to', 'start': 1947.45, 'duration': 4.92}
+{'text': 'us with this challenge at the top of', 'start': 1950.69, 'duration': 2.43}
+{'text': 'their engine they', 'start': 1952.37, 'duration': 2.97}
+{'text': 'have a hole in the engine and that that', 'start': 1953.12, 'duration': 4.23}
+{'text': "cools the engine so it's important for", 'start': 1955.34, 'duration': 3.45}
+{'text': "the functionality so the engine doesn't", 'start': 1957.35, 'duration': 3.9}
+{'text': 'overheat but it causes drag so it', 'start': 1958.79, 'duration': 5.13}
+{'text': 'reduces the efficiency of the plane so', 'start': 1961.25, 'duration': 4.53}
+{'text': 'what they were going to do typically', 'start': 1963.92, 'duration': 3.3}
+{'text': 'would be to add an electromechanical', 'start': 1965.78, 'duration': 3.69}
+{'text': 'flap or a hydraulic or pneumatic flap', 'start': 1967.22, 'duration': 3.96}
+{'text': 'the same as the wing so it open and', 'start': 1969.47, 'duration': 4.32}
+{'text': 'closed but the problem here is the same', 'start': 1971.18, 'duration': 4.2}
+{'text': 'thing as the kind of robotic building', 'start': 1973.79, 'duration': 3.78}
+{'text': 'problem which is that if you add a', 'start': 1975.38, 'duration': 4.44}
+{'text': 'hydraulic or electromechanical flap it', 'start': 1977.57, 'duration': 4.02}
+{'text': 'adds weight which also reduces the', 'start': 1979.82, 'duration': 3.54}
+{'text': "efficiency the plane it adds cost it's", 'start': 1981.59, 'duration': 3.12}
+{'text': 'probably going to fail now they need', 'start': 1983.36, 'duration': 3.33}
+{'text': 'more maintenance now they need more', 'start': 1984.71, 'duration': 3.69}
+{'text': "controls run to the cockpit it's gonna", 'start': 1986.69, 'duration': 3.51}
+{'text': "stop production you know there's all", 'start': 1988.4, 'duration': 3.529}
+{'text': 'these constraints that would make', 'start': 1990.2, 'duration': 3.96}
+{'text': 'solving this problem actually worse than', 'start': 1991.929, 'duration': 4.901}
+{'text': 'not solving the problem so they came to', 'start': 1994.16, 'duration': 5.1}
+{'text': 'us and we developed this single piece of', 'start': 1996.83, 'duration': 4.32}
+{'text': 'carbon fiber so this is a cross section', 'start': 1999.26, 'duration': 3.81}
+{'text': "through the component there's a single", 'start': 2001.15, 'duration': 3.84}
+{'text': 'piece of carbon fiber and it opens and', 'start': 2003.07, 'duration': 3.57}
+{'text': 'closes to control the air flow so', 'start': 2004.99, 'duration': 3.689}
+{'text': "there's no electronics there's no motors", 'start': 2006.64, 'duration': 4.59}
+{'text': 'or sensors or anything the material is', 'start': 2008.679, 'duration': 5.761}
+{'text': 'the actuator and the sensor at first we', 'start': 2011.23, 'duration': 4.5}
+{'text': 'were doing that based on temperature', 'start': 2014.44, 'duration': 3.75}
+{'text': 'change but you can imagine if you land', 'start': 2015.73, 'duration': 5.19}
+{'text': "in Antarctica versus Arizona it's not", 'start': 2018.19, 'duration': 5.01}
+{'text': 'particularly useful to respond only to', 'start': 2020.92, 'duration': 3.69}
+{'text': 'temperature change so then it went to', 'start': 2023.2, 'duration': 4.2}
+{'text': 'pressure differential so you can notice', 'start': 2024.61, 'duration': 3.78}
+{'text': "that when you're driving down the", 'start': 2027.4, 'duration': 2.88}
+{'text': 'highway and you roll the window down and', 'start': 2028.39, 'duration': 3.419}
+{'text': "things get sucked out and it's called a", 'start': 2030.28, 'duration': 3.48}
+{'text': 'pressure pressure differential and you', 'start': 2031.809, 'duration': 4.441}
+{'text': 'can use that as a force so basically as', 'start': 2033.76, 'duration': 4.169}
+{'text': 'the plane is flying faster or slower', 'start': 2036.25, 'duration': 3.69}
+{'text': "there's a certain force that causes the", 'start': 2037.929, 'duration': 3.901}
+{'text': 'material to transform and when you', 'start': 2039.94, 'duration': 4.08}
+{'text': 'reduce the speed the force is not there', 'start': 2041.83, 'duration': 6.0}
+{'text': 'and then the material can can go back so', 'start': 2044.02, 'duration': 5.7}
+{'text': "that's one example of that another", 'start': 2047.83, 'duration': 3.96}
+{'text': 'category of materials all the textile so', 'start': 2049.72, 'duration': 3.54}
+{'text': "there's a lot of ways to activate", 'start': 2051.79, 'duration': 4.41}
+{'text': 'textiles the most simple that we started', 'start': 2053.26, 'duration': 4.71}
+{'text': 'with was a pre stretch so you take a', 'start': 2056.2, 'duration': 3.719}
+{'text': 'stretchable textile you stretch it', 'start': 2057.97, 'duration': 4.83}
+{'text': 'around the plate and then you print or', 'start': 2059.919, 'duration': 5.46}
+{'text': 'bond or stitch or spray you add some', 'start': 2062.8, 'duration': 4.98}
+{'text': 'other material onto that stretch textile', 'start': 2065.379, 'duration': 4.141}
+{'text': "so in this case we're just printing but", 'start': 2067.78, 'duration': 2.879}
+{'text': 'you can do the same thing with other', 'start': 2069.52, 'duration': 5.28}
+{'text': 'processes so we print on to it the', 'start': 2070.659, 'duration': 5.911}
+{'text': "material that we're printing onto is you", 'start': 2074.8, 'duration': 3.81}
+{'text': 'know just a simple standard polymer', 'start': 2076.57, 'duration': 4.53}
+{'text': "nothing fancy it's just the stretch of", 'start': 2078.61, 'duration': 4.41}
+{'text': "the textile that's actually providing", 'start': 2081.1, 'duration': 2.43}
+{'text': 'the energy', 'start': 2083.02, 'duration': 3.45}
+{'text': 'so by printing a circle for example when', 'start': 2083.53, 'duration': 4.5}
+{'text': 'you cut it out it jumps into a', 'start': 2086.47, 'duration': 4.29}
+{'text': 'hyperbolic paraboloid so the different', 'start': 2088.03, 'duration': 4.29}
+{'text': 'thickness of the material and the', 'start': 2090.76, 'duration': 3.69}
+{'text': 'geometry that you print promotes', 'start': 2092.32, 'duration': 3.599}
+{'text': 'different things like pleading and', 'start': 2094.45, 'duration': 3.9}
+{'text': 'tufting and textiles where itself forms', 'start': 2095.919, 'duration': 5.071}
+{'text': 'and rather than manually forming the', 'start': 2098.35, 'duration': 5.67}
+{'text': 'textile the stretch of the textile is', 'start': 2100.99, 'duration': 6.06}
+{'text': 'what causes it to transform so then', 'start': 2104.02, 'duration': 4.74}
+{'text': 'again with Christoph goober on the', 'start': 2107.05, 'duration': 4.44}
+{'text': 'product designer and a show in London we', 'start': 2108.76, 'duration': 4.26}
+{'text': 'did a project where you stretch the', 'start': 2111.49, 'duration': 3.69}
+{'text': 'textile around and then you print this', 'start': 2113.02, 'duration': 4.32}
+{'text': 'very specific pattern so that when you', 'start': 2115.18, 'duration': 5.13}
+{'text': 'cut the textile it then jumps into the', 'start': 2117.34, 'duration': 5.58}
+{'text': 'shape of a shoe so it takes a single', 'start': 2120.31, 'duration': 5.61}
+{'text': 'material and can transform itself into', 'start': 2122.92, 'duration': 5.88}
+{'text': 'all the curvature of the shoe and this', 'start': 2125.92, 'duration': 5.16}
+{'text': 'was a nod to the shoe manufacturing', 'start': 2128.8, 'duration': 4.77}
+{'text': "space because it's really interesting", 'start': 2131.08, 'duration': 4.98}
+{'text': 'space that that innovates a lot but shoe', 'start': 2133.57, 'duration': 4.74}
+{'text': 'manufacturing is predominantly manual so', 'start': 2136.06, 'duration': 3.81}
+{'text': "there's a lot of forming and stitching", 'start': 2138.31, 'duration': 4.77}
+{'text': 'and gluing when they make shoes out of', 'start': 2139.87, 'duration': 5.31}
+{'text': 'leather they take big you know natural', 'start': 2143.08, 'duration': 3.39}
+{'text': "pieces of leather and someone's", 'start': 2145.18, 'duration': 3.54}
+{'text': 'literally sitting there looking at the', 'start': 2146.47, 'duration': 4.11}
+{'text': 'leather and figuring out where to cut', 'start': 2148.72, 'duration': 3.75}
+{'text': 'and where to place different components', 'start': 2150.58, 'duration': 4.53}
+{'text': "on the leather they're manually forming", 'start': 2152.47, 'duration': 4.41}
+{'text': "these two things together so there's", 'start': 2155.11, 'duration': 4.59}
+{'text': 'almost no automation in in shoe', 'start': 2156.88, 'duration': 5.04}
+{'text': "manufacturing and there's a lot of", 'start': 2159.7, 'duration': 3.81}
+{'text': 'people pushing the boundaries of that', 'start': 2161.92, 'duration': 4.14}
+{'text': 'now but that was a kind of new way to', 'start': 2163.51, 'duration': 5.82}
+{'text': 'make shoes potentially so then we', 'start': 2166.06, 'duration': 5.55}
+{'text': 'started to go beyond that combining what', 'start': 2169.33, 'duration': 4.2}
+{'text': 'you saw in the carbon fiber we thought', 'start': 2171.61, 'duration': 3.72}
+{'text': 'well maybe we could sort of make our own', 'start': 2173.53, 'duration': 4.11}
+{'text': 'textiles by taking these fibers and', 'start': 2175.33, 'duration': 4.05}
+{'text': 'filaments we could make macroscale', 'start': 2177.64, 'duration': 3.36}
+{'text': 'structures that when you shine light on', 'start': 2179.38, 'duration': 4.65}
+{'text': 'them they transform so these are 2d and', 'start': 2181.0, 'duration': 5.22}
+{'text': '3d structures that have a behavior', 'start': 2184.03, 'duration': 4.65}
+{'text': "called augs it's so authentic is when a", 'start': 2186.22, 'duration': 4.8}
+{'text': 'material normally when you stretch it it', 'start': 2188.68, 'duration': 4.86}
+{'text': 'gets smaller but in augment cereals when', 'start': 2191.02, 'duration': 3.99}
+{'text': 'you stretch it it gets bigger and when', 'start': 2193.54, 'duration': 3.63}
+{'text': 'you push on it it gets smaller uniformly', 'start': 2195.01, 'duration': 3.66}
+{'text': "so it's materials that transform", 'start': 2197.17, 'duration': 4.02}
+{'text': 'uniformly expanding and contracting and', 'start': 2198.67, 'duration': 5.52}
+{'text': 'we can build these 2d and 3d materials', 'start': 2201.19, 'duration': 5.61}
+{'text': 'out of these fibers and sheets and', 'start': 2204.19, 'duration': 3.8}
+{'text': 'filaments making', 'start': 2206.8, 'duration': 4.58}
+{'text': 'sort of macroscale textiles and the the', 'start': 2207.99, 'duration': 5.19}
+{'text': 'ultimate goal here was to create', 'start': 2211.38, 'duration': 3.78}
+{'text': 'porosity change so you can imagine', 'start': 2213.18, 'duration': 4.17}
+{'text': 'apparel or garments or Footwear that', 'start': 2215.16, 'duration': 4.83}
+{'text': 'open and close for breathability or', 'start': 2217.35, 'duration': 4.83}
+{'text': 'waterproofing when your body gets hot or', 'start': 2219.99, 'duration': 3.93}
+{'text': 'the temperature outside increases or', 'start': 2222.18, 'duration': 6.78}
+{'text': 'when Sun hits it or moisture hits it so', 'start': 2223.92, 'duration': 7.47}
+{'text': 'we now have a project looking at taking', 'start': 2228.96, 'duration': 4.34}
+{'text': 'that further through industrial knitting', 'start': 2231.39, 'duration': 4.11}
+{'text': 'so another way is to change the', 'start': 2233.3, 'duration': 4.18}
+{'text': 'structure so this is a biaxial braid', 'start': 2235.5, 'duration': 4.08}
+{'text': "it's basically a Chinese finger trap and", 'start': 2237.48, 'duration': 4.29}
+{'text': 'by puppeteering this by basically', 'start': 2239.58, 'duration': 4.5}
+{'text': 'pulling on different strands or', 'start': 2241.77, 'duration': 4.62}
+{'text': 'different toes in the braid are these', 'start': 2244.08, 'duration': 4.65}
+{'text': 'fibers you can get this by axial braid', 'start': 2246.39, 'duration': 5.7}
+{'text': 'to expand or contract to you know', 'start': 2248.73, 'duration': 6.06}
+{'text': 'lengthen or shrink just like you know', 'start': 2252.09, 'duration': 4.86}
+{'text': "from a Chinese finger trap but what's", 'start': 2254.79, 'duration': 3.81}
+{'text': 'interesting about this is that the braid', 'start': 2256.95, 'duration': 3.81}
+{'text': 'is the structure and the flexibility so', 'start': 2258.6, 'duration': 3.93}
+{'text': "there's no mechanisms there's no like", 'start': 2260.76, 'duration': 4.71}
+{'text': 'joints or or you know ball joints or', 'start': 2262.53, 'duration': 4.56}
+{'text': "angles or anything like that it's just", 'start': 2265.47, 'duration': 3.69}
+{'text': 'the the over under over under over the', 'start': 2267.09, 'duration': 3.87}
+{'text': 'braid that gives it both structure and', 'start': 2269.16, 'duration': 4.62}
+{'text': 'flexibility and by playing with them you', 'start': 2270.96, 'duration': 4.68}
+{'text': 'can get pretty massive transformations', 'start': 2273.78, 'duration': 4.86}
+{'text': 'so you can use this as a 30 foot tall', 'start': 2275.64, 'duration': 6.24}
+{'text': 'structure the same exact thing us', 'start': 2278.64, 'duration': 5.52}
+{'text': 'pulling on it to load test and then this', 'start': 2281.88, 'duration': 4.86}
+{'text': 'is a sixty foot structure the exact same', 'start': 2284.16, 'duration': 4.23}
+{'text': "principle so there's a little person", 'start': 2286.74, 'duration': 5.01}
+{'text': 'normal size but little in comparison to', 'start': 2288.39, 'duration': 5.61}
+{'text': "the tower if you're pulling on a sixty", 'start': 2291.75, 'duration': 5.13}
+{'text': 'foot structure making it transform so we', 'start': 2294.0, 'duration': 4.41}
+{'text': 'were interested in what if we could make', 'start': 2296.88, 'duration': 3.81}
+{'text': 'architectural scale transformations', 'start': 2298.41, 'duration': 4.59}
+{'text': 'without hydraulics pneumatics and', 'start': 2300.69, 'duration': 4.56}
+{'text': 'robotics and the reason we started down', 'start': 2303.0, 'duration': 4.92}
+{'text': 'that road is this is built with in', 'start': 2305.25, 'duration': 3.96}
+{'text': 'collaboration with a company called tape', 'start': 2307.92, 'duration': 2.76}
+{'text': "towers they're based out of Lititz", 'start': 2309.21, 'duration': 3.6}
+{'text': 'Pennsylvania they make all the rock', 'start': 2310.68, 'duration': 5.34}
+{'text': 'shows an Olympic venue so like Adele or', 'start': 2312.81, 'duration': 5.88}
+{'text': 'you - has anyone seen Chuck Hoberman', 'start': 2316.02, 'duration': 5.099}
+{'text': "structure from you - anyone no I'm", 'start': 2318.69, 'duration': 2.85}
+{'text': 'talking about', 'start': 2321.119, 'duration': 3.421}
+{'text': 'so this transformable structure YouTube', 'start': 2321.54, 'duration': 5.04}
+{'text': 'concert and a lot of the Olympic venues', 'start': 2324.54, 'duration': 3.39}
+{'text': "they're the ones that build it and", 'start': 2326.58, 'duration': 2.88}
+{'text': "they're the ones that design those stage", 'start': 2327.93, 'duration': 4.14}
+{'text': 'sets and shows and almost all of those', 'start': 2329.46, 'duration': 4.149}
+{'text': 'Cirque de Soleil or any', 'start': 2332.07, 'duration': 3.969}
+{'text': 'those examples are big electromechanical', 'start': 2333.609, 'duration': 4.621}
+{'text': "hydraulic pneumatic structures they're", 'start': 2336.039, 'duration': 5.161}
+{'text': 'basically architectural structures for', 'start': 2338.23, 'duration': 4.829}
+{'text': 'millions and millions of dollars that', 'start': 2341.2, 'duration': 4.409}
+{'text': 'they need to assemble in 24 hours they', 'start': 2343.059, 'duration': 4.47}
+{'text': 'need to work like a huge robot and then', 'start': 2345.609, 'duration': 3.15}
+{'text': 'they need to disassemble it ship it', 'start': 2347.529, 'duration': 2.79}
+{'text': 'somewhere else and build it again so', 'start': 2348.759, 'duration': 4.381}
+{'text': "it's a kind of extreme scenario for", 'start': 2350.319, 'duration': 4.77}
+{'text': 'construction where you have like the', 'start': 2353.14, 'duration': 4.77}
+{'text': 'ultimate timeline for construction and', 'start': 2355.089, 'duration': 3.841}
+{'text': 'it needs to do all these crazy', 'start': 2357.91, 'duration': 3.839}
+{'text': 'mechanical maneuvers so it would be', 'start': 2358.93, 'duration': 4.559}
+{'text': 'really interesting for them if they', 'start': 2361.749, 'duration': 3.931}
+{'text': 'could basically have textiles that were', 'start': 2363.489, 'duration': 4.651}
+{'text': 'as large as buildings but could be', 'start': 2365.68, 'duration': 5.28}
+{'text': 'transformed shipped and assembled in you', 'start': 2368.14, 'duration': 4.709}
+{'text': 'know a matter of minutes to hours would', 'start': 2370.96, 'duration': 4.319}
+{'text': 'be really lightweight low low energy so', 'start': 2372.849, 'duration': 5.371}
+{'text': 'we have explored a lot of that that then', 'start': 2375.279, 'duration': 4.951}
+{'text': 'turned into a project with Google where', 'start': 2378.22, 'duration': 4.769}
+{'text': 'we made a transformable meeting space so', 'start': 2380.23, 'duration': 4.74}
+{'text': 'Google has this new campus out in', 'start': 2382.989, 'duration': 3.57}
+{'text': 'Mountain View and they were interested', 'start': 2384.97, 'duration': 3.119}
+{'text': 'in thinking about the open office', 'start': 2386.559, 'duration': 3.78}
+{'text': "there's closed office so open offices", 'start': 2388.089, 'duration': 4.111}
+{'text': 'are great for flexibility closed offices', 'start': 2390.339, 'duration': 3.121}
+{'text': 'are great for privacy', 'start': 2392.2, 'duration': 3.75}
+{'text': 'neither is great for both so what if you', 'start': 2393.46, 'duration': 4.319}
+{'text': 'could have a meeting space that when', 'start': 2395.95, 'duration': 3.299}
+{'text': "it's when you don't need it you just", 'start': 2397.779, 'duration': 4.26}
+{'text': "transform it it's up in the ceiling when", 'start': 2399.249, 'duration': 4.59}
+{'text': 'you do need it you transform it down and', 'start': 2402.039, 'duration': 3.661}
+{'text': 'you can have a meeting space or a phone', 'start': 2403.839, 'duration': 4.26}
+{'text': 'booth or a room or an office so you can', 'start': 2405.7, 'duration': 3.93}
+{'text': "kind of transform these pods and we've", 'start': 2408.099, 'duration': 3.77}
+{'text': 'made many different configurations like', 'start': 2409.63, 'duration': 5.34}
+{'text': 'that circular space wall configurations', 'start': 2411.869, 'duration': 6.061}
+{'text': 'ground floor and a lot of different', 'start': 2414.97, 'duration': 5.549}
+{'text': 'shapes and sizes of these different', 'start': 2417.93, 'duration': 5.379}
+{'text': 'meeting spaces that can transform this', 'start': 2420.519, 'duration': 5.57}
+{'text': 'is based on that same biaxial braid', 'start': 2423.309, 'duration': 6.24}
+{'text': 'principle and then one last project in', 'start': 2426.089, 'duration': 5.081}
+{'text': 'this programmable materials section this', 'start': 2429.549, 'duration': 3.99}
+{'text': 'is actually a student project from one', 'start': 2431.17, 'duration': 4.619}
+{'text': 'of my studios in undergrad studio where', 'start': 2433.539, 'duration': 3.631}
+{'text': 'they were tasked at building', 'start': 2435.789, 'duration': 2.941}
+{'text': 'transformable towers so this is a', 'start': 2437.17, 'duration': 3.75}
+{'text': '30-foot tower made out of weather', 'start': 2438.73, 'duration': 4.65}
+{'text': 'balloons inside a textile sleeve and', 'start': 2440.92, 'duration': 4.439}
+{'text': 'they basically just pull on these', 'start': 2443.38, 'duration': 4.169}
+{'text': "tendons there's three tendons and just", 'start': 2445.359, 'duration': 4.38}
+{'text': 'the configuration of like a ABAA', 'start': 2447.549, 'duration': 4.56}
+{'text': 'whatever pattern and the tendons you can', 'start': 2449.739, 'duration': 5.431}
+{'text': 'get this 30-foot tower to transform into', 'start': 2452.109, 'duration': 4.68}
+{'text': "almost any shape so it's basically like", 'start': 2455.17, 'duration': 3.899}
+{'text': 'a huge robot arm that can go into any', 'start': 2456.789, 'duration': 4.871}
+{'text': 'shape you want but it was made for', 'start': 2459.069, 'duration': 4.72}
+{'text': 'few tens of dollars in in about an hour', 'start': 2461.66, 'duration': 4.439}
+{'text': 'so they can make these large things that', 'start': 2463.789, 'duration': 5.28}
+{'text': 'transform in really simple ways so all', 'start': 2466.099, 'duration': 4.411}
+{'text': 'of that category research is about', 'start': 2469.069, 'duration': 3.451}
+{'text': 'transformation how materials go from one', 'start': 2470.51, 'duration': 4.5}
+{'text': 'shape to another shape you know one need', 'start': 2472.52, 'duration': 5.67}
+{'text': 'to 2d and 2d 3d etc we do that with', 'start': 2475.01, 'duration': 4.89}
+{'text': 'small scale materials we do that with a', 'start': 2478.19, 'duration': 3.149}
+{'text': 'lot of different printing and', 'start': 2479.9, 'duration': 3.209}
+{'text': "fabrication processes now we're going", 'start': 2481.339, 'duration': 4.26}
+{'text': 'into industrial knitting and textiles', 'start': 2483.109, 'duration': 4.291}
+{'text': 'but we also try to do that at much', 'start': 2485.599, 'duration': 4.5}
+{'text': 'larger scale transformations', 'start': 2487.4, 'duration': 4.29}
+{'text': "so sometimes it's high-tech and", 'start': 2490.099, 'duration': 3.361}
+{'text': "sometimes it's low-tech ed at many", 'start': 2491.69, 'duration': 3.899}
+{'text': 'different scales the third category of', 'start': 2493.46, 'duration': 4.47}
+{'text': 'research is on phase change so what if', 'start': 2495.589, 'duration': 3.901}
+{'text': 'materials can go from solid to liquid', 'start': 2497.93, 'duration': 3.689}
+{'text': "and liquid to solid what if it's not", 'start': 2499.49, 'duration': 3.48}
+{'text': 'just about shape change could they', 'start': 2501.619, 'duration': 4.97}
+{'text': 'change property as well and so one', 'start': 2502.97, 'duration': 5.579}
+{'text': 'principle that we study is called', 'start': 2506.589, 'duration': 5.46}
+{'text': 'granular jamming so granular jamming is', 'start': 2508.549, 'duration': 6.78}
+{'text': 'a kind of strange word for a really', 'start': 2512.049, 'duration': 5.411}
+{'text': 'common phenomenon so when you go to the', 'start': 2515.329, 'duration': 4.411}
+{'text': 'grocery store and you buy coffee and the', 'start': 2517.46, 'duration': 4.2}
+{'text': 'coffee comes in this brick like this', 'start': 2519.74, 'duration': 5.49}
+{'text': "really rigid pack because it's vacuum", 'start': 2521.66, 'duration': 5.55}
+{'text': 'packed all the particles inside of there', 'start': 2525.23, 'duration': 3.809}
+{'text': 'gets stuck and they have nowhere to go', 'start': 2527.21, 'duration': 5.069}
+{'text': 'so the coffee beans or coffee grinds are', 'start': 2529.039, 'duration': 5.79}
+{'text': 'basically acting like a solid even', 'start': 2532.279, 'duration': 4.02}
+{'text': 'though if you cut a cross section', 'start': 2534.829, 'duration': 2.581}
+{'text': 'through it they would be amorphous', 'start': 2536.299, 'duration': 2.941}
+{'text': "particles they're arranged in a kind of", 'start': 2537.41, 'duration': 5.159}
+{'text': 'random way and from the material science', 'start': 2539.24, 'duration': 4.92}
+{'text': 'world we know that when particles are', 'start': 2542.569, 'duration': 3.121}
+{'text': 'arranged in a random way that should be', 'start': 2544.16, 'duration': 4.26}
+{'text': "a liquid only when they're crystallized", 'start': 2545.69, 'duration': 4.2}
+{'text': 'or in their lattice structures that they', 'start': 2548.42, 'duration': 4.109}
+{'text': 'are they usually solid but these are', 'start': 2549.89, 'duration': 4.59}
+{'text': 'amorphous particles that act like solid', 'start': 2552.529, 'duration': 3.75}
+{'text': "what's interesting about it though is", 'start': 2554.48, 'duration': 3.15}
+{'text': 'that it can go from solid to liquid', 'start': 2556.279, 'duration': 4.921}
+{'text': 'liquid to solid so often granular Jam', 'start': 2557.63, 'duration': 6.51}
+{'text': 'mobile systems use a vacuum and a', 'start': 2561.2, 'duration': 4.5}
+{'text': 'membrane so you have a membrane you have', 'start': 2564.14, 'duration': 3.33}
+{'text': 'particles inside and you pull a vacuum', 'start': 2565.7, 'duration': 4.05}
+{'text': 'on it and by pulling a vacuum you mint', 'start': 2567.47, 'duration': 5.129}
+{'text': 'you make it strong and rigid if you', 'start': 2569.75, 'duration': 4.47}
+{'text': 'change the particle configuration you', 'start': 2572.599, 'duration': 3.99}
+{'text': "can get different behaviors if you're at", 'start': 2574.22, 'duration': 4.079}
+{'text': 'the beach and you jump on the sand and', 'start': 2576.589, 'duration': 3.361}
+{'text': "it's really hard and it hurts but when", 'start': 2578.299, 'duration': 3.421}
+{'text': "you play with the sand it's really soft", 'start': 2579.95, 'duration': 3.93}
+{'text': "that's the same same phenomenon it's a", 'start': 2581.72, 'duration': 3.54}
+{'text': 'way to go solid to liquid without', 'start': 2583.88, 'duration': 4.469}
+{'text': "temperature change we've done like this", 'start': 2585.26, 'duration': 4.98}
+{'text': 'project was an acoustic project with', 'start': 2588.349, 'duration': 2.521}
+{'text': 'Google', 'start': 2590.24, 'duration': 3.66}
+{'text': 'horrible acoustic panels another project', 'start': 2590.87, 'duration': 5.13}
+{'text': 'that we did was on reversible packaging', 'start': 2593.9, 'duration': 4.02}
+{'text': 'with steel case a furniture company so', 'start': 2596.0, 'duration': 4.02}
+{'text': 'you know you have a chair they normally', 'start': 2597.92, 'duration': 3.63}
+{'text': 'wrap a blanket around the chair and then', 'start': 2600.02, 'duration': 4.62}
+{'text': 'ship it but in our case we made this', 'start': 2601.55, 'duration': 5.28}
+{'text': 'this blanket that has foam particles', 'start': 2604.64, 'duration': 3.93}
+{'text': 'inside of it you wrap it around and you', 'start': 2606.83, 'duration': 4.44}
+{'text': 'pull a vacuum on it it basically molds', 'start': 2608.57, 'duration': 4.59}
+{'text': 'around the chair it turns into styrofoam', 'start': 2611.27, 'duration': 3.66}
+{'text': 'you ship it and on the other side you', 'start': 2613.16, 'duration': 3.66}
+{'text': 'release the vacuum and then you know you', 'start': 2614.93, 'duration': 3.36}
+{'text': 'have a blanket again so you can wrap it', 'start': 2616.82, 'duration': 4.83}
+{'text': 'around a table or something else but', 'start': 2618.29, 'duration': 6.09}
+{'text': 'more interesting to that in my mind is a', 'start': 2621.65, 'duration': 4.86}
+{'text': 'project we did with Grazia koehlers', 'start': 2624.38, 'duration': 4.62}
+{'text': 'group at ETH Zurich so we did this', 'start': 2626.51, 'duration': 5.4}
+{'text': 'project where it started out we went to', 'start': 2629.0, 'duration': 4.44}
+{'text': "a conference on jamming so there's a", 'start': 2631.91, 'duration': 4.32}
+{'text': 'whole group of people mostly physicists', 'start': 2633.44, 'duration': 4.47}
+{'text': 'and material scientists that only study', 'start': 2636.23, 'duration': 3.75}
+{'text': "jamming and there's all these people", 'start': 2637.91, 'duration': 3.69}
+{'text': 'that are interested in like mining', 'start': 2639.98, 'duration': 3.18}
+{'text': 'companies are interested or even like', 'start': 2641.6, 'duration': 3.9}
+{'text': 'candy companies or coffee companies', 'start': 2643.16, 'duration': 4.8}
+{'text': 'because in their factories like candy', 'start': 2645.5, 'duration': 4.62}
+{'text': 'gets stuck in a hopper or gets stuck in', 'start': 2647.96, 'duration': 4.68}
+{'text': "a pipe and they don't know why so", 'start': 2650.12, 'duration': 3.54}
+{'text': "they're interested in this phenomenon", 'start': 2652.64, 'duration': 3.33}
+{'text': 'and and a few architects went there', 'start': 2653.66, 'duration': 4.56}
+{'text': 'gratia Kohler went there I went there a', 'start': 2655.97, 'duration': 4.11}
+{'text': 'few other people and we started thinking', 'start': 2658.22, 'duration': 4.56}
+{'text': 'about how do we use this principle in', 'start': 2660.08, 'duration': 5.54}
+{'text': 'this phenomenon for architecture because', 'start': 2662.78, 'duration': 4.86}
+{'text': "essentially you don't want to build a", 'start': 2665.62, 'duration': 3.91}
+{'text': 'building out of a jam bubble system', 'start': 2667.64, 'duration': 4.74}
+{'text': "typically because you it's super energy", 'start': 2669.53, 'duration': 5.64}
+{'text': 'intensive you need a lot of vacuum which', 'start': 2672.38, 'duration': 5.31}
+{'text': 'you know is not easy to have and then', 'start': 2675.17, 'duration': 4.17}
+{'text': "it's super susceptible to puncture if", 'start': 2677.69, 'duration': 3.03}
+{'text': 'you just puncture the membrane then your', 'start': 2679.34, 'duration': 2.94}
+{'text': 'building will fall down which is not', 'start': 2680.72, 'duration': 4.68}
+{'text': 'very good so we started to think about', 'start': 2682.28, 'duration': 4.83}
+{'text': 'that the reversibility is the most', 'start': 2685.4, 'duration': 4.2}
+{'text': 'important aspect and then we developed a', 'start': 2687.11, 'duration': 4.05}
+{'text': 'system where you can do this with rocks', 'start': 2689.6, 'duration': 4.11}
+{'text': 'and string so just loose rocks and loose', 'start': 2691.16, 'duration': 5.16}
+{'text': 'string and we exhibit it in Chicago in', 'start': 2693.71, 'duration': 5.46}
+{'text': '2015 at the architecture biennial so', 'start': 2696.32, 'duration': 5.04}
+{'text': 'basically we have this yellow bounding', 'start': 2699.17, 'duration': 4.98}
+{'text': 'box and we layer rocks and string rocks', 'start': 2701.36, 'duration': 4.23}
+{'text': 'and string rocks and string over and', 'start': 2704.15, 'duration': 3.69}
+{'text': 'over and over again the robot spits out', 'start': 2705.59, 'duration': 4.17}
+{'text': 'the string and very specific patterns', 'start': 2707.84, 'duration': 3.93}
+{'text': 'and then when we remove the bounding box', 'start': 2709.76, 'duration': 4.62}
+{'text': "all the rocks fall away that don't have", 'start': 2711.77, 'duration': 4.8}
+{'text': 'the string so only where you have the', 'start': 2714.38, 'duration': 5.37}
+{'text': "string the rocks jammed so there's", 'start': 2716.57, 'duration': 5.61}
+{'text': 'basically loose rocks that fell away all', 'start': 2719.75, 'duration': 3.48}
+{'text': 'the rigid', 'start': 2722.18, 'duration': 2.939}
+{'text': 'rocks are just because of the string so', 'start': 2723.23, 'duration': 4.08}
+{'text': 'we printed the string in specific', 'start': 2725.119, 'duration': 4.141}
+{'text': 'patterns the string takes tension the', 'start': 2727.31, 'duration': 3.33}
+{'text': 'rocks take compression', 'start': 2729.26, 'duration': 3.42}
+{'text': "there's no adhesive there's no", 'start': 2730.64, 'duration': 3.78}
+{'text': "connectors or binders or anything it's", 'start': 2732.68, 'duration': 4.919}
+{'text': 'just loose rocks and string it can take', 'start': 2734.42, 'duration': 5.37}
+{'text': 'three tons on top of it on in this', 'start': 2737.599, 'duration': 5.341}
+{'text': 'specific shape and we were interested in', 'start': 2739.79, 'duration': 5.52}
+{'text': "it specifically because it's it's", 'start': 2742.94, 'duration': 4.8}
+{'text': 'effectively reversible concrete so', 'start': 2745.31, 'duration': 4.44}
+{'text': 'concrete is great as a construction', 'start': 2747.74, 'duration': 3.66}
+{'text': 'material because it comes as a liquid', 'start': 2749.75, 'duration': 4.41}
+{'text': 'and then you pour it and it turns solid', 'start': 2751.4, 'duration': 5.61}
+{'text': "but the problem is that it's really slow", 'start': 2754.16, 'duration': 4.709}
+{'text': 'so it takes a long time for you to wait', 'start': 2757.01, 'duration': 4.74}
+{'text': 'like one of the lead leading times in', 'start': 2758.869, 'duration': 4.651}
+{'text': 'construction is just waiting around for', 'start': 2761.75, 'duration': 4.47}
+{'text': 'concrete so in this case you pour it', 'start': 2763.52, 'duration': 4.11}
+{'text': "like a liquid because it's you know a", 'start': 2766.22, 'duration': 3.54}
+{'text': 'bunch of rocks or particles and then', 'start': 2767.63, 'duration': 4.35}
+{'text': "it's instantly solid there's no waiting", 'start': 2769.76, 'duration': 4.53}
+{'text': "there's no cure time and then more", 'start': 2771.98, 'duration': 4.83}
+{'text': 'interested in that it is reversible so', 'start': 2774.29, 'duration': 4.079}
+{'text': 'here at the end of the show we just', 'start': 2776.81, 'duration': 3.42}
+{'text': 'pulled out the string and just by', 'start': 2778.369, 'duration': 4.021}
+{'text': 'winding up the string the whole tower', 'start': 2780.23, 'duration': 4.98}
+{'text': "then disintegrates so it's like you", 'start': 2782.39, 'duration': 6.36}
+{'text': 'could build a modular system a concrete', 'start': 2785.21, 'duration': 5.1}
+{'text': 'in order to get rid of it you have to', 'start': 2788.75, 'duration': 3.39}
+{'text': 'destroy it you can never reuse it again', 'start': 2790.31, 'duration': 4.38}
+{'text': 'you know bricks are sort of modular but', 'start': 2792.14, 'duration': 4.41}
+{'text': "in this case once you reverse it you're", 'start': 2794.69, 'duration': 3.78}
+{'text': "left with exactly the same material it's", 'start': 2796.55, 'duration': 3.539}
+{'text': "a hundred percent recyclable you're left", 'start': 2798.47, 'duration': 4.109}
+{'text': 'with 100 percent the same rocks in a', 'start': 2800.089, 'duration': 5.49}
+{'text': 'pile of rocks and a spool of string so', 'start': 2802.579, 'duration': 5.401}
+{'text': 'you could just pour it jam it pour it', 'start': 2805.579, 'duration': 5.131}
+{'text': 'reverse it Jam it and do it again over', 'start': 2807.98, 'duration': 5.46}
+{'text': 'and over and over again and then this is', 'start': 2810.71, 'duration': 4.139}
+{'text': "the last project I'll show it's a", 'start': 2813.44, 'duration': 4.59}
+{'text': 'project on again phase change liquid to', 'start': 2814.849, 'duration': 5.581}
+{'text': "solid but it's a new printing process", 'start': 2818.03, 'duration': 5.25}
+{'text': 'that we developed so steel case again we', 'start': 2820.43, 'duration': 4.439}
+{'text': 'had a collaboration with them trying to', 'start': 2823.28, 'duration': 3.75}
+{'text': 'look at 3d printing and this gets all', 'start': 2824.869, 'duration': 3.99}
+{'text': 'the way back to some of our our other', 'start': 2827.03, 'duration': 4.319}
+{'text': 'interests in 3d printing and they were', 'start': 2828.859, 'duration': 4.411}
+{'text': 'interested in challenging the three', 'start': 2831.349, 'duration': 4.711}
+{'text': 'issues of a 3d printing so basically', 'start': 2833.27, 'duration': 5.67}
+{'text': "it's just too slow it's too small and", 'start': 2836.06, 'duration': 5.4}
+{'text': 'the materials are not good so how could', 'start': 2838.94, 'duration': 4.56}
+{'text': 'you print a chair for example because', 'start': 2841.46, 'duration': 3.24}
+{'text': 'today if you printed a chair it would', 'start': 2843.5, 'duration': 3.359}
+{'text': 'take forever even if it was possible', 'start': 2844.7, 'duration': 3.96}
+{'text': 'because most printers are pretty small', 'start': 2846.859, 'duration': 2.681}
+{'text': 'and then the mature', 'start': 2848.66, 'duration': 2.47}
+{'text': 'girls are just not up to their standards', 'start': 2849.54, 'duration': 3.93}
+{'text': 'so we developed a new process called', 'start': 2851.13, 'duration': 4.11}
+{'text': 'rapid liquid printing and we print', 'start': 2853.47, 'duration': 4.38}
+{'text': 'inside of a vat of gel and that gel', 'start': 2855.24, 'duration': 5.1}
+{'text': 'supports the material so the gel', 'start': 2857.85, 'duration': 5.22}
+{'text': 'eliminates gravity you can draw inside', 'start': 2860.34, 'duration': 4.89}
+{'text': 'of the gel like calligraphy like', 'start': 2863.07, 'duration': 3.93}
+{'text': 'three-dimensional calligraphy if you', 'start': 2865.23, 'duration': 3.63}
+{'text': 'change the pressure or the speed you get', 'start': 2867.0, 'duration': 3.48}
+{'text': 'different line weights and then the', 'start': 2868.86, 'duration': 4.83}
+{'text': 'material cures underneath the gel so you', 'start': 2870.48, 'duration': 5.52}
+{'text': 'draw in 3d space as fast as the Machine', 'start': 2873.69, 'duration': 4.8}
+{'text': 'can go you can have different nozzles in', 'start': 2876.0, 'duration': 4.26}
+{'text': 'different shapes and sizes literally', 'start': 2878.49, 'duration': 4.23}
+{'text': 'like calligraphy you extrude the', 'start': 2880.26, 'duration': 4.71}
+{'text': "material it's two-part material or its", 'start': 2882.72, 'duration': 4.74}
+{'text': 'photo pure or chemical cure and when', 'start': 2884.97, 'duration': 3.93}
+{'text': "it's soft when it solidifies you can", 'start': 2887.46, 'duration': 3.12}
+{'text': 'take it out of the gel and just wash it', 'start': 2888.9, 'duration': 4.29}
+{'text': 'with water so the reason this is faster', 'start': 2890.58, 'duration': 4.35}
+{'text': "is because there's no support material", 'start': 2893.19, 'duration': 3.36}
+{'text': 'normally with 3d printing if you want to', 'start': 2894.93, 'duration': 2.91}
+{'text': 'print something you need to print the', 'start': 2896.55, 'duration': 3.69}
+{'text': "supports we don't have to print layer by", 'start': 2897.84, 'duration': 4.74}
+{'text': "layer and we also don't have to wait for", 'start': 2900.24, 'duration': 4.77}
+{'text': 'the material to cure the reason we can', 'start': 2902.58, 'duration': 3.87}
+{'text': "print bigger is because it's really only", 'start': 2905.01, 'duration': 3.84}
+{'text': 'limited by the size of the Machine so we', 'start': 2906.45, 'duration': 4.65}
+{'text': 'have a 5 foot by 10 foot machine for', 'start': 2908.85, 'duration': 3.63}
+{'text': 'example or we can print millimeter', 'start': 2911.1, 'duration': 3.87}
+{'text': 'structures and then in terms of material', 'start': 2912.48, 'duration': 3.96}
+{'text': 'properties we print with only', 'start': 2914.97, 'duration': 3.42}
+{'text': 'off-the-shelf industrial material so', 'start': 2916.44, 'duration': 4.41}
+{'text': 'silicone rubber and foam polyurethane', 'start': 2918.39, 'duration': 4.95}
+{'text': 'rubber foam plastic acrylics epoxies', 'start': 2920.85, 'duration': 5.1}
+{'text': "even concrete's for example we can print", 'start': 2923.34, 'duration': 5.67}
+{'text': "with so it's not like some super special", 'start': 2925.95, 'duration': 5.04}
+{'text': "strange 3d printed material it's the", 'start': 2929.01, 'duration': 4.2}
+{'text': 'same exact material that you know a', 'start': 2930.99, 'duration': 3.87}
+{'text': 'company would use for the cushion in a', 'start': 2933.21, 'duration': 4.38}
+{'text': 'chair or a rubber gasket or you know or', 'start': 2934.86, 'duration': 4.47}
+{'text': "the soles of your shoes it's the same", 'start': 2937.59, 'duration': 3.81}
+{'text': 'material in this case we printed the', 'start': 2939.33, 'duration': 4.38}
+{'text': 'beach bag so this is a beach bag made', 'start': 2941.4, 'duration': 3.9}
+{'text': 'out of silicone rubber you can see the', 'start': 2943.71, 'duration': 3.69}
+{'text': "kind of behavior of it they're true", 'start': 2945.3, 'duration': 5.64}
+{'text': 'elastomers we we have structures that', 'start': 2947.4, 'duration': 5.82}
+{'text': 'can stretch and Bend and curl we have', 'start': 2950.94, 'duration': 4.41}
+{'text': 'rigid structures a lot of different', 'start': 2953.22, 'duration': 4.02}
+{'text': "materials so in this case it's much much", 'start': 2955.35, 'duration': 4.08}
+{'text': 'faster if you want to compare it to like', 'start': 2957.24, 'duration': 4.41}
+{'text': 'SLA printing we can be at least 50 times', 'start': 2959.43, 'duration': 4.35}
+{'text': 'faster than typical printing we can', 'start': 2961.65, 'duration': 4.23}
+{'text': 'print up to you know five ten-foot', 'start': 2963.78, 'duration': 3.84}
+{'text': 'structures all the way down to very', 'start': 2965.88, 'duration': 4.1}
+{'text': 'small and we can print with them', 'start': 2967.62, 'duration': 5.04}
+{'text': 'standard dust raw materials one of the', 'start': 2969.98, 'duration': 4.99}
+{'text': 'most recent projects is showing', 'start': 2972.66, 'duration': 4.53}
+{'text': 'inflatable so we print with silicone', 'start': 2974.97, 'duration': 3.78}
+{'text': 'rubber and then we can inflate it to', 'start': 2977.19, 'duration': 4.11}
+{'text': 'make soft robots or other actuator', 'start': 2978.75, 'duration': 4.05}
+{'text': "so that this is a structure that's", 'start': 2981.3, 'duration': 3.72}
+{'text': 'totally airtight watertight and by', 'start': 2982.8, 'duration': 3.99}
+{'text': 'printing different chambers you can get', 'start': 2985.02, 'duration': 3.51}
+{'text': 'different behaviors you can get it to', 'start': 2986.79, 'duration': 3.3}
+{'text': 'you know more from one shape to another', 'start': 2988.53, 'duration': 4.26}
+{'text': 'you can get it to expand or fold or curl', 'start': 2990.09, 'duration': 6.78}
+{'text': 'you can get it to articulate you can', 'start': 2992.79, 'duration': 6.75}
+{'text': 'stretch it so normally 3d printed', 'start': 2996.87, 'duration': 5.55}
+{'text': 'elastomers or are not even close to', 'start': 2999.54, 'duration': 5.19}
+{'text': 'traditional elastomers and rubbers you', 'start': 3002.42, 'duration': 4.74}
+{'text': 'can get maybe 100 200 percent elongation', 'start': 3004.73, 'duration': 4.41}
+{'text': "at best and in our case we're showing", 'start': 3007.16, 'duration': 4.37}
+{'text': 'close to a thousand percent elongation', 'start': 3009.14, 'duration': 5.34}
+{'text': 'which is the stated material spec so if', 'start': 3011.53, 'duration': 4.27}
+{'text': 'you got a rubber that you were gonna', 'start': 3014.48, 'duration': 4.77}
+{'text': 'cast we showed that after printing you', 'start': 3015.8, 'duration': 5.43}
+{'text': 'have the same properties as as the', 'start': 3019.25, 'duration': 4.68}
+{'text': 'molding process so then for the Victoria', 'start': 3021.23, 'duration': 4.41}
+{'text': 'and Albert Museum in London this is a', 'start': 3023.93, 'duration': 4.11}
+{'text': 'collaboration with BMW we did a whole', 'start': 3025.64, 'duration': 6.09}
+{'text': 'kind of lattice as matrix and we can', 'start': 3028.04, 'duration': 6.48}
+{'text': 'inflate and deflate different chambers', 'start': 3031.73, 'duration': 4.41}
+{'text': 'and we can make this single sheet', 'start': 3034.52, 'duration': 3.24}
+{'text': 'transform into all sorts of different', 'start': 3036.14, 'duration': 4.08}
+{'text': 'structures so they were interested in', 'start': 3037.76, 'duration': 4.17}
+{'text': 'this as a kind of future of car', 'start': 3040.22, 'duration': 3.21}
+{'text': 'interiors so you can think about like a', 'start': 3041.93, 'duration': 3.99}
+{'text': 'car seat for example maybe when you sit', 'start': 3043.43, 'duration': 5.22}
+{'text': 'down it morphs around your body or it', 'start': 3045.92, 'duration': 4.92}
+{'text': 'becomes more rigid or more soft or it', 'start': 3048.65, 'duration': 5.22}
+{'text': 'creates massage features or airbags so', 'start': 3050.84, 'duration': 4.74}
+{'text': "it's all inflating and deflating in", 'start': 3053.87, 'duration': 5.04}
+{'text': 'different different zones and then', 'start': 3055.58, 'duration': 4.74}
+{'text': 'actually in New York right now at the', 'start': 3058.91, 'duration': 3.69}
+{'text': 'Patrick parish gallery we have an', 'start': 3060.32, 'duration': 3.51}
+{'text': 'exhibition where we used that same', 'start': 3062.6, 'duration': 3.09}
+{'text': 'inflation technique and we collaborated', 'start': 3063.83, 'duration': 3.21}
+{'text': 'with Christoph again to make all these', 'start': 3065.69, 'duration': 3.21}
+{'text': 'products we made lamps and chandeliers', 'start': 3067.04, 'duration': 5.22}
+{'text': 'and vases and sconces and you know all', 'start': 3068.9, 'duration': 4.71}
+{'text': 'sorts of different products all of the', 'start': 3072.26, 'duration': 3.0}
+{'text': 'inflation so we print and then we', 'start': 3073.61, 'duration': 3.39}
+{'text': 'inflate them and they transform into', 'start': 3075.26, 'duration': 3.71}
+{'text': 'different shapes and sizes', 'start': 3077.0, 'duration': 4.38}
+{'text': 'so all of this research from the', 'start': 3078.97, 'duration': 4.09}
+{'text': 'self-assembly to programmable materials', 'start': 3081.38, 'duration': 4.14}
+{'text': 'and the phase change materials all gets', 'start': 3083.06, 'duration': 5.75}
+{'text': 'back to the same problem in my mind that', 'start': 3085.52, 'duration': 6.51}
+{'text': 'essentially as industries try to build', 'start': 3088.81, 'duration': 4.96}
+{'text': "smarter and smarter things we're", 'start': 3092.03, 'duration': 3.9}
+{'text': 'fighting this uphill battle of cost and', 'start': 3093.77, 'duration': 4.59}
+{'text': 'complexity so you know everyone wants to', 'start': 3095.93, 'duration': 4.56}
+{'text': 'build smarter machines smarter building', 'start': 3098.36, 'duration': 5.37}
+{'text': 'smarter clothes smarter shoes and the', 'start': 3100.49, 'duration': 4.86}
+{'text': 'only way we typically know how to do', 'start': 3103.73, 'duration': 3.93}
+{'text': 'that is to have more skilled labor or', 'start': 3105.35, 'duration': 5.749}
+{'text': 'more automation so basically we', 'start': 3107.66, 'duration': 6.669}
+{'text': 'need to pay more money or we need to', 'start': 3111.099, 'duration': 6.301}
+{'text': 'have smarter things that cost more or', 'start': 3114.329, 'duration': 5.621}
+{'text': 'fail more often or have more components', 'start': 3117.4, 'duration': 4.02}
+{'text': 'or more devices so think about like', 'start': 3119.95, 'duration': 3.419}
+{'text': 'smart buildings today that typically', 'start': 3121.42, 'duration': 4.29}
+{'text': 'means more devices like more thermostats', 'start': 3123.369, 'duration': 5.551}
+{'text': 'and more robot shading systems and', 'start': 3125.71, 'duration': 5.579}
+{'text': 'cooling and sensors and devices and all', 'start': 3128.92, 'duration': 5.04}
+{'text': 'those things cost more and more complex', 'start': 3131.289, 'duration': 4.77}
+{'text': "and harder to assemble etc so you're", 'start': 3133.96, 'duration': 4.079}
+{'text': "you're basically in this conundrum where", 'start': 3136.059, 'duration': 5.28}
+{'text': 'the smarter thing is worse than the dumb', 'start': 3138.039, 'duration': 5.341}
+{'text': 'thing and we are always trying to', 'start': 3141.339, 'duration': 3.48}
+{'text': 'question ourselves like how do we build', 'start': 3143.38, 'duration': 4.199}
+{'text': 'smarter things that have less parts that', 'start': 3144.819, 'duration': 4.17}
+{'text': 'have less complexity and have less', 'start': 3147.579, 'duration': 3.69}
+{'text': "failure so they're truly smarter and", 'start': 3148.989, 'duration': 4.651}
+{'text': 'better and easier to use and easier to', 'start': 3151.269, 'duration': 5.25}
+{'text': 'implement and then the other thing that', 'start': 3153.64, 'duration': 4.349}
+{'text': "we're up against is that when we think", 'start': 3156.519, 'duration': 3.84}
+{'text': 'about smarter construction or smarter', 'start': 3157.989, 'duration': 4.77}
+{'text': 'assembly everyone goes to automation', 'start': 3160.359, 'duration': 4.23}
+{'text': 'so basically automation is like the only', 'start': 3162.759, 'duration': 3.72}
+{'text': 'solution that anyone talks about in', 'start': 3164.589, 'duration': 4.561}
+{'text': 'construction and manufacturing no one is', 'start': 3166.479, 'duration': 4.231}
+{'text': 'talking about cheaper labor because', 'start': 3169.15, 'duration': 2.969}
+{'text': "basically we're in this problem where", 'start': 3170.71, 'duration': 2.819}
+{'text': 'construction - manufacturing', 'start': 3172.119, 'duration': 3.571}
+{'text': 'manufacturing cost too much so the', 'start': 3173.529, 'duration': 4.141}
+{'text': 'reason that everyone goes abroad is', 'start': 3175.69, 'duration': 4.139}
+{'text': 'because labor is cheaper and then labor', 'start': 3177.67, 'duration': 3.72}
+{'text': 'gets more expensive as the companies', 'start': 3179.829, 'duration': 2.851}
+{'text': 'develop and then they move to another', 'start': 3181.39, 'duration': 2.579}
+{'text': 'country and then it gets more expensive', 'start': 3182.68, 'duration': 3.839}
+{'text': 'and then they move and you know as', 'start': 3183.969, 'duration': 5.04}
+{'text': 'everyone knows Trump is trying to force', 'start': 3186.519, 'duration': 4.381}
+{'text': 'manufacturing to come back to the US', 'start': 3189.009, 'duration': 3.78}
+{'text': 'which is you know maybe not the best', 'start': 3190.9, 'duration': 5.28}
+{'text': "idea but the problem isn't about labor", 'start': 3192.789, 'duration': 5.52}
+{'text': 'the problem is how do we assemble things', 'start': 3196.18, 'duration': 5.039}
+{'text': 'in better smarter easier ways and most', 'start': 3198.309, 'duration': 4.92}
+{'text': 'people think about automation basically', 'start': 3201.219, 'duration': 3.51}
+{'text': "we're gonna have robots that assemble", 'start': 3203.229, 'duration': 3.75}
+{'text': 'things or robots that build buildings', 'start': 3204.729, 'duration': 4.32}
+{'text': 'and we have kind of two perspectives on', 'start': 3206.979, 'duration': 5.07}
+{'text': "that one of them is if it's true that", 'start': 3209.049, 'duration': 4.621}
+{'text': "we're going to have automation and", 'start': 3212.049, 'duration': 3.27}
+{'text': 'construction and manufacturing if if', 'start': 3213.67, 'duration': 2.909}
+{'text': 'automation is going to change', 'start': 3215.319, 'duration': 4.74}
+{'text': 'manufacturing construction we should', 'start': 3216.579, 'duration': 5.551}
+{'text': 'still be building with smarter materials', 'start': 3220.059, 'duration': 5.25}
+{'text': 'because those materials can collaborate', 'start': 3222.13, 'duration': 5.339}
+{'text': 'with the robot those materials could', 'start': 3225.309, 'duration': 3.81}
+{'text': 'allow us to build things in a better way', 'start': 3227.469, 'duration': 3.54}
+{'text': 'so instead of having to have these crazy', 'start': 3229.119, 'duration': 5.7}
+{'text': 'high precision capable robots maybe we', 'start': 3231.009, 'duration': 6.181}
+{'text': 'could have just average robots but we', 'start': 3234.819, 'duration': 3.841}
+{'text': 'can deposit materials and then the', 'start': 3237.19, 'duration': 3.059}
+{'text': 'material can kind of do the last mile', 'start': 3238.66, 'duration': 2.25}
+{'text': 'problem', 'start': 3240.249, 'duration': 3.301}
+{'text': 'can become more precise or it can say', 'start': 3240.91, 'duration': 4.44}
+{'text': "you know there's too much load here so", 'start': 3243.55, 'duration': 3.39}
+{'text': 'the rollout you need to move over here', 'start': 3245.35, 'duration': 4.02}
+{'text': 'and you need to you know sense this', 'start': 3246.94, 'duration': 5.01}
+{'text': "capability and let's go over here or", 'start': 3249.37, 'duration': 4.41}
+{'text': "maybe we're just building with the robot", 'start': 3251.95, 'duration': 4.26}
+{'text': 'the same way we build traditionally but', 'start': 3253.78, 'duration': 4.05}
+{'text': 'at least the products that we make', 'start': 3256.21, 'duration': 3.72}
+{'text': 'should be smarter the products that we', 'start': 3257.83, 'duration': 3.69}
+{'text': 'make should be able to adapt to our', 'start': 3259.93, 'duration': 2.81}
+{'text': 'bodies adapt to our environment', 'start': 3261.52, 'duration': 3.57}
+{'text': 'transform have have higher performing', 'start': 3262.74, 'duration': 6.31}
+{'text': 'systems without all the devices so', 'start': 3265.09, 'duration': 5.07}
+{'text': "that's one perspective the other", 'start': 3269.05, 'duration': 3.23}
+{'text': 'perspective is a bit more ambitious and', 'start': 3270.16, 'duration': 4.47}
+{'text': 'you know through our work and a lot of', 'start': 3272.28, 'duration': 5.65}
+{'text': 'our colleagues in different fields and I', 'start': 3274.63, 'duration': 5.4}
+{'text': 'talked about before that DARPA grant on', 'start': 3277.93, 'duration': 4.17}
+{'text': 'programmable matter if you look at all', 'start': 3280.03, 'duration': 3.84}
+{'text': 'the researchers who are under that DARPA', 'start': 3282.1, 'duration': 4.05}
+{'text': 'grant almost every single one of them is', 'start': 3283.87, 'duration': 4.68}
+{'text': 'not doing robotics anymore most every', 'start': 3286.15, 'duration': 4.11}
+{'text': 'single one of them is doing materials', 'start': 3288.55, 'duration': 5.67}
+{'text': 'soft squishy robotic systems through', 'start': 3290.26, 'duration': 6.36}
+{'text': 'materials so through synthetic biology', 'start': 3294.22, 'duration': 4.68}
+{'text': 'and DNA origami or multi material', 'start': 3296.62, 'duration': 4.05}
+{'text': 'printing or programmable materials like', 'start': 3298.9, 'duration': 3.78}
+{'text': "we've shown a granular damnable system", 'start': 3300.67, 'duration': 5.75}
+{'text': 'or soft robots all of them are doing', 'start': 3302.68, 'duration': 6.81}
+{'text': 'essentially robotics without the robots', 'start': 3306.42, 'duration': 4.63}
+{'text': 'and so we think that the future of', 'start': 3309.49, 'duration': 3.09}
+{'text': 'robots is not necessarily', 'start': 3311.05, 'duration': 3.51}
+{'text': 'electromechanical hydraulic pneumatic', 'start': 3312.58, 'duration': 4.17}
+{'text': 'systems the future of robots is', 'start': 3314.56, 'duration': 4.68}
+{'text': 'materials materials that can sense', 'start': 3316.75, 'duration': 5.37}
+{'text': 'actually make decisions have information', 'start': 3319.24, 'duration': 5.46}
+{'text': 'embedded in them so it may be automation', 'start': 3322.12, 'duration': 4.41}
+{'text': "or robotics is the future but it's a", 'start': 3324.7, 'duration': 3.6}
+{'text': 'kind of different perspective than we', 'start': 3326.53, 'duration': 3.06}
+{'text': 'thought it was because those', 'start': 3328.3, 'duration': 3.12}
+{'text': 'capabilities are going to be embedded in', 'start': 3329.59, 'duration': 3.24}
+{'text': 'our clothing and our shoes and our', 'start': 3331.42, 'duration': 3.0}
+{'text': 'buildings in really really elegant', 'start': 3332.83, 'duration': 5.16}
+{'text': 'material ways so the the goal and the', 'start': 3334.42, 'duration': 5.22}
+{'text': 'vision of the lab is that today we', 'start': 3337.99, 'duration': 3.41}
+{'text': 'program computers and machines and', 'start': 3339.64, 'duration': 5.37}
+{'text': "tomorrow we'll program matter itself so", 'start': 3341.4, 'duration': 5.56}
+{'text': "I'll leave it there and maybe take a few", 'start': 3345.01, 'duration': 5.5}
+{'text': 'questions thanks so much', 'start': 3346.96, 'duration': 8.14}
+{'text': "I don't know how we're doing on time if", 'start': 3350.51, 'duration': 11.73}
+{'text': 'you want to do questions or move what', 'start': 3355.1, 'duration': 11.9}
+{'text': 'are your thoughts questions concerns', 'start': 3362.24, 'duration': 4.76}
+{'text': 'I think thanks very much for your for', 'start': 3371.95, 'duration': 4.399}
+{'text': "the talk it's super provocative", 'start': 3374.41, 'duration': 4.939}
+{'text': 'interesting', 'start': 3376.349, 'duration': 3.0}
+{'text': "things you're working on but I also", 'start': 3379.569, 'duration': 5.55}
+{'text': 'curious about how your I think the', 'start': 3381.43, 'duration': 5.779}
+{'text': 'parallel project that you have going is', 'start': 3385.119, 'duration': 4.68}
+{'text': 'what is the nature of learning and', 'start': 3387.209, 'duration': 5.14}
+{'text': 'research and what do you do as the', 'start': 3389.799, 'duration': 4.681}
+{'text': 'teacher versus what do you do', 'start': 3392.349, 'duration': 6.451}
+{'text': 'try to get something look and and so how', 'start': 3394.48, 'duration': 6.96}
+{'text': 'does the structure of your Center in', 'start': 3398.8, 'duration': 5.58}
+{'text': 'your lab work when do students bring the', 'start': 3401.44, 'duration': 4.409}
+{'text': 'projects into the room we want this', 'start': 3404.38, 'duration': 3.239}
+{'text': 'industry bring projects into the room', 'start': 3405.849, 'duration': 7.381}
+{'text': 'why do you ask the question what are we', 'start': 3407.619, 'duration': 14.821}
+{'text': 'trying to do materials need to be we', 'start': 3413.23, 'duration': 24.15}
+{'text': "need to question so there's a lot of", 'start': 3422.44, 'duration': 18.75}
+{'text': 'different angles on that so one how the', 'start': 3437.38, 'duration': 7.83}
+{'text': 'lab works is most of the people that', 'start': 3441.19, 'duration': 6.03}
+{'text': 'come to the lab are either former', 'start': 3445.21, 'duration': 4.71}
+{'text': 'students or people that reach out like', 'start': 3447.22, 'duration': 4.71}
+{'text': 'student undergrads and grads that reach', 'start': 3449.92, 'duration': 3.99}
+{'text': 'out to us and you either know the work', 'start': 3451.93, 'duration': 3.96}
+{'text': 'or know me through teaching and then', 'start': 3453.91, 'duration': 4.86}
+{'text': 'become part of the lab and at MIT they', 'start': 3455.89, 'duration': 4.53}
+{'text': 'undergrads for example have something', 'start': 3458.77, 'duration': 3.27}
+{'text': 'called your ops undergraduate research', 'start': 3460.42, 'duration': 3.419}
+{'text': 'opportunity they get paid to do research', 'start': 3462.04, 'duration': 3.84}
+{'text': 'or they get credits do research and then', 'start': 3463.839, 'duration': 4.561}
+{'text': 'grad students are getting paid tuition', 'start': 3465.88, 'duration': 5.13}
+{'text': 'or stipend and so in some ways they they', 'start': 3468.4, 'duration': 4.169}
+{'text': "want to do the research because they're", 'start': 3471.01, 'duration': 3.12}
+{'text': 'interested or because they want to get', 'start': 3472.569, 'duration': 2.881}
+{'text': 'credit or because they want to get paid', 'start': 3474.13, 'duration': 3.239}
+{'text': 'so they you know operates in that way', 'start': 3475.45, 'duration': 4.83}
+{'text': "sort of like a business and it's less", 'start': 3477.369, 'duration': 5.521}
+{'text': 'like a studio so I try to differentiate', 'start': 3480.28, 'duration': 5.579}
+{'text': 'a studio in a lab because in the studio', 'start': 3482.89, 'duration': 6.12}
+{'text': 'I think the goal is for the students to', 'start': 3485.859, 'duration': 5.041}
+{'text': 'develop their own agenda and their own', 'start': 3489.01, 'duration': 4.2}
+{'text': 'thesis and their own direction and you', 'start': 3490.9, 'duration': 4.77}
+{'text': 'know I can start with a provocation or a', 'start': 3493.21, 'duration': 6.06}
+{'text': 'site or constrain or whatever it is but', 'start': 3495.67, 'duration': 5.699}
+{'text': 'really the students need to guide it and', 'start': 3499.27, 'duration': 4.079}
+{'text': 'lead it and that needs to lead to their', 'start': 3501.369, 'duration': 3.99}
+{'text': "future careers and that's you know what", 'start': 3503.349, 'duration': 3.99}
+{'text': 'enabled MIT enabled me to do that', 'start': 3505.359, 'duration': 3.96}
+{'text': 'through through that program but when', 'start': 3507.339, 'duration': 3.871}
+{'text': "they're in the research lab the research", 'start': 3509.319, 'duration': 3.811}
+{'text': 'lab itself has an agenda and has', 'start': 3511.21, 'duration': 4.139}
+{'text': 'projects and has funding and has goals', 'start': 3513.13, 'duration': 4.29}
+{'text': 'and whatever and the students are', 'start': 3515.349, 'duration': 3.421}
+{'text': 'working on those and they can totally', 'start': 3517.42, 'duration': 3.24}
+{'text': 'lead them they can start new projects', 'start': 3518.77, 'duration': 3.66}
+{'text': 'they can all do that but that you know', 'start': 3520.66, 'duration': 3.39}
+{'text': "in some ways it's more like an office", 'start': 3522.43, 'duration': 4.08}
+{'text': "and that way that they're part of a", 'start': 3524.05, 'duration': 4.89}
+{'text': "larger team that that has an agenda it's", 'start': 3526.51, 'duration': 5.25}
+{'text': 'not only their personal goals and agenda', 'start': 3528.94, 'duration': 5.25}
+{'text': 'and so I try to separate those because I', 'start': 3531.76, 'duration': 4.559}
+{'text': "think they're too you know different and", 'start': 3534.19, 'duration': 5.58}
+{'text': 'useful perspectives and how projects', 'start': 3536.319, 'duration': 5.371}
+{'text': 'start in the lab it comes from all', 'start': 3539.77, 'duration': 3.72}
+{'text': 'different directions so one of them is', 'start': 3541.69, 'duration': 4.08}
+{'text': 'some kind of more academic perspective', 'start': 3543.49, 'duration': 4.23}
+{'text': "like it's the what ifs is like is it as", 'start': 3545.77, 'duration': 4.29}
+{'text': "possible it's they're kind of crazy", 'start': 3547.72, 'duration': 4.95}
+{'text': "scenarios it's maybe that aligns more", 'start': 3550.06, 'duration': 4.08}
+{'text': 'with like exhibitions and gallery', 'start': 3552.67, 'duration': 4.23}
+{'text': 'projects or collaborations with artists', 'start': 3554.14, 'duration': 5.88}
+{'text': 'and designers like or the granular', 'start': 3556.9, 'duration': 4.8}
+{'text': 'jamming work all the self-assembly work', 'start': 3560.02, 'duration': 3.72}
+{'text': 'a lot of those are like starting from a', 'start': 3561.7, 'duration': 3.629}
+{'text': 'question or a provocation like these as', 'start': 3563.74, 'duration': 3.119}
+{'text': 'possible can we do something and then', 'start': 3565.329, 'duration': 3.901}
+{'text': 'you test it you know rigorously and you', 'start': 3566.859, 'duration': 3.96}
+{'text': 'figure something out and discover', 'start': 3569.23, 'duration': 3.06}
+{'text': 'something and build it and scale it and', 'start': 3570.819, 'duration': 3.3}
+{'text': 'demonstrate it some way and maybe then', 'start': 3572.29, 'duration': 3.45}
+{'text': "we'll write papers or do something else", 'start': 3574.119, 'duration': 4.861}
+{'text': 'with it or show videos or whatever and', 'start': 3575.74, 'duration': 5.369}
+{'text': 'then another way is it comes from', 'start': 3578.98, 'duration': 3.96}
+{'text': 'industry like the Airbus collaboration', 'start': 3581.109, 'duration': 3.151}
+{'text': 'or some of the Google collaborations', 'start': 3582.94, 'duration': 3.33}
+{'text': "start from some issue that they're", 'start': 3584.26, 'duration': 3.66}
+{'text': 'having they approached us they see some', 'start': 3586.27, 'duration': 3.75}
+{'text': 'of the research they say is it possible', 'start': 3587.92, 'duration': 3.87}
+{'text': "to take some principles you've learned", 'start': 3590.02, 'duration': 4.47}
+{'text': 'and apply them and then most of our work', 'start': 3591.79, 'duration': 5.49}
+{'text': 'is somewhere in the middle that it you', 'start': 3594.49, 'duration': 4.859}
+{'text': 'know it starts like the the rapid liquid', 'start': 3597.28, 'duration': 3.69}
+{'text': "printing where it's a collaboration with", 'start': 3599.349, 'duration': 4.47}
+{'text': 'someone a company or you know agency or', 'start': 3600.97, 'duration': 5.55}
+{'text': "an even an exhibition and it's like", 'start': 3603.819, 'duration': 5.611}
+{'text': "what's what's interesting in this space", 'start': 3606.52, 'duration': 5.0}
+{'text': "or what's the future of 3d printing or", 'start': 3609.43, 'duration': 4.439}
+{'text': "we're interested in like a new type of", 'start': 3611.52, 'duration': 4.26}
+{'text': "packaging or you know it's very very", 'start': 3613.869, 'duration': 4.551}
+{'text': "open but it's within a certain domain", 'start': 3615.78, 'duration': 5.559}
+{'text': "and then you know my mind that's the", 'start': 3618.42, 'duration': 5.26}
+{'text': 'kind of best of both worlds and we think', 'start': 3621.339, 'duration': 4.321}
+{'text': 'of I think about the spectrum of the', 'start': 3623.68, 'duration': 5.189}
+{'text': 'radical to the relevant so like a lot of', 'start': 3625.66, 'duration': 5.37}
+{'text': 'our projects are are on one end of the', 'start': 3628.869, 'duration': 3.871}
+{'text': 'spectrum and the MOE of the best is when', 'start': 3631.03, 'duration': 3.78}
+{'text': "it's in between like the rocks or some", 'start': 3632.74, 'duration': 4.56}
+{'text': 'of the balloons on this radical spectrum', 'start': 3634.81, 'duration': 4.32}
+{'text': 'like what would be the most interesting', 'start': 3637.3, 'duration': 4.83}
+{'text': 'provocative wildest craziest possible', 'start': 3639.13, 'duration': 5.31}
+{'text': 'thing we could think of to to push the', 'start': 3642.13, 'duration': 4.17}
+{'text': "limits of what we can do or what's", 'start': 3644.44, 'duration': 4.47}
+{'text': 'possible today and then the other end', 'start': 3646.3, 'duration': 4.799}
+{'text': 'what would be the most useful applicable', 'start': 3648.91, 'duration': 3.03}
+{'text': 'beneficial', 'start': 3651.099, 'duration': 2.371}
+{'text': 'thing that we could do for some problem', 'start': 3651.94, 'duration': 3.57}
+{'text': 'or society or whatever or collaborator', 'start': 3653.47, 'duration': 3.72}
+{'text': 'and the best is when you solve a look', 'start': 3655.51, 'duration': 3.48}
+{'text': 'both ways but often we land somewhere', 'start': 3657.19, 'duration': 4.14}
+{'text': 'here and our projects you know align', 'start': 3658.99, 'duration': 6.11}
+{'text': 'somewhere along that along that spectrum', 'start': 3661.33, 'duration': 8.16}
+{'text': 'so yeah I think the lab I teach', 'start': 3665.1, 'duration': 6.28}
+{'text': 'full-time and I run the lab and you know', 'start': 3669.49, 'duration': 3.48}
+{'text': "I'm doing a lot of different things and", 'start': 3671.38, 'duration': 3.21}
+{'text': "they all you know maybe it's not the", 'start': 3672.97, 'duration': 4.64}
+{'text': 'most clear separation between the two', 'start': 3674.59, 'duration': 6.96}
+{'text': 'but we you know we tend to not be like a', 'start': 3677.61, 'duration': 6.34}
+{'text': "typical academic lab where it's just", 'start': 3681.55, 'duration': 3.75}
+{'text': 'like we get government grants and then', 'start': 3683.95, 'duration': 3.57}
+{'text': 'we write papers on it often it starts', 'start': 3685.3, 'duration': 4.86}
+{'text': 'with a gallery or it starts with an', 'start': 3687.52, 'duration': 4.56}
+{'text': 'industry partner or it starts with some', 'start': 3690.16, 'duration': 4.23}
+{'text': 'like crazy idea student has and we see', 'start': 3692.08, 'duration': 4.23}
+{'text': "if it's possible and we explore and then", 'start': 3694.39, 'duration': 4.86}
+{'text': 'we figure out where that leads us and so', 'start': 3696.31, 'duration': 5.7}
+{'text': "it's a little bit more blurry how we do", 'start': 3699.25, 'duration': 5.49}
+{'text': "these things I don't know if that", 'start': 3702.01, 'duration': 6.05}
+{'text': 'answers it yeah', 'start': 3704.74, 'duration': 3.32}
+{'text': 'I understand that this on the scale just', 'start': 3711.569, 'duration': 48.96}
+{'text': 'materials themselves Andy yeah I mean in', 'start': 3751.469, 'duration': 11.64}
+{'text': 'some ways all of that work all the', 'start': 3760.529, 'duration': 5.94}
+{'text': 'self-assembly work is is based on', 'start': 3763.109, 'duration': 5.22}
+{'text': "thermodynamics or at least that's one", 'start': 3766.469, 'duration': 4.83}
+{'text': "example of where this happens and we're", 'start': 3768.329, 'duration': 5.581}
+{'text': 'just showing it at a kind of macro scale', 'start': 3771.299, 'duration': 4.861}
+{'text': 'so in the balloons for example if you', 'start': 3773.91, 'duration': 4.199}
+{'text': 'had many millions or hundreds of', 'start': 3776.16, 'duration': 4.02}
+{'text': 'millions of those particles and you', 'start': 3778.109, 'duration': 4.86}
+{'text': 'zoomed way out that would be a gas you', 'start': 3780.18, 'duration': 4.019}
+{'text': 'know that would be a temperature change', 'start': 3782.969, 'duration': 3.51}
+{'text': 'from one environment to another or that', 'start': 3784.199, 'duration': 4.681}
+{'text': 'would be a chemical transition from a', 'start': 3786.479, 'duration': 4.64}
+{'text': 'solid tool or from a liquid to a solid', 'start': 3788.88, 'duration': 4.909}
+{'text': 'like the balloons is exactly', 'start': 3791.119, 'duration': 4.63}
+{'text': 'crystallization so if you think about', 'start': 3793.789, 'duration': 4.601}
+{'text': 'graphite to diamond graphite and', 'start': 3795.749, 'duration': 3.99}
+{'text': 'diamonds are made out of the exact same', 'start': 3798.39, 'duration': 2.819}
+{'text': 'thing the only difference is the way', 'start': 3799.739, 'duration': 3.151}
+{'text': 'they came together which is like the', 'start': 3801.209, 'duration': 3.691}
+{'text': 'balloon structure if you make a cubic', 'start': 3802.89, 'duration': 3.329}
+{'text': 'lattice or you make something else', 'start': 3804.9, 'duration': 2.099}
+{'text': "you're going to give a different", 'start': 3806.219, 'duration': 3.87}
+{'text': 'material so it is you know chemical', 'start': 3806.999, 'duration': 5.55}
+{'text': 'transition or it is thermodynamics or', 'start': 3810.089, 'duration': 4.68}
+{'text': "it's a lot of these systems where you", 'start': 3812.549, 'duration': 3.42}
+{'text': 'have components and they come together', 'start': 3814.769, 'duration': 5.49}
+{'text': 'on their own but talking about the basic', 'start': 3815.969, 'duration': 7.26}
+{'text': 'versus Applied Research are one of our', 'start': 3820.259, 'duration': 5.22}
+{'text': 'latest projects in that category of work', 'start': 3823.229, 'duration': 5.37}
+{'text': "is a project in the Maldives and it it's", 'start': 3825.479, 'duration': 4.921}
+{'text': 'an example in my mind of where basic', 'start': 3828.599, 'duration': 3.781}
+{'text': 'research turned to Applied Research in', 'start': 3830.4, 'duration': 4.409}
+{'text': 'like almost a day so this group from the', 'start': 3832.38, 'duration': 3.989}
+{'text': 'Maldives approached us because they were', 'start': 3834.809, 'duration': 4.14}
+{'text': 'interested in or they were concerned', 'start': 3836.369, 'duration': 5.1}
+{'text': "about sea level rise obviously so it's", 'start': 3838.949, 'duration': 4.56}
+{'text': 'an island nation like like many coastal', 'start': 3841.469, 'duration': 3.3}
+{'text': "regions or island nations they're", 'start': 3843.509, 'duration': 2.571}
+{'text': 'worried that you', 'start': 3844.769, 'duration': 4.311}
+{'text': 'to the sea-level rise but the Maldives', 'start': 3846.08, 'duration': 6.02}
+{'text': "is really fascinating because it's", 'start': 3849.08, 'duration': 5.73}
+{'text': "unique in that it's grown over the past", 'start': 3852.1, 'duration': 6.55}
+{'text': '100 plus years so basically sea level', 'start': 3854.81, 'duration': 6.12}
+{'text': 'ride is double doubled and tripled as we', 'start': 3858.65, 'duration': 5.16}
+{'text': 'know and the islands should be sinking', 'start': 3860.93, 'duration': 4.53}
+{'text': "but they're actually growing which is", 'start': 3863.81, 'duration': 3.03}
+{'text': "really strange and they're not really", 'start': 3865.46, 'duration': 3.75}
+{'text': 'sure why but that points to the fact', 'start': 3866.84, 'duration': 6.68}
+{'text': 'that sand accumulates naturally and', 'start': 3869.21, 'duration': 7.35}
+{'text': 'self-organizes into sandbars and islands', 'start': 3873.52, 'duration': 4.93}
+{'text': 'like these islands are grown basically', 'start': 3876.56, 'duration': 3.75}
+{'text': "through sandbars it depends on if it's a", 'start': 3878.45, 'duration': 4.98}
+{'text': 'volcanic island or you know San made', 'start': 3880.31, 'duration': 5.07}
+{'text': "island and so what we're trying to do", 'start': 3883.43, 'duration': 4.11}
+{'text': 'right now is study why do sandbars', 'start': 3885.38, 'duration': 4.44}
+{'text': 'happen and merge why do islands grow', 'start': 3887.54, 'duration': 5.79}
+{'text': 'sometimes and can we collaborate with', 'start': 3889.82, 'duration': 5.76}
+{'text': 'the forces of the wave to accumulate', 'start': 3893.33, 'duration': 4.5}
+{'text': 'sand and could you design it so that', 'start': 3895.58, 'duration': 4.26}
+{'text': 'your island always grows so imagine you', 'start': 3897.83, 'duration': 3.69}
+{'text': 'have an island and you put certain', 'start': 3899.84, 'duration': 3.99}
+{'text': 'things in the water depending on the', 'start': 3901.52, 'duration': 3.87}
+{'text': 'tides and the swell and weather and', 'start': 3903.83, 'duration': 3.36}
+{'text': 'patterns you could have different shapes', 'start': 3905.39, 'duration': 3.48}
+{'text': 'underwater maybe they could more from', 'start': 3907.19, 'duration': 4.02}
+{'text': 'one ship to another and potentially it', 'start': 3908.87, 'duration': 4.08}
+{'text': 'could ensure that your islander your', 'start': 3911.21, 'duration': 3.6}
+{'text': 'Beach could always grow instead of', 'start': 3912.95, 'duration': 4.5}
+{'text': 'sometimes grow and not sure why and why', 'start': 3914.81, 'duration': 4.83}
+{'text': 'does it sometimes get destroyed you know', 'start': 3917.45, 'duration': 4.88}
+{'text': "there's a lot of people that look at", 'start': 3919.64, 'duration': 5.16}
+{'text': 'building reefs off of beaches to stop', 'start': 3922.33, 'duration': 4.75}
+{'text': 'beach erosion but the problem is it only', 'start': 3924.8, 'duration': 4.11}
+{'text': 'works in certain conditions like if you', 'start': 3927.08, 'duration': 3.39}
+{'text': 'have a swell direction or a tide from', 'start': 3928.91, 'duration': 3.54}
+{'text': "another orientation it doesn't work any", 'start': 3930.47, 'duration': 4.35}
+{'text': 'longer and actually hurts the beach so', 'start': 3932.45, 'duration': 4.17}
+{'text': "we're anyway we're studying this", 'start': 3934.82, 'duration': 4.14}
+{'text': "self-organization of sand and it's a", 'start': 3936.62, 'duration': 5.07}
+{'text': 'very very real problem that can have', 'start': 3938.96, 'duration': 4.53}
+{'text': 'real implications and it started from', 'start': 3941.69, 'duration': 3.96}
+{'text': 'this kind of super academic basic', 'start': 3943.49, 'duration': 4.59}
+{'text': 'research like self-organization', 'start': 3945.65, 'duration': 3.99}
+{'text': 'self-assembly and', 'start': 3948.08, 'duration': 4.83}
+{'text': "really quickly so we're pretty fluid oh", 'start': 3949.64, 'duration': 6.36}
+{'text': 'sorry for that for the metaphor but', 'start': 3952.91, 'duration': 6.99}
+{'text': "we're pretty fluid going from applied to", 'start': 3956.0, 'duration': 5.46}
+{'text': 'basic or going from the industry', 'start': 3959.9, 'duration': 4.02}
+{'text': 'collaborator to like a government agency', 'start': 3961.46, 'duration': 5.46}
+{'text': 'to you know academic collaboration or', 'start': 3963.92, 'duration': 5.609}
+{'text': 'gallery or something we try to work on', 'start': 3966.92, 'duration': 5.879}
+{'text': 'different scales and different domains', 'start': 3969.529, 'duration': 5.221}
+{'text': 'and figure out what makes the most sense', 'start': 3972.799, 'duration': 4.371}
+{'text': 'at the time', 'start': 3974.75, 'duration': 2.42}
+{'text': '[Music]', 'start': 4001.86, 'duration': 3.21}
+{'text': "it's kind of changing the tech topics of", 'start': 4007.48, 'duration': 4.4}
+{'text': 'architecture so how do you think this', 'start': 4009.61, 'duration': 9.02}
+{'text': 'spark material material is going to', 'start': 4011.88, 'duration': 6.75}
+{'text': "yeah good question yeah I don't think", 'start': 4020.93, 'duration': 6.18}
+{'text': "that we're proposing you know that the", 'start': 4024.23, 'duration': 4.53}
+{'text': 'entire building would be making made out', 'start': 4027.11, 'duration': 3.57}
+{'text': 'of one system and like every detail', 'start': 4028.76, 'duration': 4.71}
+{'text': "needs to be the same thing I think it's", 'start': 4030.68, 'duration': 6.69}
+{'text': 'more about trying to look at different', 'start': 4033.47, 'duration': 6.36}
+{'text': 'materials and specifically understand', 'start': 4037.37, 'duration': 4.47}
+{'text': 'what those materials are capable of and', 'start': 4039.83, 'duration': 5.04}
+{'text': 'and tap into that so for example we', 'start': 4041.84, 'duration': 5.58}
+{'text': 'built a basically like a sticker or', 'start': 4044.87, 'duration': 4.53}
+{'text': 'graphic that you could apply to a', 'start': 4047.42, 'duration': 4.98}
+{'text': 'glazing system like a skylight or facade', 'start': 4049.4, 'duration': 5.07}
+{'text': 'that would open and close based on', 'start': 4052.4, 'duration': 3.87}
+{'text': 'sunlight so some of those programmable', 'start': 4054.47, 'duration': 3.51}
+{'text': "materials and it's just open and closing", 'start': 4056.27, 'duration': 3.6}
+{'text': 'all the time based on sunlight or if', 'start': 4057.98, 'duration': 5.52}
+{'text': "it's cloudy year you know overcast and", 'start': 4059.87, 'duration': 5.13}
+{'text': "that's a very specific material it's not", 'start': 4063.5, 'duration': 2.82}
+{'text': 'saying that the entire building is gonna', 'start': 4065.0, 'duration': 2.79}
+{'text': 'be made out of the material has like a', 'start': 4066.32, 'duration': 3.27}
+{'text': "very specific application it's not", 'start': 4067.79, 'duration': 3.87}
+{'text': "structural it's you know it's for", 'start': 4069.59, 'duration': 5.52}
+{'text': 'shading or solar heat gain and then we', 'start': 4071.66, 'duration': 5.25}
+{'text': 'worked on an acoustics project or as', 'start': 4075.11, 'duration': 4.11}
+{'text': 'about adaptive acoustics with jamming so', 'start': 4076.91, 'duration': 3.99}
+{'text': 'you know that has a totally another', 'start': 4079.22, 'duration': 5.01}
+{'text': "application so I guess I'm more", 'start': 4080.9, 'duration': 5.52}
+{'text': 'interested in like in any given detail', 'start': 4084.23, 'duration': 4.02}
+{'text': "what is the thing that we're trying to", 'start': 4086.42, 'duration': 3.78}
+{'text': 'do and is there a way that we can kind', 'start': 4088.25, 'duration': 3.66}
+{'text': 'of enhance the capabilities of that', 'start': 4090.2, 'duration': 4.5}
+{'text': 'looking more tapping into the material', 'start': 4091.91, 'duration': 6.36}
+{'text': 'properties themselves and therefore we', 'start': 4094.7, 'duration': 5.31}
+{'text': 'could still be building with all the', 'start': 4098.27, 'duration': 4.47}
+{'text': "same materials we're building today and", 'start': 4100.01, 'duration': 5.49}
+{'text': 'then those hopefully those materials and', 'start': 4102.74, 'duration': 4.17}
+{'text': 'those components and those details can', 'start': 4105.5, 'duration': 3.36}
+{'text': 'just do much much more and kind of push', 'start': 4106.91, 'duration': 3.33}
+{'text': "the limits of what they're capable of", 'start': 4108.86, 'duration': 4.14}
+{'text': 'because I guess I see it in a like a', 'start': 4110.24, 'duration': 5.73}
+{'text': 'larger arc where in some ways because of', 'start': 4113.0, 'duration': 6.0}
+{'text': 'the computer and because of robotics and', 'start': 4115.97, 'duration': 5.61}
+{'text': "digital fabrication and stuff I'm seeing", 'start': 4119.0, 'duration': 5.43}
+{'text': "that we've lost the the like material", 'start': 4121.58, 'duration': 6.36}
+{'text': 'intuition and we used to have that in a', 'start': 4124.43, 'duration': 6.45}
+{'text': 'way like in any craft scenario whether', 'start': 4127.94, 'duration': 5.31}
+{'text': "that's textiles or wood or metal working", 'start': 4130.88, 'duration': 4.11}
+{'text': 'or in any scenario where it was like', 'start': 4133.25, 'duration': 4.23}
+{'text': 'true craftsmanship we had an intimate', 'start': 4134.99, 'duration': 4.32}
+{'text': 'knowledge of a material property and we', 'start': 4137.48, 'duration': 3.3}
+{'text': 'would understand what the property of', 'start': 4139.31, 'duration': 3.9}
+{'text': 'that material was and you can expand it', 'start': 4140.78, 'duration': 3.93}
+{'text': 'or contract it or you know use the', 'start': 4143.21, 'duration': 3.399}
+{'text': 'dynamic capabilities of it and you can', 'start': 4144.71, 'duration': 3.909}
+{'text': 'look at like old thermostats in a house', 'start': 4146.609, 'duration': 3.75}
+{'text': 'or you can look at Japanese jointer all', 'start': 4148.619, 'duration': 3.361}
+{'text': 'those examples I was talking about and', 'start': 4150.359, 'duration': 3.121}
+{'text': 'we would tap in to the material', 'start': 4151.98, 'duration': 5.94}
+{'text': "knowledge like for example that there's", 'start': 4153.48, 'duration': 8.489}
+{'text': "a book latitude I think it's called it's", 'start': 4157.92, 'duration': 5.669}
+{'text': 'all about how they built the first', 'start': 4161.969, 'duration': 4.051}
+{'text': "device that couldn't measure the the", 'start': 4163.589, 'duration': 5.791}
+{'text': 'latitude or is it longitude one of those', 'start': 4166.02, 'duration': 7.199}
+{'text': "forget now but it's all about longitude", 'start': 4169.38, 'duration': 7.83}
+{'text': "I guess it's a fascinating book and in", 'start': 4173.219, 'duration': 5.821}
+{'text': 'the end the solution was material that', 'start': 4177.21, 'duration': 4.109}
+{'text': 'they figured out essentially a', 'start': 4179.04, 'duration': 5.42}
+{'text': 'bimetallic strip that could transform', 'start': 4181.319, 'duration': 5.851}
+{'text': 'but we sort of lost that because we', 'start': 4184.46, 'duration': 5.44}
+{'text': 'figured out that if we add a bunch of', 'start': 4187.17, 'duration': 5.069}
+{'text': 'mechanisms in robots we can make', 'start': 4189.9, 'duration': 4.14}
+{'text': 'something adapt like the nest thermostat', 'start': 4192.239, 'duration': 4.201}
+{'text': 'replaced the previous material based', 'start': 4194.04, 'duration': 5.22}
+{'text': 'thermostat and just put a computer there', 'start': 4196.44, 'duration': 4.41}
+{'text': 'and you know in my house the nest art', 'start': 4199.26, 'duration': 3.24}
+{'text': 'that just broke after a year in your', 'start': 4200.85, 'duration': 4.41}
+{'text': 'life that sounds but the other', 'start': 4202.5, 'duration': 4.17}
+{'text': 'thermostat lasts for hundreds of', 'start': 4205.26, 'duration': 2.97}
+{'text': "hundreds of years and it's not saying we", 'start': 4206.67, 'duration': 3.0}
+{'text': 'should just go backwards and use all the', 'start': 4208.23, 'duration': 3.0}
+{'text': "things before it's more saying that now", 'start': 4209.67, 'duration': 3.75}
+{'text': 'we have all these new capabilities so we', 'start': 4211.23, 'duration': 4.83}
+{'text': 'can actually go far beyond that if we go', 'start': 4213.42, 'duration': 4.86}
+{'text': 'if we start to tap into the material', 'start': 4216.06, 'duration': 4.71}
+{'text': 'capabilities again like we used to with', 'start': 4218.28, 'duration': 4.08}
+{'text': 'all of these new capabilities of', 'start': 4220.77, 'duration': 3.84}
+{'text': 'computational digital fabrication we can', 'start': 4222.36, 'duration': 4.23}
+{'text': 'have unbelievable performance that we', 'start': 4224.61, 'duration': 4.2}
+{'text': 'have kind of forgotten about and we now', 'start': 4226.59, 'duration': 3.99}
+{'text': 'just sort of think materials are dumb', 'start': 4228.81, 'duration': 4.619}
+{'text': 'and we have all these brilliant ideas as', 'start': 4230.58, 'duration': 4.5}
+{'text': "designers and we're just gonna force the", 'start': 4233.429, 'duration': 3.06}
+{'text': "materials into place we're gonna be like", 'start': 4235.08, 'duration': 3.5}
+{'text': 'I want you to do that make a chair', 'start': 4236.489, 'duration': 5.011}
+{'text': 'instead of allowing the materials to', 'start': 4238.58, 'duration': 4.329}
+{'text': 'collaborate with us and come up with new', 'start': 4241.5, 'duration': 3.42}
+{'text': 'design capabilities or new performance', 'start': 4242.909, 'duration': 4.98}
+{'text': "so yeah it's sort of like technology", 'start': 4244.92, 'duration': 5.04}
+{'text': 'meets craft and then you can do', 'start': 4247.889, 'duration': 7.051}
+{'text': 'something new with performance that', 'start': 4249.96, 'duration': 7.429}
+{'text': 'being said', 'start': 4254.94, 'duration': 2.449}
+{'text': 'research groups that are like very', 'start': 4258.42, 'duration': 5.94}
+{'text': 'robotic for impurity and my being to', 'start': 4260.64, 'duration': 7.97}
+{'text': 'ever collaborate with people like that', 'start': 4264.36, 'duration': 4.25}
+{'text': "yeah yeah there's a really interesting", 'start': 4271.13, 'duration': 5.95}
+{'text': 'lab called the micro robotics lab at', 'start': 4274.05, 'duration': 4.71}
+{'text': 'Harvard Rob wood runs that and then', 'start': 4277.08, 'duration': 4.65}
+{'text': 'Jennifer Lewis also at Harvard has a lab', 'start': 4278.76, 'duration': 5.729}
+{'text': 'Rob wood is mostly on soft robots so', 'start': 4281.73, 'duration': 5.25}
+{'text': "it's like soft squishy gooey robots that", 'start': 4284.489, 'duration': 4.771}
+{'text': 'crawl across the table that are made out', 'start': 4286.98, 'duration': 5.37}
+{'text': 'of material and pneumatics and squishing', 'start': 4289.26, 'duration': 4.02}
+{'text': 'things', 'start': 4292.35, 'duration': 2.76}
+{'text': 'Jennifer Lewis is more material science', 'start': 4293.28, 'duration': 4.89}
+{'text': 'a lot of different printing stuff', 'start': 4295.11, 'duration': 4.68}
+{'text': 'similar to the 40 printing but I like', 'start': 4298.17, 'duration': 4.95}
+{'text': "really micro scales there's a lot of", 'start': 4299.79, 'duration': 5.4}
+{'text': 'people that are kind of around our', 'start': 4303.12, 'duration': 5.82}
+{'text': 'sphere but have different agendas you', 'start': 4305.19, 'duration': 5.58}
+{'text': "know we've just taken this kind of macro", 'start': 4308.94, 'duration': 5.489}
+{'text': 'scale material fabrication route other', 'start': 4310.77, 'duration': 6.53}
+{'text': 'people are much more interested in like', 'start': 4314.429, 'duration': 5.911}
+{'text': 'biomimetics or some other agenda or like', 'start': 4317.3, 'duration': 5.8}
+{'text': 'soft robots or micro robots edge and or', 'start': 4320.34, 'duration': 4.62}
+{'text': 'really into material science and', 'start': 4323.1, 'duration': 4.38}
+{'text': 'developing new material capabilities you', 'start': 4324.96, 'duration': 3.719}
+{'text': "know everything I've shown you in this", 'start': 4327.48, 'duration': 4.17}
+{'text': 'presentation is off the shelf standard', 'start': 4328.679, 'duration': 5.071}
+{'text': "materials we haven't invented any new", 'start': 4331.65, 'duration': 4.049}
+{'text': 'material so all of those capabilities', 'start': 4333.75, 'duration': 4.08}
+{'text': 'are just about the combination of', 'start': 4335.699, 'duration': 4.29}
+{'text': 'material properties but there are many', 'start': 4337.83, 'duration': 3.659}
+{'text': 'research labs who are inventing new', 'start': 4339.989, 'duration': 3.361}
+{'text': 'materials from scratch that have like', 'start': 4341.489, 'duration': 5.19}
+{'text': 'crazy unbelievable properties and so', 'start': 4343.35, 'duration': 4.95}
+{'text': 'yeah sometimes we collaborate with some', 'start': 4346.679, 'duration': 3.661}
+{'text': 'of those researchers other times we have', 'start': 4348.3, 'duration': 3.93}
+{'text': 'similar goals but different approaches', 'start': 4350.34, 'duration': 4.379}
+{'text': "you know I think there's definitely one", 'start': 4352.23, 'duration': 5.34}
+{'text': "argument to say like I I'm taking a sort", 'start': 4354.719, 'duration': 6.471}
+{'text': 'of like provocative stance about', 'start': 4357.57, 'duration': 5.76}
+{'text': 'materials on the future of robots but', 'start': 4361.19, 'duration': 4.72}
+{'text': "certainly there's a hybrid scenario", 'start': 4363.33, 'duration': 5.19}
+{'text': 'where you know computers are and robots', 'start': 4365.91, 'duration': 4.019}
+{'text': 'are really good at certain things like', 'start': 4368.52, 'duration': 4.35}
+{'text': "repetition and and precision they're", 'start': 4369.929, 'duration': 4.981}
+{'text': 'really good at global communication like', 'start': 4372.87, 'duration': 3.72}
+{'text': "it's hard for me to hold up a piece of", 'start': 4374.91, 'duration': 3.63}
+{'text': 'wood and for that wood to communicate', 'start': 4376.59, 'duration': 3.21}
+{'text': 'with another piece of wood in the back', 'start': 4378.54, 'duration': 4.199}
+{'text': "of the room but it's really easy for you", 'start': 4379.8, 'duration': 5.37}
+{'text': 'know a computer to do that so there are', 'start': 4382.739, 'duration': 4.111}
+{'text': 'certain things that materials are not so', 'start': 4385.17, 'duration': 2.58}
+{'text': 'good at and', 'start': 4386.85, 'duration': 2.61}
+{'text': 'electronics and robotics are very good', 'start': 4387.75, 'duration': 3.48}
+{'text': "and you know there's definitely a more", 'start': 4389.46, 'duration': 3.18}
+{'text': 'elegant solution where you could combine', 'start': 4391.23, 'duration': 5.19}
+{'text': 'some of those for sure you know more for', 'start': 4392.64, 'duration': 5.49}
+{'text': "like our own clarity we've just tried to", 'start': 4396.42, 'duration': 4.02}
+{'text': 'take a specific agenda but but yeah', 'start': 4398.13, 'duration': 9.93}
+{'text': "there's a hybrid approach I was thinking", 'start': 4400.44, 'duration': 14.03}
+{'text': 'on the idea for the self-assembly more', 'start': 4408.06, 'duration': 8.76}
+{'text': 'things smarter materials are kind of', 'start': 4414.47, 'duration': 7.47}
+{'text': 'dealing with this question of agency and', 'start': 4416.82, 'duration': 12.51}
+{'text': 'what it is that a future and in that', 'start': 4421.94, 'duration': 9.07}
+{'text': "context I'm also wondering about the", 'start': 4429.33, 'duration': 7.2}
+{'text': 'problem of Labor man-made things so then', 'start': 4431.01, 'duration': 9.18}
+{'text': 'this region should keep you ever related', 'start': 4436.53, 'duration': 4.53}
+{'text': 'with this or not', 'start': 4440.19, 'duration': 5.04}
+{'text': 'with the this smart materials dealing', 'start': 4441.06, 'duration': 5.31}
+{'text': 'people that are done', 'start': 4445.23, 'duration': 3.39}
+{'text': 'no way so what is the relationship', 'start': 4446.37, 'duration': 6.21}
+{'text': 'between when humans interact with this', 'start': 4448.62, 'duration': 6.03}
+{'text': 'did you know building that promise thank', 'start': 4452.58, 'duration': 4.02}
+{'text': 'you for example the last piece of the', 'start': 4454.65, 'duration': 4.44}
+{'text': "rock right awkward on the five you're", 'start': 4456.6, 'duration': 5.7}
+{'text': 'all just taking up this right okay so', 'start': 4459.09, 'duration': 5.51}
+{'text': "it's", 'start': 4462.3, 'duration': 2.3}
+{'text': 'yeah for a while I was interested in', 'start': 4465.11, 'duration': 5.89}
+{'text': 'this thought experiment that what if you', 'start': 4469.38, 'duration': 3.179}
+{'text': 'had a bunch of components and you just', 'start': 4471.0, 'duration': 3.69}
+{'text': 'dropped them in the middle of a park or', 'start': 4472.559, 'duration': 5.281}
+{'text': 'a square could you ensure that as people', 'start': 4474.69, 'duration': 5.34}
+{'text': 'played with them and built stuff you', 'start': 4477.84, 'duration': 4.799}
+{'text': 'could guarantee that it would build XYZ', 'start': 4480.03, 'duration': 3.899}
+{'text': "like they didn't even know what it was", 'start': 4482.639, 'duration': 2.971}
+{'text': 'they just show up and they find these', 'start': 4483.929, 'duration': 3.931}
+{'text': 'parts and the parts cooked together and', 'start': 4485.61, 'duration': 5.31}
+{'text': 'it then has collectively they build some', 'start': 4487.86, 'duration': 4.65}
+{'text': "super precise thing that they didn't", 'start': 4490.92, 'duration': 3.569}
+{'text': 'even know of that would be super', 'start': 4492.51, 'duration': 5.25}
+{'text': 'interesting and that kind of addresses', 'start': 4494.489, 'duration': 5.34}
+{'text': 'the problem of like communication and', 'start': 4497.76, 'duration': 3.81}
+{'text': 'instructions and precision and all that', 'start': 4499.829, 'duration': 3.571}
+{'text': 'kind of stuff that it would be in in the', 'start': 4501.57, 'duration': 4.799}
+{'text': 'materials we never did that project yeah', 'start': 4503.4, 'duration': 5.549}
+{'text': "but I think it's an interesting scenario", 'start': 4506.369, 'duration': 6.75}
+{'text': 'that that could be around I mean you', 'start': 4508.949, 'duration': 6.121}
+{'text': "know in some ways that's the that's the", 'start': 4513.119, 'duration': 3.631}
+{'text': 'reason people arguing for robotics', 'start': 4515.07, 'duration': 3.719}
+{'text': 'rather than people in construction or', 'start': 4516.75, 'duration': 3.3}
+{'text': 'manufacturing because people make', 'start': 4518.789, 'duration': 2.58}
+{'text': 'mistakes or they have different ways', 'start': 4520.05, 'duration': 2.939}
+{'text': 'about of doing it they have different', 'start': 4521.369, 'duration': 4.62}
+{'text': 'levels of skill speed and all those kind', 'start': 4522.989, 'duration': 5.13}
+{'text': 'of things and that built that hads', 'start': 4525.989, 'duration': 3.721}
+{'text': 'tolerance to whatever you build an', 'start': 4528.119, 'duration': 4.801}
+{'text': "imprecision and that's why in that kind", 'start': 4529.71, 'duration': 6.15}
+{'text': 'of craft scenario often it was like low', 'start': 4532.92, 'duration': 5.099}
+{'text': 'numbers of people and there was an', 'start': 4535.86, 'duration': 4.23}
+{'text': 'intimate knowledge with joints and those', 'start': 4538.019, 'duration': 4.08}
+{'text': 'joints would kind of overcome the lack', 'start': 4540.09, 'duration': 5.31}
+{'text': 'of precision in the human but without', 'start': 4542.099, 'duration': 6.81}
+{'text': 'that you have basically like propagating', 'start': 4545.4, 'duration': 6.029}
+{'text': 'failures propagating tolerance as people', 'start': 4548.909, 'duration': 3.75}
+{'text': 'build more and more it gets worse and', 'start': 4551.429, 'duration': 3.09}
+{'text': 'worse worse and every trade has', 'start': 4552.659, 'duration': 3.21}
+{'text': 'different tolerance and they try to', 'start': 4554.519, 'duration': 2.97}
+{'text': "interface the best they can but that's", 'start': 4555.869, 'duration': 3.42}
+{'text': 'you know where a lot of the problems', 'start': 4557.489, 'duration': 4.641}
+{'text': 'come so in certain contexts like cars', 'start': 4559.289, 'duration': 6.091}
+{'text': "it's great to have like automation as", 'start': 4562.13, 'duration': 4.989}
+{'text': 'much as possible and the goal is to have', 'start': 4565.38, 'duration': 5.339}
+{'text': 'like 100% automation but they make many', 'start': 4567.119, 'duration': 5.931}
+{'text': 'many many cars the exact same way', 'start': 4570.719, 'duration': 4.831}
+{'text': 'whereas in the building scenario you', 'start': 4573.05, 'duration': 7.089}
+{'text': 'make one typically or maybe a few other', 'start': 4575.55, 'duration': 8.16}
+{'text': "than like you know housing maybe here's", 'start': 4580.139, 'duration': 5.1}
+{'text': "a context where you build many but it's", 'start': 4583.71, 'duration': 2.699}
+{'text': 'a kind of different scenario than', 'start': 4585.239, 'duration': 2.681}
+{'text': 'manufacturing so', 'start': 4586.409, 'duration': 4.451}
+{'text': "it's interesting and then the question", 'start': 4587.92, 'duration': 6.27}
+{'text': 'of like failure is interesting so on the', 'start': 4590.86, 'duration': 6.75}
+{'text': "rocks it's really bad for vibration it's", 'start': 4594.19, 'duration': 6.63}
+{'text': 'really good for load so like static load', 'start': 4597.61, 'duration': 6.9}
+{'text': 'and impact is really good for one of the', 'start': 4600.82, 'duration': 6.09}
+{'text': "ways to make it really if you don't care", 'start': 4604.51, 'duration': 4.35}
+{'text': 'so much about the reversibility but you', 'start': 4606.91, 'duration': 3.78}
+{'text': 'care about the speed for construction', 'start': 4608.86, 'duration': 4.02}
+{'text': 'you can coat the fibers if you coat the', 'start': 4610.69, 'duration': 4.35}
+{'text': "fibers it'll be incredibly strong good", 'start': 4612.88, 'duration': 5.1}
+{'text': 'for a vibration good for load impact all', 'start': 4615.04, 'duration': 4.29}
+{'text': "that kind of stuff it'll stop the five", 'start': 4617.98, 'duration': 4.41}
+{'text': 'year old from disassembling it but then', 'start': 4619.33, 'duration': 4.77}
+{'text': "you can't necessarily reverse it you", 'start': 4622.39, 'duration': 5.43}
+{'text': 'kind of trade-off the reversibility so', 'start': 4624.1, 'duration': 5.7}
+{'text': "you know that's something you could", 'start': 4627.82, 'duration': 4.62}
+{'text': 'potentially do in each one of those I', 'start': 4629.8, 'duration': 4.41}
+{'text': 'think the ideal scenario is that you', 'start': 4632.44, 'duration': 4.83}
+{'text': 'have like is it a is it a fabrication or', 'start': 4634.21, 'duration': 7.44}
+{'text': 'manufacturing agenda and if so can you', 'start': 4637.27, 'duration': 6.0}
+{'text': 'design the activation energy so that', 'start': 4641.65, 'duration': 3.54}
+{'text': "it's only happens in the construction", 'start': 4643.27, 'duration': 3.36}
+{'text': "phase and it doesn't happen in the", 'start': 4645.19, 'duration': 3.66}
+{'text': "application phase so you don't have", 'start': 4646.63, 'duration': 3.87}
+{'text': 'accidental failures or is it a', 'start': 4648.85, 'duration': 3.78}
+{'text': 'performance so like I take a sheet of', 'start': 4650.5, 'duration': 3.78}
+{'text': 'material I trigger it with some', 'start': 4652.63, 'duration': 3.569}
+{'text': 'temperature that would never be normally', 'start': 4654.28, 'duration': 3.959}
+{'text': 'found I get it to transform into', 'start': 4656.199, 'duration': 4.401}
+{'text': "whatever the product is it's never gonna", 'start': 4658.239, 'duration': 4.771}
+{'text': "unfold or it's not gonna fold again", 'start': 4660.6, 'duration': 4.78}
+{'text': 'because that heat is way above human', 'start': 4663.01, 'duration': 4.229}
+{'text': "temperature whatever that's an easy one", 'start': 4665.38, 'duration': 3.66}
+{'text': "if it's about performance", 'start': 4667.239, 'duration': 3.661}
+{'text': 'I want a shirt that opens and closes', 'start': 4669.04, 'duration': 3.84}
+{'text': 'based on temperature how do you make', 'start': 4670.9, 'duration': 3.18}
+{'text': "sure that it doesn't do it when you", 'start': 4672.88, 'duration': 2.64}
+{'text': "don't want it and that's kind of the", 'start': 4674.08, 'duration': 2.82}
+{'text': "scenario you're talking about and so you", 'start': 4675.52, 'duration': 3.179}
+{'text': 'need to think about what is the everyday', 'start': 4676.9, 'duration': 3.779}
+{'text': 'use what types of activation energy do', 'start': 4678.699, 'duration': 4.141}
+{'text': "you have and then there's another one", 'start': 4680.679, 'duration': 4.681}
+{'text': 'which is a sort of disassembly which is', 'start': 4682.84, 'duration': 4.53}
+{'text': 'that if you if you can use these', 'start': 4685.36, 'duration': 3.87}
+{'text': 'activation energies to assemble things', 'start': 4687.37, 'duration': 3.75}
+{'text': 'can you have other ones that will', 'start': 4689.23, 'duration': 3.81}
+{'text': 'automatically disassemble it but ones', 'start': 4691.12, 'duration': 3.99}
+{'text': "that'll never naturally happen again so", 'start': 4693.04, 'duration': 6.63}
+{'text': "I can you use I don't know can you use", 'start': 4695.11, 'duration': 7.319}
+{'text': 'like electricity or some type of like', 'start': 4699.67, 'duration': 5.31}
+{'text': 'frequency to disassemble it but that', 'start': 4702.429, 'duration': 6.091}
+{'text': "wouldn't be naturally found and you use", 'start': 4704.98, 'duration': 5.43}
+{'text': 'extreme temperature to assemble it and', 'start': 4708.52, 'duration': 3.449}
+{'text': "maybe there's another activation err so", 'start': 4710.41, 'duration': 2.91}
+{'text': "you're basically coupling like many", 'start': 4711.969, 'duration': 3.21}
+{'text': 'different materials that have different', 'start': 4713.32, 'duration': 2.81}
+{'text': 'types of activation', 'start': 4715.179, 'duration': 3.051}
+{'text': 'for different different scenarios but', 'start': 4716.13, 'duration': 3.63}
+{'text': "anyway that's a much more complicated", 'start': 4718.23, 'duration': 4.89}
+{'text': 'scenario you know most of these are just', 'start': 4719.76, 'duration': 4.709}
+{'text': 'like trying to get to the point where we', 'start': 4723.12, 'duration': 3.269}
+{'text': 'show it possible and then you can go', 'start': 4724.469, 'duration': 35.331}
+{'text': 'beyond that if you also medically', 'start': 4726.389, 'duration': 33.411}
+{'text': 'configuration can do is to help me', 'start': 4761.07, 'duration': 3.39}
+{'text': 'understand for about collections to', 'start': 4762.87, 'duration': 4.08}
+{'text': 'space meaning it can become a full-scale', 'start': 4764.46, 'duration': 5.82}
+{'text': 'object to the chair but also an exterior', 'start': 4766.95, 'duration': 4.89}
+{'text': 'well fragmented somehow', 'start': 4770.28, 'duration': 4.17}
+{'text': 'besides sequence of skylight', 'start': 4771.84, 'duration': 17.13}
+{'text': 'what I find really subduction of these', 'start': 4774.45, 'duration': 18.06}
+{'text': 'material animations yeah and what scale', 'start': 4788.97, 'duration': 5.76}
+{'text': 'do you see the limits of them projection', 'start': 4792.51, 'duration': 7.35}
+{'text': 'like how far these material biologies of', 'start': 4794.73, 'duration': 7.65}
+{'text': 'the that are now being active light is', 'start': 4799.86, 'duration': 7.11}
+{'text': 'their limit yeah I mean a lot of these', 'start': 4802.38, 'duration': 7.2}
+{'text': "are scale independent so that's one of", 'start': 4806.97, 'duration': 3.93}
+{'text': "the things we're trying to show it", 'start': 4809.58, 'duration': 3.0}
+{'text': 'self-assembly is that it can happen at', 'start': 4810.9, 'duration': 3.39}
+{'text': 'this largest of scales and the smallest', 'start': 4812.58, 'duration': 4.08}
+{'text': "of scales it's really mostly about", 'start': 4814.29, 'duration': 4.68}
+{'text': 'dialing into that that length scale that', 'start': 4816.66, 'duration': 3.6}
+{'text': "you're working out what are the", 'start': 4818.97, 'duration': 3.66}
+{'text': 'materials what are the forces you know', 'start': 4820.26, 'duration': 4.68}
+{'text': 'human scales we have gravity but', 'start': 4822.63, 'duration': 4.8}
+{'text': 'molecular scales that there is no such', 'start': 4824.94, 'duration': 4.23}
+{'text': 'thing as gravity but surface tension is', 'start': 4827.43, 'duration': 3.87}
+{'text': 'you know Vander Waal forces are massive', 'start': 4829.17, 'duration': 3.78}
+{'text': "forces that we just don't experience at", 'start': 4831.3, 'duration': 5.52}
+{'text': "the human scale so that's you know those", 'start': 4832.95, 'duration': 5.55}
+{'text': 'are kind of differences in nuances that', 'start': 4836.82, 'duration': 3.75}
+{'text': 'you need to you need to be designing', 'start': 4838.5, 'duration': 3.87}
+{'text': 'around those differences at different', 'start': 4840.57, 'duration': 3.81}
+{'text': 'scales but the goal would be that these', 'start': 4842.37, 'duration': 3.81}
+{'text': 'systems could go across many different', 'start': 4844.38, 'duration': 5.07}
+{'text': 'scales same with the materials like', 'start': 4846.18, 'duration': 5.37}
+{'text': 'often people will be like oh well the', 'start': 4849.45, 'duration': 3.72}
+{'text': "wood you know it's not gonna be strong", 'start': 4851.55, 'duration': 3.78}
+{'text': 'enough to make a chair or a desk it only', 'start': 4853.17, 'duration': 4.35}
+{'text': 'works with you know a couple inches and', 'start': 4855.33, 'duration': 6.18}
+{'text': 'but we know that wood for example you', 'start': 4857.52, 'duration': 6.69}
+{'text': 'know a tree root moves buildings and', 'start': 4861.51, 'duration': 5.64}
+{'text': 'sidewalks or in when they would do', 'start': 4864.21, 'duration': 5.28}
+{'text': 'mining they used to often use wood and', 'start': 4867.15, 'duration': 4.38}
+{'text': 'then swell the wood and it would crack', 'start': 4869.49, 'duration': 4.5}
+{'text': 'the stone and then shear the stone off', 'start': 4871.53, 'duration': 4.74}
+{'text': 'so they can have really significant', 'start': 4873.99, 'duration': 4.2}
+{'text': 'forces and large-scale transformations', 'start': 4876.27, 'duration': 4.23}
+{'text': "it's not just about like super thin", 'start': 4878.19, 'duration': 4.47}
+{'text': "surfaces that fold so I'm interested in", 'start': 4880.5, 'duration': 4.94}
+{'text': 'in scaling them up and down', 'start': 4882.66, 'duration': 5.01}
+{'text': 'programmatically most of the things', 'start': 4885.44, 'duration': 3.48}
+{'text': "we've been looking at is like", 'start': 4887.67, 'duration': 4.41}
+{'text': 'reconfiguration for like architectural', 'start': 4888.92, 'duration': 6.31}
+{'text': "spaces so lots of we've done a lot of", 'start': 4892.08, 'duration': 5.37}
+{'text': 'like reconfigurable furniture projects', 'start': 4895.23, 'duration': 3.68}
+{'text': 'and office spaces and like', 'start': 4897.45, 'duration': 3.59}
+{'text': 'from one thing to another thing or like', 'start': 4898.91, 'duration': 4.8}
+{'text': 'more up in the ceiling or expand or', 'start': 4901.04, 'duration': 4.56}
+{'text': 'contract or open and close or change', 'start': 4903.71, 'duration': 7.29}
+{'text': "porosity or visibility so it's mostly", 'start': 4905.6, 'duration': 7.83}
+{'text': 'about those kind of systems like how can', 'start': 4911.0, 'duration': 5.76}
+{'text': "we make one thing whether that's a wall", 'start': 4913.43, 'duration': 8.43}
+{'text': 'or a chair or a screen or space you know', 'start': 4916.76, 'duration': 6.69}
+{'text': 'a series of walls and it can transform', 'start': 4921.86, 'duration': 3.63}
+{'text': 'into something else', 'start': 4923.45, 'duration': 6.66}
+{'text': 'I think less about like a global agenda', 'start': 4925.49, 'duration': 9.06}
+{'text': 'to program more about like more moments', 'start': 4930.11, 'duration': 7.65}
+{'text': 'like in this moment I may need this or I', 'start': 4934.55, 'duration': 5.28}
+{'text': 'may want that and maybe it could do', 'start': 4937.76, 'duration': 4.32}
+{'text': "something else in the next moment it's", 'start': 4939.83, 'duration': 5.07}
+{'text': 'kind of I guess more focused than the', 'start': 4942.08, 'duration': 4.86}
+{'text': "larger agenda I'm like this is a new way", 'start': 4944.9, 'duration': 5.06}
+{'text': 'to approach program', 'start': 4946.94, 'duration': 3.02}
+{'text': '[Applause]', 'start': 4955.7, 'duration': 3.17}

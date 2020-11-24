@@ -1,0 +1,2080 @@
+pleasure to be here it's my first time
+being at Cooper so like you heard I'm
+faculty in the Department of
+Architecture at MIT I have a few main
+roles outside of MIT I also run the 3d
+printing and additive manufacturing
+journal so the the journal was started a
+number of years ago by hot Lipson from
+Cornell and then I took over I think
+three years ago and the journal is
+interesting for me and you'll see how it
+it feeds into some of the research but
+it's really the only journal focusing on
+all things 3d printing additive
+manufacturing of all sorts and that in a
+way forces it to be across all
+disciplines so it's not just designers
+and artists and architects it's also
+mechanical engineers and material
+scientists and computer scientists and
+and you know we're really interested in
+in the forefront of this this world
+another role though is running the
+research lab as you heard so I started
+the research lab at MIT it's called the
+self-assembly lab but before that I have
+I studied architecture I have a
+background in architecture and then came
+to MIT for design computation and
+computer science we have a growing team
+now from many different backgrounds so
+we have the 15 people total in the lab
+these are some of the full-time
+researchers so we have undergrads grads
+research scientists visiting artists
+product designers mechanical engineers
+computer scientists biologists a lot of
+different backgrounds that make up the
+research lab and the way that I got into
+this actually is through software so as
+I said I was studying architecture and
+then got really interested in the limits
+of our design tools this is the first
+CAD tool this is Sutherland sketch pad
+that was invented in 1960 something I
+believe in MIT and that obviously has
+contemporary counterparts and
+sophisticated design tools computational
+tools simulation analysis structural you
+name it we can have sophisticated tools
+that allow us to imagine things
+analyze things test things create things
+and all of that computational power
+became really fascinating to me because
+in a way code became a new language for
+design just like the pencil or the
+t-square or CAD tools or many other
+tools that were offered as architects
+and designers code was now a language
+that we could use to imagine and create
+things and that nearly the same time as
+that CAD tool was developed the first
+CNC machine was invented at MIT
+this is 1955 and the first time they
+connected a computer with a milling
+machine that obviously also has its
+contemporaries in digital fabrication so
+3d printing CNC routing laser cutters
+water jets etc 3d printing I think the
+first machine was 1985 by Chuck Hall so
+you know these tools have been around
+but only in the past number of decades
+have they connected with the
+architecture and design world and and
+right as I was graduating from a five
+year be arc I went to MIT and I was it
+was really the kind of influx of this I
+was teaching myself how to write code I
+was developing software tools I was
+getting really into computational things
+and digital fabrication was flooding the
+scene every school was trying to have
+more and more 3d printers more and more
+robots more and more CNC machines and
+laser cutters and you know everyone was
+kind of tooling up and just as I was
+seeing code would become a new language
+for design I was seeing code become a
+new language to make things so we could
+imagine things we could computationally
+generate things and then we could
+fabricate things that we couldn't have
+fabricated before because of these new
+tools so it sort of exploded our
+opportunities as designers but it became
+more fascinated about what happens after
+that so yes we can design these
+sophisticated things yes we can
+fabricate customized parts but
+essentially it becomes a big jigsaw
+puzzle so we see all of these
+fascinating installations happening
+around the world at all the schools and
+practices or even things like the
+serpentine pavilion
+PSone you know these are famous examples
+of the pavilion influx and in our
+culture and most of that in at least the
+recent recent number of decades have
+been kind of exaggerated because of
+computational capabilities and digital
+fabrication tools and and everyone talks
+about mass customization so whenever you
+hear about 3d printing or laser cutters
+or CNC routers you know not only
+architects and designers but across the
+manufacturing space people are always
+talking about mass customization like 3d
+printing gives you this free complexity
+supposedly that you can make anything
+you want and it doesn't cost any more to
+make something complex that it does to
+make something simple and in some ways
+we all drink this kool-aid but the
+problem I kept seeing is that you know
+this is an installation we did and we
+did a number of other installations
+around the world many other people are
+doing this but no one wants to talk
+about the blood sweat and tears that
+went into it no one wants to talk about
+the hundreds or hundreds of thousands of
+rivets bolts screws man-hours and
+student labor essentially that's
+building all these projects and so even
+if you have mass customization the big
+problem is assembly so it basically the
+argument is I could make every component
+of a building unique and it doesn't cost
+me any more money well that doesn't make
+any sense if you think about assembly
+because if every component is unique you
+have a big assembly problem because now
+you have to find exactly the right part
+in this jigsaw puzzle and figure out
+exactly where it goes so it's it's a
+logistics nightmare so I was really
+interested in that problem like why do
+we have all these computational tools
+and we have all this code as a new
+language for machines why can't we
+translate that to construction can code
+become a new language for construction
+so the way that we think that we can do
+that is through materials by looking at
+materials specifically in trying to
+embed more and more material information
+input embed more capabilities in our
+physical materials then those materials
+could help us make decisions those
+materials could potentially assemble
+themselves they could make us or enable
+us to make better things they could
+contain information
+and actuation in the materials
+themselves so it's you know we're seeing
+software we're seeing fabrication and
+we're trying to make a new proposition
+for construction you know a whole nother
+direction could have been well let's
+just use robots and have like massive
+robots that build everything for us but
+we're specifically more interested in
+how do we look at materials in a new way
+and then more capabilities and materials
+so we take that kind of stance and this
+is the scale and the kind of sectors
+that were interested in construction and
+manufacturing product assembly
+distribution logistics product
+performance this sort of human scale
+world and probably for all of you and
+just like me with an architecture
+background this is nothing new like this
+is the world that we operate in the
+human scale world but to me this is
+really important and interesting because
+for two reasons number one most people
+who are talking about self-assembly or
+programmable materials outside of what
+I'm gonna tell you that's all happening
+at the micro to nano scale so there's
+really a boom in synthetic biology and
+material science happening right now
+where there's all these capabilities
+that are emerging but they're micro -
+nano scale we can't see them we can't
+feel them they don't directly impact our
+everyday world at least in the product
+kind of building landscaping in that
+human scale world so it's quite
+interesting for us to think about these
+principles at the human scale and then
+the other reason that it's important for
+us to look at this scale is because if
+you look at how things are built at the
+micro and the nano scale go all the way
+up to the human scale then skip over the
+human scale for a second and then think
+about how everything is built at
+planetary scales so for example with
+planetary skills there's no like 3d
+printers that make planets
+there's no machines that make weather
+patterns there's no one that dictates
+traffic jams or flocks of birds or
+schools of fish and a lot of these
+things at huge scales and you know
+population scale all the way up to
+planetary scale they build themselves
+there's no global designer
+there's no construction process and the
+same thing happens at smaller than the
+human scale so think about how our
+bodies are built through DNA think about
+how any natural system is built think
+about how anything in chemistry and
+physics work there is no top-down design
+there's no one that sits around and says
+like I think this is what a human should
+look like and then I'm gonna build like
+a DNA sledgehammer and I'm gonna put the
+DNA together piece by piece so there
+there's really no such thing as top-down
+design or top-down construction outside
+of the human scale so that our human
+scale we have created this thing of we
+have like master visions and then we
+think about these designs and then we
+send these designs either to people - or
+robots and people and robots build the
+things that we imagine but that doesn't
+happen anywhere else so that to us is
+really strange like why at the human
+scale are we the only ones that come up
+with these top-down ideas and top-down
+construction processes and what happens
+if there was a kind of different
+perspective on that so the main motif
+that basically every other scale uses to
+build things and to design things is
+called self assembly and
+self-organization so self assembly is
+where you have a bunch of components and
+those components should come together on
+their own without humans or robots and
+those components need to have the
+blueprints inside of them those
+components need the capability to
+interact with each other find one
+another and assemble precise structures
+self-organization is closely related a
+little bit different usually people
+think of self-organization more as like
+traffic jams and schools of fish and
+flocks of birds and these processes that
+basically never have a final state
+they're always fluctuating between
+organization and chaos whereas
+self-assembly often is a final
+configuration there's a final design
+that it moves towards anyway we're
+interested in these processes and trying
+to see if we could use that at the human
+scale so one of the first examples that
+we showed is a project with a molecular
+biologist where we have this glass flask
+we shake it hard in the parts break but
+then we shake it a little bit softer and
+the parts come back to
+so this is a you know real-time video
+it's not reversed or anything I'm just
+shaking it and just by changing the
+amount of energy so if I shake it hard
+it does one thing and if I shake it a
+little bit softer it then assembles
+instead of disassembles and if I don't
+do anything or if I shake it really
+really soft it basically won't assemble
+so the only thing I'm doing is I'm
+changing the amount of energy in the
+system but all of the information is in
+the materials and the way that we know
+that is because if I'm blindfolded it'll
+still build the same thing or if I give
+it to you you're you know random person
+on the street I come up to you and I
+give you this thing in a few seconds or
+minutes you can give it just the right
+amount of energy and it'll always
+assemble the dodecahedron structure even
+if you don't know what it is even if you
+have no prior knowledge there's no
+expertise so it shows that there it's
+basically the opposite of our
+traditional construction mentality like
+normally if we want to build a building
+or we want to build a car you either
+need skilled labor or precise machines
+because no one assumes that having
+unskilled labor or really bad machines
+would lead to successful results you
+always need to have skill or information
+you need to have blueprints and this is
+showing the opposite that there's really
+no information in the human there's no
+skill and the human the information and
+the precision is in the materials the
+human is just giving noisy random energy
+so that was one of the first
+demonstrations that you know this is
+roughly that big that this could happen
+outside of the the micro to nano skills
+and then from that we've experimented
+with lots and lots of different systems
+different environments etc each time
+we're trying to study why does this work
+what can we do with it
+how do we change the parameter so in
+this case what we changed is that every
+unit is different in the previous
+example all the units are the same so
+here they have different geometries and
+they have different lock and key
+mechanisms they're under underwater and
+we have pumps that are agitating the
+system so the parts find one another
+then they assemble into a chair and the
+chair shows that it's not just about
+symmetric structures it's not just about
+dodecahedron there's nothing specific to
+that previous example that is limiting
+it it's not that we can only build
+certain things we can also build
+arbitrary things we can also build human
+design things like chairs or brackets or
+connectors or components things that we
+have come up with that are not just
+naturally found or symmetric you know
+buckyball like structures these are
+these are arbitrary and the way that we
+can show unique components coming
+together is a principle called error
+correction so basically self-assembly
+works because of three three key
+ingredients number one is the energy
+that I talked about you need just the
+right amount of energy not too much
+energy not too much you can do that in
+all sorts of environments you can have
+turbulence you can shake it you can have
+tumblers you're gonna fans a lot of
+different environments number two is the
+geometry the geometry is important
+because if you change the geometry you
+might get a chair or you might get a
+bracket or you might get a dodecahedron
+or you might get something else it's you
+know kind of obvious that as you put
+things together the geometries gonna
+influence the global thing and then the
+most important in my mind is the
+interactions between them how do you
+make sure you know if you had a bunch of
+magnets and you throw a bunch of magnets
+together you're gonna get a big mess
+you're not gonna get anything useful so
+how do you make sure that you're gonna
+get something precise and repeatable and
+not just get a random mess and the way
+that you do that is that principle
+called error correction so basically DNA
+does that by ACTG so there's different
+base pairs called ACTG and they they
+only match the complementary pair so if
+you have a a CCC TTT u whatever it is
+some pattern only the complementary
+pattern will be able to connect and
+every one of those connections is very
+weak so this phenomenon a week local
+bonding so every bond is very weak it's
+popping in and out popping in and out
+all the time and only when you have
+long sequence of correct structures do
+you get much stronger than anyone bond
+so that ensures that your pattern
+basically can zip itself up because if
+any one bond was too strong it could
+never separate itself so you need to
+make sure that you have all these bonds
+that can connect them then you can zip
+themselves up another way you can do
+that is through lock and key mechanism
+so you know in your house or in your car
+you have this lock and key mechanism and
+that's a way that you can match the
+right pattern to the right lock or the
+right key to the right lock and in this
+case we do the same thing with geometry
+so every node has a complementary node
+and only that other node can match it so
+it basically has a lock and key and then
+the last way that you can do that is
+through patterned attraction so think
+about magnets or surface tension or even
+like when you have static electricity
+with a balloon you can actually pattern
+that with positives and negatives and
+the obvious one is is magnets velcro
+does the same you have positive and
+negative velcro and by having certain
+sequences like positive negative or
+positive positive negative negative or
+positive negative positive negative you
+have these patterns that you can make
+and those patterns are only going to be
+matched with the complementary pair and
+so in that way you can ensure that very
+precise structures should assemble even
+if it's a random environment only when
+the two complementary pairs stick will
+they match and then you can grow so any
+one of these is kind of weak but then as
+it grows larger and larger it gets it
+gets more precise and stronger so the
+first one was in a kind of tumbling
+shaking environment the second one was
+in a water tank and then this one that
+I'm going to show you is in an aerial
+environment here on the left-hand side
+you can see all the these are components
+at the nodes they're actually made with
+velcro nodes so we have positive and
+negative velcro and then that's how we
+can pattern to make sure that you know
+certain connections can connect with the
+complementary ones the other thing here
+is that they're all made with 36 inch
+diameter weather balloons so the weather
+balloons
+have helium in them and they can float
+around I'll show you a video and then
+talk about it
+[Music]
+[Music]
+[Music]
+[Laughter]
+so the idea here was that you could have
+components that assemble above the
+airspace or above a construction site in
+the airspace and then come together as
+the helium dies it then comes back to
+the ground and you're left with this
+space frame structure particularly we
+were interested in that concept of that
+provocation for urban construction sites
+or extreme environments places where
+it's hard to get people hard to get
+machines hard to get materials it would
+be beneficial that we could assemble
+without piece by piece
+human precise labor but that we could do
+it in the air and as I showed each one
+of these experiments you know these are
+just three of many that we have done
+they're trying to test something
+different trying to test different scale
+so kind of centimeter scale structures
+up too many metre scale structures
+trying to test different environments
+tumbling versus fluids versus aerial
+structures testing different types of
+connections the lock and key mechanism
+unique geometries versus velcro in this
+case lattice cubic lattice structures
+basically all of this research we really
+think of as our basic research those
+basic research and applied research I'll
+show you some of the applied research in
+a second the basic research in a kind of
+academic setting is typically things
+that you're trying to ask questions
+fundamental questions about what's
+possible ask questions about our world
+why does this happen why doesn't that
+happen if this happens what can we do
+with it what's the logical extent how do
+we push the limits of scale and material
+properties etc so in that way it's sort
+of our our farthest futures are our most
+abstract but you could think about it in
+a way as a future of fabrication or
+future of construction that we're
+imagining that material should have the
+information embedded in
+those materials could be assembling new
+things
+the ultimate goal in my mind is that
+it's not only about pure assembly but
+it's also about how design emerges
+through that process that you know you
+can imagine that chair for example and
+in the same way that our bodies grow and
+adapt or evolve or respond to different
+forces in their environment it would be
+really interesting if you can have some
+materials you do pop deposit them in
+some environments subject them to some
+forces and the design and assembly
+emerges through that environment not
+just that we've predetermined the design
+like we've shown but rather design could
+emerge through the functionality of the
+process so another category of research
+we focus on as I was saying is much more
+applied applied research the goal is
+that you want to take that research and
+it's probably more applicable to many
+everyday applications it's much maybe
+more near term and the goal here so this
+research is called programmable
+materials the goal here is that we want
+to take physical materials and add
+information and capabilities into those
+materials in order to enable them to be
+actuator sensors enable them to have
+computational capabilities or enable
+them to be smarter and have higher
+performance perhaps or to be physically
+active literally transforming themselves
+and the way that we do that is a few key
+ingredients so the first thing that we
+start with is the materials and the
+geometry so you know if you want to
+design a facade system or a chair or you
+know product some other product like a
+garment you're probably going to start
+with the material properties for example
+or that's one place to start so think
+about wood so if you take wood for
+example the second thing you want to
+think about is what kind of activation
+energy can I use to trigger the wood and
+the obvious solution would be moisture
+so we know that woods Wells with
+moisture so we can use that activation
+energy in order to to do something with
+the wood but you could start at the
+opposite end you could say what happens
+if I have a lot of temperature
+in my application like a lot of heat
+then you want to think about materials
+that could be activated by that
+temperature so maybe you're going to use
+a metal or maybe you're gonna use a
+plastic thermoplastic for example so you
+take that material property but you have
+to fabricate it in a way that it has
+very specific geometries in two
+dimensions and three dimensions because
+that geometry is basically encoding the
+information in the structure so it's
+sort of like Braille you have geometric
+information the joints the backbone the
+structure of it and the 2d and 3d
+pattern maybe it's multiple materials or
+maybe it's a single material just like
+wood grain for example the wood grain
+isn't encoding what the wood is going to
+do when it swells and that allows you to
+enable certain type of mechanical
+transformation like folding curling
+stretching shrinking twisting so you can
+take some material activate it with some
+energy and get it to physically
+transform so the way that we started
+this is with a project called 4d
+printing and actually before that when I
+was a grad student I was under Neil
+Gershenfeld slab and the Center for bits
+and atoms and we were under a DARPA
+grant so DARPA had a program called
+programmable matter I was 10 plus years
+ago and programmable matter at the time
+meant to program matter we would likely
+use robots so basically everyone in the
+grant was developing smaller and smaller
+robots and probably because of the
+architecture background I started to
+build larger and larger robots you know
+thinking that maybe we could build these
+large modules that were robotic and they
+could reconfigure assemble themselves
+transform etc but quickly I started to
+question that that principle because if
+you want to build a building you
+probably don't want to build every brick
+out of a robot because if every building
+component is a robot it's likely gonna
+cost a lot more it's likely gonna fail
+it's likely gonna be harder to assemble
+so it's not that scalable to build
+everything out of robots as you scale up
+for potentially maybe as you scale down
+it makes more sense but but still maybe
+maybe not so we started to think about
+what are other ways that we could
+a program of material to transform and
+then I started this collaboration with
+Auto Dustin Stratasys the goal being
+that we would multi material print so we
+would use sort of the latest printing at
+the time which was the konnex poly jet
+printer you could deposit many different
+materials at the same time by depositing
+those different materials and
+three-dimensional structures and taking
+advantage of different material
+properties we could get these printed
+structures to transform so we print
+different materials the black material
+here is just a rigid a rigid plastic and
+then there's another material that's a
+little bit harder to see in this in this
+video but it's a hydrogel and that
+hydrogel is swells with moisture so you
+print these structures and at every one
+of the joints for example we can have
+different geometries in those geometries
+encode what kind of angle it's going to
+turn into or if it's gonna fold left or
+fold right or if it's gonna curl or
+twist or whatever you want it to do so
+that's how you encode that information
+about what it's going to transform into
+the black materials the structure of the
+backbone the joints all that kind of
+stuff and then the hydrogel when it
+meets moisture it senses that an
+environment and actuates it allows you
+to control it through printing different
+combinations of that thicker material
+will be stronger but slower than a
+material weaker but faster you can have
+different joints for example so we then
+figured out how to do fold and curling
+stretching all these different
+mechanisms so we'd print the structure
+we dip it underwater and then it
+transforms from a line to a cube or a
+line into the letters MIT or a flat
+sheet into a truncated octahedron or a
+flat sheet that can do curved crease
+origami into a saddle shape flat sheet
+that can expand and contract to create
+double curvature without any manual
+forming a 50-foot long strand that
+folded into a protein we printed a lot
+of different structures that went from 1
+D 2 to D 1 D 2 3d 2d to 3d different
+types of transformation each one of
+those experiments was trying to test
+something different in the beginning we
+only knew how to
+twofold things that we went to curling
+and then we went to arbitrary angles and
+twisting and expanding and contracting
+but after that work one main question
+kept coming up how do we do this with
+other materials and other machines
+because a lot of companies started to
+approach us and say can we do it for
+clothing or shoes or cars or planes or
+medical devices and it wasn't just about
+plastics and it wasn't just about
+printing you know we had shown it in
+this one specific way but could we do
+the same thing with other materials and
+other manufacturing processes and that's
+where we came up with this much larger
+agenda that we call programmable
+materials so we want to be able to
+ideally take any material you can think
+of textiles metal wood plastic foam
+rubber and take different types of
+fabrication processes printing sure but
+also lamination injecting you know
+welding weaving knitting you know all
+these different fabrication processes to
+arrive at similar results but with new
+new materials so this started with a
+group of collaborators and product
+designers and computer scientists
+mathematicians material companies
+software companies and now it's grown
+into many many many other other
+collaborations we've worked on a number
+of different materials the first
+category is on composites like carbon
+fiber Kevlar fiberglass that can
+transform I'll show you some of that
+another category is on textiles and we
+have a lot of work on textiles that I'll
+show and you have even even more recent
+work looking at how textiles can
+transform but I'll start with wood
+because I hinted at it before wood is a
+really interesting example there's a
+long lineage of using wood as an active
+material so you can think about Japanese
+joinery for example or boat building or
+like wine or other alcoholic barrels
+wood barrels or Eames furniture all of
+these examples use moisture to swell
+wood and when you get the wood to swell
+it then becomes active often in the in
+the joints or the boat example it's
+about precision and water proofing you
+can use the moisture transfer
+in order to make the material swell and
+be more precise in the Eames example
+they would steam bend plywood to get the
+the famous forms with the chair and then
+in the more contemporary example on the
+right alkane mangas this group in in
+Stuttgart uses wood veneer to open and
+close and that based on the grain
+pattern of the wood it opens and closes
+with different curvature but the two
+main challenges here in the Eames
+example there's a lot of energy that
+goes into forcing the plywood into shape
+so they have you know really complex
+molds and they need a lot of steam and
+they force the plywood into the shape
+that they have predetermined so they're
+not really taking advantage of the
+natural capability of wood to curl or to
+help them design new capabilities
+forcing it and then on the right hand
+side it has the beautiful elegance of
+responding to the wood grain but the
+problem is you're limited by the grain
+that you can find so I think about that
+is the sort of tree in the forest
+problem you don't want to have to go to
+the forest to find just the right tree
+that has just the right grain properties
+to do whatever you want you want the
+natural property wood but you want the
+flexibility in design so what we started
+to do is actually print wood and by
+printing with wood we can then create
+our own grain we can create different
+densities and different 2d and 3d
+structures of wood but still have the
+natural property of the wood that would
+swell with moisture so we originally
+started to make our own filaments you
+can now buy wood filaments so we extrude
+it it's basically sawdust and plastic
+it's sort of like an MDF you can extrude
+with that and then you print your own
+grain so you design different grain
+patterns you then subjected to moisture
+you can either dip it under water or you
+can change the moisture in the
+environment and by changing the grain
+pattern you get different behaviors
+curling behaviors so you can have a wood
+that curls or twists like this or you
+can have wood that folds to 90-degree
+angles or any arbitrary angle you
+would the curls into furniture like
+shapes a lot of different behaviors
+you're gonna have fish scales with wood
+all sorts of different shapes that would
+naturally wouldn't do you can have total
+freedom in the design that the behavior
+of the wood is the same so then we did
+the knot to the Eames we made the the
+famous plywood elephant but we showed
+that you could just print the flat
+pattern just by subjecting it to
+moisture you can get the elephant to
+form itself into all the complexity just
+by designing that complex grain and then
+another project we did more recently
+with Christoph the product designer was
+these flat sheets so the idea was that
+we would print these flat sheets really
+really fast with minimal materials
+there's no extra support materials
+they're just printed flat you would ship
+them in vacuum pack seals but with
+moisture inside of the package so that
+when you opened it it then transforms
+into these bowls and baskets so the flat
+sheets are easy to print these bowls and
+baskets would be nearly impossible or
+very difficult and time-consuming but
+they can transform themselves just from
+the moisture embedded in the package so
+then another category was talking about
+is the composites so we take in this
+case carbon fiber but it's a very
+special kind that's fully flexible so
+normally carbon fiber is rigid and
+strong in this case it's very strong and
+light but flexible and then we print or
+bond or spray onto that carbon fiber
+with different polymers and then as the
+temperature changes in this case the
+carbon fiber can fold repeatedly to
+different angles so by changing the
+pattern that we print just like the wood
+grain if we print different patterns in
+relationship to the carbon fiber weave
+we can get it to twist or curl versus
+fold to a specific angle by changing the
+different materials that we print or
+bond onto the carbon fiber we can get it
+to respond to moisture versus
+temperature so we can change the
+activation or we can change the angle or
+behavior of it so an example
+collaboration with this is a project
+that we did with Airbus and they came to
+us with this challenge at the top of
+their engine they
+have a hole in the engine and that that
+cools the engine so it's important for
+the functionality so the engine doesn't
+overheat but it causes drag so it
+reduces the efficiency of the plane so
+what they were going to do typically
+would be to add an electromechanical
+flap or a hydraulic or pneumatic flap
+the same as the wing so it open and
+closed but the problem here is the same
+thing as the kind of robotic building
+problem which is that if you add a
+hydraulic or electromechanical flap it
+adds weight which also reduces the
+efficiency the plane it adds cost it's
+probably going to fail now they need
+more maintenance now they need more
+controls run to the cockpit it's gonna
+stop production you know there's all
+these constraints that would make
+solving this problem actually worse than
+not solving the problem so they came to
+us and we developed this single piece of
+carbon fiber so this is a cross section
+through the component there's a single
+piece of carbon fiber and it opens and
+closes to control the air flow so
+there's no electronics there's no motors
+or sensors or anything the material is
+the actuator and the sensor at first we
+were doing that based on temperature
+change but you can imagine if you land
+in Antarctica versus Arizona it's not
+particularly useful to respond only to
+temperature change so then it went to
+pressure differential so you can notice
+that when you're driving down the
+highway and you roll the window down and
+things get sucked out and it's called a
+pressure pressure differential and you
+can use that as a force so basically as
+the plane is flying faster or slower
+there's a certain force that causes the
+material to transform and when you
+reduce the speed the force is not there
+and then the material can can go back so
+that's one example of that another
+category of materials all the textile so
+there's a lot of ways to activate
+textiles the most simple that we started
+with was a pre stretch so you take a
+stretchable textile you stretch it
+around the plate and then you print or
+bond or stitch or spray you add some
+other material onto that stretch textile
+so in this case we're just printing but
+you can do the same thing with other
+processes so we print on to it the
+material that we're printing onto is you
+know just a simple standard polymer
+nothing fancy it's just the stretch of
+the textile that's actually providing
+the energy
+so by printing a circle for example when
+you cut it out it jumps into a
+hyperbolic paraboloid so the different
+thickness of the material and the
+geometry that you print promotes
+different things like pleading and
+tufting and textiles where itself forms
+and rather than manually forming the
+textile the stretch of the textile is
+what causes it to transform so then
+again with Christoph goober on the
+product designer and a show in London we
+did a project where you stretch the
+textile around and then you print this
+very specific pattern so that when you
+cut the textile it then jumps into the
+shape of a shoe so it takes a single
+material and can transform itself into
+all the curvature of the shoe and this
+was a nod to the shoe manufacturing
+space because it's really interesting
+space that that innovates a lot but shoe
+manufacturing is predominantly manual so
+there's a lot of forming and stitching
+and gluing when they make shoes out of
+leather they take big you know natural
+pieces of leather and someone's
+literally sitting there looking at the
+leather and figuring out where to cut
+and where to place different components
+on the leather they're manually forming
+these two things together so there's
+almost no automation in in shoe
+manufacturing and there's a lot of
+people pushing the boundaries of that
+now but that was a kind of new way to
+make shoes potentially so then we
+started to go beyond that combining what
+you saw in the carbon fiber we thought
+well maybe we could sort of make our own
+textiles by taking these fibers and
+filaments we could make macroscale
+structures that when you shine light on
+them they transform so these are 2d and
+3d structures that have a behavior
+called augs it's so authentic is when a
+material normally when you stretch it it
+gets smaller but in augment cereals when
+you stretch it it gets bigger and when
+you push on it it gets smaller uniformly
+so it's materials that transform
+uniformly expanding and contracting and
+we can build these 2d and 3d materials
+out of these fibers and sheets and
+filaments making
+sort of macroscale textiles and the the
+ultimate goal here was to create
+porosity change so you can imagine
+apparel or garments or Footwear that
+open and close for breathability or
+waterproofing when your body gets hot or
+the temperature outside increases or
+when Sun hits it or moisture hits it so
+we now have a project looking at taking
+that further through industrial knitting
+so another way is to change the
+structure so this is a biaxial braid
+it's basically a Chinese finger trap and
+by puppeteering this by basically
+pulling on different strands or
+different toes in the braid are these
+fibers you can get this by axial braid
+to expand or contract to you know
+lengthen or shrink just like you know
+from a Chinese finger trap but what's
+interesting about this is that the braid
+is the structure and the flexibility so
+there's no mechanisms there's no like
+joints or or you know ball joints or
+angles or anything like that it's just
+the the over under over under over the
+braid that gives it both structure and
+flexibility and by playing with them you
+can get pretty massive transformations
+so you can use this as a 30 foot tall
+structure the same exact thing us
+pulling on it to load test and then this
+is a sixty foot structure the exact same
+principle so there's a little person
+normal size but little in comparison to
+the tower if you're pulling on a sixty
+foot structure making it transform so we
+were interested in what if we could make
+architectural scale transformations
+without hydraulics pneumatics and
+robotics and the reason we started down
+that road is this is built with in
+collaboration with a company called tape
+towers they're based out of Lititz
+Pennsylvania they make all the rock
+shows an Olympic venue so like Adele or
+you - has anyone seen Chuck Hoberman
+structure from you - anyone no I'm
+talking about
+so this transformable structure YouTube
+concert and a lot of the Olympic venues
+they're the ones that build it and
+they're the ones that design those stage
+sets and shows and almost all of those
+Cirque de Soleil or any
+those examples are big electromechanical
+hydraulic pneumatic structures they're
+basically architectural structures for
+millions and millions of dollars that
+they need to assemble in 24 hours they
+need to work like a huge robot and then
+they need to disassemble it ship it
+somewhere else and build it again so
+it's a kind of extreme scenario for
+construction where you have like the
+ultimate timeline for construction and
+it needs to do all these crazy
+mechanical maneuvers so it would be
+really interesting for them if they
+could basically have textiles that were
+as large as buildings but could be
+transformed shipped and assembled in you
+know a matter of minutes to hours would
+be really lightweight low low energy so
+we have explored a lot of that that then
+turned into a project with Google where
+we made a transformable meeting space so
+Google has this new campus out in
+Mountain View and they were interested
+in thinking about the open office
+there's closed office so open offices
+are great for flexibility closed offices
+are great for privacy
+neither is great for both so what if you
+could have a meeting space that when
+it's when you don't need it you just
+transform it it's up in the ceiling when
+you do need it you transform it down and
+you can have a meeting space or a phone
+booth or a room or an office so you can
+kind of transform these pods and we've
+made many different configurations like
+that circular space wall configurations
+ground floor and a lot of different
+shapes and sizes of these different
+meeting spaces that can transform this
+is based on that same biaxial braid
+principle and then one last project in
+this programmable materials section this
+is actually a student project from one
+of my studios in undergrad studio where
+they were tasked at building
+transformable towers so this is a
+30-foot tower made out of weather
+balloons inside a textile sleeve and
+they basically just pull on these
+tendons there's three tendons and just
+the configuration of like a ABAA
+whatever pattern and the tendons you can
+get this 30-foot tower to transform into
+almost any shape so it's basically like
+a huge robot arm that can go into any
+shape you want but it was made for
+few tens of dollars in in about an hour
+so they can make these large things that
+transform in really simple ways so all
+of that category research is about
+transformation how materials go from one
+shape to another shape you know one need
+to 2d and 2d 3d etc we do that with
+small scale materials we do that with a
+lot of different printing and
+fabrication processes now we're going
+into industrial knitting and textiles
+but we also try to do that at much
+larger scale transformations
+so sometimes it's high-tech and
+sometimes it's low-tech ed at many
+different scales the third category of
+research is on phase change so what if
+materials can go from solid to liquid
+and liquid to solid what if it's not
+just about shape change could they
+change property as well and so one
+principle that we study is called
+granular jamming so granular jamming is
+a kind of strange word for a really
+common phenomenon so when you go to the
+grocery store and you buy coffee and the
+coffee comes in this brick like this
+really rigid pack because it's vacuum
+packed all the particles inside of there
+gets stuck and they have nowhere to go
+so the coffee beans or coffee grinds are
+basically acting like a solid even
+though if you cut a cross section
+through it they would be amorphous
+particles they're arranged in a kind of
+random way and from the material science
+world we know that when particles are
+arranged in a random way that should be
+a liquid only when they're crystallized
+or in their lattice structures that they
+are they usually solid but these are
+amorphous particles that act like solid
+what's interesting about it though is
+that it can go from solid to liquid
+liquid to solid so often granular Jam
+mobile systems use a vacuum and a
+membrane so you have a membrane you have
+particles inside and you pull a vacuum
+on it and by pulling a vacuum you mint
+you make it strong and rigid if you
+change the particle configuration you
+can get different behaviors if you're at
+the beach and you jump on the sand and
+it's really hard and it hurts but when
+you play with the sand it's really soft
+that's the same same phenomenon it's a
+way to go solid to liquid without
+temperature change we've done like this
+project was an acoustic project with
+Google
+horrible acoustic panels another project
+that we did was on reversible packaging
+with steel case a furniture company so
+you know you have a chair they normally
+wrap a blanket around the chair and then
+ship it but in our case we made this
+this blanket that has foam particles
+inside of it you wrap it around and you
+pull a vacuum on it it basically molds
+around the chair it turns into styrofoam
+you ship it and on the other side you
+release the vacuum and then you know you
+have a blanket again so you can wrap it
+around a table or something else but
+more interesting to that in my mind is a
+project we did with Grazia koehlers
+group at ETH Zurich so we did this
+project where it started out we went to
+a conference on jamming so there's a
+whole group of people mostly physicists
+and material scientists that only study
+jamming and there's all these people
+that are interested in like mining
+companies are interested or even like
+candy companies or coffee companies
+because in their factories like candy
+gets stuck in a hopper or gets stuck in
+a pipe and they don't know why so
+they're interested in this phenomenon
+and and a few architects went there
+gratia Kohler went there I went there a
+few other people and we started thinking
+about how do we use this principle in
+this phenomenon for architecture because
+essentially you don't want to build a
+building out of a jam bubble system
+typically because you it's super energy
+intensive you need a lot of vacuum which
+you know is not easy to have and then
+it's super susceptible to puncture if
+you just puncture the membrane then your
+building will fall down which is not
+very good so we started to think about
+that the reversibility is the most
+important aspect and then we developed a
+system where you can do this with rocks
+and string so just loose rocks and loose
+string and we exhibit it in Chicago in
+2015 at the architecture biennial so
+basically we have this yellow bounding
+box and we layer rocks and string rocks
+and string rocks and string over and
+over and over again the robot spits out
+the string and very specific patterns
+and then when we remove the bounding box
+all the rocks fall away that don't have
+the string so only where you have the
+string the rocks jammed so there's
+basically loose rocks that fell away all
+the rigid
+rocks are just because of the string so
+we printed the string in specific
+patterns the string takes tension the
+rocks take compression
+there's no adhesive there's no
+connectors or binders or anything it's
+just loose rocks and string it can take
+three tons on top of it on in this
+specific shape and we were interested in
+it specifically because it's it's
+effectively reversible concrete so
+concrete is great as a construction
+material because it comes as a liquid
+and then you pour it and it turns solid
+but the problem is that it's really slow
+so it takes a long time for you to wait
+like one of the lead leading times in
+construction is just waiting around for
+concrete so in this case you pour it
+like a liquid because it's you know a
+bunch of rocks or particles and then
+it's instantly solid there's no waiting
+there's no cure time and then more
+interested in that it is reversible so
+here at the end of the show we just
+pulled out the string and just by
+winding up the string the whole tower
+then disintegrates so it's like you
+could build a modular system a concrete
+in order to get rid of it you have to
+destroy it you can never reuse it again
+you know bricks are sort of modular but
+in this case once you reverse it you're
+left with exactly the same material it's
+a hundred percent recyclable you're left
+with 100 percent the same rocks in a
+pile of rocks and a spool of string so
+you could just pour it jam it pour it
+reverse it Jam it and do it again over
+and over and over again and then this is
+the last project I'll show it's a
+project on again phase change liquid to
+solid but it's a new printing process
+that we developed so steel case again we
+had a collaboration with them trying to
+look at 3d printing and this gets all
+the way back to some of our our other
+interests in 3d printing and they were
+interested in challenging the three
+issues of a 3d printing so basically
+it's just too slow it's too small and
+the materials are not good so how could
+you print a chair for example because
+today if you printed a chair it would
+take forever even if it was possible
+because most printers are pretty small
+and then the mature
+girls are just not up to their standards
+so we developed a new process called
+rapid liquid printing and we print
+inside of a vat of gel and that gel
+supports the material so the gel
+eliminates gravity you can draw inside
+of the gel like calligraphy like
+three-dimensional calligraphy if you
+change the pressure or the speed you get
+different line weights and then the
+material cures underneath the gel so you
+draw in 3d space as fast as the Machine
+can go you can have different nozzles in
+different shapes and sizes literally
+like calligraphy you extrude the
+material it's two-part material or its
+photo pure or chemical cure and when
+it's soft when it solidifies you can
+take it out of the gel and just wash it
+with water so the reason this is faster
+is because there's no support material
+normally with 3d printing if you want to
+print something you need to print the
+supports we don't have to print layer by
+layer and we also don't have to wait for
+the material to cure the reason we can
+print bigger is because it's really only
+limited by the size of the Machine so we
+have a 5 foot by 10 foot machine for
+example or we can print millimeter
+structures and then in terms of material
+properties we print with only
+off-the-shelf industrial material so
+silicone rubber and foam polyurethane
+rubber foam plastic acrylics epoxies
+even concrete's for example we can print
+with so it's not like some super special
+strange 3d printed material it's the
+same exact material that you know a
+company would use for the cushion in a
+chair or a rubber gasket or you know or
+the soles of your shoes it's the same
+material in this case we printed the
+beach bag so this is a beach bag made
+out of silicone rubber you can see the
+kind of behavior of it they're true
+elastomers we we have structures that
+can stretch and Bend and curl we have
+rigid structures a lot of different
+materials so in this case it's much much
+faster if you want to compare it to like
+SLA printing we can be at least 50 times
+faster than typical printing we can
+print up to you know five ten-foot
+structures all the way down to very
+small and we can print with them
+standard dust raw materials one of the
+most recent projects is showing
+inflatable so we print with silicone
+rubber and then we can inflate it to
+make soft robots or other actuator
+so that this is a structure that's
+totally airtight watertight and by
+printing different chambers you can get
+different behaviors you can get it to
+you know more from one shape to another
+you can get it to expand or fold or curl
+you can get it to articulate you can
+stretch it so normally 3d printed
+elastomers or are not even close to
+traditional elastomers and rubbers you
+can get maybe 100 200 percent elongation
+at best and in our case we're showing
+close to a thousand percent elongation
+which is the stated material spec so if
+you got a rubber that you were gonna
+cast we showed that after printing you
+have the same properties as as the
+molding process so then for the Victoria
+and Albert Museum in London this is a
+collaboration with BMW we did a whole
+kind of lattice as matrix and we can
+inflate and deflate different chambers
+and we can make this single sheet
+transform into all sorts of different
+structures so they were interested in
+this as a kind of future of car
+interiors so you can think about like a
+car seat for example maybe when you sit
+down it morphs around your body or it
+becomes more rigid or more soft or it
+creates massage features or airbags so
+it's all inflating and deflating in
+different different zones and then
+actually in New York right now at the
+Patrick parish gallery we have an
+exhibition where we used that same
+inflation technique and we collaborated
+with Christoph again to make all these
+products we made lamps and chandeliers
+and vases and sconces and you know all
+sorts of different products all of the
+inflation so we print and then we
+inflate them and they transform into
+different shapes and sizes
+so all of this research from the
+self-assembly to programmable materials
+and the phase change materials all gets
+back to the same problem in my mind that
+essentially as industries try to build
+smarter and smarter things we're
+fighting this uphill battle of cost and
+complexity so you know everyone wants to
+build smarter machines smarter building
+smarter clothes smarter shoes and the
+only way we typically know how to do
+that is to have more skilled labor or
+more automation so basically we
+need to pay more money or we need to
+have smarter things that cost more or
+fail more often or have more components
+or more devices so think about like
+smart buildings today that typically
+means more devices like more thermostats
+and more robot shading systems and
+cooling and sensors and devices and all
+those things cost more and more complex
+and harder to assemble etc so you're
+you're basically in this conundrum where
+the smarter thing is worse than the dumb
+thing and we are always trying to
+question ourselves like how do we build
+smarter things that have less parts that
+have less complexity and have less
+failure so they're truly smarter and
+better and easier to use and easier to
+implement and then the other thing that
+we're up against is that when we think
+about smarter construction or smarter
+assembly everyone goes to automation
+so basically automation is like the only
+solution that anyone talks about in
+construction and manufacturing no one is
+talking about cheaper labor because
+basically we're in this problem where
+construction - manufacturing
+manufacturing cost too much so the
+reason that everyone goes abroad is
+because labor is cheaper and then labor
+gets more expensive as the companies
+develop and then they move to another
+country and then it gets more expensive
+and then they move and you know as
+everyone knows Trump is trying to force
+manufacturing to come back to the US
+which is you know maybe not the best
+idea but the problem isn't about labor
+the problem is how do we assemble things
+in better smarter easier ways and most
+people think about automation basically
+we're gonna have robots that assemble
+things or robots that build buildings
+and we have kind of two perspectives on
+that one of them is if it's true that
+we're going to have automation and
+construction and manufacturing if if
+automation is going to change
+manufacturing construction we should
+still be building with smarter materials
+because those materials can collaborate
+with the robot those materials could
+allow us to build things in a better way
+so instead of having to have these crazy
+high precision capable robots maybe we
+could have just average robots but we
+can deposit materials and then the
+material can kind of do the last mile
+problem
+can become more precise or it can say
+you know there's too much load here so
+the rollout you need to move over here
+and you need to you know sense this
+capability and let's go over here or
+maybe we're just building with the robot
+the same way we build traditionally but
+at least the products that we make
+should be smarter the products that we
+make should be able to adapt to our
+bodies adapt to our environment
+transform have have higher performing
+systems without all the devices so
+that's one perspective the other
+perspective is a bit more ambitious and
+you know through our work and a lot of
+our colleagues in different fields and I
+talked about before that DARPA grant on
+programmable matter if you look at all
+the researchers who are under that DARPA
+grant almost every single one of them is
+not doing robotics anymore most every
+single one of them is doing materials
+soft squishy robotic systems through
+materials so through synthetic biology
+and DNA origami or multi material
+printing or programmable materials like
+we've shown a granular damnable system
+or soft robots all of them are doing
+essentially robotics without the robots
+and so we think that the future of
+robots is not necessarily
+electromechanical hydraulic pneumatic
+systems the future of robots is
+materials materials that can sense
+actually make decisions have information
+embedded in them so it may be automation
+or robotics is the future but it's a
+kind of different perspective than we
+thought it was because those
+capabilities are going to be embedded in
+our clothing and our shoes and our
+buildings in really really elegant
+material ways so the the goal and the
+vision of the lab is that today we
+program computers and machines and
+tomorrow we'll program matter itself so
+I'll leave it there and maybe take a few
+questions thanks so much
+I don't know how we're doing on time if
+you want to do questions or move what
+are your thoughts questions concerns
+I think thanks very much for your for
+the talk it's super provocative
+interesting
+things you're working on but I also
+curious about how your I think the
+parallel project that you have going is
+what is the nature of learning and
+research and what do you do as the
+teacher versus what do you do
+try to get something look and and so how
+does the structure of your Center in
+your lab work when do students bring the
+projects into the room we want this
+industry bring projects into the room
+why do you ask the question what are we
+trying to do materials need to be we
+need to question so there's a lot of
+different angles on that so one how the
+lab works is most of the people that
+come to the lab are either former
+students or people that reach out like
+student undergrads and grads that reach
+out to us and you either know the work
+or know me through teaching and then
+become part of the lab and at MIT they
+undergrads for example have something
+called your ops undergraduate research
+opportunity they get paid to do research
+or they get credits do research and then
+grad students are getting paid tuition
+or stipend and so in some ways they they
+want to do the research because they're
+interested or because they want to get
+credit or because they want to get paid
+so they you know operates in that way
+sort of like a business and it's less
+like a studio so I try to differentiate
+a studio in a lab because in the studio
+I think the goal is for the students to
+develop their own agenda and their own
+thesis and their own direction and you
+know I can start with a provocation or a
+site or constrain or whatever it is but
+really the students need to guide it and
+lead it and that needs to lead to their
+future careers and that's you know what
+enabled MIT enabled me to do that
+through through that program but when
+they're in the research lab the research
+lab itself has an agenda and has
+projects and has funding and has goals
+and whatever and the students are
+working on those and they can totally
+lead them they can start new projects
+they can all do that but that you know
+in some ways it's more like an office
+and that way that they're part of a
+larger team that that has an agenda it's
+not only their personal goals and agenda
+and so I try to separate those because I
+think they're too you know different and
+useful perspectives and how projects
+start in the lab it comes from all
+different directions so one of them is
+some kind of more academic perspective
+like it's the what ifs is like is it as
+possible it's they're kind of crazy
+scenarios it's maybe that aligns more
+with like exhibitions and gallery
+projects or collaborations with artists
+and designers like or the granular
+jamming work all the self-assembly work
+a lot of those are like starting from a
+question or a provocation like these as
+possible can we do something and then
+you test it you know rigorously and you
+figure something out and discover
+something and build it and scale it and
+demonstrate it some way and maybe then
+we'll write papers or do something else
+with it or show videos or whatever and
+then another way is it comes from
+industry like the Airbus collaboration
+or some of the Google collaborations
+start from some issue that they're
+having they approached us they see some
+of the research they say is it possible
+to take some principles you've learned
+and apply them and then most of our work
+is somewhere in the middle that it you
+know it starts like the the rapid liquid
+printing where it's a collaboration with
+someone a company or you know agency or
+an even an exhibition and it's like
+what's what's interesting in this space
+or what's the future of 3d printing or
+we're interested in like a new type of
+packaging or you know it's very very
+open but it's within a certain domain
+and then you know my mind that's the
+kind of best of both worlds and we think
+of I think about the spectrum of the
+radical to the relevant so like a lot of
+our projects are are on one end of the
+spectrum and the MOE of the best is when
+it's in between like the rocks or some
+of the balloons on this radical spectrum
+like what would be the most interesting
+provocative wildest craziest possible
+thing we could think of to to push the
+limits of what we can do or what's
+possible today and then the other end
+what would be the most useful applicable
+beneficial
+thing that we could do for some problem
+or society or whatever or collaborator
+and the best is when you solve a look
+both ways but often we land somewhere
+here and our projects you know align
+somewhere along that along that spectrum
+so yeah I think the lab I teach
+full-time and I run the lab and you know
+I'm doing a lot of different things and
+they all you know maybe it's not the
+most clear separation between the two
+but we you know we tend to not be like a
+typical academic lab where it's just
+like we get government grants and then
+we write papers on it often it starts
+with a gallery or it starts with an
+industry partner or it starts with some
+like crazy idea student has and we see
+if it's possible and we explore and then
+we figure out where that leads us and so
+it's a little bit more blurry how we do
+these things I don't know if that
+answers it yeah
+I understand that this on the scale just
+materials themselves Andy yeah I mean in
+some ways all of that work all the
+self-assembly work is is based on
+thermodynamics or at least that's one
+example of where this happens and we're
+just showing it at a kind of macro scale
+so in the balloons for example if you
+had many millions or hundreds of
+millions of those particles and you
+zoomed way out that would be a gas you
+know that would be a temperature change
+from one environment to another or that
+would be a chemical transition from a
+solid tool or from a liquid to a solid
+like the balloons is exactly
+crystallization so if you think about
+graphite to diamond graphite and
+diamonds are made out of the exact same
+thing the only difference is the way
+they came together which is like the
+balloon structure if you make a cubic
+lattice or you make something else
+you're going to give a different
+material so it is you know chemical
+transition or it is thermodynamics or
+it's a lot of these systems where you
+have components and they come together
+on their own but talking about the basic
+versus Applied Research are one of our
+latest projects in that category of work
+is a project in the Maldives and it it's
+an example in my mind of where basic
+research turned to Applied Research in
+like almost a day so this group from the
+Maldives approached us because they were
+interested in or they were concerned
+about sea level rise obviously so it's
+an island nation like like many coastal
+regions or island nations they're
+worried that you
+to the sea-level rise but the Maldives
+is really fascinating because it's
+unique in that it's grown over the past
+100 plus years so basically sea level
+ride is double doubled and tripled as we
+know and the islands should be sinking
+but they're actually growing which is
+really strange and they're not really
+sure why but that points to the fact
+that sand accumulates naturally and
+self-organizes into sandbars and islands
+like these islands are grown basically
+through sandbars it depends on if it's a
+volcanic island or you know San made
+island and so what we're trying to do
+right now is study why do sandbars
+happen and merge why do islands grow
+sometimes and can we collaborate with
+the forces of the wave to accumulate
+sand and could you design it so that
+your island always grows so imagine you
+have an island and you put certain
+things in the water depending on the
+tides and the swell and weather and
+patterns you could have different shapes
+underwater maybe they could more from
+one ship to another and potentially it
+could ensure that your islander your
+Beach could always grow instead of
+sometimes grow and not sure why and why
+does it sometimes get destroyed you know
+there's a lot of people that look at
+building reefs off of beaches to stop
+beach erosion but the problem is it only
+works in certain conditions like if you
+have a swell direction or a tide from
+another orientation it doesn't work any
+longer and actually hurts the beach so
+we're anyway we're studying this
+self-organization of sand and it's a
+very very real problem that can have
+real implications and it started from
+this kind of super academic basic
+research like self-organization
+self-assembly and
+really quickly so we're pretty fluid oh
+sorry for that for the metaphor but
+we're pretty fluid going from applied to
+basic or going from the industry
+collaborator to like a government agency
+to you know academic collaboration or
+gallery or something we try to work on
+different scales and different domains
+and figure out what makes the most sense
+at the time
+[Music]
+it's kind of changing the tech topics of
+architecture so how do you think this
+spark material material is going to
+yeah good question yeah I don't think
+that we're proposing you know that the
+entire building would be making made out
+of one system and like every detail
+needs to be the same thing I think it's
+more about trying to look at different
+materials and specifically understand
+what those materials are capable of and
+and tap into that so for example we
+built a basically like a sticker or
+graphic that you could apply to a
+glazing system like a skylight or facade
+that would open and close based on
+sunlight so some of those programmable
+materials and it's just open and closing
+all the time based on sunlight or if
+it's cloudy year you know overcast and
+that's a very specific material it's not
+saying that the entire building is gonna
+be made out of the material has like a
+very specific application it's not
+structural it's you know it's for
+shading or solar heat gain and then we
+worked on an acoustics project or as
+about adaptive acoustics with jamming so
+you know that has a totally another
+application so I guess I'm more
+interested in like in any given detail
+what is the thing that we're trying to
+do and is there a way that we can kind
+of enhance the capabilities of that
+looking more tapping into the material
+properties themselves and therefore we
+could still be building with all the
+same materials we're building today and
+then those hopefully those materials and
+those components and those details can
+just do much much more and kind of push
+the limits of what they're capable of
+because I guess I see it in a like a
+larger arc where in some ways because of
+the computer and because of robotics and
+digital fabrication and stuff I'm seeing
+that we've lost the the like material
+intuition and we used to have that in a
+way like in any craft scenario whether
+that's textiles or wood or metal working
+or in any scenario where it was like
+true craftsmanship we had an intimate
+knowledge of a material property and we
+would understand what the property of
+that material was and you can expand it
+or contract it or you know use the
+dynamic capabilities of it and you can
+look at like old thermostats in a house
+or you can look at Japanese jointer all
+those examples I was talking about and
+we would tap in to the material
+knowledge like for example that there's
+a book latitude I think it's called it's
+all about how they built the first
+device that couldn't measure the the
+latitude or is it longitude one of those
+forget now but it's all about longitude
+I guess it's a fascinating book and in
+the end the solution was material that
+they figured out essentially a
+bimetallic strip that could transform
+but we sort of lost that because we
+figured out that if we add a bunch of
+mechanisms in robots we can make
+something adapt like the nest thermostat
+replaced the previous material based
+thermostat and just put a computer there
+and you know in my house the nest art
+that just broke after a year in your
+life that sounds but the other
+thermostat lasts for hundreds of
+hundreds of years and it's not saying we
+should just go backwards and use all the
+things before it's more saying that now
+we have all these new capabilities so we
+can actually go far beyond that if we go
+if we start to tap into the material
+capabilities again like we used to with
+all of these new capabilities of
+computational digital fabrication we can
+have unbelievable performance that we
+have kind of forgotten about and we now
+just sort of think materials are dumb
+and we have all these brilliant ideas as
+designers and we're just gonna force the
+materials into place we're gonna be like
+I want you to do that make a chair
+instead of allowing the materials to
+collaborate with us and come up with new
+design capabilities or new performance
+so yeah it's sort of like technology
+meets craft and then you can do
+something new with performance that
+being said
+research groups that are like very
+robotic for impurity and my being to
+ever collaborate with people like that
+yeah yeah there's a really interesting
+lab called the micro robotics lab at
+Harvard Rob wood runs that and then
+Jennifer Lewis also at Harvard has a lab
+Rob wood is mostly on soft robots so
+it's like soft squishy gooey robots that
+crawl across the table that are made out
+of material and pneumatics and squishing
+things
+Jennifer Lewis is more material science
+a lot of different printing stuff
+similar to the 40 printing but I like
+really micro scales there's a lot of
+people that are kind of around our
+sphere but have different agendas you
+know we've just taken this kind of macro
+scale material fabrication route other
+people are much more interested in like
+biomimetics or some other agenda or like
+soft robots or micro robots edge and or
+really into material science and
+developing new material capabilities you
+know everything I've shown you in this
+presentation is off the shelf standard
+materials we haven't invented any new
+material so all of those capabilities
+are just about the combination of
+material properties but there are many
+research labs who are inventing new
+materials from scratch that have like
+crazy unbelievable properties and so
+yeah sometimes we collaborate with some
+of those researchers other times we have
+similar goals but different approaches
+you know I think there's definitely one
+argument to say like I I'm taking a sort
+of like provocative stance about
+materials on the future of robots but
+certainly there's a hybrid scenario
+where you know computers are and robots
+are really good at certain things like
+repetition and and precision they're
+really good at global communication like
+it's hard for me to hold up a piece of
+wood and for that wood to communicate
+with another piece of wood in the back
+of the room but it's really easy for you
+know a computer to do that so there are
+certain things that materials are not so
+good at and
+electronics and robotics are very good
+and you know there's definitely a more
+elegant solution where you could combine
+some of those for sure you know more for
+like our own clarity we've just tried to
+take a specific agenda but but yeah
+there's a hybrid approach I was thinking
+on the idea for the self-assembly more
+things smarter materials are kind of
+dealing with this question of agency and
+what it is that a future and in that
+context I'm also wondering about the
+problem of Labor man-made things so then
+this region should keep you ever related
+with this or not
+with the this smart materials dealing
+people that are done
+no way so what is the relationship
+between when humans interact with this
+did you know building that promise thank
+you for example the last piece of the
+rock right awkward on the five you're
+all just taking up this right okay so
+it's
+yeah for a while I was interested in
+this thought experiment that what if you
+had a bunch of components and you just
+dropped them in the middle of a park or
+a square could you ensure that as people
+played with them and built stuff you
+could guarantee that it would build XYZ
+like they didn't even know what it was
+they just show up and they find these
+parts and the parts cooked together and
+it then has collectively they build some
+super precise thing that they didn't
+even know of that would be super
+interesting and that kind of addresses
+the problem of like communication and
+instructions and precision and all that
+kind of stuff that it would be in in the
+materials we never did that project yeah
+but I think it's an interesting scenario
+that that could be around I mean you
+know in some ways that's the that's the
+reason people arguing for robotics
+rather than people in construction or
+manufacturing because people make
+mistakes or they have different ways
+about of doing it they have different
+levels of skill speed and all those kind
+of things and that built that hads
+tolerance to whatever you build an
+imprecision and that's why in that kind
+of craft scenario often it was like low
+numbers of people and there was an
+intimate knowledge with joints and those
+joints would kind of overcome the lack
+of precision in the human but without
+that you have basically like propagating
+failures propagating tolerance as people
+build more and more it gets worse and
+worse worse and every trade has
+different tolerance and they try to
+interface the best they can but that's
+you know where a lot of the problems
+come so in certain contexts like cars
+it's great to have like automation as
+much as possible and the goal is to have
+like 100% automation but they make many
+many many cars the exact same way
+whereas in the building scenario you
+make one typically or maybe a few other
+than like you know housing maybe here's
+a context where you build many but it's
+a kind of different scenario than
+manufacturing so
+it's interesting and then the question
+of like failure is interesting so on the
+rocks it's really bad for vibration it's
+really good for load so like static load
+and impact is really good for one of the
+ways to make it really if you don't care
+so much about the reversibility but you
+care about the speed for construction
+you can coat the fibers if you coat the
+fibers it'll be incredibly strong good
+for a vibration good for load impact all
+that kind of stuff it'll stop the five
+year old from disassembling it but then
+you can't necessarily reverse it you
+kind of trade-off the reversibility so
+you know that's something you could
+potentially do in each one of those I
+think the ideal scenario is that you
+have like is it a is it a fabrication or
+manufacturing agenda and if so can you
+design the activation energy so that
+it's only happens in the construction
+phase and it doesn't happen in the
+application phase so you don't have
+accidental failures or is it a
+performance so like I take a sheet of
+material I trigger it with some
+temperature that would never be normally
+found I get it to transform into
+whatever the product is it's never gonna
+unfold or it's not gonna fold again
+because that heat is way above human
+temperature whatever that's an easy one
+if it's about performance
+I want a shirt that opens and closes
+based on temperature how do you make
+sure that it doesn't do it when you
+don't want it and that's kind of the
+scenario you're talking about and so you
+need to think about what is the everyday
+use what types of activation energy do
+you have and then there's another one
+which is a sort of disassembly which is
+that if you if you can use these
+activation energies to assemble things
+can you have other ones that will
+automatically disassemble it but ones
+that'll never naturally happen again so
+I can you use I don't know can you use
+like electricity or some type of like
+frequency to disassemble it but that
+wouldn't be naturally found and you use
+extreme temperature to assemble it and
+maybe there's another activation err so
+you're basically coupling like many
+different materials that have different
+types of activation
+for different different scenarios but
+anyway that's a much more complicated
+scenario you know most of these are just
+like trying to get to the point where we
+show it possible and then you can go
+beyond that if you also medically
+configuration can do is to help me
+understand for about collections to
+space meaning it can become a full-scale
+object to the chair but also an exterior
+well fragmented somehow
+besides sequence of skylight
+what I find really subduction of these
+material animations yeah and what scale
+do you see the limits of them projection
+like how far these material biologies of
+the that are now being active light is
+their limit yeah I mean a lot of these
+are scale independent so that's one of
+the things we're trying to show it
+self-assembly is that it can happen at
+this largest of scales and the smallest
+of scales it's really mostly about
+dialing into that that length scale that
+you're working out what are the
+materials what are the forces you know
+human scales we have gravity but
+molecular scales that there is no such
+thing as gravity but surface tension is
+you know Vander Waal forces are massive
+forces that we just don't experience at
+the human scale so that's you know those
+are kind of differences in nuances that
+you need to you need to be designing
+around those differences at different
+scales but the goal would be that these
+systems could go across many different
+scales same with the materials like
+often people will be like oh well the
+wood you know it's not gonna be strong
+enough to make a chair or a desk it only
+works with you know a couple inches and
+but we know that wood for example you
+know a tree root moves buildings and
+sidewalks or in when they would do
+mining they used to often use wood and
+then swell the wood and it would crack
+the stone and then shear the stone off
+so they can have really significant
+forces and large-scale transformations
+it's not just about like super thin
+surfaces that fold so I'm interested in
+in scaling them up and down
+programmatically most of the things
+we've been looking at is like
+reconfiguration for like architectural
+spaces so lots of we've done a lot of
+like reconfigurable furniture projects
+and office spaces and like
+from one thing to another thing or like
+more up in the ceiling or expand or
+contract or open and close or change
+porosity or visibility so it's mostly
+about those kind of systems like how can
+we make one thing whether that's a wall
+or a chair or a screen or space you know
+a series of walls and it can transform
+into something else
+I think less about like a global agenda
+to program more about like more moments
+like in this moment I may need this or I
+may want that and maybe it could do
+something else in the next moment it's
+kind of I guess more focused than the
+larger agenda I'm like this is a new way
+to approach program
+[Applause]

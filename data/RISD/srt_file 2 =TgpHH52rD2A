@@ -1,0 +1,1864 @@
+{'text': 'how is the sound can you hear me pretty', 'start': 0.0, 'duration': 5.819}
+{'text': 'good okay great so welcome everyone to', 'start': 2.909, 'duration': 6.091}
+{'text': 'and also artists and designers writing', 'start': 5.819, 'duration': 6.181}
+{'text': 'this is a symposium exploring a unique', 'start': 9.0, 'duration': 5.82}
+{'text': 'form of duel practice that of the artist', 'start': 12.0, 'duration': 6.119}
+{'text': "or designer who also writes I'm Jennifer", 'start': 14.82, 'duration': 4.74}
+{'text': "lease and I'm the director of the RISD", 'start': 18.119, 'duration': 4.41}
+{'text': 'Writing Center Patti Phillips Dean of', 'start': 19.56, 'duration': 4.709}
+{'text': 'Graduate Studies who you met at the door', 'start': 22.529, 'duration': 4.711}
+{'text': 'with the program and I are co-teaching a', 'start': 24.269, 'duration': 5.34}
+{'text': 'graduate course right now in which the', 'start': 27.24, 'duration': 5.069}
+{'text': 'students are both the editors of and the', 'start': 29.609, 'duration': 4.891}
+{'text': 'writers for a graduate student', 'start': 32.309, 'duration': 5.371}
+{'text': "publication so today's symposium will", 'start': 34.5, 'duration': 6.27}
+{'text': 'give all of them a view into how this', 'start': 37.68, 'duration': 5.46}
+{'text': 'kind of editing and writing happens out', 'start': 40.77, 'duration': 5.01}
+{'text': "in the world outside of RISD and I'm", 'start': 43.14, 'duration': 4.349}
+{'text': 'sure that what we learned today will', 'start': 45.78, 'duration': 3.81}
+{'text': 'inform our publication which I hope', 'start': 47.489, 'duration': 3.57}
+{'text': "you'll all keep an eye out for come", 'start': 49.59, 'duration': 5.609}
+{'text': 'about May but why are we opening up this', 'start': 51.059, 'duration': 6.991}
+{'text': 'conversation to all of you outside of', 'start': 55.199, 'duration': 4.86}
+{'text': 'the context of the course why are', 'start': 58.05, 'duration': 4.05}
+{'text': 'artists and designers writings important', 'start': 60.059, 'duration': 4.861}
+{'text': 'to all of us here today it may be', 'start': 62.1, 'duration': 4.67}
+{'text': 'because you are an artist or designer', 'start': 64.92, 'duration': 5.82}
+{'text': 'who also writes or you want to write or', 'start': 66.77, 'duration': 6.31}
+{'text': 'you want to write more it may be because', 'start': 70.74, 'duration': 4.14}
+{'text': 'you love to read artists and designers', 'start': 73.08, 'duration': 4.74}
+{'text': 'writings which have a long and storied', 'start': 74.88, 'duration': 5.3}
+{'text': 'lineage from early 20th century', 'start': 77.82, 'duration': 4.92}
+{'text': 'manifestos to the criticism and', 'start': 80.18, 'duration': 5.14}
+{'text': 'experimental writings of say Donald Judd', 'start': 82.74, 'duration': 4.58}
+{'text': 'and Robert Smithson in the 60s and 70s', 'start': 85.32, 'duration': 6.479}
+{'text': "to AI weiwei's blog posts today in which", 'start': 87.32, 'duration': 6.82}
+{'text': 'he talks about art and architecture and', 'start': 91.799, 'duration': 5.07}
+{'text': "politics and activism we're interested", 'start': 94.14, 'duration': 4.5}
+{'text': 'too because today artists and designers', 'start': 96.869, 'duration': 4.731}
+{'text': 'writings are wildly proliferating', 'start': 98.64, 'duration': 6.03}
+{'text': 'appearing in public forums ranging from', 'start': 101.6, 'duration': 5.519}
+{'text': 'creative time reports to Triple Canopy', 'start': 104.67, 'duration': 6.18}
+{'text': 'to design observer to the new inquiry to', 'start': 107.119, 'duration': 6.581}
+{'text': 'paper monument to praxis all of them', 'start': 110.85, 'duration': 4.44}
+{'text': 'boldly featuring artists and designers', 'start': 113.7, 'duration': 4.44}
+{'text': 'writings like never before and then of', 'start': 115.29, 'duration': 4.289}
+{'text': 'course there are artists who are self', 'start': 118.14, 'duration': 2.82}
+{'text': 'publishing if any of you were at the', 'start': 119.579, 'duration': 3.811}
+{'text': 'recent New York art book fair you know', 'start': 120.96, 'duration': 6.109}
+{'text': "what I'm talking about it's it's booming", 'start': 123.39, 'duration': 5.989}
+{'text': "we're compelled because we know that", 'start': 127.069, 'duration': 5.111}
+{'text': 'kinetic knology and the internet have', 'start': 129.379, 'duration': 3.391}
+{'text': 'chain', 'start': 132.18, 'duration': 2.15}
+{'text': 'changed and are continuing to change', 'start': 132.77, 'duration': 3.69}
+{'text': "writing in ways we don't yet fully", 'start': 134.33, 'duration': 5.7}
+{'text': 'understand what we do know is that the', 'start': 136.46, 'duration': 6.15}
+{'text': 'alphabetic linguistic foundations of', 'start': 140.03, 'duration': 5.37}
+{'text': 'writing are increasingly complemented by', 'start': 142.61, 'duration': 7.26}
+{'text': 'oral kinetic hyperlinked interactive and', 'start': 145.4, 'duration': 6.99}
+{'text': 'most of all visual modes of expression', 'start': 149.87, 'duration': 7.23}
+{'text': 'and in this newly expanded multi-sensory', 'start': 152.39, 'duration': 7.98}
+{'text': 'writing ecology we might just wonder', 'start': 157.1, 'duration': 4.62}
+{'text': 'whether artists and designers have', 'start': 160.37, 'duration': 4.35}
+{'text': 'special rhetorical powers or whether', 'start': 161.72, 'duration': 5.85}
+{'text': 'writing is even an expansive enough term', 'start': 164.72, 'duration': 6.36}
+{'text': "for what we're talking about with the", 'start': 167.57, 'duration': 6.75}
+{'text': 'future of print and writing itself up in', 'start': 171.08, 'duration': 5.4}
+{'text': 'the air not to mention an increasing', 'start': 174.32, 'duration': 5.73}
+{'text': 'distrust of master narratives we know', 'start': 176.48, 'duration': 5.19}
+{'text': 'that we have something to learn from', 'start': 180.05, 'duration': 4.11}
+{'text': 'artists and designers writings which', 'start': 181.67, 'duration': 6.15}
+{'text': 'like art and design themselves so often', 'start': 184.16, 'duration': 5.7}
+{'text': 'tread fearlessly into the unknown and', 'start': 187.82, 'duration': 5.97}
+{'text': "speak truth to power but I think I'm", 'start': 189.86, 'duration': 6.18}
+{'text': "getting ahead of ourselves I'm going to", 'start': 193.79, 'duration': 5.07}
+{'text': "review our afternoon and we'll see many", 'start': 196.04, 'duration': 5.19}
+{'text': 'of these ideas and issues unfold', 'start': 198.86, 'duration': 4.74}
+{'text': "throughout the day so as you'll see in", 'start': 201.23, 'duration': 3.72}
+{'text': "your program and if you didn't get one", 'start': 203.6, 'duration': 2.609}
+{'text': "on your way in there's more in the back", 'start': 204.95, 'duration': 3.69}
+{'text': 'and feel free to grab one we have two', 'start': 206.209, 'duration': 5.041}
+{'text': 'sets of presentations each are followed', 'start': 208.64, 'duration': 4.65}
+{'text': 'by a Q&A and then a collective', 'start': 211.25, 'duration': 3.66}
+{'text': 'conversation with all of our six', 'start': 213.29, 'duration': 3.54}
+{'text': "presenters and then we'll have a little", 'start': 214.91, 'duration': 3.45}
+{'text': 'bit more conversation out in the lobby', 'start': 216.83, 'duration': 3.9}
+{'text': 'from five to six with wine and cheese to', 'start': 218.36, 'duration': 5.91}
+{'text': 'sustain us on the first panel we have', 'start': 220.73, 'duration': 5.4}
+{'text': 'three editors of artists and designers', 'start': 224.27, 'duration': 4.32}
+{'text': 'writings and on the second we have three', 'start': 226.13, 'duration': 5.13}
+{'text': 'artists and designers who themselves are', 'start': 228.59, 'duration': 5.369}
+{'text': 'writers and all of them will be sharing', 'start': 231.26, 'duration': 4.89}
+{'text': 'their own work and then in the', 'start': 233.959, 'duration': 4.621}
+{'text': 'conversation we hope that that will spin', 'start': 236.15, 'duration': 4.86}
+{'text': 'off into some of our shared interests', 'start': 238.58, 'duration': 5.31}
+{'text': 'and questions so thank you all for', 'start': 241.01, 'duration': 4.56}
+{'text': 'coming and thank you very much to the', 'start': 243.89, 'duration': 3.69}
+{'text': 'RISD museum thank you Sarah for so', 'start': 245.57, 'duration': 6.0}
+{'text': "kindly co-sponsoring this event and I'm", 'start': 247.58, 'duration': 5.7}
+{'text': 'so pleased to introduce our first', 'start': 251.57, 'duration': 5.91}
+{'text': 'speaker amanda visser lawrence is a', 'start': 253.28, 'duration': 6.959}
+{'text': 'practicing architect and she teaches at', 'start': 257.48, 'duration': 4.95}
+{'text': "Northeastern University and she's the", 'start': 260.239, 'duration': 3.591}
+{'text': 'co-founding editor', 'start': 262.43, 'duration': 4.16}
+{'text': 'or the founding co-editor of praxis a', 'start': 263.83, 'duration': 5.19}
+{'text': 'journal of writing and building and in', 'start': 266.59, 'duration': 5.069}
+{'text': 'all cases will keep our introductions of', 'start': 269.02, 'duration': 5.54}
+{'text': 'our speakers brief but you have longer', 'start': 271.659, 'duration': 5.371}
+{'text': 'biographies in your programs so please', 'start': 274.56, 'duration': 12.909}
+{'text': 'help me welcome Amanda good afternoon', 'start': 277.03, 'duration': 13.349}
+{'text': 'Thank You Jennifer and thank you patty', 'start': 287.469, 'duration': 6.66}
+{'text': "for inviting me to be here today I don't", 'start': 290.379, 'duration': 5.25}
+{'text': "think I've ever had the opportunity to", 'start': 294.129, 'duration': 4.38}
+{'text': 'speak about praxis which is an', 'start': 295.629, 'duration': 5.551}
+{'text': 'architectural journal the byline is', 'start': 298.509, 'duration': 3.991}
+{'text': 'actually journal of writing plus', 'start': 301.18, 'duration': 2.85}
+{'text': "building but I've never actually had a", 'start': 302.5, 'duration': 3.449}
+{'text': 'chance to think through the writing part', 'start': 304.03, 'duration': 4.05}
+{'text': "in in this kind of venue and I'm so", 'start': 305.949, 'duration': 3.72}
+{'text': 'grateful for that and today with a', 'start': 308.08, 'duration': 3.51}
+{'text': 'really esteemed group of colleagues and', 'start': 309.669, 'duration': 5.49}
+{'text': 'in a really diverse mix I usually speak', 'start': 311.59, 'duration': 5.549}
+{'text': 'to audiences of architects or', 'start': 315.159, 'duration': 4.681}
+{'text': 'architecture students and practices the', 'start': 317.139, 'duration': 4.231}
+{'text': 'journal that features architecture but', 'start': 319.84, 'duration': 4.289}
+{'text': 'we also from the beginning and in a way', 'start': 321.37, 'duration': 5.099}
+{'text': "that I don't think I ever was able even", 'start': 324.129, 'duration': 4.201}
+{'text': 'to articulate to myself always had the', 'start': 326.469, 'duration': 4.531}
+{'text': 'writing piece was an important aspect of', 'start': 328.33, 'duration': 5.369}
+{'text': "it so what I'd like to take an", 'start': 331.0, 'duration': 4.62}
+{'text': 'opportunity to do this afternoon is is', 'start': 333.699, 'duration': 4.77}
+{'text': 'show you some examples from the journal', 'start': 335.62, 'duration': 4.229}
+{'text': 'talk a little bit about the founding of', 'start': 338.469, 'duration': 3.991}
+{'text': 'the journal and hopefully start to', 'start': 339.849, 'duration': 4.47}
+{'text': 'suggest some questions about this role', 'start': 342.46, 'duration': 6.06}
+{'text': 'of designers writing and what how I', 'start': 344.319, 'duration': 6.871}
+{'text': 'approach editing also of designers', 'start': 348.52, 'duration': 5.759}
+{'text': 'writing so like I said practices a', 'start': 351.19, 'duration': 8.009}
+{'text': "journal it's a 128-page a non-commercial", 'start': 354.279, 'duration': 7.2}
+{'text': 'journal of architecture of the americas', 'start': 359.199, 'duration': 5.041}
+{'text': 'that i co-founded in 1998 that is really', 'start': 361.479, 'duration': 5.821}
+{'text': 'a long time ago now with a woman named', 'start': 364.24, 'duration': 4.59}
+{'text': 'ashley schaeffer we were students at', 'start': 367.3, 'duration': 3.6}
+{'text': 'Columbia University finishing the', 'start': 368.83, 'duration': 3.989}
+{'text': 'masters of architecture program and', 'start': 370.9, 'duration': 3.93}
+{'text': 'really naively sort of said you know', 'start': 372.819, 'duration': 3.991}
+{'text': "there aren't really any good magazines", 'start': 374.83, 'duration': 3.63}
+{'text': 'maybe we should just start our own and', 'start': 376.81, 'duration': 4.05}
+{'text': "so we did I'm happy to talk more about", 'start': 378.46, 'duration': 4.769}
+{'text': 'that process maybe in the Q&A but um but', 'start': 380.86, 'duration': 4.769}
+{'text': 'I wanted to actually start with a quote', 'start': 383.229, 'duration': 4.56}
+{'text': 'that was really important to us as we', 'start': 385.629, 'duration': 5.76}
+{'text': 'began this process and which now in the', 'start': 387.789, 'duration': 5.19}
+{'text': "context of today's symposium I think it", 'start': 391.389, 'duration': 3.301}
+{'text': 'takes on an importance as well and this', 'start': 392.979, 'duration': 3.99}
+{'text': 'was a quote from a an Italian architect', 'start': 394.69, 'duration': 2.73}
+{'text': 'named of', 'start': 396.969, 'duration': 2.581}
+{'text': 'torical teen Grigori was a well-known', 'start': 397.42, 'duration': 3.63}
+{'text': 'architect and also editor of a magazine', 'start': 399.55, 'duration': 3.08}
+{'text': 'called Casa Bella an important', 'start': 401.05, 'duration': 4.29}
+{'text': 'architecture magazine and he had this', 'start': 402.63, 'duration': 4.3}
+{'text': 'quote that really spoke to us as', 'start': 405.34, 'duration': 3.33}
+{'text': 'architects who were embarking on this', 'start': 406.93, 'duration': 4.26}
+{'text': 'process of editing and he talks about', 'start': 408.67, 'duration': 5.04}
+{'text': 'the fact that editing a magazine he puts', 'start': 411.19, 'duration': 4.8}
+{'text': 'editing a magazine as a part of a kind', 'start': 413.71, 'duration': 4.65}
+{'text': 'of larger research and design practice', 'start': 415.99, 'duration': 4.92}
+{'text': 'right so like teaching or participating', 'start': 418.36, 'duration': 3.69}
+{'text': 'in public debates is a way of', 'start': 420.91, 'duration': 2.97}
+{'text': 'cultivating theoretical reflection not', 'start': 422.05, 'duration': 3.78}
+{'text': 'as a separate activity but as an', 'start': 423.88, 'duration': 4.02}
+{'text': 'indispensable part of design craft and I', 'start': 425.83, 'duration': 5.43}
+{'text': 'think that is an important quote and for', 'start': 427.9, 'duration': 5.61}
+{'text': 'us that always meant that this is a kind', 'start': 431.26, 'duration': 3.63}
+{'text': "of holistic that we didn't see editing", 'start': 433.51, 'duration': 2.49}
+{'text': 'as something separate from what we did', 'start': 434.89, 'duration': 3.3}
+{'text': "as architects I should say also that I'm", 'start': 436.0, 'duration': 3.3}
+{'text': "not really i'm actually a licensed", 'start': 438.19, 'duration': 2.73}
+{'text': 'architect but not a practicing architect', 'start': 439.3, 'duration': 3.93}
+{'text': "i'm now I have a PhD and I teach the", 'start': 440.92, 'duration': 4.14}
+{'text': 'architectural history and theory courses', 'start': 443.23, 'duration': 4.11}
+{'text': "but for the idea that that wasn't", 'start': 445.06, 'duration': 3.36}
+{'text': 'something that you did outside of your', 'start': 447.34, 'duration': 2.94}
+{'text': 'work as an architect but the same kind', 'start': 448.42, 'duration': 3.54}
+{'text': 'of process of inquiry as a designer that', 'start': 450.28, 'duration': 3.09}
+{'text': 'you brought to a design problem that was', 'start': 451.96, 'duration': 2.88}
+{'text': 'the same way we were thinking about', 'start': 453.37, 'duration': 3.27}
+{'text': 'editing a journal that was really', 'start': 454.84, 'duration': 3.72}
+{'text': "powerful for us and I think that's", 'start': 456.64, 'duration': 3.24}
+{'text': "powerful in the context of today's", 'start': 458.56, 'duration': 4.85}
+{'text': "conversation too we've produced 15", 'start': 459.88, 'duration': 6.45}
+{'text': 'journals I hesitate to even call praxis', 'start': 463.41, 'duration': 4.48}
+{'text': 'a journal because it takes us a long', 'start': 466.33, 'duration': 4.5}
+{'text': 'time to make one so and I can tell you', 'start': 467.89, 'duration': 4.44}
+{'text': 'we have lots of angry subscribers', 'start': 470.83, 'duration': 4.35}
+{'text': 'writing where is my issue but I think', 'start': 472.33, 'duration': 4.83}
+{'text': 'serial publication is probably a better', 'start': 475.18, 'duration': 5.01}
+{'text': "term but that's our first issue from", 'start': 477.16, 'duration': 5.01}
+{'text': '1999 when we were just coming out of', 'start': 480.19, 'duration': 3.26}
+{'text': 'Columbia the fiction image of the', 'start': 482.17, 'duration': 3.87}
+{'text': 'bernard tschumi learner center which was', 'start': 483.45, 'duration': 4.3}
+{'text': 'just being completed that on columbia at', 'start': 486.04, 'duration': 3.14}
+{'text': 'the time and then our most recent issue', 'start': 487.75, 'duration': 4.53}
+{'text': 'from a couple years ago where we looked', 'start': 489.18, 'duration': 4.45}
+{'text': "at i'm actually the way that architects", 'start': 492.28, 'duration': 3.51}
+{'text': "tells stories there's a little hiatus", 'start': 493.63, 'duration': 4.95}
+{'text': 'because we also produce the um we were', 'start': 495.79, 'duration': 3.84}
+{'text': 'part of the team at the venice biennale', 'start': 498.58, 'duration': 2.82}
+{'text': 'last year and we produced the agenda the', 'start': 499.63, 'duration': 3.36}
+{'text': 'catalog that came they came out with a', 'start': 501.4, 'duration': 3.48}
+{'text': 'Biennale but so this issue I think shows', 'start': 502.99, 'duration': 4.86}
+{'text': 'so each issues um Attica Lee organized', 'start': 504.88, 'duration': 5.13}
+{'text': 'and within the context of the issue we', 'start': 507.85, 'duration': 4.26}
+{'text': 'feature architects writings and', 'start': 510.01, 'duration': 4.92}
+{'text': 'architects buildings and that the the', 'start': 512.11, 'duration': 4.8}
+{'text': 'writing piece these are some early on', 'start': 514.93, 'duration': 4.5}
+{'text': 'logos as we were trying to conceptualize', 'start': 516.91, 'duration': 5.31}
+{'text': 'the journal I kind of like the fuzzy', 'start': 519.43, 'duration': 4.44}
+{'text': 'pixelated calling out the slide has', 'start': 522.22, 'duration': 6.39}
+{'text': 'gotten so old but the the name traxxas', 'start': 523.87, 'duration': 6.03}
+{'text': "was important to us and I haven't", 'start': 528.61, 'duration': 1.8}
+{'text': 'thought about the', 'start': 529.9, 'duration': 3.359}
+{'text': 'so long but the runner-up so praxis we', 'start': 530.41, 'duration': 4.95}
+{'text': 'were unaware of the Marxist connotations', 'start': 533.259, 'duration': 3.69}
+{'text': 'this is back to the naiveté thing but', 'start': 535.36, 'duration': 3.75}
+{'text': 'for us praxis was just an important word', 'start': 536.949, 'duration': 4.021}
+{'text': 'because it suggested the translation of', 'start': 539.11, 'duration': 4.89}
+{'text': "theory into practice and that's what we", 'start': 540.97, 'duration': 4.95}
+{'text': 'were excited about with architecture we', 'start': 544.0, 'duration': 3.06}
+{'text': 'wanted to look at projects that we felt', 'start': 545.92, 'duration': 3.0}
+{'text': "like we're translating theoretical", 'start': 547.06, 'duration': 4.379}
+{'text': 'concepts into actual built artifacts but', 'start': 548.92, 'duration': 5.19}
+{'text': 'the runner up was epigraph an epigraph', 'start': 551.439, 'duration': 4.59}
+{'text': 'is you know words that are written on', 'start': 554.11, 'duration': 3.599}
+{'text': 'buildings and since we were a journal of', 'start': 556.029, 'duration': 4.17}
+{'text': 'writing plus building the plus now feels', 'start': 557.709, 'duration': 4.771}
+{'text': 'very late 90s but that never the writing', 'start': 560.199, 'duration': 5.161}
+{'text': 'plus building that epigraph to the end', 'start': 562.48, 'duration': 4.83}
+{'text': 'seemed a little too like neocon sounding', 'start': 565.36, 'duration': 3.18}
+{'text': 'and it was sort of on the heels of', 'start': 567.31, 'duration': 2.94}
+{'text': "post-modernism so we didn't want anyone", 'start': 568.54, 'duration': 3.06}
+{'text': 'to think that we were opposed so we went', 'start': 570.25, 'duration': 5.129}
+{'text': 'with praxis um but but it was always for', 'start': 571.6, 'duration': 7.14}
+{'text': 'us praxis was away and this again in the', 'start': 575.379, 'duration': 4.531}
+{'text': "context of today's conversation I think", 'start': 578.74, 'duration': 3.3}
+{'text': 'is important where we situated ourselves', 'start': 579.91, 'duration': 3.69}
+{'text': 'very deliberately between what were then', 'start': 582.04, 'duration': 3.979}
+{'text': 'the two dominant modes of architectural', 'start': 583.6, 'duration': 5.27}
+{'text': 'publications one of which were really', 'start': 586.019, 'duration': 11.471}
+{'text': 'heavy Theory densely textual very mildly', 'start': 588.87, 'duration': 11.019}
+{'text': 'illustrated journals like assemblage', 'start': 597.49, 'duration': 5.969}
+{'text': 'assemblage was edited by K Michael Hayes', 'start': 599.889, 'duration': 5.581}
+{'text': 'who actually later became my doctoral', 'start': 603.459, 'duration': 4.291}
+{'text': 'advisor which is kind of funny but um so', 'start': 605.47, 'duration': 4.02}
+{'text': 'we were reacting against that model', 'start': 607.75, 'duration': 3.449}
+{'text': "which there's a lot think a lot of", 'start': 609.49, 'duration': 5.07}
+{'text': 'doulas Foucault derrida images of', 'start': 611.199, 'duration': 6.531}
+{'text': 'buildings every once in a while versus', 'start': 614.56, 'duration': 6.57}
+{'text': 'architecture or architectural record or', 'start': 617.73, 'duration': 5.229}
+{'text': 'any number of trade publications which', 'start': 621.13, 'duration': 5.309}
+{'text': 'were you know splashy sunset images of', 'start': 622.959, 'duration': 5.671}
+{'text': 'buildings a lot of advertisements and', 'start': 626.439, 'duration': 4.351}
+{'text': 'this is of course the landscape has', 'start': 628.63, 'duration': 4.34}
+{'text': 'changed now and we were sort of just on', 'start': 630.79, 'duration': 4.26}
+{'text': 'online publications were just starting', 'start': 632.97, 'duration': 4.239}
+{'text': "to emerge that's a whole other", 'start': 635.05, 'duration': 3.99}
+{'text': 'conversation but I think we we really', 'start': 637.209, 'duration': 3.841}
+{'text': 'wanted to incorporate both of those', 'start': 639.04, 'duration': 4.049}
+{'text': 'aspects right like and I should also say', 'start': 641.05, 'duration': 4.769}
+{'text': 'that there was models like progressive', 'start': 643.089, 'duration': 4.47}
+{'text': 'architecture had just recently folded', 'start': 645.819, 'duration': 3.801}
+{'text': 'when we started but we were really drawn', 'start': 647.559, 'duration': 4.291}
+{'text': 'journals more like that or even a lot of', 'start': 649.62, 'duration': 3.699}
+{'text': 'European models like an el croquis or', 'start': 651.85, 'duration': 3.69}
+{'text': 'there was we felt like there was a way', 'start': 653.319, 'duration': 4.71}
+{'text': 'to to create there was a type of', 'start': 655.54, 'duration': 3.719}
+{'text': "architecture publication that didn't", 'start': 658.029, 'duration': 4.43}
+{'text': 'exist in America which was both text and', 'start': 659.259, 'duration': 4.771}
+{'text': 'image', 'start': 662.459, 'duration': 4.511}
+{'text': 'and more importantly which featured our', 'start': 664.03, 'duration': 4.35}
+{'text': 'projects in depth we were also really', 'start': 666.97, 'duration': 2.76}
+{'text': 'inspired I should say by the kind of', 'start': 668.38, 'duration': 2.91}
+{'text': 'what Denise Scott Brown talked about the', 'start': 669.73, 'duration': 3.81}
+{'text': 'kind of little magazines or later when', 'start': 671.29, 'duration': 3.24}
+{'text': 'Peter Eisenman was talking about', 'start': 673.54, 'duration': 2.22}
+{'text': 'perspective he called the big little', 'start': 674.53, 'duration': 2.85}
+{'text': "magazines this idea of a magazine that's", 'start': 675.76, 'duration': 3.96}
+{'text': 'kind of you know grassroots comes up', 'start': 677.38, 'duration': 5.76}
+{'text': 'from kind of um often from the margins', 'start': 679.72, 'duration': 6.27}
+{'text': 'is a little more polemical is a not', 'start': 683.14, 'duration': 5.01}
+{'text': 'institutionally affiliated and over the', 'start': 685.99, 'duration': 3.45}
+{'text': 'years we actually had a lot of offers to', 'start': 688.15, 'duration': 2.85}
+{'text': 'become affiliated with institutions and', 'start': 689.44, 'duration': 3.15}
+{'text': "we really did we didn't do that because", 'start': 691.0, 'duration': 3.75}
+{'text': 'we really valued the the independence i', 'start': 692.59, 'duration': 3.9}
+{'text': 'should say practices totally', 'start': 694.75, 'duration': 5.69}
+{'text': 'independently published and funded in um', 'start': 696.49, 'duration': 8.34}
+{'text': "it's really a bootstrap operation this", 'start': 700.44, 'duration': 6.16}
+{'text': 'was a little template that i found from', 'start': 704.83, 'duration': 3.21}
+{'text': 'the early days to that i think is', 'start': 706.6, 'duration': 3.12}
+{'text': 'interesting just in terms of this notion', 'start': 708.04, 'duration': 4.5}
+{'text': 'of editing writing designing is all of', 'start': 709.72, 'duration': 4.47}
+{'text': 'the same ilk or at least for us we', 'start': 712.54, 'duration': 3.27}
+{'text': 'approach it like we approached the', 'start': 714.19, 'duration': 3.3}
+{'text': 'design of the magazine in the same way', 'start': 715.81, 'duration': 4.56}
+{'text': 'that we approached design problems in', 'start': 717.49, 'duration': 4.65}
+{'text': 'the architecture studio and so we', 'start': 720.37, 'duration': 3.3}
+{'text': 'actually generated this early diagram', 'start': 722.14, 'duration': 4.05}
+{'text': 'for how to conceptualize the journal you', 'start': 723.67, 'duration': 3.78}
+{'text': 'know what would be the kind of main body', 'start': 726.19, 'duration': 2.79}
+{'text': 'of it how would we by the way this', 'start': 727.45, 'duration': 3.57}
+{'text': 'actually ended up not translating it all', 'start': 728.98, 'duration': 4.59}
+{'text': 'into the journal nevertheless that idea', 'start': 731.02, 'duration': 3.87}
+{'text': 'that this was this was only way we knew', 'start': 733.57, 'duration': 3.03}
+{'text': 'how to approach it right this was how we', 'start': 734.89, 'duration': 3.93}
+{'text': 'were thinking about a journal as a as a', 'start': 736.6, 'duration': 5.91}
+{'text': 'design artifact and to get more to the', 'start': 738.82, 'duration': 5.34}
+{'text': 'topic of writing i think i was looking', 'start': 742.51, 'duration': 2.97}
+{'text': 'through and thinking about these 15', 'start': 744.16, 'duration': 3.99}
+{'text': 'issues and from the beginning something', 'start': 745.48, 'duration': 3.87}
+{'text': 'that was very important to us was to', 'start': 748.15, 'duration': 4.05}
+{'text': 'feature architectural projects and also', 'start': 749.35, 'duration': 6.42}
+{'text': 'architects writing about those buildings', 'start': 752.2, 'duration': 5.94}
+{'text': 'and then critics kind of as a triad', 'start': 755.77, 'duration': 4.23}
+{'text': 'those three things so architects writing', 'start': 758.14, 'duration': 3.75}
+{'text': 'critics writings and then the projects', 'start': 760.0, 'duration': 4.92}
+{'text': 'themselves we as part of that we were', 'start': 761.89, 'duration': 4.8}
+{'text': 'very interested in questions rather than', 'start': 764.92, 'duration': 3.75}
+{'text': 'declarations and we actually began the', 'start': 766.69, 'duration': 3.6}
+{'text': 'journal with a series of this is the', 'start': 768.67, 'duration': 3.84}
+{'text': 'first editorial and we very deliberately', 'start': 770.29, 'duration': 3.99}
+{'text': 'set up a first years of five questions', 'start': 772.51, 'duration': 4.14}
+{'text': 'sort of as a with a nod to look of aziz', 'start': 774.28, 'duration': 4.68}
+{'text': 'five points so we had five questions we', 'start': 776.65, 'duration': 4.14}
+{'text': "weren't making arguments or points or", 'start': 778.96, 'duration': 3.9}
+{'text': "even it wasn't a kind of manifesto", 'start': 780.79, 'duration': 3.96}
+{'text': 'sensibility was orillia in corry', 'start': 782.86, 'duration': 4.2}
+{'text': 'sensibility and then over the years in', 'start': 784.75, 'duration': 6.63}
+{'text': "the journal we've actually included it i", 'start': 787.06, 'duration': 6.66}
+{'text': 'never noticed this until i was preparing', 'start': 791.38, 'duration': 4.47}
+{'text': 'for today that we asked a lot of', 'start': 793.72, 'duration': 4.11}
+{'text': 'questions and actually the form of the', 'start': 795.85, 'duration': 5.94}
+{'text': 'interview became a default for us partly', 'start': 797.83, 'duration': 6.51}
+{'text': "because architects tell you they don't", 'start': 801.79, 'duration': 5.37}
+{'text': "have any time to write something so it's", 'start': 804.34, 'duration': 6.12}
+{'text': 'an easy way to get a kind of argument', 'start': 807.16, 'duration': 6.33}
+{'text': "out of an architect but I think it's", 'start': 810.46, 'duration': 4.5}
+{'text': 'also it fits with the way we are', 'start': 813.49, 'duration': 3.39}
+{'text': 'approach is that we liked this idea of a', 'start': 814.96, 'duration': 3.75}
+{'text': 'kind of question based so this is an', 'start': 816.88, 'duration': 3.09}
+{'text': 'article that we had early on in that', 'start': 818.71, 'duration': 2.94}
+{'text': 'same first issue or bernard tschumi we', 'start': 819.97, 'duration': 3.84}
+{'text': 'interviewed him about this project and', 'start': 821.65, 'duration': 5.49}
+{'text': 'about his practice in general we also', 'start': 823.81, 'duration': 5.37}
+{'text': 'this is a little bit later where we went', 'start': 827.14, 'duration': 3.45}
+{'text': 'back and we interviewed REM koolhaas', 'start': 829.18, 'duration': 3.54}
+{'text': 'bernard tschumi about we were this is an', 'start': 830.59, 'duration': 3.87}
+{'text': 'issue on program and we saw both of them', 'start': 832.72, 'duration': 3.62}
+{'text': 'as important figures in the kind of', 'start': 834.46, 'duration': 4.17}
+{'text': 'rethinking of program particularly 70s', 'start': 836.34, 'duration': 3.7}
+{'text': 'and 80s and so we asked them both the', 'start': 838.63, 'duration': 3.18}
+{'text': 'same question and then feature their', 'start': 840.04, 'duration': 3.0}
+{'text': 'answer side by side along with the', 'start': 841.81, 'duration': 3.63}
+{'text': 'timeline of their projects that were', 'start': 843.04, 'duration': 6.06}
+{'text': 'relevant to those questions we also try', 'start': 845.44, 'duration': 6.21}
+{'text': 'whenever we can to we the pairing of', 'start': 849.1, 'duration': 3.96}
+{'text': 'architectural work and architects', 'start': 851.65, 'duration': 3.51}
+{'text': 'writings i think is an important pairing', 'start': 853.06, 'duration': 4.5}
+{'text': 'and in this case this is an example from', 'start': 855.16, 'duration': 4.38}
+{'text': 'an issue we did on technology where we', 'start': 857.56, 'duration': 3.18}
+{'text': 'had an architect named Marco Thor', 'start': 859.54, 'duration': 3.18}
+{'text': 'pisiform called decoy and we are', 'start': 860.74, 'duration': 4.94}
+{'text': 'featuring his work at this and very', 'start': 862.72, 'duration': 4.83}
+{'text': 'deliberately trying to pair that', 'start': 865.68, 'duration': 3.52}
+{'text': 'literally on the same page thinking', 'start': 867.55, 'duration': 4.32}
+{'text': 'about what images what projects are kind', 'start': 869.2, 'duration': 6.24}
+{'text': 'of aligning with the statements and', 'start': 871.87, 'duration': 5.22}
+{'text': "comes that he's making in this interview", 'start': 875.44, 'duration': 4.56}
+{'text': 'so that juxtaposition has always been', 'start': 877.09, 'duration': 4.68}
+{'text': "really important they wouldn't talk more", 'start': 880.0, 'duration': 3.24}
+{'text': 'about how one thinks about that', 'start': 881.77, 'duration': 4.98}
+{'text': 'relationship between those two literally', 'start': 883.24, 'duration': 6.57}
+{'text': 'in the space of a valet out this is just', 'start': 886.75, 'duration': 5.16}
+{'text': 'more of that same interview in his work', 'start': 889.81, 'duration': 3.75}
+{'text': 'in that same issue we also featured on', 'start': 891.91, 'duration': 4.65}
+{'text': "Sheila Kennedy's work who's an architect", 'start': 893.56, 'duration': 6.36}
+{'text': "at MIT and who also hear there's an", 'start': 896.56, 'duration': 4.8}
+{'text': 'interview you know one thing I just', 'start': 899.92, 'duration': 2.67}
+{'text': "think it's worth saying and maybe we can", 'start': 901.36, 'duration': 5.28}
+{'text': 'talk about later is the question of', 'start': 902.59, 'duration': 6.45}
+{'text': 'often we encounter this notion that', 'start': 906.64, 'duration': 5.61}
+{'text': "architects can't write right and I was", 'start': 909.04, 'duration': 4.41}
+{'text': 'thinking about this is I think about the', 'start': 912.25, 'duration': 2.55}
+{'text': 'interview was it was that did we do', 'start': 913.45, 'duration': 2.67}
+{'text': "interviews because architects can't", 'start': 914.8, 'duration': 4.23}
+{'text': "actually they can't write and I don't", 'start': 916.12, 'duration': 4.17}
+{'text': "think that's true but I think it's", 'start': 919.03, 'duration': 3.39}
+{'text': 'something worth thinking about you know', 'start': 920.29, 'duration': 3.93}
+{'text': "so many the Arctic's that we admired you", 'start': 922.42, 'duration': 3.78}
+{'text': 'know people like bernard tschumi people', 'start': 924.22, 'duration': 4.56}
+{'text': 'like early cool house people like', 'start': 926.2, 'duration': 4.05}
+{'text': 'eisenmann or greg lynn like all those', 'start': 928.78, 'duration': 2.1}
+{'text': 'architects', 'start': 930.25, 'duration': 3.18}
+{'text': 'were right that it was their written', 'start': 930.88, 'duration': 4.14}
+{'text': 'projects that we admired as much as', 'start': 933.43, 'duration': 4.05}
+{'text': 'their architecture itself and so I think', 'start': 935.02, 'duration': 3.57}
+{'text': "that's something that was really", 'start': 937.48, 'duration': 2.67}
+{'text': 'important to us to allow the space for', 'start': 938.59, 'duration': 3.12}
+{'text': 'architects to articulate their ideas and', 'start': 940.15, 'duration': 4.23}
+{'text': "words as well as in designs but I'll", 'start': 941.71, 'duration': 3.72}
+{'text': 'just sort that out there i think is a', 'start': 944.38, 'duration': 4.65}
+{'text': 'bias that still exists in architecture', 'start': 945.43, 'duration': 5.43}
+{'text': 'or a presumption that architects because', 'start': 949.03, 'duration': 3.87}
+{'text': "they're skilled and one aspect which is", 'start': 950.86, 'duration': 3.39}
+{'text': "there they're you know they're skilled", 'start': 952.9, 'duration': 2.91}
+{'text': 'as designers they may be are not skilled', 'start': 954.25, 'duration': 5.28}
+{'text': 'as writers I think we have not found', 'start': 955.81, 'duration': 6.87}
+{'text': 'that to be true and we also have done a', 'start': 959.53, 'duration': 5.85}
+{'text': 'lot of work with them as a forum as an', 'start': 962.68, 'duration': 5.06}
+{'text': 'interesting exploration for us in', 'start': 965.38, 'duration': 5.7}
+{'text': 'responsive texts where we have in this', 'start': 967.74, 'duration': 5.02}
+{'text': 'case it was a we had a series of', 'start': 971.08, 'duration': 3.81}
+{'text': 'artificial critics responding to how', 'start': 972.76, 'duration': 4.89}
+{'text': 'phosphor had just produced a text call', 'start': 974.89, 'duration': 4.41}
+{'text': 'designing crime and it was there was a', 'start': 977.65, 'duration': 2.97}
+{'text': 'kind of a lot of buzz about it so we had', 'start': 979.3, 'duration': 4.14}
+{'text': 'different critics talk about his text', 'start': 980.62, 'duration': 4.71}
+{'text': 'how faster is pissed at us to this day', 'start': 983.44, 'duration': 3.63}
+{'text': 'by the way because he really did not', 'start': 985.33, 'duration': 3.33}
+{'text': 'like what these people had to say about', 'start': 987.07, 'duration': 4.41}
+{'text': 'his text we also had then had to give', 'start': 988.66, 'duration': 5.19}
+{'text': 'him space to respond it would be much', 'start': 991.48, 'duration': 3.81}
+{'text': 'easier if it was a blog but this is', 'start': 993.85, 'duration': 4.65}
+{'text': "pretty blog so no think it's a print", 'start': 995.29, 'duration': 4.62}
+{'text': 'there was nothing since they only come', 'start': 998.5, 'duration': 2.73}
+{'text': "out every two years that's kind of a", 'start': 999.91, 'duration': 3.96}
+{'text': 'challenge but nevertheless I think this', 'start': 1001.23, 'duration': 4.53}
+{'text': 'this also this idea of multiple voices', 'start': 1003.87, 'duration': 3.54}
+{'text': 'is also really important part for us I', 'start': 1005.76, 'duration': 3.09}
+{'text': 'think of what writing and architecture', 'start': 1007.41, 'duration': 3.29}
+{'text': 'means allowing different vantage points', 'start': 1008.85, 'duration': 8.04}
+{'text': "on a given issue sorry let's give this", 'start': 1010.7, 'duration': 7.57}
+{'text': 'is and this is um this is a', 'start': 1016.89, 'duration': 2.58}
+{'text': 'questionnaire we did four different', 'start': 1018.27, 'duration': 3.66}
+{'text': 'curators we did an issue on curation and', 'start': 1019.47, 'duration': 3.75}
+{'text': 'we had different architecture curators', 'start': 1021.93, 'duration': 4.019}
+{'text': 'talking about how they conceptualize', 'start': 1023.22, 'duration': 4.71}
+{'text': 'duration I just thought I would put one', 'start': 1025.949, 'duration': 6.361}
+{'text': 'more issue for me anyway I wanted to go', 'start': 1027.93, 'duration': 8.13}
+{'text': 'all together if I go backwards um we did', 'start': 1032.31, 'duration': 8.25}
+{'text': 'an issue a few years ago that is it I', 'start': 1036.06, 'duration': 5.94}
+{'text': 'also became very self-conscious that', 'start': 1040.56, 'duration': 2.61}
+{'text': "we've become much more text heavy", 'start': 1042.0, 'duration': 3.51}
+{'text': "actually as we've gotten more mature and", 'start': 1043.17, 'duration': 4.95}
+{'text': 'this was an issue that um we had 11', 'start': 1045.51, 'duration': 6.87}
+{'text': 'architects interview each other so we', 'start': 1048.12, 'duration': 6.33}
+{'text': 'did a kind of round robin where we start', 'start': 1052.38, 'duration': 3.45}
+{'text': 'we were always present and asking', 'start': 1054.45, 'duration': 3.42}
+{'text': 'questions too but this notion that they', 'start': 1055.83, 'duration': 4.08}
+{'text': 'would ask questions of one another so', 'start': 1057.87, 'duration': 4.17}
+{'text': 'we had and that the design of the', 'start': 1059.91, 'duration': 3.48}
+{'text': 'journal was actually split so that you', 'start': 1062.04, 'duration': 2.61}
+{'text': 'would have these these parallel', 'start': 1063.39, 'duration': 2.34}
+{'text': "interviews running so you'd have the", 'start': 1064.65, 'duration': 3.24}
+{'text': 'living interviewing Haller Yoon and then', 'start': 1065.73, 'duration': 3.3}
+{'text': 'the next one hell are you and would', 'start': 1067.89, 'duration': 2.25}
+{'text': 'interview someone else and then they', 'start': 1069.03, 'duration': 3.42}
+{'text': "would kind of run I'm tracking across", 'start': 1070.14, 'duration': 4.25}
+{'text': 'each other horizontally on the page', 'start': 1072.45, 'duration': 3.96}
+{'text': 'these are some of those examples of', 'start': 1074.39, 'duration': 3.13}
+{'text': 'those interviews and I think this was', 'start': 1076.41, 'duration': 2.91}
+{'text': 'also a powerful way to think about how', 'start': 1077.52, 'duration': 5.31}
+{'text': 'architects express their ideas in', 'start': 1079.32, 'duration': 7.56}
+{'text': 'writing um I did want to just so one of', 'start': 1082.83, 'duration': 5.37}
+{'text': 'the things that was sort of suggested in', 'start': 1086.88, 'duration': 2.43}
+{'text': 'the questions and I just wanted to touch', 'start': 1088.2, 'duration': 2.91}
+{'text': "on and have a clock up here so I've no", 'start': 1089.31, 'duration': 3.54}
+{'text': "idea how much time I've shaken but um I", 'start': 1091.11, 'duration': 3.99}
+{'text': 'just want i want to touch on two more', 'start': 1092.85, 'duration': 4.56}
+{'text': 'issues the first one is why print and I', 'start': 1095.1, 'duration': 3.18}
+{'text': 'think this is an interesting question', 'start': 1097.41, 'duration': 3.57}
+{'text': 'today it was a question that we were', 'start': 1098.28, 'duration': 6.0}
+{'text': 'asked someone we first started in 1999', 'start': 1100.98, 'duration': 4.44}
+{'text': 'there certainly were starting to be', 'start': 1104.28, 'duration': 4.02}
+{'text': 'online publications nowhere near the the', 'start': 1105.42, 'duration': 4.8}
+{'text': 'depth of breath that we have today but I', 'start': 1108.3, 'duration': 3.63}
+{'text': "think it's still a valid question what", 'start': 1110.22, 'duration': 4.95}
+{'text': 'is the role of the artifact itself and', 'start': 1111.93, 'duration': 4.47}
+{'text': "that's something that's always been", 'start': 1115.17, 'duration': 4.35}
+{'text': 'incredibly important to us and I think', 'start': 1116.4, 'duration': 4.56}
+{'text': "it's also because we because we", 'start': 1119.52, 'duration': 3.78}
+{'text': 'conceptualize it as a design project', 'start': 1120.96, 'duration': 5.73}
+{'text': 'this is my office at home and I put this', 'start': 1123.3, 'duration': 6.35}
+{'text': 'up just to also talk about the', 'start': 1126.69, 'duration': 6.78}
+{'text': 'challenges of you know it practices slow', 'start': 1129.65, 'duration': 5.98}
+{'text': "but it's also heavy and it's like you", 'start': 1133.47, 'duration': 4.05}
+{'text': "know it's carting it around as a pain", 'start': 1135.63, 'duration': 3.3}
+{'text': "that's really expensive to ship the", 'start': 1137.52, 'duration': 3.09}
+{'text': "issues I mean we don't even make any", 'start': 1138.93, 'duration': 2.82}
+{'text': 'money by the time we send it to someone', 'start': 1140.61, 'duration': 2.19}
+{'text': "in Europe it's like I think we lose", 'start': 1141.75, 'duration': 3.0}
+{'text': 'money actually for what we cause so but', 'start': 1142.8, 'duration': 5.76}
+{'text': 'this idea of the thingness of praxis has', 'start': 1144.75, 'duration': 6.09}
+{'text': 'its drawbacks but it also i think for us', 'start': 1148.56, 'duration': 3.99}
+{'text': 'that is really the joy in the love of', 'start': 1150.84, 'duration': 2.88}
+{'text': 'the artifact and this is where I think', 'start': 1152.55, 'duration': 3.24}
+{'text': "as designers editing right that's our", 'start': 1153.72, 'duration': 4.74}
+{'text': 'joy in making these issues often emerges', 'start': 1155.79, 'duration': 3.78}
+{'text': "and I'll just take you through a few", 'start': 1158.46, 'duration': 3.84}
+{'text': 'examples of how we approach the art', 'start': 1159.57, 'duration': 5.19}
+{'text': 'design of the artifact itself so we work', 'start': 1162.3, 'duration': 4.92}
+{'text': 'with them someone a Ronald right out I', 'start': 1164.76, 'duration': 3.69}
+{'text': "don't know what's happening with this", 'start': 1167.22, 'duration': 4.569}
+{'text': 'slideshow but has a mind of its own huh', 'start': 1168.45, 'duration': 9.25}
+{'text': "so there's all those slides and so happy", 'start': 1171.789, 'duration': 10.301}
+{'text': "we it's funny it'll go backwards one by", 'start': 1177.7, 'duration': 5.62}
+{'text': 'one but when it goes forwards it', 'start': 1182.09, 'duration': 4.559}
+{'text': "progresses anyway we we've designed a", 'start': 1183.32, 'duration': 5.819}
+{'text': 'series of covers over the years that for', 'start': 1186.649, 'duration': 5.701}
+{'text': 'us the covers themselves have to', 'start': 1189.139, 'duration': 5.971}
+{'text': 'articulate the thematic in a way that we', 'start': 1192.35, 'duration': 4.26}
+{'text': "feel like the projects that we're", 'start': 1195.11, 'duration': 3.21}
+{'text': 'including are doing as well so in other', 'start': 1196.61, 'duration': 2.97}
+{'text': "words it's not just an image of a", 'start': 1198.32, 'duration': 2.76}
+{'text': 'project inside but how do we', 'start': 1199.58, 'duration': 3.599}
+{'text': 'conceptualize the design of the magazine', 'start': 1201.08, 'duration': 3.839}
+{'text': 'in the same way that these architects', 'start': 1203.179, 'duration': 3.21}
+{'text': 'are conceptualizing the theme so this is', 'start': 1204.919, 'duration': 2.791}
+{'text': 'an example we were looking at surface', 'start': 1206.389, 'duration': 3.27}
+{'text': 'the question of surface and we did an', 'start': 1207.71, 'duration': 3.99}
+{'text': "in-depth study of her sucking dem Ron's", 'start': 1209.659, 'duration': 3.75}
+{'text': 'new deyoung museum out in San Francisco', 'start': 1211.7, 'duration': 3.359}
+{'text': 'which you may know that facade it has a', 'start': 1213.409, 'duration': 4.5}
+{'text': 'kind of metal Dippold perforated facade', 'start': 1215.059, 'duration': 4.441}
+{'text': 'that was actually based on an image that', 'start': 1217.909, 'duration': 6.24}
+{'text': 'they had found of a kind of light coming', 'start': 1219.5, 'duration': 6.0}
+{'text': 'that down through the trees and they', 'start': 1224.149, 'duration': 2.851}
+{'text': 'live at his pics later the image it and', 'start': 1225.5, 'duration': 3.6}
+{'text': 'then created the kind of perforation', 'start': 1227.0, 'duration': 3.48}
+{'text': 'pattern so we thought well how could we', 'start': 1229.1, 'duration': 2.64}
+{'text': 'translate that actually into the cover', 'start': 1230.48, 'duration': 3.929}
+{'text': 'of the journal so at great cost and', 'start': 1231.74, 'duration': 4.38}
+{'text': 'headache we actually made this early', 'start': 1234.409, 'duration': 4.5}
+{'text': 'kind of a laser-cut pixelated image', 'start': 1236.12, 'duration': 3.509}
+{'text': 'showed there be a kind of', 'start': 1238.909, 'duration': 2.37}
+{'text': 'semi-translucent idea that then you', 'start': 1239.629, 'duration': 3.54}
+{'text': 'would have a kind of hint of the issue', 'start': 1241.279, 'duration': 4.14}
+{'text': 'behind and sorry about the cheesy filter', 'start': 1243.169, 'duration': 5.34}
+{'text': 'of their arm on PowerPoint similarly', 'start': 1245.419, 'duration': 5.161}
+{'text': "with the um I'll go back to this is our", 'start': 1248.509, 'duration': 5.851}
+{'text': 'issue on technology where this was a at', 'start': 1250.58, 'duration': 4.979}
+{'text': 'a moment where there was this was two', 'start': 1254.36, 'duration': 3.019}
+{'text': 'thousand and six or so and there was a', 'start': 1255.559, 'duration': 4.041}
+{'text': 'thermochromic ink which is an ink that', 'start': 1257.379, 'duration': 4.42}
+{'text': "changes property in this case when it's", 'start': 1259.6, 'duration': 4.84}
+{'text': 'heated it becomes trans parents more or', 'start': 1261.799, 'duration': 4.98}
+{'text': 'less so in the same way that we were', 'start': 1264.44, 'duration': 3.449}
+{'text': 'looking at architects that were rican', 'start': 1266.779, 'duration': 2.701}
+{'text': 'sexualizing technologies what would be', 'start': 1267.889, 'duration': 3.15}
+{'text': 'the technology of printing that we could', 'start': 1269.48, 'duration': 2.939}
+{'text': 'think through in terms of the issue', 'start': 1271.039, 'duration': 3.541}
+{'text': 'itself so we printed an image with', 'start': 1272.419, 'duration': 4.441}
+{'text': 'thermochromic ink and actually hid the', 'start': 1274.58, 'duration': 4.02}
+{'text': 'table of contents behind so you can see', 'start': 1276.86, 'duration': 3.029}
+{'text': 'the table of contents is behind this', 'start': 1278.6, 'duration': 3.24}
+{'text': "image we didn't print it anywhere else", 'start': 1279.889, 'duration': 4.591}
+{'text': "in the journal so you had to when they'd", 'start': 1281.84, 'duration': 3.99}
+{'text': 'using the whole the journal in the heat', 'start': 1284.48, 'duration': 3.449}
+{'text': "of your hand now it's going to go fast", 'start': 1285.83, 'duration': 3.689}
+{'text': 'just warn you because when I go forward', 'start': 1287.929, 'duration': 3.36}
+{'text': "it doesn't the heat of your hand would", 'start': 1289.519, 'duration': 8.52}
+{'text': 'make that the this by the way I think', 'start': 1291.289, 'duration': 8.34}
+{'text': "this was in a sauna or something I don't", 'start': 1298.039, 'duration': 3.901}
+{'text': 'know that was a really warm rooms of it', 'start': 1299.629, 'duration': 3.78}
+{'text': 'and the problem with thermochromic ink', 'start': 1301.94, 'duration': 2.69}
+{'text': "is it doesn't actually work at", 'start': 1303.409, 'duration': 2.931}
+{'text': 'also you could no longer access the', 'start': 1304.63, 'duration': 3.54}
+{'text': 'table with others so this journal', 'start': 1306.34, 'duration': 4.2}
+{'text': 'because you give him nevertheless that', 'start': 1308.17, 'duration': 3.9}
+{'text': 'was another example I think of us just', 'start': 1310.54, 'duration': 4.08}
+{'text': 'trying to conceptualize the cover and a', 'start': 1312.07, 'duration': 3.96}
+{'text': 'final when I do want to show you issue 4', 'start': 1314.62, 'duration': 3.15}
+{'text': 'which is where we looking at landscapes', 'start': 1316.03, 'duration': 4.56}
+{'text': 'and we were considering the cover itself', 'start': 1317.77, 'duration': 5.37}
+{'text': 'as a kind of landscape landscape as a', 'start': 1320.59, 'duration': 4.29}
+{'text': 'thinkin condition thinking about surface', 'start': 1323.14, 'duration': 3.42}
+{'text': 'layers layers of landscape and so we', 'start': 1324.88, 'duration': 4.35}
+{'text': "actually used them isn't technology of", 'start': 1326.56, 'duration': 5.01}
+{'text': 'like when you get a new credit card and', 'start': 1329.23, 'duration': 4.17}
+{'text': "there's the bike young name it's like an", 'start': 1331.57, 'duration': 3.24}
+{'text': "electromagnetic kind of scent but it's", 'start': 1333.4, 'duration': 3.44}
+{'text': "not sticky but it actually so it's a", 'start': 1334.81, 'duration': 4.44}
+{'text': 'plastic-like film that was attached to', 'start': 1336.84, 'duration': 3.58}
+{'text': 'the cover we get calls all the time', 'start': 1339.25, 'duration': 3.12}
+{'text': "people like my car broke we're like no", 'start': 1340.42, 'duration': 4.35}
+{'text': "it's supposed to do that so that you", 'start': 1342.37, 'duration': 3.84}
+{'text': 'peel away the ideas that you would peel', 'start': 1344.77, 'duration': 3.03}
+{'text': 'away this kind of outer layer this is we', 'start': 1346.21, 'duration': 2.82}
+{'text': 'feature dillard skip videos blur', 'start': 1347.8, 'duration': 2.46}
+{'text': 'building inside and so we had a kind of', 'start': 1349.03, 'duration': 3.57}
+{'text': 'abstract version of that with words from', 'start': 1350.26, 'duration': 3.75}
+{'text': 'the table of contents so actually', 'start': 1352.6, 'duration': 2.76}
+{'text': 'telescoping through so as you peeled', 'start': 1354.01, 'duration': 2.76}
+{'text': 'away you would see these words and then', 'start': 1355.36, 'duration': 2.67}
+{'text': 'as you moved into the body of the', 'start': 1356.77, 'duration': 3.63}
+{'text': 'journal those words were actually taken', 'start': 1358.03, 'duration': 5.85}
+{'text': 'from the table of contents so we just', 'start': 1360.4, 'duration': 7.08}
+{'text': 'want to end by a question of the end and', 'start': 1363.88, 'duration': 7.05}
+{'text': "this is a kind of moment in which we're", 'start': 1367.48, 'duration': 6.96}
+{'text': 'actually thinking about what does it', 'start': 1370.93, 'duration': 5.46}
+{'text': 'mean to have been publishing this for 15', 'start': 1374.44, 'duration': 4.5}
+{'text': 'years what is the landscape of', 'start': 1376.39, 'duration': 4.83}
+{'text': 'architecture publications today how do', 'start': 1378.94, 'duration': 5.07}
+{'text': "we fit where should we fit and we've", 'start': 1381.22, 'duration': 4.32}
+{'text': 'actually just putting out a call for a', 'start': 1384.01, 'duration': 5.79}
+{'text': "final issue so or at least we're or it", 'start': 1385.54, 'duration': 6.09}
+{'text': "might turn into something else I don't I", 'start': 1389.8, 'duration': 4.17}
+{'text': "don't know but it feels like you know", 'start': 1391.63, 'duration': 5.16}
+{'text': 'practices it costs us $25,000 to print', 'start': 1393.97, 'duration': 5.16}
+{'text': "each issue and increasingly we're", 'start': 1396.79, 'duration': 3.99}
+{'text': 'finding that I think it is a moment to', 'start': 1399.13, 'duration': 4.83}
+{'text': 'question what is the role you know it', 'start': 1400.78, 'duration': 4.92}
+{'text': 'back to this little magazine model right', 'start': 1403.96, 'duration': 3.45}
+{'text': 'our little are these magazines meant to', 'start': 1405.7, 'duration': 3.78}
+{'text': 'be kind of ephemeral and occupy a kind', 'start': 1407.41, 'duration': 4.23}
+{'text': 'of certain moment in time and has that', 'start': 1409.48, 'duration': 5.43}
+{'text': "moment passed and so I feel like I'm on", 'start': 1411.64, 'duration': 4.62}
+{'text': 'a therapy couch here now but', 'start': 1414.91, 'duration': 3.24}
+{'text': 'nevertheless I think this for me this is', 'start': 1416.26, 'duration': 3.33}
+{'text': 'maybe part of this conversation about', 'start': 1418.15, 'duration': 4.65}
+{'text': 'writing and building and these types of', 'start': 1419.59, 'duration': 5.97}
+{'text': 'journals how do they participate in', 'start': 1422.8, 'duration': 4.23}
+{'text': 'architectural discourse in and is there', 'start': 1425.56, 'duration': 5.25}
+{'text': 'a natural is there a kind of suggestion', 'start': 1427.03, 'duration': 6.21}
+{'text': 'of a finite time period so I welcome', 'start': 1430.81, 'duration': 4.81}
+{'text': 'thoughts about that too but um', 'start': 1433.24, 'duration': 4.73}
+{'text': "thank you I've really enjoyed this", 'start': 1435.62, 'duration': 3.94}
+{'text': 'opportunity to present some of these', 'start': 1437.97, 'duration': 5.21}
+{'text': 'ideas and i look forward to conversation', 'start': 1439.56, 'duration': 3.62}
+{'text': "Thank You Amanda don't go over the edge", 'start': 1450.5, 'duration': 9.13}
+{'text': 'so brian wallace is our next speaker and', 'start': 1455.6, 'duration': 6.58}
+{'text': 'brian is a renowned curator and', 'start': 1459.63, 'duration': 5.46}
+{'text': "historian of photography but he's here", 'start': 1462.18, 'duration': 5.04}
+{'text': 'today to talk about blasted allegories', 'start': 1465.09, 'duration': 4.35}
+{'text': 'which is a book of artists writings that', 'start': 1467.22, 'duration': 4.14}
+{'text': 'he edited way back in nineteen eighty', 'start': 1469.44, 'duration': 5.55}
+{'text': 'seven think but which I would say is', 'start': 1471.36, 'duration': 5.67}
+{'text': 'still the Bible of contemporary artists', 'start': 1474.99, 'duration': 4.53}
+{'text': "writings today so we're really excited", 'start': 1477.03, 'duration': 5.37}
+{'text': 'to hear where it stands for you these', 'start': 1479.52, 'duration': 13.01}
+{'text': 'days thank you very good I just want to', 'start': 1482.4, 'duration': 13.98}
+{'text': "echo Amanda's remarks about this program", 'start': 1492.53, 'duration': 6.67}
+{'text': 'which i think is really exciting and as', 'start': 1496.38, 'duration': 7.17}
+{'text': "Jen pointed out I think it's coming at a", 'start': 1499.2, 'duration': 6.48}
+{'text': 'propitious time because there is', 'start': 1503.55, 'duration': 7.32}
+{'text': 'tremendous interest in not just artists', 'start': 1505.68, 'duration': 9.03}
+{'text': 'but architects everybody has access to a', 'start': 1510.87, 'duration': 7.53}
+{'text': 'platform to write and publish now not', 'start': 1514.71, 'duration': 6.45}
+{'text': 'just online but all of the small', 'start': 1518.4, 'duration': 6.03}
+{'text': 'publications artists books anybody can', 'start': 1521.16, 'duration': 7.83}
+{'text': 'do it cheaply and easily now and as Jen', 'start': 1524.43, 'duration': 7.11}
+{'text': 'was mentioning if you go to the artist', 'start': 1528.99, 'duration': 6.63}
+{'text': "Book Fair at ps1 every year it's just", 'start': 1531.54, 'duration': 8.22}
+{'text': 'thousands of artists small publishers', 'start': 1535.62, 'duration': 6.83}
+{'text': "and so there's this incredible", 'start': 1539.76, 'duration': 6.39}
+{'text': 'proliferation of activity now in this', 'start': 1542.45, 'duration': 7.21}
+{'text': 'intersection between you know what used', 'start': 1546.15, 'duration': 6.69}
+{'text': 'to be very separate realms of art and', 'start': 1549.66, 'duration': 7.95}
+{'text': "writing so I'm happy to come here and", 'start': 1552.84, 'duration': 6.03}
+{'text': "talk about it's really one of my", 'start': 1557.61, 'duration': 6.54}
+{'text': 'favorite topics great panels here I', 'start': 1558.87, 'duration': 8.04}
+{'text': 'started out working with artists books', 'start': 1564.15, 'duration': 4.15}
+{'text': "so it's", 'start': 1566.91, 'duration': 4.57}
+{'text': 'tremendously exciting to made to to see', 'start': 1568.3, 'duration': 8.55}
+{'text': "this revival so many years later I don't", 'start': 1571.48, 'duration': 8.07}
+{'text': 'have any slides I wish I had had a man', 'start': 1576.85, 'duration': 6.3}
+{'text': "to design some for me but I'm really", 'start': 1579.55, 'duration': 7.73}
+{'text': 'more on the on the writer side and', 'start': 1583.15, 'duration': 7.85}
+{'text': 'sometimes the pictures tend to overwhelm', 'start': 1587.28, 'duration': 5.95}
+{'text': "what's really important to me which is", 'start': 1591.0, 'duration': 5.32}
+{'text': 'that intersection and interpenetration', 'start': 1593.23, 'duration': 9.33}
+{'text': 'of art ideas and visual images on but', 'start': 1596.32, 'duration': 10.22}
+{'text': "really what I'm here for is to dust off", 'start': 1602.56, 'duration': 6.38}
+{'text': 'blasted allegories a', 'start': 1606.54, 'duration': 6.31}
+{'text': 'twenty-five-year-old volume that set up', 'start': 1608.94, 'duration': 9.4}
+{'text': 'out a long time ago to document what was', 'start': 1612.85, 'duration': 9.48}
+{'text': 'at that point real intense intersection', 'start': 1618.34, 'duration': 5.85}
+{'text': 'of art making and critical writing in', 'start': 1622.33, 'duration': 6.9}
+{'text': 'early 1980s it was really a genuine', 'start': 1624.19, 'duration': 9.33}
+{'text': 'movement at the time it was very clear', 'start': 1629.23, 'duration': 7.29}
+{'text': 'to discern the boundaries on the issues', 'start': 1633.52, 'duration': 10.2}
+{'text': 'that were involved so i think i think it', 'start': 1636.52, 'duration': 10.59}
+{'text': 'was sort of easier then it might appear', 'start': 1643.72, 'duration': 9.6}
+{'text': 'to have compiled this reader because you', 'start': 1647.11, 'duration': 8.31}
+{'text': 'know these people knew one another and', 'start': 1653.32, 'duration': 5.07}
+{'text': "so on so what i'm going to do just very", 'start': 1655.42, 'duration': 5.1}
+{'text': 'briefly is sketch out some of the', 'start': 1658.39, 'duration': 5.61}
+{'text': 'history and animating principles behind', 'start': 1660.52, 'duration': 7.44}
+{'text': 'this book and to briefly suggest some of', 'start': 1664.0, 'duration': 8.4}
+{'text': 'the ways that i think the ideas and the', 'start': 1667.96, 'duration': 7.89}
+{'text': 'impetus behind the book remain relevant', 'start': 1672.4, 'duration': 5.58}
+{'text': 'today where our newly relevant today', 'start': 1675.85, 'duration': 6.93}
+{'text': 'maybe and certainly I look forward to', 'start': 1677.98, 'duration': 8.01}
+{'text': 'having conversation about the general', 'start': 1682.78, 'duration': 6.63}
+{'text': 'ideas or the specifics of how something', 'start': 1685.99, 'duration': 7.59}
+{'text': 'like this comes about um so it so', 'start': 1689.41, 'duration': 6.92}
+{'text': 'happens I was a very young guy and', 'start': 1693.58, 'duration': 6.15}
+{'text': 'blasted allegories was published in 1988', 'start': 1696.33, 'duration': 5.09}
+{'text': 'as the', 'start': 1699.73, 'duration': 6.16}
+{'text': 'critical anthology of writings produced', 'start': 1701.42, 'duration': 6.51}
+{'text': 'by the new Museum of Contemporary Art in', 'start': 1705.89, 'duration': 5.01}
+{'text': 'New York I was commissioned by new', 'start': 1707.93, 'duration': 6.57}
+{'text': 'museum director and founder Marsha', 'start': 1710.9, 'duration': 6.81}
+{'text': 'Tucker to compile an anthology of', 'start': 1714.5, 'duration': 7.29}
+{'text': 'artists statements and at that time what', 'start': 1717.71, 'duration': 8.91}
+{'text': 'that meant was those writings that', 'start': 1721.79, 'duration': 7.41}
+{'text': 'artists would do little paragraph or', 'start': 1726.62, 'duration': 3.9}
+{'text': 'something that would be published in', 'start': 1729.2, 'duration': 5.76}
+{'text': "catalog and I think Marsha Tucker's idea", 'start': 1730.52, 'duration': 7.19}
+{'text': 'was like a little paragraph statement', 'start': 1734.96, 'duration': 5.34}
+{'text': 'juxtaposed with a picture of like the', 'start': 1737.71, 'duration': 7.69}
+{'text': 'real art and you know it is interesting', 'start': 1740.3, 'duration': 8.85}
+{'text': "what why we think that artists don't", 'start': 1745.4, 'duration': 7.5}
+{'text': "write or writers don't make our door why", 'start': 1749.15, 'duration': 8.06}
+{'text': "there isn't more intermedia association", 'start': 1752.9, 'duration': 7.59}
+{'text': 'and collaboration and in fact there is', 'start': 1757.21, 'duration': 6.07}
+{'text': 'but particularly at that time in the', 'start': 1760.49, 'duration': 7.98}
+{'text': '1980s there was very much a formal', 'start': 1763.28, 'duration': 7.97}
+{'text': 'routine where you had to separate those', 'start': 1768.47, 'duration': 7.44}
+{'text': 'practices and the artists writings or', 'start': 1771.25, 'duration': 7.03}
+{'text': 'statements were very much regarded as a', 'start': 1775.91, 'duration': 5.19}
+{'text': 'supplement to the art which was the real', 'start': 1778.28, 'duration': 12.69}
+{'text': 'thing so I had a different idea I sought', 'start': 1781.1, 'duration': 13.05}
+{'text': 'to engage what I saw around me as a very', 'start': 1790.97, 'duration': 6.87}
+{'text': 'lively intersection of textual writing', 'start': 1794.15, 'duration': 7.2}
+{'text': 'criticism and image making that really', 'start': 1797.84, 'duration': 7.98}
+{'text': 'was thoroughly interdependent not only', 'start': 1801.35, 'duration': 6.84}
+{'text': 'were the people all associating with one', 'start': 1805.82, 'duration': 4.68}
+{'text': 'another reading the same thing seeing', 'start': 1808.19, 'duration': 3.84}
+{'text': 'the same things talking about the same', 'start': 1810.5, 'duration': 3.9}
+{'text': 'things but the products that they', 'start': 1812.03, 'duration': 7.38}
+{'text': 'produced were actually intermingled so', 'start': 1814.4, 'duration': 8.19}
+{'text': "you'd have montage text overlaid on", 'start': 1819.41, 'duration': 6.9}
+{'text': "images or you'd have publications that", 'start': 1822.59, 'duration': 7.71}
+{'text': 'had a wild array of images and writings', 'start': 1826.31, 'duration': 7.59}
+{'text': 'and so forth by again a wide range of', 'start': 1830.3, 'duration': 4.359}
+{'text': 'people', 'start': 1833.9, 'duration': 4.889}
+{'text': 'you know filmmakers dancers artists', 'start': 1834.659, 'duration': 9.39}
+{'text': 'photographers critics theorists you know', 'start': 1838.789, 'duration': 9.61}
+{'text': 'all those things in an incredibly', 'start': 1844.049, 'duration': 9.57}
+{'text': 'diverse range of publications small', 'start': 1848.399, 'duration': 8.671}
+{'text': 'magazines like practice and that time', 'start': 1853.619, 'duration': 6.78}
+{'text': 'many others that were published in the', 'start': 1857.07, 'duration': 8.219}
+{'text': 'same way like a shoestring with grants', 'start': 1860.399, 'duration': 9.2}
+{'text': 'for me any a at that point artists books', 'start': 1865.289, 'duration': 7.97}
+{'text': 'artworks themselves and sometimes', 'start': 1869.599, 'duration': 7.8}
+{'text': 'interventions in larger publications I', 'start': 1873.259, 'duration': 7.54}
+{'text': 'myself published a small magazine called', 'start': 1877.399, 'duration': 6.61}
+{'text': 'wedge and other artists and critics did', 'start': 1880.799, 'duration': 8.1}
+{'text': 'the same writers such as Kathy Acker and', 'start': 1884.009, 'duration': 6.87}
+{'text': 'Lynne Tillman were collaborating with', 'start': 1888.899, 'duration': 5.311}
+{'text': 'visual artists artists such as anterin', 'start': 1890.879, 'duration': 5.701}
+{'text': 'and Richard prints were compiling their', 'start': 1894.21, 'duration': 5.49}
+{'text': 'own collections of literary writings so', 'start': 1896.58, 'duration': 5.579}
+{'text': 'there was a lot going on at the time and', 'start': 1899.7, 'duration': 5.179}
+{'text': 'there was no mistaking the fact that', 'start': 1902.159, 'duration': 6.781}
+{'text': 'this was really a movement and a', 'start': 1904.879, 'duration': 6.941}
+{'text': 'practice that was changing what were', 'start': 1908.94, 'duration': 10.26}
+{'text': 'previously discrete forms as I said', 'start': 1911.82, 'duration': 9.239}
+{'text': 'there were numerous texts it', 'start': 1919.2, 'duration': 4.26}
+{'text': 'incorporated images and artworks that', 'start': 1921.059, 'duration': 4.5}
+{'text': 'incorporated words in here you might', 'start': 1923.46, 'duration': 4.5}
+{'text': 'think of for example Barbara Kruger that', 'start': 1925.559, 'duration': 5.97}
+{'text': 'kind of thing but many many others doing', 'start': 1927.96, 'duration': 6.12}
+{'text': 'that kind of thing and it seemed to me', 'start': 1931.529, 'duration': 5.07}
+{'text': 'at that time that virtually every artist', 'start': 1934.08, 'duration': 5.669}
+{'text': 'I knew was also a writer unless the', 'start': 1936.599, 'duration': 7.26}
+{'text': 'writers were also producing some form of', 'start': 1939.749, 'duration': 7.471}
+{'text': 'art making or at least they were all', 'start': 1943.859, 'duration': 7.981}
+{'text': 'going to the same openings blasted', 'start': 1947.22, 'duration': 7.679}
+{'text': 'allegories forthrightly focused on New', 'start': 1951.84, 'duration': 5.13}
+{'text': 'York artists and writers that was the', 'start': 1954.899, 'duration': 4.08}
+{'text': "audience I knew and I didn't see a", 'start': 1956.97, 'duration': 4.939}
+{'text': 'problem in restricting it that way and', 'start': 1958.979, 'duration': 7.981}
+{'text': 'the downtown writers and artists or was', 'start': 1961.909, 'duration': 5.691}
+{'text': 'they were', 'start': 1966.96, 'duration': 4.81}
+{'text': 'then postmodernists were pretty easy to', 'start': 1967.6, 'duration': 7.829}
+{'text': 'identify and the authors included in', 'start': 1971.77, 'duration': 5.899}
+{'text': 'this book I think there are about 40', 'start': 1975.429, 'duration': 5.25}
+{'text': 'authors but among them Laurie Anderson', 'start': 1977.669, 'duration': 6.721}
+{'text': 'Jenny Holzer Gary Indiana eric bogosian', 'start': 1980.679, 'duration': 6.99}
+{'text': 'john baldessari barbara kruger bruce', 'start': 1984.39, 'duration': 5.5}
+{'text': 'nauman Richard Prince Spalding Gray', 'start': 1987.669, 'duration': 4.531}
+{'text': 'David 10 Ravitch Carrie Mae Williams and', 'start': 1989.89, 'duration': 6.27}
+{'text': 'sherrie levine you get the idea all big', 'start': 1992.2, 'duration': 7.469}
+{'text': 'names now but not so then the book was', 'start': 1996.16, 'duration': 6.389}
+{'text': 'designed by bethany johns now a big name', 'start': 1999.669, 'duration': 6.361}
+{'text': 'here at RISD and the images were', 'start': 2002.549, 'duration': 5.791}
+{'text': 'selected and designed by barbara bloom', 'start': 2006.03, 'duration': 6.87}
+{'text': 'and Jill Perez the stated intention of', 'start': 2008.34, 'duration': 6.66}
+{'text': 'these contributors was to deconstruct', 'start': 2012.9, 'duration': 5.399}
+{'text': 'the methodologies of then entrenched', 'start': 2015.0, 'duration': 5.51}
+{'text': 'modernism part of which was the', 'start': 2018.299, 'duration': 5.88}
+{'text': 'separation into discrete artistic', 'start': 2020.51, 'duration': 8.47}
+{'text': 'practices and fields but it was not only', 'start': 2024.179, 'duration': 9.331}
+{'text': 'the aesthetic predilections but also the', 'start': 2028.98, 'duration': 7.35}
+{'text': 'politics and ideology of modernism that', 'start': 2033.51, 'duration': 5.96}
+{'text': 'was under attack by all these artists', 'start': 2036.33, 'duration': 6.92}
+{'text': 'sometimes in ways that is not evident on', 'start': 2039.47, 'duration': 7.839}
+{'text': 'this was after all the 1980s Ronald', 'start': 2043.25, 'duration': 6.159}
+{'text': 'Reagan was president there was an', 'start': 2047.309, 'duration': 4.86}
+{'text': 'illegal war being waged in Central', 'start': 2049.409, 'duration': 6.301}
+{'text': 'America AIDS was decimating the cultural', 'start': 2052.169, 'duration': 5.97}
+{'text': "community and the internet hadn't even", 'start': 2055.71, 'duration': 5.76}
+{'text': 'been invented yet it was a bleak time', 'start': 2058.139, 'duration': 5.79}
+{'text': 'and I think these artists and writers in', 'start': 2061.47, 'duration': 4.919}
+{'text': "their own modest ways we're trying to", 'start': 2063.929, 'duration': 5.281}
+{'text': 'address and change the unbearable', 'start': 2066.389, 'duration': 6.171}
+{'text': 'everyday conditions that surrounded them', 'start': 2069.21, 'duration': 6.0}
+{'text': 'so in addition to abolishing the', 'start': 2072.56, 'duration': 5.02}
+{'text': 'distinction between fiction writers and', 'start': 2075.21, 'duration': 5.07}
+{'text': 'artists blastn allegories also', 'start': 2077.58, 'duration': 5.309}
+{'text': 'highlighted a variety of writerly forms', 'start': 2080.28, 'duration': 4.47}
+{'text': 'and approaches some of which were quite', 'start': 2082.889, 'duration': 6.301}
+{'text': 'novel and unexpected but all united by', 'start': 2084.75, 'duration': 7.59}
+{'text': 'ideas that circulated regardless of', 'start': 2089.19, 'duration': 6.75}
+{'text': 'profession or stylistic approach as I', 'start': 2092.34, 'duration': 5.93}
+{'text': 'stated in the introduction to the book', 'start': 2095.94, 'duration': 4.94}
+{'text': 'for the writers in this book these', 'start': 2098.27, 'duration': 5.749}
+{'text': 'such as interviews monologues jokes', 'start': 2100.88, 'duration': 7.79}
+{'text': 'dream narratives parables etc oppose the', 'start': 2104.019, 'duration': 7.901}
+{'text': 'impose the imposed narrative structure', 'start': 2108.67, 'duration': 6.01}
+{'text': 'the unquestioned hierarchy of characters', 'start': 2111.92, 'duration': 5.79}
+{'text': 'in the easy closure of much conventional', 'start': 2114.68, 'duration': 6.27}
+{'text': 'modernist literature in place of', 'start': 2117.71, 'duration': 6.18}
+{'text': 'traditional expository writing or even', 'start': 2120.95, 'duration': 5.7}
+{'text': 'experimental texts the works collected', 'start': 2123.89, 'duration': 5.429}
+{'text': 'in blasted allegories posit a wholly', 'start': 2126.65, 'duration': 4.949}
+{'text': 'different approach to textual production', 'start': 2129.319, 'duration': 4.621}
+{'text': 'which challenges accepted sites', 'start': 2131.599, 'duration': 5.42}
+{'text': 'structures and meanings of discourse', 'start': 2133.94, 'duration': 8.22}
+{'text': 'listen sounds so 80s in place of', 'start': 2137.019, 'duration': 7.3}
+{'text': 'aesthetic innovation these writers', 'start': 2142.16, 'duration': 4.8}
+{'text': 'employ appropriation and Riaan scription', 'start': 2144.319, 'duration': 5.911}
+{'text': 'of existing voices styles and genres in', 'start': 2146.96, 'duration': 5.46}
+{'text': 'place of the coherence of the', 'start': 2150.23, 'duration': 5.039}
+{'text': 'conventional text they favor a form', 'start': 2152.42, 'duration': 5.689}
+{'text': 'which is fragmentary includes', 'start': 2155.269, 'duration': 5.481}
+{'text': 'inconclusive digressive and', 'start': 2158.109, 'duration': 4.891}
+{'text': 'interpenetrated with other texts in', 'start': 2160.75, 'duration': 5.44}
+{'text': 'place of the omnipresent author they', 'start': 2163.0, 'duration': 5.859}
+{'text': 'acknowledge a collectivity of voices and', 'start': 2166.19, 'duration': 5.359}
+{'text': 'active participation of the reader in', 'start': 2168.859, 'duration': 5.94}
+{'text': 'place of the new or the original they', 'start': 2171.549, 'duration': 5.23}
+{'text': 'accept an understanding of language and', 'start': 2174.799, 'duration': 5.701}
+{'text': 'stories as already written and shaped by', 'start': 2176.779, 'duration': 8.31}
+{'text': 'social and political conditions so', 'start': 2180.5, 'duration': 7.44}
+{'text': 'perhaps a bit overstated but you get the', 'start': 2185.089, 'duration': 7.92}
+{'text': 'idea focus less on formalistic stylistic', 'start': 2187.94, 'duration': 6.869}
+{'text': 'or literary issues than on the', 'start': 2193.009, 'duration': 3.84}
+{'text': 'theoretical and critical systems of', 'start': 2194.809, 'duration': 4.671}
+{'text': 'thought underlying them in shaping', 'start': 2196.849, 'duration': 5.43}
+{'text': 'social behaviors and representations', 'start': 2199.48, 'duration': 6.16}
+{'text': 'this postmodern generation of artists', 'start': 2202.279, 'duration': 6.06}
+{'text': 'use texts and images to raise issues', 'start': 2205.64, 'duration': 4.77}
+{'text': 'having to do with authorship and', 'start': 2208.339, 'duration': 5.121}
+{'text': 'subjectivity appropriation and property', 'start': 2210.41, 'duration': 6.59}
+{'text': 'identity and race gender and community', 'start': 2213.46, 'duration': 5.77}
+{'text': 'institutional critique and the archive', 'start': 2217.0, 'duration': 6.4}
+{'text': 'and media and public space the use of', 'start': 2219.23, 'duration': 7.139}
+{'text': 'appropriation and montage for example', 'start': 2223.4, 'duration': 5.429}
+{'text': 'allowed contemporary artists to create', 'start': 2226.369, 'duration': 4.391}
+{'text': 'fictionalized narratives', 'start': 2228.829, 'duration': 4.121}
+{'text': 'that pose fundamental questions about', 'start': 2230.76, 'duration': 4.41}
+{'text': 'the representations of the self in', 'start': 2232.95, 'duration': 5.13}
+{'text': 'society and in history about the shaping', 'start': 2235.17, 'duration': 4.89}
+{'text': 'effects of social stereotypes in the', 'start': 2238.08, 'duration': 4.38}
+{'text': 'mass media and about the relationship', 'start': 2240.06, 'duration': 5.76}
+{'text': 'between images and truth or authenticity', 'start': 2242.46, 'duration': 7.68}
+{'text': 'and while appropriation for example', 'start': 2245.82, 'duration': 6.69}
+{'text': 'endorse the radical D contextualisation', 'start': 2250.14, 'duration': 5.88}
+{'text': 'of images from their original sites on', 'start': 2252.51, 'duration': 6.57}
+{'text': 'the other hand it opened a space to', 'start': 2256.02, 'duration': 5.43}
+{'text': 'establish new meanings and to challenge', 'start': 2259.08, 'duration': 5.37}
+{'text': 'viewers to reconstruct the terms of its', 'start': 2261.45, 'duration': 7.65}
+{'text': 'original use my thesis was that all', 'start': 2264.45, 'duration': 6.51}
+{'text': 'these critical writings were inherently', 'start': 2269.1, 'duration': 4.95}
+{'text': 'political challenging not only specific', 'start': 2270.96, 'duration': 5.48}
+{'text': 'ideas and policies but also', 'start': 2274.05, 'duration': 4.5}
+{'text': 'conventionalized ways of thinking and', 'start': 2276.44, 'duration': 6.01}
+{'text': 'shaping social ideas the art and writing', 'start': 2278.55, 'duration': 6.27}
+{'text': 'could take many forms but what United', 'start': 2282.45, 'duration': 5.94}
+{'text': 'them were the critical ideas shaped in', 'start': 2284.82, 'duration': 6.27}
+{'text': 'part by newly available European', 'start': 2288.39, 'duration': 4.74}
+{'text': 'theories about representation and', 'start': 2291.09, 'duration': 5.97}
+{'text': 'cultural production by by roland part', 'start': 2293.13, 'duration': 6.56}
+{'text': 'jean-françois lyotard michel foucault', 'start': 2297.06, 'duration': 6.81}
+{'text': 'jean baudrillard and jacques derrida in', 'start': 2299.69, 'duration': 7.3}
+{'text': 'my case I was influenced by the American', 'start': 2303.87, 'duration': 6.51}
+{'text': 'critic Craig Owens who argued that these', 'start': 2306.99, 'duration': 7.19}
+{'text': 'texts enacted their political critiques', 'start': 2310.38, 'duration': 6.78}
+{'text': 'allegorically hence the title blasted', 'start': 2314.18, 'duration': 5.83}
+{'text': 'eligor ease in other words whatever the', 'start': 2317.16, 'duration': 5.43}
+{'text': 'nominal subject matter whether personal', 'start': 2320.01, 'duration': 6.12}
+{'text': 'or public a larger meaning could be', 'start': 2322.59, 'duration': 7.22}
+{'text': 'derived from or read through the text', 'start': 2326.13, 'duration': 6.72}
+{'text': 'allegory is simply the rhetorical device', 'start': 2329.81, 'duration': 5.5}
+{'text': 'that escribes hidden meanings to', 'start': 2332.85, 'duration': 6.15}
+{'text': 'symbolic figures in a text or image well', 'start': 2335.31, 'duration': 7.05}
+{'text': 'for many authors in the early 1980s this', 'start': 2339.0, 'duration': 6.12}
+{'text': 'was deliberate intentionality was not', 'start': 2342.36, 'duration': 5.1}
+{'text': 'necessary for the function of allegory', 'start': 2345.12, 'duration': 6.41}
+{'text': 'in these written pieces the 21st century', 'start': 2347.46, 'duration': 6.35}
+{'text': 'realities of new technologies and', 'start': 2351.53, 'duration': 4.75}
+{'text': 'globalization have radically transformed', 'start': 2353.81, 'duration': 5.2}
+{'text': 'the applications of writing and imagery', 'start': 2356.28, 'duration': 5.55}
+{'text': "the ways they're produced and circulated", 'start': 2359.01, 'duration': 4.41}
+{'text': 'and appropriated and trends', 'start': 2361.83, 'duration': 4.62}
+{'text': 'formed the Internet has obviously', 'start': 2363.42, 'duration': 4.8}
+{'text': 'created an extraordinary space of', 'start': 2366.45, 'duration': 4.98}
+{'text': 'exchange interaction but it is also', 'start': 2368.22, 'duration': 5.639}
+{'text': 'empowered to design ordering and', 'start': 2371.43, 'duration': 4.59}
+{'text': 'transformation of images in bold new', 'start': 2373.859, 'duration': 5.121}
+{'text': 'ways access and simultaneous', 'start': 2376.02, 'duration': 6.089}
+{'text': 'simultaneity have dramatically reshaped', 'start': 2378.98, 'duration': 5.23}
+{'text': 'and reconstituted the social and', 'start': 2382.109, 'duration': 5.551}
+{'text': 'political landscape a new generation of', 'start': 2384.21, 'duration': 6.54}
+{'text': 'artists writers that includes just to', 'start': 2387.66, 'duration': 6.959}
+{'text': 'name a few Walid Rudd I way way Emily', 'start': 2390.75, 'duration': 7.79}
+{'text': 'jaseera ketose Terrell Thomas Hirschhorn', 'start': 2394.619, 'duration': 8.641}
+{'text': 'Robin ray Maura Davy employ mimicry and', 'start': 2398.54, 'duration': 7.93}
+{'text': 'gesture narrative and history fiction', 'start': 2403.26, 'duration': 5.76}
+{'text': 'and documentary and repetition and', 'start': 2406.47, 'duration': 5.16}
+{'text': 'difference to visualize individual and', 'start': 2409.02, 'duration': 5.4}
+{'text': 'collective expression as well as', 'start': 2411.63, 'duration': 6.6}
+{'text': 'convulsive social transformations in a', 'start': 2414.42, 'duration': 6.179}
+{'text': 'global context they engage very', 'start': 2418.23, 'duration': 5.01}
+{'text': 'different issues reconsideration of', 'start': 2420.599, 'duration': 7.531}
+{'text': 'information ordering and the archive new', 'start': 2423.24, 'duration': 7.53}
+{'text': 'issues of the politics of exile', 'start': 2428.13, 'duration': 5.34}
+{'text': 'displacement and hybridity they use', 'start': 2430.77, 'duration': 5.25}
+{'text': 'fiction to challenge documentary fact', 'start': 2433.47, 'duration': 6.78}
+{'text': 'and create a subjective reshaping of', 'start': 2436.02, 'duration': 7.41}
+{'text': 'history and memory and finally they', 'start': 2440.25, 'duration': 5.819}
+{'text': 'validate wonder speculation and', 'start': 2443.43, 'duration': 6.21}
+{'text': 'traumatic reconstitution of the written', 'start': 2446.069, 'duration': 7.221}
+{'text': 'and the visual these are new approaches', 'start': 2449.64, 'duration': 6.99}
+{'text': 'some were hinted at or explored in', 'start': 2453.29, 'duration': 6.16}
+{'text': 'blasted Ella gory especially as its text', 'start': 2456.63, 'duration': 6.179}
+{'text': 'examined gender nationality sexual', 'start': 2459.45, 'duration': 6.21}
+{'text': 'identity and racial histories as told', 'start': 2462.809, 'duration': 5.31}
+{'text': 'through the archive the ruin the', 'start': 2465.66, 'duration': 7.37}
+{'text': 'fragment and the trace thank you', 'start': 2468.119, 'duration': 4.911}
+{'text': 'thank you Brian mm-hmm so our next', 'start': 2481.09, 'duration': 6.94}
+{'text': "speaker is Marissa ma's ria cats she is", 'start': 2485.0, 'duration': 5.4}
+{'text': 'a journalist who has reported from all', 'start': 2488.03, 'duration': 5.64}
+{'text': 'over the world and is here today to talk', 'start': 2490.4, 'duration': 5.34}
+{'text': 'about creative time reports of which she', 'start': 2493.67, 'duration': 4.56}
+{'text': "is editor it's a two-year-old public", 'start': 2495.74, 'duration': 5.4}
+{'text': 'three-year-old online publication that', 'start': 2498.23, 'duration': 5.34}
+{'text': 'features artists voices from around the', 'start': 2501.14, 'duration': 4.68}
+{'text': 'world on the critical issues of our', 'start': 2503.57, 'duration': 8.99}
+{'text': 'times thanks let me get you set up here', 'start': 2505.82, 'duration': 6.74}
+{'text': "okay Dave we're ready great thank you", 'start': 2522.24, 'duration': 8.07}
+{'text': 'thanks so much for having me here today', 'start': 2527.4, 'duration': 8.16}
+{'text': 'um how many of you know creative time', 'start': 2530.31, 'duration': 9.27}
+{'text': 'show hands great so for those of you who', 'start': 2535.56, 'duration': 6.87}
+{'text': "don't know I'm sure you've seen some of", 'start': 2539.58, 'duration': 5.19}
+{'text': "our projects before but you didn't know", 'start': 2542.43, 'duration': 5.25}
+{'text': 'that there were ours so tribute and', 'start': 2544.77, 'duration': 6.57}
+{'text': 'light this incredible project was', 'start': 2547.68, 'duration': 6.09}
+{'text': 'actually inaugurated six months after', 'start': 2551.34, 'duration': 5.31}
+{'text': 'nine eleven by our former artistic', 'start': 2553.77, 'duration': 5.31}
+{'text': 'director and Pasternak and has since', 'start': 2556.65, 'duration': 5.27}
+{'text': 'nine eleven been shining on the city', 'start': 2559.08, 'duration': 6.83}
+{'text': 'every year during the anniversary', 'start': 2561.92, 'duration': 3.99}
+{'text': 'waiting for godot in New Orleans this is', 'start': 2566.3, 'duration': 5.89}
+{'text': 'an amazing project that I think is', 'start': 2569.79, 'duration': 4.65}
+{'text': 'really important to talk about just', 'start': 2572.19, 'duration': 4.23}
+{'text': 'because it helps to sort of lay the', 'start': 2574.44, 'duration': 3.96}
+{'text': 'foundation as to why creative time', 'start': 2576.42, 'duration': 4.949}
+{'text': 'reports exists so artist Paul Chan', 'start': 2578.4, 'duration': 5.43}
+{'text': 'staged the play Waiting for Godot in the', 'start': 2581.369, 'duration': 4.641}
+{'text': 'middle of an intersection in New Orleans', 'start': 2583.83, 'duration': 5.46}
+{'text': '9a Lower Ninth Ward the idea came about', 'start': 2586.01, 'duration': 5.71}
+{'text': 'after Paul visited New Orleans', 'start': 2589.29, 'duration': 5.37}
+{'text': 'post-hurricane Katrina and while he was', 'start': 2591.72, 'duration': 5.76}
+{'text': 'there he was struck by a disturbing', 'start': 2594.66, 'duration': 7.23}
+{'text': 'quiet there were no hammer sounds there', 'start': 2597.48, 'duration': 6.9}
+{'text': 'were no construction crews and there', 'start': 2601.89, 'duration': 5.21}
+{'text': 'were no cranes swinging on the skyline', 'start': 2604.38, 'duration': 5.82}
+{'text': 'his immediate response was to imagine an', 'start': 2607.1, 'duration': 5.2}
+{'text': "outdoor performance of Samuel Beckett's", 'start': 2610.2, 'duration': 5.52}
+{'text': 'play Waiting for Godot and when asked', 'start': 2612.3, 'duration': 4.95}
+{'text': 'about the inspiration for the project', 'start': 2615.72, 'duration': 4.32}
+{'text': 'chan explained there is a terrible', 'start': 2617.25, 'duration': 5.52}
+{'text': 'symmetry between the reality of New', 'start': 2620.04, 'duration': 5.85}
+{'text': 'Orleans post-katrina and the essence of', 'start': 2622.77, 'duration': 5.76}
+{'text': 'this play which expresses in stark', 'start': 2625.89, 'duration': 5.19}
+{'text': 'eloquence the cruel and funny things', 'start': 2628.53, 'duration': 5.579}
+{'text': 'people do while they wait for help for', 'start': 2631.08, 'duration': 7.95}
+{'text': 'food for tomorrow this is another one', 'start': 2634.109, 'duration': 8.701}
+{'text': 'that is an incredible project it took', 'start': 2639.03, 'duration': 6.57}
+{'text': 'place in 1989 it was grand Furies', 'start': 2642.81, 'duration': 5.07}
+{'text': "kissing doesn't kill greed and", 'start': 2645.6, 'duration': 5.07}
+{'text': 'indifference do and this project took', 'start': 2647.88, 'duration': 4.2}
+{'text': 'place during the height of the AIDS', 'start': 2650.67, 'duration': 3.07}
+{'text': 'crisis in the United State', 'start': 2652.08, 'duration': 3.88}
+{'text': 'and it was a political art action that', 'start': 2653.74, 'duration': 4.56}
+{'text': 'appropriated advertising and media', 'start': 2655.96, 'duration': 4.92}
+{'text': 'strategies to spread information about', 'start': 2658.3, 'duration': 4.89}
+{'text': 'AIDS and its social ramifications to a', 'start': 2660.88, 'duration': 5.7}
+{'text': 'vast audience by pairing the pieces', 'start': 2663.19, 'duration': 5.46}
+{'text': 'message with the image of three', 'start': 2666.58, 'duration': 4.35}
+{'text': 'interracial couples both same-sex and', 'start': 2668.65, 'duration': 5.46}
+{'text': 'heterosexual kissing the image appeared', 'start': 2670.93, 'duration': 5.52}
+{'text': 'on postcards and on the sides of buses', 'start': 2674.11, 'duration': 5.58}
+{'text': "in New York City now it's it's kind of", 'start': 2676.45, 'duration': 4.53}
+{'text': 'interesting to talk about a project like', 'start': 2679.69, 'duration': 3.15}
+{'text': 'this today because you know were', 'start': 2680.98, 'duration': 4.44}
+{'text': 'constantly flooded with images and their', 'start': 2682.84, 'duration': 4.23}
+{'text': 'endless opportunities for us to share', 'start': 2685.42, 'duration': 4.56}
+{'text': 'how we feel on media social media', 'start': 2687.07, 'duration': 4.92}
+{'text': 'channels constantly but you know at the', 'start': 2689.98, 'duration': 3.99}
+{'text': 'time this piece was extremely powerful', 'start': 2691.99, 'duration': 4.47}
+{'text': 'in its ability to get across to large', 'start': 2693.97, 'duration': 5.37}
+{'text': 'audiences the urgency of the AIDS', 'start': 2696.46, 'duration': 4.65}
+{'text': 'epidemic while the government was', 'start': 2699.34, 'duration': 7.08}
+{'text': "sitting by and doing nothing and i'm not", 'start': 2701.11, 'duration': 6.99}
+{'text': 'sure if a lot of you might have seen', 'start': 2706.42, 'duration': 4.74}
+{'text': "last year's four-story high-sugar Sphinx", 'start': 2708.1, 'duration': 5.85}
+{'text': 'from artist Kara Walker in the abandoned', 'start': 2711.16, 'duration': 4.95}
+{'text': 'sugar factory this was you know a', 'start': 2713.95, 'duration': 5.07}
+{'text': 'project that exceeded our expectations', 'start': 2716.11, 'duration': 5.19}
+{'text': 'it was it was incredible to see the', 'start': 2719.02, 'duration': 3.63}
+{'text': 'crowds that were coming and it was', 'start': 2721.3, 'duration': 3.0}
+{'text': 'incredible to work with an artist like', 'start': 2722.65, 'duration': 4.95}
+{'text': "Kara Walker I'm and I think it's really", 'start': 2724.3, 'duration': 6.39}
+{'text': 'important to mention what she called the', 'start': 2727.6, 'duration': 4.44}
+{'text': 'piece you know it was called a subtle', 'start': 2730.69, 'duration': 4.53}
+{'text': 'tea but then then the full title was an', 'start': 2732.04, 'duration': 5.97}
+{'text': 'homage to the unpaid and overworked', 'start': 2735.22, 'duration': 5.16}
+{'text': 'artisans who have refined our sweet', 'start': 2738.01, 'duration': 4.74}
+{'text': 'tastes from the cane fields to the', 'start': 2740.38, 'duration': 5.61}
+{'text': "kitchens of the new world it's projects", 'start': 2742.75, 'duration': 5.88}
+{'text': 'like these that underscore the', 'start': 2745.99, 'duration': 5.22}
+{'text': "organization's mission that artists are", 'start': 2748.63, 'duration': 6.45}
+{'text': 'important to society that artists should', 'start': 2751.21, 'duration': 5.909}
+{'text': 'be weighing in on the times in which we', 'start': 2755.08, 'duration': 5.82}
+{'text': 'live and that public spaces are places', 'start': 2757.119, 'duration': 7.74}
+{'text': 'for free expression and creativity so', 'start': 2760.9, 'duration': 7.17}
+{'text': 'roughly five years ago creative time', 'start': 2764.859, 'duration': 5.401}
+{'text': 'started to imagine other places to', 'start': 2768.07, 'duration': 4.65}
+{'text': 'insert artists voices and there were a', 'start': 2770.26, 'duration': 4.349}
+{'text': 'lot of questions that were poor well', 'start': 2772.72, 'duration': 3.12}
+{'text': 'that were put forth and some of these', 'start': 2774.609, 'duration': 2.941}
+{'text': 'questions were put forth actually before', 'start': 2775.84, 'duration': 3.96}
+{'text': "I even came on because actually it's my", 'start': 2777.55, 'duration': 5.43}
+{'text': 'four year anniversary last week but some', 'start': 2779.8, 'duration': 4.95}
+{'text': 'of these questions were you know if', 'start': 2782.98, 'duration': 2.349}
+{'text': 'create', 'start': 2784.75, 'duration': 2.68}
+{'text': 'time believes that artists matter in', 'start': 2785.329, 'duration': 3.93}
+{'text': 'society and if we want them to impact', 'start': 2787.43, 'duration': 4.139}
+{'text': "how we think about today's most pressing", 'start': 2789.259, 'duration': 5.1}
+{'text': 'issues what are the public spaces that', 'start': 2791.569, 'duration': 5.881}
+{'text': 'would truly magnify their voices where', 'start': 2794.359, 'duration': 6.331}
+{'text': 'should they be participating and where', 'start': 2797.45, 'duration': 6.059}
+{'text': 'is public dialogue happening and and I', 'start': 2800.69, 'duration': 5.909}
+{'text': 'think the the final question was really', 'start': 2803.509, 'duration': 5.85}
+{'text': 'like how kalkan artists deepen and also', 'start': 2806.599, 'duration': 4.86}
+{'text': 'bring a sense of candor back to public', 'start': 2809.359, 'duration': 4.89}
+{'text': 'discourse and you know it took a while', 'start': 2811.459, 'duration': 4.981}
+{'text': 'but basically we kind of came to the to', 'start': 2814.249, 'duration': 4.53}
+{'text': 'the conclusion that this was the answer', 'start': 2816.44, 'duration': 5.519}
+{'text': 'was online and and it took a year of', 'start': 2818.779, 'duration': 6.06}
+{'text': 'incubation before creative time reports', 'start': 2821.959, 'duration': 6.211}
+{'text': 'was born but in the year leading up to', 'start': 2824.839, 'duration': 5.611}
+{'text': 'the launch of creative time reports we', 'start': 2828.17, 'duration': 4.02}
+{'text': "used that time when we weren't actually", 'start': 2830.45, 'duration': 3.319}
+{'text': 'published anything to really establish', 'start': 2832.19, 'duration': 4.74}
+{'text': 'several pillars on which the site would', 'start': 2833.769, 'duration': 6.49}
+{'text': 'always rest first we would work with', 'start': 2836.93, 'duration': 6.72}
+{'text': 'artists located all over the world so', 'start': 2840.259, 'duration': 6.931}
+{'text': 'this was really the exciting part of the', 'start': 2843.65, 'duration': 6.119}
+{'text': 'job because and I had already been doing', 'start': 2847.19, 'duration': 4.649}
+{'text': 'so much of this as a journalist you know', 'start': 2849.769, 'duration': 4.59}
+{'text': 'I was actually rarely home for more than', 'start': 2851.839, 'duration': 5.19}
+{'text': 'two weeks at any given moment but this', 'start': 2854.359, 'duration': 4.71}
+{'text': 'this time this was a such a different', 'start': 2857.029, 'duration': 4.26}
+{'text': 'way of seeing the cities that I had', 'start': 2859.069, 'duration': 5.22}
+{'text': 'traveled to and we started by you know I', 'start': 2861.289, 'duration': 5.7}
+{'text': 'visited Tunisia hungry the United Arab', 'start': 2864.289, 'duration': 4.92}
+{'text': 'Emirates and Kenya and this was all', 'start': 2866.989, 'duration': 4.651}
+{'text': 'before we launched not only to meet', 'start': 2869.209, 'duration': 5.25}
+{'text': 'potential contributors but also to gauge', 'start': 2871.64, 'duration': 4.589}
+{'text': 'you know what does it mean to have a', 'start': 2874.459, 'duration': 3.931}
+{'text': 'project where artists are weighing in on', 'start': 2876.229, 'duration': 5.13}
+{'text': 'the news where artists are reporting on', 'start': 2878.39, 'duration': 5.49}
+{'text': 'the world in which they live what what', 'start': 2881.359, 'duration': 4.41}
+{'text': 'is that you know it is that is that', 'start': 2883.88, 'duration': 3.569}
+{'text': 'going to be meaningful for you is that', 'start': 2885.769, 'duration': 4.98}
+{'text': 'going to be safe for you and you know it', 'start': 2887.449, 'duration': 5.31}
+{'text': 'was it was really interesting each', 'start': 2890.749, 'duration': 5.641}
+{'text': 'country kind of helped me understand the', 'start': 2892.759, 'duration': 6.21}
+{'text': 'things that we needed to bring to the', 'start': 2896.39, 'duration': 6.27}
+{'text': 'site so there were the early suspicions', 'start': 2898.969, 'duration': 4.86}
+{'text': 'were that you know of course a', 'start': 2902.66, 'duration': 2.879}
+{'text': "monolithic approach to the Commission's", 'start': 2903.829, 'duration': 3.93}
+{'text': "we're never going to work right that the", 'start': 2905.539, 'duration': 3.81}
+{'text': 'pieces we featured had to be as', 'start': 2907.759, 'duration': 5.28}
+{'text': 'wide-ranging inform subject and language', 'start': 2909.349, 'duration': 5.64}
+{'text': 'as the contributors were diverse so this', 'start': 2913.039, 'duration': 4.23}
+{'text': 'meant for us you know you might go onto', 'start': 2914.989, 'duration': 4.041}
+{'text': 'our site you might see', 'start': 2917.269, 'duration': 5.311}
+{'text': "you'll see a variety of languages and we", 'start': 2919.03, 'duration': 5.65}
+{'text': 'always privilege the artists native', 'start': 2922.58, 'duration': 5.82}
+{'text': 'language before english and i can talk a', 'start': 2924.68, 'duration': 4.89}
+{'text': 'little bit more about that you know', 'start': 2928.4, 'duration': 3.449}
+{'text': 'maybe at the QA but that was really in', 'start': 2929.57, 'duration': 4.41}
+{'text': 'hopes that the pieces that we we', 'start': 2931.849, 'duration': 4.681}
+{'text': "published weren't just for you know the", 'start': 2933.98, 'duration': 5.1}
+{'text': 'american audiences but in fact that in', 'start': 2936.53, 'duration': 4.41}
+{'text': 'the respective countries that people', 'start': 2939.08, 'duration': 4.56}
+{'text': 'would read it and be able to engage with', 'start': 2940.94, 'duration': 6.21}
+{'text': 'it as well it also meant cultivating a', 'start': 2943.64, 'duration': 5.79}
+{'text': 'deep sense deep sensitivity to the', 'start': 2947.15, 'duration': 4.74}
+{'text': 'geopolitical situations that have the', 'start': 2949.43, 'duration': 4.5}
+{'text': 'potential to make our artists vulnerable', 'start': 2951.89, 'duration': 4.709}
+{'text': 'so and this has happened a couple in a', 'start': 2953.93, 'duration': 4.53}
+{'text': 'couple of instances for us actually that', 'start': 2956.599, 'duration': 3.361}
+{'text': 'an artist is asked to remain anonymous', 'start': 2958.46, 'duration': 4.77}
+{'text': 'and we absolutely agreed to hide his or', 'start': 2959.96, 'duration': 9.3}
+{'text': 'her identity so we also felt that one of', 'start': 2963.23, 'duration': 7.59}
+{'text': 'the key components of this project was', 'start': 2969.26, 'duration': 5.01}
+{'text': 'staying abreast of foreseeable potential', 'start': 2970.82, 'duration': 5.76}
+{'text': 'for life-altering consequences like the', 'start': 2974.27, 'duration': 4.71}
+{'text': "2013 Kenny elections and and that that's", 'start': 2976.58, 'duration': 4.86}
+{'text': 'actually why I traveled to Kenya was to', 'start': 2978.98, 'duration': 4.379}
+{'text': 'get a sense I knew this was going to be', 'start': 2981.44, 'duration': 4.649}
+{'text': 'a very big story in 2013 and I wanted to', 'start': 2983.359, 'duration': 4.171}
+{'text': 'meet people who were going to talk to me', 'start': 2986.089, 'duration': 6.51}
+{'text': 'about 2007 which was you know the year', 'start': 2987.53, 'duration': 7.38}
+{'text': 'that violence resulted in in over a', 'start': 2992.599, 'duration': 3.931}
+{'text': 'thousand deaths after the last elections', 'start': 2994.91, 'duration': 3.929}
+{'text': 'and I wanted to see what you know what', 'start': 2996.53, 'duration': 3.9}
+{'text': 'were artists talking about what was', 'start': 2998.839, 'duration': 3.991}
+{'text': 'important and what were their potential', 'start': 3000.43, 'duration': 6.84}
+{'text': 'fears for the upcoming 2013 election so', 'start': 3002.83, 'duration': 5.91}
+{'text': 'this is one story that we did with an', 'start': 3007.27, 'duration': 3.839}
+{'text': 'artist I met in Nairobi named anquetil', 'start': 3008.74, 'duration': 4.83}
+{'text': "oh my you and it's a piece called Kenya", 'start': 3011.109, 'duration': 4.5}
+{'text': 'elections whispers of Hope fears and', 'start': 3013.57, 'duration': 4.289}
+{'text': "fear and hope and she's an incredible", 'start': 3015.609, 'duration': 3.601}
+{'text': "artist that we've actually worked with", 'start': 3017.859, 'duration': 6.331}
+{'text': "on three occasions she's covered travels", 'start': 3019.21, 'duration': 7.05}
+{'text': 'through the rift valley in Kenya and', 'start': 3024.19, 'duration': 3.6}
+{'text': "she's also done a piece for us very", 'start': 3026.26, 'duration': 3.839}
+{'text': 'recently about Somali Kenyans and their', 'start': 3027.79, 'duration': 6.21}
+{'text': 'lives in in Kenya at the moment um the', 'start': 3030.099, 'duration': 6.481}
+{'text': 'other piece that was something that we', 'start': 3034.0, 'duration': 4.74}
+{'text': 'we were thinking about you know long in', 'start': 3036.58, 'duration': 4.59}
+{'text': 'advance was the American the withdrawal', 'start': 3038.74, 'duration': 4.41}
+{'text': 'of American troops from Afghanistan and', 'start': 3041.17, 'duration': 4.199}
+{'text': 'what could potentially happen when they', 'start': 3043.15, 'duration': 6.0}
+{'text': 'left you know so when we look at the', 'start': 3045.369, 'duration': 5.821}
+{'text': 'when we look at at the calendar when', 'start': 3049.15, 'duration': 2.38}
+{'text': 'were', 'start': 3051.19, 'duration': 2.32}
+{'text': "thinking about what's going to happen", 'start': 3051.53, 'duration': 3.27}
+{'text': "how do we want a commission we're", 'start': 3053.51, 'duration': 3.48}
+{'text': 'constantly thinking news news news', 'start': 3054.8, 'duration': 4.44}
+{'text': "what's going to be in the news how do we", 'start': 3056.99, 'duration': 3.87}
+{'text': 'keep up with the news all of these', 'start': 3059.24, 'duration': 3.24}
+{'text': "things and I'll kind of go into that a", 'start': 3060.86, 'duration': 3.03}
+{'text': 'little bit more because that could be', 'start': 3062.48, 'duration': 3.63}
+{'text': "totally terrifying and when you're a", 'start': 3063.89, 'duration': 7.2}
+{'text': 'team of two but okay the the other thing', 'start': 3066.11, 'duration': 9.21}
+{'text': 'is that so in order to sort of make sure', 'start': 3071.09, 'duration': 6.81}
+{'text': 'that we were relevant and part of what', 'start': 3075.32, 'duration': 4.83}
+{'text': 'the news media sites were talking about', 'start': 3077.9, 'duration': 4.14}
+{'text': 'we were going to talk about evergreen', 'start': 3080.15, 'duration': 3.35}
+{'text': 'issues things that we knew for sure', 'start': 3082.04, 'duration': 3.96}
+{'text': 'would be interesting to people and that', 'start': 3083.5, 'duration': 4.98}
+{'text': 'was issues like global warming and race', 'start': 3086.0, 'duration': 5.58}
+{'text': 'surveillance or immigration and and each', 'start': 3088.48, 'duration': 4.87}
+{'text': 'time we identified these salient issues', 'start': 3091.58, 'duration': 3.78}
+{'text': "in advance and we'd ask ourselves you", 'start': 3093.35, 'duration': 3.45}
+{'text': 'know who are the artists that are most', 'start': 3095.36, 'duration': 4.2}
+{'text': 'poised to respond and what we were', 'start': 3096.8, 'duration': 5.91}
+{'text': 'looking for were artists that howard', 'start': 3099.56, 'duration': 4.98}
+{'text': 'zinn described in his book artists in', 'start': 3102.71, 'duration': 4.44}
+{'text': 'time times of war who could think', 'start': 3104.54, 'duration': 4.83}
+{'text': 'outside the boundaries of permissible', 'start': 3107.15, 'duration': 4.41}
+{'text': 'thought and dare to say things that no', 'start': 3109.37, 'duration': 6.75}
+{'text': 'one else will say finally and this is', 'start': 3111.56, 'duration': 6.06}
+{'text': 'this is kind of a little bit where I', 'start': 3116.12, 'duration': 6.03}
+{'text': 'come in a critical component was to try', 'start': 3117.62, 'duration': 6.75}
+{'text': 'to cultivate major publication', 'start': 3122.15, 'duration': 4.8}
+{'text': 'partnerships right so that these', 'start': 3124.37, 'duration': 5.01}
+{'text': 'publications would then Co publish our', 'start': 3126.95, 'duration': 5.07}
+{'text': 'pieces and thereby distribute personal', 'start': 3129.38, 'duration': 4.71}
+{'text': 'perspectives and critical interventions', 'start': 3132.02, 'duration': 4.55}
+{'text': 'to thousands or even millions of readers', 'start': 3134.09, 'duration': 6.06}
+{'text': 'right because as a team of two within', 'start': 3136.57, 'duration': 6.79}
+{'text': 'even an organization whose primary you', 'start': 3140.15, 'duration': 5.61}
+{'text': 'know focus is creating public programs', 'start': 3143.36, 'duration': 5.01}
+{'text': 'you know how do we get our message out', 'start': 3145.76, 'duration': 5.1}
+{'text': 'there and we really felt that the way we', 'start': 3148.37, 'duration': 5.97}
+{'text': 'can do it is to work with other', 'start': 3150.86, 'duration': 6.87}
+{'text': "publications so so now we're kind of", 'start': 3154.34, 'duration': 5.79}
+{'text': 'like right before we launched you know', 'start': 3157.73, 'duration': 4.47}
+{'text': 'where we knew what we wanted to', 'start': 3160.13, 'duration': 4.08}
+{'text': 'Commission and we were but we were still', 'start': 3162.2, 'duration': 3.57}
+{'text': 'determining you know exactly what these', 'start': 3164.21, 'duration': 4.62}
+{'text': 'pieces would look like and and I wanted', 'start': 3165.77, 'duration': 4.74}
+{'text': 'to stop for once I can just say a little', 'start': 3168.83, 'duration': 3.89}
+{'text': 'bit about me and how I think it probably', 'start': 3170.51, 'duration': 5.07}
+{'text': 'affected the overall style and direction', 'start': 3172.72, 'duration': 6.61}
+{'text': 'of the site I have no art history', 'start': 3175.58, 'duration': 5.5}
+{'text': 'background I', 'start': 3179.33, 'duration': 4.33}
+{'text': "she'd film and then I moved to the", 'start': 3181.08, 'duration': 4.17}
+{'text': "middle east i got a master's in Middle", 'start': 3183.66, 'duration': 3.45}
+{'text': 'East history and while I was there I', 'start': 3185.25, 'duration': 6.42}
+{'text': 'started writing for publications and but', 'start': 3187.11, 'duration': 6.89}
+{'text': 'the thing was I started to kind of', 'start': 3191.67, 'duration': 5.04}
+{'text': 'initially felt like culture was really', 'start': 3194.0, 'duration': 5.47}
+{'text': 'where I felt my heart was like these are', 'start': 3196.71, 'duration': 5.43}
+{'text': 'the stories I wanted to tell so I was', 'start': 3199.47, 'duration': 5.01}
+{'text': 'covering the boom of museums in the Gulf', 'start': 3202.14, 'duration': 4.44}
+{'text': 'or I was speaking with artists in exile', 'start': 3204.48, 'duration': 5.7}
+{'text': 'or I was you know covering for instance', 'start': 3206.58, 'duration': 4.98}
+{'text': 'in Afghanistan five-thousand-year-old', 'start': 3210.18, 'duration': 3.42}
+{'text': 'archaeological sites that were under the', 'start': 3211.56, 'duration': 4.44}
+{'text': 'threat of war and I was working in', 'start': 3213.6, 'duration': 4.08}
+{'text': 'Morocco to talking about television', 'start': 3216.0, 'duration': 4.71}
+{'text': 'stars and how they were communicating', 'start': 3217.68, 'duration': 6.57}
+{'text': 'and working on centuries-old traditions', 'start': 3220.71, 'duration': 5.58}
+{'text': 'of reconciliation to heal deep wounds', 'start': 3224.25, 'duration': 4.02}
+{'text': 'within the community so each of my', 'start': 3226.29, 'duration': 3.6}
+{'text': 'stories were talking politics but they', 'start': 3228.27, 'duration': 4.17}
+{'text': 'were never really head-on and and by the', 'start': 3229.89, 'duration': 5.04}
+{'text': 'time creative timer had contacted me to', 'start': 3232.44, 'duration': 4.32}
+{'text': 'start this project I was splitting my', 'start': 3234.93, 'duration': 4.05}
+{'text': 'time between New York and Morocco where', 'start': 3236.76, 'duration': 4.86}
+{'text': 'I was teaching teenagers and who lived', 'start': 3238.98, 'duration': 4.29}
+{'text': 'in some of the worst slums and Morocco', 'start': 3241.62, 'duration': 4.86}
+{'text': 'had a blog so all of this is to say that', 'start': 3243.27, 'duration': 6.56}
+{'text': 'ok I had a lot of exposure to artists', 'start': 3246.48, 'duration': 6.03}
+{'text': 'but it was really something entirely', 'start': 3249.83, 'duration': 5.71}
+{'text': 'different to remove the middleman me and', 'start': 3252.51, 'duration': 5.28}
+{'text': 'and Commission these pieces where we', 'start': 3255.54, 'duration': 4.53}
+{'text': 'heard directly from artists around', 'start': 3257.79, 'duration': 5.79}
+{'text': "issues in the news and you know they're", 'start': 3260.07, 'duration': 5.88}
+{'text': 'all these questions like that that the', 'start': 3263.58, 'duration': 3.81}
+{'text': 'artists were asking us that we were', 'start': 3265.95, 'duration': 4.02}
+{'text': 'asking ourselves where our artists', 'start': 3267.39, 'duration': 5.04}
+{'text': 'reporters should we hold them up to the', 'start': 3269.97, 'duration': 3.99}
+{'text': 'same rules that we would for a', 'start': 3272.43, 'duration': 3.81}
+{'text': 'journalist what section of a newspaper', 'start': 3273.96, 'duration': 4.14}
+{'text': 'with these people that with these pieces', 'start': 3276.24, 'duration': 4.59}
+{'text': 'that we co-published be and you know and', 'start': 3278.1, 'duration': 4.74}
+{'text': 'there were you know there were several', 'start': 3280.83, 'duration': 3.51}
+{'text': 'stories that helped shape the direction', 'start': 3282.84, 'duration': 3.51}
+{'text': 'of the site this is our current home', 'start': 3284.34, 'duration': 5.76}
+{'text': 'page right now and but I wanted to talk', 'start': 3286.35, 'duration': 6.5}
+{'text': 'about one in particular that really', 'start': 3290.1, 'duration': 6.57}
+{'text': 'helped me to kind of expand what this', 'start': 3292.85, 'duration': 6.07}
+{'text': 'project had to be and what it could be', 'start': 3296.67, 'duration': 5.4}
+{'text': 'and and this was an artist who came to', 'start': 3298.92, 'duration': 4.5}
+{'text': 'us and wanted to do a very touching', 'start': 3302.07, 'duration': 3.72}
+{'text': 'portrait of a country undergoing', 'start': 3303.42, 'duration': 5.34}
+{'text': 'recession and when we were editing the', 'start': 3305.79, 'duration': 5.1}
+{'text': 'piece i asked the artist for more', 'start': 3308.76, 'duration': 3.3}
+{'text': 'details you know about a particular', 'start': 3310.89, 'duration': 3.18}
+{'text': 'passage I think I wanted more of a', 'start': 3312.06, 'duration': 2.74}
+{'text': 'description of', 'start': 3314.07, 'duration': 2.32}
+{'text': 'the person that they were quoting and', 'start': 3314.8, 'duration': 3.6}
+{'text': 'and they came back to me they said you', 'start': 3316.39, 'duration': 4.32}
+{'text': 'know are we using a new york time style', 'start': 3318.4, 'duration': 4.94}
+{'text': 'of objectivity in fact checking because', 'start': 3320.71, 'duration': 5.94}
+{'text': "actually I'd rather not work that way so", 'start': 3323.34, 'duration': 7.42}
+{'text': 'I so I was like okay you know all right', 'start': 3326.65, 'duration': 6.75}
+{'text': "that that's really eye-opening and okay", 'start': 3330.76, 'duration': 4.95}
+{'text': "I have to embrace this and I can't come", 'start': 3333.4, 'duration': 4.08}
+{'text': 'I have this kind of news brain but I', 'start': 3335.71, 'duration': 4.08}
+{'text': 'have to we have to widen the way that', 'start': 3337.48, 'duration': 3.66}
+{'text': "we're going to work we have to we have", 'start': 3339.79, 'duration': 3.54}
+{'text': 'to accommodate a myriad of ways that', 'start': 3341.14, 'duration': 3.54}
+{'text': 'artists are going to approach their', 'start': 3343.33, 'duration': 3.36}
+{'text': 'pieces and and this sometimes meant', 'start': 3344.68, 'duration': 4.29}
+{'text': 'accepting push back when we asked for a', 'start': 3346.69, 'duration': 5.31}
+{'text': 'more linear way of writing fact-based', 'start': 3348.97, 'duration': 5.79}
+{'text': 'but it also meant that when an artist', 'start': 3352.0, 'duration': 4.26}
+{'text': 'wanted to create a piece for a major', 'start': 3354.76, 'duration': 3.87}
+{'text': 'publication like the guardian which is', 'start': 3356.26, 'duration': 5.19}
+{'text': 'our our main partner we could help usher', 'start': 3358.63, 'duration': 4.2}
+{'text': 'in an article that would meet the', 'start': 3361.45, 'duration': 3.54}
+{'text': 'demands of the artist first and foremost', 'start': 3362.83, 'duration': 4.74}
+{'text': 'of course and then we can also make sure', 'start': 3364.99, 'duration': 3.87}
+{'text': 'that the outlet that we were working', 'start': 3367.57, 'duration': 3.15}
+{'text': 'with it was really satisfied right that', 'start': 3368.86, 'duration': 3.09}
+{'text': 'that we were turning in a piece that', 'start': 3370.72, 'duration': 4.95}
+{'text': 'they felt they could run so regardless', 'start': 3371.95, 'duration': 5.22}
+{'text': 'of all this though you know the project', 'start': 3375.67, 'duration': 4.35}
+{'text': 'first and foremost is about privileges', 'start': 3377.17, 'duration': 5.34}
+{'text': 'of artists and we had to find ways to', 'start': 3380.02, 'duration': 3.54}
+{'text': 'make sure that the people who were', 'start': 3382.51, 'duration': 4.53}
+{'text': 'reading our pieces were aware that who', 'start': 3383.56, 'duration': 4.59}
+{'text': "you're reading was not your typical", 'start': 3387.04, 'duration': 3.93}
+{'text': 'pundits but people who have spent years', 'start': 3388.15, 'duration': 5.76}
+{'text': 'thinking and working in ways that are', 'start': 3390.97, 'duration': 5.78}
+{'text': 'vastly different than any reporter um', 'start': 3393.91, 'duration': 5.01}
+{'text': 'whenever we did work with a media', 'start': 3396.75, 'duration': 4.0}
+{'text': 'partner we were always hoping to find an', 'start': 3398.92, 'duration': 4.02}
+{'text': 'angle the news would be interested in', 'start': 3400.75, 'duration': 4.5}
+{'text': 'but our take would be entirely different', 'start': 3402.94, 'duration': 4.23}
+{'text': 'than any of the submissions they would', 'start': 3405.25, 'duration': 4.26}
+{'text': 'normally get on the subject and you can', 'start': 3407.17, 'duration': 4.19}
+{'text': 'see this in our very first partnership', 'start': 3409.51, 'duration': 3.84}
+{'text': 'this was with foreign policy magazine', 'start': 3411.36, 'duration': 4.84}
+{'text': 'based in Washington DC on the occasion', 'start': 3413.35, 'duration': 4.95}
+{'text': 'of the Hajj the annual pilgrimage to', 'start': 3416.2, 'duration': 3.81}
+{'text': 'Mecca undertaken by Muslims as one of', 'start': 3418.3, 'duration': 3.99}
+{'text': 'the five pillars of Islam and the photo', 'start': 3420.01, 'duration': 5.1}
+{'text': 'essay was by an incredible Saudi artist', 'start': 3422.29, 'duration': 5.7}
+{'text': 'named Ahmed mater and he has been', 'start': 3425.11, 'duration': 4.98}
+{'text': "working he's had he's had the privilege", 'start': 3427.99, 'duration': 4.35}
+{'text': 'of working in Mecca with permission from', 'start': 3430.09, 'duration': 5.43}
+{'text': 'the actual governor of Mecca who has', 'start': 3432.34, 'duration': 6.69}
+{'text': 'allowed him to document the rapidly', 'start': 3435.52, 'duration': 5.55}
+{'text': 'transforming sacred city which is', 'start': 3439.03, 'duration': 4.41}
+{'text': 'flooded with multi-million dollar real', 'start': 3441.07, 'duration': 3.24}
+{'text': 'estate', 'start': 3443.44, 'duration': 3.42}
+{'text': 'so these are just a couple of the images', 'start': 3444.31, 'duration': 6.75}
+{'text': 'of off meds you could see the cranes in', 'start': 3446.86, 'duration': 9.27}
+{'text': 'the center there is the Kaaba and very', 'start': 3451.06, 'duration': 7.17}
+{'text': 'vague vaguely you can sort of discern', 'start': 3456.13, 'duration': 5.13}
+{'text': 'the people walking around it this is a', 'start': 3458.23, 'duration': 5.73}
+{'text': "hotel room which is fascinating it's a", 'start': 3461.26, 'duration': 5.88}
+{'text': 'hotel that was recently a built that is', 'start': 3463.96, 'duration': 7.17}
+{'text': 'often purchased or for year round by', 'start': 3467.14, 'duration': 6.24}
+{'text': "companies that so it's often empty", 'start': 3471.13, 'duration': 5.25}
+{'text': "actually but it's very it's a kind of an", 'start': 3473.38, 'duration': 5.01}
+{'text': 'exclusive room and it overlooks the', 'start': 3476.38, 'duration': 5.07}
+{'text': 'Kaaba and you and so he was he actually', 'start': 3478.39, 'duration': 6.99}
+{'text': 'snuck in and he took this image and and', 'start': 3481.45, 'duration': 6.69}
+{'text': 'it kind of it sort of talked a lot about', 'start': 3485.38, 'duration': 6.0}
+{'text': 'what was happening in the city and this', 'start': 3488.14, 'duration': 6.12}
+{'text': 'is this is an image that he took on his', 'start': 3491.38, 'duration': 7.08}
+{'text': 'way home he liked the the way that the', 'start': 3494.26, 'duration': 8.19}
+{'text': 'the gasoline was being kind of light lit', 'start': 3498.46, 'duration': 6.84}
+{'text': 'up so what I just wanted to show you', 'start': 3502.45, 'duration': 6.54}
+{'text': 'that this is what foreign policy did you', 'start': 3505.3, 'duration': 5.91}
+{'text': 'know recently in a piece where they', 'start': 3508.99, 'duration': 3.78}
+{'text': "could they cover the hush okay so it's", 'start': 3511.21, 'duration': 4.14}
+{'text': "very straightforward and it's dramatic", 'start': 3512.77, 'duration': 5.4}
+{'text': "but it kind of lacks that it it doesn't", 'start': 3515.35, 'duration': 5.73}
+{'text': "have the same sort of take on what's", 'start': 3518.17, 'duration': 5.7}
+{'text': 'happening in Mecca during that time of', 'start': 3521.08, 'duration': 5.88}
+{'text': 'year as off meds peace and and so I', 'start': 3523.87, 'duration': 4.62}
+{'text': "think that's an important kind of", 'start': 3526.96, 'duration': 3.45}
+{'text': 'distinction to show you know that the', 'start': 3528.49, 'duration': 4.17}
+{'text': 'kinds of pieces that we were providing', 'start': 3530.41, 'duration': 4.41}
+{'text': "to these publications and and it's", 'start': 3532.66, 'duration': 4.62}
+{'text': 'really interesting to and we can talk', 'start': 3534.82, 'duration': 3.99}
+{'text': 'about this at during the Q&A but the', 'start': 3537.28, 'duration': 4.77}
+{'text': 'feedback from a lot of the these', 'start': 3538.81, 'duration': 5.31}
+{'text': 'publications were they were just eager', 'start': 3542.05, 'duration': 5.04}
+{'text': 'eager to meet and hear of new people to', 'start': 3544.12, 'duration': 5.31}
+{'text': 'report on these issues instead of going', 'start': 3547.09, 'duration': 6.12}
+{'text': 'straight to the wires right to AP to get', 'start': 3549.43, 'duration': 6.45}
+{'text': 'e like they love this idea that there', 'start': 3553.21, 'duration': 4.44}
+{'text': 'were just the people that had never', 'start': 3555.88, 'duration': 5.67}
+{'text': 'heard of right and um you know I I think', 'start': 3557.65, 'duration': 6.06}
+{'text': 'that that also sort of connects a little', 'start': 3561.55, 'duration': 5.67}
+{'text': 'bit to a a piece that kind of sort of', 'start': 3563.71, 'duration': 6.81}
+{'text': 'changed creative time reports and in', 'start': 3567.22, 'duration': 5.31}
+{'text': 'many ways I mean it was our it was our', 'start': 3570.52, 'duration': 3.78}
+{'text': 'first big piece that would that came out', 'start': 3572.53, 'duration': 3.93}
+{'text': 'was with the Guardian it was a piece by', 'start': 3574.3, 'duration': 3.15}
+{'text': 'David Byrne on the', 'start': 3576.46, 'duration': 2.909}
+{'text': 'effects of soaring rents in New York', 'start': 3577.45, 'duration': 3.6}
+{'text': "City and I don't know if you if you've", 'start': 3579.369, 'duration': 3.48}
+{'text': 'read it I mean one of the things about', 'start': 3581.05, 'duration': 5.069}
+{'text': 'about this idea of giving your pieces to', 'start': 3582.849, 'duration': 7.081}
+{'text': "publications you you really don't like", 'start': 3586.119, 'duration': 5.281}
+{'text': 'often know that we we actually', 'start': 3589.93, 'duration': 3.21}
+{'text': 'commissioned it and worked on it and', 'start': 3591.4, 'duration': 5.01}
+{'text': "just give it they've given it to them so", 'start': 3593.14, 'duration': 5.25}
+{'text': "but that's okay I mean the point is", 'start': 3596.41, 'duration': 3.449}
+{'text': 'really about inserting these artists', 'start': 3598.39, 'duration': 4.17}
+{'text': 'voices into the into major media anyway', 'start': 3599.859, 'duration': 4.801}
+{'text': 'I just I just this piece was incredible', 'start': 3602.56, 'duration': 3.51}
+{'text': 'and I just want to read very quick', 'start': 3604.66, 'duration': 5.699}
+{'text': 'passage from the piece and that I just', 'start': 3606.07, 'duration': 6.44}
+{'text': 'love and I think really really', 'start': 3610.359, 'duration': 5.071}
+{'text': 'articulates what he was going after some', 'start': 3612.51, 'duration': 4.599}
+{'text': 'folks believe that hardship breeds', 'start': 3615.43, 'duration': 5.189}
+{'text': "artistic creativity I don't buy it one", 'start': 3617.109, 'duration': 5.701}
+{'text': 'can put up with poverty for a while when', 'start': 3620.619, 'duration': 3.72}
+{'text': 'one is young but it will inevitably', 'start': 3622.81, 'duration': 4.38}
+{'text': "where a person down I don't romanticize", 'start': 3624.339, 'duration': 5.941}
+{'text': 'the bad old days I find the drop in', 'start': 3627.19, 'duration': 4.55}
+{'text': 'crime over the last couple of decades', 'start': 3630.28, 'duration': 4.17}
+{'text': 'refreshing I have no illusions that', 'start': 3631.74, 'duration': 4.3}
+{'text': 'there was a connection between that City', 'start': 3634.45, 'duration': 3.6}
+{'text': 'on its knees and a flourishing of', 'start': 3636.04, 'duration': 4.26}
+{'text': "creativity I don't believe that crime", 'start': 3638.05, 'duration': 4.59}
+{'text': 'danger in poverty make for good art', 'start': 3640.3, 'duration': 5.16}
+{'text': "that's but i also don't believe", 'start': 3642.64, 'duration': 4.41}
+{'text': 'that the drop in crime means the city', 'start': 3645.46, 'duration': 3.84}
+{'text': 'has to be more exclusively for those who', 'start': 3647.05, 'duration': 5.46}
+{'text': 'have money increases in the quality of', 'start': 3649.3, 'duration': 4.98}
+{'text': 'life should be for all not just for a', 'start': 3652.51, 'duration': 5.88}
+{'text': 'few so since our first partnership with', 'start': 3654.28, 'duration': 6.809}
+{'text': "foreign policy we've worked with a dozen", 'start': 3658.39, 'duration': 4.62}
+{'text': 'of public dozen publications including', 'start': 3661.089, 'duration': 3.901}
+{'text': 'this one is a piece we did out with al', 'start': 3663.01, 'duration': 4.079}
+{'text': 'jazeera america and this is another one', 'start': 3664.99, 'duration': 4.02}
+{'text': 'that we did with the photographer sylvia', 'start': 3667.089, 'duration': 6.24}
+{'text': "play key and The New Yorker I'm going to", 'start': 3669.01, 'duration': 6.54}
+{'text': 'take you very quickly through Trevor pag', 'start': 3673.329, 'duration': 4.171}
+{'text': 'lens project which actually transformed', 'start': 3675.55, 'duration': 6.029}
+{'text': 'the way we publish we flew over the NSA', 'start': 3677.5, 'duration': 6.03}
+{'text': 'the National Reconnaissance Office and', 'start': 3681.579, 'duration': 3.151}
+{'text': 'the national geospatial-intelligence', 'start': 3683.53, 'duration': 5.13}
+{'text': 'agency at night this was not an easy', 'start': 3684.73, 'duration': 8.129}
+{'text': 'feat we especially because the ng eia', 'start': 3688.66, 'duration': 7.169}
+{'text': 'was in a flight restricted zone but we', 'start': 3692.859, 'duration': 6.271}
+{'text': 'flew over it and we got these images and', 'start': 3695.829, 'duration': 5.611}
+{'text': 'what Trevor did which was really', 'start': 3699.13, 'duration': 4.41}
+{'text': 'incredible as he made all of the images', 'start': 3701.44, 'duration': 3.87}
+{'text': 'from the shoot available in the public', 'start': 3703.54, 'duration': 4.78}
+{'text': 'domain and we partnered with this piece', 'start': 3705.31, 'duration': 5.62}
+{'text': 'with the intercept which has founded by', 'start': 3708.32, 'duration': 5.19}
+{'text': 'Laura Poitras Glenn Greenwald and Jeremy', 'start': 3710.93, 'duration': 5.4}
+{'text': 'Scahill and the piece basically was all', 'start': 3713.51, 'duration': 5.07}
+{'text': 'of these images which anybody can', 'start': 3716.33, 'duration': 5.04}
+{'text': 'download and anybody can use and it', 'start': 3718.58, 'duration': 4.86}
+{'text': 'launched with the intercept on the day', 'start': 3721.37, 'duration': 4.55}
+{'text': 'that it that the site actually debuted', 'start': 3723.44, 'duration': 6.21}
+{'text': 'the piece was picked up and covered by', 'start': 3725.92, 'duration': 5.68}
+{'text': 'all of these different publications and', 'start': 3729.65, 'duration': 4.47}
+{'text': 'it continues to be for instance it was', 'start': 3731.6, 'duration': 3.87}
+{'text': 'on the cover of a Human Rights Watch', 'start': 3734.12, 'duration': 3.27}
+{'text': 'report tom engelhardt book you can see', 'start': 3735.47, 'duration': 4.11}
+{'text': 'here shadow government you can find this', 'start': 3737.39, 'duration': 3.96}
+{'text': 'image all over the all over the place', 'start': 3739.58, 'duration': 3.66}
+{'text': 'whenever talking about the NSA and what', 'start': 3741.35, 'duration': 4.05}
+{'text': 'what you know what was really important', 'start': 3743.24, 'duration': 4.83}
+{'text': "to Trevor is that there's just not many", 'start': 3745.4, 'duration': 5.19}
+{'text': 'images of these intelligence agencies', 'start': 3748.07, 'duration': 4.53}
+{'text': 'available and how do we get them out', 'start': 3750.59, 'duration': 3.54}
+{'text': 'there how do we show people what these', 'start': 3752.6, 'duration': 3.09}
+{'text': "buildings look like we're all this money", 'start': 3754.13, 'duration': 6.45}
+{'text': 'is going to so you know that the the', 'start': 3755.69, 'duration': 6.39}
+{'text': 'final thing I just want to talk about is', 'start': 3760.58, 'duration': 3.18}
+{'text': 'that this project really took a lot of', 'start': 3762.08, 'duration': 4.05}
+{'text': 'time and energy to create and as a', 'start': 3763.76, 'duration': 5.49}
+{'text': 'result of that are thinking we decided', 'start': 3766.13, 'duration': 5.97}
+{'text': 'to slow down and we found ourselves in', 'start': 3769.25, 'duration': 4.47}
+{'text': 'essence kind of lining up a little bit', 'start': 3772.1, 'duration': 3.57}
+{'text': 'with the way that creative time works', 'start': 3773.72, 'duration': 4.53}
+{'text': 'right and and that meant ensuring that', 'start': 3775.67, 'duration': 3.99}
+{'text': 'our artists are grounded in the', 'start': 3778.25, 'duration': 3.54}
+{'text': 'communities that they cover to avoid the', 'start': 3779.66, 'duration': 4.23}
+{'text': 'ubiquitous art world and media world in', 'start': 3781.79, 'duration': 5.28}
+{'text': 'general pitfall of parachuting in to', 'start': 3783.89, 'duration': 4.98}
+{'text': 'report on the crisis and leaving before', 'start': 3787.07, 'duration': 4.68}
+{'text': 'any substantive work has been done and', 'start': 3788.87, 'duration': 5.76}
+{'text': 'the slower pace actually it essentially', 'start': 3791.75, 'duration': 5.49}
+{'text': 'allows us to work with more integrity to', 'start': 3794.63, 'duration': 4.53}
+{'text': 'fact-check all the more rigorously and', 'start': 3797.24, 'duration': 4.5}
+{'text': 'to take time to massage the ideas that', 'start': 3799.16, 'duration': 4.73}
+{'text': 'are still being formed and', 'start': 3801.74, 'duration': 4.23}
+{'text': "simultaneously it's allowed us to", 'start': 3803.89, 'duration': 4.69}
+{'text': 'cultivate new paths for outreach you', 'start': 3805.97, 'duration': 4.56}
+{'text': 'know we have now a set of regional', 'start': 3808.58, 'duration': 3.54}
+{'text': 'editors that are based everywhere from', 'start': 3810.53, 'duration': 3.84}
+{'text': 'Istanbul to Nairobi to Vancouver and', 'start': 3812.12, 'duration': 5.37}
+{'text': 'these editors are seen as our eyes and', 'start': 3814.37, 'duration': 4.92}
+{'text': 'ears on the ground and they help us to', 'start': 3817.49, 'duration': 3.63}
+{'text': 'deepen our sensitivity to local', 'start': 3819.29, 'duration': 5.52}
+{'text': 'conditions and I just will end it with', 'start': 3821.12, 'duration': 6.51}
+{'text': 'just this week we call publish the piece', 'start': 3824.81, 'duration': 5.91}
+{'text': 'with an incredible poet named Alec', 'start': 3827.63, 'duration': 6.21}
+{'text': 'vigman on whose part of the duo dark', 'start': 3830.72, 'duration': 5.34}
+{'text': 'matter and the peace talks about the', 'start': 3833.84, 'duration': 3.45}
+{'text': 'current moment of unprecedented', 'start': 3836.06, 'duration': 3.0}
+{'text': 'visibility for some transgender', 'start': 3837.29, 'duration': 4.14}
+{'text': 'celebrities but individuals who are', 'start': 3839.06, 'duration': 3.12}
+{'text': 'gender and on', 'start': 3841.43, 'duration': 2.72}
+{'text': 'conforming still face harassment', 'start': 3842.18, 'duration': 4.47}
+{'text': 'hostility and fear and the peace the', 'start': 3844.15, 'duration': 4.21}
+{'text': 'peace actually went viral and this', 'start': 3846.65, 'duration': 3.63}
+{'text': 'morning I checked it was at 23,000', 'start': 3848.36, 'duration': 4.08}
+{'text': 'shares it was what we we did with the', 'start': 3850.28, 'duration': 4.26}
+{'text': 'Guardian and this is a lot more of the', 'start': 3852.44, 'duration': 3.27}
+{'text': "direction that we're sort of heading", 'start': 3854.54, 'duration': 3.15}
+{'text': 'into is really making sure that a lot of', 'start': 3855.71, 'duration': 4.47}
+{'text': 'the pieces we create arm find a home in', 'start': 3857.69, 'duration': 6.51}
+{'text': "a partner publication and I'll just to", 'start': 3860.18, 'duration': 5.85}
+{'text': 'say you know to wrap it up that you know', 'start': 3864.2, 'duration': 3.96}
+{'text': 'we strive to present artists engaging', 'start': 3866.03, 'duration': 4.17}
+{'text': 'with pressing issues in an expanded', 'start': 3868.16, 'duration': 4.62}
+{'text': 'range of forms punctuating news feeds', 'start': 3870.2, 'duration': 4.32}
+{'text': 'and home pages around the world with', 'start': 3872.78, 'duration': 4.44}
+{'text': 'unexpected stories and images and you', 'start': 3874.52, 'duration': 5.22}
+{'text': 'know we hope that our signature mix of', 'start': 3877.22, 'duration': 5.37}
+{'text': 'art activism and journalism will become', 'start': 3879.74, 'duration': 5.31}
+{'text': 'an increasingly visible and trusted', 'start': 3882.59, 'duration': 4.35}
+{'text': 'source for unconventional forms of', 'start': 3885.05, 'duration': 4.31}
+{'text': 'expression with real political impact', 'start': 3886.94, 'duration': 5.54}
+{'text': 'thank you', 'start': 3889.36, 'duration': 3.12}
+{'text': "thank you very much do we owe there's", 'start': 3902.95, 'duration': 8.829}
+{'text': 'Amanda thank you all very much Amanda', 'start': 3907.309, 'duration': 7.44}
+{'text': "and Brian and and Marissa it doesn't", 'start': 3911.779, 'duration': 4.141}
+{'text': "sound like you're slowing down at all", 'start': 3914.749, 'duration': 6.211}
+{'text': 'worse but I love that idea so we have I', 'start': 3915.92, 'duration': 7.049}
+{'text': "didn't check my clock but I'm sure we", 'start': 3920.96, 'duration': 5.25}
+{'text': 'have some time for questions 215 so do', 'start': 3922.969, 'duration': 4.741}
+{'text': 'would you mind being the other', 'start': 3926.21, 'duration': 7.259}
+{'text': 'microphone person so uh yeah Dave could', 'start': 3927.71, 'duration': 9.049}
+{'text': 'you bring up the lights a little bit', 'start': 3933.469, 'duration': 3.29}
+{'text': 'thank you great yes so so many', 'start': 3936.819, 'duration': 9.311}
+{'text': 'perspectives and probably so many', 'start': 3943.88, 'duration': 7.399}
+{'text': 'questions who would like to start us out', 'start': 3946.13, 'duration': 5.149}
+{'text': 'well this is very stimulating it made me', 'start': 3952.359, 'duration': 5.62}
+{'text': 'think of what Nikki said before his', 'start': 3956.089, 'duration': 3.93}
+{'text': 'tongue was cut out he said every artist', 'start': 3957.979, 'duration': 4.681}
+{'text': "should have his tongue cut out but it's", 'start': 3960.019, 'duration': 6.45}
+{'text': "good he hadn't had it cut out before he", 'start': 3962.66, 'duration': 7.53}
+{'text': 'made that utterance you know I i think', 'start': 3966.469, 'duration': 6.27}
+{'text': "it was Brian who's talking about", 'start': 3970.19, 'duration': 4.639}
+{'text': 'Smithson and the writings of that period', 'start': 3972.739, 'duration': 4.411}
+{'text': 'you may have known the name Peter', 'start': 3974.829, 'duration': 7.66}
+{'text': 'hutchinson he he told me he writing', 'start': 3977.15, 'duration': 7.469}
+{'text': 'articles for art for Martin American', 'start': 3982.489, 'duration': 4.681}
+{'text': 'places like that and he went to a party', 'start': 3984.619, 'duration': 4.62}
+{'text': 'in New York and someone said Peter', 'start': 3987.17, 'duration': 4.74}
+{'text': "hutchinson oh you're the writer and so", 'start': 3989.239, 'duration': 5.701}
+{'text': 'he stopped writing but this this is so', 'start': 3991.91, 'duration': 5.939}
+{'text': 'interesting about the need for artists', 'start': 3994.94, 'duration': 6.919}
+{'text': 'to become articulate these days and I I', 'start': 3997.849, 'duration': 7.051}
+{'text': 'wrote a piece this year about expert', 'start': 4001.859, 'duration': 6.19}
+{'text': 'expertise and the articulate artists', 'start': 4004.9, 'duration': 5.399}
+{'text': 'thinking the word expertise as you', 'start': 4008.049, 'duration': 4.47}
+{'text': 'probably know as a Greek word and it', 'start': 4010.299, 'duration': 5.131}
+{'text': 'means when the mute image speaks out and', 'start': 4012.519, 'duration': 8.25}
+{'text': 'becomes articulate and so the urge to', 'start': 4015.43, 'duration': 8.73}
+{'text': 'combine language with image is its', 'start': 4020.769, 'duration': 6.33}
+{'text': 'ancient really they put the poems on', 'start': 4024.16, 'duration': 5.9}
+{'text': 'coins in order to say something', 'start': 4027.099, 'duration': 7.531}
+{'text': 'but with the internet so such great', 'start': 4030.06, 'duration': 6.64}
+{'text': 'great changes are happening with the', 'start': 4034.63, 'duration': 4.43}
+{'text': 'hyperlinks and with the new mediums', 'start': 4036.7, 'duration': 5.669}
+{'text': 'WordPress and places like that that I do', 'start': 4039.06, 'duration': 5.559}
+{'text': "think that and that's what i learned", 'start': 4042.369, 'duration': 7.231}
+{'text': 'from praxis was the ways to assimilate', 'start': 4044.619, 'duration': 12.061}
+{'text': 'or suggest the various layering in a', 'start': 4049.6, 'duration': 11.21}
+{'text': "print form it's quite fascinating so I", 'start': 4056.68, 'duration': 8.27}
+{'text': 'want to make those remarks thank you', 'start': 4060.81, 'duration': 4.14}
+{'text': 'in the journal', 'start': 4087.53, 'duration': 4.59}
+{'text': 'hi I have a numerator', 'start': 4101.609, 'duration': 6.131}
+{'text': 'Oh', 'start': 4105.74, 'duration': 2.0}
+{'text': "I've never thought of it in those terms", 'start': 4123.9, 'duration': 3.339}
+{'text': 'I thought your thing about conceptually', 'start': 4125.949, 'duration': 4.29}
+{'text': 'enter the argument exceptionally enter', 'start': 4127.239, 'duration': 5.85}
+{'text': "the but don't you're right and I think", 'start': 4130.239, 'duration': 4.77}
+{'text': 'that reinforces the point that I was', 'start': 4133.089, 'duration': 7.291}
+{'text': 'making about the the entanglement of our', 'start': 4135.009, 'duration': 7.621}
+{'text': 'identities as architects and s designers', 'start': 4140.38, 'duration': 4.439}
+{'text': 'and maybe I think all of us are getting', 'start': 4142.63, 'duration': 3.509}
+{'text': 'at this question in different ways to', 'start': 4144.819, 'duration': 6.09}
+{'text': 'and notion of pairing of text and image', 'start': 4146.139, 'duration': 6.63}
+{'text': 'and of the desire to be articulate', 'start': 4150.909, 'duration': 3.42}
+{'text': 'within the context of a design practice', 'start': 4152.769, 'duration': 3.691}
+{'text': 'and I think because we see the design of', 'start': 4154.329, 'duration': 6.48}
+{'text': 'the artifact as analogous or similar to', 'start': 4156.46, 'duration': 7.199}
+{'text': 'the way we approach design problems in', 'start': 4160.809, 'duration': 4.89}
+{'text': "it so in that way you're right it is a", 'start': 4163.659, 'duration': 3.9}
+{'text': "kind of entrance we didn't use that", 'start': 4165.699, 'duration': 3.511}
+{'text': 'specifically architectural term when we', 'start': 4167.559, 'duration': 3.3}
+{'text': "thought of it but that's exactly what it", 'start': 4169.21, 'duration': 3.599}
+{'text': 'is is the kind of entrance to the but', 'start': 4170.859, 'duration': 6.11}
+{'text': 'also conceptually it was a the notion of', 'start': 4172.809, 'duration': 7.41}
+{'text': 'thinking of the cover as a kind of', 'start': 4176.969, 'duration': 7.39}
+{'text': 'design exercise also just so that it', 'start': 4180.219, 'duration': 6.031}
+{'text': 'would it would inhabit the same ideas', 'start': 4184.359, 'duration': 3.831}
+{'text': 'about the issue thematic that the', 'start': 4186.25, 'duration': 4.23}
+{'text': 'architects were also challenging that we', 'start': 4188.19, 'duration': 3.669}
+{'text': 'were we were interested in art tasting', 'start': 4190.48, 'duration': 3.42}
+{'text': 'this issue in here that we were making', 'start': 4191.859, 'duration': 4.771}
+{'text': 'our own kind of design approach to that', 'start': 4193.9, 'duration': 5.4}
+{'text': 'issue too but i will say that is also', 'start': 4196.63, 'duration': 4.38}
+{'text': 'what makes the issue challenging and', 'start': 4199.3, 'duration': 4.95}
+{'text': 'which is maybe leading to our ultimate', 'start': 4201.01, 'duration': 7.68}
+{'text': 'and here is them the this question of', 'start': 4204.25, 'duration': 6.78}
+{'text': 'cost i think is is it may be part of', 'start': 4208.69, 'duration': 4.529}
+{'text': 'this too and one thing that struck me in', 'start': 4211.03, 'duration': 4.2}
+{'text': 'your conversation was about creative', 'start': 4213.219, 'duration': 3.42}
+{'text': 'tentative so fascinating in this notion', 'start': 4215.23, 'duration': 4.11}
+{'text': "also that you're not like this notion", 'start': 4216.639, 'duration': 5.0}
+{'text': 'that you have to give away the', 'start': 4219.34, 'duration': 5.069}
+{'text': 'recognition but also the incredible', 'start': 4221.639, 'duration': 5.051}
+{'text': 'resources of mistaken and funding to', 'start': 4224.409, 'duration': 4.621}
+{'text': 'support these people that are finding', 'start': 4226.69, 'duration': 4.46}
+{'text': 'these stories and right and then that', 'start': 4229.03, 'duration': 5.58}
+{'text': "that how do you I mean that's an", 'start': 4231.15, 'duration': 6.46}
+{'text': 'incredibly generous intellectual', 'start': 4234.61, 'duration': 4.67}
+{'text': 'position right that you allow that', 'start': 4237.61, 'duration': 5.159}
+{'text': 'material into a kind of public domain', 'start': 4239.28, 'duration': 5.23}
+{'text': "I'm moving off the topic a little here", 'start': 4242.769, 'duration': 4.261}
+{'text': "that you brought up but for me that's an", 'start': 4244.51, 'duration': 6.529}
+{'text': 'interesting piece of all this too is who', 'start': 4247.03, 'duration': 7.79}
+{'text': 'where the resources come from', 'start': 4251.039, 'duration': 3.781}
+{'text': 'respond to that just a little bit I', 'start': 4257.389, 'duration': 4.931}
+{'text': 'think that really falls under what', 'start': 4259.289, 'duration': 7.801}
+{'text': "creative time is I think it's we are a", 'start': 4262.32, 'duration': 6.989}
+{'text': 'public art organization and we felt like', 'start': 4267.09, 'duration': 4.35}
+{'text': 'we had to somehow translate that into', 'start': 4269.309, 'duration': 4.23}
+{'text': 'this project and yeah it does it does', 'start': 4271.44, 'duration': 4.619}
+{'text': 'hurt sometimes because people will talk', 'start': 4273.539, 'duration': 4.89}
+{'text': "to you about pieces and they'll not have", 'start': 4276.059, 'duration': 4.111}
+{'text': 'any idea that you you were the one who', 'start': 4278.429, 'duration': 3.81}
+{'text': "created it and Commission didn't have", 'start': 4280.17, 'duration': 6.239}
+{'text': 'the idea but you know but but it feels', 'start': 4282.239, 'duration': 7.351}
+{'text': 'good to to speak to people that would', 'start': 4286.409, 'duration': 5.371}
+{'text': 'never read or have anything to do with', 'start': 4289.59, 'duration': 4.679}
+{'text': 'the art world or artists and so I think', 'start': 4291.78, 'duration': 5.779}
+{'text': "that's at the heart of what we're doing", 'start': 4294.269, 'duration': 3.29}
+{'text': "it's interesting couple weeks ago we had", 'start': 4298.13, 'duration': 5.77}
+{'text': 'a visitor to our class named or eat gat', 'start': 4301.199, 'duration': 5.491}
+{'text': "she's a writer on art and publishing and", 'start': 4303.9, 'duration': 5.819}
+{'text': 'the internet and she said something like', 'start': 4306.69, 'duration': 5.73}
+{'text': "I don't want to miss paraphrase her but", 'start': 4309.719, 'duration': 5.041}
+{'text': 'that you know you might have lost faith', 'start': 4312.42, 'duration': 6.059}
+{'text': 'in for-profit publishing long ago if you', 'start': 4314.76, 'duration': 6.6}
+{'text': 'ever had it right and even nonprofit', 'start': 4318.479, 'duration': 4.89}
+{'text': 'publishing is sort of beholden to', 'start': 4321.36, 'duration': 4.56}
+{'text': 'certain interests and she was sort of', 'start': 4323.369, 'duration': 4.261}
+{'text': "speculating that it's institutional", 'start': 4325.92, 'duration': 2.969}
+{'text': "publishing it's interesting that you", 'start': 4327.63, 'duration': 2.279}
+{'text': "said now I'm going to stay out of the", 'start': 4328.889, 'duration': 3.301}
+{'text': 'institution that institutions are the', 'start': 4329.909, 'duration': 5.491}
+{'text': 'places that might have the freedom right', 'start': 4332.19, 'duration': 5.69}
+{'text': 'now to experiment and to you know', 'start': 4335.4, 'duration': 7.77}
+{'text': 'broaden the bounds yeah well uh just one', 'start': 4337.88, 'duration': 12.569}
+{'text': 'more thing that which is I think', 'start': 4343.17, 'duration': 7.279}
+{'text': 'yeah fact I think one of the desires for', 'start': 4351.75, 'duration': 7.18}
+{'text': 'all of these writers and maybe for every', 'start': 4356.29, 'duration': 5.4}
+{'text': 'writer is to expand their audience right', 'start': 4358.93, 'duration': 7.559}
+{'text': "and so this book or even practice you're", 'start': 4361.69, 'duration': 7.29}
+{'text': 'talking about a pretty small audience I', 'start': 4366.489, 'duration': 5.371}
+{'text': 'mean even limited by print Ron and their', 'start': 4368.98, 'duration': 6.75}
+{'text': 'physical accessibility but now through', 'start': 4371.86, 'duration': 7.37}
+{'text': 'social media and what social media has', 'start': 4375.73, 'duration': 6.87}
+{'text': 'spawned which is kind of partnerships', 'start': 4379.23, 'duration': 8.29}
+{'text': 'and demand for content that creative', 'start': 4382.6, 'duration': 7.92}
+{'text': "time reports taps into you're suddenly", 'start': 4387.52, 'duration': 5.49}
+{'text': 'talking about exponentially larger', 'start': 4390.52, 'duration': 6.66}
+{'text': 'audiences with just untold magnitude and', 'start': 4393.01, 'duration': 7.92}
+{'text': "so to me that's kind of the dream to", 'start': 4397.18, 'duration': 7.83}
+{'text': 'connect these really smart people people', 'start': 4400.93, 'duration': 6.57}
+{'text': 'who are thinking outside the box or in', 'start': 4405.01, 'duration': 6.24}
+{'text': 'unconventional ways with a much larger', 'start': 4407.5, 'duration': 8.45}
+{'text': 'audience through whatever means possible', 'start': 4411.25, 'duration': 4.7}
+{'text': 'I had a question for Marissa along the', 'start': 4416.4, 'duration': 7.87}
+{'text': 'notes of funding does it ever become a', 'start': 4419.739, 'duration': 7.531}
+{'text': 'commercial conflict for a creative time', 'start': 4424.27, 'duration': 6.06}
+{'text': 'reports with the publishers in terms of', 'start': 4427.27, 'duration': 6.42}
+{'text': "advertising and do your partner's ever", 'start': 4430.33, 'duration': 7.92}
+{'text': 'try and cross sell your commission with', 'start': 4433.69, 'duration': 7.049}
+{'text': "advertisers oh that's a really good", 'start': 4438.25, 'duration': 4.47}
+{'text': 'question they they tend to keep us out', 'start': 4440.739, 'duration': 3.991}
+{'text': 'of that discussion so if that has', 'start': 4442.72, 'duration': 6.81}
+{'text': "happened I wouldn't know and where we", 'start': 4444.73, 'duration': 11.22}
+{'text': 'sit is in the op-ed section 2 and it in', 'start': 4449.53, 'duration': 8.55}
+{'text': 'most places and like for instance with', 'start': 4455.95, 'duration': 6.33}
+{'text': 'the Guardian but so yeah does that', 'start': 4458.08, 'duration': 5.88}
+{'text': 'answer your question I mean in terms of', 'start': 4462.28, 'duration': 4.65}
+{'text': 'we we really have this relationship with', 'start': 4463.96, 'duration': 5.88}
+{'text': 'the editors which is I wish it was a', 'start': 4466.93, 'duration': 5.34}
+{'text': 'little bit more extensive but the', 'start': 4469.84, 'duration': 4.62}
+{'text': 'reality is that these guys are churning', 'start': 4472.27, 'duration': 3.78}
+{'text': 'things out constantly', 'start': 4474.46, 'duration': 3.599}
+{'text': "and I'm providing them with something", 'start': 4476.05, 'duration': 4.649}
+{'text': "that's usually really clean you know", 'start': 4478.059, 'duration': 6.151}
+{'text': 'checked and and and if there are some', 'start': 4480.699, 'duration': 5.13}
+{'text': "issues that they have with it I don't", 'start': 4484.21, 'duration': 4.8}
+{'text': 'often know you know whether they do or', 'start': 4485.829, 'duration': 5.04}
+{'text': 'not does that ever come up as an', 'start': 4489.01, 'duration': 3.6}
+{'text': "opportunity that like when you're sort", 'start': 4490.869, 'duration': 5.37}
+{'text': 'of pitching a story too I mean like for', 'start': 4492.61, 'duration': 5.66}
+{'text': "example i'm sure some creative time", 'start': 4496.239, 'duration': 6.181}
+{'text': 'projects are open to sponsorship could', 'start': 4498.27, 'duration': 6.34}
+{'text': 'there be an opportunity for a creator', 'start': 4502.42, 'duration': 4.56}
+{'text': 'time report that is launched just like a', 'start': 4504.61, 'duration': 4.68}
+{'text': 'larger feature in The Guardian that is', 'start': 4506.98, 'duration': 4.38}
+{'text': 'sort of cross promoted with brands and', 'start': 4509.29, 'duration': 3.599}
+{'text': "advertising because I've become an", 'start': 4511.36, 'duration': 4.62}
+{'text': 'editorial problem or opportunity because', 'start': 4512.889, 'duration': 5.571}
+{'text': 'that started like a realistic', 'start': 4515.98, 'duration': 5.369}
+{'text': 'proposition to be made in terms of', 'start': 4518.46, 'duration': 5.139}
+{'text': 'funding this work right outside of just', 'start': 4521.349, 'duration': 4.261}
+{'text': "creative time well I'll just talk a", 'start': 4523.599, 'duration': 3.631}
+{'text': 'little bit about our funding structure', 'start': 4525.61, 'duration': 5.009}
+{'text': 'that might be of interest we get general', 'start': 4527.23, 'duration': 5.31}
+{'text': "Grant's you know the organization", 'start': 4530.619, 'duration': 3.33}
+{'text': 'creative time gets grants and then we', 'start': 4532.54, 'duration': 4.71}
+{'text': 'get specific grants for the project for', 'start': 4533.949, 'duration': 7.17}
+{'text': 'creative time reports we one of the', 'start': 4537.25, 'duration': 5.699}
+{'text': "things I didn't talk about in in the", 'start': 4541.119, 'duration': 5.401}
+{'text': 'speech was that we actually never I mean', 'start': 4542.949, 'duration': 5.641}
+{'text': "it's so rare that an artist will talk", 'start': 4546.52, 'duration': 4.619}
+{'text': "about a project that they're that", 'start': 4548.59, 'duration': 6.87}
+{'text': "they've worked on or or why they are so", 'start': 4551.139, 'duration': 5.94}
+{'text': "for instance like if there's an artist", 'start': 4555.46, 'duration': 3.779}
+{'text': "who's in who's done a project on sexual", 'start': 4557.079, 'duration': 4.5}
+{'text': 'harassment when they write a piece for', 'start': 4559.239, 'duration': 4.17}
+{'text': 'us we never actually have them reference', 'start': 4561.579, 'duration': 4.171}
+{'text': 'the project it has already assumed that', 'start': 4563.409, 'duration': 4.29}
+{'text': 'they are an expert and they are writing', 'start': 4565.75, 'duration': 4.65}
+{'text': 'about their experience and so projects', 'start': 4567.699, 'duration': 5.911}
+{'text': "often don't make it into the project", 'start': 4570.4, 'duration': 6.089}
+{'text': "into the piece itself and so we haven't", 'start': 4573.61, 'duration': 4.859}
+{'text': "had that opportunity really it's been a", 'start': 4576.489, 'duration': 4.561}
+{'text': 'big separation in terms of in the', 'start': 4578.469, 'duration': 6.871}
+{'text': "projects of creative time we we haven't", 'start': 4581.05, 'duration': 6.12}
+{'text': "when we've covered the projects that", 'start': 4585.34, 'duration': 3.48}
+{'text': 'creative thomason so for instance we did', 'start': 4587.17, 'duration': 4.529}
+{'text': 'a series of five artists for the kara', 'start': 4588.82, 'duration': 5.04}
+{'text': 'walker project and also for our black', 'start': 4591.699, 'duration': 4.77}
+{'text': 'radical brooklyn project we did not co', 'start': 4593.86, 'duration': 5.12}
+{'text': 'publish those with a with', 'start': 4596.469, 'duration': 4.971}
+{'text': 'their publication simply because it', 'start': 4598.98, 'duration': 6.12}
+{'text': 'really is our own you know project and', 'start': 4601.44, 'duration': 6.06}
+{'text': "we didn't you know we didn't see that", 'start': 4605.1, 'duration': 4.83}
+{'text': "that doesn't fit in terms of the", 'start': 4607.5, 'duration': 6.12}
+{'text': "partnership model we've created because", 'start': 4609.93, 'duration': 12.75}
+{'text': 'I hope that answers your question my', 'start': 4613.62, 'duration': 12.9}
+{'text': 'question is tired thank you so much for', 'start': 4622.68, 'duration': 9.21}
+{'text': 'speak I was wondering our curator in', 'start': 4626.52, 'duration': 9.44}
+{'text': 'much of your life it was wondering about', 'start': 4631.89, 'duration': 7.92}
+{'text': 'how you see sort of confluences and', 'start': 4635.96, 'duration': 5.98}
+{'text': 'differences between your territorial', 'start': 4639.81, 'duration': 4.14}
+{'text': 'practice in your editing practice', 'start': 4641.94, 'duration': 5.27}
+{'text': 'particularly regarding', 'start': 4643.95, 'duration': 3.26}
+{'text': "does this work no that's a good question", 'start': 4649.019, 'duration': 14.47}
+{'text': 'and I think you know similar kinds of', 'start': 4655.809, 'duration': 10.261}
+{'text': 'changes have taken place in museums and', 'start': 4663.489, 'duration': 4.53}
+{'text': 'curatorial world that you could track', 'start': 4666.07, 'duration': 5.85}
+{'text': "along the same lines as what's happened", 'start': 4668.019, 'duration': 8.071}
+{'text': 'to the breakdown of generic distinctions', 'start': 4671.92, 'duration': 9.869}
+{'text': "between writing and art making and I've", 'start': 4676.09, 'duration': 10.58}
+{'text': 'always favored a more theatrical and', 'start': 4681.789, 'duration': 10.77}
+{'text': 'engaging form of exhibition making but', 'start': 4686.67, 'duration': 9.94}
+{'text': "it doesn't always work and you know so I", 'start': 4692.559, 'duration': 10.14}
+{'text': 'I feel like exhibitions could be should', 'start': 4696.61, 'duration': 9.569}
+{'text': 'be much more experimental than they are', 'start': 4702.699, 'duration': 7.101}
+{'text': "but you know it's like some rigid", 'start': 4706.179, 'duration': 7.56}
+{'text': 'formats are very conservative and hard', 'start': 4709.8, 'duration': 7.0}
+{'text': 'to change institutions are difficult to', 'start': 4713.739, 'duration': 8.701}
+{'text': "change so you know I'm always looking", 'start': 4716.8, 'duration': 9.0}
+{'text': 'around at smaller institutions that have', 'start': 4722.44, 'duration': 8.389}
+{'text': 'the wherewithal or the freedom to create', 'start': 4725.8, 'duration': 8.73}
+{'text': 'experiments with the exhibition formats', 'start': 4730.829, 'duration': 6.821}
+{'text': "similarly I'm always looking at smaller", 'start': 4734.53, 'duration': 5.87}
+{'text': 'publications that have the freedom to', 'start': 4737.65, 'duration': 6.929}
+{'text': 'experiment with writing formats or', 'start': 4740.4, 'duration': 8.889}
+{'text': 'publishing or editorial formats at the', 'start': 4744.579, 'duration': 7.14}
+{'text': 'same time this ties back to what I was', 'start': 4749.289, 'duration': 4.29}
+{'text': "saying before you're always thinking", 'start': 4751.719, 'duration': 4.53}
+{'text': "about what's the audience how can you", 'start': 4753.579, 'duration': 5.79}
+{'text': 'engage the audience both physically and', 'start': 4756.249, 'duration': 5.281}
+{'text': 'intellectually but also in terms of', 'start': 4759.369, 'duration': 5.85}
+{'text': 'drawing more people into the collection', 'start': 4761.53, 'duration': 8.069}
+{'text': "of ideals that you're exploring and so", 'start': 4765.219, 'duration': 5.191}
+{'text': 'those', 'start': 4769.599, 'duration': 4.441}
+{'text': 'things are often in some sort of balance', 'start': 4770.41, 'duration': 8.28}
+{'text': 'like how experimental or radical can you', 'start': 4774.04, 'duration': 7.08}
+{'text': 'be in your practice while still', 'start': 4778.69, 'duration': 4.98}
+{'text': "enlarging the circle of people we're", 'start': 4781.12, 'duration': 4.62}
+{'text': 'going to be willing to come with you on', 'start': 4783.67, 'duration': 6.23}
+{'text': 'a journey and explore the ideas and', 'start': 4785.74, 'duration': 11.49}
+{'text': 'answer your question okay um so my', 'start': 4789.9, 'duration': 11.95}
+{'text': "question is to Marisa and it's mostly on", 'start': 4797.23, 'duration': 6.87}
+{'text': 'the politics behind selecting the', 'start': 4801.85, 'duration': 5.31}
+{'text': 'writers and the topics and the kind of', 'start': 4804.1, 'duration': 4.86}
+{'text': 'public debates that actually make it', 'start': 4807.16, 'duration': 3.45}
+{'text': 'into the creative time reports and if', 'start': 4808.96, 'duration': 5.22}
+{'text': 'that is at all compromised when you', 'start': 4810.61, 'duration': 5.58}
+{'text': 'start launching the pieces and two other', 'start': 4814.18, 'duration': 6.36}
+{'text': "media outlets yeah that's a great", 'start': 4816.19, 'duration': 9.36}
+{'text': "question um that's a really good", 'start': 4820.54, 'duration': 7.59}
+{'text': "question i I'll tell I'll tell you a", 'start': 4825.55, 'duration': 4.11}
+{'text': 'little bit about our editorial practice', 'start': 4828.13, 'duration': 5.19}
+{'text': 'up in our process and how we work so I', 'start': 4829.66, 'duration': 7.68}
+{'text': 'would never look too I would never', 'start': 4833.32, 'duration': 6.06}
+{'text': 'compromise an artist point of view or', 'start': 4837.34, 'duration': 5.54}
+{'text': 'their piece if it meant that I', 'start': 4839.38, 'duration': 6.33}
+{'text': 'co-publishing so i would i would just', 'start': 4842.88, 'duration': 4.72}
+{'text': "have it on creative time reports that's", 'start': 4845.71, 'duration': 4.17}
+{'text': "like I said they're going to talk what's", 'start': 4847.6, 'duration': 3.75}
+{'text': 'most important is really the artists', 'start': 4849.88, 'duration': 3.42}
+{'text': 'voices and making sure that the artists', 'start': 4851.35, 'duration': 5.1}
+{'text': 'feel really really comfortable and and', 'start': 4853.3, 'duration': 5.91}
+{'text': "not that we're editing or curtailing", 'start': 4856.45, 'duration': 5.22}
+{'text': "things that they'd like to say so when I", 'start': 4859.21, 'duration': 5.42}
+{'text': 'do publish a piece with an artist a', 'start': 4861.67, 'duration': 7.11}
+{'text': 'political piece that we we what we do is', 'start': 4864.63, 'duration': 6.13}
+{'text': 'we get the piece we look at it and we', 'start': 4868.78, 'duration': 3.84}
+{'text': 'say does this feel like it could fit', 'start': 4870.76, 'duration': 4.32}
+{'text': "into another publication we don't really", 'start': 4872.62, 'duration': 5.22}
+{'text': "work the other way around it's really", 'start': 4875.08, 'duration': 6.42}
+{'text': 'like what I do is I think okay there is', 'start': 4877.84, 'duration': 5.7}
+{'text': "an issue I know that there's going to be", 'start': 4881.5, 'duration': 4.5}
+{'text': 'an anniversary of something of like a', 'start': 4883.54, 'duration': 5.01}
+{'text': "war that's going to happen and who is", 'start': 4886.0, 'duration': 4.71}
+{'text': "the artist that's most poised to talk", 'start': 4888.55, 'duration': 4.08}
+{'text': "about this who's the who's the artist", 'start': 4890.71, 'duration': 4.11}
+{'text': 'whose practice has focused on this issue', 'start': 4892.63, 'duration': 5.88}
+{'text': 'for so many years and then we reach out', 'start': 4894.82, 'duration': 5.85}
+{'text': "we ask them if they're interested", 'start': 4898.51, 'duration': 3.87}
+{'text': "and it's not always text you know", 'start': 4900.67, 'duration': 3.72}
+{'text': 'sometimes its images its films its', 'start': 4902.38, 'duration': 6.15}
+{'text': 'poetry and then based on what we get we', 'start': 4904.39, 'duration': 5.88}
+{'text': 'then work with the artist to see okay', 'start': 4908.53, 'duration': 4.2}
+{'text': 'well this will this be something that', 'start': 4910.27, 'duration': 4.53}
+{'text': "you'd be interested in co-publishing I", 'start': 4912.73, 'duration': 4.199}
+{'text': 'mean we always ask that question first', 'start': 4914.8, 'duration': 4.29}
+{'text': "and foremost and I think that's how we", 'start': 4916.929, 'duration': 3.75}
+{'text': "make sure that the artist doesn't feel", 'start': 4919.09, 'duration': 7.56}
+{'text': 'compromised in any way the follow-up and', 'start': 4920.679, 'duration': 9.331}
+{'text': 'are there any stories for example that', 'start': 4926.65, 'duration': 7.049}
+{'text': 'you choose not to include in your', 'start': 4930.01, 'duration': 5.58}
+{'text': 'publication so like something that is', 'start': 4933.699, 'duration': 3.961}
+{'text': "completely controversial a topic that's", 'start': 4935.59, 'duration': 3.39}
+{'text': 'completely controversial or like a', 'start': 4937.66, 'duration': 5.24}
+{'text': 'source of yeah like a kind of taboo', 'start': 4938.98, 'duration': 7.35}
+{'text': "especially politically no I know I don't", 'start': 4942.9, 'duration': 4.69}
+{'text': "know if you look at our site we've", 'start': 4946.33, 'duration': 4.86}
+{'text': "pretty much we've done kind of almost", 'start': 4947.59, 'duration': 7.08}
+{'text': "everything um I'll tell you that while", 'start': 4951.19, 'duration': 5.549}
+{'text': "it's not taboo we don't really want to", 'start': 4954.67, 'duration': 4.02}
+{'text': "hear the way it's not that we don't want", 'start': 4956.739, 'duration': 4.741}
+{'text': "to hear we don't asked it about the art", 'start': 4958.69, 'duration': 4.529}
+{'text': "world like we don't ask artists to write", 'start': 4961.48, 'duration': 2.91}
+{'text': "about what's happening in the art world", 'start': 4963.219, 'duration': 2.431}
+{'text': "we don't ask anybody to write about", 'start': 4964.39, 'duration': 5.19}
+{'text': "shows we don't I mean that's really what", 'start': 4965.65, 'duration': 6.96}
+{'text': "we kind of say no to I mean we've talked", 'start': 4969.58, 'duration': 6.96}
+{'text': 'about artists and wages and how how come', 'start': 4972.61, 'duration': 5.819}
+{'text': 'artists are asked to work for free these', 'start': 4976.54, 'duration': 4.35}
+{'text': 'things are important to us right but but', 'start': 4978.429, 'duration': 5.761}
+{'text': 'like in a seminal show and a review of', 'start': 4980.89, 'duration': 5.88}
+{'text': "it or like what's happening at moma you", 'start': 4984.19, 'duration': 5.16}
+{'text': "know not in not of interest so I'd say", 'start': 4986.77, 'duration': 5.37}
+{'text': "that's really what we don't we don't", 'start': 4989.35, 'duration': 7.32}
+{'text': 'work with thank you okay thank you all', 'start': 4992.14, 'duration': 6.3}
+{'text': 'so much and thank you everyone for', 'start': 4996.67, 'duration': 3.99}
+{'text': 'participating in our first panel today', 'start': 4998.44, 'duration': 3.66}
+{'text': "so we're going to take about a 15-minute", 'start': 5000.66, 'duration': 4.23}
+{'text': 'break and then reconvene here at 2 45', 'start': 5002.1, 'duration': 6.99}
+{'text': 'and and on to listening to our artists', 'start': 5004.89, 'duration': 7.67}
+{'text': 'and designer writers thank you', 'start': 5009.09, 'duration': 3.47}

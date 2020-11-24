@@ -1,0 +1,1371 @@
+I would say and I can probably
+confidently say that I'm no longer doing
+much of architecture but I did do a
+kotecha for a long time since I
+graduated from here so this is a bit of
+a story of how I started here back in
+2004 when when I was still in India this
+was actually one of the first projects I
+worked on after graduating as an
+architect and now this is thirteen years
+later we do this this is Eva our
+company's called automata and we make
+the this and robotic arm and the
+software that goes with it and we think
+this is going to cause some big ripples
+in the world of robotics that's at least
+that's what we hope for we still to
+realize that so this is going to talk
+about a bit of that transition and I'm
+gonna start with where what inspired at
+least me personally back in back in 2004
+and one of them as you can notice on the
+bottom right was ID'd among everyone
+else so I ended up coming here in 2007
+during the DRL as Mike mentioned earlier
+and this this was kind of so this is
+this was the immediate impact of the
+architecture I designed of being in the
+a nothing was vertical or horizontal
+anymore everything was glossy and
+rendered in a pollution and then once
+you do pretty white renders like that
+she will hire you and I ended up working
+here for six years so that that was in
+the research group and that took me
+through some pretty amazing kind of a
+discourse in architecture so back when I
+joined the a a the the most advanced
+form of coding you you could do was was
+this thing called monkey script editor
+it's probably dead now most of you don't
+know about it because grasshopper ate it
+for breakfast but but what literally
+happened was this is what the code
+editor used to look like there was no
+graphical user interface so to speak and
+this is what happened to grow this is
+what succeeded it much much later and
+this is literally the first version of
+grasshopper it wasn't even called
+grasshopper back then it was called
+explicit history as you can notice on
+the toolbar and this is kind of this was
+my this was my journey into the whole
+world of parametric's and code and
+doing strange things in architecture so
+to do something as simple as this which
+is literally a curve and a bunch of
+points on the screen and all it's doing
+is finding the closest point on curve
+right this is this is one icon in
+grasshopper this used to take like ten
+lines of code before and one syntax
+error and one of those lines would
+literally send you spinning for a week
+as to what was wrong and grasshopper
+just completely stupefied this so the
+progress at which you could do research
+one grasshopper was born was infinitely
+faster than what it was before
+so the first year the first things that
+we started with as I as I got better at
+these tools was research that that would
+solve problems whether they're problems
+that he faced at work or at school in
+terms of work so this was also one of
+the early projects I worked in Zhou it
+was a competition never got built this
+was in Warsaw if I'm not wrong and what
+we were designing was this I mean it's
+kind of clear what I was designing in
+this it was these two big red blobs
+covered by some sort of a skin and the
+blobs were concert halls or auditoriums
+for concert performances in a big public
+square and the idea was to design the
+skin in such a way that it it looked
+nothing like a building but some sort of
+an animal kind of thing so well in this
+case the idea was to like for me at
+least my focus job in this whole thing
+was to design a tessellation pattern for
+the skin in such a way that it it worked
+nicely with the way you want light to
+come and it worked nicely with the way
+structure should behave the way beams
+and columns should be where entrances
+should be and it should not disrupt
+anything while letting everything happen
+around it smoothly so they were like
+these kind of guidelines as to what the
+big hall tessellation should be was is
+the entrance tessellation versus so you
+can see that there is some sort of a
+idea of a beam and column system but
+when you try to apply it to this really
+organic shape everything goes for a
+four-dose so what I ended up doing for
+something like this was was back in back
+in those days grasshopper had just come
+out with something called the image
+sampler and it it really made life a lot
+lot easier
+you could simply pay to the pain Stefan
+and a lot of this today is probably
+taken for granted but back in those days
+this was this was really really intense
+research so essentially it started with
+pain like literally the idea of painting
+the facade in 2d and then mapping it
+onto 3d and then it was about finding a
+nice point distribution on this 2d
+pattern to be able to map it directly to
+3d and you wanted to be able to control
+where the entrances were where the
+facade was where the beams were etcetera
+etcetera so that kind of sent me deep
+diving into how do you distribute points
+and one of the most common algorithms is
+circle packing so you basically throw a
+bunch of circles in a space and you ask
+them to fight with each other until
+there are no overlaps they keep pushing
+each other out and essentially this gets
+more and more complicated there are more
+circles and then you realize hey they're
+going outside the boundary I set them a
+boundary and they don't know how to
+respect the boundary oh of course they
+don't have any intelligence so you start
+to impose rules you start to say okay
+I'm gonna I'm gonna try to kill everyone
+who leaves the boundary so the next
+iteration was whoever leaves the
+boundary is gonna die that goes on to
+then saying hey that's not enough I need
+to control where the big ones are versus
+where the small ones are because I want
+to know where my entrances are versus
+where the big windows are etc so you end
+up putting an image underneath and
+asking the circles to look at what's
+underneath and scale themselves
+accordingly even that leads to some
+pretty weird situations in certain
+places so essentially the idea was that
+I went through many many iterations and
+then ultimately you come to a rule set
+as you get better and better and what
+you see on the screen right now in in a
+four minute long video is probably about
+three months of work which was which is
+basically what I do the point I'm trying
+to make is what you don't see is the
+failures that there were a lot of really
+ugly looking badly from badly working
+results in between that you don't see so
+here at some point you start to get
+pretty close to that where like now
+you're starting to like now I was
+starting to come to a set of rules that
+was leading to a fairly good point
+distribution like you can see circles
+that leave the boundary have this rule
+that if you leave you suddenly shrink
+and you try to
+wrigley through the big circles and find
+your way back in and the moment you
+touch the image you you try to expand
+again so so to come up with this optimal
+rules that way you're able to
+comfortably control the point
+distribution was quite a challenging
+task at the time now I'm sure kangaroo
+and weevil bird and stuff in can make it
+quite simple so this went on to then
+starting to make ellipses because you
+want because I at least wanted to
+control the directionality of circles in
+circles don't have a direction ellipses
+do so having some sort of an
+eccentricity having some sort of a
+rotation so this him ultimately got more
+and more complex and at some point I
+discovered hey there's a word there's
+this algorithm called the wor annoy and
+you could just apply the wor annoy and
+relax it and that's such a so much
+easier shortcut it would have saved me
+three months of work if I did if I knew
+about this so sometimes serendipitous
+discoveries and looking at just
+curiously looking through geometric
+research papers published in the last
+whatever time can lead you to some to a
+lot of can save you a lot of effort
+basically so ultimately eventually I
+ended up kind of mapping the image onto
+3d and like letting the circles crawl a
+3d surface and you can see like here
+they respected the entrances and they
+respected the structural lines of of
+tension in the surface and stuff like
+that so so so that's what that got to
+but this was basically ultimately as an
+attitude it was more like in if you were
+asked to design a facade you would try
+to find the most complicated way of
+doing it just because you learned a lot
+on the way so like sure I could have
+drawn this whole thing in in one day or
+two days or one week but then I wouldn't
+have learned what I learned in this
+three months of writing code and kind of
+figuring out rules and understanding
+what how their it got pretty
+mathematical at some point so
+understanding the relationship between
+math and mathematics and geometry in
+facades and how it all converts into
+into real life was was starting to
+become interesting so at some point for
+me the the balance shifted into the fact
+that the research was starting to become
+more interesting than the
+become itself so I didn't care about
+what problem it solved any more I cared
+about the research I cared about what
+are my circles doing rather then are
+they gonna be applied to a facade so and
+and the kind of quote that goes with it
+is when you have a hammer every every
+problem looks like a nail so when you
+can code you would just not do anything
+manually even though it might be faster
+sometimes so that led to some pretty
+strange corners of vector math and stuff
+like that so I was starting to find
+interest in like basically I was trying
+to get to a point where if I would read
+a research paper I would be pretty
+confident that I would be able to
+convert it in translate it into the code
+and make it look beautiful so I had no
+idea how to make architecture out of
+this but it was it was basic force
+fields and and literally vector math but
+I was able to start to like play around
+with colors and with orientation and
+curve density and things like that so I
+just went into this phase of trying to
+find ways of making pretty curves so
+first was just force fields then it was
+like image based control that can I
+paint something and can the can the
+images follow what I was doing so so
+that led to some basically that led to
+forceful applications in architecture
+like landscape which is kind of where
+you can make whatever you want in in 2d
+it looks good and it doesn't have to
+serve to too much of a functional
+purpose and turned out to be pretty good
+but also like you can see here in this
+case like there were some of these
+things were turned into trees and the
+trees were also algorithmically
+generated so they were I think like
+every single tree in this huge park
+which had 6,500 trees was different in
+size and shape and when we sent it to
+the rendering company you can imagine
+what the reaction was so so then it's of
+such curve generating algorithms were
+kind of done in a phase of about a six
+month period where I literally worked in
+blocks of six months even inside where
+there were blocks of fate phases of time
+where certain things piqued your
+curiosity and on average it took me
+about six months to get born so out of
+that so for those six months I would
+like try to apply that on
+single project that came my way or in
+every workshop I did so this is another
+kind of workshop where I made good use
+of the of the of these algorithms that I
+wrote to to generate curves essentially
+this was a structure which was so this
+is kind of abstract its it doesn't
+explain it very well but this is a three
+meter tall structure which is kind of
+stuck to a wall and it's it's almost
+like a column but the interesting thing
+is it was built in Sochi in in Russia in
+one week by one man and one CNC machine
+so this is the whole assembly workshop
+it was a homemade CNC machine with a
+dremel attached to it and this guy had
+made it himself so it was done with
+extremely in like I think the whole
+structure cost less than two hundred
+pounds it was made out of foam and what
+I'm trying to emphasize here is that the
+the is that these algorithms that
+projected that like the lines you see
+here or the actually maybe there's a
+better image of somewhere down the road
+yeah okay so essentially the idea was to
+kind of map that map the flow forces
+onto the surf on the surface under its
+own weight and kind of taken it along
+the lines of forces so kind of give it a
+texture along the lines of forces and
+then break it down into panels based on
+whatever the biggest size the CNC
+machine could handle and curvature wise
+and then there was this whole
+optimization of oh we want this tree
+like texture and can we can we hack the
+CNC machine to read the code or read the
+patterns that we generate ourselves so
+it was literally very geeky curiosity
+like this that I want to hack the CNC
+machine just because it's homemade and
+it's easy to do it and then giving it
+these kind of things where you can see
+on the left the two blue squares you
+just give it those two curves the red
+ones and the blue ones are all generated
+algorithmically so the algorithm would
+come in and fill the whole space with
+curves that look like you poured water
+through that and you could space it
+based on the density based on the width
+of the tool of the of the milling so you
+kind of we were starting to integrate
+natural ways or ways of methods of
+fabrication into the design process
+itself and if you would uses the CNC
+machine it would actually come back and
+in
+the design language of the whole
+structure itself so here what you see is
+what we wanted to mill is here but this
+was the first shot at milling it and
+kind of simulating the tool pods and
+this is our own milling software or
+basically a grasshopper plugin that we
+wrote in in a week and you can see the
+number of times you you you the tool is
+gonna run an empty bus which is
+basically it's not going to be cutting
+anything it's just literally gonna go to
+the start of the other and fifteen
+minutes later you could just write
+something that would save you an
+infinite amount of time in in terms of
+like dead travel of the tool so spending
+fifteen minutes here probably saved us
+like maybe two days in total milling
+time and and this is kind of where like
+just having this confidence that we like
+I can solve these kind of problems
+easily ends up with massive time savings
+yeah and this is what the outcome look
+like of one panel of one test so we
+tested it on a bunch of different
+materials like plywood in and form and
+then ended up this was the final set of
+all the pieces and when we put it
+together it it it didn't look like the
+ugly book glue form that it was that it
+started out as but it looked like it had
+a nice kind of texture and that that's
+what the final structure was but and and
+then so so far it was all quite
+mathematical and quite abstract in the
+way the circles would pack or in the way
+the it would respect vector fields or
+basically laws of maths but now it was
+starting to and as we got deeper it was
+becoming quite evident that you you work
+with real materials and the real
+materials have their own constraints in
+the way they like to behave and somehow
+you you should work find a way of
+building those constraints into into
+what you're doing so that led to I mean
+if you work in aheh you you you
+basically find more and more creative
+ways of making curves and try to make
+your life simple while doing it usually
+when you design anything in curves like
+at least one of the realizations we had
+was in Zaha you spend like the first two
+days winning the competition and making
+life a lot difficult for you and then
+you spend the next so we're solving the
+problems we invented for yourself so if
+you can find a way
+intelligently spending the first two
+days when you were when you are
+inventing problems to not invent so many
+problems you could save yourself a lot
+of effort downstream so the idea here
+was to find intelligent ways of doing
+curved geometry but not making it
+difficult to build
+so origami or folding or tessellation
+was a very nice way of doing that and it
+started out as again like a six month
+project anything where where it was like
+let's try folding this and let's try
+doing the math and seeing what how you
+can by simply changing simple things
+about the triangle you could completely
+change the behavior of what the surface
+would look like and then also try this
+whole other thing called curve folding
+where here it's your getting the the net
+surface is curved but your tessellation
+is still straight but being ins are you
+you're generally encouraged to avoid
+straight lines so you essentially do to
+curve every possible line you could find
+so it basically started with that you
+you take a simple sheet of paper you
+draw a bunch of curves and you fold it
+and you get it get what's normally
+considered to be quite miraculous that
+you turned a flat 2d sheet into a doubly
+curved surface that is almost that in in
+real world luggage architecture that
+costs usually six times the money and if
+you can do it so simply with paper it
+was like how is how does that happen so
+to kind of like dig into this and like I
+think the three of us spend likely maybe
+two days in a hotel room staring in this
+model and trying to understand the math
+behind it and after that we came up with
+this system that maybe that's how it
+works you can start with this polyhedron
+and then planarize it and do a bunch of
+mathematical operations and you get to
+that surface and once we had that we
+kind of said okay we're going to be
+going to try to build this and see if it
+works
+and not just in paper we're going to
+build it in steel and that led to these
+structures so that led to early tests
+that led to early tests where we where
+we did just one panel and try to curve
+fold it and see if that could work so
+this is literally us in a factory in in
+some remote corner of India trying to
+fold trying to get like factory labor of
+their jobs and fold metal into curves
+for us the the owner was needless to say
+extremely mad at her at us for doing
+this but they had never so this is a
+laser cutting Factory in in the remotest
+part of India and they had never done a
+dashed line cut before and architects
+architects lived by that so for them to
+just to educate them took us like six
+hours to like to do tests on dashed line
+cuts and they were obviously production
+minded so they're like you're wasting my
+machine and wasting my time for doing
+this but we we learned some we learned a
+whole bunch about how those machines
+operated which was quite different
+but also how do you like at some point
+you have to get good at people skills
+new concept behind a computer all the
+time so even though he was really mad at
+us he was kind of happy at the end of
+the day at the end of the day that he
+learned something new about his own
+machines that and he learned something
+new what metal that it could be curved
+and folded like that
+so once this was successful we basically
+cut a whole bunch of them we brought
+them to the studio at 2:00 in the
+morning and I think by we the hope now
+all the students worked all through the
+night and we ended up building these
+structures by 6:00 7:00 in the morning
+and this was literally by afternoon the
+next day the workshop had concluded we
+had built some paper mock-ups before but
+the real thing worked in steel so that
+was extremely encouraging especially the
+quality and fit and finish we could get
+like you can see the perfect surface
+continuity and things like that so this
+was quite impressive to us because we
+took a bunch of people who had no
+experience with curved folding before
+and we had never done done it in steel
+before and we could get such perfect fit
+and finish so solving a little bit of
+math early on led us to a lot of
+simplicity down the road to make
+something extremely complex in a matter
+of few hours so this was truly to us
+starting to get to the point where
+you're using all you
+knowledge to not to invent problems for
+yourself but to solve problems for
+yourself and and then of course we went
+not so that like this is a cluster of it
+and this is made in paper so this was
+1.8 meters tall and as we got better we
+realized you could make it thinner and
+curving and especially curt folding was
+a desolation it made structures stiffer
+so this is 2 meters tall 1.8 meters tall
+made out of cardboard and literally made
+in in a few hours by a bunch of stupas
+second third-year students of undergrad
+so they had no previous skill in curved
+folding but you you could bring them
+some laser-cut panels and or or pieces
+and they could glue it together and in
+six hours this whole thing could be
+built with nine polyhedra and they could
+interlock and you could see that the the
+quality of of geometry that was built
+was almost completely error-free like
+you could not go wrong with it so that's
+why these are nine interlocking pieces
+they all lock in one point but they were
+all perfect in because there is no room
+to make mistakes in in the sense that
+the system works
+such that you cannot close it until it's
+it's the correct shape so you can see
+the edge tolerances and stuff were quite
+well aligned so these were surprising
+moments of discovery where we just
+happen to accidentally discover a system
+which which allowed perfect assembly
+with no skill in very little time for
+very little money so that was kind of
+trying to really get somewhere and
+become really encouraging so one of the
+most challenging things we did with
+folding was this big insulation for Zaha
+in Venice in 2012 it was a very small
+design team this this is a this was a
+six meter tall full little aluminum
+sculpture and the the thing about this
+was the entire so from start to finish
+from from the day we decided we were
+told that we should start work on this
+to the day the last both was Titan was
+only three months and the entire team
+was probably not more than six people
+including the construction team so this
+was done on a very low budget at a very
+ambitious speed and the reason so that's
+literally the team there was like a like
+one
+was a structural engineer from but Buro
+Happold the the huzzah her team was
+literally just four people and the Robo
+fall was a company that was used to to
+build these and it again it was a we
+were playing with like with desolations
+early on and we started to apply that to
+a shape that we could make inside Venice
+the original idea was to make it in
+concrete with with fabric formwork to
+make a shell but when the organizers
+heard that we were making a concrete
+shell inside in a sinking city which
+would raise six tons they said no so we
+had to go back and rethink about folding
+and and find ways of doing that you know
+in a better way so we started with the
+with with the straight line tessellation
+version we started then curving some
+lines and constantly iterating digitally
+to see if that would work and then of
+course there was one straight line we
+could not accept that so that went away
+we curved it then we did a mock-up we
+folded it so you can see those two
+robots in the back that was at Robo
+Falls we folded the first mock-up and we
+realized there were some mistakes so we
+had to come back and put a second crease
+in to kind of negate that so now this
+was our final panel shape and we
+essentially being being the Masters of
+parametric's we basically pretty much
+did the entire thing by code so we would
+literally design the base funnel shape
+and everything else was solved
+algorithmically like it would tessellate
+the surface it would break it down into
+panels it would lay it out and it would
+find a way of overlapping this and we
+kind of wanted to week so this is what
+the algorithm was doing it was
+desolating it was laying it out
+flattening the panels finding the
+overlaps designing the like developing
+the overlapping panels and then
+producing drawings out of all of this
+and passing it to the and basically
+generating this file that we could
+literally just send to the CNC machine
+where it was all laid out in sheets and
+nested and stuff so this was the format
+of data we gave to the to the
+fabrication guys where even the the
+fonts were customized to not have curves
+because that would slow down the CNC
+machine so this was like starting to get
+an OCD level of of detail
+and essentially then there was this
+grasshopper thing where you could
+literally go say which heat are you
+building today and it would then show
+you which panels and it would also give
+you the parts for the robots to fall so
+it was really starting to become an
+exceptional level of automation that we
+had not seen that we were not aware of
+that had ever been done before so to
+make design changes was really simple we
+could just take the base funnel shape
+make a few tweaks to the Seabees and
+everything else
+downstream would just generate
+automatically so this was kind of
+parametric nirvana essentially and the
+idea was to start using robots to fold
+the whole thing so like it would extend
+into the physical world and and do this
+so you you guys and robotics and
+architecture is pretty common now there
+are robots at the a back in 2012 those
+none of this so we didn't have access to
+these kind of tools Robo fall was
+practically the only place where you
+could go somewhere in brixton in an
+industrial shed to try whatever you were
+thinking and this is what the the panel
+the structure ended up looking like but
+the unfortunate reality was that it
+sometimes took extremely long to set up
+the robots and about 85% of the panels
+were folded by hand so as glorious as it
+looks we hadn't budgeted for labor in
+the project of course because the robots
+was supposed to fold it and many haven't
+budgeted for labor and you have three
+months guess who the labor was so that
+led us to this incredible amount of
+frustration and also exploring like how
+could we do this better and can we just
+go buy some robots and try a few things
+on our own before you know throwing
+money at it and a big project at it and
+this is this was the situation back then
+it is probably slightly different now
+but you could buy a robot for either
+twenty one twenty two thousand dollars
+or the nearest competitor was four
+hundred dollars so there was nothing in
+between and this we had seen was like
+complete crap
+and and this this was sophisticated but
+way outside like this was more money
+than then I could save in a year so so
+this was not possible to buy and this
+was too crappy to buy so then the idea
+was can we so it also there's sorry but
+in the start of this video it's a little
+bit strange but what this has to get to
+is essentially the wrote the camera of
+this thing is mounted on a robot which
+is this which is built by students but
+what this led to was this dangerous
+combination of arrogance and ignorance
+which made us believe that we could
+build our own robots cheaper so we had a
+budget of 500 pounds and this was
+another six month project in 500 pounds
+we will build an affordable robot and it
+literally started with like a lot of
+late night tutorials and electronics and
+mechanical engineering and transmission
+design and all of that and this this was
+the outcome and the first time I the the
+first trial of this was literally the
+student workshop this a visiting school
+in the by where I proposed to the to the
+course masters that I okay if we build
+the robots for students and they were
+like yeah sure why not so we ended up
+ten students builds to is one of them
+here oh yes that's you
+I hope you don't regret it okay so I
+yeah he is probably somewhere in the
+video you're all married hey nice to
+meet you sir
+so yeah so Omar was here I'm sure after
+this he will tell you a different
+version of this but but I well I guess
+the robots inspired him enough to come
+here and find some more bigger ones
+anyway so so I how many was it 15
+students build two robots in 10 days and
+had them working and doing all sorts of
+gimmicks like this so this was quite
+encouraging that even like sure there
+was almost no design in this but there
+was a lot of learning that students do I
+don't know if those skills were ever
+useful again in the future
+maybe Oh mark ends and say that better
+than I can but what ended up happening
+here was to me the idea that that come
+like architecture students could be so
+interested in this and building it's a
+building this itself could be such an
+interesting exercise was was quite a
+quite an interesting thing that it
+doesn't always have to be about curves
+and and geometry but it could even be
+slightly more technical explorations but
+so anyway that led to so that further on
+led to this fairly intuitive control
+interface that we were building out of
+grasshopper so this is literally in in
+my studio apartment at 2:00 in the
+morning when so what happened was
+hardware and the affordability of
+hardware was an important aspect but to
+be able to intuitively control it if you
+look at robot software today it is
+insanely complicated it is engineers for
+engineers and every time you would
+instruct the robot to do something it
+would ask you 20,000 things before doing
+it so for me the idea was to take away
+all of that complexity and to make it as
+stupidly simple as possible so robot can
+work in 3d and it made into the sense
+that you should be able to directly
+control it from a 3d interface so now
+here I we set it up in such a way that
+you could drag a 3d gizmo in the Rhino
+viewport and it would direct
+control the robot so I'm sure now you
+have plugins already in grasshopper that
+allow you to do that but back in the day
+this is 2014 this was not available so
+to have to write all of this was was
+quite a task but also quite exciting
+that this this was really getting
+somewhere that nobody and where nobody
+else had been before so this then led to
+some led me to kind of just open source
+the designs online and see what others
+would do with it and within a few months
+of of doing that I realized like of
+course there were technical problems
+were also it was starting to get quite
+well received and quite a few students
+in different universities had builded
+and they were starting to face those the
+same technical issues that I was facing
+so ultimately I ended up so I had to
+come to the a every time I had to laser
+cut something because I couldn't have a
+laser cutter in my studio of course so I
+thought maybe having a 3d printer at
+home would be easier and I bought a 3d
+printer and that suddenly added a whole
+level of other whole other level of
+complexity to the the design suddenly I
+could I could make much tighter
+assemblies I could design it much better
+and this is kind of what architects are
+good at like I I confess I was a pretty
+bad engineer and like this whole
+assembly was extremely complicated and
+should never ever end up in a product
+like this but the fact that it looked
+like such a good robot was enough for me
+to convince this guy he's Mustafar he's
+one of the tutors in DRL which all the
+dear and guys know so he's my co-founder
+and the two of us together took the
+plunge and started a company called the
+Tomita this was early 2015 and that's
+the robot behind us that's the 3d
+printed version it looked pretty pretty
+sophisticated pretty finished almost
+like a product and this is the part when
+I have to say that we were we had both
+done enough research to just assume that
+everything would be simple and we would
+be able to put it pull it together
+little did we know that three years
+later we would still be doing this and
+we wouldn't have sold any robots had we
+known that back then we would have never
+started anyway so this was the biggest
+thing that we ever underestimated we
+we were starting to think we have a
+product and this can you know go to
+manufacturing tomorrow and we can
+probably do a crowdfunding campaign or
+something and like you know find other
+like-minded people who would be
+interested in doing this and then
+building stuff on top of this whether
+it's laser cutting or Hotwire or 3d
+printing or whatever but use the robot
+and interesting creative ways so we were
+starting through this promotional
+photography and having some sort of
+brochures with minimal text and stuff
+like that explaining what it can do and
+we had also by that time sophisticated
+the like made a fairly sophisticated
+software interface which was like which
+was as simple as stupid as it could get
+you could literally back drive the robot
+to show what it should do the software
+watched you and then it would just
+repeat that so
+from teaching a robot perspective this
+was this was a level of simplicity that
+that industrial robots are not used to
+at all and we never saw this as an
+industrial product either but then and
+we were of course as as geeks and as
+also people with with with a desire to
+tell interesting stories we wanted to
+kind of demonstrate that our robot could
+self replicate and open the 3d printer
+and start to make its own parts makes
+for an interesting story of course this
+took 28 times to get it right but it was
+an interesting story nonetheless so we
+were good at doing this and we had
+little did we know back then that we had
+a solution looking for a problem we
+didn't know who would pay us money to do
+this or why why would anyone buy this we
+just knew we knew how to make this so
+what ended up happening was we would
+make these kind of videos and publish
+them online on facebook and on our
+website and stuff and somehow 3d print
+comm caught wind of it and they
+published about us without telling us
+that they are going to do this and that
+letter led to this insane amount of
+inbound like as a start-up you don't get
+like people don't know about you and
+you're not used to getting email but
+suddenly if you get 20 30 emails in one
+day from people like this you start to
+wonder what what happened where did how
+are they finding us so you guys ever pro
+everyone probably knows Brompton
+bicycles so this is just one example of
+who founders we we got a whole bunch of
+others but they were like
+you know we are interested in your robot
+like why are you interested in a robot
+like what are you gonna do with it so we
+would call them and we would sorry wrong
+slide we would call them and we would
+find out what what this is about and
+this was the chief design officer so it
+wasn't some some Engineer in on the
+factory floor or something this was
+pretty high up in the chain so we I
+think one of the slides has gone wrong
+but anyway I'm gonna continue anyway so
+the next thing you should see is so to
+give you some context of manufacturing
+this is an automotive production line in
+1929
+so automotive production line is where
+robots on their homes notice how manual
+this was and this is a automotive
+production line in 2016
+notice how many people there are so the
+automotive industry it has been the
+traditional home of robots and they have
+the the automotive production line in
+the last 80 years has gone through the
+sea change of transformation where
+almost a very high degree of it is
+extremely automated but unfortunately a
+lot of the rest of manufacturing is
+still like this this is videos we've
+shot that was the Brompton factory this
+is a factory that makes air filters for
+cars and vacuum cleaners and hair dryers
+and whatever so and this is Europe's
+largest t-shirt printing Factory on
+Edgware Road so you can see there are no
+robots in these kind of in in this kind
+of manufacturing there's just very
+laborious very manual tasks so the sea
+change of transformation that the
+automotive industry has gone through has
+basically been limited to very few
+industries and and and the rest of the
+world is still in the 1930s and in fact
+there are statistics that about 93% of
+automatable tasks today are still done
+manually which means only 7% of tasks in
+manufacturing are automated so that kind
+of explain why most people who were
+finding us through 3d print home were
+manufacturers because they were they
+were manufacturers who were stuck in the
+1930s or who are still stuck in the
+1930s not that we've solved that problem
+but realizing over time the over the to
+two years that we've been running the
+companies in that manufacturing itself
+is in need of a revolution
+where technology is far updated and
+that's simply because a robot arm today
+costs roughly in that neighborhood
+50,000 pounds or plus in including
+installation and then installing it and
+then running it is like that this is not
+and now this is not a screenshot from
+the 90s this is modern screen this is
+modern robot software you guys know this
+right this is a cook controller so most
+of you use robot so you know what the
+software looks like and by comparison
+this is what our stuff looks like so
+this looks like it's from the future but
+it's not it's just what every other
+industry or especially in consumer
+electronics when you use your iPhones or
+iPads or tablets or whatever you used to
+smooth slick intuitive interfaces you're
+not used to manually punching in numbers
+and writing code to make things happen
+so we are just bleep we were only just
+bringing that kind of attitude to to
+robotics and apparently that was quite
+new so just to give you a comparison
+most of you guys are very robot literate
+so I don't have to explain this but this
+is the universal robot software
+interface today this is the number of
+clicks like I usually when I show this
+to an educated audience I ask them can
+you guess what here is this is from the
+video because that kind of interface is
+literally what was common in in
+computing almost 10 years ago or 15
+years ago to have this wired death
+tablet that and being that being the
+only way of programming the robot but we
+just take it for granted that this is
+the only way robots work but it
+shouldn't be like that it doesn't have
+to be like that they can be better so
+and we've been to factories where people
+manually like program you know these
+robots to do fairly complex tasks but
+they have to do it through that kind of
+an interface and by comparison this is
+what our robot looks like now so you you
+literally press a button on the robot
+you can back you can back drive it and
+the software observes what you're doing
+so this is us doing a gimmicky coffee
+making tutorial in our own office
+so the software is like this it's it
+runs in a browser it is untethered to
+the computer it can run on any device
+and it's all drag-and-drop and 3d
+intuitive interfaces you it doesn't ask
+you too many questions
+so the thing is for the advanced stuff
+if you want to control acceleration
+profiles and momentum and inertia and
+how fast it takes a turn and stuff of
+course those options are available but
+the thing is it will start it will get
+up and running without asking you those
+questions it will just populate default
+values so just a simple thing like this
+is is extremely obtuse in the industry
+right now like nobody does that so we're
+not inventing anything we're just kind
+of trying to bring some simplicity to it
+and the kind of people that are now
+using it and are interested in using it
+are things like this where if if if
+there's anybody who's a device
+manufacturer they need to do this which
+is basically failure testing on their
+device so if you make something with a
+touchscreen you have to press the screen
+hundreds of times millions of times
+actually if you make a laptop you have
+to basically test the hinge of that
+laptop hundreds of times before you can
+market it or thousands of times actually
+so usually use you get a team of
+engineers to build that device that will
+test your device and that usually takes
+a few months but if you have a robot
+your engineering time goes down from
+trying to build the whole machine to
+just building the end-effector
+so that massively simplifies the work
+for these guys another one which is
+quite common is machine tending and so
+this is non architectural use cases but
+essentially what you see here is a you
+are five or a universal robots five
+capable of lifting five kilos of payload
+but what's lifting is half a kilo so
+it's a massively over engineered thing
+and this is very common in the industry
+in in manufacturing per se where you
+have like a lathe machine or a CNC
+machine there is machining parts but it
+needs to be constantly loaded with one
+part after another and that's either
+done by people or robots and a robot
+like ours which costs one tenth of what
+a you are five with installation would
+cost can do almost the exact same thing
+it is capable of that payload so you
+realize that a lot of people actually
+need Toyota's but they using Bentley's
+in manufacturing which is kind of like a
+common comparison which is a like a
+comparison I give to two people who are
+less familiar with the industry that not
+every robot needs to be fast and
+powerful and strong there's a lot of
+tasks where you don't need that so
+similarly another one is something like
+this where this is actually an
+automotive manufacturer and they make
+these
+any cameras which you'll see so that
+thing it slide out that's a camera in a
+car and this robot has to put that
+camera into a testing chamber and you
+can notice how complicated the testing
+proved the loading processes it needs to
+open a latch slide the camera out pick
+it up put a new one in slide it in and
+it flows the last again so this whole
+thing takes a lot of time and then it
+has to go to the stickering machine put
+the glue put this put the sticker and
+put it back in the tray so this whole
+thing takes the robot roughly 25 seconds
+and the machine is done in 16 so they
+lose about 9 seconds so what they wanted
+to do is use our robot to just assist do
+a handoff so it takes the camera it
+opens the latch slides the camera in
+slides it back out close the latch it's
+awesome it's it's really it's so our
+robots literally a slave to the
+universal and we're into the universal
+robot in this case but it saves 9
+seconds for them so it doesn't 9 seconds
+doesn't sound like a lot but these guys
+make 500 thousand cameras a week so at
+at five hundred thousand it adds up
+quite a bit so at these kind of scales
+or and in these kind of use cases like
+you can you could either have two
+Universal robots and spend a lot more
+money or have a small slave robot in
+this case to do that and the last one is
+this video you saw earlier like in
+anywhere where you have airborne
+material essentially spraying and stuff
+like that you generally have to avoid
+using human beings for health and safety
+reasons but people still use them when
+when the demand is low and when you have
+basically a lot of manufacturing lines
+and you have to move people around based
+on on demand and supply so if you have a
+lot of demand on this line you'll just
+get people for that so that's again a
+job that does not need the precision or
+the power and and a lower-cost robot can
+quite easily handle F so we end up end
+up simulating these kind of use cases in
+our office now before deploying input
+customers and it's it takes us half a
+day to build one of these use cases
+quite easily so to give you guys an idea
+of where where we are and what we've
+done in the in in our in our cycle this
+is slightly deviating further and
+further away from architecture not
+slightly but quite quite a bit by now
+but we've so far so we built a
+proprietary hardware stack and we built
+the propriety
+software stack so that's called Eva in
+choreograph but on on our journey we've
+had to invent a new low backlash gearbox
+so essentially gearboxes are the reason
+why robots are so expensive and we
+didn't know that when we started so it
+was purely serendipitously that we found
+out we we had some early signs that
+maybe it's the gearbox but we didn't
+take it seriously until our gearbox is
+started failing so it came to a point
+that we have to invent we will have to
+do this and the last time a robotics
+gearbox was invented was 1957 it was
+called the harmonic drive so I'm not I'm
+not kind of showing off all I'm saying
+is it was it takes it took our two
+architects to do a mechanical mechanical
+engineering invention is what I find
+extremely strange about this it's and
+when we started hiring engineers it
+became quite clear to us why when you
+get an engineer to I know there are
+engineers in the room so like I asked
+for forgiveness in advance but when you
+get like when we hired mechanical
+engineers so you can imagine when when
+two architects went out on a hiring
+spree to for an engineering team it took
+us a long time and a big learning curve
+to understand what a good engineer is
+but when we hired these engineers and we
+asked them to do a gearbox like if I
+would ask one of you guys or one of the
+designers to do a gearbox you would
+download some template make two cogs 3d
+print them and build it by the end of
+the day you would have a gearbox running
+you ask an engineer to do it
+one week later you'll have drawings and
+calculations and no gearbox but you'll
+have a perfectly simulated model of how
+this is going to work and what the
+lifetime is going to be any austere
+designer that he will not have any
+answers to those questions so so I think
+the one critical lesson for us was we
+are architects are taught through
+successes they are taught through do
+this this is so glorious and so
+fantastic and such a rich experience or
+how are they like audacious or like a
+statement and engineers are taught
+through failure like don't do this
+because this is gonna if it falls you're
+gonna be liable and it's going to kill
+people so
+and it's the same with gearboxes so the
+guy who we hired first used to used to
+design power turbines and power turbines
+in users designed the blades so those
+things would spin at 60,000 rpm and they
+would weigh two tons they would they
+would sit inside power stations and if
+if there was a tolerance error of like
+one millimeter it would send this thing
+flying five kilometres in the sky so
+when he spent one week designing the
+first gearbox I like we both lost it
+like what's wrong with you like why you
+so it's like how does this work and then
+but ultimately it we we sort of made
+peace with each other and it came to
+this point where we are we respected
+what he did and why why it took so long
+but we nevertheless found some kind of a
+middle ground and I think that middle
+ground is where we in we kind of
+invented he invented the gearbox but
+only because what we managed to do as
+architects was we reduced the cost of
+failure to almost pennies to 3d print a
+gearbox takes nothing it takes 10 pence
+or 20 pence and to have it up and
+running is also very cheap if you're
+designing a plane the cost of failure is
+very high because if you make a wing and
+then you have to prototype it and test
+it it's extremely expensive so in our
+minds vietname the way we often worked
+was we reduce the cost of failure a lot
+and then we failed a lot fail very fast
+very frequently until you stopped
+failing
+whereas where as an engineer is not like
+that they don't iterate fast they
+iterate making sure that every iteration
+reduces failure by a chances of failure
+by a lot so changing that was was I
+think our our innovation more than
+inventing a gearbox I think we invented
+a new method of prototyping in
+engineering where we said screw the
+calculation if only if it takes longer
+to get if if it takes less time to
+calculate then to make it fail in real
+life
+then we calculate but if you're if
+you're failing if you're real real
+gearbox fails in 15 minutes and in your
+calculation takes one week screw the
+calculation does it first so so that was
+a new way for them to think and I think
+in
+in less than a year we were able to run
+through I think 60 different versions of
+gearboxes and now we have a gearbox that
+has been running in the office for a
+year and it hasn't failed so at this
+point and make sense to calculate it so
+now we do a lot of calculation before
+but we did all of this for under a
+million pounds million pound sounds like
+a lot but in normal engineering terms to
+build the product to bring a product to
+market a million pounds is like
+specially a product of this complexity
+is quite low in our experience we
+haven't seen anybody else do that so we
+think so we've found we think we found a
+happy marriage between a designer's
+attitude and engineers at attitude so we
+have so more than the gearbox we think
+that's what we've invented as a as a
+working method or an attitude so we
+literally started taking orders two
+months ago and in the first two months
+we got like 54 orders and that's that
+was a massive validation that people are
+not just interested they are actually
+willing to put down money and buy this
+thing and for us the next challenges are
+to scale the team in to take you to
+production and build the commercial
+operation because at some point we have
+to start earning money so basically we
+need people in sales so right now you
+can see literally the team is engineer
+engineer engineer engineer like it's
+it's a very deep engineering heavy team
+so you guys know ABB that's one of the
+biggest robotics companies in the world
+they they invested in us at some point
+because they were scared in their own
+words of what we were doing so to them
+it's more curiosity and apart from that
+so our current team is about 14 people
+it's very engineering heavy so the great
+part is engineering and and everything
+everybody else are the people who make
+coffee and clean the floors and the
+prototypes so in the over the next year
+or so we're gonna probably be 36 people
+or so because not that that's just the
+number of people it takes to build a
+product and bring it to market and make
+sure there is manufactured smoothly and
+you have patents and you have things in
+force and stuff like that so that's kind
+of like a brief history of when we
+started and where we've come in three
+years and how we have grown as a team
+and in terms of technical milestones
+and in the end I think the the thing I
+would like to summarize is be naive if
+you know how complex it is you in the
+beginning you you will probably not do
+it and I would have definitely not done
+it and done this so it's a miracle that
+we still survived and and it works or at
+least it looks like it works and I think
+the biggest takeaway for me from what I
+learned at the a and also before and
+through my time as Ed's aha was that you
+will constantly need to retool and
+retask and relearn methods not just
+technically methods but also the way you
+handle people and the way you you you
+interact with others so don't learn a
+particular tool or a technique right now
+because I mean you can of course you
+should but don't rely on that for the
+rest of your life because that will
+constantly evolve and change so learning
+how to learn is probably more important
+thank you
+[Applause]
+[Music]
+so the first is a gearbox like you have
+to make we had to make a new gearbox to
+be able to bring the price point down to
+this level so there's a lot of
+mechanical stuff in there but the other
+is I wouldn't call it innovation I would
+call it copying we've just copied
+copying we've just copied a lot of stuff
+from other places like now you like for
+example a lot of intuitive interfaces in
+software and stuff like that it's quite
+common like be as architects understand
+keyframe animation we understand a 3d
+interface and a timeline robotics
+doesn't understand that robots you see a
+3d interface but you can't interact with
+it you have to make a logic diagram of
+robot operations and stuff like that so
+all of that is just way too complicated
+because somebody just didn't think it
+through
+so we are not inventing that interface
+which is applying keyframe animation
+interface to robotics it's not
+innovation but it's still I would say
+yes we come up with new ideas but
+they're not protectable in any way
+they're just like I don't know if
+somebody decides to make like a like for
+example slide to unlock as a unlocking
+interface for the phone is not per se an
+invention but it's just making it
+intuitively simple that comes from the
+gearbox that comes from from we it
+starts at the gearbox but then it
+compounds into other things
+[Applause]

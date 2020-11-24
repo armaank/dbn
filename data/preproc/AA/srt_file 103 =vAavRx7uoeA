@@ -1,0 +1,2114 @@
+the mTEC annual keynote lecture I'm very
+pleased and rather proud that is
+Phillipe tonight I've known about his
+work and followed it for a number of
+years he has a number of impressive
+titles professor oh boy
+so forth but I think the most impressive
+thing is the work that he's doing and
+the ambition that he has to bring this
+research world to construction
+fabrication and to do it in a way that
+sort of warms my heart to develop kind
+of open source methods and discussions
+that are common and addressing to all of
+all of us as architects and people who
+want to make structures his specialism
+is on shelves but I think his expertise
+come as a far wider area we were very
+privileged to have him in the jury this
+afternoon for him tech and I think he's
+very knowledgeable about history of
+architecture I can see some of the
+slides that are coming up so I think
+he's just the way the historical figure
+on my compare him to is a young Renzo
+Piano and I was fortunate enough to know
+many years ago as someone who combines
+the sensibilities of an engineer and
+maker and the proper date so please join
+me in welcoming fili
+thanks a lot Mike for the very nice
+introduction but more importantly for
+the invitation this afternoon was
+amazing so congratulations to all the M
+Tech students and also their tutors
+those who just came in and didn't see
+any of the magic that I saw this
+afternoon this probably doesn't make
+sense at all but this was a very very
+inspiring and exciting afternoon so
+thanks a lot for the invitation it's
+also special for me to be here because
+it's almost on the day five years ago
+that I gave a lecture here last and this
+was this had changed a lot of things for
+me as well today in the next three hours
+now that's what the number of slides
+suggest that I will entertain you for
+three hours but I will try to share my
+excitement on rediscovering things that
+we somehow have forgotten and I'll try
+on sharing a little bit are our voyage
+to kind of hopefully also entice you to
+look back a little bit more often and to
+try to reinvent by looking at the path
+by learning from the master-builders
+this for me started and for those of you
+who have seen already perhaps the
+lecture of mine this is always the first
+slide because this is when my life
+really changed I went to MIT to do
+high-tech things I ended up working with
+John ochsendorf on assessing these
+beautiful structures you're looking at
+the fan walls of King's College at
+University of Cambridge amazingly
+beautiful but more importantly they they
+are unreinforced masonry large pieces of
+stones that are kept together in
+equilibrium and they have been standing
+for five more than 500 years for a span
+of 13 metres the stone slabs have only
+10 centimeters at mid span and that goes
+to 15 centimeters and these numbers are
+actually proportionally equivalent to an
+actual and so this to me was extremely
+fascinating to try to actually
+understand how these structures were
+still standing and
+how we could also take advantage of
+these this knowledge that we somehow
+forgot I just have a few framing slides
+because I find it important to explain
+where we come from that this is not just
+computational magic but this is based on
+on kind of some principles and an
+important one is these are maybe two
+extreme ways to look at structures if
+you if you have a beam for example in
+bending then or on modern material then
+you would like to try to understand what
+can the material what is a material
+capacity and then stresses are important
+and another way to look at these
+structures is actually to try to look at
+a good form stability and that is what
+these master builders had to do because
+their material system was unforgiving
+there was no reinforcements to keep
+things together so these stones had to
+be balanced in space and be able to
+stand elaborate e of loading cases
+luckily for them actually what we look
+at at the left is what we are being
+taught nowadays in engineering and most
+schools that is that is actually two
+dimension things modern materials that
+we push to the limits but what we have
+forgotten is actually how to discover
+good structural form and and if problems
+are not stress problems the problems on
+the left is are not scalable but if
+you're actually after stability then
+this is a geometrical fundamentally
+problem and that is why these master
+builders could build all these these
+marvelous structures centuries literally
+centuries before the only theory of
+structures that is currently still being
+taught and so that is something that we
+really capitalize on and that is that is
+why they could use this purport on the
+right these proportional rules that if
+something works then it would you could
+scale this up to a certain extent and
+they explored indeed stability ODEs also
+true scale models because if it's not a
+stress problem then a small scale model
+will find
+mentally act very similarly than a large
+structure something that I hope that's
+although here know is this very elegant
+idea that Robert Hooke presented in the
+in the sixteen hundreds already as hangs
+the flexible line so but inverted will
+stand a rigid arch so that means that if
+you have a certain set of loads if you
+have a system in pure tension so without
+any flexure then if you freeze this
+geometry and flip it and from a static
+standpoint you have something that
+nicely stands in compression you
+probably know that for example gaudi
+exploit these kind of ideas or hines
+Easler and so on it's very tedious to
+make this these these models these
+hanging models so people developed this
+kind of analog ways of actually doing
+this on paper and more specifically
+graphic statics and what's very elegant
+about graphic statics also a technique
+that is only recently coming back we're
+doing our best to really bring it back
+because what you're looking at is you
+not only have the shape of the structure
+but you also see these two diagrams on
+the top they're actually a diagram of
+forces and they're geometrically related
+to this geometry and what's now exciting
+is that you see that they're all these
+lines are connected which means that
+that actually signifies that the
+structure is an equilibrium and more
+importantly because they represent force
+equilibrium you can just measure these
+elements and so that is also a technique
+that we look back to because until until
+the start of the 20th century designers
+actually were not just designing a form
+and then trying to see if it stands or
+not they actually had these graphical
+methods famous Gustave Eiffel or Brunel
+or many great designers of that time
+actually were looking at form and forces
+at the same time through these
+geometrically connected diagrams so that
+is if we for example compare 86 and 88
+you see that 88 is a more shallow
+structure so the force has become bigger
+which is very clear
+in the diagram I didn't teach you
+graphic settings at all but I said that
+you can just measure the lengths and 4
+so the shadow are a structure for the
+same loading case which is the deeper
+structure 86 has smaller forces so that
+if something that is kind of obvious is
+a relation between the depth of the
+structure and the magnitude of forces
+but now you can start to do this for all
+members and start to really
+geometrically actually optimize your
+structural form from my doctorate with
+John ochsendorf at MIT I extended this
+to start to discuss cover also
+three-dimensional forms and the same
+ideas the same clarity that actually for
+example on the left no 10 on the bottom
+that this note is in equilibrium is
+because we have a polygon of forces or
+vector forces that are closed and you
+see that the entire diagram is closed so
+what's important about this sorry to be
+a little bit theoretical but I want to
+give you this base because this is what
+is behind everything that I will show
+afterwards is that we really believe
+that in this world of let's call it zoo
+of tools that people are not necessarily
+understanding what they're doing so what
+we are trying to push is really methods
+that actually make a high-level
+structural intuition as explicit and as
+clear as possible and give this into the
+hands of the designers let me try to
+convince you with this this simple and
+extremely boring a starting point for a
+design so let's say that you have a
+circular supporting grant grant plan and
+you want to span spacing compression we
+can obviously imagine the dome we can
+maybe think a dome with an opening and
+oculus in the middle like the Pantheon
+well in fact there is literally an
+infinite number of solutions that for in
+this case the design load is the
+self-weight of the show that can work in
+compression only so you can go here and
+the third row on the left you this but
+form or the more alien-like form or the
+Swiss cheese kind of situation all of
+these actually could work in compression
+only meaning without reinforcements or
+as
+we'll show you later with very humble
+materials so here on the top here we see
+the equilibrium form on the in the
+middle you will see actually the layout
+of forces this is a design decision also
+so it's not that certain boundary
+conditions only give you one answer as a
+designer you can actually lay this out
+and on the bottom you will always see
+the distribution of forces and so we're
+just playing this with these diagrams
+these have all been generated with Rhino
+volt a tool that is freely available and
+that you can explore you see that you
+actually with redistributing forces and
+strategically actually telling the
+forces where you want them to go that
+you have this clarity as designer to
+really explore all these different
+solutions so for example the one here on
+the left you see that you need to
+attract quite a lot more force to have
+these ridges and these ribs occur into a
+structure and so visually you start to
+be able to connect 3d geometry to
+actually what happens internally in the
+structure let's see what we can do with
+this so again going back to the past we
+I am fascinated by using traditional or
+materials in in novel ways and for
+example here the beautiful this is a top
+view of Westminster Abbey and I will
+walk you through an example where we use
+modern interpretations of stairwell to
+me which means how to cut up a stone
+vault and make it stand in 3d one thing
+before going to the example where I
+again want to go back to the knowledge
+of the past is that this pattern is not
+only beautiful it also actually is in
+line with what the structure needs so
+the cuts are as perpendicular to the
+force flow as possible not to have
+obvious sliding the cuts are also such
+that they could be very precisely built
+by the masons of fabrication is
+explicitly part of this and also
+construction that it's manageable inside
+maybe I'm over stressing this but there
+is so much knowledge in the logic of
+hardest
+were done that now we can still I think
+learn a lot from so a first project
+started doing my PhD almost yeah I don't
+remember how many years ago that is but
+doesn't shoot I always say this is an
+eight year collaboration but is yeah
+this is this specific project started in
+2010 but the collaboration already
+started earlier and I will emphasize
+later why that is important that that
+this goes back ten to even almost 12
+years so we had an opportunity to build
+to build one of these crazy stone shells
+in Austin Texas and so we started to
+design and I want I was inspired by this
+beautiful shells of Heian Caesar
+building in concrete or these very
+expressive tons of structures by FRA
+otro and so we tried to to do this in a
+masonry show this was a proposal for an
+amphitheater all exciting space in
+Austin Texas it was the first show that
+we that we built and it stayed at this
+scale but as I said fundamentally this
+kind of problem is the same and so we do
+have a a real structure of 860 pieces
+that nicely comes together so we test
+also how to dissenter the shell and so
+on so here's on first shapes that we
+showed it's it's exciting to see it
+stand without any glue all the pieces
+are complex and then because it was
+meant to be shipped to an exhibition we
+made this movie to clarify that this was
+really standing without glue this is
+equivalent to Godzilla jumping on one
+leg on the edge of your shell so no
+worries this might not happen too too
+soon but what you also can appreciate is
+that the capacity of these structures to
+actually adapt to very extreme kind of
+boundary conditions this was very early
+on in our work and you see a very
+beautiful collapse there is a
+there is a problem with this collapse
+that local problem propagates globally
+so that is typically not a good idea you
+want to kill only a part of the people
+and so that the rest can go out and so
+on so now we know how to do this but
+this was at the time where we were very
+happy that Patrick Schumacher invited us
+to their shell exhibition in the 2012
+Venice Biennale we were in a little
+corner next to Frei Otto and Heinz
+Easter and so on very humbling but
+what's why I showed this now as an
+introduction is because finally in our
+four years later we had to chance in
+exactly the same room at the Venice
+Biennale to scale this shell up by by 20
+and that was this our Bandido fault that
+we did together indeed with our
+long-term collaborators the Escobedo
+group out of Austin Texas so what you're
+looking at is a capstone shell out of
+399 limestone pieces that are held in
+space without any connection any
+connector any glue any reinforcement so
+this is really geometry at its best at
+its purest for those of you who know the
+the Arsenal building of the Biennale
+it's a protected site so you cannot
+touch anything that meant that we that's
+why we had these very manly supports
+that spread the stresses over and as
+wide area as possible and then I will
+come back to this but to get the
+efficiency of a compression shell you
+need to really control the boundary
+conditions because you have the trust
+that you need to absorb and so since we
+couldn't anchor anything we had this
+system of tension ties also actually
+educating the visitor how this worked so
+399 cuts limestone blocks no mortar or
+reinforcement up to 16 meter spans and
+the minimum thickness 85% of the shell
+was 5 centimeters in thickness so that
+means that actually if we compare this
+to the eggshell that actually 85% of our
+shell is only a third of the thickness
+proportionally of the actual if you
+think that this already sounds fairly
+ridiculous
+maybe the rest
+the next is also quite stupid we had
+only five months to do the design the
+engineering the convincing of the
+Italians that we were not entirely crazy
+fabrication and construction of course
+as academics with a lot of papers on
+this topic we were very confident with
+our digital chain and stream that we
+could handle this with no issue
+whatsoever honestly I think you need to
+start with comments and sketching that
+here I at least have a good starting
+point and then we do digital sketchy
+this is unit using Rhino fault again
+that we really share and make available
+and then Rhino volt pro as we call it
+internally it's now also made available
+through our new computational framework
+we use them really to define the refine
+the geometries we need to understand
+when the material gets in trouble that's
+why this five centimeter came from like
+when we have an eccentricity in the
+force when would years our stones start
+to fall and then we use extremely
+non-traditional methods this is discrete
+elements modeling to actually fully
+understand the behavior of them of the
+of the the shell there was I can admit
+there was a fair amount of skepticism by
+our Italian colleagues and they made us
+work for this project we had to do all
+kinds of differential settlements of the
+support we had to do a full seismic
+analysis and so on and because this took
+so long diskin vinson we had only one
+month left of the fabric for the
+fabrication if he would have done it
+like this very sophisticated for
+beautiful sculptures we would have ended
+up two and a half years later so
+hopefully we would have gotten an
+invitation for the next order the one
+after that of the Biennale that was
+obviously not an option so we use some
+more advanced methods faster methods to
+cut the stone here this is a diamond
+wire as also a hot wire cutter for
+adults there is this multi actually
+access
+a CNC blades and so on and so how did we
+get down from two and a half years to
+justice one month a first step that we
+did is we D we decided you lose a lot of
+time and opportunities for challenges
+with tolerances when you're moving
+pieces when you're milling something so
+step number one in the optimization was
+we can never move or touch the blank so
+the blank so that the starting piece
+will never be moved a second step is
+using these five axis plates is to make
+all the interfaces of planar cuts so
+that was also a very big step this
+really cuts like butter true through the
+stone that also has a replication you
+will see in the aesthetic of the shell
+that if you know something about
+tessellations if you have a planer
+outside and all your faces are convex
+that means that you're actually four in
+the negative double curved parts you
+would have these bowtie geometries that
+would not be compatible with a fast way
+of cutting so that is the reason
+actually that the shell looked faceted
+on the outside it was directly driving
+these hard geometrical constraints that
+we had to put in in order to reduce the
+time from two-and-a-half years to just
+one month another step that we did is
+that when you mill a geometry you start
+with a rough a rough pass and then you
+go finer and finer and finer until you
+for example polish at the end so here we
+decided to describe the interior
+geometry of the shell just with not even
+a rough pass but a rough pass where we
+jumped one centimeter per cut so that
+means with just a few lines that were
+extremely fast to be cut we then had a
+description of the inside geometry and
+then these could be these fins could be
+simply being hammered away this was
+Hector one guy was assigned to hammer
+them away all as equal as possible all
+right so this would have been beautiful
+but then there is also the reality that
+of course you're working with big stones
+big blades that vibrate and so on and we
+calculated that we needed in overall
+Gian
+the birthstone an accuracy of 0.4
+millimeters because we didn't want to
+add any mortar we didn't want to to be
+not as pure as we could have been and so
+that's why we develop these custom
+profiling tools that actually then shave
+off these last millimeters to really be
+on top we also included this six
+millimeter in radius little registration
+mark this was a necessity first and
+foremost because you see that through
+this optimization of the geometry we
+lost a reference of our inside surface
+this was unpredictable and so this
+registration mark helped masons to
+actually know how to align locally the
+stones this of course becomes directly
+critical where the section is only five
+centimeters right it's very important to
+be rightly aligned and then of course
+from a structural standpoint this shear
+key then gave us all the safety all the
+the the confidence that we would have
+enough friction at any interface so that
+we would not have a local failure of
+sliding failure still this was
+absolutely the first time that such a
+thing was done so with our partners in
+Austin we did a full pre pre assembly
+and this was also to catch potential
+errors as early as possible so during
+the cutting when they were doing two
+nights or 20 hours a day of cutting of
+stones we were actually starting to do
+the test assembly and learning to make
+sure that we would be ready when being
+on site in Venice and in fact we changed
+the logic of how we described because
+the describe the geometry of the stones
+after Row three because we noticed that
+we could make it even more efficient
+than even more precise that's maybe
+another kind of interesting detail the
+pressure was on because the fabricators
+the builders had never even seen the
+geometry this work came all from our
+model and we sent directly the
+appropriate G code to the machine so
+this was a nice surprise that this came
+together so there it is in Austin Texas
+so it it it nicely all locked together
+and
+very urgent everything got shipped to
+Venice and that allowed the same team of
+expert masons to then nicely bring
+everything together here I also just
+really want to emphasize that these may
+be theoretical or academic digital
+chains are possible to a certain extent
+they open the design space they open the
+possibilities but at the end of the day
+I really believe that it's the crafts
+that's the person that is putting these
+things together that really makes it
+happen because every stone was slightly
+kind of touched and shaped to really
+make sure that they are razorblade tight
+and fit so this is the Escobedo crew
+bringing all of this together and then
+cleaning up things maybe you will
+recognize an early visitor who who
+probably was thinking damn I wish I was
+on this team no sir that's true and then
+when we just decentered we had a vein of
+doing his pass and he just lost it a
+little bit and when someone said you
+should look from the top he
+misunderstood and started climbing the
+shell rather than looking from the from
+from the mezzanine level which which it
+was designed for but since it literally
+just came down the scaffolding that
+could have been any stone loose and what
+what not but as you know this Pritzker
+Prize winner is still alive so how
+luxury it is this went well this movie
+kind of summarizes the entire process
+and also the different teams there we go
+so the design was done by my team and
+the fabrication optimization the block
+research group at ETH here we make a
+point by showing that a very big part
+was indeed done with these tools that we
+share Rhino fault and all these other
+computational methods and you see the
+redistribution of forces actually allows
+you to very carefully sculpt the
+geometry so that it satisfies what you
+need we take the dominant force flow to
+then take this as an input
+basically then do the optimization that
+I described earlier on all the stones
+and then maybe something that I haven't
+said is that the cutting pattern was
+globally aligned to follow the force
+flow so that you had that other level of
+legibility to the stones so these are
+the 399 bounding boxes that then were
+grouped into 56 blanks that were cut the
+fabrication was done with our long-term
+partners in in Texas and we used a soft
+limestone that doesn't have a lot of
+natural flaws that is easy to work to
+really get there and very efficiently we
+couldn't optimize this process you see
+here in deeds that the blank will never
+be never be moved this was an early one
+where we started with the the rough cuts
+and then this is Hector and then these
+few passes with his custom profiling
+tools to really hit the spot the test
+assembly to make sure that everything
+comes together this is this was David
+Escobedo and here you see from below
+that actually these pieces very
+carefully come together the creating
+what's actually what was kind of
+interesting in this project is that it's
+kind of easier and cheaper to ship from
+Austin Texas to Venice then from Venice
+to Venice because then you land in a
+totally miraculous world of loss of
+control and all your 150 crates need to
+go in little barges in between the
+tourists and make their way to the
+Biennale site which of course makes for
+this beautiful footage then it's not
+over yet then you have these all these
+little vehicles and expert people that
+bring all your stuff inside so here we
+then started to assemble you'll also see
+this lightweight jib cranes that were
+attached to the scaffolding this is
+Frank and here this maybe is important
+to point out of course this male/female
+registration doesn't work for the last
+stones going in so we had these key
+stone rows that really locked a geometry
+and that were entirely neutral otherwise
+they would not slide in the only
+registration that we had was all the
+corners were measured with five
+coordinated total stations from the
+outside and then locally the hints of
+the grooves plus these wooden shims were
+used to basically position all the older
+stones so Dehradun came back together in
+just two and a half weeks the D
+centering is important to be as even as
+possible otherwise its equivalent to
+applying a very large asymmetric load
+and we actually had a very low-tech way
+to know where the shell was already
+standing there where the wooden shims
+were falling out that is basically where
+the shell was already acting and where
+does the the scaffold was no longer
+supporting we you saw maybe it's alive
+because we called it the armadillo fault
+it's an Texas native and it also looks
+like the outside skin perhaps of an
+armadillo but so it was it to be an ally
+for five five or six months what I
+really liked about the the project was
+also the response that we got to the
+aesthetics but what I am proud of is
+that the aesthetics was entirely driven
+by actually an interesting combination
+of constraints of course we celebrated
+this but that allowed us really to to do
+something unique and to do it and to get
+it done in a record time and so here you
+see also the the effect of the globally
+aligned cutting pattern that follows the
+force flow here I want to pass just
+briefly my research group was obviously
+quite excited to be part of this but
+they are in our team to do research so
+I'm very thankful
+half of my research group didn't
+couldn't do any research for more than
+half a year and the engineering was done
+by my our excuse of a firm ODB
+particularly by our partner at
+University of Cambridge machida young
+and then the Escobedo crew and there may
+be you might be wondering why do you
+build something in stone in the land of
+stone by Americans how does that make
+sense and that is where I want to come
+back to the many years of over ten years
+of experience of working together in
+order to pull this off there had to be
+mutual trust the Builder had to be
+certain that if he went all the way all
+this extraordinary effort that's that it
+would not collapse so and then the other
+way around we would need to be we needed
+to trust them that that this would work
+out and many of the things many of these
+optimization steps I now present them as
+maybe obvious or simple but they were
+really informed on all these years of
+working together you cannot only vault
+an arching compression but you can also
+balance and stack and do all kinds of
+things and so we also do researching
+going to the next level and so here you
+see that if you disguise the CCTV tower
+in a certain way it could be in masonry
+or here the thing that looks perhaps
+like something that was in one of the
+parks here so what's exciting about this
+is that most of the things that you see
+or that you've seen from us is a little
+offset or translation of an efficient
+solution but by actually smartly
+discretizing a structure you can take
+advantage of the masonry model for
+example to have very simple connections
+or to build in stable sections during
+assembly and so on a project that we
+were lucky to work on a very important
+project for John ochsendorf was the MIT
+Collier memorial a memorial for an
+officer that was shot after the Boston
+bombings and this was the design intent
+this was the proposal by MIT Union the
+architect and this was a monolithic kind
+of representing an abstract hand with
+the cavity carvings to the hand for the
+openness and then the
+the carved out piece for the emptiness
+or the the missing of the person but
+then looking at this in early design
+sketches they actually accepted to look
+at this as an unreinforced cut stone
+vault and so that actually added to it
+we did really extensive assessment to
+also explain project there we come again
+with our models this is John explaining
+meeting and her team is he will tilt
+this to 45 degrees which is quite
+aesthetically equivalent big big loads
+that compares to an earthquake this is
+Mathew DeYoung on the left and then
+there's the reality that the local
+engineer of records used linear elastic
+models to basically say that all of that
+would not work this project happened
+before the armadillo evolved so we lost
+the battle half
+it stood fully unreinforced for just a
+couple of days here also interesting
+about this project is that we started
+actually against gravity we started in
+the middle and every you went outside
+because if you look at this structure
+it's actually a very flat shallow fault
+and these shallow walls are extremely
+sensitive to support displacements and
+so we start there where the shell needs
+to be extremely precise and we pushed
+the tolerances to the outside these are
+only 32 pieces of 30 plus tons pieces of
+granite but it's it's nicely standing
+there it is in principle and
+unreinforced structure but there is a
+few pins that will hold some of these
+things together if you are in Boston you
+absolutely have to go by it's a
+beautiful little little memorial I like
+that it's standing next to the Frank
+Gehry building that is maybe you hurt is
+a very expensive lawsuit and leakage and
+things and all all of that everywhere so
+I'm sure that it will not stand
+thousands of years like our beautiful
+little arch
+and the bottom alright so learning from
+the past we not only do this to do to
+explore exciting form and to do
+expressive form but also to try to try
+to something that I said that if you
+follow these compression forms then the
+stresses are very low which means that
+you can use very simple materials so
+I'll show you some examples of tile
+faulting this is a technique where you
+use a lightweight tile to build in
+stable sections without needing any
+formwork from below
+that works because the first layer then
+serves as a lost stay in place foam work
+for the shell for the build up of
+structural depth on top beautiful
+examples by the Spanish emigrants Costa
+Vino's in New York like here at this
+Queensborough bridge market or probably
+you've seen the oyster bar in Grand
+Central Terminal in New York beautiful
+example I want to highlight again that
+this pattern is actually not decoration
+it's one of the layers that build up the
+structural depth typically you have
+three layers of unreinforced masonry and
+again these large shells were built
+without the need of any forward from
+below so a first translation was
+actually to apply this in a context
+where we have a lot of Labor but we
+cannot afford a lot of engineered
+materials so we translated the
+traditional ceramic tile to Seoul Press
+style I was lucky to be able to be part
+of this team during my my my PhD still
+designed by Peter Ridge architects and
+John ochsendorf and Michael Ramage at
+the key role in translating all of this
+and going on-site so this was in mapping
+good way international national park a
+very remote site that was why part of
+the brief was that actually it didn't
+make sense there was also no budget to
+bring in all the typical made materials
+we work with so here then making these
+compressed aisles I expected many of you
+have seen this project or similar
+projects but I like to show it because I
+like the anecdote that goes together
+with a happy women on the right the top
+right and that has to do with the fact
+that these are soil press
+these styles are designed to take only
+to megapascals in compression for those
+of you who don't know what that means
+that is peanuts it's really not a lot in
+compression but more interestingly if
+you hold the tiles that are about 25
+centimeters on one end they just break
+in bending so they have no bending
+capacity whatsoever and that is indeed
+why the women were carrying the tiles
+because the first week was a disaster
+with the brutal man breaking more than
+half of the tiles by the time they
+arrived on site this is apparently a
+true anecdote I heard it from James
+Bellamy our Kiwi Mason this is very
+traditional tile vaulting this works
+when you have nice boundary conditions
+to work off so of course for these
+boundary conditions you need support and
+then you see the widest is faceting
+mortar all the timber that you see is
+actually just guide work it's there to
+make sure that we trace this this that
+we get the geometry right and then you
+see once you can you can directly start
+building up the structural depths with
+the other layers so here a summary of
+that and remembering how weak these
+studs are to the right I think that
+picture really makes the point that if
+you get the geometry right then it's
+really not about stresses you can really
+use locally sourced materials very
+efficiently in this case in an art form
+and that is stable enough for the next
+person to start to lay the other bricks
+and even to walk on it and so on another
+thing that you see in this image is this
+black line that it's the tension dye
+that connects the two edge conditions
+the difference between a curved beam a
+curved form and an arch the beam if you
+don't support it will spread out and
+will immediately crack the arch why it's
+so efficient is because you support the
+end conditions so that is also obviously
+something that you can't forget but
+exciting about this project with very
+humble means local resources both human
+and materials we realized a very
+beautiful solution I can only take the
+credit of doing the assessment I think
+the detailing is beautiful and beautiful
+integration in the landscape main scale
+that was of course Peter rich architects
+and his team main spans were 18 meters
+so using just compressed dirt so after
+that I took the opportunity as first
+project at ETH to start to address this
+this is the current low-cost housing
+situation in Ethiopia there's nothing
+low-cost about this it just happens to
+be what is left after subsidy if
+low-cost and the reason that this is not
+low-cost is because they built like us
+they built with concrete with steel all
+materials that I have to import it or
+that they are very recently starting to
+produce but only in sufficient amounts
+so can we learn again from these cost
+vinhos and their floor systems and just
+quickly another kind of mini lesson in
+between an arch is a very good form for
+a particular loading case but it's a
+very bad form for here for example I
+have a point load and that is when you
+have a single curvature arch or a barrel
+vault you need to for example true
+stiffeners locally increase the
+structural depth so that you can find
+these compressive lines that's safe we
+go in compression to the support if you
+then add this tension ties then you
+basically have a lightweight version of
+a beam so that is exactly what we have
+done here so we trained the locals in
+Ethiopia and then we had this system we
+stabilized it with a lightweight
+volcanic rock and then this is how it
+looked the stair we were not responsible
+to for that but I'm happy that they paid
+attention that the arch maybe is a good
+idea but why I show this project is that
+this project looks ridiculously boring
+it looks like a box and that was exactly
+the point it was designed by an
+Ethiopian colleagues so actually a box
+is concrete e is modern that is what I
+all want but what's special about this
+box is that 90% of these boxes is local
+locally sourced
+soil
+the 10% is in the h-beams of course
+right because you want to really control
+the trust of the floors and the
+important part is that this unit which
+is five by eight meters two stories cost
+3,500 euros entirely finished which
+means around 40 euros per square metre
+for the entire construction constant so
+that is what it means to actually get
+the geometry right so to get strength
+through geometry rather than too much
+material capacity that and also let
+stood a very surprising call by Lord
+foster to collaborate or to help design
+and engineer and build an infrastructure
+piece that would bring kind of an image
+to this drone port amazing draw
+important concept that's probably all of
+you have heard of and then we had a
+weird situation that next to this crazy
+stone vault we also had to realize this
+prototype which used also saw press
+tiles built here on site the challenge
+here is actually not the geometry
+necessarily you might appreciate that
+it's more smooth than what we had before
+so we applied more advanced methods to
+actually have a have a more happy shell
+but the big challenge was the one in the
+middle because the challenge that Norman
+Foster and his team gave us is can you
+develop a kit of parts a system that you
+can safely send to all over Africa that
+you don't each time need to engineer the
+shell sent an expert crew to make it
+happen so can you embed can you make it
+as lightweight as possible and can you
+embed all the robustness of the geometry
+in this kit of part and I can happily
+say that we absolutely are not there yet
+because it's very challenging to develop
+something that you can freely deploy and
+where everything is inherent and
+understood in this process there is an
+advantage to work with such an important
+architect that is that the mayor of
+Venice actually allowed this pavilion to
+be
+permanently or at least for the next the
+next five years so that is very nice so
+you will be able to see it next time
+again alright so maybe now just to make
+the point we are together with good
+colleague dill cable we had the
+opportunity to actually we were invited
+based on these African projects and in
+Africa you have a lot of soil a lot of
+labor available how can we translate
+that concept and to really resonate in
+New York well in New York you have a lot
+of waste so maybe like our buddy Wally
+we can start to compact our waste and
+start to make building materials out of
+that so here you see this pavilion that
+we built our it was only there for three
+days so we wanted to make sure that
+nothing was wasted we used we found this
+material this is recycled tetrapack so
+it just heated and compressed with no
+additives this is one tenth of the
+strength of timber but more
+interestingly one hundredth of its
+elasticity materials that means that
+it's totally flimsy it's really not
+meant as a structural material that is
+typically what you need to say to get me
+excited to get on board so okay so here
+a summary of of the project this was
+only two two and a half months of
+development fabrication assembly I
+wonder why I could actually always get
+these ridiculous deadlines but anyway so
+there it is so we had to resort I don't
+like it to grasshopper but yeah there we
+go
+that allowed us and to assemble this why
+did we do it as an arch because we the
+key constraint can we assemble it on
+this extremely expensive sites that we
+only have budget to rent for two days
+before the opening can we assemble this
+with obviously dirt cheap student labor
+and so there we use
+we used the the the idea of the food
+wars as something that could nicely
+self-control each other and we as I said
+it was only there for three days so we
+didn't want to leave any waste and so
+these wrapping straps are actually the
+only connectors we didn't need any glue
+or nails or something like that
+we had a little bit of fun the orange is
+orange juice the blue is milk in the
+u.s. they drink wine out of carton so
+the other side was black those were wine
+cartons and anyway sorry I shouldn't say
+all this inappropriately
+not when I'm being taped so cut but
+anyway what was important here to show
+was actually with extreme tight budget
+using a weak material that absolutely
+doesn't make sense can we build
+something safe perhaps modern Cathedral
+of waste the same colleague likes to
+trigger me their table is that I have an
+even weaker material for you can we do
+something in mycelium mycelium is very
+popular can we do something structural
+out of mycelium so for that I thought
+I'm being I'm getting a little bit
+annoyed to be called the arch guy can we
+show that there is other forms that can
+also really be controlled in
+compression-only for that we went back
+to the past again and this is a paper
+from 1864 from Rankin in fact only the
+top part is the actual paper so pretty
+cool that in the 1800's your papers only
+had to be three sentences I can promise
+you that these three sentences are
+really dense but what ranking was
+actually saying is that there is a three
+dimensional equivalent of graphic
+statics that if you have on the right a
+note in equilibrium there is a force
+polygon in 3d where all the faces are
+orthogonal to the members in the in the
+in the element that now the cool thing
+is is that the area of the faces are the
+magnitude of forces so again we
+translated a very complex form finding
+or structural concept into an absolute
+geometrically
+the designers love to work with so now
+we have basically by aggregation of
+polygons in equilibrium we can this this
+we can discover three structures with
+uneven stress distributions we can start
+to aggregate all kinds of things to
+basically discover forms like
+multi-layer shells that are in pure
+compression and you see that they're
+just a combination of these equilibrium
+shades so this we did for this micro
+tree installation I'm not taking this as
+serious as other things that we do but
+the point was here again for a material
+that had only do you remember the two
+mega pascals for the the the tiles I
+said that those were peanuts this
+material can take 0.2 mega pascals in
+compression so that made it even more
+stupid and this is actually a fully
+spacial three-dimensional version of an
+arch actually and what we did is we
+actually put this table on top and we
+priests post-tensioned the structures so
+that we had this three dimensional force
+flow that we controlled that we
+discovered through 3d graphic statics
+that stood in equilibrium actually maybe
+I will skip this movie to move on
+alright so at a certain point I was
+criticized by my colleagues why do you
+use this kind of all techniques only to
+try to do better in Africa what is the
+real relevance of your projects and I'm
+happy that they did because the same
+ideas actually indeed could also help us
+why are we no longer designing like that
+so going back to this little lightweight
+beam that I showed here indeed if you
+compare it to a typical beam taking the
+same loading you save more than 70% by
+actually going to a stiffened arch with
+the tension tie rather than the beam one
+of the reasons this is is you see that
+for example you have this three and a
+half four centimeters it depends where
+you are of concrete cover that is only
+there to protect your reinforcement for
+corrosion for fire safety and so on you
+see that there is much more material
+that actually structurally you
+absolutely don't need so if you reduce
+it to that then you can develop a floor
+system which is what we did that it is
+entirely
+unreinforced and that has this
+externalized very identifiable tension
+ties and that is happy that is only two
+centimetres in unreinforced concrete and
+we are now building a project we are
+going on-site in April believe it or not
+where we have five by five meter unit
+floor plates that are indeed only two
+centimetres of unreinforced concrete in
+thickness of course this Suns entirely
+ridiculous and because and I can say it
+is because I am also an engineer the
+engineers are the most skeptical animals
+on the planet so we needed to do all
+kinds of load tests and extreme measures
+to really clarify that this shell works
+this prototype took ten times the
+required ULS which is good news and then
+if you crack the floor then you actually
+see its elegance and how thin it is
+I'm building up towards this project
+that I set another aspect that we are
+showing in this project
+I love shells this also shows double
+that double curve curvature actually is
+very good this pringle is happy carrying
+500 times its self weight in a bad
+loading case this is maybe not a shell
+structure but this is a very large
+curved concrete structure and you see
+these these only four unique projects
+because they need a unique budget the
+unique budget goes typically to this the
+formwork is extremely expensive
+extremely wasteful this is arguably the
+largest and most precise wooden
+structure ever built in Switzerland and
+it needed all these scaffolding
+foundations to hold it up and it turned
+into this after 28 days when the
+concrete is hardened right so that is
+where we jumped on to the fascination
+the academic more fascination of fabric
+foam work that promises to have a very
+lightweight system to shape concrete so
+here it is a hybrid system with the
+cable net actually is the falsework so
+it carries the loads and the fabric
+basically allows you to cast or spray
+the concrete on top so this was partly
+developed
+indeed Riggs PhD here on the left of
+course a structural nerd you need to
+stand on your first little prototypes
+and surprisingly showing these kind of
+things I convinced a client that we
+could do this at a big scale so this is
+the nest high-low project it's on the
+nest building this is not designed by us
+but it's kind of a physical
+infrastructure that allows different
+innovation units and new ideas to be
+implemented and you see that here it's
+may be missing a beautiful crown on top
+and that is indeed where this project
+will start construction in April
+beyond the aesthetics what why I'm
+excited about this project
+okay beyond the aesthetics because maybe
+you know that in Switzerland I prefer
+the straight edges so I am so looking
+forward to give a heart attack to all my
+design colleagues at ETH is that a large
+roof will be entirely built with a
+flexible formwork and then the floor
+system will indeed be this two
+centimeter lightweight floor so if you
+look at the section of the structure
+this is actually the structural depths
+that we have practicing architects might
+say what about acoustics well the cool
+thing is that and this I must say
+actually we rolled into this so it's a
+nice coincidence but in airplane
+industry they cannot go heavy so they
+use stiffness rather than mass to
+acoustically dampen things and here
+indeed we have not proven that we can
+use the stiffness of the shell to have
+an almost equivalent for the problematic
+low frequencies damping of the acoustics
+without having to add mass so this to me
+really brings the the circle almost to a
+close because this means that we don't
+need to add additional materials as we
+typically would need to do for
+acoustical reasons this is a
+collaboration also with my colleague
+Josh Ritter he is using these large
+surfaces of concrete that are only 2
+centimeters as large active radiators to
+have a low-energy heating and cooling
+system so we are using waste heat from
+appliances to basically have a thermal
+quality
+we also wanted to really show a
+beautiful architectural concrete so a
+visible concrete that goes from the
+inside to the outside so we made sure
+that there is no there are no bridges
+where the glass facade is and so on and
+so then to make it even more silly we
+also add flexible photovoltaics on top
+so that this is not this is a unit that
+generates 50 percent more energy than it
+needs so a nice symbiotic relation
+between the structural or the
+constructional innovations and then the
+heating and cooling okay so this project
+and really came to a point that this was
+going to happen the client got a little
+bit nervous and started to be skeptical
+about can you pull off this ridiculous
+big roof with this cable net formwork
+and so on we a year ago moved into our
+new building beautiful route by komatsu
+Kohler what's special is that on the
+bottom we have this ridiculous robotic
+fabrication lab 70 meters by 17 meters
+by 5 meters of free CNC space to
+prototype whatever you want in robotic
+fabrication so we were we took a chance
+and we decided to do our prototype in
+this hall so we blocked two-thirds of
+the hall with a project that had
+absolutely nothing to do with robotics
+and this to actually do a one to one
+dress rehearsal with all the partners
+involved I showed this slide quickly to
+clarify that we took a huge risk there
+so rather than doing it in our
+controlled environment we did every
+single step with the partners that we do
+it on-site so we trained industry we
+developed it we went back and forth to
+make sure that there was no more
+skepticism and that we developed a
+system that would be ready for
+commercial applications afterward so
+this is the idea is that we externally
+pre-stress and this allows basically to
+also keep the floor free we don't need
+to build up all these formwork and so on
+to work on them so here we go
+the market acrux assembling this shell
+you see these braces on the inside that
+has to do that we
+building on top of a building so we
+cannot efficiently on the outside go
+through tension we have not even a meter
+on the outside to build our shell and we
+wanted to really mimic the entire same
+setup as we would do on top so we
+developed this kit of parts more
+specifically this was a contribution by
+our architects super maneuvered a
+diagram and this kit of parts maybe here
+you might start the front like okay this
+is a little bit academic and silly but I
+want to maybe highlight that this entire
+system was nicely put together in just
+one week by three people and I want to
+have the contrast this compared to the
+months of carpentry or milling of an
+equally complex formwork that would be
+thrown out in a way so I think the
+investment of just assembling this one
+week this kit of parts really makes
+sense I also like to say that BIM in
+reality means this but I really like
+this money shot beautiful shot by NIDA
+where that really clarifies how
+lightweight this system is so what we
+are really achieving because what we
+have is in order to carry this very thin
+concrete cell nonetheless 20 tons of wet
+concrete is carried by 500 kilograms of
+cable net and 300 kilograms of fabric so
+800 kilograms is carrying 20 tons of wet
+concrete another advantage is that this
+thing was assembled month so now it's in
+three parts in the basement it's can be
+carried by three big guys and and stitch
+back together very quickly raised inside
+and we will build a shelf so this will
+be ready to cast again in just less than
+a week time okay there is no miracle
+here you cannot go from brute force kind
+of a stiff stiff system to a flexible
+system that is so efficient and so on
+without any any tricks so what we need
+to do what we needed to do is we
+actually are we developed algorithms
+such that we can pre-stress the cable
+nut such that it has a non uniform three
+camber so that under the weight of the
+wet concrete it sets to
+exactly the right shape in our case that
+it is is important because we're being
+macho about the thinness of the shell so
+it really needs to be exactly there
+where we need it to be okay that sounds
+good
+so but that has nothing to do with
+reality because if you have any kind of
+length difference or a mistake or your
+boundary conditions are slightly
+different on site the stress state of
+your nut is entirely different than your
+deflections will be different so we
+developed with our colleagues in in in
+control we developed algorithms actually
+to not only predefined the priestess but
+then also actually to compare the
+theoretical state with a real steady
+state and this is important because if
+you know this that the shell is not
+where it needs to be the formwork is not
+where it needs to be which 100 percent
+certain will not be the case then if you
+look in this this situation all these
+links on the outside have turnbuckles
+but that accounts to about 90 trillion
+combinatorial options which one is the
+one that will redirect your shell and
+that is the beauty of that through
+automation control you can actually
+narrow down to exactly the ones that you
+need to tighten and that beautifully
+worked then we apply the fabric so this
+is how it looked from below oh I didn't
+talk about dimensions so we are talking
+about 10 meters by 20 meters by an
+overall bounding box of seven and a half
+meters this is how it looks from the top
+the note we developed such that actually
+the complexity of all the curvature was
+reduced to very simple patches of 40 by
+40 centimeters so we had all these
+references with very simple connectors
+that allowed us to attach this carbon
+fiber reinforced carbon fiber
+reinforcement this was a decision
+because otherwise we couldn't get away
+of the covers reason number one and can
+you imagine starting to prevent all
+these reinforcements in these kind of
+tight geometries of course there's a lot
+of concrete magic going on here that we
+can allow to spray and vibrate the
+concrete to have a good
+on all these geometries musical
+Intermezzo no that's alright so here
+also the same team doing this I pause
+here just for a second Tom in the green
+Tom famila I call it my group with him
+didn't have a life for half a year to
+make this happen and Dave paya Graham is
+the architect that brings all our
+innovations together in this unit
+alright so the concept again the layered
+system we really wanted to test
+everything the same as on-site to not
+leave any unknowns as of course things
+that we can optimize like the very
+sizable edge beam but we didn't want to
+innovate everything this could also be a
+standard piece here this is showing all
+the beautiful custom development with
+local Swiss partners with fabrication
+methods that are highly efficient so
+that they can really be developed at at
+a competitive price the fabric actually
+maybe I'll I'll skip the fabrication
+porn a bit and go to to the next stages
+so here the assembly it was a painful
+process of going back and forth but it
+was maybe at the end worth to do it was
+very expensive it took more than six
+months and this had to do with a lot of
+learning a steep learning curve with all
+our partners but everyone now involved
+have signed our report that they will do
+the next one in only eight weeks so that
+is very exciting here the attaching of
+the reinforcement here what I said you
+have this nice reference very simple
+very easy to assemble technique and the
+pouring happened my mouth was visiting
+this is my mom
+it was hoping to walk around Zurich but
+was stuck in this very hot day looking
+at people's fraying concrete here this
+beautiful concrete that you can vibrate
+on all these steep areas development by
+wholesome whites and then here the
+decentering not everything work we
+learned a lot but actually everyone is
+now 100% convinced that within the
+expectations of Swiss architectural
+concrete so feasible concrete this will
+actually work because we want to leave
+this trace of how it was built we don't
+want to start to paint it so here you
+see in the background your master color
+being squeezed in a little part of the
+hole to do their robotic things we all
+like each other but it's also fun to
+annoy each other sometimes as well all
+right
+the shell is almost on the edges it goes
+to three centimeters it's on average
+five centimeters in thickness and it
+goes to so here with the photographer on
+the base you see you appreciate the
+quality or maybe skip to the last part
+which I also like
+[Music]
+not the credits but marvel style encore
+so distant this dinosaur came in to take
+it down which actually I recommend any
+of you to destroy your building at least
+once because you really learn certainly
+as engineer it makes you it gives you
+some confidence and yeah it didn't it
+couldn't be moved and that was also not
+the point it's an on site and now I'm
+happy to say that we got all the funding
+arranged and all the green lights and we
+going on-site in in April so this is the
+shell 100% concrete ready but very close
+and this was done with all these
+different teams this was done with one
+model I like to at this point say that
+our structural partners building a
+yeoman cult or approach beam on steroids
+and that was done with compass which is
+a computational framework I cannot talk
+about this too much it's entirely open
+source it's and it's basically I should
+also not say this but it will rend and
+render grasshopper obsolete in the next
+couple of years so but what's exciting
+is that from the computational the novel
+computational methods to the full
+nonlinear assessment to the digital
+fabrication everything was done through
+this computational framework basically
+if you're curious if you like
+programming it's Buyten based and it
+basically is platform also independent
+so Rhino geometry is Fe geometry is
+blender geometry is browser geometry and
+so on and so on okay but we we never
+stopped we of course are already
+self-critical like you saw all the
+logistics on site this is very
+lightweight elegant but it's it is quite
+an effort to do all these different
+layers systems in the show can we even
+do better and start to also integrated
+reinforcements for this way we are doing
+research in 3d knitting of technical
+textiles what's amazing about 3d
+knitting is that this is a
+non-orientable surface like for example
+a mobius strip and this comes out of the
+knit the the machine in one go
+so without any scenes this in order to
+be sufficiently approximated would need
+at least 16 cutting cutting patterns
+right so but then we use this to make
+this very lightweight technical textiles
+that we then in to impregnate with
+high-strength cement paste and this
+gives us an extremely lightweight
+complex part through bespoke
+prefabrication now have a stay in place
+for work that you can start to integrate
+in your structure if this is maybe too
+abstract we wanted to show this in a
+little bridge because here we show some
+other features so it's really little
+it's only two and a half meters but we
+will scale this up very very soon
+in fact on this one we are doing an
+exciting collaboration with charges
+group at sardis architects the code
+group
+Saji will present tomorrow but in the
+knitting what's very very exciting is
+that you can also include for example
+these sleeves where you can implement
+maybe reinforcement cables or in this
+case we have these splines and these
+ties so that means that we can develop
+what you're looking at for the two and a
+half meters it will be the only support
+onto which the concrete is being cast
+and this weighs only 20 grams so with 20
+grams we will basically cast our two and
+a half meter little bridge and you see
+here how easily this can be assembled
+and here you also maybe appreciate the
+lightness of this thing again with this
+magical concrete by our colleague Robert
+Fludd we we make it stiff enough so that
+basically you have a stiff shell that
+without any support so entirely
+self-supporting you can then take this
+shell to cast on top so I'm looking
+forward to scale of this bridge let's
+say 20 meter span and I have two of my
+assistants work on site with the only
+thing you need to make a 20 meter span
+berridge right so this is a layered
+system and in this case we of course
+also used a corrugated shell to make it
+stiff enough of course
+but is this I admit is just a
+small-scale prototype but for me is the
+next layer an entire stay in place the
+next step that we will do is also fully
+integrate all the reinforcements into
+this alright I am wrapping up right now
+I wanted to quickly go back to the
+Venice Biennale show everyone looked at
+this one and that was kind of the point
+to get people's attention but how many
+stone shells that does one eat in the
+world how many rich people do want it in
+their gardens not that many the
+relevance of this was actually to show
+that you can start from constraints that
+these tools that were laughed away by
+engineers to be only appropriate to
+teach architects a little bit of
+structures can really discover exciting
+things and and so on and so on so this
+serves as an inspiration but also as a
+as a first kind of milestone in in
+showing what you can do when you get
+strength through geometry and not
+through material capacity it was
+important that is also why we pushed it
+not to have any mortar otherwise
+skeptics would say it's the mortar that
+keeps everything together so it's a dry
+stone you cannot go but the main story
+is these floors starting from these
+traditional Catalan vaults we have the
+soil pressed false that really
+capitalized on the labor available in
+and for example in a developing world
+situation with local materials but then
+translating this in our context labor is
+very expensive and material is cheap so
+here a prefabricated unit in this case
+concrete we use concrete because it it
+is castable 2 centimeters more than 70%
+lighter than any floor we use in
+concrete nowadays and we all know that
+concrete is still really the dominant
+material so that is an important already
+milestone these prod floors are
+expensive because they need a double
+sided mold to make those and that is why
+in our exhibition maybe you noticed also
+the black one or by the end of the
+exhibition copper one in the corner and
+that one is entirely 3d printed so this
+is using sentry
+printing and this one we actually
+discretized and this not only has to do
+with logistics but it also has to do
+again with the structural reason let's
+go back to another hero of mine Robert
+Meyer he built a solid and doable bridge
+with three structural hinges and this is
+because then even if the mountains would
+move and evenly he always knows exactly
+the four states in inside the structure
+so he can really use this new material
+at its best and we needed for this 3d
+printed material that doesn't have any
+tensile or bending capacity we needed to
+make sure that under all loading cases
+this floor would only be in compression
+and no surprise by the way that my are
+use graphic statics to discover this so
+this is not only pragmatic logistics
+this pre discretization we pre crack the
+floor to tell the floor how we want it
+to work not the other way around right
+otherwise the form would crack
+everywhere because this 3d printed weak
+material again just over 2 mega Pascal's
+but as weak as called dark chocolate in
+bending so basically no bending capacity
+again we do our famous load tests and if
+you don't believe me that this held all
+the codes required loadings this is half
+of my group so one and a half tons of
+ETH nerd standing on something that is
+only 2 centimeters and has the material
+capacities of dark chocolate I like to
+now transition why we actually wanted to
+show this at the Biennale Aravena
+asked us to show our battle one of my
+battle is that we are fighting against
+the straitjacket of only the stress
+based methods that are being taught
+right now and we no longer know how to
+safely design these efficient firms what
+I didn't tell you about Grand Central
+Terminal is that it's not only only 15
+centimetres of unreinforced masonry it's
+not only built without formwork but it's
+also carrying the Vanderbilt hall on top
+proportionally this is thinner than the
+ridiculous two centimeters that we do so
+that means that two to three millions of
+New Yorkers are really risking their
+lives every single day
+go to work right this ignorant is not
+new beautiful shells have been destroyed
+to be replaced by beams because they
+could not be analyzed can you imagine
+the impact of 70% lighter on the floor
+when you start to stack this in a
+high-rise certainly recent research at
+MIT by Catherine the wolf has shown that
+for relevant spans of nine meter more
+than 90% of the contribution of the
+weight of a structure of a high-rise
+goes to the floor plate knowing that for
+really high rises the structural
+component is at least three-quarters of
+the full mass of the building can you
+imagine the impact by just addressing by
+just replacing the floor plate as I
+showed a first hint with my
+collaboration with our Nash looter if
+you start to rather than layering all
+the systems
+he works in Singapore and has just shown
+a project that if you reduce this by
+actually not not have structure
+mechanical heating all these different
+things on different layers in Singapore
+you have an average floor depth of a
+high-rise of one and a half to two
+meters so if you reduce this to 50 to 60
+centimeters you get one floor for free
+every two floors so you get three floors
+where two floors need needed to be so
+this is exciting to me that is why we
+are pushing this so hard I am believing
+in this floor system because we need to
+do things better we need to the next
+step is of course to get away from the
+necessary evil the concrete the cement
+to go to more natural because our
+stresses are so low we can actually
+bring back more humble materials and so
+on and at the end of the day I'm super
+excited that it also happens to be that
+structural geometry is absolutely
+beautiful geometry alright some blades
+and self-promotion
+on the left if you want to do know
+anything about computation of shells on
+the left but we just brought out it just
+came out before Christmas so sorry that
+I wasn't here before Christmas otherwise
+you could have given this to your
+grandma
+but in beyond bending actually starts
+from our exhibition at the Biennale and
+and explains all the precedents the
+principles and the potentials of why we
+do this research and what we showed at
+the Biennale with all of that and with
+being thankful for your patience because
+I did spend an hour and 15 minutes I
+thank you for coming and I'm happy to
+take any questions if there are any
+thank you very much
+yeah thank you guys thank you for your
+presentation it was really really
+inspiring I have a question though about
+the armadillo vault in Venice when you I
+think I missed it but you said something
+about some pieces were neutral yeah how
+what does that really mean and also how
+does that translate into your micro tree
+in insole and then the formwork that you
+created in nest yeah okay that is a I'll
+have to combine a lot of things that are
+not related but okay no so what I meant
+with neutral is that we locally have
+this registration for the Maison so it's
+a male-female kind of connection but
+geometrically the last piece would not
+slide in if that connection is there so
+it's like the Keystone we had these
+Keystone rows kind of lock lock that
+geometry that's that's that's the only
+thing about that that neutral interface
+so that you don't have that that
+connection that is in the way micro tree
+was a little bit of a playful game so
+let's not talk about micro tree too much
+although what's exciting is that with
+such a weak material it is still
+standing they want at the exhibition to
+be extended so it will be there for an
+entire year with a material that is ten
+times less than peanuts and then the
+last thing why we do the flexible
+formwork is actually to start to try to
+find a way to open up again to make
+exciting curved forms realistic not only
+for unique projects but but for more
+project because and and there I also was
+self-critical with what we are doing in
+the nest it's still very a lot of work
+on site so it's not quite there yet even
+though if you would compare it to if you
+would compare it
+- doing it with a Milt homework we are
+already better so we are already better
+off even with the work on site and so on
+we check the numbers and so on but there
+I really see I release III really see
+almost a Holy Grail in this next layer
+where this formwork is stay in place
+takes care of all the reinforcements and
+so on and so on so with that research we
+are trying to bring back these exciting
+forms so I like these forms just
+aesthetically also Hines Easler Felix
+comdata these are beautiful things in
+certain situations but I also like them
+because structural geometry is complex
+geometry so this is now then when I was
+talking about the floor system is that
+we were almost round we were always
+there we convert efficiently efficiency
+at least 70% lighter we actually covered
+acoustics that we don't need to add
+material we have a beautiful integration
+of heating and cooling and really
+capitalizing on this large surface but
+how will we fabricate this if it's too
+expensive to fabricate then it's again
+irrelevant and now what's exciting is
+that in the project in nest one set of
+floors we will do with the knitted
+formwork so no waste whatsoever and the
+other set of floors we will do with a 3d
+printed stay in place solution so again
+there we used new advantages of digital
+fabrication to close the circle and this
+to me is what makes me so excited about
+in exactly in this time it's because now
+digital fabrication is is getting to a
+scale a construction scale so many
+people are researching 3d printing are
+really improving on the material science
+and so on so we computation is the
+methods are getting there to really be
+able to control so these geometries and
+so on is that
+this will make a difference this
+actually structural geometry will allow
+us to save our planet
+so that makes me super super excited so
+I totally misuse your question to say
+all kinds of things to say we do a lot
+of tall buildings so you know lowering
+the cost of of tall buildings is very
+exciting and what I'm really interested
+in is the notion of system integration
+because once you start talk about the
+floor plate because the floor plate does
+more than just holding you up and you
+like the stuff underneath you cool it
+you heat it all that kind of stuff what
+are your thoughts in that direction well
+we we are showing a few first hints and
+I I've fully acknowledged that that has
+not been solved so that also needs to be
+checked to it real real practice real
+demands and so on I'm also taking this
+series because soon we will have three
+PhD students focusing just on the floor
+- one of them will look at all the
+fabrication options to really go to a
+commercially acceptable waste free
+digital fabrication one will look at the
+engineering because I was also still a
+few engineering questions to be solved
+certainly when you want to apply this
+for high-rise and then the last one will
+actually address exactly your questions
+the questions of interface right you
+cannot just have this thing by itself
+but there I also have to be realistic
+that the only thing that for now is
+maybe my job is to try to demonstrate
+that at least it is worth to bring back
+these structural models and techniques
+and this lost knowledge of the efficient
+vault and arch and and and and to do
+this in in the element that that really
+is the most relevant one if you can save
+anything on floors that this impact is
+direct right and so so there's many
+questions it's not done so I
+but I really believe in it and so I hope
+to inspire to to do these kind of things
+yeah
+but thank you for your question the
+questions
+[Music]
+[Applause]
+misson in the neighborhood and I was
+wondering a regarding the use of false
+work farm work and how much energy is
+invested into that that friend you know
+were you looking into him
+maybe inflatable structures yes I was
+doing recently there shortly after to
+human effort by my research as a
+ridiculous amount but sorry that's
+cheesy no currently you're maybe for
+example may be referring to this thing
+right so there we were pushing things
+already a third of an eggshell
+proportionally quite an exciting form no
+safety net of reinforcement so there we
+went for a very bomb how very controlled
+very rigid kind of further right so but
+I think formwork is kind of the key
+thing when I talk to two colleagues of
+mine the structural team at Foster's
+Clippers bowling a go home and they all
+say the same they would like to design
+and be involved in many more shells but
+it's not happening because it's always
+the formwork the logistics of the form
+the cost of the form the waste of the
+fork that is the bottleneck so that is
+why we showed one solution with the
+pre-stressed but in the pre-stressed one
+you have negative double curvatures that
+it's more for candela like things
+foreseen clastic shells compression
+shells they're actually yes you could do
+inflatables that is a similar problem
+but what we are doing there is actually
+we try to really crack something that
+actually some students this afternoon
+did a very good first pass at is
+actually how to assemble a discretized
+structure in stable sections and not
+just a dome but really exciting forms
+and why we want to do this not only to
+have these forms but also to have the
+box that I showed in this little
+collapsing or this CCTV tower
+meaning that you use an amazingly model
+to be able to build in stable sections
+and so on so we're trying to address it
+in different ways to make very low
+impact lightweight as efficient kind of
+flexible systems as a foam work but also
+to try to see can we get rid at all by
+fork and can we be smart about how we
+discretize a structure that maybe might
+not look like a fault or an arch how can
+we bring this together on-site and can
+we use the efficiency of the masonry
+model for that and I wanted to say
+something else but since I forgot it
+it's probably not important but thanks
+for your question I want to ask for a
+question about precision because you
+brought this very traditional crafts
+well its craftsmanship into the digital
+age then you mentioned several times
+that this building technique requires a
+lot of precision during the fabrication
+process now you bring this fabrication
+technique to the underdeveloped african
+community how can you guarantee the same
+level of precision without those
+calibration tools available yeah okay
+thanks for asking that question it's a
+pity that I didn't make that clear that
+is also why we had these four floors I
+don't believe that one solution is
+appropriate everywhere so in a developed
+world context you actually want to give
+people work you want to engage labor
+yeah but you want to do it as much with
+local resources as possible and if you
+engage local labor that also means that
+you need to be aware that things might
+not be exactly at the same standards as
+you are used to so that means that also
+in the design processes you include
+geometrical safety factors that take
+into account most likely deviations of
+the perfect form but that is also why
+another point is that the project with
+Norman Foster that we show the prototype
+in Venice for the drone port maybe you
+saw that this shell has a lot of
+positive double curvature so that means
+actually that the stiffening scheme of
+this shell is if you have a point load
+it has so many paths to go to the
+support and that gives it its robustness
+its stiffness and for this kind of forms
+if you're slightly off because you
+globally have so much positive double
+curvature they are much more robust so
+that is a system that we do there for
+the floor systems the floor are way too
+shallow and that is why we have this
+stiffener so the thing is that you need
+to provide solutions that are relevant
+for different contexts there way you can
+generate a lot of positive double
+curvature that is always the best
+solution because that will give you the
+safest job shell but in a floor system
+or in a situation where you cannot trust
+on the same precision that we have we
+need to provide other methods so and
+that is why we didn't show one floor to
+be an alley but we showed four to show
+that different solutions are appropriate
+in different context thank you hi I
+would like to ask you about embodied
+energy but it water in the project so
+you've been talking about efficiency and
+one can tell that the different
+processors have different degrees of
+embodied energy have you conducted like
+lifecycle analysis of the different
+projects and which one is more efficient
+has less embodied energy we haven't done
+it ourselves because you cannot try to
+do everything but there's several papers
+that I have used are our examples
+so both the floor system and the
+defaults in in Africa so the vaults in
+every beat everything
+so there are attends less than a regular
+structure there are thousands less than
+the the stadium here for the the
+Olympics a million less than no I'm
+exaggerating than the bird's nest in
+Beijing and so on right
+but the floor there also does already
+better but unfortunately and we also saw
+that the researchers that decided to
+compare our force there actually looked
+at our
+first prototype that was very clumsy use
+toxic kind of milt foam and so on and so
+there actually you can do much much
+better with these things so I will have
+to refer to my colleagues it's a
+Guillaume how they're capturing the wolf
+and so on and all of these are compared
+they always score well because actually
+the things that have most impacts or
+Catron actually developed an indicator
+and it's kind of an obvious one but it's
+really clear to identify there's two
+things that contribute the most one is
+the geometry so that you get actually
+that you get efficiency through the
+shapes strength through geometry so the
+structural form that of course reduces
+the volume and then the second one that
+you can innovate is of course the impact
+of the material and that is why I make
+this small Commons also because we
+talked about it earlier it might is that
+now that we have shapes that I have lost
+stresses I want to get rid of the
+concrete all together and go for 100%
+local recycled waste materials and so on
+or even grown materials if we get with
+our mushrooms a little bit better than
+this 0.2 mega pascals maybe we can start
+to cultivate our building materials
+rather than scratching the the Earth's
+crust yeah so if you see that that is
+the the most really the impact factor
+those aspects then you can imagine that
+we're doing pretty well because we are
+significantly reducing the volume of the
+structural material thank you yeah thank
+you for the lecture I just wanted to ask
+you touched a little bit their
+construction sequence yeah and it you
+have the like research above it but I
+want to ask about the armadillo world as
+I saw in a video it was a really
+interesting construction sequence
+because it's only directional and the
+world is not only like semi-spherical so
+what are the principles in which you
+actually defined what is
+position for the Keystone well for it is
+directional because also the before we
+we did quite a forward process so the
+force flow was very clean and because
+all the rows are aligned to the force
+flow so there's a lot of kind of
+iterations and looping into that but
+maybe what you're hinting at is the
+sequence of construction or being able
+to do this without formwork so this one
+actually doesn't consider that you
+cannot start going in space and then it
+will magically stand up so that is that
+is the exciting outlook is that this
+form could never be built without
+formwork that's that is obvious but what
+is the minimal amount of support arches
+locally that suddenly allows you to
+bridge the gaps and then to work indeed
+on the local level of the other
+components can you play with that to get
+to get to the next stage and so on so
+here in this case this was indeed very
+pragmatic because the shape was designed
+such that the force flow nicely flew
+around the openings and so on so we
+could progress with with um with with
+the different roles we progressed
+equally to keep the scaffolding as
+balanced as possible and then we
+basically something that I didn't say
+about the Keystone is that another trick
+that we did is we tried to keep
+tolerances where they need it and we
+would have managed perfectly if we would
+have had a couple of months to build
+this but we had to go faster so we
+started to kind of the Escovedo team
+started to not make sure that every
+stone was there where it needed to be
+we went until the Keystone rose and we
+actually measured the gap and we cut the
+Keystone's stones at the end so we
+actually cut them to directly slide in
+and to lock the entire geometry but that
+is a shortcut that we did only to speed
+up the process that would not have been
+needed if we would have had the proper
+amount of construction time to really
+make sure that every stone is where it
+is and so on so you have those many
+inside stories anecdotes dirty secrets
+that I can share
+this but thanks for your question okay
+I'd like to thank the league for all
+these stuff to start them in and put a
+really amazing thank you thank you

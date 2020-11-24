@@ -1,0 +1,1636 @@
+{'text': 'Good evening.', 'start': 7.473, 'duration': 1.936}
+{'text': 'Thank you so much\neveryone for coming out.', 'start': 9.509, 'duration': 2.769}
+{'text': "We're actually very excited\nabout the exhibition", 'start': 12.378, 'duration': 3.337}
+{'text': 'and about this opening tonight.', 'start': 15.815, 'duration': 2.502}
+{'text': 'And maybe even a little nervous.', 'start': 18.417, 'duration': 2.102}
+{'text': "I'm Michael Hays if\nthere are visitors here", 'start': 20.619, 'duration': 1.802}
+{'text': "and don't know that.", 'start': 22.521, 'duration': 0.868}
+{'text': "I'm joined by Andrew Holder.", 'start': 23.489, 'duration': 1.835}
+{'text': 'We co-curated the\nexhibition outside,', 'start': 25.424, 'duration': 2.636}
+{'text': "and we'll try to go some way\ntoward explaining it tonight.", 'start': 28.16, 'duration': 4.339}
+{'text': 'I really do think if we can\ncome across and get some', 'start': 32.599, 'duration': 4.404}
+{'text': "of this explanation, you'll\nsee that the show is actually", 'start': 37.103, 'duration': 3.437}
+{'text': 'quite a lot of fun and merits\na lot meditation, and study,', 'start': 40.64, 'duration': 4.404}
+{'text': 'and returning to.', 'start': 45.144, 'duration': 1.802}
+{'text': 'We hope tonight, which is\nreally just the opening', 'start': 47.046, 'duration': 4.237}
+{'text': 'of the exhibition, will not come\noff like a formal presentation.', 'start': 51.383, 'duration': 5.273}
+{'text': 'We really want this\nto be a conversation.', 'start': 56.756, 'duration': 2.468}
+{'text': "I think we're going to\ntry very hard to leave", 'start': 59.325, 'duration': 4.071}
+{'text': 'enough time for a conversation\nwith the audience.', 'start': 63.496, 'duration': 3.236}
+{'text': 'Questions, answers, comments.', 'start': 66.832, 'duration': 1.935}
+{'text': "Because one of the things that\nwe've tried to do in the school", 'start': 68.867, 'duration': 3.405}
+{'text': 'lately very much is to have\na public discourse that', 'start': 72.372, 'duration': 4.137}
+{'text': 'continues in the\nhallways, in the studios,', 'start': 76.609, 'duration': 2.636}
+{'text': 'as well as in the classrooms.', 'start': 79.345, 'duration': 1.535}
+{'text': 'And we very much\nsee this exhibition', 'start': 80.98, 'duration': 1.769}
+{'text': 'as part of providing\nmaterial that', 'start': 82.849, 'duration': 3.269}
+{'text': 'helps establish that discourse.', 'start': 86.218, 'duration': 1.803}
+{'text': 'We hope that through\ngallery talks,', 'start': 88.121, 'duration': 2.001}
+{'text': 'maybe with some of the\nfaculty, we can actually', 'start': 90.223, 'duration': 3.202}
+{'text': 'use it to continue those.', 'start': 93.525, 'duration': 1.703}
+{'text': "But first, we owe a lot of\nthanks I'll ask Andrew to give.", 'start': 95.328, 'duration': 4.437}
+{'text': 'Yes.', 'start': 99.865, 'duration': 1.335}
+{'text': 'Michael and I are\ndeeply indebted,', 'start': 101.3, 'duration': 2.002}
+{'text': 'and there are a couple\nof people that we would', 'start': 103.403, 'duration': 1.834}
+{'text': 'like to acknowledge publicly.', 'start': 105.337, 'duration': 2.036}
+{'text': 'So first and foremost, our sort\nof dual patrons, MOS and Pat.', 'start': 107.473, 'duration': 6.239}
+{'text': 'Thank you for your\nsupport of the exhibition', 'start': 113.813, 'duration': 2.402}
+{'text': 'and for your leadership.', 'start': 116.315, 'duration': 1.101}
+{'text': 'And please forgive us\nwhen the bill arrives.', 'start': 117.517, 'duration': 3.135}
+{'text': '[laughter]', 'start': 120.753, 'duration': 1.101}
+{'text': 'We would also like to add\nto our list of patrons.', 'start': 121.954, 'duration': 4.538}
+{'text': 'Both Ken and Paige in\nthe communications office', 'start': 126.592, 'duration': 3.371}
+{'text': 'have been indispensable.', 'start': 130.063, 'duration': 2.101}
+{'text': 'And, of course, also Dan Borelli\nand David Zimmerman-Stuart,', 'start': 132.264, 'duration': 3.504}
+{'text': 'who lead the exhibitions team.', 'start': 135.868, 'duration': 3.737}
+{'text': 'And they wrought miracles along\nwith their team of installers', 'start': 139.705, 'duration': 3.938}
+{'text': 'and did some really\nbrilliant work.', 'start': 143.743, 'duration': 1.568}
+{'text': 'So our heartfelt thanks.', 'start': 145.411, 'duration': 2.769}
+{'text': 'There were a great\nnumber of students', 'start': 148.28, 'duration': 2.269}
+{'text': 'involved in the\nproduction of the show,', 'start': 150.649, 'duration': 2.837}
+{'text': 'perhaps too many\nto call out singly.', 'start': 153.586, 'duration': 2.369}
+{'text': 'But I would like to identify\nthree in particular from three', 'start': 156.055, 'duration': 4.638}
+{'text': 'different programs\nhere at the GSD.', 'start': 160.793, 'duration': 3.103}
+{'text': 'First, Mindy Hsu,\nwho is a current MDes', 'start': 163.996, 'duration': 1.936}
+{'text': 'student who is absolutely\ninstrumental to the exhibition', 'start': 166.032, 'duration': 2.869}
+{'text': 'design.', 'start': 169.001, 'duration': 1.068}
+{'text': 'Christina Shivers, a\ndoctoral candidate,', 'start': 170.169, 'duration': 2.736}
+{'text': 'helped to orchestrate all of the\nlogistics of getting this work', 'start': 173.005, 'duration': 3.036}
+{'text': 'here, which was no small task.', 'start': 176.141, 'duration': 3.103}
+{'text': 'Adam Strobel, who\nis an MArch student.', 'start': 179.344, 'duration': 2.537}
+{'text': "And we'll just call him our\ntireless jack of all trades.", 'start': 181.981, 'duration': 3.103}
+{'text': 'He sort of had his fingers in\neverything and did brilliantly.', 'start': 185.184, 'duration': 4.738}
+{'text': 'With those thanks,\nwe should also', 'start': 190.022, 'duration': 1.601}
+{'text': 'emphasize the kind of\nenormity of the task.', 'start': 191.724, 'duration': 2.269}
+{'text': 'So there are more\nthan 70 practices', 'start': 194.093, 'duration': 2.068}
+{'text': 'on display in the\nhallway outside,', 'start': 196.261, 'duration': 2.203}
+{'text': 'many of them originating\nhere at the GSD.', 'start': 198.564, 'duration': 2.87}
+{'text': 'We have nearly 400 drawings\nand images and 26-ish models', 'start': 201.534, 'duration': 4.938}
+{'text': 'if one of them made it through\ncustoms this afternoon.', 'start': 206.572, 'duration': 3.971}
+{'text': 'And all of that was\nbrought together', 'start': 210.643, 'duration': 1.735}
+{'text': 'in a span of about\n45 days by this team.', 'start': 212.478, 'duration': 3.336}
+{'text': 'So once again, thank you.', 'start': 215.914, 'duration': 1.603}
+{'text': '"It need scarcely be said\nthat an epitaph presupposes', 'start': 230.062, 'duration': 4.404}
+{'text': 'a monument upon which\nit is to be engraved."', 'start': 234.567, 'duration': 4.304}
+{'text': "This is the opening sentence\nof Wordsworth's longest", 'start': 238.971, 'duration': 5.372}
+{'text': 'critical text which is\npart prose, part poetry,', 'start': 244.444, 'duration': 2.668}
+{'text': "but it's actually made to be a\nkind of theoretical text called", 'start': 247.212, 'duration': 4.305}
+{'text': 'Essays Upon Epitaphs.', 'start': 251.617, 'duration': 1.601}
+{'text': 'This is 1810.', 'start': 253.318, 'duration': 4.739}
+{'text': 'When you come in and see the\nmain introductory wall text,', 'start': 258.157, 'duration': 4.17}
+{'text': 'this is the first\nthing that appears.', 'start': 262.427, 'duration': 2.069}
+{'text': "And for us, it's\nan inaugural case", 'start': 264.596, 'duration': 4.672}
+{'text': 'of the concept of\ninscription, which', 'start': 269.368, 'duration': 2.636}
+{'text': 'I want to unpack a little bit.', 'start': 272.104, 'duration': 2.803}
+{'text': 'Notice that the word\nmonument, which is, of course,', 'start': 275.007, 'duration': 4.137}
+{'text': 'for us architecture\nof a certain sort,', 'start': 279.244, 'duration': 2.57}
+{'text': 'it has a flatly literal meaning.', 'start': 281.914, 'duration': 3.103}
+{'text': "It's devoid of any\nattribution of value.", 'start': 285.117, 'duration': 3.003}
+{'text': 'This is not the great monument\nfull of content and grandeur', 'start': 288.22, 'duration': 5.84}
+{'text': 'that is great because of\nits meaning or its content.', 'start': 294.16, 'duration': 4.237}
+{'text': "It's rather a fairly\ninert material object", 'start': 298.497, 'duration': 5.005}
+{'text': 'that provides a surface for\nmarking, for the epitaph.', 'start': 303.602, 'duration': 5.205}
+{'text': 'It does not have\nany meaning in it.', 'start': 308.907, 'duration': 3.171}
+{'text': 'Now this, of course,\nis a departure', 'start': 312.178, 'duration': 1.735}
+{'text': 'for an object of art, whose\nartistic nature would usually', 'start': 314.013, 'duration': 6.473}
+{'text': 'be thought of as a function\nof its form being transformed', 'start': 320.586, 'duration': 4.605}
+{'text': 'into some clear\nrepresentational content.', 'start': 325.291, 'duration': 3.136}
+{'text': "And it's that departure\nthat interests us.", 'start': 328.527, 'duration': 3.804}
+{'text': 'At the same time,\nWordsworth makes monument', 'start': 332.432, 'duration': 3.502}
+{'text': 'mean the material element,\nthe sort of culturally', 'start': 336.034, 'duration': 4.539}
+{'text': 'shared reading apparatus\nthat the epitaph presupposes.', 'start': 340.673, 'duration': 5.539}
+{'text': 'This culturally shared\nreading apparatus', 'start': 346.312, 'duration': 2.402}
+{'text': 'has to already be in place if\nthe epitaph, if the speech,', 'start': 348.814, 'duration': 5.172}
+{'text': 'the text is going\nto have any effect.', 'start': 354.086, 'duration': 3.671}
+{'text': 'The monument is a prior\ncondition for a text to come.', 'start': 357.857, 'duration': 7.441}
+{'text': 'This restrictive use\nof the word monument', 'start': 365.398, 'duration': 2.702}
+{'text': 'is actually really\nimportant for us.', 'start': 368.2, 'duration': 2.303}
+{'text': 'It marks an attention,\nfirst of all,', 'start': 370.603, 'duration': 2.402}
+{'text': 'to a culturally specific\nmedium and yet, the medium', 'start': 373.105, 'duration': 5.372}
+{'text': 'is not semantic.', 'start': 378.577, 'duration': 2.103}
+{'text': "It's blank.", 'start': 380.78, 'duration': 1.434}
+{'text': "It doesn't have\nimminent meaning.", 'start': 382.314, 'duration': 1.936}
+{'text': 'It is attention to an\nexpression yet to come.', 'start': 389.555, 'duration': 3.737}
+{'text': 'But at the same time, it\ninsist that the material will', 'start': 393.392, 'duration': 5.606}
+{'text': 'impinge upon that expression.', 'start': 399.098, 'duration': 2.702}
+{'text': 'The epitaph itself, the\nmark, cannot exist without', 'start': 401.9, 'duration': 4.138}
+{'text': 'the architecture.', 'start': 406.138, 'duration': 1.234}
+{'text': "And it's for this\nreason partly--", 'start': 407.472, 'duration': 4.171}
+{'text': 'So the use of the\nword presuppose', 'start': 411.743, 'duration': 1.87}
+{'text': 'that means this precondition\nthat already exists, perhaps', 'start': 413.713, 'duration': 3.87}
+{'text': 'like in a virtual dimension.', 'start': 417.683, 'duration': 2.903}
+{'text': 'Architecture seems\nto be already there', 'start': 420.686, 'duration': 3.436}
+{'text': 'before the epitaph speaks.', 'start': 424.222, 'duration': 2.57}
+{'text': "And it's for\npartially this reason", 'start': 426.892, 'duration': 3.47}
+{'text': 'that the subtitle\nArchitecture Before', 'start': 430.462, 'duration': 2.403}
+{'text': 'Speech that we use for the\nshow, for the exhibition,', 'start': 432.965, 'duration': 4.471}
+{'text': 'came partially from this\nWordsworth quotation.', 'start': 437.537, 'duration': 2.836}
+{'text': "So what we're\ngoing to do tonight", 'start': 440.473, 'duration': 1.267}
+{'text': 'is to try to make sense of\nthis notion of inscription,', 'start': 441.84, 'duration': 3.704}
+{'text': 'but do it by mapping on\nthis kind of definition', 'start': 445.645, 'duration': 4.17}
+{'text': 'onto the four categories in the\nentire field of the exhibition.', 'start': 449.915, 'duration': 5.005}
+{'text': "And we're going to do\nthis by sort of going back", 'start': 455.02, 'duration': 1.902}
+{'text': 'and forth a couple of times.', 'start': 457.022, 'duration': 2.236}
+{'text': "I'll first comment a little\nfurther on the background", 'start': 459.358, 'duration': 6.607}
+{'text': 'of the concept of\ninscription, then', 'start': 466.065, 'duration': 1.835}
+{'text': 'Andrew will talk about the\nfield of work that we draw from.', 'start': 468.0, 'duration': 3.904}
+{'text': "And I just want to point out\nit's extremely important for us", 'start': 472.004, 'duration': 2.769}
+{'text': 'that a lot of this work\ncomes from the faculty', 'start': 474.874, 'duration': 3.436}
+{'text': 'of the Graduate School\nof Design because--', 'start': 478.41, 'duration': 2.269}
+{'text': 'and this is just\nfor the family--', 'start': 480.78, 'duration': 1.267}
+{'text': "let's say part of our\nclaim is that not only are", 'start': 482.147, 'duration': 3.537}
+{'text': 'we part of this\nlarger discourse,', 'start': 485.784, 'duration': 2.57}
+{'text': "but we're actually an\nimportant driving part of it.", 'start': 488.454, 'duration': 3.036}
+{'text': "And it's important for\nus that that's the case.", 'start': 491.591, 'duration': 2.869}
+{'text': 'So Andrew will talk\nabout that feel.', 'start': 494.56, 'duration': 1.635}
+{'text': "And then I'll come\nback and focus--", 'start': 496.295, 'duration': 1.568}
+{'text': "you'll see a couple\nof diagrams out there.", 'start': 497.963, 'duration': 2.602}
+{'text': 'One is a very important\nquadripartite diagram', 'start': 500.666, 'duration': 3.169}
+{'text': 'where we try to show the\nrelationship, or signal', 'start': 503.936, 'duration': 3.87}
+{'text': 'relationship, between\nthe four categories.', 'start': 507.906, 'duration': 3.337}
+{'text': 'And our claim is going to be\nthat these four categories are', 'start': 511.343, 'duration': 2.936}
+{'text': 'not arbitrary.', 'start': 514.379, 'duration': 0.835}
+{'text': "They're actually\nlogically related.", 'start': 515.314, 'duration': 1.936}
+{'text': "And that's what\nI'll try to explain.", 'start': 517.35, 'duration': 1.434}
+{'text': 'And then Andrew will\ncome back finally', 'start': 518.884, 'duration': 2.102}
+{'text': 'to talk about the\neffects and affects', 'start': 521.086, 'duration': 3.604}
+{'text': 'that are sponsored by the works.', 'start': 524.79, 'duration': 3.336}
+{'text': "I think we're going to\ninterrupt each other.", 'start': 528.227, 'duration': 2.369}
+{'text': 'I think we would like to\nhave those interruptions be', 'start': 530.696, 'duration': 3.737}
+{'text': 'productive and lead to a\nmore informal conversation', 'start': 534.533, 'duration': 3.27}
+{'text': "that we'd like to continue.", 'start': 537.903, 'duration': 1.401}
+{'text': "So I'll get on with\nthat so we have time.", 'start': 539.404, 'duration': 4.738}
+{'text': 'The intellectual\nethos of the work', 'start': 544.242, 'duration': 3.204}
+{'text': "that we're presenting in the\nexhibition we want to suggest", 'start': 547.546, 'duration': 3.87}
+{'text': 'actually derives from the\nprofound cultural shifts', 'start': 551.516, 'duration': 4.772}
+{'text': 'not in the 1990s, but in\nthe mid to late 1960s.', 'start': 556.389, 'duration': 5.838}
+{'text': "And we're not claiming that\nthere's any direct relationship", 'start': 562.327, 'duration': 4.839}
+{'text': 'between the work\nand the ethos that I', 'start': 567.266, 'duration': 2.936}
+{'text': 'want to show the\nbackground of, but rather', 'start': 570.302, 'duration': 3.404}
+{'text': 'that the architecture that\ndid evolve from this discourse', 'start': 573.806, 'duration': 3.57}
+{'text': 'went a different direction.', 'start': 577.476, 'duration': 1.401}
+{'text': 'And now what we see\nis an architecture', 'start': 578.977, 'duration': 2.203}
+{'text': 'returning, not intentionally,\nbut returning nevertheless,', 'start': 581.28, 'duration': 5.105}
+{'text': "to a discourse that\nstarted in the '60s.", 'start': 586.485, 'duration': 3.103}
+{'text': 'There are two discourses.', 'start': 589.688, 'duration': 0.968}
+{'text': 'One is the architectural\ndiscourse itself,', 'start': 590.756, 'duration': 1.802}
+{'text': "which I'm actually not\ngoing to talk about,", 'start': 592.658, 'duration': 1.835}
+{'text': 'but it would involve people\nas diverse as Archizoom,', 'start': 594.593, 'duration': 3.504}
+{'text': 'early, early OMA, and Ungers,\nVenturi, and Ghery, Rossi.', 'start': 598.197, 'duration': 4.104}
+{'text': 'It would involve\nthose kinds of people.', 'start': 602.401, 'duration': 1.701}
+{'text': 'And Eisenman.', 'start': 604.202, 'duration': 0.768}
+{'text': 'And Eisenman.', 'start': 605.07, 'duration': 0.867}
+{'text': 'For sure.', 'start': 606.038, 'duration': 0.466}
+{'text': 'For sure.', 'start': 606.605, 'duration': 1.134}
+{'text': "We'll do that in a class.", 'start': 607.839, 'duration': 2.003}
+{'text': 'But the other that I\ndo want to talk about', 'start': 609.942, 'duration': 2.168}
+{'text': "because I think it's\nless familiar, is", 'start': 612.21, 'duration': 1.969}
+{'text': 'the shift from\nstructuralist thought--', 'start': 614.279, 'duration': 3.637}
+{'text': 'Levi Strauss and others--', 'start': 618.016, 'duration': 3.871}
+{'text': 'which was largely\ndescriptive and synchronic,', 'start': 621.987, 'duration': 4.471}
+{'text': 'to post-structuralist\nthought, which was historical.', 'start': 626.558, 'duration': 3.404}
+{'text': "And it's that historicity,\nthat attention to historical,", 'start': 630.062, 'duration': 3.77}
+{'text': 'that will be important for us.', 'start': 633.932, 'duration': 2.569}
+{'text': "But actually I'm going to\ndemonstrate both discourses", 'start': 636.601, 'duration': 4.672}
+{'text': 'in a single example.', 'start': 641.373, 'duration': 2.37}
+{'text': 'And it starts with Tony\nSmith, who in 1966 recounted', 'start': 643.843, 'duration': 6.372}
+{'text': 'the dark night in 1951\nwhen Smith found himself', 'start': 650.316, 'duration': 5.538}
+{'text': 'in a car with three\nstudents from Cooper Union,', 'start': 655.954, 'duration': 3.136}
+{'text': 'driving illegally down the not\nyet opened New Jersey Turnpike.', 'start': 659.19, 'duration': 5.94}
+{'text': 'He talks about there\nwere no street lamps,', 'start': 665.23, 'duration': 2.403}
+{'text': 'there were no lane\nmarkers or guardrails.', 'start': 667.733, 'duration': 2.536}
+{'text': "So this photograph I'm using\nis actually taken later.", 'start': 670.369, 'duration': 3.87}
+{'text': 'They relied on their\nheadlights, but also he', 'start': 674.339, 'duration': 2.503}
+{'text': 'says on the industrial glow of\nthe landscape of North Jersey.', 'start': 676.942, 'duration': 6.674}
+{'text': "And in a now famous Artforum\nform interview in '66,", 'start': 683.716, 'duration': 4.47}
+{'text': 'he described the drive as\na revelation about art.', 'start': 688.286, 'duration': 5.239}
+{'text': 'He says, "The road and much of\nthe landscape was artificial,', 'start': 693.625, 'duration': 4.204}
+{'text': 'and yet it couldn\'t be\ncalled a work of art."', 'start': 697.93, 'duration': 2.268}
+{'text': "And it's interesting\nthis word artificial.", 'start': 700.298, 'duration': 1.702}
+{'text': 'Artifice will also become\nan important concept for us.', 'start': 702.1, 'duration': 3.971}
+{'text': '"On the other hand," he said,\n"it did something for me', 'start': 706.171, 'duration': 2.37}
+{'text': 'that art had never done.', 'start': 708.641, 'duration': 3.069}
+{'text': 'It seemed that there had been\na reality there that had not', 'start': 711.81, 'duration': 4.704}
+{'text': 'had any expression in art.', 'start': 716.614, 'duration': 3.204}
+{'text': 'The experience of the road\nwas something mapped out', 'start': 719.918, 'duration': 4.472}
+{'text': 'but not socially recognized.', 'start': 724.49, 'duration': 2.936}
+{'text': 'And I thought to myself,\nit ought to be clear', 'start': 727.526, 'duration': 2.069}
+{'text': "that that's the end of art.", 'start': 729.695, 'duration': 1.634}
+{'text': 'Painting looks pretty\npictorial after that.', 'start': 731.43, 'duration': 3.27}
+{'text': 'There\'s no way to frame it--"', 'start': 734.8, 'duration': 1.234}
+{'text': "And I'm suggesting he's\nsaying there's no way", 'start': 736.135, 'duration': 1.768}
+{'text': 'to frame that landscape\nlike you frame a painting,', 'start': 738.003, 'duration': 2.702}
+{'text': "but there's also\nno way to frame it", 'start': 740.805, 'duration': 2.336}
+{'text': 'given the conventional\nconcepts of art.', 'start': 743.241, 'duration': 3.071}
+{'text': "There's no way to\nconceptually frame it.", 'start': 746.412, 'duration': 1.868}
+{'text': 'You just have to experience it.', 'start': 748.38, 'duration': 2.769}
+{'text': 'This is actually already\na theory of inscription,', 'start': 751.25, 'duration': 6.706}
+{'text': "though he doesn't use the word.", 'start': 758.056, 'duration': 3.738}
+{'text': 'A year later Derrida\nwould publish--', 'start': 761.894, 'duration': 3.269}
+{'text': 'actually the collected\nessays he publishes it--', 'start': 765.264, 'duration': 3.637}
+{'text': 'so probably it was\nwritten at the same time', 'start': 769.001, 'duration': 4.638}
+{'text': 'Smith was writing this.', 'start': 773.739, 'duration': 1.368}
+{'text': 'Derrida would for the first\ntime use the word inscription', 'start': 775.207, 'duration': 5.472}
+{'text': 'theoretically.', 'start': 780.779, 'duration': 1.134}
+{'text': "The context is Derrida is\nquoting Antonin Artuad's", 'start': 782.013, 'duration': 5.439}
+{'text': 'description of a\npainful experience', 'start': 787.552, 'duration': 3.103}
+{'text': 'that he always has in\ncreative writing, This', 'start': 790.756, 'duration': 5.738}
+{'text': "moment where you\nfeel like you're", 'start': 796.595, 'duration': 1.635}
+{'text': 'entirely trained, and\nprepared, and experienced.', 'start': 798.33, 'duration': 4.238}
+{'text': "He's at the top of his career,\nbut he has nothing to say.", 'start': 802.668, 'duration': 5.038}
+{'text': 'This combination of high\nlevel of skill and drawing', 'start': 807.806, 'duration': 5.606}
+{'text': 'a blank Derrida\nsays actually should', 'start': 813.512, 'duration': 2.836}
+{'text': 'be understood as the\nvery condition from which', 'start': 816.448, 'duration': 4.271}
+{'text': 'all artistic expression comes.', 'start': 820.819, 'duration': 2.335}
+{'text': "It's not an anomaly.", 'start': 823.254, 'duration': 1.936}
+{'text': 'This is Derrida.', 'start': 825.29, 'duration': 1.234}
+{'text': '"The thought of the thing\nas what it is already merges', 'start': 826.624, 'duration': 5.674}
+{'text': 'with--" actually the reading\nbecomes confused with', 'start': 832.398, 'duration': 5.238}
+{'text': '"--the experience\nof pure speech."', 'start': 837.736, 'duration': 2.469}
+{'text': 'Now pure speech, pure word,\nis a code word for Derrida.', 'start': 840.305, 'duration': 3.87}
+{'text': 'It just means the\nassumption that', 'start': 844.275, 'duration': 2.771}
+{'text': 'some unadulterated\nextreme level of speech', 'start': 847.146, 'duration': 5.772}
+{'text': 'is the beginning\nof any expression.', 'start': 853.018, 'duration': 3.036}
+{'text': 'He says, "When we try\nto think reality--",', 'start': 856.154, 'duration': 3.57}
+{'text': 'or what Smith calls\nreality, it first', 'start': 859.824, 'duration': 4.872}
+{'text': 'gets confused with the\nexperience of pure speech,', 'start': 864.796, 'duration': 2.369}
+{'text': 'or just with experience itself.', 'start': 867.265, 'duration': 2.436}
+{'text': "And then he says,\nbut doesn't pure", 'start': 869.801, 'duration': 2.269}
+{'text': 'speech, which he should\nhave in quotations,', 'start': 872.17, 'duration': 2.169}
+{'text': 'as if there could be such\na thing, pure potential,', 'start': 874.439, 'duration': 3.404}
+{'text': "doesn't it require inscription?", 'start': 877.943, 'duration': 3.57}
+{'text': 'Something in the manner\nof the way essence', 'start': 881.613, 'duration': 3.37}
+{'text': 'requires existence, and thereby\npushes on towards the world.', 'start': 885.083, 'duration': 6.54}
+{'text': 'In other words essence,\nto think of the thing', 'start': 891.724, 'duration': 2.702}
+{'text': 'as it already is, to\nthink of its essence,', 'start': 894.526, 'duration': 3.571}
+{'text': 'requires existence,\nmaterialization.', 'start': 898.197, 'duration': 3.57}
+{'text': 'And only through\nthat materialization,', 'start': 901.867, 'duration': 2.302}
+{'text': 'which he here calls inscription,\ncan existence act on the world.', 'start': 904.269, 'duration': 7.707}
+{'text': 'Or sorry, potential then\ncan act on the world.', 'start': 912.077, 'duration': 5.172}
+{'text': 'Now up here what\nSmith calls reality,', 'start': 917.349, 'duration': 6.673}
+{'text': 'Derrida is calling\nthe thing as it is.', 'start': 924.122, 'duration': 3.871}
+{'text': 'Thought about reality\nmerges with the experience', 'start': 928.093, 'duration': 3.47}
+{'text': 'of pure speech, which\nis an extreme case,', 'start': 931.663, 'duration': 2.903}
+{'text': 'but which really means pure\npotential, pure possibility.', 'start': 934.666, 'duration': 5.138}
+{'text': 'That kind of pure possibility.', 'start': 939.904, 'duration': 2.136}
+{'text': 'The experience of\nthis pure potential,', 'start': 942.14, 'duration': 3.437}
+{'text': 'which Smith says has never\nbeen expressed in art, which', 'start': 945.677, 'duration': 3.103}
+{'text': 'the road now conveys,\nhas been mapped out,', 'start': 948.88, 'duration': 6.073}
+{'text': 'Smith says, but not\nsocially recognized.', 'start': 955.053, 'duration': 5.005}
+{'text': "It's materially there.", 'start': 960.158, 'duration': 2.369}
+{'text': "It's been inscribed,\nmapped out, but it's not", 'start': 962.627, 'duration': 5.205}
+{'text': 'yet socially coded.', 'start': 967.932, 'duration': 1.969}
+{'text': "It's blank.", 'start': 970.001, 'duration': 1.869}
+{'text': "It's there materially, but\nit's not there semantically.", 'start': 971.97, 'duration': 3.971}
+{'text': "But it's already mapped.", 'start': 976.041, 'duration': 1.201}
+{'text': 'According to Derrida,\nthat materialization', 'start': 977.342, 'duration': 3.837}
+{'text': 'has to happen before coding.', 'start': 981.279, 'duration': 3.07}
+{'text': 'Coding is not first.', 'start': 984.449, 'duration': 2.136}
+{'text': 'Semantic is not first.', 'start': 986.685, 'duration': 1.501}
+{'text': 'First, it has to\nbe pure material.', 'start': 988.286, 'duration': 3.47}
+{'text': "And that's what the turnpike is.", 'start': 991.856, 'duration': 1.435}
+{'text': 'Inscription is potential pushing\ntoward action, Derrida says.', 'start': 993.391, 'duration': 5.739}
+{'text': 'And note, that this pushing\non is not a neutral force.', 'start': 999.23, 'duration': 6.441}
+{'text': 'It is a specific\nforce, or a vector.', 'start': 1005.771, 'duration': 3.27}
+{'text': "And in Smith's case, that\nspecificity, that vector,", 'start': 1009.141, 'duration': 6.005}
+{'text': 'is completely embedded in the\nroad and the landscape, which', 'start': 1015.246, 'duration': 5.039}
+{'text': 'is to say architecture.', 'start': 1020.385, 'duration': 2.202}
+{'text': 'So inscription here-- and\nthe important point is that', 'start': 1022.687, 'duration': 5.273}
+{'text': 'in theory and in practice--', 'start': 1028.06, 'duration': 2.903}
+{'text': 'inscription is the\npoint of articulation', 'start': 1031.063, 'duration': 3.403}
+{'text': 'between pure potential\nand expression.', 'start': 1034.566, 'duration': 2.903}
+{'text': 'Between force and form.', 'start': 1037.569, 'duration': 2.235}
+{'text': 'It does not have to\ndo with sign, meaning,', 'start': 1039.904, 'duration': 5.139}
+{'text': 'function, but rather potential.', 'start': 1045.143, 'duration': 2.737}
+{'text': 'And then just to\nconclude this first part,', 'start': 1050.882, 'duration': 2.436}
+{'text': 'I just wanted to remind you\nthat this intellectual field is', 'start': 1053.418, 'duration': 3.27}
+{'text': 'actually quite known.', 'start': 1056.788, 'duration': 1.468}
+{'text': "It's just never until\nnow been brought", 'start': 1058.356, 'duration': 6.373}
+{'text': "into architectural practice,\nwhich is what we're saying", 'start': 1064.829, 'duration': 2.203}
+{'text': 'happens.', 'start': 1067.132, 'duration': 0.868}
+{'text': "Roland Barthes\ndidn't use the word.", 'start': 1068.1, 'duration': 1.901}
+{'text': 'So this is where the\nquotation from Derrida', 'start': 1070.101, 'duration': 2.937}
+{'text': 'was published, in a\ncollection of essays.', 'start': 1073.138, 'duration': 3.47}
+{'text': 'Roland Barthes never used\nthe word inscription,', 'start': 1076.708, 'duration': 4.971}
+{'text': 'but he used the word scriptable,\nscriptable, a French neologism', 'start': 1081.779, 'duration': 5.072}
+{'text': 'as it is in English.', 'start': 1086.951, 'duration': 1.336}
+{'text': 'But he compares the scriptable\ntext to the readable text.', 'start': 1088.387, 'duration': 5.104}
+{'text': 'The readable text is a text of\npleasure, purely consumable.', 'start': 1093.591, 'duration': 4.371}
+{'text': "It's easy.", 'start': 1098.063, 'duration': 0.833}
+{'text': "It's lazy.", 'start': 1098.997, 'duration': 2.335}
+{'text': "It's the novel that you\nread to go to sleep by.", 'start': 1101.433, 'duration': 3.136}
+{'text': "That's the readable text.", 'start': 1104.669, 'duration': 1.602}
+{'text': 'The scriptable text\nactually disrupts', 'start': 1106.371, 'duration': 3.704}
+{'text': 'novelistic expectations.', 'start': 1110.175, 'duration': 4.571}
+{'text': 'It must be constantly performed.', 'start': 1114.846, 'duration': 2.269}
+{'text': 'It must be constantly\ninterpreted.', 'start': 1117.215, 'duration': 2.069}
+{'text': 'Every time you read it again and\nagain, you have to re-enact it.', 'start': 1119.384, 'duration': 3.637}
+{'text': 'And it will be different.', 'start': 1123.121, 'duration': 1.168}
+{'text': 'Because he says reading\na scriptable text', 'start': 1124.389, 'duration': 2.402}
+{'text': 'is like writing a text yourself.', 'start': 1126.891, 'duration': 2.703}
+{'text': "And it's associated not with\npleasure, but with jouissance,", 'start': 1129.694, 'duration': 3.104}
+{'text': 'which we will come back to.', 'start': 1132.898, 'duration': 1.501}
+{'text': 'A pleasure that is\nmore like a bliss,', 'start': 1134.499, 'duration': 3.937}
+{'text': 'but a bliss almost painful and\ndisruptive of expectations.', 'start': 1138.536, 'duration': 5.372}
+{'text': 'Paul de Man on the other\nhand, writing in English', 'start': 1144.009, 'duration': 3.337}
+{'text': 'for most of his\nintellectual career,', 'start': 1147.446, 'duration': 2.502}
+{'text': 'distinguished between what\nhe called phenomentality,', 'start': 1150.048, 'duration': 4.137}
+{'text': 'which is actual experience\nof certain concrete things,', 'start': 1154.285, 'duration': 5.139}
+{'text': 'and what he called the\nmateriality of inscription,', 'start': 1159.524, 'duration': 4.238}
+{'text': 'which he says has to\nbe prior to phenomenon.', 'start': 1163.862, 'duration': 3.703}
+{'text': 'He and Derrida are\nvery, very close.', 'start': 1167.665, 'duration': 1.936}
+{'text': 'The Wordsworth example I\nactually got from Paul de Man.', 'start': 1172.237, 'duration': 3.87}
+{'text': 'He talks about\nthat the scratches', 'start': 1176.207, 'duration': 1.769}
+{'text': 'on the surface of the stone\ncan be perceived as phenomenon.', 'start': 1178.076, 'duration': 5.372}
+{'text': 'You can experience them in a\nconcrete way, but to the extent', 'start': 1183.548, 'duration': 4.138}
+{'text': 'that they can be read, there\nhas to be this sedimentation', 'start': 1187.786, 'duration': 7.273}
+{'text': 'of cultural history.', 'start': 1195.159, 'duration': 1.836}
+{'text': 'There has to be the cultural\napparatus of reading itself', 'start': 1197.095, 'duration': 4.604}
+{'text': 'which is already in place.', 'start': 1201.799, 'duration': 1.469}
+{'text': "That's what the\nepitaph presupposes,", 'start': 1203.368, 'duration': 2.603}
+{'text': 'that that apparatus will be\nthere when the person comes', 'start': 1206.071, 'duration': 3.069}
+{'text': 'and performs the reading.', 'start': 1209.24, 'duration': 2.637}
+{'text': 'So again, architecture\npreceding speech.', 'start': 1211.977, 'duration': 4.871}
+{'text': 'So just a note to the\nboth of us, Michael.', 'start': 1223.421, 'duration': 2.336}
+{'text': 'At some point I\nwould like to return', 'start': 1225.857, 'duration': 1.368}
+{'text': "to this idea of the road not\ntaken out of the '60s that's", 'start': 1227.325, 'duration': 4.705}
+{'text': 'happening again now.', 'start': 1232.13, 'duration': 2.336}
+{'text': 'So if Michael gave\nyou a kind of overview', 'start': 1234.566, 'duration': 4.571}
+{'text': 'of the intellectual genesis\nof our curatorial effort,', 'start': 1239.237, 'duration': 5.506}
+{'text': 'I would like to give\nyou a kind of sense', 'start': 1244.843, 'duration': 3.337}
+{'text': 'of some of our\nearly conversations', 'start': 1248.28, 'duration': 1.868}
+{'text': "as we're simply surveying\nthe visual field of artifacts", 'start': 1250.248, 'duration': 3.971}
+{'text': 'and examining\ncontemporary practice.', 'start': 1254.319, 'duration': 3.637}
+{'text': 'And I would say that the origins\nof the show in that sense,', 'start': 1258.056, 'duration': 3.237}
+{'text': 'in a kind of optical sense,\ndeveloped as this suspicion', 'start': 1261.393, 'duration': 4.17}
+{'text': 'or doubt about a cliche\nthat is almost totally', 'start': 1265.664, 'duration': 4.104}
+{'text': 'dominant in its characterization\nof the architectural field.', 'start': 1269.868, 'duration': 3.703}
+{'text': 'And the cliche goes\nsomething like this--', 'start': 1273.671, 'duration': 2.77}
+{'text': 'architecture is a centerless\nfield at the moment.', 'start': 1276.541, 'duration': 4.338}
+{'text': 'And this is a kind\nof new condition,', 'start': 1280.979, 'duration': 1.401}
+{'text': "but it's centerless and\nanything is possible.", 'start': 1282.481, 'duration': 3.836}
+{'text': 'And that perhaps in our\ncontemporary condition,', 'start': 1286.418, 'duration': 2.401}
+{'text': 'architecture has\nlost all measure', 'start': 1288.92, 'duration': 2.836}
+{'text': 'except an oscillation between\nthe spectacular and the banal.', 'start': 1291.856, 'duration': 5.306}
+{'text': 'So this collage by OMA is kind\nof an emblematic expression', 'start': 1297.262, 'duration': 5.305}
+{'text': 'of this cliche, architecture\nas a sort of centerless field', 'start': 1302.667, 'duration': 3.17}
+{'text': 'in which anything goes.', 'start': 1305.937, 'duration': 1.868}
+{'text': 'This of course was produced\nas a kind of diagram', 'start': 1307.905, 'duration': 2.97}
+{'text': 'to advocate on behalf of\ntheir Dubai Renaissance', 'start': 1310.976, 'duration': 3.236}
+{'text': 'project, which is\nsometimes known', 'start': 1314.312, 'duration': 1.268}
+{'text': 'as the Dubai slab, the big\nwhite thing in the middle.', 'start': 1315.68, 'duration': 3.07}
+{'text': 'And according to OMA, if we\nadopt the view of this cliche,', 'start': 1318.85, 'duration': 4.805}
+{'text': 'there are only two\nrational design options.', 'start': 1323.755, 'duration': 3.203}
+{'text': 'We can either compete on\nthe grounds of spectacle', 'start': 1327.059, 'duration': 2.736}
+{'text': 'and make better icons.', 'start': 1329.895, 'duration': 1.133}
+{'text': "That's what everyone\nin the background", 'start': 1331.128, 'duration': 1.469}
+{'text': "is doing in OMA's collage.", 'start': 1332.697, 'duration': 4.104}
+{'text': 'Or we can design voids\nin the visual field', 'start': 1336.901, 'duration': 3.804}
+{'text': 'and perform a kind\nof act of erasure.', 'start': 1340.805, 'duration': 4.738}
+{'text': 'Central to this view is the idea\nthat the canon has collapsed.', 'start': 1345.643, 'duration': 7.241}
+{'text': "That this let's say core group\nof mostly Italian buildings", 'start': 1352.984, 'duration': 4.204}
+{'text': "from 1500 to 1950, let's\nAlberti to Tehrani,", 'start': 1357.288, 'duration': 5.106}
+{'text': 'is no longer studied\nin such a way', 'start': 1362.494, 'duration': 3.503}
+{'text': 'that it would give\nus a kind of measure', 'start': 1366.097, 'duration': 2.302}
+{'text': 'other than this oscillation\nbetween spectacle and banality.', 'start': 1368.499, 'duration': 7.742}
+{'text': 'And so we would like to\nsort of respectfully object', 'start': 1376.341, 'duration': 4.671}
+{'text': 'to this view.', 'start': 1381.112, 'duration': 1.301}
+{'text': "It's quite common, but we would\nlike to propose something else.", 'start': 1382.513, 'duration': 4.305}
+{'text': 'And we would like to\ndo so on two grounds.', 'start': 1386.918, 'duration': 4.104}
+{'text': 'The first is this.', 'start': 1391.122, 'duration': 1.902}
+{'text': "And so, of course, this is\none of Piranesi's Vedute.", 'start': 1393.124, 'duration': 3.67}
+{'text': 'This is his depiction of the\nTemple of Minerva Medica.', 'start': 1396.894, 'duration': 4.104}
+{'text': 'And I think for\nus this indicates', 'start': 1401.098, 'duration': 3.237}
+{'text': 'that the canon has always\nbeen represented back', 'start': 1404.435, 'duration': 2.603}
+{'text': 'to the discipline as being\nin a state of collapse.', 'start': 1407.138, 'duration': 3.804}
+{'text': "So let's say from\nthe very moment", 'start': 1411.042, 'duration': 2.969}
+{'text': 'of the invention of\nthe canon, per se,', 'start': 1414.111, 'duration': 3.104}
+{'text': 'and its various inventions\nin the 18th century,', 'start': 1417.315, 'duration': 2.736}
+{'text': 'it was being projected\nback to architects', 'start': 1420.151, 'duration': 1.802}
+{'text': 'through drawing as something\nin a disordered state', 'start': 1422.053, 'duration': 4.505}
+{'text': 'that must be rationalized\nfrom this state of abjection,', 'start': 1426.658, 'duration': 3.97}
+{'text': 'and cleaned up\nand taken up again', 'start': 1430.728, 'duration': 2.803}
+{'text': 'as a kind of affirmative\nset of principles.', 'start': 1433.631, 'duration': 3.337}
+{'text': 'So, of course,\nPiranesi is not alone', 'start': 1437.068, 'duration': 2.136}
+{'text': 'in this kind of depiction\nof the canon as something', 'start': 1439.304, 'duration': 2.335}
+{'text': 'that must be recovered\nfrom an abject state', 'start': 1441.739, 'duration': 2.803}
+{'text': 'through difficulty\nand rationalization.', 'start': 1444.642, 'duration': 4.838}
+{'text': 'And this is sort of always the\nway in which it arrives to us,', 'start': 1449.58, 'duration': 3.271}
+{'text': 'and we just need to\nsort of work harder', 'start': 1452.951, 'duration': 1.935}
+{'text': 'to discern its patterns\nand tendencies.', 'start': 1454.986, 'duration': 4.438}
+{'text': 'Secondly, aside from the\nsort of historical truism', 'start': 1459.524, 'duration': 4.37}
+{'text': 'that the canon is always\nin a state of collapse,', 'start': 1463.995, 'duration': 2.636}
+{'text': 'we would like to claim that\nwe do see fairly evident order', 'start': 1466.731, 'duration': 4.004}
+{'text': 'and rationality in the field.', 'start': 1470.835, 'duration': 3.169}
+{'text': "It's simply not a form\nof order and rationality", 'start': 1474.105, 'duration': 3.87}
+{'text': 'that could be so\neasily structured', 'start': 1478.075, 'duration': 1.702}
+{'text': 'by the core periphery model that\nwould be indicated by a cannon', 'start': 1479.877, 'duration': 4.838}
+{'text': 'or a kind of collapse thereof.', 'start': 1484.815, 'duration': 3.938}
+{'text': "So we'll just say that the issue\nof the canon is moot for us", 'start': 1488.853, 'duration': 3.303}
+{'text': 'or maybe not a part of\nthis discussion, per se.', 'start': 1492.257, 'duration': 3.903}
+{'text': "And we're interested\nin a field of relations", 'start': 1496.26, 'duration': 2.603}
+{'text': 'that are more\nhorizontal, that could', 'start': 1498.963, 'duration': 2.102}
+{'text': 'be included under this sort\nof umbrella term, resemblance.', 'start': 1501.165, 'duration': 4.071}
+{'text': 'Or at least resemblance was\na kind of guiding principle', 'start': 1505.336, 'duration': 2.536}
+{'text': 'as we started to detect order\nand repetition in the field', 'start': 1507.972, 'duration': 6.54}
+{'text': 'as we saw it.', 'start': 1514.612, 'duration': 1.001}
+{'text': "Or at least the field\nas it's represented", 'start': 1515.713, 'duration': 1.502}
+{'text': 'in the Druker Gallery.', 'start': 1517.315, 'duration': 2.035}
+{'text': 'This term resemblance\nis important for us', 'start': 1519.45, 'duration': 3.003}
+{'text': 'because it indicates this kind\nof appeal to something shared.', 'start': 1522.553, 'duration': 3.804}
+{'text': 'An appeal to a certain\nform of cultural agreement', 'start': 1526.457, 'duration': 2.47}
+{'text': 'that precedes speech.', 'start': 1529.027, 'duration': 2.302}
+{'text': 'An agreement that is\npassed between authors', 'start': 1531.429, 'duration': 2.403}
+{'text': 'and establishes continuity\nbetween two things.', 'start': 1533.932, 'duration': 4.104}
+{'text': 'And resemblance for us can start\nin a very simple way, simply', 'start': 1538.136, 'duration': 4.504}
+{'text': 'with the acknowledgment\nof a kind of visual rhyme.', 'start': 1542.74, 'duration': 2.77}
+{'text': 'Oh yeah.', 'start': 1545.61, 'duration': 1.101}
+{'text': 'We have red and green,\nand green is far and away', 'start': 1546.811, 'duration': 2.469}
+{'text': 'the better pointer.', 'start': 1549.38, 'duration': 2.603}
+{'text': 'Here we go.', 'start': 1552.083, 'duration': 2.269}
+{'text': 'So it begins with\nthe acknowledgment', 'start': 1554.452, 'duration': 2.102}
+{'text': 'of a kind of visual rhyme.', 'start': 1556.654, 'duration': 3.103}
+{'text': 'And it need not be a\nkind of high genre rhyme.', 'start': 1559.857, 'duration': 4.038}
+{'text': 'Low is absolutely fine with us.', 'start': 1563.995, 'duration': 1.535}
+{'text': 'It can even be bodily.', 'start': 1565.63, 'duration': 1.034}
+{'text': 'So in this case,\nwe would say you', 'start': 1566.765, 'duration': 1.935}
+{'text': 'can see a kind of rhyme that\nhas to do with protuberances', 'start': 1568.8, 'duration': 4.637}
+{'text': 'and finger like digitation\nbeing produced by architects', 'start': 1573.537, 'duration': 3.37}
+{'text': 'and sort of differentiating the\ndetailing in their buildings.', 'start': 1577.007, 'duration': 3.972}
+{'text': 'And although the rhyme may\nstart at the level of intuition', 'start': 1581.079, 'duration': 3.87}
+{'text': 'and a kind of low\ngenre, we think', 'start': 1585.049, 'duration': 3.103}
+{'text': "it's fairly easy to\nstart to build up", 'start': 1588.252, 'duration': 2.27}
+{'text': 'a degree of sophistication\nin identifying', 'start': 1590.622, 'duration': 3.603}
+{'text': 'these kinds of through\nlines or continuities', 'start': 1594.326, 'duration': 2.769}
+{'text': 'in the work of\ncontemporary practices.', 'start': 1597.195, 'duration': 3.871}
+{'text': 'And to do that\nwork, we might lean', 'start': 1601.166, 'duration': 1.902}
+{'text': "on a text like\nFoucault's discourse", 'start': 1603.168, 'duration': 2.902}
+{'text': 'on similitude in\nthe Renaissance,', 'start': 1606.171, 'duration': 2.034}
+{'text': 'which, of course, is all about\nthese sort of modes and methods', 'start': 1608.305, 'duration': 5.473}
+{'text': 'of establishing resemblance.', 'start': 1613.878, 'duration': 3.237}
+{'text': 'And this speciating resemblance\ninto different techniques', 'start': 1617.215, 'duration': 3.103}
+{'text': 'that we can sort of identify\napart from one another.', 'start': 1620.418, 'duration': 5.171}
+{'text': "And so I'm just\ngoing to take you", 'start': 1625.689, 'duration': 1.802}
+{'text': 'through some\nsnippets of the show', 'start': 1627.591, 'duration': 2.203}
+{'text': 'and start to call out these\nforms of resemblance that', 'start': 1629.894, 'duration': 5.038}
+{'text': 'establish little through lines.', 'start': 1635.032, 'duration': 2.336}
+{'text': 'And then after that, Michael\nwill situate those smaller', 'start': 1637.468, 'duration': 4.272}
+{'text': 'similarities inside a kind\nof much bigger field of ideas', 'start': 1641.84, 'duration': 4.604}
+{'text': 'and possible positions.', 'start': 1646.544, 'duration': 3.604}
+{'text': "So all of these that\nI'm going to show--", 'start': 1650.248, 'duration': 1.969}
+{'text': "I'll show four of them now--\nare snippets from the wall.", 'start': 1652.317, 'duration': 3.336}
+{'text': "And I'd like to call out these\nsort of three way continuities.", 'start': 1655.753, 'duration': 4.538}
+{'text': "So in the center we have\nEllie Abron's Inside Things.", 'start': 1660.391, 'duration': 4.238}
+{'text': 'And for us, this\nestablishes the proposition', 'start': 1664.729, 'duration': 2.969}
+{'text': 'that the architectural\ndigit can clasp.', 'start': 1667.798, 'duration': 3.237}
+{'text': 'That it affords\na kind of support', 'start': 1671.135, 'duration': 1.902}
+{'text': 'by entanglement and intimacy.', 'start': 1673.137, 'duration': 2.836}
+{'text': "And then of course Mack Scogin\nand Merrill Elam's Wolfsburg", 'start': 1676.073, 'duration': 5.673}
+{'text': 'Competition entry project\ntakes on that idea of support', 'start': 1681.846, 'duration': 5.605}
+{'text': 'as a kind of\nliteral proposition.', 'start': 1687.551, 'duration': 2.47}
+{'text': 'To lift the plinth that sort\nof elevated above the city.', 'start': 1690.121, 'duration': 5.305}
+{'text': "And it's interesting here that\nthis sort of bodily digitation", 'start': 1695.526, 'duration': 4.305}
+{'text': 'is support for a kind of\nunadulterated architectural', 'start': 1699.931, 'duration': 4.404}
+{'text': 'plinth that can be\nre-read as a kind of head', 'start': 1704.436, 'duration': 3.102}
+{'text': 'because of the legs.', 'start': 1707.638, 'duration': 1.302}
+{'text': 'And of course it\nwould be the plinth', 'start': 1709.04, 'duration': 2.602}
+{'text': "that is identified as\nthe head, because it's", 'start': 1711.743, 'duration': 1.935}
+{'text': 'this sort of seat of\nnon bodily knowledge', 'start': 1713.778, 'duration': 3.07}
+{'text': 'atop a bodily support.', 'start': 1716.948, 'duration': 2.202}
+{'text': 'On the other side we\nhave Outpost Office.', 'start': 1719.25, 'duration': 3.904}
+{'text': 'This is a selection\nfrom their series called', 'start': 1723.254, 'duration': 2.536}
+{'text': 'Computer Architecture,\nwhere there', 'start': 1725.89, 'duration': 2.169}
+{'text': 'is no longer this separation\nbetween architecture', 'start': 1728.159, 'duration': 2.836}
+{'text': 'and its bodily support, but\ninstead the entire building', 'start': 1731.095, 'duration': 4.304}
+{'text': 'has become enfolded in a\nkind of clasping digit.', 'start': 1735.5, 'duration': 4.404}
+{'text': 'The exteriorisation\nof the support', 'start': 1740.004, 'duration': 1.669}
+{'text': 'disappears in favor of these\nsort of internal pleats', 'start': 1741.773, 'duration': 2.835}
+{'text': 'that might organize the\nsection of the building.', 'start': 1744.709, 'duration': 4.037}
+{'text': 'So for Foucault, this\nmode of similitude', 'start': 1748.846, 'duration': 3.237}
+{'text': 'would be called analogy.', 'start': 1752.183, 'duration': 2.102}
+{'text': 'That each of these is related\nto the other because of the way', 'start': 1754.385, 'duration': 3.137}
+{'text': 'they are constantly\nmaking reference', 'start': 1757.622, 'duration': 1.701}
+{'text': 'to the body as a shared form\nof agreement between them.', 'start': 1759.423, 'duration': 5.073}
+{'text': 'There is another\nkind of resemblance', 'start': 1764.596, 'duration': 2.368}
+{'text': 'that we could call convenience.', 'start': 1767.064, 'duration': 3.77}
+{'text': 'And convenience would have to\ndo with shared forces operating', 'start': 1770.934, 'duration': 4.272}
+{'text': 'on the same set of material.', 'start': 1775.306, 'duration': 3.169}
+{'text': 'Foucault would call it\nan adjacency of places', 'start': 1778.576, 'duration': 3.203}
+{'text': 'so that their edges touch,\nand movement, influence,', 'start': 1781.879, 'duration': 3.704}
+{'text': 'and passions can be communicated\nbetween these places.', 'start': 1785.683, 'duration': 4.238}
+{'text': "So for us, Johnston\nMarklee's Hut House", 'start': 1790.021, 'duration': 2.469}
+{'text': 'would occupy a kind\nof central position', 'start': 1792.59, 'duration': 3.904}
+{'text': 'in this sort of through\nline of resemblance', 'start': 1796.594, 'duration': 3.57}
+{'text': "in that there's a rotation that\nis kind of playing on the found", 'start': 1800.264, 'duration': 4.271}
+{'text': 'stuff of the eidetic house.', 'start': 1804.635, 'duration': 2.336}
+{'text': 'That they are torquing sort\nof roofs, walls, and windows.', 'start': 1807.071, 'duration': 3.97}
+{'text': "And it's the same material that\nis taken up by Sean Canty's Ja", 'start': 1811.141, 'duration': 4.672}
+{'text': 'House, also in a rotation.', 'start': 1815.913, 'duration': 2.57}
+{'text': "And similarly, in one of the\nartifacts from Erin Besler's", 'start': 1818.583, 'duration': 4.604}
+{'text': 'Low Fidelity series of\nprojects, where again,', 'start': 1823.288, 'duration': 3.035}
+{'text': 'a kind of shearing\nand rotation are', 'start': 1826.423, 'duration': 1.769}
+{'text': 'operating on this found and\nknown stuff of the house.', 'start': 1828.292, 'duration': 4.938}
+{'text': 'And it is that kind of shared\nmaterial and shared operation', 'start': 1833.33, 'duration': 2.937}
+{'text': 'that would establish the kind\nof convenient relationship', 'start': 1836.367, 'duration': 3.17}
+{'text': 'between these.', 'start': 1839.637, 'duration': 2.869}
+{'text': 'This is a kind of\nselection of what', 'start': 1842.606, 'duration': 2.002}
+{'text': 'we would call trabeated stacks.', 'start': 1844.708, 'duration': 2.203}
+{'text': 'And here maybe we\ncould borrow the term', 'start': 1847.011, 'duration': 3.203}
+{'text': 'that Foucault uses to describe\nanother kind of resemblance--', 'start': 1850.314, 'duration': 3.704}
+{'text': 'emulation, which is a form of\nresemblance without contact.', 'start': 1854.118, 'duration': 4.437}
+{'text': 'So if convenience requires\nthis sort of superimposition', 'start': 1858.655, 'duration': 3.872}
+{'text': 'of places and\nshared materiality,', 'start': 1862.627, 'duration': 3.136}
+{'text': 'emulation does not\nrequire that in order', 'start': 1865.863, 'duration': 2.036}
+{'text': 'to set up this field of\nrelatedness between projects.', 'start': 1867.999, 'duration': 5.038}
+{'text': 'Instead, they can work on\nvery different material', 'start': 1873.137, 'duration': 3.704}
+{'text': 'and sort of reflect one\nanother as a kind of gaze', 'start': 1876.941, 'duration': 3.536}
+{'text': 'in the mirror.', 'start': 1880.577, 'duration': 1.136}
+{'text': 'So this is Ensamble Studio,\nthe Hemeroscopium House.', 'start': 1881.813, 'duration': 4.27}
+{'text': 'This is our very own Jennifer\nBonner from Best Sandwiches.', 'start': 1886.183, 'duration': 4.104}
+{'text': 'I believe this is\nthe Grilled Cheese.', 'start': 1890.387, 'duration': 2.737}
+{'text': 'And Farshid Moussavi is\nagain, one of our very own--', 'start': 1893.224, 'duration': 3.336}
+{'text': 'Divine Folly.', 'start': 1896.66, 'duration': 1.368}
+{'text': 'So in each case there is\na very clear reflection', 'start': 1898.129, 'duration': 2.536}
+{'text': 'of this idea of\nthe trabeated stack', 'start': 1900.765, 'duration': 2.135}
+{'text': 'and yet, sandwich is\nradically unlike fragment', 'start': 1903.0, 'duration': 3.47}
+{'text': 'of infrastructure is radically\nunlike the kind of undulating', 'start': 1906.57, 'duration': 4.305}
+{'text': 'and purely formal perimeter\nof the concrete slabs', 'start': 1910.975, 'duration': 4.437}
+{'text': 'in the Follies.', 'start': 1915.512, 'duration': 1.136}
+{'text': 'So they do not require that\nshared overlap of place', 'start': 1916.748, 'duration': 2.369}
+{'text': 'in order to perform\nthis reflection.', 'start': 1919.217, 'duration': 3.436}
+{'text': 'And lastly, we would talk\nabout this more distant form', 'start': 1922.753, 'duration': 4.104}
+{'text': 'of similitude that we\ncould term sympathy.', 'start': 1926.957, 'duration': 4.172}
+{'text': 'And this is a kind of drawing\nthings toward one another', 'start': 1931.229, 'duration': 3.102}
+{'text': 'in an exterior and\nvisible movement.', 'start': 1934.431, 'duration': 3.371}
+{'text': "So here I would like to begin\nwith Toshiko Mori's Dialogue", 'start': 1937.902, 'duration': 5.905}
+{'text': 'in Details, where\nshe is examining', 'start': 1943.907, 'duration': 2.87}
+{'text': 'several important\nbuildings, but only', 'start': 1946.877, 'duration': 2.636}
+{'text': 'extracting a very small slice\nof their system of construction', 'start': 1949.613, 'duration': 6.04}
+{'text': 'and setting it\nfree in a gallery.', 'start': 1955.753, 'duration': 2.002}
+{'text': 'Painting it entirely\nwhite so that it', 'start': 1957.855, 'duration': 2.403}
+{'text': 'becomes being-like or\nfigure-like in its presence.', 'start': 1960.358, 'duration': 4.271}
+{'text': 'And it is that kind of\nseparation then of entities', 'start': 1964.729, 'duration': 3.336}
+{'text': 'sort of pulled out\nfrom context that', 'start': 1968.165, 'duration': 2.77}
+{'text': 'allows us to understand a kind\nof sympathetic relationship', 'start': 1971.035, 'duration': 3.169}
+{'text': 'between figures.', 'start': 1974.304, 'duration': 1.836}
+{'text': "Toshiko's Dialogue in Details,\nChrist Gantenbein's Athens", 'start': 1976.24, 'duration': 4.805}
+{'text': 'Series of occasional tables\nthat similarly establish', 'start': 1981.145, 'duration': 3.27}
+{'text': 'this kind of figural\ndistance that then allows', 'start': 1984.515, 'duration': 2.769}
+{'text': "us to relate them as characters\nin a room to Toshiko's project.", 'start': 1987.384, 'duration': 4.838}
+{'text': 'And then on the\nvery end, this is', 'start': 1992.322, 'duration': 2.17}
+{'text': 'a project by Central\nStandard Office', 'start': 1994.592, 'duration': 1.968}
+{'text': 'and Kelly Bair called The\nCat That Ate the Canary.', 'start': 1996.66, 'duration': 3.404}
+{'text': 'These are all\nradically different', 'start': 2000.164, 'duration': 1.568}
+{'text': "in terms of their\nfunction and let's say", 'start': 2001.832, 'duration': 4.572}
+{'text': 'kind of didactic machinery.', 'start': 2006.504, 'duration': 1.835}
+{'text': 'This is an installation.', 'start': 2008.439, 'duration': 0.901}
+{'text': 'This is furniture.', 'start': 2009.44, 'duration': 0.868}
+{'text': 'This is a bird house.', 'start': 2010.408, 'duration': 1.434}
+{'text': "But it's this\nmechanism of sympathy", 'start': 2011.942, 'duration': 2.403}
+{'text': 'that allows these figural things\nby virtue of their standing', 'start': 2014.445, 'duration': 3.637}
+{'text': 'apart to develop a\nkind of relationship.', 'start': 2018.182, 'duration': 3.637}
+{'text': 'So now what we want to\ndo is make the claim', 'start': 2028.292, 'duration': 3.036}
+{'text': 'and try to convince you briefly\nthat despite this wide variety', 'start': 2031.428, 'duration': 5.906}
+{'text': "and heterogeneity\nof work that we're", 'start': 2037.434, 'duration': 2.002}
+{'text': 'drawing from, that there\nis a mechanism somehow,', 'start': 2039.537, 'duration': 7.573}
+{'text': 'a deep structure that actually\ngenerates that these projects', 'start': 2047.21, 'duration': 7.074}
+{'text': 'have in common.', 'start': 2054.384, 'duration': 1.302}
+{'text': 'And this deep structure, or what\nI earlier called a materiality,', 'start': 2055.786, 'duration': 5.039}
+{'text': 'is common across that field.', 'start': 2060.925, 'duration': 4.571}
+{'text': 'In 1968, A.J. Greimas provided\na kind of little machine', 'start': 2065.596, 'duration': 9.442}
+{'text': 'that he called the\nsemiotic square.', 'start': 2075.138, 'duration': 1.936}
+{'text': 'Of course this contradicts\nall the anti-semiotic rhetoric', 'start': 2077.174, 'duration': 3.003}
+{'text': "I was talking about\nearlier, but it's a matter", 'start': 2080.277, 'duration': 2.503}
+{'text': 'of just using the term.', 'start': 2082.88, 'duration': 1.268}
+{'text': "He's still using\nthe term semiotic,", 'start': 2084.248, 'duration': 2.269}
+{'text': "which we're claiming that\nthe structure of the square", 'start': 2086.617, 'duration': 2.503}
+{'text': 'works in a non-semiotic\nway as well.', 'start': 2089.22, 'duration': 2.268}
+{'text': "So I hadn't realized\nthat before.", 'start': 2091.588, 'duration': 2.203}
+{'text': 'I just read that word.', 'start': 2093.891, 'duration': 0.968}
+{'text': 'The square is designed to\ndiagram the way in which', 'start': 2098.428, 'duration': 3.905}
+{'text': 'from a single starting\npoint, that an entire complex', 'start': 2102.433, 'duration': 5.773}
+{'text': 'of permutations, positions,\na sort of combinatory', 'start': 2108.306, 'duration': 4.604}
+{'text': 'of positions can be derived.', 'start': 2113.01, 'duration': 2.602}
+{'text': "It's essentially\na sort of updating", 'start': 2115.712, 'duration': 4.038}
+{'text': 'of actually an Aristotelian\nlogic of contradictions', 'start': 2119.85, 'duration': 5.105}
+{'text': 'and contraries, where a\nbeginning term always,', 'start': 2125.056, 'duration': 5.071}
+{'text': 'of course, produces its other.', 'start': 2130.227, 'duration': 2.636}
+{'text': 'But any term will not only\nhave its direct opposite,', 'start': 2132.963, 'duration': 5.406}
+{'text': 'or its contradiction,\nbut will also', 'start': 2138.469, 'duration': 6.306}
+{'text': 'produce other oppositions\nthat also oppose', 'start': 2144.875, 'duration': 6.607}
+{'text': 'its own first contradiction.', 'start': 2151.582, 'duration': 2.502}
+{'text': 'Rather than go through\nthe mathematics of this,', 'start': 2154.185, 'duration': 3.536}
+{'text': "I'm going to give a very\nquick example of how", 'start': 2157.821, 'duration': 2.437}
+{'text': "it works with something that\nI hope you're familiar with,", 'start': 2160.358, 'duration': 2.836}
+{'text': "which is Claude Levi Strauss'\nThe Raw and the Cooked.", 'start': 2163.294, 'duration': 3.803}
+{'text': "Now in Levi Strauss' work, of\ncourse, The Raw and the Cooked,", 'start': 2167.197, 'duration': 5.072}
+{'text': 'raw food and cooked food by the\nend stand for an entire network', 'start': 2172.369, 'duration': 5.807}
+{'text': 'of social and familial\nrelationships that structure', 'start': 2178.276, 'duration': 4.537}
+{'text': 'not only culinary efforts, but\nthings like the incest taboo,', 'start': 2182.913, 'duration': 5.305}
+{'text': "and which cousin can you\nmarry and which you can't.", 'start': 2188.318, 'duration': 2.737}
+{'text': "And it's a very\nelaborate structure", 'start': 2191.155, 'duration': 2.969}
+{'text': 'that finds its root in\nwhat Levi Strauss calls', 'start': 2194.225, 'duration': 4.937}
+{'text': 'a culinary triangle.', 'start': 2199.262, 'duration': 1.335}
+{'text': 'With Levi Strauss it only\nhas three terms, the raw', 'start': 2200.697, 'duration': 3.637}
+{'text': 'and its opposite, the cooked.', 'start': 2204.434, 'duration': 2.737}
+{'text': "And then something that Levi\nStrauss says and he's already", 'start': 2207.271, 'duration': 3.102}
+{'text': 'doing the structuralist\nright thing by saying,', 'start': 2210.474, 'duration': 2.803}
+{'text': 'well anything that\nhas its opposite', 'start': 2213.377, 'duration': 3.137}
+{'text': 'will produce other\nkinds of oppositions.', 'start': 2216.614, 'duration': 2.302}
+{'text': 'So the raw and the rotten,\nor the cooked and the rotten.', 'start': 2219.016, 'duration': 3.27}
+{'text': 'So for Levi Strauss,\nyou get this triangle.', 'start': 2222.386, 'duration': 2.736}
+{'text': "What Greimas does is\nsay that actually it's", 'start': 2225.222, 'duration': 2.903}
+{'text': 'the square that will\nproduce an even more', 'start': 2228.225, 'duration': 4.538}
+{'text': 'interesting fourth term.', 'start': 2232.863, 'duration': 2.802}
+{'text': 'Because if the cooked is\nthe opposite of the raw,', 'start': 2235.766, 'duration': 4.905}
+{'text': 'this unknown fourth\nterm here would', 'start': 2240.771, 'duration': 3.703}
+{'text': 'be something like a stronger\npositively anti raw.', 'start': 2244.574, 'duration': 6.707}
+{'text': "And Levi Strauss\ndidn't suggest it,", 'start': 2251.381, 'duration': 2.103}
+{'text': 'but the point is that\nto use the Greimas,', 'start': 2253.584, 'duration': 4.571}
+{'text': 'your mind immediately\nstarts putting together', 'start': 2258.256, 'duration': 2.836}
+{'text': 'other possible logics.', 'start': 2261.192, 'duration': 1.968}
+{'text': "So I'm suggesting\nfermented, which", 'start': 2263.26, 'duration': 2.436}
+{'text': 'is neither cooked nor raw,\nbut also not quite rotten.', 'start': 2265.796, 'duration': 4.438}
+{'text': "And what's interesting\nabout it is that it", 'start': 2270.334, 'duration': 2.135}
+{'text': 'is related to the rotten.', 'start': 2272.569, 'duration': 2.102}
+{'text': "It's boiled, right?", 'start': 2274.771, 'duration': 3.104}
+{'text': "But it's also in a way related\nas a contrary to the cooked,", 'start': 2277.975, 'duration': 4.47}
+{'text': "because it's a different\nway of consuming food.", 'start': 2282.546, 'duration': 4.271}
+{'text': "And you can't consume either,\nat least in this case.", 'start': 2286.917, 'duration': 2.603}
+{'text': "You couldn't consume\neither raw or rotten.", 'start': 2289.62, 'duration': 3.003}
+{'text': 'So you get a highly mobile,\na highly dynamic field.', 'start': 2292.723, 'duration': 6.373}
+{'text': "And it's just this\nkind of field that we", 'start': 2299.196, 'duration': 2.769}
+{'text': 'wanted to use to structure the\nwork that Andrew just sampled.', 'start': 2302.065, 'duration': 7.875}
+{'text': 'We started in a\ndialectical opposition', 'start': 2310.04, 'duration': 4.104}
+{'text': 'that we thought all\narchitecture had.', 'start': 2314.244, 'duration': 2.87}
+{'text': "And that's the opposition\nbetween the transcendental", 'start': 2317.214, 'duration': 3.003}
+{'text': 'and the imminent.', 'start': 2320.317, 'duration': 0.6}
+{'text': "It's in philosophy.", 'start': 2321.017, 'duration': 1.069}
+{'text': "It's in Aristotle.", 'start': 2322.186, 'duration': 1.034}
+{'text': "It's also in architecture.", 'start': 2323.32, 'duration': 2.135}
+{'text': 'The imminent for\nus is represented', 'start': 2325.555, 'duration': 1.436}
+{'text': 'by this casting of Ensamble.', 'start': 2327.091, 'duration': 4.237}
+{'text': 'Whereas traditional\ninterpretation', 'start': 2331.428, 'duration': 2.303}
+{'text': 'would go back to the\narchitectural image,', 'start': 2333.831, 'duration': 1.801}
+{'text': 'to its signifiers, to\nits sensory pleasure,', 'start': 2335.733, 'duration': 3.603}
+{'text': 'but the image here by\ncontrast, is produced.', 'start': 2339.437, 'duration': 4.303}
+{'text': 'For example, from the tug\nof gravity on the concrete,', 'start': 2343.84, 'duration': 5.806}
+{'text': 'which of course has the earth.', 'start': 2349.746, 'duration': 2.57}
+{'text': 'You dig out a hole\nand pour in this slab,', 'start': 2352.416, 'duration': 3.937}
+{'text': 'and then remove the\nearth, or actually', 'start': 2356.453, 'duration': 2.136}
+{'text': 'raise it up from the earth,\nbut the tug of gravity', 'start': 2358.689, 'duration': 3.437}
+{'text': 'gives it this kind of\nparticular image on the button.', 'start': 2362.226, 'duration': 3.269}
+{'text': 'Or the heat transfers between\nthe concrete and the earth that', 'start': 2365.595, 'duration': 3.437}
+{'text': 'causes certain chemical\nmutations and colorings', 'start': 2369.133, 'duration': 3.402}
+{'text': 'and different hardnesses.', 'start': 2372.635, 'duration': 3.371}
+{'text': 'So this exchange of heat.', 'start': 2376.106, 'duration': 1.368}
+{'text': 'In other examples we\nhave this propagation', 'start': 2377.574, 'duration': 2.77}
+{'text': 'of light from unseen sources.', 'start': 2380.444, 'duration': 4.138}
+{'text': 'So all of these kind of\nearthy, bodily, phenomenal,', 'start': 2384.682, 'duration': 4.771}
+{'text': 'and sometimes even\ncosmic considerations', 'start': 2389.553, 'duration': 4.371}
+{'text': 'that lead to almost--', 'start': 2394.024, 'duration': 2.269}
+{'text': 'and if we wanted to think about\narchitecture before speech.', 'start': 2396.393, 'duration': 3.504}
+{'text': "In this case, it's almost--", 'start': 2399.997, 'duration': 2.302}
+{'text': 'In the case of the\nimminent category,', 'start': 2402.399, 'duration': 3.67}
+{'text': "it's almost a kind of\ngrunting, babbling,", 'start': 2406.169, 'duration': 2.336}
+{'text': 'stuttering, as before speech\nin that almost archaic sense.', 'start': 2408.605, 'duration': 6.173}
+{'text': 'You know, the direct\nopposite of that', 'start': 2414.878, 'duration': 1.635}
+{'text': "again might be something\nlike Justin Marklee's houses.", 'start': 2416.613, 'duration': 4.272}
+{'text': 'And this may not\neven be the best one', 'start': 2420.985, 'duration': 2.401}
+{'text': 'they were calling\ntranscendental,', 'start': 2423.486, 'duration': 1.602}
+{'text': 'if what we mean\nby that is a kind', 'start': 2425.188, 'duration': 2.603}
+{'text': 'of attention to\nform and process,', 'start': 2427.891, 'duration': 3.838}
+{'text': 'but also Boolean operations.', 'start': 2431.829, 'duration': 2.101}
+{'text': 'Boolean is just like when\nyou use a search engine,', 'start': 2434.03, 'duration': 2.27}
+{'text': 'you can say this and\nthat, or this or that.', 'start': 2436.4, 'duration': 3.703}
+{'text': "And you can see here,\nit's this and this again,", 'start': 2440.203, 'duration': 3.971}
+{'text': "or it's this or this one.", 'start': 2444.274, 'duration': 1.903}
+{'text': 'And you get in these\nkind of series.', 'start': 2446.277, 'duration': 1.401}
+{'text': "So what's interesting\nis Johnston Marklee", 'start': 2447.778, 'duration': 2.402}
+{'text': 'always do about four\nversions of a single project', 'start': 2450.28, 'duration': 4.472}
+{'text': 'using the same elements.', 'start': 2454.852, 'duration': 2.135}
+{'text': "And that's part of what\nwe're calling transcendental,", 'start': 2457.087, 'duration': 2.369}
+{'text': 'because it has to do with this\ncertain kind of very high level', 'start': 2459.556, 'duration': 6.64}
+{'text': 'mimesis.', 'start': 2466.296, 'duration': 1.001}
+{'text': 'The other examples we\ngive are labyrinths', 'start': 2467.397, 'duration': 2.503}
+{'text': 'that are digitally generated,\nor stochastic patterns', 'start': 2470.0, 'duration': 3.637}
+{'text': 'in elevation.', 'start': 2473.737, 'duration': 2.236}
+{'text': 'This is very divorced from\nthe organically related frames', 'start': 2476.073, 'duration': 4.404}
+{'text': 'and cycles of the imminent.', 'start': 2480.577, 'duration': 2.069}
+{'text': "So that's our first dialectic.", 'start': 2482.746, 'duration': 3.27}
+{'text': 'The transcendental which attends\nto issues of form, structure,', 'start': 2486.116, 'duration': 7.641}
+{'text': 'probably type.', 'start': 2493.857, 'duration': 0.868}
+{'text': 'Type is a very good\nexample of what', 'start': 2494.825, 'duration': 1.768}
+{'text': "we're calling transcendental.", 'start': 2496.693, 'duration': 2.502}
+{'text': 'These are highly articulable,\nre-instantiated, re-iterable.', 'start': 2499.295, 'duration': 5.173}
+{'text': "They're given, whereas\nthese tend to be more found", 'start': 2504.568, 'duration': 3.871}
+{'text': 'in nature or in the lab.', 'start': 2508.539, 'duration': 4.904}
+{'text': 'But highly sensible, attention\nto material over form,', 'start': 2513.543, 'duration': 7.975}
+{'text': 'phenomenon over structure, and\ntopos, or place, over type.', 'start': 2521.618, 'duration': 4.004}
+{'text': "So that's the first dialectic.", 'start': 2525.722, 'duration': 3.07}
+{'text': "But then there's\nthis other category.", 'start': 2528.892, 'duration': 3.703}
+{'text': "Let's say that we believe in the\ntranscendental project, but not", 'start': 2532.695, 'duration': 3.971}
+{'text': 'its truth.', 'start': 2536.767, 'duration': 1.267}
+{'text': 'What will happen in that\ncase is if you think', 'start': 2538.134, 'duration': 6.841}
+{'text': 'you can no longer actually\nfind an answer, what you start', 'start': 2545.075, 'duration': 3.57}
+{'text': 'to enjoy is the pursuit itself,\nthe process, the sheer artifice', 'start': 2548.745, 'duration': 5.205}
+{'text': 'of the discipline\ndriven machinations', 'start': 2554.05, 'duration': 3.27}
+{'text': 'that you go through in design.', 'start': 2557.42, 'duration': 2.303}
+{'text': 'And this will be\nvery complicated.', 'start': 2559.823, 'duration': 2.67}
+{'text': 'It will produce\nprojects of traces,', 'start': 2562.593, 'duration': 1.901}
+{'text': 'superimposition,\nstacks, scatters.', 'start': 2564.594, 'duration': 3.938}
+{'text': "It'll produce effects like\ntiling, nesting, buckling,", 'start': 2568.632, 'duration': 3.57}
+{'text': 'pleating.', 'start': 2572.303, 'duration': 1.134}
+{'text': 'All of these are these kind\nof nervous, compulsory,', 'start': 2573.537, 'duration': 5.672}
+{'text': 'kind of hand wringing\nmachinations.', 'start': 2579.309, 'duration': 2.369}
+{'text': "Because you know you're not\ngoing to arrive at the answer,", 'start': 2581.778, 'duration': 2.569}
+{'text': "but you're enjoying the pursuit.", 'start': 2584.447, 'duration': 2.97}
+{'text': 'And then it will\nbe a revelation.', 'start': 2587.518, 'duration': 1.968}
+{'text': "And this was Andrew's\ninsistence that we name it.", 'start': 2589.586, 'duration': 4.338}
+{'text': 'There will be this revelation\nto this overly compulsive', 'start': 2594.024, 'duration': 6.94}
+{'text': 'processes.', 'start': 2601.065, 'duration': 0.734}
+{'text': "On the one hand, it's related\nto but kind of opposition", 'start': 2605.636, 'duration': 6.406}
+{'text': 'to the transcend.', 'start': 2612.142, 'duration': 1.034}
+{'text': "It's still formalist,\nlet's say, but now it's", 'start': 2613.277, 'duration': 3.87}
+{'text': 'no longer about a kind\nof given structure,', 'start': 2617.247, 'duration': 3.037}
+{'text': "but it's about a\nrevelation of an artifice.", 'start': 2620.384, 'duration': 4.371}
+{'text': "It's certainly not imminent.", 'start': 2624.855, 'duration': 1.568}
+{'text': "It's exactly the opposite of\nthe earthy, phenomenal, bodily,", 'start': 2626.523, 'duration': 6.307}
+{'text': 'mimetic category here.', 'start': 2632.93, 'duration': 3.77}
+{'text': 'But what about this one?', 'start': 2636.8, 'duration': 1.768}
+{'text': 'How could we get a\nstrong response that', 'start': 2638.668, 'duration': 3.704}
+{'text': 'might be related to the bodily\nmimesis of the imminent,', 'start': 2642.472, 'duration': 4.705}
+{'text': 'but might also be related to\nthe kind of doubt, and artifice,', 'start': 2647.277, 'duration': 6.44}
+{'text': 'and nervousness about revealing\nthe artifice as opposed', 'start': 2653.817, 'duration': 6.173}
+{'text': 'to in a way believing\nin the artifice.', 'start': 2660.09, 'duration': 3.904}
+{'text': 'And of course, we found it\nin a number of projects.', 'start': 2664.094, 'duration': 3.303}
+{'text': 'But again, sticking\nto our own faculty', 'start': 2667.497, 'duration': 2.503}
+{'text': "with Mack Scogin and Merrill\nElam's Wolfsburg Tower, which", 'start': 2670.1, 'duration': 4.304}
+{'text': 'originally I wanted to call the\ncategory creaturely encounters.', 'start': 2674.504, 'duration': 4.671}
+{'text': 'But we stuck with just\nthe idea of encounter', 'start': 2679.276, 'duration': 3.603}
+{'text': 'to match the others.', 'start': 2682.979, 'duration': 3.571}
+{'text': 'The characteristics here--\nagain, like the imminent,', 'start': 2686.65, 'duration': 3.737}
+{'text': 'it involves body.', 'start': 2690.487, 'duration': 1.168}
+{'text': 'But in this case\nthe mimesis is only', 'start': 2691.755, 'duration': 3.503}
+{'text': 'an approximation to the human.', 'start': 2695.358, 'duration': 3.471}
+{'text': "It's this just not quite human,\nwhich is anxiety producing.", 'start': 2698.929, 'duration': 4.171}
+{'text': "It's this not\nquite human mimesis", 'start': 2703.2, 'duration': 3.704}
+{'text': 'that provokes this attention\ntoward the creaturely.', 'start': 2707.004, 'duration': 2.869}
+{'text': "It's as if this thing like a\ngolem in the old Jewish ghettos", 'start': 2709.973, 'duration': 6.039}
+{'text': 'just appeared somehow, right?', 'start': 2716.112, 'duration': 2.669}
+{'text': 'To save the city but\nhumans had nothing', 'start': 2718.881, 'duration': 4.572}
+{'text': 'to do with its creation.', 'start': 2723.553, 'duration': 2.236}
+{'text': "It's like architectural golem.", 'start': 2725.889, 'duration': 2.336}
+{'text': 'It seems prehistorical,\npre-verbal.', 'start': 2728.325, 'duration': 4.17}
+{'text': "Lacan has a beautiful\nword that I'm using here", 'start': 2732.596, 'duration': 5.272}
+{'text': 'that when things that are\nmost familiar, most intimate,', 'start': 2737.968, 'duration': 4.471}
+{'text': 'turn out to be not\nquite right, he', 'start': 2742.539, 'duration': 3.804}
+{'text': 'says the feeling of extimacy.', 'start': 2746.443, 'duration': 2.536}
+{'text': 'Or this extimant as\nopposed to intimate.', 'start': 2749.079, 'duration': 3.837}
+{'text': "It's this thing that\nyou thought you knew", 'start': 2753.016, 'duration': 2.002}
+{'text': 'that is now radically other.', 'start': 2755.118, 'duration': 1.735}
+{'text': 'And I think that categorization,\nor that explanation, is right.', 'start': 2756.953, 'duration': 6.339}
+{'text': 'And then, finally, when\nyou look at this Greimas', 'start': 2763.393, 'duration': 3.504}
+{'text': 'diagram outside--', 'start': 2766.997, 'duration': 1.435}
+{'text': 'imminent, originals,\ntranscendental.', 'start': 2768.532, 'duration': 2.168}
+{'text': 'This is the kind\nof formalist axis.', 'start': 2770.8, 'duration': 3.037}
+{'text': 'This is the kind of\nphenomenological axis,', 'start': 2773.937, 'duration': 2.369}
+{'text': 'but this is more\nphenomenology gone wrong.', 'start': 2776.406, 'duration': 5.005}
+{'text': 'This is kind of\nformalism, in a way,', 'start': 2781.511, 'duration': 2.102}
+{'text': 'exaggerated and artificial.', 'start': 2783.713, 'duration': 1.702}
+{'text': 'So you can start to play with\nall these different connections', 'start': 2785.515, 'duration': 4.538}
+{'text': 'with the works across.', 'start': 2790.153, 'duration': 1.768}
+{'text': "And then finally--\nand I'll stop here--", 'start': 2792.021, 'duration': 3.671}
+{'text': 'what we imagine is again,\ngoing back to inscription.', 'start': 2795.792, 'duration': 3.57}
+{'text': 'I said that inscription\nis when force and--', 'start': 2799.462, 'duration': 5.706}
+{'text': 'if we think of this\nas a force field', 'start': 2805.268, 'duration': 2.569}
+{'text': 'producing all these\nvectors and relationships--', 'start': 2807.937, 'duration': 4.338}
+{'text': "is this what I'm here\ncalling virtual architecture,", 'start': 2812.375, 'duration': 3.27}
+{'text': 'and where the inscription\nbegins here and passes', 'start': 2815.745, 'duration': 4.505}
+{'text': 'through different kinds of\ndisciplinary strategies,', 'start': 2820.35, 'duration': 3.604}
+{'text': 'different kind of archives.', 'start': 2824.054, 'duration': 1.568}
+{'text': 'This triangle, or\ncone, of inscription', 'start': 2825.722, 'duration': 3.103}
+{'text': "draws from that virtual deep\nstructure that you can't see.", 'start': 2828.925, 'duration': 3.871}
+{'text': 'This is the pre-supposed\nthat Wordsworth talks about,', 'start': 2832.896, 'duration': 3.771}
+{'text': 'and then you finally end up\nwith an actual architectural', 'start': 2836.767, 'duration': 4.671}
+{'text': 'project.', 'start': 2841.538, 'duration': 0.401}
+{'text': 'All right.', 'start': 2849.012, 'duration': 0.834}
+{'text': 'So we thought this\nwas a neat trick', 'start': 2849.946, 'duration': 1.535}
+{'text': 'that one of our diagrams\nsort of turned upside down', 'start': 2851.581, 'duration': 2.569}
+{'text': 'equals the other.', 'start': 2854.25, 'duration': 0.768}
+{'text': "So I think we'd like\nto close this segment", 'start': 2857.854, 'duration': 5.038}
+{'text': 'of the conversation\nbetween the two of us', 'start': 2862.992, 'duration': 1.603}
+{'text': 'by talking about\neffects and affects,', 'start': 2864.695, 'duration': 4.47}
+{'text': 'which is maybe a turn\nfrom the description', 'start': 2869.265, 'duration': 3.804}
+{'text': 'of possible positions in\nthe ideological field,', 'start': 2873.17, 'duration': 4.204}
+{'text': 'to asking the\nquestion, what claims', 'start': 2877.474, 'duration': 3.403}
+{'text': 'can we make with\nrespect to the audience?', 'start': 2880.977, 'duration': 2.736}
+{'text': 'And particularly,\nwhat claims can we', 'start': 2883.813, 'duration': 2.136}
+{'text': 'make about the instrumentality\nof the building with respect', 'start': 2886.049, 'duration': 3.303}
+{'text': 'to the audience?', 'start': 2889.452, 'duration': 1.168}
+{'text': 'Or maybe occasionally I should\nuse this word, beholder.', 'start': 2890.72, 'duration': 4.205}
+{'text': 'Because we are\nindebted in some way', 'start': 2895.025, 'duration': 2.302}
+{'text': 'to the work of Michael Fried.', 'start': 2897.427, 'duration': 3.17}
+{'text': "So let's begin here to start\nto get at this question.", 'start': 2900.697, 'duration': 6.039}
+{'text': 'This is an image of a model\nthat Wonne Ickx and Productora', 'start': 2906.836, 'duration': 6.473}
+{'text': 'did in their proposal\nfor Aalto University.', 'start': 2913.41, 'duration': 4.904}
+{'text': 'And for us, this was the kind\nof first glimpse of a recurring', 'start': 2918.414, 'duration': 6.874}
+{'text': 'trope that we see\nagain and again,', 'start': 2925.388, 'duration': 2.235}
+{'text': 'almost like a kind\nof tic, particularly', 'start': 2927.723, 'duration': 2.57}
+{'text': "in the category that we've\ndecided to call monoliths.", 'start': 2930.393, 'duration': 4.171}
+{'text': 'So this is a project\nby Geers Van Severen.', 'start': 2934.664, 'duration': 3.737}
+{'text': 'All of their projects are\nnumbered, so this is 152.', 'start': 2938.501, 'duration': 4.172}
+{'text': 'This is the Aalto University\nproject by Productora,', 'start': 2942.773, 'duration': 3.169}
+{'text': "and this is Jesus\nVassallo's Water Towers.", 'start': 2946.042, 'duration': 3.97}
+{'text': 'But in each of these,\nwe see a similar kind', 'start': 2950.113, 'duration': 3.67}
+{'text': 'of awareness of the frame and\na similar kind of clustering', 'start': 2953.883, 'duration': 5.873}
+{'text': 'of towers against one another\nwith respect to the frame', 'start': 2959.856, 'duration': 3.937}
+{'text': 'as though there is a kind\nof acute interest there.', 'start': 2963.893, 'duration': 7.308}
+{'text': 'That these seem sort of too\nperfectly framed and too', 'start': 2971.301, 'duration': 3.67}
+{'text': 'perfectly clustered for\nthis to be accidental.', 'start': 2975.072, 'duration': 3.703}
+{'text': 'And I think that we would argue\neach of these three images', 'start': 2978.875, 'duration': 2.87}
+{'text': 'is in fact this, a\nkind of tower selfie,', 'start': 2981.845, 'duration': 4.804}
+{'text': 'where the tower is aware\nof both its position', 'start': 2986.749, 'duration': 4.505}
+{'text': 'as a subject, but also the\npossible subject positions', 'start': 2991.354, 'duration': 4.872}
+{'text': 'that it engenders.', 'start': 2996.326, 'duration': 1.635}
+{'text': 'So what I mean by that.', 'start': 2998.061, 'duration': 2.569}
+{'text': 'This is you, the subject.', 'start': 3000.73, 'duration': 2.737}
+{'text': "You're taking a\nphotograph of Kimye,", 'start': 3003.567, 'duration': 3.169}
+{'text': 'but their affects, their\ndeportment, and their bearing', 'start': 3006.836, 'duration': 4.338}
+{'text': 'has a kind of consequence\nthat flows back to you', 'start': 3011.274, 'duration': 4.171}
+{'text': 'as the subject.', 'start': 3015.545, 'duration': 1.368}
+{'text': "So the flatness of Kanye's\nscowl in a certain way", 'start': 3017.013, 'duration': 3.937}
+{'text': 'denies the importance,\nor even denies', 'start': 3021.05, 'duration': 2.036}
+{'text': 'the presence of the\nbeholder, you, the subject.', 'start': 3023.186, 'duration': 3.904}
+{'text': "And Kim's simper does something\nsort of very different.", 'start': 3027.19, 'duration': 5.506}
+{'text': 'And so we would like\nto sort of start', 'start': 3032.796, 'duration': 4.204}
+{'text': 'to think through the\nwork in those terms.', 'start': 3037.1, 'duration': 2.135}
+{'text': 'In terms of how the\naffects of the buildings', 'start': 3039.335, 'duration': 3.604}
+{'text': 'start to permit and open\nup different subject', 'start': 3043.039, 'duration': 2.703}
+{'text': 'positions while\nthey deny others.', 'start': 3045.842, 'duration': 3.837}
+{'text': 'And maybe before we start to\nrehearse the possible positions', 'start': 3049.779, 'duration': 4.438}
+{'text': 'that are on evidence\nin the Druker gallery,', 'start': 3054.317, 'duration': 4.237}
+{'text': 'we should just emphasize\nthe kind of difference', 'start': 3058.655, 'duration': 3.871}
+{'text': 'in this mode of thinking from\nother ways in which affect', 'start': 3062.626, 'duration': 4.937}
+{'text': 'has historically been\ntaken up by architecture.', 'start': 3067.663, 'duration': 3.237}
+{'text': "So it's clear here\nthat we're trying", 'start': 3071.0, 'duration': 2.569}
+{'text': 'to argue that affect gives\narchitecture a kind of role', 'start': 3073.669, 'duration': 3.638}
+{'text': 'to play almost as an audience\nmember in terms of the way', 'start': 3077.407, 'duration': 4.838}
+{'text': 'that it starts to go\nto work on subjects.', 'start': 3082.345, 'duration': 2.636}
+{'text': 'But historically, affect has\nworked maybe more like this.', 'start': 3085.081, 'duration': 3.871}
+{'text': 'So these are the self-portraits\nof Jean-Jacques Lequeu,', 'start': 3089.052, 'duration': 4.237}
+{'text': 'where he is kind of depicting\nthese extreme emotions.', 'start': 3093.389, 'duration': 3.87}
+{'text': 'And we would call this\nanother different way', 'start': 3097.36, 'duration': 3.203}
+{'text': 'of thinking through affect,\nwhere we are interested in how', 'start': 3100.663, 'duration': 2.803}
+{'text': 'buildings make you feel.', 'start': 3103.566, 'duration': 2.135}
+{'text': 'What stimulus results in what\nkind of externally observable', 'start': 3105.801, 'duration': 4.638}
+{'text': 'response?', 'start': 3110.54, 'duration': 1.768}
+{'text': 'So this is very\ndifferent I would say.', 'start': 3112.408, 'duration': 1.468}
+{'text': 'Maybe the work, we\nwould argue, is not', 'start': 3113.976, 'duration': 2.603}
+{'text': 'so interested in how\nit makes you feel.', 'start': 3116.679, 'duration': 3.07}
+{'text': 'It is, however, using affect\nto construct possible positions', 'start': 3119.849, 'duration': 4.838}
+{'text': 'with respect to it.', 'start': 3124.787, 'duration': 1.168}
+{'text': 'So perhaps with any luck\nthat distinction makes sense.', 'start': 3126.055, 'duration': 7.107}
+{'text': "So here I'm going\nto start working", 'start': 3133.262, 'duration': 3.27}
+{'text': 'my way through the second of the\ndiagrams on the wall outside.', 'start': 3136.632, 'duration': 5.272}
+{'text': "And I'm going to build it\nup in a series of layers", 'start': 3142.004, 'duration': 2.904}
+{'text': "that are similar to Michael's\ndescription of the Greimas", 'start': 3145.008, 'duration': 3.303}
+{'text': 'square.', 'start': 3148.411, 'duration': 1.802}
+{'text': 'And I think we would like\nto begin with flat affects,', 'start': 3150.313, 'duration': 2.769}
+{'text': 'because I think you will find\na great number of the works', 'start': 3153.182, 'duration': 2.636}
+{'text': 'on display build a possible\nsubject position for you that', 'start': 3155.918, 'duration': 5.105}
+{'text': "is very much like being on\nthe receiving end of Kanye's", 'start': 3161.123, 'duration': 3.638}
+{'text': 'scowl, a kind of a flatness.', 'start': 3164.861, 'duration': 3.57}
+{'text': 'And for us, flatness\nis not homogeneous.', 'start': 3168.531, 'duration': 4.271}
+{'text': 'Instead, it has a kind of\nnear and a far horizon.', 'start': 3172.902, 'duration': 3.971}
+{'text': 'A nearness that we will\ncall an imperious presence,', 'start': 3176.973, 'duration': 4.972}
+{'text': "and a kind of far\nhorizon that we'll", 'start': 3182.045, 'duration': 1.701}
+{'text': 'call disinterested withdrawal.', 'start': 3183.846, 'duration': 2.903}
+{'text': 'So an imperious presence\nmight be something like this.', 'start': 3186.849, 'duration': 3.871}
+{'text': 'Again Geers Van\nSeveren, project 152,', 'start': 3190.82, 'duration': 3.804}
+{'text': 'where the building\nis quite near,', 'start': 3194.724, 'duration': 2.67}
+{'text': 'but that does not necessarily\nentail an engagement', 'start': 3197.494, 'duration': 3.036}
+{'text': 'with the beholder.', 'start': 3200.63, 'duration': 1.134}
+{'text': 'Instead, it is a\nkind of aloofness.', 'start': 3201.864, 'duration': 1.869}
+{'text': "Or this Machado and Silvetti's\ntower from The Four Squares", 'start': 3203.833, 'duration': 4.972}
+{'text': 'project.', 'start': 3208.905, 'duration': 0.701}
+{'text': 'This is the Leonforte tower.', 'start': 3209.706, 'duration': 2.336}
+{'text': 'Again, it is quite\nnear, but that nearness', 'start': 3212.142, 'duration': 3.503}
+{'text': 'should not in any way be\nconfused with accessibility.', 'start': 3215.745, 'duration': 3.337}
+{'text': 'It is aloof.', 'start': 3219.182, 'duration': 0.8}
+{'text': 'It is imperious.', 'start': 3220.082, 'duration': 1.269}
+{'text': 'It is literally above.', 'start': 3221.451, 'duration': 2.636}
+{'text': 'And for us, maybe that sense\nof a kind of imperious nearness', 'start': 3224.187, 'duration': 4.604}
+{'text': "would be tantamount to let's\nsay Louis the 14th's sort", 'start': 3228.891, 'duration': 4.672}
+{'text': 'of arrival with his retinue.', 'start': 3233.663, 'duration': 2.903}
+{'text': 'This is a tapestry, 1670-ish.', 'start': 3236.666, 'duration': 3.704}
+{'text': "It's part of a longer series\ncalled The History of the King.", 'start': 3240.47, 'duration': 3.503}
+{'text': "This is documenting Louis'\narrival into the Gobelins.", 'start': 3244.073, 'duration': 5.138}
+{'text': 'He is attended by everyone,\nand yet he does not care.', 'start': 3249.311, 'duration': 3.571}
+{'text': 'He is staring out of the\nframe of the tapestry', 'start': 3252.983, 'duration': 2.602}
+{'text': 'and his attention is elsewhere.', 'start': 3255.685, 'duration': 1.768}
+{'text': 'It is a kind of\ndenial of his retinue.', 'start': 3257.553, 'duration': 3.571}
+{'text': "So if that's the\nnear horizon, I think", 'start': 3261.224, 'duration': 1.902}
+{'text': "you'll also find examples\nof this far horizon", 'start': 3263.226, 'duration': 3.236}
+{'text': 'disinterest that takes\nthe form of a withdrawal.', 'start': 3266.562, 'duration': 3.003}
+{'text': 'So this is T.E.A.M., their\nDetroit Reassembly Plant', 'start': 3269.665, 'duration': 3.771}
+{'text': 'project, where the building\nis not only withdrawn,', 'start': 3273.536, 'duration': 2.87}
+{'text': 'as in literally hiding as a\nrecluse behind piles of refuse.', 'start': 3276.506, 'duration': 4.604}
+{'text': 'But it is also a\nform that refuses', 'start': 3281.21, 'duration': 2.469}
+{'text': 'to didactically explain its\nlumpen appearance in any way.', 'start': 3283.779, 'duration': 4.338}
+{'text': 'It is simply a kind of given.', 'start': 3288.217, 'duration': 3.971}
+{'text': "A slightly awkward given, let's\nsay, that constitutes for us", 'start': 3292.288, 'duration': 3.304}
+{'text': 'a form of withdrawal.', 'start': 3295.692, 'duration': 1.668}
+{'text': "Maybe even more to the point,\nthis is SIFT Studio's Rocks.", 'start': 3297.46, 'duration': 4.338}
+{'text': 'And this is an\narchitect withdrawing', 'start': 3301.898, 'duration': 2.302}
+{'text': 'to the kind of hermetically\nsealed zone of geology.', 'start': 3304.3, 'duration': 4.304}
+{'text': 'Like we may not inquire\ninto its processes.', 'start': 3308.704, 'duration': 4.204}
+{'text': 'It is simply there.', 'start': 3313.008, 'duration': 4.038}
+{'text': 'This sort of movement\nback and forth', 'start': 3317.146, 'duration': 2.135}
+{'text': 'between the near and the\nfar horizon, of the flat', 'start': 3319.382, 'duration': 3.236}
+{'text': 'affects in the show,\nthey are metered also', 'start': 3322.718, 'duration': 4.238}
+{'text': 'in another direction.', 'start': 3327.056, 'duration': 2.035}
+{'text': 'So here we might talk about\nthe impassive, the depressed,', 'start': 3329.191, 'duration': 3.538}
+{'text': 'the absorbed, the bored,\nor the distracted.', 'start': 3332.829, 'duration': 3.77}
+{'text': 'And so this project\nby First Office.', 'start': 3336.699, 'duration': 2.336}
+{'text': "I think it's fair to\ncall it bored or boring.", 'start': 3339.135, 'duration': 3.837}
+{'text': 'They, in fact, I\nthink, would appreciate', 'start': 3343.072, 'duration': 1.735}
+{'text': 'me designating this as a boring\nproject, or a bored project.', 'start': 3344.907, 'duration': 4.071}
+{'text': "But there's simply not much here\nin the kind of white on white.", 'start': 3351.68, 'duration': 3.304}
+{'text': "It's easy to sort of\ngo adrift in the kind", 'start': 3355.084, 'duration': 4.872}
+{'text': 'of total lack of interest in\nthe flat field of the rendering.', 'start': 3360.056, 'duration': 5.105}
+{'text': 'A kind of close relative\nwould be absorbed.', 'start': 3365.261, 'duration': 4.805}
+{'text': 'This is another\nproject by First Office', 'start': 3370.166, 'duration': 2.869}
+{'text': 'for the design of\na table that is', 'start': 3373.135, 'duration': 2.803}
+{'text': 'to be assembled out of\nIkea parts, but a very', 'start': 3376.039, 'duration': 2.135}
+{'text': 'difficult table.', 'start': 3378.274, 'duration': 1.201}
+{'text': 'And all of this kind of\ndelirium of technical notation,', 'start': 3379.575, 'duration': 4.271}
+{'text': 'we would argue, has to do\nwith a kind of absorption', 'start': 3383.946, 'duration': 5.072}
+{'text': 'in the facts of\nthe drawing itself.', 'start': 3389.118, 'duration': 3.037}
+{'text': 'A denial of the\nbeholder in the sense', 'start': 3392.255, 'duration': 2.435}
+{'text': 'that all attention is supposed\nto be sort of measuring', 'start': 3394.79, 'duration': 4.038}
+{'text': 'the difference between\n2 feet three inches', 'start': 3398.928, 'duration': 1.968}
+{'text': 'and 3 feet 6 and 1/4, or\nwhatever it is up there.', 'start': 3400.997, 'duration': 5.605}
+{'text': 'This moment of the kind\nof absorbed band in flat', 'start': 3406.703, 'duration': 5.972}
+{'text': 'affects for us is very\nimportant, because it', 'start': 3412.776, 'duration': 3.169}
+{'text': 'becomes a point of connection.', 'start': 3416.045, 'duration': 3.471}
+{'text': "Or let's say a connective\ntissue with a very different way", 'start': 3419.616, 'duration': 4.203}
+{'text': 'of thinking through\naffect in the show', 'start': 3423.919, 'duration': 3.003}
+{'text': 'in a different category of work\nthat has to do with jouissance.', 'start': 3427.022, 'duration': 4.439}
+{'text': "So in a second I'm going to\nreturn to this point, which", 'start': 3431.561, 'duration': 4.204}
+{'text': 'is important to us, where\njouissance makes contact', 'start': 3435.865, 'duration': 2.669}
+{'text': 'with the field of flat affects.', 'start': 3438.634, 'duration': 2.769}
+{'text': 'But just to kind of\nquickly rehearse--', 'start': 3441.503, 'duration': 3.137}
+{'text': 'and Michael may want to\ninterject because this is sort', 'start': 3444.74, 'duration': 4.605}
+{'text': 'of right in his wheel house.', 'start': 3449.445, 'duration': 2.969}
+{'text': 'But jouissance as\nI understand it,', 'start': 3452.514, 'duration': 1.569}
+{'text': 'is not only pleasure, but\na particular intensity', 'start': 3454.183, 'duration': 4.271}
+{'text': 'to pleasure.', 'start': 3458.554, 'duration': 1.101}
+{'text': 'And as French theorists\nhave taken up this term,', 'start': 3459.756, 'duration': 4.103}
+{'text': 'that intensity may also be\npainful at the same time', 'start': 3463.959, 'duration': 5.539}
+{'text': 'that one experiences pleasure.', 'start': 3469.598, 'duration': 1.502}
+{'text': 'So it has these two\ndifferent modalities.', 'start': 3471.2, 'duration': 3.938}
+{'text': 'And for us,\njouissance moves kind', 'start': 3475.238, 'duration': 4.938}
+{'text': 'of upward in increasing\nlevels, not only of', 'start': 3480.276, 'duration': 3.771}
+{'text': "intensity and pleasure,\nbut let's say also", 'start': 3484.147, 'duration': 4.137}
+{'text': 'in increasing authorization\nof the beholder.', 'start': 3488.384, 'duration': 4.738}
+{'text': 'So if flat affects have\nfound these various gambits', 'start': 3493.222, 'duration': 3.17}
+{'text': 'for denying your presence, or\nby sort of completely absorbing', 'start': 3496.492, 'duration': 3.603}
+{'text': 'attention in the\nfield, jouissance', 'start': 3500.195, 'duration': 2.136}
+{'text': 'does something different.', 'start': 3502.431, 'duration': 2.169}
+{'text': 'There is a form of\ninvitation to experience', 'start': 3504.7, 'duration': 3.404}
+{'text': 'that is issued by the work.', 'start': 3508.204, 'duration': 2.769}
+{'text': 'And so at the very bottom\npoint of jouissance', 'start': 3511.073, 'duration': 2.836}
+{'text': 'would be work that we\ncharacterize as feral.', 'start': 3514.01, 'duration': 3.403}
+{'text': 'And for us, this is maybe\nlike a dog digging a hole.', 'start': 3517.513, 'duration': 3.904}
+{'text': 'A kind of total\nattendance to the task.', 'start': 3521.517, 'duration': 3.236}
+{'text': 'Almost absorption,\nbut still a kind', 'start': 3524.853, 'duration': 3.204}
+{'text': 'of minimum awareness\nof environment', 'start': 3528.157, 'duration': 2.969}
+{'text': 'and of the possibility\nof a viewing subject.', 'start': 3531.227, 'duration': 2.336}
+{'text': "A kind of, let's say,\nanimal awareness of context.", 'start': 3533.663, 'duration': 5.038}
+{'text': "And for us, Bittertang's\nproject, Bessie,", 'start': 3538.801, 'duration': 4.337}
+{'text': 'is a kind of ideal feral.', 'start': 3543.238, 'duration': 3.07}
+{'text': 'This one deserves a\nlittle explanation', 'start': 3546.408, 'duration': 2.436}
+{'text': 'so I asked Bittertang\nto submit renderings', 'start': 3548.944, 'duration': 4.672}
+{'text': 'of this project, Bessie.', 'start': 3553.716, 'duration': 3.037}
+{'text': "And in its original conception,\nlet's say in 2013 or '14,", 'start': 3556.853, 'duration': 4.604}
+{'text': 'it was a proposal for a zero\nwaste tent made of cowhides,', 'start': 3561.557, 'duration': 6.607}
+{'text': 'and bones, and remains after\nthe consumption of the cow.', 'start': 3568.264, 'duration': 4.404}
+{'text': 'So you would eat the\ncows, use their skins,', 'start': 3572.768, 'duration': 3.37}
+{'text': 'and use their bones to make this\nkind of tent-like inhabitation.', 'start': 3576.238, 'duration': 4.438}
+{'text': 'When I requested a\nmodel of this project', 'start': 3580.776, 'duration': 3.136}
+{'text': "I was told that\ncows don't scale.", 'start': 3584.012, 'duration': 2.269}
+{'text': '[laughter]', 'start': 3586.382, 'duration': 1.301}
+{'text': 'And so instead,\nthey would make us', 'start': 3587.783, 'duration': 2.803}
+{'text': 'a new model out of\nCornish game hens', 'start': 3590.686, 'duration': 3.704}
+{'text': 'that were of a size that\ncould fit on the pedestals.', 'start': 3594.49, 'duration': 2.87}
+{'text': 'And so they purchased Cornish\ngame hens, roast them,', 'start': 3597.46, 'duration': 4.004}
+{'text': 'ate them, and produced\nthe model that you', 'start': 3601.564, 'duration': 2.602}
+{'text': 'see on display in\nthe gallery, which', 'start': 3604.266, 'duration': 2.336}
+{'text': 'I think is a kind\nof breathtaking idea', 'start': 3606.702, 'duration': 3.837}
+{'text': 'about sensibility.', 'start': 3610.639, 'duration': 0.968}
+{'text': 'And perhaps one that\nissues a challenge', 'start': 3611.707, 'duration': 1.802}
+{'text': 'to our very own HouseZero.', 'start': 3613.609, 'duration': 3.937}
+{'text': 'I think moving upward\nthrough the various strata', 'start': 3617.646, 'duration': 4.372}
+{'text': 'in jouissance is the object.', 'start': 3622.118, 'duration': 4.204}
+{'text': 'So here I am indulging\nmyself a little bit.', 'start': 3626.422, 'duration': 2.602}
+{'text': 'This is a project by my own\noffice, The Los Angeles Design', 'start': 3629.124, 'duration': 4.038}
+{'text': 'Group.', 'start': 3633.262, 'duration': 0.934}
+{'text': 'And here the abject\nis in our ability', 'start': 3634.296, 'duration': 2.236}
+{'text': 'to identify these little\nbits and trinkets.', 'start': 3636.632, 'duration': 2.536}
+{'text': 'A kind of unfolded box, a\npipe, some dirt, wood blocks.', 'start': 3639.268, 'duration': 5.639}
+{'text': 'But these have all fallen\nfrom the station where', 'start': 3645.007, 'duration': 3.103}
+{'text': 'we might have originally\nencountered them, as a trinket,', 'start': 3648.21, 'duration': 2.303}
+{'text': "let's say, in the\nMcMaster-Carr Catalog.", 'start': 3650.613, 'duration': 2.335}
+{'text': 'So it is the fall\nthat is responsible', 'start': 3653.048, 'duration': 4.305}
+{'text': 'both for our pleasure\nthat we might', 'start': 3657.453, 'duration': 1.801}
+{'text': 'take in a model like this,\nbut also for its abjection.', 'start': 3659.354, 'duration': 4.105}
+{'text': 'A bit higher up, but also\nkind of closely related', 'start': 3663.559, 'duration': 2.902}
+{'text': 'to abjection, would be\nthe kind of delightful.', 'start': 3666.562, 'duration': 3.737}
+{'text': 'And this again is Jennifer\nBonner of MALL and her Grilled', 'start': 3670.399, 'duration': 5.005}
+{'text': 'Cheese trabeated stack.', 'start': 3675.504, 'duration': 2.003}
+{'text': 'And here the delight\nis not in observing', 'start': 3677.607, 'duration': 2.635}
+{'text': 'the collapse of a\nsystem of manners,', 'start': 3680.342, 'duration': 2.17}
+{'text': 'but in its maintenance, no\nmatter how absurd it might be.', 'start': 3682.612, 'duration': 4.671}
+{'text': 'So we can see the sandwich.', 'start': 3687.383, 'duration': 2.435}
+{'text': 'The sandwich is not contested.', 'start': 3689.918, 'duration': 1.336}
+{'text': 'The sandwich has not fallen.', 'start': 3691.354, 'duration': 1.801}
+{'text': 'Similarly, we can see the\nimprint of a relatively', 'start': 3693.255, 'duration': 3.404}
+{'text': 'reasonable building facades.', 'start': 3696.759, 'duration': 3.137}
+{'text': 'And then finally,\nabove the delightful,', 'start': 3699.996, 'duration': 2.902}
+{'text': 'we would place the ecstatic.', 'start': 3702.998, 'duration': 1.902}
+{'text': 'This is a project by Millions,\nZeina Koreitem, and John May', 'start': 3705.0, 'duration': 4.605}
+{'text': 'one of a series of\nprojects on collectives.', 'start': 3709.705, 'duration': 3.337}
+{'text': 'And here, the delight\nis in the experience', 'start': 3713.142, 'duration': 2.736}
+{'text': 'of a technique that\nalmost overwhelms', 'start': 3715.978, 'duration': 2.869}
+{'text': 'the material construct\non which it plays out.', 'start': 3718.948, 'duration': 3.303}
+{'text': "And so it's kind of like the\npleasure of technique runamuck", 'start': 3722.351, 'duration': 4.271}
+{'text': 'right up until the point where\nit threatens the integrity', 'start': 3726.722, 'duration': 3.937}
+{'text': 'of the entire enterprise.', 'start': 3730.759, 'duration': 2.069}
+{'text': 'And for us, at that sort of\nlimit condition of the ecstatic', 'start': 3732.928, 'duration': 4.472}
+{'text': "production of\narchitecture, we're", 'start': 3737.5, 'duration': 2.002}
+{'text': 'also starting to introduce\na kind of invitation', 'start': 3739.602, 'duration': 6.139}
+{'text': 'to the audience.', 'start': 3745.841, 'duration': 1.702}
+{'text': 'A sort of total\ninvolvement of architecture', 'start': 3747.643, 'duration': 3.37}
+{'text': 'with people at the\nscale of the body.', 'start': 3751.113, 'duration': 1.802}
+{'text': 'All of these\ninfinitesimally small little', 'start': 3753.015, 'duration': 2.469}
+{'text': 'crannelations that\none would continually', 'start': 3755.584, 'duration': 2.503}
+{'text': 'encounter as you move\nthrough the building', 'start': 3758.187, 'duration': 2.235}
+{'text': 'at the scale of yourself.', 'start': 3760.522, 'duration': 1.869}
+{'text': 'A kind of a threat of\ndissolution between you', 'start': 3762.492, 'duration': 3.169}
+{'text': 'and the building, or a\ndissolution of the distinction', 'start': 3765.761, 'duration': 3.403}
+{'text': 'between you and the building,\nthat is both kind of ecstatic', 'start': 3769.264, 'duration': 3.071}
+{'text': 'and has this kind of painful\nquality to it as well.', 'start': 3772.435, 'duration': 3.503}
+{'text': 'Maybe as a kind\nof closing thought', 'start': 3778.774, 'duration': 3.236}
+{'text': 'before we move on\nto conversation,', 'start': 3782.11, 'duration': 4.138}
+{'text': 'I would say that the\ndiagram that we are not', 'start': 3786.348, 'duration': 2.803}
+{'text': 'talking about too\nmuch here at the end', 'start': 3789.251, 'duration': 2.636}
+{'text': 'starts to build a case for us\nabout the place of authorship', 'start': 3791.987, 'duration': 5.939}
+{'text': 'in a show like this.', 'start': 3798.026, 'duration': 1.869}
+{'text': "So if we've expended\na great deal of energy", 'start': 3799.995, 'duration': 2.703}
+{'text': 'surveying the field, and\nattempting to describe it', 'start': 3802.798, 'duration': 2.87}
+{'text': 'with as much precision\nas we can muster,', 'start': 3805.768, 'duration': 3.737}
+{'text': 'there is this sort of unanswered\nquestion of like, what now,', 'start': 3809.605, 'duration': 4.337}
+{'text': 'the task of the architect\nif we have indeed', 'start': 3814.043, 'duration': 2.236}
+{'text': 'identified a kind of\ncontemporary trope that holds.', 'start': 3816.379, 'duration': 4.203}
+{'text': 'And perhaps we would posit that\nthe signature of the author', 'start': 3820.682, 'duration': 5.406}
+{'text': 'is no longer the kind\nof operative term', 'start': 3826.188, 'duration': 3.237}
+{'text': 'that we should be looking for.', 'start': 3829.525, 'duration': 1.835}
+{'text': "Instead, it's the kind of\nauthor as the maintainer,", 'start': 3831.46, 'duration': 3.371}
+{'text': 'or the author as the one\nwho tends and sort of brings', 'start': 3834.931, 'duration': 4.771}
+{'text': 'to the fore these\ncultural agreements that', 'start': 3839.802, 'duration': 3.002}
+{'text': 'precede semantic meaning.', 'start': 3842.904, 'duration': 3.605}
+{'text': 'Yeah.', 'start': 3846.609, 'duration': 0.7}
+{'text': 'Thanks.', 'start': 3847.409, 'duration': 0.434}
+{'text': '[applause]', 'start': 3847.944, 'duration': 3.27}
+{'text': "So we hope we've left\ntime, and we didn't", 'start': 3857.152, 'duration': 1.802}
+{'text': 'leave as much as we tried.', 'start': 3859.054, 'duration': 1.568}
+{'text': "But we hope we've left\nsome time for comments.", 'start': 3860.723, 'duration': 3.003}
+{'text': "Maybe it's obvious, but to\nemphasize that of course you", 'start': 3867.229, 'duration': 2.636}
+{'text': 'challenge our categorization\nand you challenge', 'start': 3869.965, 'duration': 2.603}
+{'text': 'what slot we put some of these\nprojects into, which I think', 'start': 3872.668, 'duration': 5.839}
+{'text': 'is kind of the point of\ntrying to find relationships', 'start': 3878.607, 'duration': 4.571}
+{'text': 'by allowing and inventing\nnew types of reading.', 'start': 3883.278, 'duration': 4.972}
+{'text': 'Not just to be satisfied\nwith one mode or another,', 'start': 3888.35, 'duration': 4.771}
+{'text': 'but to try to open up new kinds\nof reading these projects that', 'start': 3893.221, 'duration': 3.971}
+{'text': 'find connections as\nmuch as disjunctions.', 'start': 3897.292, 'duration': 3.972}
+{'text': 'And that we hope is part\nof the pleasure of the show', 'start': 3901.364, 'duration': 3.47}
+{'text': 'is kind of playing\nthat interpretive game.', 'start': 3904.934, 'duration': 4.87}
+{'text': 'Alexander.', 'start': 3909.905, 'duration': 0.501}
+{'text': 'Thank you so, so\nmuch for sharing', 'start': 3914.243, 'duration': 2.536}
+{'text': 'all of this art with us.', 'start': 3916.879, 'duration': 1.268}
+{'text': 'And I think that there is an\nincredibly commendable kind', 'start': 3918.247, 'duration': 3.837}
+{'text': 'of attention to\nreading the field,', 'start': 3922.184, 'duration': 2.403}
+{'text': 'as fragmented and\nde-centered as it is.', 'start': 3924.687, 'duration': 3.804}
+{'text': 'My question is\nbasically whether it', 'start': 3928.591, 'duration': 3.17}
+{'text': 'is possible to sustain a reading\nof the models in the hall', 'start': 3931.861, 'duration': 3.769}
+{'text': 'as anything but spectacle.', 'start': 3935.73, 'duration': 2.504}
+{'text': 'And if we were to identify\nin the presentation', 'start': 3938.334, 'duration': 2.336}
+{'text': 'a series of binaries,\nwe might say', 'start': 3940.77, 'duration': 2.902}
+{'text': 'the first of them is imminent\nversus transcendental.', 'start': 3943.772, 'duration': 3.671}
+{'text': 'Or for my benefit, [inaudible]\nbinary of form or physique', 'start': 3947.543, 'duration': 5.372}
+{'text': 'versus morale and discourse.', 'start': 3953.015, 'duration': 3.436}
+{'text': "And then the second I think\nis Michael Fried's binary", 'start': 3956.551, 'duration': 2.403}
+{'text': 'of absorption and theatricality.', 'start': 3959.054, 'duration': 2.803}
+{'text': 'But I think the\npinnacle of my question', 'start': 3961.957, 'duration': 2.736}
+{'text': "is, when we're calling\nBittertang's consumption", 'start': 3964.794, 'duration': 2.802}
+{'text': 'of a chicken anything\nbut theatrical,', 'start': 3967.696, 'duration': 3.537}
+{'text': 'we started to have some\nquestions about the degree', 'start': 3971.333, 'duration': 2.603}
+{'text': 'to which we can\nsustain differences', 'start': 3974.036, 'duration': 1.502}
+{'text': 'between the bottles on a basis\nother than theatricality.', 'start': 3975.638, 'duration': 3.469}
+{'text': 'So I guess I wonder how we would\nhow we would start to do that.', 'start': 3979.207, 'duration': 5.473}
+{'text': 'So what I would say, and try\nto develop if I had time, would', 'start': 3984.78, 'duration': 4.705}
+{'text': 'be that to dismiss the chicken,\nthough it is one of the most', 'start': 3989.585, 'duration': 6.874}
+{'text': 'extreme cases, I think.', 'start': 3996.559, 'duration': 2.969}
+{'text': 'But to dismiss it\nis still to hold', 'start': 3999.628, 'duration': 3.47}
+{'text': 'to a mode of reading\nwhich privileges vision', 'start': 4003.198, 'duration': 4.905}
+{'text': 'over other kinds\nof performances.', 'start': 4008.204, 'duration': 1.902}
+{'text': 'The comparison with zero house\nis actually really interesting.', 'start': 4013.241, 'duration': 5.306}
+{'text': 'What we normally\ncall zero carbon,', 'start': 4018.647, 'duration': 2.903}
+{'text': 'it still has nothing to do\nwith the possible wastes', 'start': 4021.65, 'duration': 3.737}
+{'text': 'in recycling.', 'start': 4025.487, 'duration': 1.202}
+{'text': "But we don't yet have a\nway of bringing those kinds", 'start': 4026.789, 'duration': 2.735}
+{'text': 'of very real considerations in.', 'start': 4029.624, 'duration': 2.77}
+{'text': 'And it goes without\nsaying that most', 'start': 4032.494, 'duration': 2.87}
+{'text': 'of the preponderance of projects\nare very preliminary stages', 'start': 4035.464, 'duration': 5.138}
+{'text': 'of experimentation.', 'start': 4040.702, 'duration': 1.402}
+{'text': 'Some are actually built, of\ncourse, but most are not.', 'start': 4042.204, 'duration': 3.77}
+{'text': 'And I think as an\nexperimentation,', 'start': 4046.074, 'duration': 1.502}
+{'text': 'and even as a kind of manifesto\nabout consumption, recycling,', 'start': 4047.676, 'duration': 6.507}
+{'text': 'that we have to find new ways\nof evaluating and reading', 'start': 4054.283, 'duration': 3.97}
+{'text': 'those projects.', 'start': 4058.353, 'duration': 1.669}
+{'text': 'Fried never leaves\nthe platform of vision', 'start': 4060.122, 'duration': 4.371}
+{'text': 'with his theatricality\nversus absorption.', 'start': 4064.593, 'duration': 4.038}
+{'text': "I don't disagree except\nto say let's think", 'start': 4068.731, 'duration': 5.872}
+{'text': 'about more bodily, earthly,\nbut also more cosmic things,', 'start': 4074.703, 'duration': 4.772}
+{'text': 'as well as vision.', 'start': 4079.575, 'duration': 1.101}
+{'text': 'Let me just add\none thing quickly', 'start': 4083.478, 'duration': 1.502}
+{'text': 'before you ask your question.', 'start': 4085.08, 'duration': 2.369}
+{'text': "I would say let's not\nconfuse intensity generically", 'start': 4087.549, 'duration': 4.872}
+{'text': 'with theater.', 'start': 4092.521, 'duration': 1.601}
+{'text': 'That there are\ncertain agreements', 'start': 4094.222, 'duration': 2.469}
+{'text': 'that must be in place in order\nto sustain the theatrical that', 'start': 4096.791, 'duration': 5.606}
+{'text': "don't apply to intensity\nkind of generically.", 'start': 4102.497, 'duration': 3.971}
+{'text': 'And so I think we\nhave to make room', 'start': 4106.568, 'duration': 3.937}
+{'text': 'for some form of presence of\nthe viewing subject that is not', 'start': 4110.605, 'duration': 6.34}
+{'text': 'in that kind of\ntheatrical relationship', 'start': 4117.045, 'duration': 1.903}
+{'text': 'that Fried would\nascribe to anything', 'start': 4119.048, 'duration': 2.335}
+{'text': 'that admits of a beholder.', 'start': 4121.483, 'duration': 2.035}
+{'text': 'So if I sit down\nto eat my dinner', 'start': 4123.619, 'duration': 1.968}
+{'text': 'and it happens to\nbe a chicken, that', 'start': 4125.687, 'duration': 3.504}
+{'text': 'is not necessarily theater.', 'start': 4129.291, 'duration': 2.436}
+{'text': 'And so I would be\ninterested in kind', 'start': 4131.827, 'duration': 1.435}
+{'text': 'of testing the limits of the\nintensity of that proposition', 'start': 4133.362, 'duration': 3.437}
+{'text': 'before it sort of slides over\ninto this other form that', 'start': 4136.899, 'duration': 3.369}
+{'text': 'requires another\nset of agreements.', 'start': 4140.368, 'duration': 2.236}
+{'text': 'Yeah.', 'start': 4142.704, 'duration': 0.401}
+{'text': 'I also amplify your thanks for\nthis incredibly revealing talk', 'start': 4146.374, 'duration': 4.672}
+{'text': 'and presentation.', 'start': 4151.146, 'duration': 1.935}
+{'text': 'Exhibition.', 'start': 4153.181, 'duration': 1.235}
+{'text': 'Michael, can I ask you to\nengage in active, pure thought?', 'start': 4154.516, 'duration': 3.704}
+{'text': 'You had me at\nWordsworth, and what you', 'start': 4158.32, 'duration': 1.935}
+{'text': "didn't seem to address--", 'start': 4160.355, 'duration': 0.901}
+{'text': '[laughter]', 'start': 4161.357, 'duration': 0.933}
+{'text': '--is the first five\nwords of the talk,', 'start': 4162.39, 'duration': 1.702}
+{'text': 'because you dwelled on\nepitaph and monument.', 'start': 4164.193, 'duration': 3.07}
+{'text': 'But the quote starts with,\n"It needs scarcely be said--",', 'start': 4167.363, 'duration': 4.203}
+{'text': 'which is classic preterition,\nso clearly it need be said.', 'start': 4171.666, 'duration': 3.871}
+{'text': 'Yeah.', 'start': 4175.637, 'duration': 0.401}
+{'text': 'Exactly.', 'start': 4176.138, 'duration': 1.802}
+{'text': 'That moment is called\napophasis, when', 'start': 4178.04, 'duration': 3.403}
+{'text': 'you say it need not be said.', 'start': 4181.543, 'duration': 4.171}
+{'text': 'But remember, what I think--', 'start': 4185.814, 'duration': 4.771}
+{'text': 'It need not be\nsaid clearly means', 'start': 4190.685, 'duration': 1.602}
+{'text': 'that this is really important.', 'start': 4192.387, 'duration': 1.903}
+{'text': 'And it is the first\nline of a book.', 'start': 4194.39, 'duration': 3.035}
+{'text': "So he's thought\nabout these words.", 'start': 4197.525, 'duration': 2.603}
+{'text': 'But again, I just simply read it\nas an introduction to the fact', 'start': 4200.228, 'duration': 6.44}
+{'text': 'that his interest is going to\nbe things that are not said.', 'start': 4206.768, 'duration': 6.34}
+{'text': 'And it need not be said, because\nit can be sensed or apprehended', 'start': 4213.208, 'duration': 5.505}
+{'text': 'in other ways.', 'start': 4218.813, 'duration': 1.469}
+{'text': "And so I think there's a\ncircle in that first line", 'start': 4220.382, 'duration': 4.671}
+{'text': 'that it need not be said.', 'start': 4225.153, 'duration': 2.369}
+{'text': "And even the epitaph's real--", 'start': 4227.622, 'duration': 2.903}
+{'text': "And don't forget the\nother side of apophasis.", 'start': 4230.625, 'duration': 3.771}
+{'text': 'What is it called\nwhen death speaks?', 'start': 4234.496, 'duration': 3.303}
+{'text': 'Pro-- propo-- proposophis?', 'start': 4237.899, 'duration': 3.704}
+{'text': "It's full of\nrhetorical machines,", 'start': 4241.703, 'duration': 4.471}
+{'text': 'because an epitaph is\noften attributed to speech', 'start': 4246.274, 'duration': 3.904}
+{'text': 'from the dead.', 'start': 4250.278, 'duration': 1.836}
+{'text': "So it need not be said is also\nit can't be said by a human.", 'start': 4252.214, 'duration': 5.538}
+{'text': 'And this kind of\ninhuman quality,', 'start': 4257.853, 'duration': 3.836}
+{'text': 'which some of the things\nthat we keep returning', 'start': 4261.79, 'duration': 3.303}
+{'text': 'to like indifference,\nboredom, the feral, these', 'start': 4265.193, 'duration': 4.405}
+{'text': 'are also non-human, thing-like\nqualities that I think', 'start': 4269.698, 'duration': 5.305}
+{'text': 'is in that first line as well.', 'start': 4275.103, 'duration': 1.869}
+{'text': 'Lane.', 'start': 4284.88, 'duration': 0.401}
+{'text': 'Sorry for the third\nmale question.', 'start': 4289.318, 'duration': 2.569}
+{'text': 'And I have two things.', 'start': 4291.987, 'duration': 1.034}
+{'text': 'So first is I was hoping\nthat you would come back', 'start': 4293.122, 'duration': 1.701}
+{'text': "to the question of\nthe 1960's discourse", 'start': 4294.923, 'duration': 1.669}
+{'text': "and how that's been read,\nhow that has somehow returned", 'start': 4296.692, 'duration': 2.435}
+{'text': 'or not.', 'start': 4299.227, 'duration': 1.335}
+{'text': 'And the second is direct\ncuratorial question', 'start': 4300.662, 'duration': 2.436}
+{'text': 'about the exhibition,\nwhich is that on one wall,', 'start': 4303.198, 'duration': 2.336}
+{'text': 'you have these diagrams.', 'start': 4305.634, 'duration': 1.101}
+{'text': 'And on the other wall,\nyou have the work itself.', 'start': 4306.835, 'duration': 2.636}
+{'text': 'And in a way, the work itself\nis organized purely visually,', 'start': 4309.571, 'duration': 2.369}
+{'text': 'purely based on vision.', 'start': 4312.04, 'duration': 1.502}
+{'text': 'And I think the analysis\nthat Andrew performed on it', 'start': 4313.642, 'duration': 3.036}
+{'text': 'is largely visual and\nonly transcends being', 'start': 4316.779, 'duration': 4.604}
+{'text': "visual when you've mapped\nit onto these diagrams.", 'start': 4321.483, 'duration': 2.67}
+{'text': 'So I wonder, why you have on\nthe East wall put the work,', 'start': 4324.253, 'duration': 4.036}
+{'text': 'and on the West wall\nput the diagrams,', 'start': 4328.389, 'duration': 1.569}
+{'text': 'and not allowed\nthem to in that way,', 'start': 4330.058, 'duration': 1.802}
+{'text': 'speak to each other or not.', 'start': 4331.96, 'duration': 1.035}
+{'text': "Do you want to take on the '60s?", 'start': 4335.697, 'duration': 2.936}
+{'text': '[laughter]', 'start': 4338.734, 'duration': 1.0}
+{'text': "I'll take on the '60s question.", 'start': 4339.834, 'duration': 1.402}
+{'text': "So Rem Koolhaas' AA\nproject, The Berlin Wall,", 'start': 4344.639, 'duration': 5.706}
+{'text': 'which did nothing but\nphotograph the Berlin Wall', 'start': 4350.445, 'duration': 4.471}
+{'text': 'and declare it architecture,\nwas really, really interesting', 'start': 4355.016, 'duration': 3.471}
+{'text': 'in the same way I think that\nthe Tony Smith is interesting.', 'start': 4358.587, 'duration': 3.837}
+{'text': 'That the experience\nof the highway', 'start': 4362.524, 'duration': 4.17}
+{'text': 'is declared as art\nor as architecture.', 'start': 4366.794, 'duration': 3.738}
+{'text': 'But then we started generating\nthings and this is by no--', 'start': 4370.632, 'duration': 3.17}
+{'text': "I don't have this down.", 'start': 4373.902, 'duration': 1.135}
+{'text': 'I would like to study this.', 'start': 4375.137, 'duration': 1.768}
+{'text': 'Things like Ungers looking\nat Berlin at the time', 'start': 4377.005, 'duration': 2.902}
+{'text': "that it's shrinking and\naccepting the shrinkage.", 'start': 4380.008, 'duration': 4.905}
+{'text': "But even something like\nVenturi's and Scott Brown's", 'start': 4385.013, 'duration': 2.636}
+{'text': 'learning from Las Vegas,\nrather than Las Vegas', 'start': 4387.75, 'duration': 4.97}
+{'text': 'is an abject sight.', 'start': 4392.82, 'duration': 2.704}
+{'text': 'But accepting the\nabjection, of course,', 'start': 4395.624, 'duration': 1.668}
+{'text': 'they try to semiotize it.', 'start': 4397.392, 'duration': 1.669}
+{'text': 'They try to make\nit into a semiotic.', 'start': 4399.161, 'duration': 2.535}
+{'text': 'But the very\ninterest in not just', 'start': 4401.796, 'duration': 2.536}
+{'text': 'a vernacular, but an\nabject vernacular,', 'start': 4404.432, 'duration': 3.204}
+{'text': 'is very close to some\nof the things that', 'start': 4407.736, 'duration': 1.602}
+{'text': 'are going on now like with\nFirst Office is very much that.', 'start': 4409.438, 'duration': 4.337}
+{'text': 'So we were looking I\nthink there are, Oh,', 'start': 4413.875, 'duration': 2.403}
+{'text': 'in Archizoom in the\nNo-Stop City project,', 'start': 4416.378, 'duration': 3.036}
+{'text': 'where the first drawing--', 'start': 4419.514, 'duration': 1.201}
+{'text': 'quote unquote\ndrawings of that-- are', 'start': 4420.815, 'duration': 1.468}
+{'text': 'done a typewriter with\nzeros, slashes, and pluses', 'start': 4422.383, 'duration': 4.539}
+{'text': 'so that they de-skill even\nthe architectural drawing', 'start': 4427.022, 'duration': 5.506}
+{'text': 'process in order to produce\nthis different kind of feel.', 'start': 4432.628, 'duration': 3.636}
+{'text': "So I think that we're interested\nin those experimental projects", 'start': 4436.364, 'duration': 5.072}
+{'text': 'that embrace the lack\nof meaning and try', 'start': 4441.536, 'duration': 4.372}
+{'text': 'to find other sensory,\naffective, these different--', 'start': 4446.008, 'duration': 6.472}
+{'text': 'To expand the sensorium again.', 'start': 4452.58, 'duration': 3.171}
+{'text': "I'll give you the wall is\norganized visually but trying", 'start': 4455.851, 'duration': 4.403}
+{'text': 'to spark interests that\ngo that go beyond that.', 'start': 4460.355, 'duration': 2.669}
+{'text': "And I think the '60s sort of--", 'start': 4463.124, 'duration': 1.668}
+{'text': 'The other thing that for an\nunreconstructed Hegelian,', 'start': 4464.892, 'duration': 3.571}
+{'text': 'as Antoine has pointed out\nmany times that I still am,', 'start': 4468.563, 'duration': 4.638}
+{'text': 'to have a theoretical discourse\nand an architectural discourse', 'start': 4473.301, 'duration': 4.739}
+{'text': 'align around issues of\nmateriality and non-semantic', 'start': 4478.14, 'duration': 8.041}
+{'text': 'significance, if\nyou will, is just', 'start': 4486.281, 'duration': 2.435}
+{'text': 'thrilling to kind\nof think about.', 'start': 4488.816, 'duration': 4.505}
+{'text': 'I would also--', 'start': 4493.421, 'duration': 1.936}
+{'text': 'Lane, I appreciate the\nquestion very much.', 'start': 4495.457, 'duration': 2.402}
+{'text': 'And I would like to\nmaybe put it in relation', 'start': 4497.959, 'duration': 2.203}
+{'text': "to Alexander's question.", 'start': 4500.262, 'duration': 3.169}
+{'text': 'So if Alex is asking,\nhave you indeed escaped', 'start': 4503.532, 'duration': 3.47}
+{'text': "Michael Fried's\njudgment of theater?", 'start': 4507.102, 'duration': 2.769}
+{'text': "And you're asking,\nhave we indeed found", 'start': 4509.971, 'duration': 2.769}
+{'text': 'a kind of escape velocity\nfrom the visual field?', 'start': 4512.84, 'duration': 3.738}
+{'text': 'Both of those, I think, are\nprofoundly modern questions.', 'start': 4516.678, 'duration': 4.939}
+{'text': 'Like, is experience describable\nby this kind of the matrix', 'start': 4521.717, 'duration': 5.104}
+{'text': 'construct?', 'start': 4526.922, 'duration': 1.401}
+{'text': 'And to what extent are we going\nto think through these sense', 'start': 4528.423, 'duration': 6.339}
+{'text': 'data as sort of separate\nstreams where cognition', 'start': 4534.863, 'duration': 3.203}
+{'text': 'is hovering above them?', 'start': 4538.166, 'duration': 2.936}
+{'text': 'And maybe we would suggest not--', 'start': 4541.202, 'duration': 5.806}
+{'text': 'Non-modern position\nis maybe too strong.', 'start': 4547.108, 'duration': 2.736}
+{'text': "But I think we're leaning toward\na kind of non-modern position", 'start': 4549.944, 'duration': 4.805}
+{'text': 'where we would not be\nembarrassed to admit', 'start': 4554.849, 'duration': 3.57}
+{'text': 'of the visual.', 'start': 4558.519, 'duration': 1.302}
+{'text': 'We would also simply claim that\nit is not so easily pried apart', 'start': 4559.921, 'duration': 4.604}
+{'text': 'from all of the other\nways in which we might', 'start': 4564.626, 'duration': 3.67}
+{'text': 'sort of walk around the world,\nand consume it, and think', 'start': 4568.396, 'duration': 2.869}
+{'text': 'about it.', 'start': 4571.366, 'duration': 1.034}
+{'text': "So that the beauty of\nFoucault's meditation", 'start': 4572.501, 'duration': 4.304}
+{'text': 'in the order of things,\nthat the prose of the world', 'start': 4576.905, 'duration': 2.035}
+{'text': 'where he talks about\nthese Renaissance', 'start': 4579.04, 'duration': 1.502}
+{'text': 'systems of similitude, is\nthat there is no easy way', 'start': 4580.642, 'duration': 4.637}
+{'text': 'to kind of disentangle these\nprimarily visual metaphors', 'start': 4585.379, 'duration': 3.738}
+{'text': 'from the intellectual content\nthat they are organizing', 'start': 4589.217, 'duration': 4.237}
+{'text': 'and related to.', 'start': 4593.554, 'duration': 1.269}
+{'text': 'So the kind of onion, and brain,\nand dome similitude that he', 'start': 4594.923, 'duration': 5.305}
+{'text': 'calls out is optical,\nfor sure, but it is also', 'start': 4600.329, 'duration': 3.536}
+{'text': 'a kind of larger ordering\nsystem for the world.', 'start': 4603.965, 'duration': 3.471}
+{'text': 'Your talk was fascinating.', 'start': 4610.037, 'duration': 1.469}
+{'text': "My name's Ann Sussman.", 'start': 4611.606, 'duration': 1.101}
+{'text': 'I do a blog called The\nGenetics of Design.', 'start': 4612.807, 'duration': 2.002}
+{'text': "I'm a licensed architect.", 'start': 4614.909, 'duration': 1.702}
+{'text': 'I think your talk is\nvery, very interesting.', 'start': 4616.711, 'duration': 1.702}
+{'text': "On the other hand, I\nthink it's stuck in time.", 'start': 4618.513, 'duration': 2.669}
+{'text': "We're in Boston, in\nCambridge, the center", 'start': 4621.282, 'duration': 2.669}
+{'text': 'of the biotech revolution.', 'start': 4624.051, 'duration': 1.703}
+{'text': 'Harvard actually promoted a\nlot of that biotech revolution.', 'start': 4625.854, 'duration': 4.07}
+{'text': "And I think the problem you're\ngoing to face going forward", 'start': 4630.024, 'duration': 2.336}
+{'text': 'with this-- this a warning--', 'start': 4632.46, 'duration': 1.435}
+{'text': 'is that people are going\nto start assessing it', 'start': 4633.996, 'duration': 1.801}
+{'text': 'with biotechnological tools.', 'start': 4635.897, 'duration': 2.369}
+{'text': "Right now I'm a designer.", 'start': 4638.366, 'duration': 1.635}
+{'text': 'So I know that car\ndesigners all use biotech.', 'start': 4640.102, 'duration': 4.637}
+{'text': 'Honda, BMW.', 'start': 4644.839, 'duration': 2.937}
+{'text': 'Advertisers all use biotech.', 'start': 4647.876, 'duration': 1.568}
+{'text': 'Facial expression analysis.', 'start': 4649.544, 'duration': 1.335}
+{'text': "I've used eye tracking, EEG.", 'start': 4650.979, 'duration': 4.405}
+{'text': 'You can no longer talk\nabout Foucault and Derrida.', 'start': 4655.484, 'duration': 3.703}
+{'text': "Toyota would think\nyou're out of your mind.", 'start': 4659.287, 'duration': 2.202}
+{'text': 'And the same brain that looks\nat a car or looks at an ad,', 'start': 4661.589, 'duration': 4.638}
+{'text': 'is the same brain that\nlooks at a building.', 'start': 4666.327, 'duration': 3.237}
+{'text': "It's a brain that's\n3.6 billion years old.", 'start': 4669.664, 'duration': 3.136}
+{'text': "It's hardwired from birth\nto like specific images more", 'start': 4672.9, 'duration': 6.14}
+{'text': 'than others.', 'start': 4679.14, 'duration': 0.868}
+{'text': "I'm not going to\ntell you what it is.", 'start': 4680.108, 'duration': 1.935}
+{'text': 'OK.', 'start': 4682.143, 'duration': 1.101}
+{'text': 'So part of your, I think,\nintellectual foundation', 'start': 4683.344, 'duration': 3.236}
+{'text': 'is false.', 'start': 4686.681, 'duration': 1.101}
+{'text': 'In the first place, the\nmind is not a blank slate.', 'start': 4687.882, 'duration': 2.836}
+{'text': "I'm quoting there Harvard\npsychologist, professor,", 'start': 4690.818, 'duration': 3.904}
+{'text': 'Steven Pinker, his\nbestselling book.', 'start': 4694.822, 'duration': 2.103}
+{'text': "You argue the mind's\na blank slate.", 'start': 4697.025, 'duration': 1.334}
+{'text': "The mind's not a blank slate.", 'start': 4698.459, 'duration': 1.101}
+{'text': 'Read Steven Pinker.', 'start': 4699.66, 'duration': 1.269}
+{'text': "The other way you're\nconfused in your thinking", 'start': 4701.029, 'duration': 2.936}
+{'text': 'is on one hand, you say,\nwhich I agree with, we have', 'start': 4704.065, 'duration': 2.102}
+{'text': 'an emotional brain that thinks.', 'start': 4706.267, 'duration': 1.234}
+{'text': "You're saying that a lot.", 'start': 4707.601, 'duration': 1.102}
+{'text': 'But on the other hand,\nyou say we have a thinking', 'start': 4708.803, 'duration': 1.769}
+{'text': 'brain that has emotions.', 'start': 4710.672, 'duration': 1.001}
+{'text': 'You cannot have it both ways.', 'start': 4711.773, 'duration': 3.036}
+{'text': 'Read Harvard neuroanatomist\nJill Bolte Taylor.', 'start': 4714.909, 'duration': 3.77}
+{'text': "She's got the most\nhits on YouTube.", 'start': 4718.779, 'duration': 2.637}
+{'text': 'She was a neuroanatomist\nwho got a stroke', 'start': 4721.516, 'duration': 1.701}
+{'text': 'and watched her brain go down.', 'start': 4723.317, 'duration': 1.936}
+{'text': 'So we have an emotional\nbrain that thinks.', 'start': 4725.353, 'duration': 2.97}
+{'text': 'So how do we really define\narchitectural theory', 'start': 4728.423, 'duration': 3.77}
+{'text': "knowing we're all emotional?", 'start': 4732.293, 'duration': 1.903}
+{'text': "And here's the kicker.", 'start': 4734.296, 'duration': 1.001}
+{'text': "You can't do it\nunless you're doing", 'start': 4735.397, 'duration': 2.068}
+{'text': 'the same tools that Toyota\nand BMW are already using.', 'start': 4737.565, 'duration': 4.338}
+{'text': 'So I think your talk is great.', 'start': 4742.003, 'duration': 1.268}
+{'text': 'And I think in a way\ntalking about affect', 'start': 4743.371, 'duration': 1.735}
+{'text': 'giving architecture\na role to play,', 'start': 4745.206, 'duration': 1.335}
+{'text': "that's absolutely\nwhat they're studying.", 'start': 4746.641, 'duration': 2.969}
+{'text': 'But I think you need\nto bring your kids', 'start': 4749.71, 'duration': 1.803}
+{'text': 'into the 21st century.', 'start': 4751.613, 'duration': 0.834}
+{'text': "They're going to enter a world--", 'start': 4752.547, 'duration': 1.168}
+{'text': 'I know this.', 'start': 4753.815, 'duration': 1.235}
+{'text': 'I just got a grant to eye\ntrack buildings in the suburbs.', 'start': 4755.15, 'duration': 2.568}
+{'text': "Your architects won't know\nhow I'm going to assess it.", 'start': 4757.818, 'duration': 2.57}
+{'text': "And I'm going to assess\nit with hard data.", 'start': 4760.488, 'duration': 1.635}
+{'text': "I'm going to tell\nthem that people", 'start': 4762.223, 'duration': 1.334}
+{'text': "can't find the front door.", 'start': 4763.657, 'duration': 1.202}
+{'text': 'You get it?', 'start': 4764.959, 'duration': 1.101}
+{'text': "So you've got to take your\ntalk to the next level", 'start': 4766.16, 'duration': 2.035}
+{'text': "because we're in\nCambridge, which", 'start': 4768.296, 'duration': 1.268}
+{'text': 'is the center of the\nbiotech revolution.', 'start': 4769.664, 'duration': 1.868}
+{'text': 'The fact is paradigm\nshifts are brutal.', 'start': 4771.632, 'duration': 2.403}
+{'text': "They're not nice.", 'start': 4774.135, 'duration': 0.835}
+{'text': 'Think about Steve Jobs.', 'start': 4775.07, 'duration': 0.867}
+{'text': "Wasn't a nice guy.", 'start': 4776.037, 'duration': 1.268}
+{'text': "But they're going\nto happen anyway.", 'start': 4777.405, 'duration': 1.335}
+{'text': "They don't care what you did.", 'start': 4778.84, 'duration': 1.768}
+{'text': "I'm sorry.", 'start': 4780.709, 'duration': 0.566}
+{'text': "I don't mean to be--", 'start': 4781.375, 'duration': 0.735}
+{'text': "But I'd be happy to talk more--", 'start': 4782.21, 'duration': 1.135}
+{'text': "It's definitely fascinating\nto me that one could--", 'start': 4783.445, 'duration': 2.435}
+{'text': 'Part of the response\nthat I think', 'start': 4785.98, 'duration': 2.303}
+{'text': 'when Andrew was\nresponding to Lane about', 'start': 4788.383, 'duration': 2.769}
+{'text': 'not to deny the\nvisual, but to layer', 'start': 4791.252, 'duration': 3.537}
+{'text': 'other kinds of\nconsiderations into it.', 'start': 4794.889, 'duration': 3.704}
+{'text': 'What I would take from\nyour comment is just that.', 'start': 4798.693, 'duration': 2.369}
+{'text': 'That I would love to have a\ngroup of architecture people,', 'start': 4801.162, 'duration': 5.539}
+{'text': "some of whom understood the\ntechnology that you're saying.", 'start': 4806.801, 'duration': 3.27}
+{'text': 'But to bring it and add it to\nother techniques of reading.', 'start': 4810.171, 'duration': 4.638}
+{'text': "Rather than let's say,\nlet's forget the old but--", 'start': 4814.909, 'duration': 4.171}
+{'text': 'Let me just finish.', 'start': 4819.18, 'duration': 1.135}
+{'text': 'Let me just-- One more\nthing because the one thing', 'start': 4820.415, 'duration': 1.702}
+{'text': "that you're\nrecommending, it tends", 'start': 4822.217, 'duration': 3.503}
+{'text': 'toward the purely empirical.', 'start': 4825.82, 'duration': 2.236}
+{'text': 'So that any dimension that\ncannot be put in terms of data', 'start': 4828.156, 'duration': 7.907}
+{'text': 'will be ignored, which is\nin architecture, or in art,', 'start': 4836.163, 'duration': 4.105}
+{'text': 'or in culture, is a huge\ndimension of something that', 'start': 4840.368, 'duration': 3.537}
+{'text': 'cannot be put into data.', 'start': 4844.005, 'duration': 2.736}
+{'text': "So you're going toward\na kind of empiricism", 'start': 4846.841, 'duration': 3.404}
+{'text': "that's very sophisticated,\nbut it's still in empiricism.", 'start': 4850.345, 'duration': 3.703}
+{'text': 'It has no\ntranscendental dimension', 'start': 4854.148, 'duration': 3.504}
+{'text': 'of virtuality or speculation.', 'start': 4857.752, 'duration': 2.135}
+{'text': 'This is a longer conversation.', 'start': 4859.987, 'duration': 1.569}
+{'text': 'No, no.', 'start': 4861.656, 'duration': 0.701}
+{'text': 'And I would love to have it.', 'start': 4862.457, 'duration': 1.034}
+{'text': 'Yeah.', 'start': 4863.591, 'duration': 0.934}
+{'text': 'And I would love to\nhave it with you.', 'start': 4864.625, 'duration': 0.667}
+{'text': "It's very, very powerful.", 'start': 4865.392, 'duration': 0.335}
+{'text': 'Yeah.', 'start': 4865.827, 'duration': 1.268}
+{'text': 'The most powerful companies in\nthe world would be using it.', 'start': 4867.195, 'duration': 1.034}
+{'text': "And that's what is\ndefining their designs.", 'start': 4868.329, 'duration': 2.302}
+{'text': 'No.', 'start': 4870.731, 'duration': 1.136}
+{'text': "What's defining their\ndesigns is the economic hope", 'start': 4871.967, 'duration': 3.436}
+{'text': 'of that technology.', 'start': 4875.503, 'duration': 1.368}
+{'text': "We're not talking about an\neconomically driven reading", 'start': 4876.971, 'duration': 3.204}
+{'text': 'system here.', 'start': 4880.275, 'duration': 0.867}
+{'text': "You're talking\nabout a data system", 'start': 4881.242, 'duration': 2.169}
+{'text': 'that the hope lies\nin its bottom line,', 'start': 4883.511, 'duration': 4.104}
+{'text': 'not in its cultural value.', 'start': 4887.715, 'duration': 1.669}
+{'text': 'Modern architecture is about\ntechnological revolution.', 'start': 4894.422, 'duration': 2.903}
+{'text': "If it weren't for\nthe steamships,", 'start': 4897.425, 'duration': 1.268}
+{'text': "we wouldn't have had modern\narchitecture, basically.", 'start': 4898.793, 'duration': 2.536}
+{'text': 'And so now modern\narchitecture is', 'start': 4901.429, 'duration': 2.102}
+{'text': 'faced with a fantastically\ndisruptive new technology.', 'start': 4903.631, 'duration': 3.136}
+{'text': 'As disruptive as\nsteamships were.', 'start': 4906.868, 'duration': 1.968}
+{'text': 'We could talk later.', 'start': 4908.936, 'duration': 0.934}
+{'text': "I'd be happy to\ngive you my card.", 'start': 4909.97, 'duration': 1.269}
+{'text': 'I think it was a great talk.', 'start': 4911.339, 'duration': 2.569}
+{'text': 'You can come to my class.', 'start': 4914.008, 'duration': 1.535}
+{'text': '[laughter]', 'start': 4915.644, 'duration': 2.801}
+{'text': "You're on.", 'start': 4918.546, 'duration': 0.868}
+{'text': 'You may have stopped\nthe conversation.', 'start': 4925.92, 'duration': 1.701}
+{'text': 'Oh.', 'start': 4927.721, 'duration': 0.468}
+{'text': 'OK.', 'start': 4928.289, 'duration': 0.401}
+{'text': 'Why justify your\nentire reading system', 'start': 4931.592, 'duration': 2.336}
+{'text': "using post-structuralists\nwhen you're", 'start': 4934.028, 'duration': 2.836}
+{'text': 'doing a structuralist project?', 'start': 4936.964, 'duration': 3.271}
+{'text': 'Oh, they gave me a mic.', 'start': 4940.335, 'duration': 1.367}
+{'text': 'Are you guys ready?', 'start': 4941.802, 'duration': 1.135}
+{'text': 'But all the post-structuralists\nyou like to cite', 'start': 4943.038, 'duration': 2.669}
+{'text': 'reject the concept\nof deep structure,', 'start': 4945.807, 'duration': 1.868}
+{'text': "and you're trying\nto re-imbed one.", 'start': 4947.775, 'duration': 1.335}
+{'text': 'Why do you do that?', 'start': 4949.21, 'duration': 1.035}
+{'text': 'Yeah.', 'start': 4950.345, 'duration': 1.0}
+{'text': 'See.', 'start': 4951.445, 'duration': 0.401}
+{'text': 'I always feel that\ntraps are set then', 'start': 4956.217, 'duration': 5.972}
+{'text': "if you don't follow a\nkind of linear logic.", 'start': 4962.29, 'duration': 6.94}
+{'text': "Why can't I be structuralist\nand post-structuralist", 'start': 4969.33, 'duration': 5.873}
+{'text': 'based on the kind of explanatory\npower of certain models?', 'start': 4975.303, 'duration': 7.24}
+{'text': 'Where did she go?', 'start': 4982.643, 'duration': 1.368}
+{'text': 'Oh.', 'start': 4984.111, 'duration': 1.235}
+{'text': "Why can't I continue to use\nFoucault or Derrida if they", 'start': 4985.446, 'duration': 4.672}
+{'text': 'help me explain something,\nbut without worrying', 'start': 4990.218, 'duration': 4.203}
+{'text': 'about the correctness and the\npurity of keeping it structural', 'start': 4994.521, 'duration': 6.14}
+{'text': 'or letting it be\npost-structuralist when', 'start': 5000.761, 'duration': 2.37}
+{'text': 'the one came from the other.', 'start': 5003.231, 'duration': 1.301}
+{'text': 'I mean, when Derrida writes to\nthe criticism of Levi Strauss', 'start': 5004.632, 'duration': 6.806}
+{'text': "and says that he doesn't\nunderstand structuralism", 'start': 5011.539, 'duration': 2.569}
+{'text': "because he's too\ndescriptive and synchronic,", 'start': 5014.208, 'duration': 4.472}
+{'text': 'post-structuralism was born.', 'start': 5018.78, 'duration': 1.434}
+{'text': 'But the one came\nfrom the others.', 'start': 5020.315, 'duration': 1.734}
+{'text': "So I don't know why\nI have to be pure.", 'start': 5022.149, 'duration': 2.67}
+{'text': "You're asking me to be pure.", 'start': 5024.919, 'duration': 2.969}
+{'text': 'It should make sense that\nif you want your philosophy', 'start': 5027.988, 'duration': 5.607}
+{'text': 'or whatever this\nis supposed to be--', 'start': 5033.695, 'duration': 2.301}
+{'text': "It's not philosophy.", 'start': 5036.096, 'duration': 1.135}
+{'text': "It's not philosophy.", 'start': 5037.331, 'duration': 0.901}
+{'text': 'I never said I was\ndoing philosophy.', 'start': 5038.332, 'duration': 1.902}
+{'text': 'No.', 'start': 5040.334, 'duration': 0.901}
+{'text': 'I never said I was\ndoing philosophy.', 'start': 5041.335, 'duration': 1.235}
+{'text': 'And also, Levi Strauss is not\na philosopher and Derrida,', 'start': 5042.67, 'duration': 2.435}
+{'text': "I'm not even sure\nhe's a philosopher.", 'start': 5045.205, 'duration': 1.436}
+{'text': 'And de Man is certainly\nnot a philosopher.', 'start': 5046.741, 'duration': 1.768}
+{'text': "They're literary people, and\nI'm an architectural theorist.", 'start': 5048.609, 'duration': 3.47}
+{'text': "And I'm a bad historian,\nbut I'm a very good", 'start': 5052.179, 'duration': 2.203}
+{'text': 'architectural theorist.', 'start': 5054.482, 'duration': 0.968}
+{'text': 'And I need philosophy,\nbecause I use it.', 'start': 5055.55, 'duration': 4.671}
+{'text': "I don't have to be\ncorrect with it.", 'start': 5060.321, 'duration': 1.902}
+{'text': "I don't have to be.", 'start': 5062.323, 'duration': 1.301}
+{'text': 'Well then why should we buy the\nexistence of the deep structure', 'start': 5063.724, 'duration': 1.735}
+{'text': 'you describe?', 'start': 5065.559, 'duration': 1.101}
+{'text': "All you've told us is\nthat a lot of these things", 'start': 5066.76, 'duration': 2.103}
+{'text': 'seem to look similar.', 'start': 5068.963, 'duration': 1.735}
+{'text': 'Where is the deep\nstructure in that?', 'start': 5070.798, 'duration': 1.401}
+{'text': "I mean, they all look\nat each other's stuff.", 'start': 5072.3, 'duration': 1.734}
+{'text': "That's not deep structure.", 'start': 5074.134, 'duration': 1.136}
+{'text': "That's culturally historically\nspecific structure.", 'start': 5075.37, 'duration': 3.27}
+{'text': 'We all read Art Daily.', 'start': 5078.74, 'duration': 0.967}
+{'text': 'We all look at the\nsame magazines.', 'start': 5079.807, 'duration': 3.236}
+{'text': "Where's the deep\nstructure in that?", 'start': 5083.143, 'duration': 1.736}
+{'text': 'I think the attempt was--', 'start': 5090.484, 'duration': 3.337}
+{'text': 'as preliminary as it was--', 'start': 5093.921, 'duration': 2.969}
+{'text': 'to try to look open mindedly and\nspeculatively of a generation.', 'start': 5096.99, 'duration': 11.379}
+{'text': "They're more than\none generation,", 'start': 5108.469, 'duration': 1.335}
+{'text': 'but there is a\ncertain age group that', 'start': 5109.904, 'duration': 3.77}
+{'text': 'seem to be sort of\ntrending toward certain new', 'start': 5113.774, 'duration': 5.506}
+{'text': 'sensibilities that architecture\nhas not looked at lately.', 'start': 5119.38, 'duration': 4.137}
+{'text': 'And we found that\nreally interesting.', 'start': 5123.617, 'duration': 1.669}
+{'text': 'And as Andrew said,\nit had assumed', 'start': 5125.386, 'duration': 2.469}
+{'text': 'that there was no center.', 'start': 5127.955, 'duration': 1.735}
+{'text': "And we're not\nlooking for a center.", 'start': 5129.79, 'duration': 1.368}
+{'text': 'It had been assumed that there\nwas no structure, that people', 'start': 5131.258, 'duration': 4.572}
+{'text': 'were just doing their own thing.', 'start': 5135.93, 'duration': 2.302}
+{'text': "And I just don't believe\nthat that's possible", 'start': 5138.332, 'duration': 2.069}
+{'text': 'when we live in the same world.', 'start': 5140.501, 'duration': 3.503}
+{'text': 'And our response to\nthat world will--', 'start': 5144.104, 'duration': 3.304}
+{'text': "by that the fact that\nwe're in the same world--", 'start': 5147.508, 'duration': 2.402}
+{'text': 'will have something in common.', 'start': 5150.01, 'duration': 1.669}
+{'text': 'And a biologist and an\narchitect may find common ground', 'start': 5151.779, 'duration': 4.771}
+{'text': 'structurally because they\nlive in the same world.', 'start': 5156.65, 'duration': 4.505}
+{'text': "And that's history is based on\nis finding those connections.", 'start': 5161.255, 'duration': 3.937}
+{'text': "So we're just trying to find--", 'start': 5165.292, 'duration': 1.135}
+{'text': "That's the fundamental\npremise about history", 'start': 5166.528, 'duration': 1.734}
+{'text': 'that Foucault rejects.', 'start': 5168.362, 'duration': 3.171}
+{'text': 'Stop trying to teach me\nlessons about Foucault. OK.', 'start': 5171.633, 'duration': 7.072}
+{'text': 'I can use Foucault, and\nI understand Foucault.', 'start': 5178.806, 'duration': 3.603}
+{'text': "I can disagree with Foucault.\nI don't have to use philosophy", 'start': 5182.509, 'duration': 4.338}
+{'text': 'as a guidebook.', 'start': 5186.947, 'duration': 0.901}
+{'text': "I don't have to.", 'start': 5187.948, 'duration': 1.302}
+{'text': 'But you need to present\narguments for why--', 'start': 5189.35, 'duration': 3.169}
+{'text': 'I had half an hour.', 'start': 5192.619, 'duration': 1.102}
+{'text': 'Give me more time.', 'start': 5193.821, 'duration': 3.47}
+{'text': 'I will.', 'start': 5197.391, 'duration': 1.569}
+{'text': 'I need more time.', 'start': 5199.06, 'duration': 1.235}
+{'text': 'Why are we getting beat up?', 'start': 5208.903, 'duration': 1.568}
+{'text': '[laughter]', 'start': 5210.572, 'duration': 0.8}
+{'text': 'It was a bad lecture.', 'start': 5211.472, 'duration': 1.235}
+{'text': 'Thanks for the talk.', 'start': 5217.811, 'duration': 2.604}
+{'text': 'So I really love this idea\nof trying to survey the field', 'start': 5220.515, 'duration': 3.436}
+{'text': "and figure out what's going\non, because I think there's", 'start': 5224.051, 'duration': 3.27}
+{'text': 'a tendency to say\nso much is going on', 'start': 5227.421, 'duration': 2.469}
+{'text': 'that we just have to throw up\nour hands and sort of jump in.', 'start': 5229.99, 'duration': 3.737}
+{'text': 'But I think if I\ncould be convinced', 'start': 5233.827, 'duration': 3.07}
+{'text': 'that you could survey the field\nand create even like, a Hegel', 'start': 5236.997, 'duration': 3.504}
+{'text': "level master history\nof what's going on,", 'start': 5240.601, 'duration': 3.37}
+{'text': 'I would follow you\nthere all the way.', 'start': 5244.071, 'duration': 3.17}
+{'text': "So my question is, if\nwhat you're trying to do", 'start': 5247.342, 'duration': 2.635}
+{'text': 'is survey the field, how are\nyou defining the field such', 'start': 5250.077, 'duration': 3.738}
+{'text': 'that only the things in this\nexhibition are included?', 'start': 5253.915, 'duration': 3.569}
+{'text': "And I don't want to be\ntoo pointed about it,", 'start': 5257.585, 'duration': 2.536}
+{'text': "but if it is that\nyou're just trying", 'start': 5260.221, 'duration': 2.869}
+{'text': 'to sample a kind of\nvanguard that is suggesting', 'start': 5263.19, 'duration': 3.036}
+{'text': 'the direction of\nthe history, then', 'start': 5266.326, 'duration': 2.37}
+{'text': "why is it that it's mostly\nthese sort of small, sort", 'start': 5268.796, 'duration': 5.538}
+{'text': 'of projectless, sort of\nbourgeois North American', 'start': 5274.435, 'duration': 4.604}
+{'text': 'and Western European practices?', 'start': 5279.139, 'duration': 1.769}
+{'text': 'Thank you.', 'start': 5281.009, 'duration': 2.501}
+{'text': "It's very bourgeois.", 'start': 5283.61, 'duration': 1.001}
+{'text': "It's very North American.", 'start': 5284.711, 'duration': 1.536}
+{'text': "It's our friends.", 'start': 5286.347, 'duration': 1.935}
+{'text': 'Yeah.', 'start': 5288.382, 'duration': 2.569}
+{'text': 'No I mean, I think--', 'start': 5291.051, 'duration': 2.136}
+{'text': 'it seems to me as though\nmany of the questions', 'start': 5293.288, 'duration': 5.905}
+{'text': 'are being launched\nfrom a place that sort', 'start': 5299.293, 'duration': 4.071}
+{'text': 'of presumes an infinite and\ninfinitely neutral data set.', 'start': 5303.464, 'duration': 7.34}
+{'text': 'And I use the word data\nquite intentionally,', 'start': 5310.904, 'duration': 4.005}
+{'text': 'as though we could sort of\nlike, look down from above', 'start': 5315.009, 'duration': 3.036}
+{'text': 'on every architectural project\nwithin the last 35 years', 'start': 5318.145, 'duration': 4.972}
+{'text': 'and make informed\nselections that', 'start': 5323.217, 'duration': 2.969}
+{'text': 'would then result in their\npresence in the gallery.', 'start': 5326.286, 'duration': 2.036}
+{'text': 'And I would like to\nposit two things.', 'start': 5328.422, 'duration': 2.869}
+{'text': "I'm not sure that's\na useful exercise.", 'start': 5331.391, 'duration': 2.904}
+{'text': "And secondly,\nthat's certainly not", 'start': 5334.395, 'duration': 2.369}
+{'text': "what we're trying to do at all.", 'start': 5336.864, 'duration': 2.136}
+{'text': "We're trying to construct\na kind of mythos", 'start': 5339.1, 'duration': 3.804}
+{'text': 'really out of whole\ncloth that has', 'start': 5343.004, 'duration': 4.07}
+{'text': 'a certain kind of\ninterior coherence to it', 'start': 5347.174, 'duration': 4.872}
+{'text': 'that is probably more intended\nas a kind of generating', 'start': 5352.146, 'duration': 4.104}
+{'text': 'mechanism for reducing the\ncrippling self-consciousness', 'start': 5356.35, 'duration': 5.038}
+{'text': 'of young architects as they\nattempt to do more stuff.', 'start': 5361.488, 'duration': 4.438}
+{'text': 'More than it is an\nattempt to describe', 'start': 5366.026, 'duration': 3.103}
+{'text': 'anything in empirical terms,\nor god forbid, correct terms.', 'start': 5369.229, 'duration': 3.905}
+{'text': 'I have no interest in that.', 'start': 5373.234, 'duration': 3.536}
+{'text': "So I would say\nwhat's out there--", 'start': 5376.87, 'duration': 3.37}
+{'text': "well it's A, available,\nintellectually available.", 'start': 5380.34, 'duration': 5.44}
+{'text': "It's B, work where we feel\nquite confident that the GSD has", 'start': 5385.88, 'duration': 5.505}
+{'text': 'a kind of generative role in the\ninitiation of certain strands', 'start': 5391.485, 'duration': 4.171}
+{'text': 'of thought.', 'start': 5395.756, 'duration': 1.101}
+{'text': 'And so we are already a\nkind of bounded system', 'start': 5396.958, 'duration': 3.803}
+{'text': 'if we want to take\nthe sort of data view.', 'start': 5400.861, 'duration': 2.569}
+{'text': 'Certain agreements\nhave been made', 'start': 5403.53, 'duration': 1.903}
+{'text': "and we're all in this room.", 'start': 5405.533, 'duration': 1.902}
+{'text': "And I think if this isn't an\nentirely accurate reflection", 'start': 5407.535, 'duration': 5.706}
+{'text': 'of all of the\npeople in this room,', 'start': 5413.341, 'duration': 1.901}
+{'text': "there are a few lies in there,\nwe hope it's a compelling one.", 'start': 5415.342, 'duration': 4.605}
+{'text': 'And the power to compel would\nbe far more important to us', 'start': 5420.047, 'duration': 4.071}
+{'text': 'than the kind of accuracy\nof any single move.', 'start': 5424.218, 'duration': 3.904}
+{'text': 'Yeah.', 'start': 5428.222, 'duration': 0.401}
+{'text': 'What I appreciate is that\na lot of these things that', 'start': 5435.896, 'duration': 6.273}
+{'text': 'led to this exhibition--', 'start': 5442.269, 'duration': 1.402}
+{'text': 'This is a convergence\nof a lot of things', 'start': 5443.771, 'duration': 2.335}
+{'text': 'that the school has in place.', 'start': 5446.206, 'duration': 2.436}
+{'text': 'Like Alice, where we first\ntalked about that Wordsworth', 'start': 5448.742, 'duration': 3.437}
+{'text': 'passage.', 'start': 5452.279, 'duration': 1.768}
+{'text': 'At a symposium,\nthe sort of salon,', 'start': 5454.147, 'duration': 5.106}
+{'text': 'that Jennifer and\nAndrew organized', 'start': 5459.353, 'duration': 1.368}
+{'text': 'where we first started using\na certain kind of vocabulary.', 'start': 5460.821, 'duration': 3.804}
+{'text': 'In the various convergences\nfrom classes, to other lectures,', 'start': 5464.725, 'duration': 5.806}
+{'text': 'to visiting critics, to trips.', 'start': 5470.631, 'duration': 4.004}
+{'text': "There's a kind of\nconvergence and an excitement", 'start': 5474.735, 'duration': 2.669}
+{'text': 'that the GSD has a way of\nconvening and collecting', 'start': 5477.504, 'duration': 5.306}
+{'text': 'that just to amplify\nwhat Andrew just said,', 'start': 5482.91, 'duration': 4.872}
+{'text': 'that I hope we can continue.', 'start': 5487.882, 'duration': 3.836}
+{'text': 'And move forward again,\nwithout worrying about--', 'start': 5491.819, 'duration': 3.37}
+{'text': 'We need to be rigorous.', 'start': 5495.289, 'duration': 0.868}
+{'text': 'We need to be accurate.', 'start': 5496.257, 'duration': 1.001}
+{'text': 'We need to be rigorous.', 'start': 5497.358, 'duration': 2.068}
+{'text': 'But we also need to just\nspeculate and imagine.', 'start': 5499.527, 'duration': 4.036}
+{'text': 'And I think that part of what\nthe exhibition is trying to do', 'start': 5503.663, 'duration': 4.139}
+{'text': 'is to reward imagining.', 'start': 5507.902, 'duration': 2.902}
+{'text': "And I think it's been really\nenjoyable to talk about it", 'start': 5510.904, 'duration': 5.74}
+{'text': 'and work with it.', 'start': 5516.744, 'duration': 1.301}
+{'text': 'And thank you all\nso much for coming.', 'start': 5518.145, 'duration': 1.668}
+{'text': 'Thanks a lot.', 'start': 5519.913, 'duration': 0.801}
+{'text': '[applause]', 'start': 5520.815, 'duration': 3.236}

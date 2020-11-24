@@ -1,0 +1,1777 @@
+{'text': 'okay good evening thank you for having', 'start': 2.76, 'duration': 4.71}
+{'text': 'me here thank you manager for the', 'start': 5.59, 'duration': 4.37}
+{'text': 'introduction and ever thank you for', 'start': 7.47, 'duration': 6.1}
+{'text': 'having me here speak tonight but also to', 'start': 9.96, 'duration': 7.149}
+{'text': "launch this book but also I think it's", 'start': 13.57, 'duration': 6.959}
+{'text': 'such a thick book and it deserves to be', 'start': 17.109, 'duration': 5.701}
+{'text': 'I mean thanked in all kind of directions', 'start': 20.529, 'duration': 5.07}
+{'text': "and the thickness doesn't come about in", 'start': 22.81, 'duration': 5.16}
+{'text': 'one day and one part was also that I', 'start': 25.599, 'duration': 4.711}
+{'text': 'could teach here is seminar which I have', 'start': 27.97, 'duration': 5.25}
+{'text': 'some students still here so I think one', 'start': 30.31, 'duration': 6.87}
+{'text': 'of the driving forces also is the kind', 'start': 33.22, 'duration': 6.98}
+{'text': 'of the change over the material of', 'start': 37.18, 'duration': 8.61}
+{'text': "authors contributions and I think I'm", 'start': 40.2, 'duration': 8.74}
+{'text': 'very grateful to to have had this', 'start': 45.79, 'duration': 5.4}
+{'text': 'opportunity to to be here and to engage', 'start': 48.94, 'duration': 5.04}
+{'text': 'with actually at the time a really nice', 'start': 51.19, 'duration': 5.07}
+{'text': 'group and also with Manatee this longer', 'start': 53.98, 'duration': 4.38}
+{'text': 'ago on a different topic but I I do', 'start': 56.26, 'duration': 2.79}
+{'text': 'remember', 'start': 58.36, 'duration': 3.99}
+{'text': 'history and theory seminars here with', 'start': 59.05, 'duration': 4.62}
+{'text': 'great fun', 'start': 62.35, 'duration': 3.57}
+{'text': "and it's also obviously the time to", 'start': 63.67, 'duration': 4.77}
+{'text': "thank my contributors because that's one", 'start': 65.92, 'duration': 5.31}
+{'text': "of my yeah it's the first presentation I", 'start': 68.44, 'duration': 6.03}
+{'text': 'actually environment I presented the', 'start': 71.23, 'duration': 5.58}
+{'text': 'book in the bajas Museum in October', 'start': 74.47, 'duration': 6.24}
+{'text': 'just to take in in this hectic Bauhaus', 'start': 76.81, 'duration': 6.63}
+{'text': 'year obviously this book had to appear', 'start': 80.71, 'duration': 10.17}
+{'text': 'before the end of 2019 and it was then', 'start': 83.44, 'duration': 10.109}
+{'text': 'presented in German and here actually I', 'start': 90.88, 'duration': 5.72}
+{'text': 'would like to thank some of the', 'start': 93.549, 'duration': 5.731}
+{'text': 'contributors who are here I know that I', 'start': 96.6, 'duration': 6.58}
+{'text': "meet cassavas here I haven't seen Robert", 'start': 99.28, 'duration': 5.91}
+{'text': 'Jordan Frye who I would expect would be', 'start': 103.18, 'duration': 5.07}
+{'text': 'here but maybe she comes later so as', 'start': 105.19, 'duration': 5.94}
+{'text': 'they are here I would like to thank them', 'start': 108.25, 'duration': 6.9}
+{'text': 'for their beautiful contributions also', 'start': 111.13, 'duration': 6.09}
+{'text': 'Alice here I have to thank him in all', 'start': 115.15, 'duration': 4.88}
+{'text': 'ways obviously', 'start': 117.22, 'duration': 7.94}
+{'text': 'thank you so Dustin data is actually', 'start': 120.03, 'duration': 8.08}
+{'text': "it's a project that I would like to tell", 'start': 125.16, 'duration': 6.07}
+{'text': 'for a moment through that actually quite', 'start': 128.11, 'duration': 7.05}
+{'text': 'comfortably looking here in the', 'start': 131.23, 'duration': 9.54}
+{'text': "director's office of of Gropius he led", 'start': 135.16, 'duration': 8.61}
+{'text': 'its design obviously as part of one of', 'start': 140.77, 'duration': 6.03}
+{'text': 'the workshops at the Bauhaus actually', 'start': 143.77, 'duration': 5.87}
+{'text': 'workshops that were already in place', 'start': 146.8, 'duration': 5.79}
+{'text': 'physically so we have some continuities', 'start': 149.64, 'duration': 5.13}
+{'text': 'with the very beginning of the Bauhaus', 'start': 152.59, 'duration': 5.58}
+{'text': 'we have actually the School of Arts and', 'start': 154.77, 'duration': 6.1}
+{'text': 'Crafts here in the buildings of Henry', 'start': 158.17, 'duration': 6.57}
+{'text': 'Fonda Felder who was also directing that', 'start': 160.87, 'duration': 6.15}
+{'text': 'school and we have another building but', 'start': 164.74, 'duration': 4.44}
+{'text': 'Henry Fonda Felder for the School of', 'start': 167.02, 'duration': 6.39}
+{'text': 'Applied Arts and the possibility for', 'start': 169.18, 'duration': 7.62}
+{'text': 'Gropius stood to unite both schools and', 'start': 173.41, 'duration': 6.03}
+{'text': 'to start actually the powerhouse in', 'start': 176.8, 'duration': 7.17}
+{'text': 'Weimar and the kind of the date that is', 'start': 179.44, 'duration': 7.13}
+{'text': 'frequently used as the first of April', 'start': 183.97, 'duration': 7.44}
+{'text': '1919 and therefore this year is a big', 'start': 186.57, 'duration': 9.34}
+{'text': 'powerhouse here to celebrate the', 'start': 191.41, 'duration': 10.049}
+{'text': 'foundation of the bars in Lima the I can', 'start': 195.91, 'duration': 8.39}
+{'text': 'take you may be quickly through that', 'start': 201.459, 'duration': 6.951}
+{'text': 'building which is also the place where I', 'start': 204.3, 'duration': 7.06}
+{'text': 'teach at the moment and where I', 'start': 208.41, 'duration': 6.52}
+{'text': 'graduated also and I have to say I', 'start': 211.36, 'duration': 6.84}
+{'text': 'always try to take this staircase on the', 'start': 214.93, 'duration': 7.95}
+{'text': 'way and go all the way up and you see', 'start': 218.2, 'duration': 6.98}
+{'text': 'actually it is very beautiful underfed', 'start': 222.88, 'duration': 5.04}
+{'text': 'staircase and when you go down actually', 'start': 225.18, 'duration': 6.16}
+{'text': 'you would go down through the along the', 'start': 227.92, 'duration': 6.3}
+{'text': 'murals of habit pyre that were put at', 'start': 231.34, 'duration': 7.44}
+{'text': 'the words of the staircase for the', 'start': 234.22, 'duration': 7.86}
+{'text': 'occasion of the Bauhaus exhibition in', 'start': 238.78, 'duration': 6.48}
+{'text': '1923 where Gropius was actually also', 'start': 242.08, 'duration': 6.84}
+{'text': 'forced to show the products for years', 'start': 245.26, 'duration': 5.83}
+{'text': 'almost four years', 'start': 248.92, 'duration': 7.06}
+{'text': 'of his new art school so funders were', 'start': 251.09, 'duration': 8.28}
+{'text': 'actually pressuring him to show what was', 'start': 255.98, 'duration': 6.57}
+{'text': 'going on and what what are the new', 'start': 259.37, 'duration': 9.39}
+{'text': 'products so just as a hint pressure was', 'start': 262.55, 'duration': 9.38}
+{'text': 'put on directors at that time to produce', 'start': 268.76, 'duration': 9.29}
+{'text': 'quickly and to really show design works', 'start': 271.93, 'duration': 8.92}
+{'text': 'experimental new stuff and I think that', 'start': 278.05, 'duration': 5.32}
+{'text': 'makes also the powerhouse quite unusual', 'start': 280.85, 'duration': 4.8}
+{'text': 'that it has actually this enormous', 'start': 283.37, 'duration': 5.31}
+{'text': 'output so rather than using an art and', 'start': 285.65, 'duration': 5.34}
+{'text': 'architecture school as a space of', 'start': 288.68, 'duration': 5.54}
+{'text': 'reflection and maybe a kind of', 'start': 290.99, 'duration': 8.429}
+{'text': 'theoretical experiment these things were', 'start': 294.22, 'duration': 7.449}
+{'text': 'quite immediately on the market over', 'start': 299.419, 'duration': 4.821}
+{'text': 'trying at least to survive even if the', 'start': 301.669, 'duration': 5.791}
+{'text': "first experiments didn't quite work for", 'start': 304.24, 'duration': 5.02}
+{'text': 'example in the lights affair they were', 'start': 307.46, 'duration': 3.72}
+{'text': 'trying to exhibit early and stay', 'start': 309.26, 'duration': 4.83}
+{'text': 'actually they come of the cups and pots', 'start': 311.18, 'duration': 4.47}
+{'text': 'that they were presenting they were not', 'start': 314.09, 'duration': 4.74}
+{'text': 'yet fully dry actually from the process', 'start': 315.65, 'duration': 5.85}
+{'text': 'of making so it was actually quite an', 'start': 318.83, 'duration': 5.88}
+{'text': 'experiment to practice them so we go', 'start': 321.5, 'duration': 7.68}
+{'text': 'along that staircase and we pass by the', 'start': 324.71, 'duration': 7.92}
+{'text': 'office of group views that was actually', 'start': 329.18, 'duration': 7.79}
+{'text': 'designed at the time to present that', 'start': 332.63, 'duration': 9.72}
+{'text': 'school and became actually an exemplary', 'start': 336.97, 'duration': 9.28}
+{'text': 'for the collaboration of the Arts with', 'start': 342.35, 'duration': 9.45}
+{'text': 'the on all fields we go further down the', 'start': 346.25, 'duration': 7.77}
+{'text': 'staircase and become actually now to the', 'start': 351.8, 'duration': 7.05}
+{'text': 'blue circle in the Baja staircase which', 'start': 354.02, 'duration': 9.39}
+{'text': 'is actually as you would probably', 'start': 358.85, 'duration': 7.74}
+{'text': 'noticed this is the kind of things that', 'start': 363.41, 'duration': 7.59}
+{'text': 'the three geometrical shapes that Native', 'start': 366.59, 'duration': 6.579}
+{'text': 'Bauhaus of famous and', 'start': 371.0, 'duration': 5.71}
+{'text': 'we had actually at the time the Bauhaus', 'start': 373.169, 'duration': 4.71}
+{'text': 'masters were actually doing', 'start': 376.71, 'duration': 3.69}
+{'text': 'questionnaires about the experience', 'start': 377.879, 'duration': 4.891}
+{'text': 'students have with these forms how they', 'start': 380.4, 'duration': 6.449}
+{'text': 'actually feel about them trying to make', 'start': 382.77, 'duration': 7.04}
+{'text': 'actually scientific inquiries about', 'start': 386.849, 'duration': 5.451}
+{'text': 'their work', 'start': 389.81, 'duration': 4.75}
+{'text': 'pretending also that this is a very', 'start': 392.3, 'duration': 5.619}
+{'text': 'scientific work that could be handed', 'start': 394.56, 'duration': 10.229}
+{'text': 'over passed on to to students rather', 'start': 397.919, 'duration': 10.47}
+{'text': 'than kind of an esoteric method it could', 'start': 404.789, 'duration': 10.25}
+{'text': 'be presented through data and clear-cut', 'start': 408.389, 'duration': 11.4}
+{'text': 'theory what was handy was the existence', 'start': 415.039, 'duration': 8.021}
+{'text': 'of already existing workshops but also', 'start': 419.789, 'duration': 5.88}
+{'text': "we need to notice and that's also I try", 'start': 423.06, 'duration': 6.979}
+{'text': 'to make a point in in the book there are', 'start': 425.669, 'duration': 7.291}
+{'text': 'continuities that lead into the Bauhaus', 'start': 430.039, 'duration': 6.821}
+{'text': 'rather than state zero or a complete', 'start': 432.96, 'duration': 6.15}
+{'text': 'beginning as a short already the', 'start': 436.86, 'duration': 4.2}
+{'text': 'building existed but with the buildings', 'start': 439.11, 'duration': 4.399}
+{'text': 'and the arts and crafts school and the', 'start': 441.06, 'duration': 4.65}
+{'text': 'workshops for the Arts there were', 'start': 443.509, 'duration': 5.62}
+{'text': 'already artists the kind of the', 'start': 445.71, 'duration': 5.85}
+{'text': 'facilities were there so one could just', 'start': 449.129, 'duration': 7.801}
+{'text': 'rien habit and revive them and kind of', 'start': 451.56, 'duration': 9.479}
+{'text': 'start a school conceived like like the', 'start': 456.93, 'duration': 7.349}
+{'text': 'Bauhaus like Gropius but on the other', 'start': 461.039, 'duration': 6.62}
+{'text': "hand and that's something C nepeta like", 'start': 464.279, 'duration': 6.06}
+{'text': 'Alexander shows in her essay they are', 'start': 467.659, 'duration': 7.451}
+{'text': 'actually kind of continuities from the', 'start': 470.339, 'duration': 7.8}
+{'text': 'reform movement that is not particularly', 'start': 475.11, 'duration': 5.7}
+{'text': "German as well it's also an", 'start': 478.139, 'duration': 4.5}
+{'text': 'international movement we find it also', 'start': 480.81, 'duration': 5.36}
+{'text': 'in England and if we actually look at', 'start': 482.639, 'duration': 4.7}
+{'text': '[Music]', 'start': 486.17, 'duration': 4.919}
+{'text': 'the continuities Paves not tries to draw', 'start': 487.339, 'duration': 7.971}
+{'text': "from let's say even the English", 'start': 491.089, 'duration': 7.381}
+{'text': 'arts and crafts movement to the modern', 'start': 495.31, 'duration': 6.01}
+{'text': 'movement so we are actually in that', 'start': 498.47, 'duration': 7.74}
+{'text': 'environment and still it needed the kind', 'start': 501.32, 'duration': 7.5}
+{'text': 'of the big starting points Gropius was', 'start': 506.21, 'duration': 6.6}
+{'text': 'making here through this manifesto that', 'start': 508.82, 'duration': 8.01}
+{'text': 'starts again not quite with a clean cuts', 'start': 512.81, 'duration': 6.66}
+{'text': 'beginning but rather takes a little', 'start': 516.83, 'duration': 6.33}
+{'text': 'graphy of finding which comes very much', 'start': 519.47, 'duration': 6.0}
+{'text': 'out of the crystal chain that says', 'start': 523.16, 'duration': 4.08}
+{'text': 'correspondence or the expressionist', 'start': 525.47, 'duration': 4.65}
+{'text': 'movement here more the kind of the idea', 'start': 527.24, 'duration': 5.4}
+{'text': 'of the gothic cathedral as the the kind', 'start': 530.12, 'duration': 6.39}
+{'text': 'of theme the image of all the arts', 'start': 532.64, 'duration': 7.5}
+{'text': 'meeting which then I think most of the', 'start': 536.51, 'duration': 7.44}
+{'text': 'architecture schools which today founded', 'start': 540.14, 'duration': 5.97}
+{'text': 'would start with this diagram because it', 'start': 543.95, 'duration': 7.59}
+{'text': 'seems to be kind of unmissable - to', 'start': 546.11, 'duration': 8.28}
+{'text': 'unite all the arts and crafts and to', 'start': 551.54, 'duration': 5.49}
+{'text': 'actually - to work through that several', 'start': 554.39, 'duration': 8.01}
+{'text': 'layers from the study of materials of', 'start': 557.03, 'duration': 9.99}
+{'text': 'metals of textiles of color glass into', 'start': 562.4, 'duration': 11.99}
+{'text': 'actually theory of nature the theory of', 'start': 567.02, 'duration': 11.4}
+{'text': 'of materials and to actually start to', 'start': 574.39, 'duration': 8.77}
+{'text': 'slowly build an architectural capacity', 'start': 578.42, 'duration': 7.68}
+{'text': 'or experience this is actually the', 'start': 583.16, 'duration': 5.67}
+{'text': "circle takes about six years it's the", 'start': 586.1, 'duration': 5.43}
+{'text': "kind of six years Lima didn't have it", 'start': 588.83, 'duration': 9.42}
+{'text': 'did not manage to to to have diplomas in', 'start': 591.53, 'duration': 8.37}
+{'text': 'architecture it was actually something', 'start': 598.25, 'duration': 8.22}
+{'text': 'that was only possible after students at', 'start': 599.9, 'duration': 10.44}
+{'text': 'the Bauhaus had closed in Lima and moved', 'start': 606.47, 'duration': 6.72}
+{'text': 'to dezong but going back to those', 'start': 610.34, 'duration': 7.52}
+{'text': 'workshops they are important because', 'start': 613.19, 'duration': 6.94}
+{'text': 'they kind of dig', 'start': 617.86, 'duration': 5.21}
+{'text': 'that image of the modernist kazama-kun', 'start': 620.13, 'duration': 7.47}
+{'text': 'swag but also help us now help me to to', 'start': 623.07, 'duration': 7.74}
+{'text': 'also think about methods of our research', 'start': 627.6, 'duration': 7.71}
+{'text': 'in such an comprehensive way so what we', 'start': 630.81, 'duration': 8.94}
+{'text': 'need with this the dusty part is also a', 'start': 635.31, 'duration': 7.32}
+{'text': 'kind of theory to think them to', 'start': 639.75, 'duration': 5.34}
+{'text': 'investigate them not only as design', 'start': 642.63, 'duration': 8.22}
+{'text': 'objects of as a singular thing but in in', 'start': 645.09, 'duration': 9.06}
+{'text': 'their context and in the way they have', 'start': 650.85, 'duration': 6.18}
+{'text': "been conceived at the time here it's", 'start': 654.15, 'duration': 7.22}
+{'text': 'actually a color reproduction in', 'start': 657.03, 'duration': 7.8}
+{'text': 'presented already in 1925 of the', 'start': 661.37, 'duration': 5.89}
+{'text': "director's office and received", 'start': 664.83, 'duration': 6.77}
+{'text': "difference to today's reconstructed", 'start': 667.26, 'duration': 8.73}
+{'text': 'office actually that was I mean of', 'start': 671.6, 'duration': 7.72}
+{'text': 'course we have a color problem with the', 'start': 675.99, 'duration': 6.54}
+{'text': 'images with the photograph but I think', 'start': 679.32, 'duration': 8.55}
+{'text': 'the the gentle nature of an image like', 'start': 682.53, 'duration': 8.1}
+{'text': 'that in color reproduction for which', 'start': 687.87, 'duration': 5.28}
+{'text': 'actually propria Smeaton and efforts to', 'start': 690.63, 'duration': 6.18}
+{'text': 'have that in the books is quite obvious', 'start': 693.15, 'duration': 7.38}
+{'text': 'i was actually once in walking down my', 'start': 696.81, 'duration': 4.26}
+{'text': 'staircase', 'start': 700.53, 'duration': 2.16}
+{'text': "it's basically my office in miami", 'start': 701.07, 'duration': 7.62}
+{'text': 'pasties mural we have actually some if', 'start': 702.69, 'duration': 9.84}
+{'text': 'we start usually the students here for', 'start': 708.69, 'duration': 6.09}
+{'text': 'the bachelors with all sorts of', 'start': 712.53, 'duration': 5.04}
+{'text': 'exercises in the school which kind of', 'start': 714.78, 'duration': 5.7}
+{'text': "give you a sense of tactility let's say", 'start': 717.57, 'duration': 5.52}
+{'text': 'that kind of works like frottage works', 'start': 720.48, 'duration': 6.15}
+{'text': 'and so they are usually in the first two', 'start': 723.09, 'duration': 6.33}
+{'text': 'weeks of the semester on the floors', 'start': 726.63, 'duration': 7.02}
+{'text': 'kneeling in some corners and doing', 'start': 729.42, 'duration': 8.98}
+{'text': 'sketches of of the corridors and one day', 'start': 733.65, 'duration': 8.83}
+{'text': 'one of my saw a student actually doing a', 'start': 738.4, 'duration': 9.45}
+{'text': 'frottage on on that mural and I have', 'start': 742.48, 'duration': 7.32}
+{'text': 'literally heard it when I pass by I', 'start': 747.85, 'duration': 4.32}
+{'text': 'could see it cracked off like a piece of', 'start': 749.8, 'duration': 4.74}
+{'text': 'of color at that moment and that', 'start': 752.17, 'duration': 5.96}
+{'text': 'actually we were shocked seeing that', 'start': 754.54, 'duration': 8.91}
+{'text': 'that kind of break-in in the wall and', 'start': 758.13, 'duration': 9.13}
+{'text': 'actually had to be reconstructed for the', 'start': 763.45, 'duration': 7.08}
+{'text': 'hundred years anniversary and we had to', 'start': 767.26, 'duration': 7.11}
+{'text': 'actually dive deeper it was kind of an', 'start': 770.53, 'duration': 7.26}
+{'text': 'invitation to dive deeper into the very', 'start': 774.37, 'duration': 6.69}
+{'text': 'much reality of of that wall which', 'start': 777.79, 'duration': 5.88}
+{'text': 'actually revealed that this war was not', 'start': 781.06, 'duration': 5.25}
+{'text': 'as perfect as it now I was presented to', 'start': 783.67, 'duration': 6.0}
+{'text': 'us for since the renovations of nineteen', 'start': 786.31, 'duration': 6.36}
+{'text': 'of the of the first in the 80s and 90s', 'start': 789.67, 'duration': 5.22}
+{'text': 'but this was actually something that was', 'start': 792.67, 'duration': 6.3}
+{'text': 'revealed in the early 80s after it was', 'start': 794.89, 'duration': 8.64}
+{'text': 'completely covered by paint even plaster', 'start': 798.97, 'duration': 7.56}
+{'text': 'of the following schools of the Bauhaus', 'start': 803.53, 'duration': 7.52}
+{'text': 'so our blue circle the red square and', 'start': 806.53, 'duration': 10.44}
+{'text': 'the yellow triangle were only hardly to', 'start': 811.05, 'duration': 8.68}
+{'text': 'be recognized so in that sense in that', 'start': 816.97, 'duration': 7.59}
+{'text': 'kind of spectrum between the dust and', 'start': 819.73, 'duration': 9.23}
+{'text': 'our investigation that is needed to get', 'start': 824.56, 'duration': 8.03}
+{'text': "basically from our today's perspective", 'start': 828.96, 'duration': 8.2}
+{'text': 'to back to the to the object that is', 'start': 832.59, 'duration': 7.63}
+{'text': 'basically the story of this book to read', 'start': 837.16, 'duration': 9.35}
+{'text': 'the the object not only as an object of', 'start': 840.22, 'duration': 6.29}
+{'text': 'history but to see it within history how', 'start': 846.54, 'duration': 6.46}
+{'text': 'it moves how it has an afterlife how it', 'start': 850.03, 'duration': 6.6}
+{'text': 'kind of has its decline its rejection', 'start': 853.0, 'duration': 9.1}
+{'text': 'its revival but also its complete loss', 'start': 856.63, 'duration': 7.87}
+{'text': 'and so to see that actually as a project', 'start': 862.1, 'duration': 5.549}
+{'text': 'of architecture to to build it as in as', 'start': 864.5, 'duration': 6.269}
+{'text': 'a space that was the idea of this book', 'start': 867.649, 'duration': 8.041}
+{'text': 'to to to contribute basically to the', 'start': 870.769, 'duration': 9.12}
+{'text': 'hundred years anniversary which seems at', 'start': 875.69, 'duration': 8.129}
+{'text': 'some point like it was a very exciting', 'start': 879.889, 'duration': 8.31}
+{'text': 'year actually surprising because in 2000', 'start': 883.819, 'duration': 7.411}
+{'text': 'when it started we saw so many', 'start': 888.199, 'duration': 7.38}
+{'text': 'exhibitions so many remote places came', 'start': 891.23, 'duration': 7.74}
+{'text': 'together through actually to to see what', 'start': 895.579, 'duration': 5.01}
+{'text': 'they have in their archives right so it', 'start': 898.97, 'duration': 5.599}
+{'text': 'was a kind of a revisit of what can be', 'start': 900.589, 'duration': 5.911}
+{'text': 'contributed with the system it kind of', 'start': 904.569, 'duration': 5.5}
+{'text': 'to re-orient some of the discussion so', 'start': 906.5, 'duration': 7.199}
+{'text': 'it was I think as you know probably it', 'start': 910.069, 'duration': 6.661}
+{'text': 'was heavily funded also by the German', 'start': 913.699, 'duration': 8.671}
+{'text': 'state to to celebrate the sparse years', 'start': 916.73, 'duration': 8.159}
+{'text': 'here not only in Germany but also', 'start': 922.37, 'duration': 6.409}
+{'text': 'internationally but at the same time', 'start': 924.889, 'duration': 9.06}
+{'text': 'there was help with the I skip through', 'start': 928.779, 'duration': 9.55}
+{'text': 'my page of the introduction but also', 'start': 933.949, 'duration': 6.961}
+{'text': 'helped culturally through institutions', 'start': 938.329, 'duration': 5.671}
+{'text': 'like the de Goethe Institute that was', 'start': 940.91, 'duration': 6.119}
+{'text': 'kind of also the institution that helped', 'start': 944.0, 'duration': 6.3}
+{'text': 'promote this project internationally in', 'start': 947.029, 'duration': 5.49}
+{'text': 'Germany it might have appeared to you', 'start': 950.3, 'duration': 4.44}
+{'text': 'slightly confusing of how many', 'start': 952.519, 'duration': 4.471}
+{'text': 'institutions are actually around and how', 'start': 954.74, 'duration': 7.649}
+{'text': 'many bounced museums we have and maybe', 'start': 956.99, 'duration': 9.06}
+{'text': 'just to put them together so we have', 'start': 962.389, 'duration': 6.961}
+{'text': 'Lima obviously as the school building', 'start': 966.05, 'duration': 8.839}
+{'text': 'that has luckily survived almost without', 'start': 969.35, 'duration': 10.679}
+{'text': 'any damage we have next to it like still', 'start': 974.889, 'duration': 8.531}
+{'text': 'in an execution or how to call it like', 'start': 980.029, 'duration': 5.091}
+{'text': 'the competition', 'start': 983.42, 'duration': 3.68}
+{'text': '[Music]', 'start': 985.12, 'duration': 5.17}
+{'text': 'image or rendering for a new Bauhaus', 'start': 987.1, 'duration': 6.22}
+{'text': 'museum we have a Desilu bajas museum', 'start': 990.29, 'duration': 6.27}
+{'text': 'planned to the Bauhaus building and we', 'start': 993.32, 'duration': 7.89}
+{'text': 'have the Bauhaus archive in in Berlin', 'start': 996.56, 'duration': 6.84}
+{'text': 'formerly West Berlin which is actually', 'start': 1001.21, 'duration': 8.46}
+{'text': 'the one building that is in West rather', 'start': 1003.4, 'duration': 8.97}
+{'text': 'than the two others that were located in', 'start': 1009.67, 'duration': 5.73}
+{'text': 'East Germany you might have heard about', 'start': 1012.37, 'duration': 5.45}
+{'text': 'the museum itself that was actually', 'start': 1015.4, 'duration': 7.05}
+{'text': 'opened in Weimar rather than the pastel', 'start': 1017.82, 'duration': 7.48}
+{'text': 'colors of the rendering I think it', 'start': 1022.45, 'duration': 5.82}
+{'text': 'surprised a little bit when the scaffold', 'start': 1025.3, 'duration': 6.68}
+{'text': 'event eventually fell and the idea of', 'start': 1028.27, 'duration': 6.809}
+{'text': 'working with eve of his context was', 'start': 1031.98, 'duration': 9.54}
+{'text': 'maybe taking a little bit too little and', 'start': 1035.079, 'duration': 10.951}
+{'text': "so it's actually a place in a dearth was", 'start': 1041.52, 'duration': 7.03}
+{'text': 'actually meant to be placed right in the', 'start': 1046.03, 'duration': 5.82}
+{'text': 'middle of a very difficult part of', 'start': 1048.55, 'duration': 6.35}
+{'text': 'Weimar history which is one of the', 'start': 1051.85, 'duration': 9.08}
+{'text': 'famous completed Nazi complexes in Lima', 'start': 1054.9, 'duration': 11.23}
+{'text': 'that obviously immediately brings up the', 'start': 1060.93, 'duration': 7.93}
+{'text': 'the existence of books but which you can', 'start': 1066.13, 'duration': 5.34}
+{'text': 'see also from the windows of this museum', 'start': 1068.86, 'duration': 5.28}
+{'text': 'so the museum is actually placed right', 'start': 1071.47, 'duration': 5.31}
+{'text': 'in the vicinity to these buildings which', 'start': 1074.14, 'duration': 6.21}
+{'text': 'is a difficult task and in that sense', 'start': 1076.78, 'duration': 6.98}
+{'text': 'explains maybe the context or maybe', 'start': 1080.35, 'duration': 6.3}
+{'text': 'opens to other questions and how this', 'start': 1083.76, 'duration': 7.3}
+{'text': "building actually should be read so it's", 'start': 1086.65, 'duration': 6.3}
+{'text': 'actually followed a lot of controversies', 'start': 1091.06, 'duration': 6.24}
+{'text': "in Germany I'm just still amazed about", 'start': 1092.95, 'duration': 5.82}
+{'text': 'this moment when the scaffold fell', 'start': 1097.3, 'duration': 3.63}
+{'text': 'because it kind of nobody was prepared', 'start': 1098.77, 'duration': 7.02}
+{'text': 'to that until it was seen and the other', 'start': 1100.93, 'duration': 7.13}
+{'text': 'building is obviously more', 'start': 1105.79, 'duration': 5.72}
+{'text': 'none I guess to you the ban was building', 'start': 1108.06, 'duration': 6.54}
+{'text': 'in Dessau actually a few years ago when', 'start': 1111.51, 'duration': 5.22}
+{'text': 'they yeah actually this book started', 'start': 1114.6, 'duration': 5.43}
+{'text': 'from a conference in Vemma and I had two', 'start': 1116.73, 'duration': 7.11}
+{'text': 'people who mistook the place in which it', 'start': 1120.03, 'duration': 5.85}
+{'text': 'was taking place so they rather than', 'start': 1123.84, 'duration': 4.71}
+{'text': 'traveling to Weimar they had come to', 'start': 1125.88, 'duration': 5.19}
+{'text': 'Dessau which very much shows and kind of', 'start': 1128.55, 'duration': 6.03}
+{'text': 'the kind of more anglo-american', 'start': 1131.07, 'duration': 5.79}
+{'text': 'understanding of where the Bauhaus is', 'start': 1134.58, 'duration': 5.82}
+{'text': "it's more identified with with their", 'start': 1136.86, 'duration': 6.87}
+{'text': 'self remember maybe they did lo go or if', 'start': 1140.4, 'duration': 5.16}
+{'text': 'you probably know it already this is the', 'start': 1143.73, 'duration': 5.22}
+{'text': 'kind of the lettering on the facade so', 'start': 1145.56, 'duration': 6.96}
+{'text': 'also des how is kind of overwhelmed by', 'start': 1148.95, 'duration': 9.66}
+{'text': 'the amount of objects collected by by', 'start': 1152.52, 'duration': 8.16}
+{'text': 'the museum the kind of cultural', 'start': 1158.61, 'duration': 4.11}
+{'text': "foundation that's actually the", 'start': 1160.68, 'duration': 5.52}
+{'text': 'difference also between bimah and daesil', 'start': 1162.72, 'duration': 5.91}
+{'text': 'so while Lima and like the university is', 'start': 1166.2, 'duration': 6.27}
+{'text': 'a cultural institution and the museum', 'start': 1168.63, 'duration': 7.07}
+{'text': 'would be basically not only based on', 'start': 1172.47, 'duration': 6.36}
+{'text': 'young objects they they would on and', 'start': 1175.7, 'duration': 5.02}
+{'text': 'environment there are not so many so', 'start': 1178.83, 'duration': 5.97}
+{'text': 'they are the museum could be full of', 'start': 1180.72, 'duration': 6.63}
+{'text': 'kind of has more space while Desa', 'start': 1184.8, 'duration': 4.8}
+{'text': 'actually has a real problem they have', 'start': 1187.35, 'duration': 4.95}
+{'text': "several Depot's in which the kind of", 'start': 1189.6, 'duration': 6.93}
+{'text': 'store objects related to the Bauhaus', 'start': 1192.3, 'duration': 8.7}
+{'text': 'paintings chairs all sorts of important', 'start': 1196.53, 'duration': 7.47}
+{'text': 'artworks and so rather than exhibiting', 'start': 1201.0, 'duration': 6.78}
+{'text': 'them in the bars building the Bauhaus', 'start': 1204.0, 'duration': 5.76}
+{'text': 'building was kept more as and as a work', 'start': 1207.78, 'duration': 5.04}
+{'text': 'and cultural obscene exhibition venue', 'start': 1209.76, 'duration': 7.25}
+{'text': 'and the museum is both an exhibition and', 'start': 1212.82, 'duration': 8.73}
+{'text': 'basically a changing place for for', 'start': 1217.01, 'duration': 7.39}
+{'text': 'showing more works from the temple the', 'start': 1221.55, 'duration': 4.89}
+{'text': 'Bauhaus archive is actually a story that', 'start': 1224.4, 'duration': 4.8}
+{'text': 'would lead us right into a conversation', 'start': 1226.44, 'duration': 6.39}
+{'text': 'about the division of power house', 'start': 1229.2, 'duration': 5.709}
+{'text': 'history in', 'start': 1232.83, 'duration': 5.189}
+{'text': 'and west or between east and west', 'start': 1234.909, 'duration': 7.26}
+{'text': 'something that is discussed in in the', 'start': 1238.019, 'duration': 9.79}
+{'text': "book and it's probably conic going to", 'start': 1242.169, 'duration': 10.26}
+{'text': 'fourth in a second so we have also a new', 'start': 1247.809, 'duration': 9.24}
+{'text': 'design planned for the powers archive to', 'start': 1252.429, 'duration': 8.73}
+{'text': 'extend to to have obviously more space', 'start': 1257.049, 'duration': 6.33}
+{'text': "so at the moment it's even closed which", 'start': 1261.159, 'duration': 5.01}
+{'text': 'was one of the frightening things in the', 'start': 1263.379, 'duration': 6.27}
+{'text': "last year's that whole archive closed", 'start': 1266.169, 'duration': 7.32}
+{'text': 'exactly three years before the Bauhaus', 'start': 1269.649, 'duration': 10.53}
+{'text': 'here was to start so the the the project', 'start': 1273.489, 'duration': 10.231}
+{'text': 'here the funding of Germany was actually', 'start': 1280.179, 'duration': 7.411}
+{'text': 'quite ambitious and I think it has in', 'start': 1283.72, 'duration': 8.73}
+{'text': '2019 it was planted already in 2016 to', 'start': 1287.59, 'duration': 10.589}
+{'text': 'fund in such large amounts about house', 'start': 1292.45, 'duration': 8.669}
+{'text': 'here it has also a kind of a political', 'start': 1298.179, 'duration': 6.92}
+{'text': "meaning right it's kind of an a delayed", 'start': 1301.119, 'duration': 8.25}
+{'text': 'reunification of both of Germany but', 'start': 1305.099, 'duration': 6.64}
+{'text': 'also the kind of the cultural history of', 'start': 1309.369, 'duration': 7.26}
+{'text': 'Germany that has been so divided so the', 'start': 1311.739, 'duration': 6.81}
+{'text': 'Bauhaus actually in both parts of', 'start': 1316.629, 'duration': 4.441}
+{'text': "Germany after the war wasn't quite", 'start': 1318.549, 'duration': 8.281}
+{'text': 'revived as we could maybe imagine for', 'start': 1321.07, 'duration': 9.839}
+{'text': 'example the Soviet sector or East', 'start': 1326.83, 'duration': 6.179}
+{'text': 'Germany could have well taken up the', 'start': 1330.909, 'duration': 6.931}
+{'text': 'Bauhaus for its kind of social values or', 'start': 1333.009, 'duration': 10.081}
+{'text': 'for its yeah utopian thoughts but it', 'start': 1337.84, 'duration': 9.689}
+{'text': "didn't so for also for the West it was", 'start': 1343.09, 'duration': 6.409}
+{'text': 'very difficult to approach the', 'start': 1347.529, 'duration': 5.07}
+{'text': 'powerhouse or to kind of to to receive', 'start': 1349.499, 'duration': 5.68}
+{'text': 'the Bauhaus into its', 'start': 1352.599, 'duration': 5.861}
+{'text': "political and cultural reading so it's", 'start': 1355.179, 'duration': 6.19}
+{'text': 'kind of a fascinating story to follow', 'start': 1358.46, 'duration': 6.27}
+{'text': 'now how the Bauhaus in both parts of', 'start': 1361.369, 'duration': 7.02}
+{'text': "let's say divided is twice divided was", 'start': 1364.73, 'duration': 7.289}
+{'text': 'rediscovered and celebrated to the point', 'start': 1368.389, 'duration': 5.071}
+{'text': 'to 2019', 'start': 1372.019, 'duration': 3.181}
+{'text': "so this is how I see that also there's", 'start': 1373.46, 'duration': 6.059}
+{'text': 'kind of this long history of rejecting', 'start': 1375.2, 'duration': 9.0}
+{'text': 'of even persecution during the Nazi', 'start': 1379.519, 'duration': 7.23}
+{'text': 'regime the kind of T the careful', 'start': 1384.2, 'duration': 5.28}
+{'text': 'handling not touching it at all and the', 'start': 1386.749, 'duration': 6.24}
+{'text': 'slow appearance of of that project so', 'start': 1389.48, 'duration': 6.389}
+{'text': 'when we go back so this necessitates for', 'start': 1392.989, 'duration': 6.78}
+{'text': 'me also to go back 200 years of the', 'start': 1395.869, 'duration': 8.04}
+{'text': 'Bauhaus which then immediately as we', 'start': 1399.769, 'duration': 7.35}
+{'text': 'have seen also in this year in for the', 'start': 1403.909, 'duration': 5.071}
+{'text': 'cultural celebrations at the same time', 'start': 1407.119, 'duration': 4.44}
+{'text': 'we celebrate the meeting of the', 'start': 1408.98, 'duration': 6.0}
+{'text': 'parliamentarians that actually make the', 'start': 1411.559, 'duration': 5.7}
+{'text': 'Weimar Republic in the National Theatre', 'start': 1414.98, 'duration': 3.329}
+{'text': 'in Weimar', 'start': 1417.259, 'duration': 2.91}
+{'text': 'so this happens at the very same time', 'start': 1418.309, 'duration': 6.72}
+{'text': 'the powers is being founded only a few', 'start': 1420.169, 'duration': 8.22}
+{'text': 'hundred meters away we have actually', 'start': 1425.029, 'duration': 5.191}
+{'text': "parliamentarians that it's not only one", 'start': 1428.389, 'duration': 6.5}
+{'text': "meeting they come there's a kind of a", 'start': 1430.22, 'duration': 7.169}
+{'text': 'drink a special train connections', 'start': 1434.889, 'duration': 4.54}
+{'text': "there's even an aerial connection", 'start': 1437.389, 'duration': 5.01}
+{'text': 'through planes so Gropius even flies in', 'start': 1439.429, 'duration': 6.901}
+{'text': "from Berlin to Weimar and it's actually", 'start': 1442.399, 'duration': 7.38}
+{'text': 'fascinating to think whether Bauhaus', 'start': 1446.33, 'duration': 5.689}
+{'text': 'students did kind of the young', 'start': 1449.779, 'duration': 4.86}
+{'text': 'experimental people were actually', 'start': 1452.019, 'duration': 6.701}
+{'text': 'meeting parliamentarians at the time we', 'start': 1454.639, 'duration': 6.54}
+{'text': "have a few images of it's a little bit", 'start': 1458.72, 'duration': 5.069}
+{'text': 'later but we obviously see here we see', 'start': 1461.179, 'duration': 6.81}
+{'text': 'power horses in front of the theatre in', 'start': 1463.789, 'duration': 6.99}
+{'text': 'front of the two sculptures of Goethe', 'start': 1467.989, 'duration': 3.781}
+{'text': 'and Schiller', 'start': 1470.779, 'duration': 4.741}
+{'text': "so there's kind of this this idea now to", 'start': 1471.77, 'duration': 8.97}
+{'text': 'celebrate kind of an yeah kind of the', 'start': 1475.52, 'duration': 8.34}
+{'text': 'arts new kind of liberties but at the', 'start': 1480.74, 'duration': 6.93}
+{'text': 'same time to think like to recover to', 'start': 1483.86, 'duration': 6.17}
+{'text': 'also to use the bar house that', 'start': 1487.67, 'duration': 7.68}
+{'text': 'institution as a place in which to to', 'start': 1490.03, 'duration': 7.93}
+{'text': 'rework the experience of the of the wall', 'start': 1495.35, 'duration': 6.66}
+{'text': 'we have actually one of the essays very', 'start': 1497.96, 'duration': 7.32}
+{'text': 'beautifully by Nova Corps accusing a', 'start': 1502.01, 'duration': 5.99}
+{'text': 'kind of scholar of the Bauhaus in', 'start': 1505.28, 'duration': 7.47}
+{'text': 'environment at the University he for', 'start': 1508.0, 'duration': 8.92}
+{'text': 'years collected postcards and tried to', 'start': 1512.75, 'duration': 8.51}
+{'text': 'find traces of the very strange', 'start': 1516.92, 'duration': 6.21}
+{'text': 'beginnings of the Bauhaus', 'start': 1521.26, 'duration': 4.21}
+{'text': 'which did not start even with an empty', 'start': 1523.13, 'duration': 4.59}
+{'text': 'school building for Gropius on the', 'start': 1525.47, 'duration': 5.76}
+{'text': 'country we see here our staircase the', 'start': 1527.72, 'duration': 7.47}
+{'text': 'hoedowns that use put a little bit to', 'start': 1531.23, 'duration': 7.14}
+{'text': 'this to the side at the ever of them by', 'start': 1535.19, 'duration': 9.27}
+{'text': 'the way they we see actually hear a lot', 'start': 1538.37, 'duration': 8.58}
+{'text': 'surrett and kind of hospital war', 'start': 1544.46, 'duration': 5.52}
+{'text': 'hospital in which the veterans of the', 'start': 1546.95, 'duration': 5.88}
+{'text': 'First World War are still housed in in', 'start': 1549.98, 'duration': 6.17}
+{'text': 'the upper floors of of that building and', 'start': 1552.83, 'duration': 8.27}
+{'text': 'actually the first few weeks and months', 'start': 1556.15, 'duration': 7.81}
+{'text': "gropius's fighting and writing several", 'start': 1561.1, 'duration': 7.09}
+{'text': 'letters to to the authorities to to', 'start': 1563.96, 'duration': 5.91}
+{'text': 'please empty these rooms because he', 'start': 1568.19, 'duration': 5.22}
+{'text': 'wants them for his for his students and', 'start': 1569.87, 'duration': 7.32}
+{'text': 'to use them as workshops now interesting', 'start': 1573.41, 'duration': 6.09}
+{'text': 'you see still in the background the the', 'start': 1577.19, 'duration': 6.869}
+{'text': 'paintings from the art school the bimah', 'start': 1579.5, 'duration': 9.78}
+{'text': 'art school that was there before so they', 'start': 1584.059, 'duration': 6.701}
+{'text': 'are', 'start': 1589.28, 'duration': 4.06}
+{'text': 'you see them here in kind of usually', 'start': 1590.76, 'duration': 4.409}
+{'text': 'there are postcards and on the back they', 'start': 1593.34, 'duration': 6.24}
+{'text': 'are writing home from primer so yeah', 'start': 1595.169, 'duration': 7.62}
+{'text': 'sign up at Alexander I spoke already a', 'start': 1599.58, 'duration': 7.31}
+{'text': 'little bit about her takes us into this', 'start': 1602.789, 'duration': 9.601}
+{'text': '1919 through kind of an continuation of', 'start': 1606.89, 'duration': 11.14}
+{'text': 'pedagogy or pedagogical reform movements', 'start': 1612.39, 'duration': 7.95}
+{'text': 'but on the other hand we have somebody', 'start': 1618.03, 'duration': 6.509}
+{'text': 'like Joyce I was looking at people who', 'start': 1620.34, 'duration': 8.31}
+{'text': 'are traumatized from the war like lászló', 'start': 1624.539, 'duration': 5.88}
+{'text': 'moholy-nagy himself', 'start': 1628.65, 'duration': 4.86}
+{'text': 'there were many powers the students were', 'start': 1630.419, 'duration': 6.931}
+{'text': 'but also even Gropius who had served in', 'start': 1633.51, 'duration': 7.86}
+{'text': 'the Army who have achieve Gropius had', 'start': 1637.35, 'duration': 6.27}
+{'text': 'also has been wounded several times and', 'start': 1641.37, 'duration': 4.98}
+{'text': 'always asked to come back into the field', 'start': 1643.62, 'duration': 8.49}
+{'text': 'and no it was was traumatized by the', 'start': 1646.35, 'duration': 8.67}
+{'text': "experience and now it's interesting to", 'start': 1652.11, 'duration': 5.67}
+{'text': 'see what they bring drum the warm and in', 'start': 1655.02, 'duration': 5.7}
+{'text': 'her reading Joyce actually read some of', 'start': 1657.78, 'duration': 5.149}
+{'text': 'the kind of the military equipment and', 'start': 1660.72, 'duration': 8.01}
+{'text': 'the knowledge about yeah new machinery', 'start': 1662.929, 'duration': 7.931}
+{'text': 'that that brings about also new', 'start': 1668.73, 'duration': 4.5}
+{'text': 'attitudes which creates this kind of', 'start': 1670.86, 'duration': 4.83}
+{'text': 'laboratory also at the Bauhaus to try', 'start': 1673.23, 'duration': 8.49}
+{'text': 'out and to to perform and to create kind', 'start': 1675.69, 'duration': 8.93}
+{'text': 'of all sorts of bizarre machines that', 'start': 1681.72, 'duration': 5.189}
+{'text': 'yeah on the one hand they look like', 'start': 1684.62, 'duration': 4.929}
+{'text': 'lines but they also have something of of', 'start': 1686.909, 'duration': 6.14}
+{'text': 'military equipment like here Calliope is', 'start': 1689.549, 'duration': 9.421}
+{'text': 'Lucas work for the house um home in a', 'start': 1693.049, 'duration': 10.031}
+{'text': 'lamp he had designed in 1923 also as', 'start': 1698.97, 'duration': 6.9}
+{'text': 'part of that very exhibition environment', 'start': 1703.08, 'duration': 4.469}
+{'text': 'that', 'start': 1705.87, 'duration': 6.47}
+{'text': 'was presented on kind of next to the', 'start': 1707.549, 'duration': 8.161}
+{'text': "director's office it was the house um", 'start': 1712.34, 'duration': 7.209}
+{'text': 'horn which was a experimental building', 'start': 1715.71, 'duration': 5.699}
+{'text': 'which there was a student competition', 'start': 1719.549, 'duration': 4.651}
+{'text': 'and at the end all students were invited', 'start': 1721.409, 'duration': 6.961}
+{'text': 'to to design objects for for its', 'start': 1724.2, 'duration': 7.459}
+{'text': 'interior an experimental building that', 'start': 1728.37, 'duration': 6.87}
+{'text': 'still survived until today and in which', 'start': 1731.659, 'duration': 6.941}
+{'text': 'several are kind of modernist concepts', 'start': 1735.24, 'duration': 8.4}
+{'text': 'were actually experimented with and one', 'start': 1738.6, 'duration': 8.549}
+{'text': 'of the authors in the book anthem', 'start': 1743.64, 'duration': 6.269}
+{'text': 'partner actually writing about it as', 'start': 1747.149, 'duration': 5.191}
+{'text': 'part of the concern about hygiene', 'start': 1749.909, 'duration': 5.161}
+{'text': "actually this would be it's like it's an", 'start': 1752.34, 'duration': 5.28}
+{'text': 'essay called the power house and the', 'start': 1755.07, 'duration': 8.55}
+{'text': 'Hoover the actually reading both of the', 'start': 1757.62, 'duration': 9.96}
+{'text': 'copy and Gropius and their emphasis on', 'start': 1763.62, 'duration': 8.58}
+{'text': 'on hygiene and having an interior that', 'start': 1767.58, 'duration': 8.91}
+{'text': "has basically no no frames that wouldn't", 'start': 1772.2, 'duration': 7.579}
+{'text': 'catch dust which also brings us to a', 'start': 1776.49, 'duration': 6.48}
+{'text': 'kind of a new materiality like the', 'start': 1779.779, 'duration': 9.37}
+{'text': 'county the famous metal part of silver', 'start': 1782.97, 'duration': 9.059}
+{'text': 'pot even of Marian brand which is', 'start': 1789.149, 'duration': 5.25}
+{'text': 'probably one of the most valued bajas', 'start': 1792.029, 'duration': 6.421}
+{'text': 'objects so far so yeah he takes us', 'start': 1794.399, 'duration': 6.181}
+{'text': 'through kind of a hole that would be', 'start': 1798.45, 'duration': 4.56}
+{'text': 'what we think of like the destice is', 'start': 1800.58, 'duration': 6.3}
+{'text': "kind of environments that it's", 'start': 1803.01, 'duration': 8.43}
+{'text': "borderless that it's kind of around us", 'start': 1806.88, 'duration': 7.35}
+{'text': 'and that was kind of considered very', 'start': 1811.44, 'duration': 5.94}
+{'text': 'frightening in the 20s as part of this', 'start': 1814.23, 'duration': 7.47}
+{'text': 'hygiene movement so while the first part', 'start': 1817.38, 'duration': 7.549}
+{'text': 'is actually looking at some contact', 'start': 1821.7, 'duration': 7.41}
+{'text': 'concepts of dust and data and tries to', 'start': 1824.929, 'duration': 6.881}
+{'text': 'develop some theories', 'start': 1829.11, 'duration': 4.77}
+{'text': 'another part is more on the history', 'start': 1831.81, 'duration': 6.03}
+{'text': 'related to that foundation moment in', 'start': 1833.88, 'duration': 6.18}
+{'text': "environment so it's very much a very", 'start': 1837.84, 'duration': 4.71}
+{'text': 'much have in mind as chair which I', 'start': 1840.06, 'duration': 5.28}
+{'text': 'showed at the beginning to stay put', 'start': 1842.55, 'duration': 5.82}
+{'text': 'somehow environment and to see what kind', 'start': 1845.34, 'duration': 8.1}
+{'text': 'of influences were around and on a book', 'start': 1848.37, 'duration': 9.42}
+{'text': 'off and she looks at the the mass school', 'start': 1853.44, 'duration': 8.19}
+{'text': 'the kind of the Soviet version that', 'start': 1857.79, 'duration': 7.77}
+{'text': 'almost took place at the same time like', 'start': 1861.63, 'duration': 9.18}
+{'text': 'the Bauhaus and its surprised by IFRIC', 'start': 1865.56, 'duration': 9.96}
+{'text': 'bars famous drawing in which all kind of', 'start': 1870.81, 'duration': 9.69}
+{'text': 'diagram in which he draws in the Bauhaus', 'start': 1875.52, 'duration': 8.06}
+{'text': 'as part of the modern movement but in', 'start': 1880.5, 'duration': 8.31}
+{'text': '1936 is not able to put in a kind of a', 'start': 1883.58, 'duration': 9.97}
+{'text': 'communist school from from Moscow and so', 'start': 1888.81, 'duration': 7.26}
+{'text': "she's kind of going into new archives", 'start': 1893.55, 'duration': 6.51}
+{'text': 'and finds new materials to find the', 'start': 1896.07, 'duration': 6.93}
+{'text': "relation also on the influence and let's", 'start': 1900.06, 'duration': 5.85}
+{'text': 'say people like Kandinsky who who move', 'start': 1903.0, 'duration': 7.47}
+{'text': 'between Germany and Moscow and diplomats', 'start': 1905.91, 'duration': 6.84}
+{'text': 'that actually allow a network of', 'start': 1910.47, 'duration': 7.23}
+{'text': 'exchange between Lima and Moscow and she', 'start': 1912.75, 'duration': 7.8}
+{'text': 'ends the the essay with drawing your own', 'start': 1917.7, 'duration': 6.15}
+{'text': 'book the mass school right into the', 'start': 1920.55, 'duration': 6.87}
+{'text': 'middle to complete is destroying Peppa', 'start': 1923.85, 'duration': 7.77}
+{'text': 'Velez kind of looks at the exactly this', 'start': 1927.42, 'duration': 7.26}
+{'text': 'kind of interface between the', 'start': 1931.62, 'duration': 6.33}
+{'text': 'materiality and the new media that are', 'start': 1934.68, 'duration': 4.92}
+{'text': 'being experimented with at the Bauhaus', 'start': 1937.95, 'duration': 8.01}
+{'text': 'and interestingly by kind of looking', 'start': 1939.6, 'duration': 12.12}
+{'text': 'specifically at dust he he finds new', 'start': 1945.96, 'duration': 8.16}
+{'text': 'interactions and he reads through the', 'start': 1951.72, 'duration': 5.0}
+{'text': 'term', 'start': 1954.12, 'duration': 2.6}
+{'text': 'a Russian term factor - yeah to read', 'start': 1956.769, 'duration': 10.52}
+{'text': 'medias history and theory in relation to', 'start': 1962.44, 'duration': 8.849}
+{'text': 'experiments at the Bauhaus with much', 'start': 1967.289, 'duration': 9.61}
+{'text': 'reality we have Persephone Allen and she', 'start': 1971.289, 'duration': 8.61}
+{'text': 'contributed with a very beautiful essay', 'start': 1976.899, 'duration': 7.921}
+{'text': 'on comparing the work of Garrick Mooka', 'start': 1979.899, 'duration': 6.99}
+{'text': 'who was also the architect of the house', 'start': 1984.82, 'duration': 6.299}
+{'text': 'on horn and yeah exploring actually', 'start': 1986.889, 'duration': 6.54}
+{'text': 'through photographs together with his', 'start': 1991.119, 'duration': 8.99}
+{'text': 'students the both metals as reflective', 'start': 1993.429, 'duration': 8.94}
+{'text': "surfaces they're kind of the metal that", 'start': 2000.109, 'duration': 4.66}
+{'text': "are kind of polished surfaces that don't", 'start': 2002.369, 'duration': 4.64}
+{'text': 'hold dusts and kind of interesting and', 'start': 2004.769, 'duration': 7.35}
+{'text': 'but also to to read then reflections or', 'start': 2007.009, 'duration': 7.211}
+{'text': 'kind of experiments by Marianna blonde', 'start': 2012.119, 'duration': 7.14}
+{'text': 'who sees herself in in in the sphere and', 'start': 2014.22, 'duration': 7.189}
+{'text': "so it's not only about the", 'start': 2019.259, 'duration': 4.89}
+{'text': 'representation of dead space but to see', 'start': 2021.409, 'duration': 9.301}
+{'text': 'herself in conovan in a new kind of', 'start': 2024.149, 'duration': 10.26}
+{'text': 'almost even power power over the camera', 'start': 2030.71, 'duration': 12.429}
+{'text': 'being kind of kind of ahead of of those', 'start': 2034.409, 'duration': 11.821}
+{'text': 'spheres rather than just being reflected', 'start': 2043.139, 'duration': 8.601}
+{'text': 'through them so her work has also been', 'start': 2046.23, 'duration': 10.199}
+{'text': 'kind of fascinating because she ended up', 'start': 2051.74, 'duration': 7.359}
+{'text': 'in East Germany and most of her works', 'start': 2056.429, 'duration': 6.9}
+{'text': 'were actually undiscovered until her', 'start': 2059.099, 'duration': 7.32}
+{'text': 'death where she had been she apparently', 'start': 2063.329, 'duration': 7.111}
+{'text': 'had left quite a few pieces outside of', 'start': 2066.419, 'duration': 7.01}
+{'text': 'the public view and so these are all', 'start': 2070.44, 'duration': 5.07}
+{'text': 'rediscoveries that we are actually', 'start': 2073.429, 'duration': 5.21}
+{'text': 'celebrating since only', 'start': 2075.51, 'duration': 7.829}
+{'text': 'last few ticket and is a bit auto rights', 'start': 2078.639, 'duration': 10.111}
+{'text': 'actually very important as a title quia', 'start': 2083.339, 'duration': 9.76}
+{'text': 'coded powerhouse which she revisits some', 'start': 2088.75, 'duration': 8.19}
+{'text': "of the you know I mean actually it's", 'start': 2093.099, 'duration': 8.851}
+{'text': 'part of her book haunted Bauhaus and she', 'start': 2096.94, 'duration': 10.07}
+{'text': 'actually contributes a case study on a', 'start': 2101.95, 'duration': 8.69}
+{'text': 'student who was there already in 1919', 'start': 2107.01, 'duration': 6.549}
+{'text': 'when right at the beginning of the', 'start': 2110.64, 'duration': 6.52}
+{'text': 'Bauhaus he was a lawyer and appeared', 'start': 2113.559, 'duration': 8.341}
+{'text': 'incredibly talented max type of a fool', 'start': 2117.16, 'duration': 9.689}
+{'text': 'and Gropius invites him to to have even', 'start': 2121.9, 'duration': 8.719}
+{'text': 'his own workshop and after a while', 'start': 2126.849, 'duration': 9.99}
+{'text': 'working full us even to to be allowed to', 'start': 2130.619, 'duration': 10.271}
+{'text': 'study at the weaving workshop which is', 'start': 2136.839, 'duration': 6.661}
+{'text': 'very unusual because we hear a lot about', 'start': 2140.89, 'duration': 5.25}
+{'text': "the woman Weaver's know the fact that", 'start': 2143.5, 'duration': 8.67}
+{'text': 'the Gropius was kind of rejecting a', 'start': 2146.14, 'duration': 8.25}
+{'text': 'woman and any other workshop so he', 'start': 2152.17, 'duration': 5.609}
+{'text': "didn't want them in painting and not in", 'start': 2154.39, 'duration': 6.51}
+{'text': 'the metal workshop and not in sculpture', 'start': 2157.779, 'duration': 6.54}
+{'text': 'so he reserved weaving as the place in', 'start': 2160.9, 'duration': 5.399}
+{'text': 'which they would feel comfortable so', 'start': 2164.319, 'duration': 4.26}
+{'text': 'here we have actually some somebody who', 'start': 2166.299, 'duration': 6.23}
+{'text': 'particularly chose to be part of it and', 'start': 2168.579, 'duration': 7.98}
+{'text': 'we see this very beautiful world', 'start': 2172.529, 'duration': 6.76}
+{'text': 'tapestry other works he has done then', 'start': 2176.559, 'duration': 5.851}
+{'text': 'later after the Bauhaus are present this', 'start': 2179.289, 'duration': 6.171}
+{'text': 'much more clearly and', 'start': 2182.41, 'duration': 6.409}
+{'text': 'this is really the point where liberato', 'start': 2185.46, 'duration': 7.099}
+{'text': 'will begin to speak about all sorts of', 'start': 2188.819, 'duration': 6.75}
+{'text': 'hidden voices things that we have to', 'start': 2192.559, 'duration': 6.071}
+{'text': "still read in photographs there's a lot", 'start': 2195.569, 'duration': 8.371}
+{'text': 'of experiment with double exposures kind', 'start': 2198.63, 'duration': 8.52}
+{'text': 'of hints in the photographs that have to', 'start': 2203.94, 'duration': 7.77}
+{'text': 'be decoded and she begins this really', 'start': 2207.15, 'duration': 6.9}
+{'text': "amazing work and I'm very grateful that", 'start': 2211.71, 'duration': 7.29}
+{'text': 'we have kind of a piece by her in this', 'start': 2214.05, 'duration': 7.559}
+{'text': 'book so here I just put up the book', 'start': 2219.0, 'duration': 4.2}
+{'text': "because I think it's really important", 'start': 2221.609, 'duration': 5.551}
+{'text': 'it also looks at bar hustlers who', 'start': 2223.2, 'duration': 7.44}
+{'text': 'actually fall into the nationalist', 'start': 2227.16, 'duration': 6.39}
+{'text': 'movement rather than having this kind of', 'start': 2230.64, 'duration': 6.57}
+{'text': 'clear-cut idea of who is the bauhaus', 'start': 2233.55, 'duration': 7.22}
+{'text': "subject and it's the kind of nity", 'start': 2237.21, 'duration': 8.49}
+{'text': 'avant-gardist and leftist she draws you', 'start': 2240.77, 'duration': 9.46}
+{'text': 'another portrait of the powers in a', 'start': 2245.7, 'duration': 10.44}
+{'text': 'haunted house beautiful an essay by', 'start': 2250.23, 'duration': 10.02}
+{'text': 'Christopher Greene who actually takes on', 'start': 2256.14, 'duration': 9.479}
+{'text': 'the work of Josef Albers and later so', 'start': 2260.25, 'duration': 9.0}
+{'text': 'any others to to do actually also', 'start': 2265.619, 'duration': 11.911}
+{'text': 'theoretical reading based on the glass', 'start': 2269.25, 'duration': 14.43}
+{'text': 'fields of the glass images of Albus who', 'start': 2277.53, 'duration': 10.11}
+{'text': 'actually when he arrives in in America', 'start': 2283.68, 'duration': 7.139}
+{'text': 'after leaving Germany finds all his', 'start': 2287.64, 'duration': 6.6}
+{'text': 'glass paintings in that were packed', 'start': 2290.819, 'duration': 7.111}
+{'text': 'badly apparently falling apart so they', 'start': 2294.24, 'duration': 6.96}
+{'text': "were just splinters of glass and it's", 'start': 2297.93, 'duration': 5.399}
+{'text': 'kind of a dramatic moment but in the', 'start': 2301.2, 'duration': 7.169}
+{'text': 'essay becomes a reading of the digital', 'start': 2303.329, 'duration': 10.02}
+{'text': 'of kind of pixelated thinking but also', 'start': 2308.369, 'duration': 7.281}
+{'text': 'very', 'start': 2313.349, 'duration': 5.37}
+{'text': 'tries to find relations to to', 'start': 2315.65, 'duration': 7.24}
+{'text': 'architecture him so obviously the the', 'start': 2318.719, 'duration': 7.26}
+{'text': 'work of an ER basis and we always try to', 'start': 2322.89, 'duration': 7.969}
+{'text': 'find that the relation between the two', 'start': 2325.979, 'duration': 8.941}
+{'text': 'which will be discussed here well what', 'start': 2330.859, 'duration': 5.321}
+{'text': "we wouldn't fight I don't know if she's", 'start': 2334.92, 'duration': 7.019}
+{'text': 'here already but she looks she takes the', 'start': 2336.18, 'duration': 10.74}
+{'text': 'moment of the departure of Gropius from', 'start': 2341.939, 'duration': 8.42}
+{'text': 'one of the Meister houses in Dessau to', 'start': 2346.92, 'duration': 8.369}
+{'text': 'now to hand over to his successor he', 'start': 2350.359, 'duration': 11.2}
+{'text': 'invites in 1927 Hannes Meyer first to', 'start': 2355.289, 'duration': 9.27}
+{'text': 'take on the architecture department and', 'start': 2361.559, 'duration': 5.55}
+{'text': 'later he becomes actually Hannes Meyer', 'start': 2364.559, 'duration': 5.341}
+{'text': 'who become the director of the the', 'start': 2367.109, 'duration': 8.67}
+{'text': 'second director of the Bauhaus the you', 'start': 2369.9, 'duration': 7.77}
+{'text': 'probably know the kind of the three', 'start': 2375.779, 'duration': 4.381}
+{'text': 'directors Hannes Meyer actually they', 'start': 2377.67, 'duration': 5.399}
+{'text': 'kind of they the Communists kind of', 'start': 2380.16, 'duration': 9.629}
+{'text': 'left-wing sympathizer in the Bauhaus and', 'start': 2383.069, 'duration': 9.331}
+{'text': 'they almost read the coup they get him', 'start': 2389.789, 'duration': 5.96}
+{'text': 'out because he moves the Bauhaus in', 'start': 2392.4, 'duration': 7.26}
+{'text': 'apparently in a true communist direction', 'start': 2395.749, 'duration': 7.06}
+{'text': 'which endangers the bowers and as an', 'start': 2399.66, 'duration': 6.779}
+{'text': 'institution within an again conservative', 'start': 2402.809, 'duration': 7.081}
+{'text': 'nationalist environment of German', 'start': 2406.439, 'duration': 7.32}
+{'text': 'politics around 1930 so he then leaves', 'start': 2409.89, 'duration': 6.959}
+{'text': 'to Moscow while Mies van der Rohe will', 'start': 2413.759, 'duration': 6.75}
+{'text': 'take over the Bauhaus in Dessau in 1930', 'start': 2416.849, 'duration': 7.91}
+{'text': 'and then they close also in 1932 and', 'start': 2420.509, 'duration': 8.43}
+{'text': 'then try another attempt in Berlin which', 'start': 2424.759, 'duration': 7.78}
+{'text': 'is again really interesting so here what', 'start': 2428.939, 'duration': 5.431}
+{'text': "we didn't fight looks actually at", 'start': 2432.539, 'duration': 2.971}
+{'text': '[Music]', 'start': 2434.37, 'duration': 6.1}
+{'text': 'particular attitude of Mies van der Rohe', 'start': 2435.51, 'duration': 11.02}
+{'text': "who's less known for his rationalism or", 'start': 2440.47, 'duration': 10.28}
+{'text': 'kind of efficiency in terms of materials', 'start': 2446.53, 'duration': 6.93}
+{'text': 'but rather on the contrary he has always', 'start': 2450.75, 'duration': 6.849}
+{'text': 'seen uses these lavish materials to', 'start': 2453.46, 'duration': 10.34}
+{'text': 'design interiors for his clients and she', 'start': 2457.599, 'duration': 12.031}
+{'text': 'still discovered something in that the', 'start': 2463.8, 'duration': 7.48}
+{'text': 'kind of the very much reality or the', 'start': 2469.63, 'duration': 4.77}
+{'text': 'work his during reflects something about', 'start': 2471.28, 'duration': 7.29}
+{'text': 'the character of Miss from the role at', 'start': 2474.4, 'duration': 6.18}
+{'text': 'the time so he falls a little bit out of', 'start': 2478.57, 'duration': 5.61}
+{'text': 'the of what we would think as the', 'start': 2480.58, 'duration': 10.23}
+{'text': 'modernism of kind of the social project', 'start': 2484.18, 'duration': 10.02}
+{'text': 'or utopia she also published you', 'start': 2490.81, 'duration': 6.69}
+{'text': 'probably have seen the book a really', 'start': 2494.2, 'duration': 6.18}
+{'text': 'fascinating study on luxury and', 'start': 2497.5, 'duration': 5.82}
+{'text': 'modernism where she looks at the kind of', 'start': 2500.38, 'duration': 5.7}
+{'text': 'the kind of the paradoxical relation', 'start': 2503.32, 'duration': 5.039}
+{'text': 'that actually most modernists themselves', 'start': 2506.08, 'duration': 6.289}
+{'text': "couldn't quite commit yet to to give up", 'start': 2508.359, 'duration': 7.74}
+{'text': 'kind of ornament or certain luxury like', 'start': 2512.369, 'duration': 5.561}
+{'text': 'we have here in the Meister house and', 'start': 2516.099, 'duration': 5.071}
+{'text': 'the directors house by Gropius who was', 'start': 2517.93, 'duration': 6.11}
+{'text': 'asking actually that the marble will be', 'start': 2521.17, 'duration': 6.02}
+{'text': '[Music]', 'start': 2524.04, 'duration': 3.15}
+{'text': 'airbrushed out for the publication', 'start': 2527.28, 'duration': 5.829}
+{'text': "because it couldn't be that the director", 'start': 2529.9, 'duration': 6.78}
+{'text': 'would have marble sinks on on the', 'start': 2533.109, 'duration': 6.51}
+{'text': 'contrary it had to look kind of much', 'start': 2536.68, 'duration': 6.63}
+{'text': "more affordable so that's her book and", 'start': 2539.619, 'duration': 6.271}
+{'text': 'this is one of the first stories in the', 'start': 2543.31, 'duration': 6.42}
+{'text': 'book and it will be also leading us', 'start': 2545.89, 'duration': 6.209}
+{'text': 'right into a conversation about the', 'start': 2549.73, 'duration': 6.51}
+{'text': 'master houses by Anna Maria my sister', 'start': 2552.099, 'duration': 5.871}
+{'text': 'who reconnects them', 'start': 2556.24, 'duration': 5.51}
+{'text': "to the house I'm home which again it's", 'start': 2557.97, 'duration': 6.889}
+{'text': "this project of 1923 the house I'm home", 'start': 2561.75, 'duration': 5.42}
+{'text': 'environment which I already discussed', 'start': 2564.859, 'duration': 5.44}
+{'text': 'but it was meant to be also a prototype', 'start': 2567.17, 'duration': 5.08}
+{'text': 'for a settlement that would develop', 'start': 2570.299, 'duration': 6.0}
+{'text': 'develop on and in Dessau might have been', 'start': 2572.25, 'duration': 7.049}
+{'text': "the chance to do so but again she's kind", 'start': 2576.299, 'duration': 4.711}
+{'text': 'of discussing some of the conflicts', 'start': 2579.299, 'duration': 4.8}
+{'text': 'between actually only four master houses', 'start': 2581.01, 'duration': 7.4}
+{'text': 'that are always double houses which', 'start': 2584.099, 'duration': 7.291}
+{'text': "don't quite repeat at all in themselves", 'start': 2588.41, 'duration': 6.25}
+{'text': 'already and again not what later Hannes', 'start': 2591.39, 'duration': 8.729}
+{'text': 'Meyer would kind of demand to to really', 'start': 2594.66, 'duration': 11.629}
+{'text': 'think about social housing industrial', 'start': 2600.119, 'duration': 8.851}
+{'text': "reproduction and we have actually here's", 'start': 2606.289, 'duration': 5.201}
+{'text': 'something very individualistic still in', 'start': 2608.97, 'duration': 5.04}
+{'text': 'this buildings and it also takes us into', 'start': 2611.49, 'duration': 4.65}
+{'text': "this whole debate of stretching that's", 'start': 2614.01, 'duration': 5.43}
+{'text': 'not like the four hundred years but to', 'start': 2616.14, 'duration': 5.76}
+{'text': 'stay within the story of the various', 'start': 2619.44, 'duration': 4.8}
+{'text': 'after lives of some of the buildings and', 'start': 2621.9, 'duration': 5.84}
+{'text': 'in Dessau some of them have been', 'start': 2624.24, 'duration': 7.079}
+{'text': 'destroyed in the the war is very close', 'start': 2627.74, 'duration': 6.43}
+{'text': 'to the youngest factories and others', 'start': 2631.319, 'duration': 5.76}
+{'text': 'have been rebuilt in a completely', 'start': 2634.17, 'duration': 7.919}
+{'text': 'different style so the another kind of', 'start': 2637.079, 'duration': 8.371}
+{'text': 'story in the book is actually a bit more', 'start': 2642.089, 'duration': 5.97}
+{'text': "it's kind of more from media theory it's", 'start': 2645.45, 'duration': 7.139}
+{'text': 'an observation about a page in in in a', 'start': 2648.059, 'duration': 10.081}
+{'text': 'publication of 1978 and young Thomas', 'start': 2652.589, 'duration': 7.081}
+{'text': 'actually discovers something between', 'start': 2658.14, 'duration': 5.27}
+{'text': 'these two pages in in one of these', 'start': 2659.67, 'duration': 7.409}
+{'text': 'publications where when you kind of look', 'start': 2663.41, 'duration': 5.889}
+{'text': "at the paper it's quite literally", 'start': 2667.079, 'duration': 6.421}
+{'text': 'immense today the materiality of the', 'start': 2669.299, 'duration': 5.971}
+{'text': 'paper you look at when you look at them', 'start': 2673.5, 'duration': 3.779}
+{'text': 'a little bit from the side you see that', 'start': 2675.27, 'duration': 5.839}
+{'text': 'the kind of the print has actually', 'start': 2677.279, 'duration': 6.931}
+{'text': 'pierced through the paper', 'start': 2681.109, 'duration': 6.911}
+{'text': 'and he kind of begins he opens on that', 'start': 2684.21, 'duration': 7.349}
+{'text': 'very kind of interface of the paper and', 'start': 2688.02, 'duration': 5.67}
+{'text': 'the photograph and the pixelation of', 'start': 2691.559, 'duration': 6.06}
+{'text': 'this photograph opens up this bars', 'start': 2693.69, 'duration': 9.659}
+{'text': 'history that leads him to to search that', 'start': 2697.619, 'duration': 8.811}
+{'text': 'very same publication in various other', 'start': 2703.349, 'duration': 5.641}
+{'text': 'libraries discovers them in different', 'start': 2706.43, 'duration': 6.34}
+{'text': 'states different forms of decay but also', 'start': 2708.99, 'duration': 7.55}
+{'text': 'in different forms of registration and', 'start': 2712.77, 'duration': 7.289}
+{'text': 'library signatures actually a quite', 'start': 2716.54, 'duration': 7.0}
+{'text': 'fascinating a little bit unusual reading', 'start': 2720.059, 'duration': 6.661}
+{'text': "of Bauhaus history and let's say also", 'start': 2723.54, 'duration': 6.539}
+{'text': 'the entrance to about historiography in', 'start': 2726.72, 'duration': 6.149}
+{'text': 'a different way', 'start': 2730.079, 'duration': 5.431}
+{'text': "nickel atom oh sure I'm sure you know", 'start': 2732.869, 'duration': 8.641}
+{'text': 'him and here in London he was very kind', 'start': 2735.51, 'duration': 10.23}
+{'text': 'of yeah wonderful to use the work is', 'start': 2741.51, 'duration': 11.01}
+{'text': 'done for four years on the spacesuit to', 'start': 2745.74, 'duration': 10.859}
+{'text': 'actually to find a relation to two', 'start': 2752.52, 'duration': 6.96}
+{'text': 'Bauhaus costumes and particularly to', 'start': 2756.599, 'duration': 6.301}
+{'text': 'this lemon Valley it seemed kind of an', 'start': 2759.48, 'duration': 9.93}
+{'text': 'an interesting kind of connection to', 'start': 2762.9, 'duration': 8.31}
+{'text': 'think them through and he develops them', 'start': 2769.41, 'duration': 4.439}
+{'text': 'really wonderfully which goes in the', 'start': 2771.21, 'duration': 7.129}
+{'text': 'same way both into the kind of the the', 'start': 2773.849, 'duration': 7.681}
+{'text': 'the textile itself the development of', 'start': 2778.339, 'duration': 6.551}
+{'text': 'the textile for the for the spacesuits', 'start': 2781.53, 'duration': 7.92}
+{'text': 'which took some of the knowledge of the', 'start': 2784.89, 'duration': 11.49}
+{'text': 'time from from even Bauhaus experiments', 'start': 2789.45, 'duration': 9.31}
+{'text': 'and at the same time', 'start': 2796.38, 'duration': 6.219}
+{'text': 'ends with of reading of Slammers kind of', 'start': 2798.76, 'duration': 9.569}
+{'text': 'nationalist tendencies in in the early', 'start': 2802.599, 'duration': 8.851}
+{'text': '30s where he kind of sees these', 'start': 2808.329, 'duration': 5.911}
+{'text': 'spacesuits walking by themselves but', 'start': 2811.45, 'duration': 5.04}
+{'text': "also into a problem I don't have this", 'start': 2814.24, 'duration': 5.28}
+{'text': 'last image a problem of conservation so', 'start': 2816.49, 'duration': 6.629}
+{'text': 'both suits pose the kind of the costumes', 'start': 2819.52, 'duration': 5.839}
+{'text': 'of the famous bar husband a special Emma', 'start': 2823.119, 'duration': 6.391}
+{'text': 'have the same kind of conservation', 'start': 2825.359, 'duration': 5.881}
+{'text': '[Music]', 'start': 2829.51, 'duration': 6.12}
+{'text': 'guidelines like the spacesuits in the', 'start': 2831.24, 'duration': 6.46}
+{'text': "museum so it's kind of interesting to", 'start': 2835.63, 'duration': 7.5}
+{'text': 'read the kind of the expertise of two', 'start': 2837.7, 'duration': 9.26}
+{'text': 'conservationists for those costumes so', 'start': 2843.13, 'duration': 8.28}
+{'text': 'so while the first part is about objects', 'start': 2846.96, 'duration': 7.149}
+{'text': 'patterns textures and codes I gave a bit', 'start': 2851.41, 'duration': 6.179}
+{'text': 'way of this already the other one is a', 'start': 2854.109, 'duration': 9.391}
+{'text': 'bit more really related to the divine', 'start': 2857.589, 'duration': 11.221}
+{'text': "man as a place as we've kind of in both", 'start': 2863.5, 'duration': 8.52}
+{'text': 'places basically by my aunt daesil had', 'start': 2868.81, 'duration': 6.269}
+{'text': 'their own afterlife something that is', 'start': 2872.02, 'duration': 5.16}
+{'text': 'more complex and would make another', 'start': 2875.079, 'duration': 6.03}
+{'text': 'story that is maybe less established as', 'start': 2877.18, 'duration': 7.25}
+{'text': 'a powerhouse history which relates to', 'start': 2881.109, 'duration': 7.051}
+{'text': 'the moment when the bajas leaves here we', 'start': 2884.43, 'duration': 6.87}
+{'text': 'just to illustrate this beautiful', 'start': 2888.16, 'duration': 7.01}
+{'text': 'setting here between Gertrude aunt and', 'start': 2891.3, 'duration': 7.12}
+{'text': 'ot burger or T bracket sits here and', 'start': 2895.17, 'duration': 7.03}
+{'text': 'kind of stages an image of the departure', 'start': 2898.42, 'duration': 7.14}
+{'text': "of the Bauhaus from from Dessau but it's", 'start': 2902.2, 'duration': 6.99}
+{'text': 'also the departure of the same family', 'start': 2905.56, 'duration': 7.67}
+{'text': 'and from their house in in Dessau and', 'start': 2909.19, 'duration': 6.659}
+{'text': "it's actually interesting how kind of", 'start': 2913.23, 'duration': 5.8}
+{'text': 'how simple it looks like', 'start': 2915.849, 'duration': 6.541}
+{'text': 'at the same time the arrival of the', 'start': 2919.03, 'duration': 5.99}
+{'text': 'National Socialists into this building', 'start': 2922.39, 'duration': 7.05}
+{'text': "don't have such images yet of Lima I", 'start': 2925.02, 'duration': 7.69}
+{'text': "didn't find them yet but that is", 'start': 2929.44, 'duration': 6.629}
+{'text': 'actually the story that needs to be told', 'start': 2932.71, 'duration': 5.04}
+{'text': 'in relation to the history of those', 'start': 2936.069, 'duration': 4.111}
+{'text': 'buildings and objects that how they', 'start': 2937.75, 'duration': 5.16}
+{'text': 'actually go through these regimes and', 'start': 2940.18, 'duration': 5.46}
+{'text': 'how they are destroyed we see as already', 'start': 2942.91, 'duration': 5.189}
+{'text': "during the war it becomes actually it's", 'start': 2945.64, 'duration': 7.56}
+{'text': 'a kind of an school also first for like', 'start': 2948.099, 'duration': 8.391}
+{'text': 'a kind of a crafts training school and', 'start': 2953.2, 'duration': 9.78}
+{'text': 'later more militaries Jews we have other', 'start': 2956.49, 'duration': 9.22}
+{'text': 'buildings that are being bombarded like', 'start': 2962.98, 'duration': 5.99}
+{'text': 'here the house of the Pahlavi Nagy and', 'start': 2965.71, 'duration': 7.95}
+{'text': 'East Germany brings up its on a version', 'start': 2968.97, 'duration': 9.84}
+{'text': 'of Bauhaus or like a kind of an family', 'start': 2973.66, 'duration': 10.32}
+{'text': 'house the building itself in Dessau is', 'start': 2978.81, 'duration': 11.559}
+{'text': 'in an ok State and 1961 from far but by', 'start': 2983.98, 'duration': 11.099}
+{'text': 'the time we are in the 70s early 70s it', 'start': 2990.369, 'duration': 11.011}
+{'text': 'kind of it feels now really heavy traces', 'start': 2995.079, 'duration': 11.941}
+{'text': 'of decay the building is cannot can yeah', 'start': 3001.38, 'duration': 8.25}
+{'text': "it's leaking it's it's patting us", 'start': 3007.02, 'duration': 5.13}
+{'text': "falling off and it's actually that's the", 'start': 3009.63, 'duration': 6.15}
+{'text': 'interesting thing I learned in Vemma and', 'start': 3012.15, 'duration': 5.969}
+{'text': "we kind of we have it in the book it's", 'start': 3015.78, 'duration': 4.23}
+{'text': 'how it was an initiative actually of', 'start': 3018.119, 'duration': 4.74}
+{'text': 'Lima at the time now in East Germany and', 'start': 3020.01, 'duration': 6.87}
+{'text': 'to to monitor this building already', 'start': 3022.859, 'duration': 6.061}
+{'text': 'throughout the 60s like to have an', 'start': 3026.88, 'duration': 4.41}
+{'text': "interest although it wasn't an", 'start': 3028.92, 'duration': 5.189}
+{'text': 'established research question to', 'start': 3031.29, 'duration': 4.95}
+{'text': 'research the Bauhaus on the contrary it', 'start': 3034.109, 'duration': 8.041}
+{'text': 'was quite critically seen - to open up', 'start': 3036.24, 'duration': 8.73}
+{'text': "and let's say in all-embracing bars", 'start': 3042.15, 'duration': 8.17}
+{'text': 'history research it became', 'start': 3044.97, 'duration': 8.91}
+{'text': 'ruin that was then documented by', 'start': 3050.32, 'duration': 5.49}
+{'text': 'conservationists by architecture', 'start': 3053.88, 'duration': 4.45}
+{'text': 'students who actually found themselves', 'start': 3055.81, 'duration': 5.19}
+{'text': 'probably in the same moment like we are', 'start': 3058.33, 'duration': 7.23}
+{'text': 'now in 76 in Dessau when the building', 'start': 3061.0, 'duration': 10.17}
+{'text': 'would be like in 75 it this is the state', 'start': 3065.56, 'duration': 9.66}
+{'text': "in Dessau and it's the same moment we", 'start': 3071.17, 'duration': 6.18}
+{'text': 'have when bernard tschumi is actually', 'start': 3075.22, 'duration': 4.62}
+{'text': 'looking at the buildings of modernism', 'start': 3077.35, 'duration': 5.63}
+{'text': 'enjoying the decay and even the kind of', 'start': 3079.84, 'duration': 5.85}
+{'text': 'sensuality that seems to emanate from', 'start': 3082.98, 'duration': 6.7}
+{'text': 'from these buildings as in the way they', 'start': 3085.69, 'duration': 9.15}
+{'text': 'look but it also it what actually starts', 'start': 3089.68, 'duration': 9.15}
+{'text': 'is an enormous revival project of the', 'start': 3094.84, 'duration': 10.64}
+{'text': '70s to to to bring the Bauhaus back into', 'start': 3098.83, 'duration': 11.88}
+{'text': "East German academia so there's a", 'start': 3105.48, 'duration': 9.64}
+{'text': 'chapter about the kind of tea we had the', 'start': 3110.71, 'duration': 10.32}
+{'text': 'way it was slowly kind of revealed for', 'start': 3115.12, 'duration': 8.13}
+{'text': 'conservationists later they were kind of', 'start': 3121.03, 'duration': 5.7}
+{'text': 'very critical of the fast process of', 'start': 3123.25, 'duration': 5.85}
+{'text': 'renovating this building it was actually', 'start': 3126.73, 'duration': 4.8}
+{'text': 'done within less than a year that this', 'start': 3129.1, 'duration': 6.59}
+{'text': 'building was transformed to be ready for', 'start': 3131.53, 'duration': 6.69}
+{'text': 'its 50th anniversary', 'start': 3135.69, 'duration': 5.91}
+{'text': 'so the baddest building was in Desa was', 'start': 3138.22, 'duration': 10.29}
+{'text': 'opened in 1926 and by Gropius and in 76', 'start': 3141.6, 'duration': 9.31}
+{'text': 'it had to be celebrated so it was the', 'start': 3148.51, 'duration': 4.79}
+{'text': 'idea to celebrate its 50th anniversary', 'start': 3150.91, 'duration': 5.37}
+{'text': 'and so it had to be ready for the press', 'start': 3153.3, 'duration': 6.04}
+{'text': 'for for international guests and', 'start': 3156.28, 'duration': 8.46}
+{'text': 'obviously for for Bauhaus students power', 'start': 3159.34, 'duration': 8.34}
+{'text': 'hustlers who could come and were invited', 'start': 3164.74, 'duration': 5.91}
+{'text': 'to come from all over the world and in', 'start': 3167.68, 'duration': 4.74}
+{'text': 'that sense it was the very first time', 'start': 3170.65, 'duration': 4.47}
+{'text': 'that East Germany also opened its kind', 'start': 3172.42, 'duration': 3.56}
+{'text': 'of', 'start': 3175.12, 'duration': 4.23}
+{'text': 'borders or the kind of even allowed the', 'start': 3175.98, 'duration': 8.77}
+{'text': 'invitation across the kind of the border', 'start': 3179.35, 'duration': 12.51}
+{'text': 'to allow Western journalists architects', 'start': 3184.75, 'duration': 10.62}
+{'text': 'and obviously the protagonists of the', 'start': 3191.86, 'duration': 6.69}
+{'text': 'powerhouse to be in this place it was', 'start': 3195.37, 'duration': 5.88}
+{'text': "kind of the same so it's also in the", 'start': 3198.55, 'duration': 7.53}
+{'text': 'book strangely the very moment of the', 'start': 3201.25, 'duration': 9.32}
+{'text': 'opening on the fourth of December 1976', 'start': 3206.08, 'duration': 7.86}
+{'text': 'looked like this which already when you', 'start': 3210.57, 'duration': 5.7}
+{'text': 'look at it it looks quite stiff and', 'start': 3213.94, 'duration': 6.69}
+{'text': 'little Dow not quite like the bar has', 'start': 3216.27, 'duration': 5.8}
+{'text': 'looked before', 'start': 3220.63, 'duration': 5.07}
+{'text': 'actually the in 1926 when it was all', 'start': 3222.07, 'duration': 6.36}
+{'text': 'about jazz and cool experimental music', 'start': 3225.7, 'duration': 5.34}
+{'text': 'its Germany had really a problem to', 'start': 3228.43, 'duration': 6.06}
+{'text': "celebrate I wasn't quite sure what to", 'start': 3231.04, 'duration': 5.46}
+{'text': 'celebrate and how to do it and so it', 'start': 3234.49, 'duration': 4.62}
+{'text': 'looks really more like kind of some', 'start': 3236.5, 'duration': 8.73}
+{'text': 'party bureaucrat and Mozart and the', 'start': 3239.11, 'duration': 9.99}
+{'text': 'music program so all that I mean this', 'start': 3245.23, 'duration': 5.94}
+{'text': 'image shows very well that it was new it', 'start': 3249.1, 'duration': 3.79}
+{'text': "was kind of something that wasn't", 'start': 3251.17, 'duration': 3.2}
+{'text': '[Music]', 'start': 3252.89, 'duration': 6.46}
+{'text': 'considered something comfortable to', 'start': 3254.37, 'duration': 8.35}
+{'text': "introduce into let's say official is", 'start': 3259.35, 'duration': 7.96}
+{'text': 'German propaganda or kind of an Russian', 'start': 3262.72, 'duration': 8.34}
+{'text': 'Allen so yeah so these same bar houses', 'start': 3267.31, 'duration': 5.28}
+{'text': 'they had to kind of probably told each', 'start': 3271.06, 'duration': 3.87}
+{'text': 'other the old stories how it used to be', 'start': 3272.59, 'duration': 6.18}
+{'text': 'and what happened as it was such a', 'start': 3274.93, 'duration': 7.92}
+{'text': 'special event in 1976 they were', 'start': 3278.77, 'duration': 9.3}
+{'text': 'instituted both inviting to the Bauhaus', 'start': 3282.85, 'duration': 7.23}
+{'text': 'building in Dessau but at the same time', 'start': 3288.07, 'duration': 6.53}
+{'text': 'created this boscola film on in', 'start': 3290.08, 'duration': 8.43}
+{'text': 'environment which is now the moment how', 'start': 3294.6, 'duration': 6.85}
+{'text': 'I come in because this book actually', 'start': 3298.51, 'duration': 6.65}
+{'text': 'began in 2016 when I', 'start': 3301.45, 'duration': 8.99}
+{'text': 'invited to to this conference at the', 'start': 3305.16, 'duration': 8.34}
+{'text': 'so-called Bauhaus colloquium which was', 'start': 3310.44, 'duration': 5.76}
+{'text': 'founded the very first time or kind of', 'start': 3313.5, 'duration': 5.91}
+{'text': 'took place the first time in 1976 so', 'start': 3316.2, 'duration': 5.94}
+{'text': 'with the kind of foundation or kind of', 'start': 3319.41, 'duration': 4.649}
+{'text': 'reopening of the Bauhaus building in', 'start': 3322.14, 'duration': 5.07}
+{'text': 'Dessau and it was now 40 years since', 'start': 3324.059, 'duration': 6.75}
+{'text': 'that very opening so we have now a few', 'start': 3327.21, 'duration': 7.5}
+{'text': 'kind of temporal frameworks so on the', 'start': 3330.809, 'duration': 7.02}
+{'text': "one hand it's the 40 years to the kind", 'start': 3334.71, 'duration': 5.03}
+{'text': 'of the history of a conference that was', 'start': 3337.829, 'duration': 5.121}
+{'text': 'repeated every two to three years and', 'start': 3339.74, 'duration': 6.43}
+{'text': 'the history of the Bauhaus itself and', 'start': 3342.95, 'duration': 7.869}
+{'text': 'that is being that out through the', 'start': 3346.17, 'duration': 7.619}
+{'text': 'course of these of these events so we', 'start': 3350.819, 'duration': 4.891}
+{'text': "could so I'm just showing you a few", 'start': 3353.789, 'duration': 4.05}
+{'text': 'images of the conference just because it', 'start': 3355.71, 'duration': 5.639}
+{'text': 'was somehow like a a background also in', 'start': 3357.839, 'duration': 7.921}
+{'text': 'different formats to think through and', 'start': 3361.349, 'duration': 5.97}
+{'text': 'kind of to meet and to actually to', 'start': 3365.76, 'duration': 3.51}
+{'text': 'create also this kind of collective', 'start': 3367.319, 'duration': 5.821}
+{'text': 'working on that yeah it was very much', 'start': 3369.27, 'duration': 7.019}
+{'text': 'also the kind of day the image I had or', 'start': 3373.14, 'duration': 6.449}
+{'text': 'kind of the that kind of encouraged me', 'start': 3376.289, 'duration': 5.49}
+{'text': 'to continue with this book because it', 'start': 3379.589, 'duration': 4.591}
+{'text': 'was such an amazing experience that we', 'start': 3381.779, 'duration': 6.09}
+{'text': 'also repeated in 2019 so with kind of', 'start': 3384.18, 'duration': 6.389}
+{'text': 'all sorts of not just one conference but', 'start': 3387.869, 'duration': 6.151}
+{'text': 'within conference and an exhibition they', 'start': 3390.569, 'duration': 5.401}
+{'text': 'put an exhibition together to actually', 'start': 3394.02, 'duration': 5.18}
+{'text': 'look back at these 40 years of these', 'start': 3395.97, 'duration': 6.48}
+{'text': 'conferences in which we would say that', 'start': 3399.2, 'duration': 7.24}
+{'text': 'actually since 1976 every with every', 'start': 3402.45, 'duration': 5.94}
+{'text': 'next collection with every next', 'start': 3406.44, 'duration': 3.51}
+{'text': 'conference you could say a little bit', 'start': 3408.39, 'duration': 4.32}
+{'text': 'more or you were teasing out what could', 'start': 3409.95, 'duration': 7.26}
+{'text': 'be said against a regime through the', 'start': 3412.71, 'duration': 7.44}
+{'text': 'cover of the Bauhaus right so that was', 'start': 3417.21, 'duration': 7.129}
+{'text': 'actually also attracting a lot of lefty', 'start': 3420.15, 'duration': 6.919}
+{'text': 'architectural historians and theorists', 'start': 3424.339, 'duration': 6.581}
+{'text': 'who come to East Germany which actually', 'start': 3427.069, 'duration': 6.821}
+{'text': "there wasn't such kind of forum may be", 'start': 3430.92, 'duration': 5.62}
+{'text': 'related to the Bauhaus or to modernism', 'start': 3433.89, 'duration': 6.75}
+{'text': 'that allowed certain form of exchange', 'start': 3436.54, 'duration': 10.53}
+{'text': 'so left minded theorists came because', 'start': 3440.64, 'duration': 8.34}
+{'text': 'they they found the discussions', 'start': 3447.07, 'duration': 7.11}
+{'text': 'fascinating and on the other hand kind', 'start': 3448.98, 'duration': 6.97}
+{'text': 'of research from Eastern Europe and', 'start': 3454.18, 'duration': 4.17}
+{'text': 'international works on the Bauhaus were', 'start': 3455.95, 'duration': 4.74}
+{'text': 'presented there it was also kind of an', 'start': 3458.35, 'duration': 5.63}
+{'text': 'unusual forum so my mom in this kind of', 'start': 3460.69, 'duration': 6.75}
+{'text': 'conferences that were important was an', 'start': 3463.98, 'duration': 6.88}
+{'text': 'important institution to to put on the', 'start': 3467.44, 'duration': 5.55}
+{'text': 'kind of the revival of the Bauhaus so', 'start': 3470.86, 'duration': 4.59}
+{'text': 'that we always when the government as in', 'start': 3472.99, 'duration': 6.48}
+{'text': '2019 to celebrate that years it actually', 'start': 3475.45, 'duration': 6.57}
+{'text': 'kind of relates to a longer struggle', 'start': 3479.47, 'duration': 7.59}
+{'text': 'rather than just kind of a new question', 'start': 3482.02, 'duration': 10.2}
+{'text': 'of research also in terms of the history', 'start': 3487.06, 'duration': 8.27}
+{'text': 'telling that was important for me and', 'start': 3492.22, 'duration': 10.76}
+{'text': 'also started in 2013/14 research', 'start': 3495.33, 'duration': 10.12}
+{'text': 'collective called the Center for', 'start': 3502.98, 'duration': 4.99}
+{'text': 'documentary architecture in which we', 'start': 3505.45, 'duration': 4.41}
+{'text': 'actually translated that research into', 'start': 3507.97, 'duration': 5.94}
+{'text': 'an online archive in which basically all', 'start': 3509.86, 'duration': 11.46}
+{'text': 'the this kind of exhibition found a', 'start': 3513.91, 'duration': 10.71}
+{'text': 'different form of existence online so', 'start': 3521.32, 'duration': 5.43}
+{'text': 'you can check that we also had', 'start': 3524.62, 'duration': 5.37}
+{'text': 'interviews we see here Charles Jencks to', 'start': 3526.75, 'duration': 5.12}
+{'text': 'whom I actually wanted to give this book', 'start': 3529.99, 'duration': 4.8}
+{'text': 'still in September we exchanged over it', 'start': 3531.87, 'duration': 9.04}
+{'text': 'and I think it also belongs to this 2019', 'start': 3534.79, 'duration': 10.32}
+{'text': 'year this that not all of my', 'start': 3540.91, 'duration': 8.52}
+{'text': 'contributors could be here so', 'start': 3545.11, 'duration': 8.33}
+{'text': 'I would have liked to give it to himself', 'start': 3549.43, 'duration': 4.01}
+{'text': 'so we have so this is the story of the', 'start': 3553.98, 'duration': 7.98}
+{'text': 'lady the kind of interviews we did with', 'start': 3557.74, 'duration': 5.48}
+{'text': '[Music]', 'start': 3561.96, 'duration': 4.09}
+{'text': 'guests to the Bowers Coliseum over these', 'start': 3563.22, 'duration': 5.86}
+{'text': '40 years of which Charles Jencks was won', 'start': 3566.05, 'duration': 7.77}
+{'text': 'in 1992 and another one is karl-heinz', 'start': 3569.08, 'duration': 11.7}
+{'text': "hooter who's actually who dared in 1968", 'start': 3573.82, 'duration': 11.7}
+{'text': 'to write a letter to grope us with a', 'start': 3580.78, 'duration': 6.6}
+{'text': "manuscript he'd written about the", 'start': 3585.52, 'duration': 4.52}
+{'text': 'history of the Bauhaus in Weimar and', 'start': 3587.38, 'duration': 4.92}
+{'text': "because he's not allowed to write any", 'start': 3590.04, 'duration': 4.3}
+{'text': 'letters no even to send manuscripts', 'start': 3592.3, 'duration': 8.01}
+{'text': 'without any censorship to to the US he', 'start': 3594.34, 'duration': 12.17}
+{'text': 'was actually accused quite heavily of', 'start': 3600.31, 'duration': 9.38}
+{'text': 'not quite a traitor but he was basically', 'start': 3606.51, 'duration': 6.43}
+{'text': 'not allowed to follow his academic', 'start': 3609.69, 'duration': 6.28}
+{'text': 'career as he had planned and we have', 'start': 3612.94, 'duration': 5.37}
+{'text': 'actually this few letter correspondences', 'start': 3615.97, 'duration': 4.83}
+{'text': 'so quite a wonderful and Gropius very', 'start': 3618.31, 'duration': 5.04}
+{'text': 'happy with the spoke and even helps him', 'start': 3620.8, 'duration': 5.28}
+{'text': 'with some of the details but it shows', 'start': 3623.35, 'duration': 5.58}
+{'text': 'actually how precarious the situation', 'start': 3626.08, 'duration': 6.32}
+{'text': 'was in East Germany to actually to to', 'start': 3628.93, 'duration': 8.46}
+{'text': 'pursue Bauhaus research and another', 'start': 3632.4, 'duration': 9.13}
+{'text': 'chapter the third one last one we look', 'start': 3637.39, 'duration': 7.34}
+{'text': "at it's titled refugees migrants", 'start': 3641.53, 'duration': 7.26}
+{'text': "returnees and travelers that's the kind", 'start': 3644.73, 'duration': 7.87}
+{'text': 'of the idea of the Bauhaus in exile or', 'start': 3648.79, 'duration': 7.46}
+{'text': 'kind of the to to look also for', 'start': 3652.6, 'duration': 7.23}
+{'text': 'protagonists and their various difficult', 'start': 3656.25, 'duration': 7.96}
+{'text': 'to research sometimes trajectories in', 'start': 3659.83, 'duration': 9.35}
+{'text': 'two different places of the world', 'start': 3664.21, 'duration': 8.04}
+{'text': 'first of all Hannes Meyer himself the', 'start': 3669.18, 'duration': 5.41}
+{'text': 'second Bauhaus director who actually', 'start': 3672.25, 'duration': 7.57}
+{'text': 'really struggles to to move', 'start': 3674.59, 'duration': 8.05}
+{'text': 'as a communist into the communist scene', 'start': 3679.82, 'duration': 7.65}
+{'text': 'in Moscow than to leave it to return to', 'start': 3682.64, 'duration': 7.26}
+{'text': 'Switzerland and to come back to them to', 'start': 3687.47, 'duration': 4.77}
+{'text': 'move to Mexico and then again to return', 'start': 3689.9, 'duration': 5.51}
+{'text': 'to to Switzerland and he finds himself', 'start': 3692.24, 'duration': 5.97}
+{'text': 'actually more and more in a kind of an', 'start': 3695.41, 'duration': 7.98}
+{'text': "animal situation in which he's kind of", 'start': 3698.21, 'duration': 7.95}
+{'text': 'attached to every regime too much', 'start': 3703.39, 'duration': 4.78}
+{'text': "so it's Germany cannot speak about him", 'start': 3706.16, 'duration': 5.67}
+{'text': 'as you know famously Gropius it raises', 'start': 3708.17, 'duration': 5.46}
+{'text': 'him completely from all bajas', 'start': 3711.83, 'duration': 4.05}
+{'text': 'exhibitions or books as if he never', 'start': 3713.63, 'duration': 7.08}
+{'text': "existed almost so it's kind of an very", 'start': 3715.88, 'duration': 8.0}
+{'text': 'moving but also beautifully researched', 'start': 3720.71, 'duration': 7.65}
+{'text': 'essay by Thomas Phil who managed to go', 'start': 3723.88, 'duration': 8.35}
+{'text': 'into new archives in that opened in', 'start': 3728.36, 'duration': 8.9}
+{'text': "Russia mostly in Moscow which he's", 'start': 3732.23, 'duration': 7.2}
+{'text': 'translating and reading here in Turin', 'start': 3737.26, 'duration': 7.48}
+{'text': "for us it's sort of similar tima by tima", 'start': 3739.43, 'duration': 10.44}
+{'text': 'Viner is an student of of Hannes Meyer', 'start': 3744.74, 'duration': 7.46}
+{'text': 'and he moves also with him to Moscow', 'start': 3749.87, 'duration': 6.99}
+{'text': "he's originally from Hungary and then", 'start': 3752.2, 'duration': 8.95}
+{'text': 'goes to Chile and actually brings this', 'start': 3756.86, 'duration': 6.15}
+{'text': 'is the interesting thing he takes the', 'start': 3761.15, 'duration': 7.95}
+{'text': 'pedagogical theories and ideas of Hannes', 'start': 3763.01, 'duration': 10.77}
+{'text': 'Meyer to Chile and begins to introduce', 'start': 3769.1, 'duration': 8.93}
+{'text': 'them into an architecture school and', 'start': 3773.78, 'duration': 8.4}
+{'text': 'develops amazing data sheets and very', 'start': 3778.03, 'duration': 7.66}
+{'text': 'much in the fashion of Hannes Meyer but', 'start': 3782.18, 'duration': 8.1}
+{'text': 'interestingly he holds back at some', 'start': 3785.69, 'duration': 6.5}
+{'text': 'point this is also what I found', 'start': 3790.28, 'duration': 4.62}
+{'text': 'interesting in some of the protagonists', 'start': 3792.19, 'duration': 6.01}
+{'text': 'that they also fall back as soon as they', 'start': 3794.9, 'duration': 5.34}
+{'text': 'are back home he goes back to Hungary', 'start': 3798.2, 'duration': 5.879}
+{'text': 'and he has kind of slightly Stalinist', 'start': 3800.24, 'duration': 6.609}
+{'text': 'attitudes to his architecture so this', 'start': 3804.079, 'duration': 6.131}
+{'text': 'kind of modernist episode is one thing', 'start': 3806.849, 'duration': 5.821}
+{'text': "and then it's a different character", 'start': 3810.21, 'duration': 4.2}
+{'text': "somehow which doesn't please usually", 'start': 3812.67, 'duration': 3.949}
+{'text': "historian so it's difficult to tell", 'start': 3814.41, 'duration': 6.119}
+{'text': 'these stories and Ana coherent way but', 'start': 3816.619, 'duration': 6.031}
+{'text': "it's obviously and it's we have a few", 'start': 3820.529, 'duration': 5.31}
+{'text': 'such stories that kind of fade out also', 'start': 3822.65, 'duration': 8.31}
+{'text': 'into history or kind of become less', 'start': 3825.839, 'duration': 7.621}
+{'text': 'strict to the framework of what we would', 'start': 3830.96, 'duration': 7.839}
+{'text': 'think Bauhaus history is about in a song', 'start': 3833.46, 'duration': 8.389}
+{'text': 'that has a beautiful story about an', 'start': 3838.799, 'duration': 8.881}
+{'text': 'architect who was a communist at the', 'start': 3841.849, 'duration': 9.851}
+{'text': 'bars from you could Slavia salmon salmon', 'start': 3847.68, 'duration': 7.829}
+{'text': "agate who is probably also the I don't", 'start': 3851.7, 'duration': 6.419}
+{'text': 'know about another Muslim in the Bauhaus', 'start': 3855.509, 'duration': 6.631}
+{'text': 'is not being told about but he actually', 'start': 3858.119, 'duration': 7.111}
+{'text': 'goes to Palestine after traveling a bit', 'start': 3862.14, 'duration': 9.33}
+{'text': 'to Egypt and ends up in in Palestine and', 'start': 3865.23, 'duration': 8.539}
+{'text': 'works in the office of Richard Kaufman', 'start': 3871.47, 'duration': 5.069}
+{'text': 'until Richard Kaufman discovers that he', 'start': 3873.769, 'duration': 5.171}
+{'text': 'is actually not one of the other Jewish', 'start': 3876.539, 'duration': 5.671}
+{'text': "émigrés who have arrived and he's kind", 'start': 3878.94, 'duration': 6.44}
+{'text': 'of the story obviously varies but', 'start': 3882.21, 'duration': 5.7}
+{'text': "apparently he's thrown out of this", 'start': 3885.38, 'duration': 5.649}
+{'text': 'office and interestingly salmon salmon', 'start': 3887.91, 'duration': 5.49}
+{'text': "agate continues to work he's also", 'start': 3891.029, 'duration': 6.27}
+{'text': 'working with the mufti of Jerusalem he', 'start': 3893.4, 'duration': 9.179}
+{'text': 'builds a synagogue not a synagogue a', 'start': 3897.299, 'duration': 11.401}
+{'text': 'mosque and we see him actually here yeah', 'start': 3902.579, 'duration': 7.921}
+{'text': 'this is probably still work in the in', 'start': 3908.7, 'duration': 7.26}
+{'text': 'the office of fish at Kaufman but yeah', 'start': 3910.5, 'duration': 7.68}
+{'text': "so it's actually also it seems to be", 'start': 3915.96, 'duration': 6.119}
+{'text': "still the missing link we don't know", 'start': 3918.18, 'duration': 8.669}
+{'text': 'much about his actually work with after', 'start': 3922.079, 'duration': 7.53}
+{'text': 'the work in the Hoffman office and he', 'start': 3926.849, 'duration': 5.351}
+{'text': 'comes back actually before', 'start': 3929.609, 'duration': 7.181}
+{'text': "the war started and there's a huge gap", 'start': 3932.2, 'duration': 9.0}
+{'text': 'in his biography which really or in', 'start': 3936.79, 'duration': 8.49}
+{'text': "asunder' tries to to speculate a little", 'start': 3941.2, 'duration': 7.2}
+{'text': 'bit but salmon salmon agate will become', 'start': 3945.28, 'duration': 6.77}
+{'text': 'an very important professor at the', 'start': 3948.4, 'duration': 5.85}
+{'text': 'architecture school and bison say in', 'start': 3952.05, 'duration': 4.99}
+{'text': 'East Germany and will be very successful', 'start': 3954.25, 'duration': 4.74}
+{'text': 'but he will never really speak about', 'start': 3957.04, 'duration': 4.92}
+{'text': "that episode in his life so it's left to", 'start': 3958.99, 'duration': 7.56}
+{'text': 'the family archive for memories that we', 'start': 3961.96, 'duration': 10.98}
+{'text': 'can yeah mostly only speculate on I just', 'start': 3966.55, 'duration': 8.16}
+{'text': 'go through this quickly because the', 'start': 3972.94, 'duration': 5.85}
+{'text': 'bauhaus here in in Britain is a chapter', 'start': 3974.71, 'duration': 7.47}
+{'text': "on its own it's just kind of attached", 'start': 3978.79, 'duration': 7.4}
+{'text': 'upon in an essay by Veronica Raymer who', 'start': 3982.18, 'duration': 8.76}
+{'text': 'looks at an Australian couple and the', 'start': 3986.19, 'duration': 10.08}
+{'text': 'influence of meeting Bauhaus', 'start': 3990.94, 'duration': 7.89}
+{'text': 'protagonists who had come from Germany', 'start': 3996.27, 'duration': 7.39}
+{'text': 'after 1933 to London as you know am a', 'start': 3998.83, 'duration': 10.71}
+{'text': 'supporter and know just what for the', 'start': 4003.66, 'duration': 9.24}
+{'text': 'Simpsons department store and this is', 'start': 4009.54, 'duration': 5.88}
+{'text': 'where they actually met this Australian', 'start': 4012.9, 'duration': 6.54}
+{'text': 'couple and they take some of this back', 'start': 4015.42, 'duration': 7.08}
+{'text': 'to to Sydney to a design exhibition and', 'start': 4019.44, 'duration': 4.74}
+{'text': 'they keep actually this is also', 'start': 4022.5, 'duration': 4.8}
+{'text': 'interesting this powerhouse also write', 'start': 4024.18, 'duration': 5.55}
+{'text': 'each other constantly birthday cards so', 'start': 4027.3, 'duration': 5.31}
+{'text': 'we still see some late works of lászló', 'start': 4029.73, 'duration': 5.28}
+{'text': 'moholy-nagy who always tries to be to', 'start': 4032.61, 'duration': 5.96}
+{'text': 'stay in contact so we see post transpire', 'start': 4035.01, 'duration': 6.48}
+{'text': 'as law and but also we see in the', 'start': 4038.57, 'duration': 4.78}
+{'text': 'invitation card some of the traces that', 'start': 4041.49, 'duration': 5.91}
+{'text': 'lead back to powers education and how', 'start': 4043.35, 'duration': 5.61}
+{'text': 'Mead I think he should give his own', 'start': 4047.4, 'duration': 4.91}
+{'text': "lecture on that but it's very beautiful", 'start': 4048.96, 'duration': 8.07}
+{'text': 'story that presents also rather the more', 'start': 4052.31, 'duration': 6.64}
+{'text': 'the context or the kind of the the other', 'start': 4057.03, 'duration': 4.62}
+{'text': "side of that powers history let's say", 'start': 4058.95, 'duration': 4.2}
+{'text': 'starting with the', 'start': 4061.65, 'duration': 4.62}
+{'text': 'Bauhaus members on the roof in in in', 'start': 4063.15, 'duration': 9.27}
+{'text': 'Dessau juxtapose true day to the meeting', 'start': 4066.27, 'duration': 12.36}
+{'text': 'of the CM meeting here and he begins to', 'start': 4072.42, 'duration': 10.58}
+{'text': 'speak about Gabrielle goofily cow who', 'start': 4078.63, 'duration': 6.63}
+{'text': 'comes is volunteer-run', 'start': 4083.0, 'duration': 8.68}
+{'text': "and yeah and it's a birthday and for me", 'start': 4085.26, 'duration': 8.64}
+{'text': 'interesting worked with other flows and', 'start': 4091.68, 'duration': 5.1}
+{'text': 'Jenna and it takes actually kind of more', 'start': 4093.9, 'duration': 6.99}
+{'text': "the Lowe's and French side of Education", 'start': 4096.78, 'duration': 6.86}
+{'text': 'rather than with the Bauhaus and', 'start': 4100.89, 'duration': 7.77}
+{'text': 'famously this you probably know D he', 'start': 4103.64, 'duration': 7.51}
+{'text': 'designs the garden in the villa and why', 'start': 4108.66, 'duration': 4.92}
+{'text': 'and we actually see that lászló', 'start': 4111.15, 'duration': 4.62}
+{'text': 'moholy-nagy was there in the same garden', 'start': 4113.58, 'duration': 5.16}
+{'text': 'it was very impressed by by that villa', 'start': 4115.77, 'duration': 10.76}
+{'text': 'and he designs actually in kind of an', 'start': 4118.74, 'duration': 11.7}
+{'text': "bajas terms it's this kind of moment", 'start': 4126.53, 'duration': 7.81}
+{'text': 'also where we need to up open up to to', 'start': 4130.44, 'duration': 6.59}
+{'text': 'read not only Bauhaus as a Bauhaus', 'start': 4134.34, 'duration': 5.43}
+{'text': 'relating to the Bauhaus school but also', 'start': 4137.03, 'duration': 5.43}
+{'text': 'to Bauhaus modernism and the kind of', 'start': 4139.77, 'duration': 9.66}
+{'text': 'environment created with it and but he', 'start': 4142.46, 'duration': 10.15}
+{'text': 'very nicely traces it back also to find', 'start': 4149.43, 'duration': 6.69}
+{'text': 'relations to lászló moholy-nagy who', 'start': 4152.61, 'duration': 6.63}
+{'text': 'stand still in Chicago they meet or they', 'start': 4156.12, 'duration': 5.79}
+{'text': 'kind of day right between each other so', 'start': 4159.24, 'duration': 5.46}
+{'text': "there's kind of there's still some some", 'start': 4161.91, 'duration': 5.19}
+{'text': 'repercussions even if we are not in the', 'start': 4164.7, 'duration': 7.14}
+{'text': 'same place he will actually go back to', 'start': 4167.1, 'duration': 12.0}
+{'text': 'Tehran to design office buildings but I', 'start': 4171.84, 'duration': 9.42}
+{'text': 'think he never comes to realize them and', 'start': 4179.1, 'duration': 5.31}
+{'text': 'will become actually more influential a', 'start': 4181.26, 'duration': 7.34}
+{'text': 'teacher in the United States and', 'start': 4184.41, 'duration': 9.3}
+{'text': "I think that's also the you have one of", 'start': 4188.6, 'duration': 9.43}
+{'text': 'the wonderful protagonists relating to', 'start': 4193.71, 'duration': 11.43}
+{'text': 'the network of modernism my own essay I', 'start': 4198.03, 'duration': 9.899}
+{'text': "think it's fair to mention that begins", 'start': 4205.14, 'duration': 10.65}
+{'text': 'with like an locust plague plague in in', 'start': 4207.929, 'duration': 13.98}
+{'text': 'the Lebanese mountains of 1916 which is', 'start': 4215.79, 'duration': 10.65}
+{'text': 'kind of an the idea also that something', 'start': 4221.909, 'duration': 7.651}
+{'text': 'quite horrific and something that cannot', 'start': 4226.44, 'duration': 6.21}
+{'text': 'be divided by Buddha something that', 'start': 4229.56, 'duration': 6.78}
+{'text': 'affects a whole strip of land it causes', 'start': 4232.65, 'duration': 12.99}
+{'text': 'an enormous for me in in northern in the', 'start': 4236.34, 'duration': 11.7}
+{'text': 'mountains of the Galilee and stretching', 'start': 4245.64, 'duration': 7.23}
+{'text': 'to the Lebanese mountains it will also', 'start': 4248.04, 'duration': 7.44}
+{'text': "become it's kind of it collides with", 'start': 4252.87, 'duration': 8.57}
+{'text': 'another historical movement which is the', 'start': 4255.48, 'duration': 13.59}
+{'text': 'kind of an Academy the Spanish flu which', 'start': 4261.44, 'duration': 9.94}
+{'text': 'was actually raiding around the same', 'start': 4269.07, 'duration': 6.359}
+{'text': 'time throughout the world it was a', 'start': 4271.38, 'duration': 10.609}
+{'text': 'global horrific epitome that kind of', 'start': 4275.429, 'duration': 9.81}
+{'text': "could not be traced it's not visible we", 'start': 4281.989, 'duration': 6.071}
+{'text': 'have hardly documents of how many people', 'start': 4285.239, 'duration': 8.19}
+{'text': 'died of it they and yet there were like', 'start': 4288.06, 'duration': 7.77}
+{'text': 'several I mean like about fifty million', 'start': 4293.429, 'duration': 5.841}
+{'text': 'people died within two years of this', 'start': 4295.83, 'duration': 7.8}
+{'text': 'Spanish flu so these two things these', 'start': 4299.27, 'duration': 7.21}
+{'text': 'kind of these events and we also I found', 'start': 4303.63, 'duration': 6.21}
+{'text': 'in the diaries of Park Lane where he was', 'start': 4306.48, 'duration': 6.849}
+{'text': 'kind of speaking about having a flu', 'start': 4309.84, 'duration': 9.519}
+{'text': 'in 1917 when he served in his army', 'start': 4313.329, 'duration': 8.87}
+{'text': 'headquarters for the Bavarian air force', 'start': 4319.359, 'duration': 5.73}
+{'text': "he thinks about it so we it's somehow", 'start': 4322.199, 'duration': 6.43}
+{'text': "around him and yet it cannot it's not", 'start': 4325.089, 'duration': 7.5}
+{'text': "been traced so that's the beginning as a", 'start': 4328.629, 'duration': 9.08}
+{'text': 'kind of just in an historical fact that', 'start': 4332.589, 'duration': 12.95}
+{'text': 'comes down for me in with one of the', 'start': 4337.709, 'duration': 10.95}
+{'text': 'protagonists who died of the Spanish flu', 'start': 4345.539, 'duration': 8.29}
+{'text': 'so marks mark Sykes who was actually the', 'start': 4348.659, 'duration': 7.69}
+{'text': 'originator of the together with his', 'start': 4353.829, 'duration': 5.96}
+{'text': 'colleague his French diplomat colleague', 'start': 4356.349, 'duration': 9.12}
+{'text': 'picot who divided as a kind of planning', 'start': 4359.789, 'duration': 9.01}
+{'text': 'at the end of the First World War who', 'start': 4365.469, 'duration': 6.09}
+{'text': 'started to divide the Middle East along', 'start': 4368.799, 'duration': 7.17}
+{'text': 'that famous sykes-picot border that', 'start': 4371.559, 'duration': 9.78}
+{'text': 'would divide between French and a', 'start': 4375.969, 'duration': 10.62}
+{'text': 'British side right through the middle', 'start': 4381.339, 'duration': 7.32}
+{'text': 'east that would kind of create Lebanon', 'start': 4386.589, 'duration': 5.66}
+{'text': 'and Syria and cut it off from Jordan and', 'start': 4388.659, 'duration': 8.69}
+{'text': 'obviously British Mandate Palestine I', 'start': 4392.249, 'duration': 7.87}
+{'text': 'want to zoom into in one of these', 'start': 4397.349, 'duration': 5.95}
+{'text': 'moments of the border which I just', 'start': 4400.119, 'duration': 4.98}
+{'text': 'framed here in Red Square', 'start': 4403.299, 'duration': 6.27}
+{'text': 'it actually takes us to the Jordan River', 'start': 4405.099, 'duration': 9.87}
+{'text': 'crossing here depicted by kind of an a', 'start': 4409.569, 'duration': 11.46}
+{'text': 'sketch by an Australian Army soldier who', 'start': 4414.969, 'duration': 8.81}
+{'text': 'was sitting down probably observing the', 'start': 4421.029, 'duration': 6.3}
+{'text': 'repair works done on the bridge that was', 'start': 4423.779, 'duration': 6.25}
+{'text': 'crossing the Jordan River something that', 'start': 4427.329, 'duration': 7.02}
+{'text': 'another person captured through a', 'start': 4430.029, 'duration': 5.731}
+{'text': 'photograph', 'start': 4434.349, 'duration': 3.781}
+{'text': 'it was one of the last gestures of the', 'start': 4435.76, 'duration': 6.45}
+{'text': 'Germans crossing together with the army', 'start': 4438.13, 'duration': 8.07}
+{'text': 'of the Ottoman Empire to actually to', 'start': 4442.21, 'duration': 8.9}
+{'text': 'retreat from its kind of attempt to', 'start': 4446.2, 'duration': 9.36}
+{'text': 'occupy that part of Palestine and so', 'start': 4451.11, 'duration': 8.89}
+{'text': 'they retreat with a last bump that', 'start': 4455.56, 'duration': 7.86}
+{'text': 'destroyed the bridge and the British are', 'start': 4460.0, 'duration': 5.52}
+{'text': 'at the moment rebuilding this bridge was', 'start': 4463.42, 'duration': 4.17}
+{'text': 'a very clever construction then you', 'start': 4465.52, 'duration': 4.76}
+{'text': 'already how to think', 'start': 4467.59, 'duration': 6.72}
+{'text': "bridges very quickly and so I think it's", 'start': 4470.28, 'duration': 6.4}
+{'text': 'one of the last gestures of the Germans', 'start': 4474.31, 'duration': 5.3}
+{'text': 'in the Middle East and as part of the', 'start': 4476.68, 'duration': 6.39}
+{'text': 'war of the First World War this was in', 'start': 4479.61, 'duration': 9.34}
+{'text': '1918 and I always speculated like if we', 'start': 4483.07, 'duration': 7.98}
+{'text': 'have on the one hand we have this kind', 'start': 4488.95, 'duration': 4.41}
+{'text': 'of veterans of the First World War in', 'start': 4491.05, 'duration': 4.5}
+{'text': 'Weimar and actually where they came from', 'start': 4493.36, 'duration': 4.95}
+{'text': 'or where they have been during the First', 'start': 4495.55, 'duration': 4.62}
+{'text': 'World War so we need to actually kind of', 'start': 4498.31, 'duration': 4.83}
+{'text': 'draw still or kind of imagine that', 'start': 4500.17, 'duration': 8.42}
+{'text': 'relation between their kind of time and', 'start': 4503.14, 'duration': 9.12}
+{'text': 'impact elsewhere and to actually bring', 'start': 4508.59, 'duration': 6.79}
+{'text': 'this back and somehow strangely it has', 'start': 4512.26, 'duration': 7.23}
+{'text': 'it kind of comes back there is some', 'start': 4515.38, 'duration': 8.88}
+{'text': 'Bauhaus found apparently in in that part', 'start': 4519.49, 'duration': 5.46}
+{'text': 'of the world', 'start': 4524.26, 'duration': 2.79}
+{'text': 'so we are crossing actually today this', 'start': 4524.95, 'duration': 5.19}
+{'text': 'is kind of an image of the as an aerial', 'start': 4527.05, 'duration': 7.92}
+{'text': "image as don't don't manage to get my", 'start': 4530.14, 'duration': 9.78}
+{'text': 'mouse we are actually in the Golan', 'start': 4534.97, 'duration': 10.59}
+{'text': 'Heights now the Jordan River is the', 'start': 4539.92, 'duration': 11.25}
+{'text': 'established international border we you', 'start': 4545.56, 'duration': 12.27}
+{'text': 'see a road crossing westwards as well', 'start': 4551.17, 'duration': 11.31}
+{'text': 'eastward to up the hill and we see a', 'start': 4557.83, 'duration': 7.379}
+{'text': 'French Customs House', 'start': 4562.48, 'duration': 6.259}
+{'text': 'sorry the British person found customs', 'start': 4565.209, 'duration': 7.53}
+{'text': 'customs house and further up on the', 'start': 4568.739, 'duration': 7.15}
+{'text': 'mountains is a French custom house', 'start': 4572.739, 'duration': 8.061}
+{'text': 'so as this border had been drawn', 'start': 4575.889, 'duration': 11.161}
+{'text': 'literally somewhere in the 1922 but that', 'start': 4580.8, 'duration': 9.52}
+{'text': 'said the buildings were built later kind', 'start': 4587.05, 'duration': 6.319}
+{'text': 'of kind of date function was given later', 'start': 4590.32, 'duration': 8.52}
+{'text': 'we are between probably 1922 and 1930s', 'start': 4593.369, 'duration': 11.94}
+{'text': 'that these buildings were built we are', 'start': 4598.84, 'duration': 11.07}
+{'text': 'at the moment the Golan Heights is', 'start': 4605.309, 'duration': 6.12}
+{'text': '[Music]', 'start': 4609.91, 'duration': 4.97}
+{'text': 'annexed by Israel it has been', 'start': 4611.429, 'duration': 7.38}
+{'text': 'acknowledged or comforta has been', 'start': 4614.88, 'duration': 8.949}
+{'text': 'supported through Trump that that is', 'start': 4618.809, 'duration': 9.4}
+{'text': 'kind of illegal occupation we have to', 'start': 4623.829, 'duration': 7.94}
+{'text': 'otherwise see that actually just', 'start': 4628.209, 'duration': 8.551}
+{'text': 'crossing into this territory means that', 'start': 4631.769, 'duration': 9.1}
+{'text': 'we are in a heavily contested area which', 'start': 4636.76, 'duration': 7.109}
+{'text': "still shows traces of the war it's full", 'start': 4640.869, 'duration': 5.011}
+{'text': "of landmines it's full of Tanks it's", 'start': 4643.869, 'duration': 7.86}
+{'text': 'full of also monuments to Israeli', 'start': 4645.88, 'duration': 8.579}
+{'text': 'soldiers who have lost their lives there', 'start': 4651.729, 'duration': 7.71}
+{'text': "and it's kind of a part of the culture", 'start': 4654.459, 'duration': 8.1}
+{'text': 'within the IDF to visit these places and', 'start': 4659.439, 'duration': 6.111}
+{'text': 'so we we drive up the roads that is', 'start': 4662.559, 'duration': 6.48}
+{'text': "quite intense we actually because it's", 'start': 4665.55, 'duration': 6.04}
+{'text': 'not possible to step on this land one', 'start': 4669.039, 'duration': 7.62}
+{'text': 'has to use a drone and we are flying', 'start': 4671.59, 'duration': 6.569}
+{'text': 'here some drones and we actually', 'start': 4676.659, 'duration': 5.73}
+{'text': 'discover the the British customs how', 'start': 4678.159, 'duration': 7.77}
+{'text': 'something that sits in the middle of a', 'start': 4682.389, 'duration': 6.511}
+{'text': 'very beautiful but slightly eerie', 'start': 4685.929, 'duration': 5.161}
+{'text': 'landscape if we think that actually', 'start': 4688.9, 'duration': 4.07}
+{'text': 'under the screen the', 'start': 4691.09, 'duration': 5.51}
+{'text': 'some land mines hidden but we fly over', 'start': 4692.97, 'duration': 6.69}
+{'text': "this building and it's actually it shows", 'start': 4696.6, 'duration': 6.0}
+{'text': "that it it's probably not new built it", 'start': 4699.66, 'duration': 6.71}
+{'text': 'looks more like an old', 'start': 4702.6, 'duration': 6.45}
+{'text': 'caravans and real quick-like and kind of', 'start': 4706.37, 'duration': 8.83}
+{'text': 'current yeah like in medieval structure', 'start': 4709.05, 'duration': 10.59}
+{'text': 'that has actually not been changed much', 'start': 4715.2, 'duration': 8.34}
+{'text': "by let's say the British forces at the", 'start': 4719.64, 'duration': 7.77}
+{'text': "at the time it's very hard to understand", 'start': 4723.54, 'duration': 6.93}
+{'text': 'how this building works at some point I', 'start': 4727.41, 'duration': 7.41}
+{'text': 'did approach it a bit more as I saw that', 'start': 4730.47, 'duration': 6.99}
+{'text': "there were actually traces of cows I've", 'start': 4734.82, 'duration': 6.15}
+{'text': 'heard a little bit safer and discovered', 'start': 4737.46, 'duration': 4.86}
+{'text': 'that actually this whole building is', 'start': 4740.97, 'duration': 4.32}
+{'text': 'full of cows who inhabit at the moment', 'start': 4742.32, 'duration': 7.8}
+{'text': "this structure while so it's still very", 'start': 4745.29, 'duration': 6.87}
+{'text': 'hard to find out more about this', 'start': 4750.12, 'duration': 4.5}
+{'text': 'building but it relates to this building', 'start': 4752.16, 'duration': 6.06}
+{'text': 'on the top of the mountain that we have', 'start': 4754.62, 'duration': 6.42}
+{'text': 'to approach slowly and we actually as we', 'start': 4758.22, 'duration': 7.1}
+{'text': 'go there we see constantly army vehicles', 'start': 4761.04, 'duration': 8.7}
+{'text': "either driving tanks down wow it's quite", 'start': 4765.32, 'duration': 10.66}
+{'text': 'weird but this building was actually in', 'start': 4769.74, 'duration': 9.24}
+{'text': 'this state in 2015 when I saw it the', 'start': 4775.98, 'duration': 5.34}
+{'text': 'first time and when actually the owner', 'start': 4778.98, 'duration': 3.18}
+{'text': 'of this building', 'start': 4781.32, 'duration': 3.66}
+{'text': 'invited me kind of maybe hoping that', 'start': 4782.16, 'duration': 5.04}
+{'text': 'somebody from the Bauhaus in Germany', 'start': 4784.98, 'duration': 5.79}
+{'text': 'could kind of assess this building and', 'start': 4787.2, 'duration': 6.18}
+{'text': 'maybe to think about it whether it could', 'start': 4790.77, 'duration': 6.48}
+{'text': 'be about house building and I was rather', 'start': 4793.38, 'duration': 6.3}
+{'text': 'surprised and he but he insisted always', 'start': 4797.25, 'duration': 5.73}
+{'text': "no no it's from 1919 and so we have been", 'start': 4799.68, 'duration': 5.25}
+{'text': "wrong with the dates we don't know the", 'start': 4802.98, 'duration': 4.68}
+{'text': 'architect and unfortunately before we', 'start': 4804.93, 'duration': 4.77}
+{'text': 'could actually do any investigation on', 'start': 4807.66, 'duration': 5.359}
+{'text': 'this building it was already', 'start': 4809.7, 'duration': 8.359}
+{'text': 'kind of in the state of renovation so it', 'start': 4813.019, 'duration': 7.111}
+{'text': 'transformed too fast before it can', 'start': 4818.059, 'duration': 5.491}
+{'text': 'actually be investigated deeper but', 'start': 4820.13, 'duration': 5.569}
+{'text': 'there are some signs of modernism and', 'start': 4823.55, 'duration': 5.609}
+{'text': 'this I would probably more put into the', 'start': 4825.699, 'duration': 7.15}
+{'text': 'late 20s rather than the early 20s it', 'start': 4829.159, 'duration': 5.67}
+{'text': "doesn't have to be necessarily Bauhaus", 'start': 4832.849, 'duration': 4.58}
+{'text': "its kind of I think you've quite generic", 'start': 4834.829, 'duration': 6.12}
+{'text': 'modernism actually a modernism that we', 'start': 4837.429, 'duration': 8.11}
+{'text': "would find not only in its it's", 'start': 4840.949, 'duration': 7.86}
+{'text': 'something kind of more electrons across', 'start': 4845.539, 'duration': 7.441}
+{'text': 'the Levant and it speaks rather if we', 'start': 4848.809, 'duration': 6.0}
+{'text': 'are not talking about it as a French', 'start': 4852.98, 'duration': 8.82}
+{'text': "customs house it's more a kind of an a", 'start': 4854.809, 'duration': 9.631}
+{'text': 'colonial project right - I mean this', 'start': 4861.8, 'duration': 7.08}
+{'text': 'might be something a Paris centered that', 'start': 4864.44, 'duration': 7.469}
+{'text': 'has been transported here or transferred', 'start': 4868.88, 'duration': 5.069}
+{'text': 'to the Middle East', 'start': 4871.909, 'duration': 6.96}
+{'text': 'and yet this owner was very keen to', 'start': 4873.949, 'duration': 7.86}
+{'text': 'actually to have this building as part', 'start': 4878.869, 'duration': 7.71}
+{'text': 'of a hotel chain here you see it in an', 'start': 4881.809, 'duration': 8.43}
+{'text': 'advertisement related to the Bauhaus in', 'start': 4886.579, 'duration': 7.381}
+{'text': 'tel-aviv as you might know the Bauhaus', 'start': 4890.239, 'duration': 6.271}
+{'text': 'kind of modernism this white modernism', 'start': 4893.96, 'duration': 6.21}
+{'text': 'is very much in fashion and so the hope', 'start': 4896.51, 'duration': 6.229}
+{'text': 'was to create actually a boutique hotel', 'start': 4900.17, 'duration': 6.84}
+{'text': 'devoted to the powerhouse which so he', 'start': 4902.739, 'duration': 7.36}
+{'text': "kind of I thought at that stage it's a", 'start': 4907.01, 'duration': 5.939}
+{'text': 'bit exaggerated and at some point he', 'start': 4910.099, 'duration': 5.971}
+{'text': 'actually we have some conversations over', 'start': 4912.949, 'duration': 5.94}
+{'text': "over this building because he's", 'start': 4916.07, 'duration': 5.21}
+{'text': "beginning we have this what's up", 'start': 4918.889, 'duration': 4.5}
+{'text': "conversation and he's beginning to ask", 'start': 4921.28, 'duration': 6.16}
+{'text': 'me what I would think if he if he has', 'start': 4923.389, 'duration': 10.5}
+{'text': 'this logo of the Bauhaus in the Golan', 'start': 4927.44, 'duration': 7.18}
+{'text': 'Heights', 'start': 4933.889, 'duration': 3.761}
+{'text': 'and I try to actually take it a little', 'start': 4934.62, 'duration': 7.02}
+{'text': 'bit away and politely and also try to', 'start': 4937.65, 'duration': 6.36}
+{'text': 'reread that Bauhaus history not as', 'start': 4941.64, 'duration': 4.26}
+{'text': 'something that relates to Lima as a', 'start': 4944.01, 'duration': 4.47}
+{'text': 'powerhouse but to think of that border', 'start': 4945.9, 'duration': 4.62}
+{'text': 'that sykes-picot border is an also', 'start': 4948.48, 'duration': 4.17}
+{'text': 'artificial border and something that', 'start': 4950.52, 'duration': 5.73}
+{'text': 'should allow us actually to to to cross', 'start': 4952.65, 'duration': 7.59}
+{'text': 'our own kind of imagination of where the', 'start': 4956.25, 'duration': 6.54}
+{'text': "Bauhaus should be right it's a kind of a", 'start': 4960.24, 'duration': 5.73}
+{'text': 'European project but actually if we look', 'start': 4962.79, 'duration': 9.33}
+{'text': 'at the use of modernism as a as a to', 'start': 4965.97, 'duration': 7.62}
+{'text': "start with let's say it's a colonial", 'start': 4972.12, 'duration': 4.59}
+{'text': "project it's we need to follow much more", 'start': 4973.59, 'duration': 6.93}
+{'text': 'interesting and much more wider open', 'start': 4976.71, 'duration': 11.07}
+{'text': 'bordered investigations so the in 2000', 'start': 4980.52, 'duration': 11.13}
+{'text': 'this year in September we flew another', 'start': 4987.78, 'duration': 6.54}
+{'text': "drone it's now in created perfect state", 'start': 4991.65, 'duration': 6.75}
+{'text': "probably in his terms it's white it had", 'start': 4994.32, 'duration': 8.27}
+{'text': 'a yellowish color in the middle but it', 'start': 4998.4, 'duration': 9.69}
+{'text': 'achieved indeed the Bauhaus sign that', 'start': 5002.59, 'duration': 7.66}
+{'text': "was put up there and it's quite an", 'start': 5008.09, 'duration': 4.44}
+{'text': "awkward experience I haven't seen it yet", 'start': 5010.25, 'duration': 6.3}
+{'text': 'but I can imagine on that kind of corner', 'start': 5012.53, 'duration': 7.38}
+{'text': 'passing by seeing a powerhouse building', 'start': 5016.55, 'duration': 6.63}
+{'text': 'on top of a mountain on top of an', 'start': 5019.91, 'duration': 6.6}
+{'text': "occupied territory it's kind of a very", 'start': 5023.18, 'duration': 8.45}
+{'text': 'strange appearance and I actually got', 'start': 5026.51, 'duration': 10.77}
+{'text': 'other few images he sent me about a kind', 'start': 5031.63, 'duration': 9.19}
+{'text': 'of a meeting he had already a day after', 'start': 5037.28, 'duration': 8.39}
+{'text': 'the opening where he brings the military', 'start': 5040.82, 'duration': 8.57}
+{'text': 'to invite actually to this Bauhaus', 'start': 5045.67, 'duration': 8.61}
+{'text': "building so there's a kind of an quite", 'start': 5049.39, 'duration': 7.66}
+{'text': 'yeah an institution being built here', 'start': 5054.28, 'duration': 5.739}
+{'text': 'that uses the Bauhaus as a massive', 'start': 5057.05, 'duration': 7.29}
+{'text': 'strange cover story that yeah gets', 'start': 5060.019, 'duration': 11.37}
+{'text': 'somehow critical dimension so I kind of', 'start': 5064.34, 'duration': 9.299}
+{'text': 'for years I have followed this building', 'start': 5071.389, 'duration': 3.9}
+{'text': 'how it was transforming I was kind of', 'start': 5073.639, 'duration': 5.4}
+{'text': 'interviewing and yeah looking at the way', 'start': 5075.289, 'duration': 6.721}
+{'text': 'this the owner is arguing this case and', 'start': 5079.039, 'duration': 6.71}
+{'text': 'I think I I will continue to do that if', 'start': 5082.01, 'duration': 8.689}
+{'text': 'I manage to to get there maybe lastly a', 'start': 5085.749, 'duration': 8.801}
+{'text': "story that's also in the book is about", 'start': 5090.699, 'duration': 7.931}
+{'text': 'exactly that kind of powerhouse', 'start': 5094.55, 'duration': 6.629}
+{'text': "modernism here in Tel Aviv it's actually", 'start': 5098.63, 'duration': 6.179}
+{'text': 'by a building right in the center of tel', 'start': 5101.179, 'duration': 6.57}
+{'text': 'aviv built by an architect called', 'start': 5104.809, 'duration': 8.671}
+{'text': 'tough commie who designed it in 1936 he', 'start': 5107.749, 'duration': 7.04}
+{'text': 'was not a mouse', 'start': 5113.48, 'duration': 7.17}
+{'text': 'student he studied in Ghent at the', 'start': 5114.789, 'duration': 7.66}
+{'text': 'architecture school there and actually', 'start': 5120.65, 'duration': 5.13}
+{'text': 'what I was trying to figure out with our', 'start': 5122.449, 'duration': 5.431}
+{'text': 'research team was whether there could be', 'start': 5125.78, 'duration': 5.279}
+{'text': 'any traces to fund Henry Fonda Felder', 'start': 5127.88, 'duration': 5.4}
+{'text': 'who also taught in Ghent at the time', 'start': 5131.059, 'duration': 4.861}
+{'text': 'when he studied there whether there', 'start': 5133.28, 'duration': 4.85}
+{'text': 'could be any influence in terms of', 'start': 5135.92, 'duration': 6.079}
+{'text': 'funding eldest teaching two in this', 'start': 5138.13, 'duration': 9.75}
+{'text': 'building so the the building has been', 'start': 5141.999, 'duration': 10.39}
+{'text': 'recently converted to become rather than', 'start': 5147.88, 'duration': 7.029}
+{'text': 'an apartment house a house that would', 'start': 5152.389, 'duration': 5.821}
+{'text': 'present the city of Tel Aviv and its', 'start': 5154.909, 'duration': 6.531}
+{'text': 'project for the White City preservation', 'start': 5158.21, 'duration': 7.8}
+{'text': 'so as you know Tel Aviv got the UNESCO', 'start': 5161.44, 'duration': 9.369}
+{'text': 'World Heritage status in 2003 and it', 'start': 5166.01, 'duration': 7.319}
+{'text': "didn't have an institution in which it", 'start': 5170.809, 'duration': 4.921}
+{'text': 'could present that work and now this', 'start': 5173.329, 'duration': 6.201}
+{'text': 'building is being transformed to become', 'start': 5175.73, 'duration': 9.47}
+{'text': "like in exchange it's a center for yeah", 'start': 5179.53, 'duration': 8.52}
+{'text': 'kind of a museum and it had been funded', 'start': 5185.2, 'duration': 7.25}
+{'text': 'also by Germany as a form of cultural', 'start': 5188.05, 'duration': 7.91}
+{'text': "collaboration that's why I probably also", 'start': 5192.45, 'duration': 6.94}
+{'text': 'became part of this story but also', 'start': 5195.96, 'duration': 5.41}
+{'text': 'because I found it interesting when the', 'start': 5199.39, 'duration': 6.47}
+{'text': 'first hand to to look we had actually in', 'start': 5201.37, 'duration': 8.0}
+{'text': '2015 an exhibition in the building and', 'start': 5205.86, 'duration': 6.46}
+{'text': 'to follow actually as we were already', 'start': 5209.37, 'duration': 6.16}
+{'text': 'there we and knowing that this house', 'start': 5212.32, 'duration': 6.12}
+{'text': 'will be come converted into into a', 'start': 5215.53, 'duration': 5.61}
+{'text': 'museum to follow its transformation so', 'start': 5218.44, 'duration': 4.32}
+{'text': 'actually the same thing we did on the', 'start': 5221.14, 'duration': 6.17}
+{'text': 'mountain to do it here but here to use', 'start': 5222.76, 'duration': 7.56}
+{'text': 'or to ask more questions or to have', 'start': 5227.31, 'duration': 6.13}
+{'text': 'actually chance to to go be behind the', 'start': 5230.32, 'duration': 6.12}
+{'text': 'patina of this building so we invited', 'start': 5233.44, 'duration': 6.57}
+{'text': 'together when with the creators of the', 'start': 5236.44, 'duration': 8.46}
+{'text': 'house in Tel Aviv preservation is who', 'start': 5240.01, 'duration': 7.77}
+{'text': 'actually both gave an expertise on what', 'start': 5244.9, 'duration': 5.31}
+{'text': 'they could find whatever kind of on the', 'start': 5247.78, 'duration': 6.0}
+{'text': 'colors the histories of the colors and', 'start': 5250.21, 'duration': 6.81}
+{'text': 'would maybe lead to the stories of the', 'start': 5253.78, 'duration': 5.67}
+{'text': 'inhabitants or the story of the use of', 'start': 5257.02, 'duration': 5.13}
+{'text': 'the building but also on gave', 'start': 5259.45, 'duration': 4.83}
+{'text': 'recommendations on how to renovate this', 'start': 5262.15, 'duration': 6.12}
+{'text': 'place so we were documenting this kind', 'start': 5264.28, 'duration': 5.79}
+{'text': 'of most of the conversations of which we', 'start': 5268.27, 'duration': 4.62}
+{'text': 'collected so many that later we needed', 'start': 5270.07, 'duration': 5.13}
+{'text': 'again a kind of audiences what we', 'start': 5272.89, 'duration': 5.28}
+{'text': 'constructed actually digital platform in', 'start': 5275.2, 'duration': 6.78}
+{'text': 'which we kind of try to find rather than', 'start': 5278.17, 'duration': 5.73}
+{'text': 'having a whole series of interviews but', 'start': 5281.98, 'duration': 5.64}
+{'text': 'to kind of to inter connect them and to', 'start': 5283.9, 'duration': 9.24}
+{'text': 'basically also put them into one kind of', 'start': 5287.62, 'duration': 8.03}
+{'text': 'research questions because usually', 'start': 5293.14, 'duration': 4.83}
+{'text': 'conservationists tell each one a', 'start': 5295.65, 'duration': 4.99}
+{'text': 'different story and you never get one', 'start': 5297.97, 'duration': 5.39}
+{'text': 'single narrative so it was more about', 'start': 5300.64, 'duration': 5.49}
+{'text': 'collecting them and to learn from', 'start': 5303.36, 'duration': 7.69}
+{'text': 'of them so we were actually taking this', 'start': 5306.13, 'duration': 8.549}
+{'text': "building really Ford's as a document of", 'start': 5311.05, 'duration': 7.35}
+{'text': 'its own time both of the yeah of the', 'start': 5314.679, 'duration': 10.171}
+{'text': 'story of that city that was may be built', 'start': 5318.4, 'duration': 8.94}
+{'text': 'on I mean it was obviously with the idea', 'start': 5324.85, 'duration': 5.52}
+{'text': 'of modernism but had relatively little', 'start': 5327.34, 'duration': 5.31}
+{'text': 'to do with the Bauhaus so this kind of', 'start': 5330.37, 'duration': 5.01}
+{'text': 'whole Bauhaus narrative this was for us', 'start': 5332.65, 'duration': 5.61}
+{'text': 'quite questionable but also not that', 'start': 5335.38, 'duration': 5.93}
+{'text': 'interesting it gets interesting when', 'start': 5338.26, 'duration': 5.459}
+{'text': 'decisions are being made to actually', 'start': 5341.31, 'duration': 6.13}
+{'text': 'make a decision on the color of the', 'start': 5343.719, 'duration': 5.911}
+{'text': 'paint of the building and so the more we', 'start': 5347.44, 'duration': 4.259}
+{'text': 'actually investigated the pains and the', 'start': 5349.63, 'duration': 3.93}
+{'text': 'kind of the various structures of the', 'start': 5351.699, 'duration': 4.29}
+{'text': 'paint we discovered that the original', 'start': 5353.56, 'duration': 6.389}
+{'text': 'colors were were not all white', 'start': 5355.989, 'duration': 5.851}
+{'text': 'they were always more in the kind of an', 'start': 5359.949, 'duration': 6.121}
+{'text': 'orangey occur yellowish tone something', 'start': 5361.84, 'duration': 5.97}
+{'text': 'which we kind of we have a with the same', 'start': 5366.07, 'duration': 4.2}
+{'text': "effect I showed with the director's", 'start': 5367.81, 'duration': 4.23}
+{'text': 'office where the yellow is too strong', 'start': 5370.27, 'duration': 4.56}
+{'text': 'right in a photograph and so we actually', 'start': 5372.04, 'duration': 5.3}
+{'text': 'translated that into carpets that was', 'start': 5374.83, 'duration': 6.69}
+{'text': 'one work to do as part of an exhibition', 'start': 5377.34, 'duration': 6.49}
+{'text': 'but also to to think about color', 'start': 5381.52, 'duration': 4.469}
+{'text': 'conservation but also the kind of the', 'start': 5383.83, 'duration': 7.34}
+{'text': 'whole idea of yeah transferring color', 'start': 5385.989, 'duration': 8.841}
+{'text': 'documentation into another medium', 'start': 5391.17, 'duration': 7.18}
+{'text': "everything we've done so far on that has", 'start': 5394.83, 'duration': 6.79}
+{'text': 'been digitized or is being made', 'start': 5398.35, 'duration': 7.86}
+{'text': 'accessible through our platform and here', 'start': 5401.62, 'duration': 6.539}
+{'text': "I'm just moving slowly into the", 'start': 5406.21, 'duration': 4.92}
+{'text': 'exhibition we have done recently and of', 'start': 5408.159, 'duration': 6.361}
+{'text': 'which some of it is still on view in Tel', 'start': 5411.13, 'duration': 6.33}
+{'text': 'Aviv together with it was also an', 'start': 5414.52, 'duration': 6.05}
+{'text': 'installation or kind of an video screen', 'start': 5417.46, 'duration': 6.05}
+{'text': 'of eight screens that actually', 'start': 5420.57, 'duration': 5.53}
+{'text': 'eventually devoted to the AIDS', 'start': 5423.51, 'duration': 5.11}
+{'text': 'architects who have come from the', 'start': 5426.1, 'duration': 6.65}
+{'text': 'powerhouse and to actually dip design in', 'start': 5428.62, 'duration': 8.27}
+{'text': "Palestine and later Israel and so it's", 'start': 5432.75, 'duration': 7.5}
+{'text': 'quite a large presentation in by MIDI', 'start': 5436.89, 'duration': 5.37}
+{'text': "it's a little smaller in Tel Aviv for", 'start': 5440.25, 'duration': 4.74}
+{'text': 'environment we kind of we took it we', 'start': 5442.26, 'duration': 10.08}
+{'text': 'really enjoyed the comfort of space feed', 'start': 5444.99, 'duration': 10.2}
+{'text': 'we had there with the model that', 'start': 5452.34, 'duration': 5.94}
+{'text': 'presents actually this house to mark', 'start': 5455.19, 'duration': 6.45}
+{'text': 'sleeping house as the key or the medium', 'start': 5458.28, 'duration': 6.75}
+{'text': 'through which we can read the or the', 'start': 5461.64, 'duration': 5.37}
+{'text': 'other or like research we had done on', 'start': 5465.03, 'duration': 4.56}
+{'text': 'the city of Tel Aviv but also cities in', 'start': 5467.01, 'duration': 4.59}
+{'text': 'or kind of buildings internationally', 'start': 5469.59, 'duration': 5.19}
+{'text': 'which we had actually analyzed as kind', 'start': 5471.6, 'duration': 6.51}
+{'text': "of an architectural biographies so it's", 'start': 5474.78, 'duration': 7.55}
+{'text': "kind of an like the research we're doing", 'start': 5478.11, 'duration': 9.65}
+{'text': 'relates opposed to to make that publicly', 'start': 5482.33, 'duration': 8.86}
+{'text': 'accessible but also to interconnect them', 'start': 5487.76, 'duration': 6.43}
+{'text': 'with stories so here is some like blue', 'start': 5491.19, 'duration': 4.89}
+{'text': "dots that's actually relates us to", 'start': 5494.19, 'duration': 5.31}
+{'text': 'another story of research we have have', 'start': 5496.08, 'duration': 9.39}
+{'text': 'done so this is just some views what', 'start': 5499.5, 'duration': 8.52}
+{'text': 'became fascinating in this in this', 'start': 5505.47, 'duration': 5.73}
+{'text': 'project was the more we studied this', 'start': 5508.02, 'duration': 6.69}
+{'text': 'building we actually learned that this', 'start': 5511.2, 'duration': 6.39}
+{'text': 'building had to been equipped with', 'start': 5514.71, 'duration': 7.23}
+{'text': 'products that were clearly could be', 'start': 5517.59, 'duration': 7.95}
+{'text': 'clearly traced to German companies which', 'start': 5521.94, 'duration': 5.16}
+{'text': 'was very strange because the building', 'start': 5525.54, 'duration': 5.7}
+{'text': 'was built in 1936 and so you wonder why', 'start': 5527.1, 'duration': 8.27}
+{'text': 'there would be so many German products', 'start': 5531.24, 'duration': 7.71}
+{'text': 'could be found in in this building and', 'start': 5535.37, 'duration': 5.65}
+{'text': 'later I mean this was also in', 'start': 5538.95, 'duration': 4.08}
+{'text': 'collaboration with the sleeping house', 'start': 5541.02, 'duration': 5.85}
+{'text': 'and decorators there this fascinating', 'start': 5543.03, 'duration': 6.06}
+{'text': 'story appeared that actually something', 'start': 5546.87, 'duration': 5.01}
+{'text': "which is known - let's say historians", 'start': 5549.09, 'duration': 3.51}
+{'text': 'and', 'start': 5551.88, 'duration': 7.2}
+{'text': 'yeah political histories was that there', 'start': 5552.6, 'duration': 8.19}
+{'text': 'was a trade agreement the so called', 'start': 5559.08, 'duration': 4.8}
+{'text': 'hahaha agreement that was between the', 'start': 5560.79, 'duration': 7.29}
+{'text': 'German Ministry of Economy and the', 'start': 5563.88, 'duration': 6.72}
+{'text': 'Jewish Agency and Palestine which', 'start': 5568.08, 'duration': 6.48}
+{'text': "allowed actually it's kind of a trust", 'start': 5570.6, 'duration': 6.3}
+{'text': 'agreement also there were two banks', 'start': 5574.56, 'duration': 5.42}
+{'text': 'involved in that of a sermon and Wambach', 'start': 5576.9, 'duration': 7.68}
+{'text': 'who were actually allowing that Jewish', 'start': 5579.98, 'duration': 7.75}
+{'text': 'funds could leave the country to allow', 'start': 5584.58, 'duration': 7.94}
+{'text': 'both to travel to to leave at all and to', 'start': 5587.73, 'duration': 7.95}
+{'text': 'tow her to prove or to actually to', 'start': 5592.52, 'duration': 6.13}
+{'text': 'receive the permissions for visas which', 'start': 5595.68, 'duration': 6.27}
+{'text': 'the British asked to when they were kind', 'start': 5598.65, 'duration': 8.07}
+{'text': 'of giving visas away but at the same and', 'start': 5601.95, 'duration': 8.19}
+{'text': 'also it allowed to have funds when they', 'start': 5606.72, 'duration': 6.78}
+{'text': 'had arrived in Palestine and that fund', 'start': 5610.14, 'duration': 7.83}
+{'text': 'actually that actually it was an', 'start': 5613.5, 'duration': 6.42}
+{'text': 'agreement between that was in work', 'start': 5617.97, 'duration': 4.92}
+{'text': 'between 1933 until the beginning of the', 'start': 5619.92, 'duration': 7.68}
+{'text': 'war in 1939 that fund allowed like it', 'start': 5622.89, 'duration': 7.83}
+{'text': 'was actually made possible through the', 'start': 5627.6, 'duration': 6.84}
+{'text': 'transfer of German building products so', 'start': 5630.72, 'duration': 6.39}
+{'text': 'we have all sorts of things we have like', 'start': 5634.44, 'duration': 5.94}
+{'text': 'tiles kind of here we see tiles with', 'start': 5637.11, 'duration': 7.08}
+{'text': 'soap dish we have door handles that in', 'start': 5640.38, 'duration': 6.81}
+{'text': 'this building clearly showed a German', 'start': 5644.19, 'duration': 6.24}
+{'text': 'company we had also something like kind', 'start': 5647.19, 'duration': 8.61}
+{'text': 'of a plastering net and yeah kind of', 'start': 5650.43, 'duration': 9.54}
+{'text': 'objects that really now when we see', 'start': 5655.8, 'duration': 8.84}
+{'text': 'these images of goods that are being', 'start': 5659.97, 'duration': 7.64}
+{'text': 'transported through the city of Tel Aviv', 'start': 5664.64, 'duration': 5.2}
+{'text': 'we are kind of revisiting these', 'start': 5667.61, 'duration': 4.09}
+{'text': 'photographs and try to see actually if', 'start': 5669.84, 'duration': 3.01}
+{'text': 'we see any', 'start': 5671.7, 'duration': 4.75}
+{'text': "German labeling of these objects so it's", 'start': 5672.85, 'duration': 8.43}
+{'text': 'quite a controversial history also', 'start': 5676.45, 'duration': 8.42}
+{'text': "because it it's obviously as you know", 'start': 5681.28, 'duration': 10.77}
+{'text': 'German products were boycotted since the', 'start': 5684.87, 'duration': 9.48}
+{'text': 'with the arrival of the Hitler regime', 'start': 5692.05, 'duration': 4.98}
+{'text': 'internationally and the one country that', 'start': 5694.35, 'duration': 5.13}
+{'text': 'takes them is actually British Mandate', 'start': 5697.03, 'duration': 5.46}
+{'text': "Palestine so it's actually something", 'start': 5699.48, 'duration': 4.78}
+{'text': 'that we need to understand now in this', 'start': 5702.49, 'duration': 4.34}
+{'text': 'triangle between Germany Britain and', 'start': 5704.26, 'duration': 7.13}
+{'text': "Palestine and on the other hand it's", 'start': 5706.83, 'duration': 7.48}
+{'text': 'yeah it shows the collaboration of sorts', 'start': 5711.39, 'duration': 10.84}
+{'text': 'between the Jewish Agency and Nazi', 'start': 5714.31, 'duration': 11.22}
+{'text': 'Germany in order to get people out which', 'start': 5722.23, 'duration': 8.69}
+{'text': 'is probably the best reason and totally', 'start': 5725.53, 'duration': 8.37}
+{'text': 'understandable and important so what we', 'start': 5730.92, 'duration': 4.78}
+{'text': 'are trying to do now is on the one hand', 'start': 5733.9, 'duration': 6.65}
+{'text': 'to be very suspect of building materials', 'start': 5735.7, 'duration': 7.98}
+{'text': 'but also to go into to kind of to trace', 'start': 5740.55, 'duration': 5.62}
+{'text': "something that's kind of also bit", 'start': 5743.68, 'duration': 4.8}
+{'text': "outside of let's say the architectural", 'start': 5746.17, 'duration': 6.78}
+{'text': 'historians space to look actually at the', 'start': 5748.48, 'duration': 8.82}
+{'text': 'bank accounts of the two banks and to', 'start': 5752.95, 'duration': 6.48}
+{'text': 'kind of to try to to bring them together', 'start': 5757.3, 'duration': 7.11}
+{'text': 'this Bank at the receipts we find in', 'start': 5759.43, 'duration': 8.67}
+{'text': 'archives both and the Bank Archives but', 'start': 5764.41, 'duration': 8.4}
+{'text': "also in archives of companies which it's", 'start': 5768.1, 'duration': 7.17}
+{'text': 'always a very strange start to call a', 'start': 5772.81, 'duration': 5.52}
+{'text': "company let's say a big cement German", 'start': 5775.27, 'duration': 5.49}
+{'text': 'cement from a company to ask whether in', 'start': 5778.33, 'duration': 5.09}
+{'text': 'their archives they have any such', 'start': 5780.76, 'duration': 5.19}
+{'text': "documents but so it's very difficult on", 'start': 5783.42, 'duration': 5.89}
+{'text': "on that site and on the other hand it's", 'start': 5785.95, 'duration': 8.22}
+{'text': 'kind of we have revisiting of building', 'start': 5789.31, 'duration': 7.8}
+{'text': 'materials that we take into laboratories', 'start': 5794.17, 'duration': 6.15}
+{'text': 'something like the terrazzo floor for', 'start': 5797.11, 'duration': 5.42}
+{'text': 'example became for us like in', 'start': 5800.32, 'duration': 5.449}
+{'text': 'an example in which we could try to', 'start': 5802.53, 'duration': 7.79}
+{'text': 'figure out and almost on a nano scale', 'start': 5805.769, 'duration': 8.191}
+{'text': 'the kind of the components out of which', 'start': 5810.32, 'duration': 6.669}
+{'text': 'this terrazzo floor was made and it took', 'start': 5813.96, 'duration': 6.659}
+{'text': 'us all the way to actually to this this', 'start': 5816.989, 'duration': 7.021}
+{'text': 'microscopic state to to see or to prove', 'start': 5820.619, 'duration': 5.52}
+{'text': 'that there was white cement and white', 'start': 5824.01, 'duration': 3.87}
+{'text': 'cement is something that can be really', 'start': 5826.139, 'duration': 6.511}
+{'text': 'framed in the time between 1933 and 36', 'start': 5827.88, 'duration': 7.29}
+{'text': "so it's very very close that it really", 'start': 5832.65, 'duration': 4.469}
+{'text': 'came it was developed in Germany only', 'start': 5835.17, 'duration': 7.429}
+{'text': 'and as only then so it was actually very', 'start': 5837.119, 'duration': 8.31}
+{'text': 'likely that this material was', 'start': 5842.599, 'duration': 5.35}
+{'text': 'transported to into this house and', 'start': 5845.429, 'duration': 4.23}
+{'text': 'obviously the mock sleeping house is', 'start': 5847.949, 'duration': 3.811}
+{'text': "then only one of other houses I've been", 'start': 5849.659, 'duration': 4.741}
+{'text': 'in some other houses and obviously now I', 'start': 5851.76, 'duration': 7.08}
+{'text': 'keep turning around the tiles and we did', 'start': 5854.4, 'duration': 10.549}
+{'text': 'find other available talents for example', 'start': 5858.84, 'duration': 9.48}
+{'text': "yeah my voice is leaving and I think I'm", 'start': 5864.949, 'duration': 7.42}
+{'text': 'I will close here at the end we kind of', 'start': 5868.32, 'duration': 7.199}
+{'text': 'we found actually a similarity between', 'start': 5872.369, 'duration': 5.491}
+{'text': 'the kind of the idea of researching the', 'start': 5875.519, 'duration': 5.131}
+{'text': 'transport of materials with the kind of', 'start': 5877.86, 'duration': 5.969}
+{'text': 'the customs houses on in the Golan', 'start': 5880.65, 'duration': 5.489}
+{'text': 'Heights that are exactly trying to', 'start': 5883.829, 'duration': 4.591}
+{'text': 'border or - we have to create a border', 'start': 5886.139, 'duration': 5.19}
+{'text': 'between these kind of lines and', 'start': 5888.42, 'duration': 5.759}
+{'text': 'trajectories and so we have actually', 'start': 5891.329, 'duration': 5.281}
+{'text': 'presented that in an exhibition in', 'start': 5894.179, 'duration': 6.031}
+{'text': 'Weimar which was called the matter of', 'start': 5896.61, 'duration': 7.139}
+{'text': 'data and it also had the book as part of', 'start': 5900.21, 'duration': 7.199}
+{'text': 'it because somehow book and the story of', 'start': 5903.749, 'duration': 5.58}
+{'text': 'this exhibition and the research we have', 'start': 5907.409, 'duration': 4.92}
+{'text': 'done as a group went hand in hand and', 'start': 5909.329, 'duration': 5.25}
+{'text': "yeah so I'm just letting this fade out", 'start': 5912.329, 'duration': 5.66}
+{'text': 'thank you very much', 'start': 5914.579, 'duration': 3.41}
+{'text': '[Applause]', 'start': 5918.69, 'duration': 7.33}
+{'text': 'I think a great collection of objects', 'start': 5927.76, 'duration': 6.04}
+{'text': 'histories and contributors to this', 'start': 5931.16, 'duration': 5.1}
+{'text': "incredible project that's I think", 'start': 5933.8, 'duration': 4.26}
+{'text': 'started as a conference and then you', 'start': 5936.26, 'duration': 3.06}
+{'text': "know you've turned it into this book and", 'start': 5938.06, 'duration': 3.72}
+{'text': "exhibition I'm sure everyone in the", 'start': 5939.32, 'duration': 3.72}
+{'text': 'audience is probably anxious to have a', 'start': 5941.78, 'duration': 3.33}
+{'text': 'closer look at this book but I wanted to', 'start': 5943.04, 'duration': 4.62}
+{'text': 'see if anyone had kind of Hansel', 'start': 5945.11, 'duration': 7.25}
+{'text': 'questions before we closed', 'start': 5947.66, 'duration': 4.7}
+{'text': 'thank you he knows fern engrossing like', 'start': 5957.1, 'duration': 5.49}
+{'text': 'shown congratulations on the book I', 'start': 5959.45, 'duration': 5.34}
+{'text': 'guess I was first introduced to your', 'start': 5962.59, 'duration': 5.17}
+{'text': 'world your office in 1996 by Garrett', 'start': 5964.79, 'duration': 4.71}
+{'text': "Zimmerman taking us to the director's", 'start': 5967.76, 'duration': 5.34}
+{'text': 'office car yarmulke leading some kind of', 'start': 5969.5, 'duration': 6.12}
+{'text': 'colloquium but remembering back to that', 'start': 5973.1, 'duration': 5.7}
+{'text': 'already in the discussion was because I', 'start': 5975.62, 'duration': 5.85}
+{'text': 'was an American what trails of dusts', 'start': 5978.8, 'duration': 4.68}
+{'text': 'connect the project to things like the', 'start': 5981.47, 'duration': 4.92}
+{'text': 'new Bauhaus in Chicago or the Black', 'start': 5983.48, 'duration': 5.19}
+{'text': 'Mountain College where the Albers', 'start': 5986.39, 'duration': 4.05}
+{'text': 'eventually found a sanctuary are there', 'start': 5988.67, 'duration': 4.14}
+{'text': 'places in the book where the American', 'start': 5990.44, 'duration': 6.27}
+{'text': 'traces of the dust eventually settle yes', 'start': 5992.81, 'duration': 7.02}
+{'text': 'I mean this was maybe more with Josef', 'start': 5996.71, 'duration': 4.92}
+{'text': 'Albers and Amy Albers right they take', 'start': 5999.83, 'duration': 4.13}
+{'text': 'the directly to Black Mountain College', 'start': 6001.63, 'duration': 6.72}
+{'text': "so yeah and then there's also Anna who's", 'start': 6003.96, 'duration': 11.31}
+{'text': 'you might know she looks at rock use in', 'start': 6008.35, 'duration': 11.82}
+{'text': 'kind of together with Wagner to design', 'start': 6015.27, 'duration': 9.07}
+{'text': "actually social housing and doesn't", 'start': 6020.17, 'duration': 6.27}
+{'text': "quite succeed so it's actually something", 'start': 6024.34, 'duration': 4.64}
+{'text': 'that predates a bit the TAC', 'start': 6026.44, 'duration': 7.86}
+{'text': 'collaboration of Gropius and so that', 'start': 6028.98, 'duration': 6.97}
+{'text': 'does I find interesting that actually', 'start': 6034.3, 'duration': 5.34}
+{'text': 'there something that happened in Berlin', 'start': 6035.95, 'duration': 6.57}
+{'text': 'could not happen in this day so that', 'start': 6039.64, 'duration': 5.34}
+{'text': 'kind of this new environment this was', 'start': 6042.52, 'duration': 4.98}
+{'text': 'maybe the first lesson also for for', 'start': 6044.98, 'duration': 4.5}
+{'text': 'Gropius at the time and then we have', 'start': 6047.5, 'duration': 6.75}
+{'text': "Michael raucous in back there so it's", 'start': 6049.48, 'duration': 6.45}
+{'text': "maybe it's not quite what you meant but", 'start': 6054.25, 'duration': 3.9}
+{'text': 'at least a kind of state american', 'start': 6055.93, 'duration': 5.22}
+{'text': 'scholar stream yeah and in terms of the', 'start': 6058.15, 'duration': 5.01}
+{'text': 'london connection the house the famous', 'start': 6061.15, 'duration': 4.32}
+{'text': "modernist the Cohen house and Levi's", 'start': 6063.16, 'duration': 4.53}
+{'text': 'house next to each other on is it', 'start': 6065.47, 'duration': 5.01}
+{'text': 'Chelsea Church Street is that connected', 'start': 6067.69, 'duration': 4.5}
+{'text': 'in some way to this triangle you talk', 'start': 6070.48, 'duration': 4.11}
+{'text': 'about in terms of Bauhaus this is', 'start': 6072.19, 'duration': 5.73}
+{'text': "interesting but I don't know I think it", 'start': 6074.59, 'duration': 6.33}
+{'text': 'would be too early to say that but I do', 'start': 6077.92, 'duration': 7.62}
+{'text': 'find it interesting to to see them', 'start': 6080.92, 'duration': 9.93}
+{'text': 'together especially because actually the', 'start': 6085.54, 'duration': 7.62}
+{'text': 'the latest book of Allen powers now', 'start': 6090.85, 'duration': 5.34}
+{'text': 'where he really he tries to really show', 'start': 6093.16, 'duration': 5.31}
+{'text': 'that there was a modernist movement here', 'start': 6096.19, 'duration': 4.29}
+{'text': 'right so just a counter narrative to', 'start': 6098.47, 'duration': 5.3}
+{'text': 'what we always thought of like we cannot', 'start': 6100.48, 'duration': 5.61}
+{'text': "that actually the Bauhaus didn't succeed", 'start': 6103.77, 'duration': 5.59}
+{'text': 'here no actually there were moments in', 'start': 6106.09, 'duration': 6.54}
+{'text': 'the early 30s that it was interesting', 'start': 6109.36, 'duration': 6.9}
+{'text': 'and so I when one needs to also see it', 'start': 6112.63, 'duration': 5.94}
+{'text': 'at the same time like how British', 'start': 6116.26, 'duration': 4.29}
+{'text': 'modernism was exported to places like', 'start': 6118.57, 'duration': 4.68}
+{'text': "Palestine and it's also it's a material", 'start': 6120.55, 'duration': 4.14}
+{'text': "research right it's about the", 'start': 6123.25, 'duration': 4.95}
+{'text': 'development of cement and new building', 'start': 6124.69, 'duration': 5.52}
+{'text': "materials so that's kind of it's a", 'start': 6128.2, 'duration': 3.81}
+{'text': 'competition now on a different level', 'start': 6130.21, 'duration': 3.99}
+{'text': "which should be that's why I think I", 'start': 6132.01, 'duration': 4.88}
+{'text': "shouldn't get announced that or kind of", 'start': 6134.2, 'duration': 7.49}
+{'text': 'thing most of you about ISM thank you', 'start': 6136.89, 'duration': 4.8}
+{'text': 'maybe everyone wants to ask you', 'start': 6144.55, 'duration': 3.31}
+{'text': 'questions over drinks', 'start': 6146.51, 'duration': 3.99}
+{'text': 'but there are drinks in the next room', 'start': 6147.86, 'duration': 4.319}
+{'text': 'and also you should all check out the', 'start': 6150.5, 'duration': 3.96}
+{'text': 'book thank you so much and as this is a', 'start': 6152.179, 'duration': 3.42}
+{'text': 'really terrific talk', 'start': 6154.46, 'duration': 3.41}
+{'text': 'thank you very happy thank you', 'start': 6155.599, 'duration': 8.32}
+{'text': '[Applause]', 'start': 6157.87, 'duration': 6.049}

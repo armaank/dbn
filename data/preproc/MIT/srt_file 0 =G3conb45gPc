@@ -1,0 +1,1509 @@
+Hi, everyone.
+My name is Nicholas de Monchaux.
+I have been an MIT faculty\nmember for all of eight weeks.
+I'm taking over as head of\nthe architecture department
+here a little over\ntwo months from now.
+This moment gives\nme an opportunity
+to introduce myself\nto you, but also
+to credit everyone who has\nworked so hard on this,
+our first virtual lecture\nof the spring 2020 semester,
+and one more small piece\nof the Herculean effort
+that's taken our students,\nour staff, and our faculty
+to rapidly and\nunexpectedly change
+everything about what we do in\norder to keep doing what we do.
+Even though we all might\nbe in our homes, none of us
+are in our usual space.
+Current students are\nstruggling with moving
+their massive\ncommitments online into
+claustrophobic bedrooms and\nclaustrophobic virtual rooms.
+Our faculty and\nstaff is struggling
+to keep MIT's vast virtual\narchitecture afloat,
+while our studios lie empty,\nour gyms and shared spaces,
+like the ice rink, are\nconverted into medical wards,
+and our shops and production\nfacilities in architecture,
+as well as all\nover the institute,
+are converted to support\nBoston area hospitals by making
+PPE and other clinical tools.
+Earlier today I\ngave a presentation
+to MIT's leadership\nand heads of department
+about how our studio teaching is\nadapting to the current crisis.
+Students and faculty are\nmaking amazing efforts,
+but some of the most\nessential ingenuity,
+like our new architecture\nstudent-run radio station,
+WAWD, is a response to the\nbiggest loss we have right now,
+and one that is essential\nto the culture of studios,
+and to the culture of\nour cities as well.
+This is not just doing\nwhat we need to do,
+but the part of\nstudios and cities
+which involves doing what we\ndidn't think we need to do,
+but that turns out\nto be essential.
+It's this part of student\nlife, the serendipitous,
+the unexpected,\nthe seemingly fri--
+excuse me-- frivolous\nthing that turns out
+to be both marvelous\nand essential
+that the current moment has\nwith so many other things
+taken away from us.
+This is why along with\nthanking those contributing
+to the logistics of this\nevent, Amanda Moore, Kevin
+Tierney, our current\nhead, Andrew Scott,
+and of course, our\nspeakers, I would like
+to thank most of all of you.
+Precisely because you\ndon't have to be here,
+but you're here anyway.
+You are claiming for all of us\nthe necessity of the unexpected
+and the unnecessary in education\nand everyday life both.
+To our alumni here tonight\nand to our visitors
+from other schools\nand institutions,
+I'd like particularly\nto welcome you,
+to thank you for\nhelping us widen
+the circle of serendipity, and\nto use it to bring you either
+back to MIT, or to visit\nMIT for the first time.
+The unexpected\nand intense nature
+of my first two months at\nMIT have challenged me,
+even as everyone else is being\nchallenged all around us.
+But I'm particularly\ngrateful for the ways
+that these last eight\nweeks have shown me
+that MIT Architecture is\nin us, a community far
+more than a set of spaces.
+It's a place that can\nexist in multiple ways
+and exists here\ntonight thanks to you.
+So this is a time\nto embrace things,
+like an architecture lecture\nthat can seem normal,
+and that can help us\nreclaim our professional
+and intellectual identity\namidst so much uncertainty.
+But it's not a time to pretend\nthat things are normal.
+This is why I'm\nparticularly glad to share
+with you that\ntonight's lecturers
+Leslie and Sasa, former\nMIT students both,
+are donating their honorarium\nfrom tonight's lecture
+to a fund established by our\ndean's office for students
+in need.
+I would invite any of you out\nthere with any interest in this
+to contact the dean's\noffice with any questions
+about this fund or about\nhow all our efforts can
+support our own and\nother communities in need
+at this time.
+Now to the business\nof tonight, which
+is introducing our special and\nmost welcome guests, Leslie Lok
+and Sasa Zivkovic.
+Leslie is an assistant\nprofessor and the BR coordinator
+at Cornell.
+Allied with\ncomputational technology
+and with a focus on urbanism,\nher research and teaching
+explore the\nintersection of housing,
+urbanization, and mass\ncustomized construction methods
+at multiple scales.
+She received her master of\narchitecture at MIT in 2011
+and previously taught at McGill.
+Sasa Zivkovic is an assistant\nprofessor also at Cornell,
+where he directs the robotic\nconstruction laboratory, ,
+an interdisciplinary research\ngroup that investigates
+the implementation of\nrobotic-based construction
+technology.
+He received his\nMArch at MIT in 2012
+when he was the recipient of\nthe AIA certificate of merit.
+Prior to MIT, Zivkovic studied\narchitecture and city planning
+in Stuttgart, where he\nwas awarded a fellowship
+from the German National\nAcademic Foundation.
+Sasa and Leslie's\njoint practice, HANNAH,
+leverages and augments\nordinary technologies
+for material, spatial, and\ncultural experimentation
+in build projects across a\nwhole diversity of scale.
+This amazing work is driven\nby tectonic and material
+explorations in architecture.
+It's a platform, as they\nsay, to unapologetically
+test and explore personal\narchitectural obsessions
+surrounding material misuse,\nforms, construction, concrete,
+robots, trees,\ntoolpaths, and buildings.
+The work is amazing.
+And I would ask us to\nhonor in the absence
+of in-person applause, and\nhandshakes, autographs,
+and selfies, with questions,\nwith good questions supplied
+by you tonight throughout the\nlecture via the webcast portal
+and on Facebook.
+The webcast portal, the\nquestions go right here.
+And if you're\nwatching on Facebook,
+they're somewhere\naround you as well.
+We'll be taking questions\nthroughout the lecture.
+So type them in as\nsoon as you have them.
+And then we'll organize\nthem and ask them
+at the end of the lecture.
+So with that, over\nto Leslie and Sasa.
+And thank you so much for\njoining us here tonight.
+All right.
+Thank you, Nicholas, for\nthis great introduction.
+We're going to share our screen.
+And we would also like to thank\nAndrew for the kind invitation.
+Both Leslie and I are thrilled\nto lecture here at MIT
+from Leslie's Cornell office.
+And we send our greetings\nto the MIT community
+during those challenging times.
+As alumni, we would not be\npresenting our work tonight
+if not for the amazing\npedagogical landscape that
+is MIT.
+So before we start\nthe lecture, we
+would like to thank\nin no particular order
+some of the people who\ndeeply influenced our work
+and thinking.
+[INAUDIBLE],, Nadir, Adele,\nYungho, Sheila, Andrew, Anna,
+Ranjha, Liam, our thesis\nadvisor, thank you.
+The title of our lecture\nis forms of making.
+We think that making\nis fundamental to how
+we operate as HANNAH.
+From the ground up, digital\ndesign and fabrication
+technologies are intrinsic\nto the making of our work,
+facilitating fundamentally\nnew material methods,
+tectonic articulations,\nenvironmental practices,
+technological affordances,\nand forms of construction.
+As architectural designers,\neight years out of school
+and we're now\nlicensed, we consider
+ourselves to be\nbiased generalists
+rather than specialists.
+The various projects\npresented in this lecture
+combine a variety of\nmethods and material,
+making geometries,\nand social narratives.
+We build and embrace\nshared technology.
+We also create open source\nconstruction machines,
+which we argue inevitably\naffect how we think
+and design through making.
+In our work, we aim to mind the\ntension between machine means
+and architectural\nends across scales.
+And we reclaim authorship\nover processes of construction
+that influence the way\nwe can build or perhaps
+ought to build in the future.
+At various scales,\nour work's performance
+and architectural\nexpression are inherently
+derived from materiality,\ndigital construction protocols,
+robotic routines, and\nbottom-up design logics.
+At the same time,\nin the mix of means,
+our work is inspired\nby precedent, program,
+ecological considerations,\ncollective labor,
+personal obsessions, and\nthe misuse of technology.
+Based on the title\nof our lecture,
+we're also interested\nin the F word.
+And we admit that openly.
+When discussing the F\nword, Andrea Simitch,
+our department chair at Cornell,\ntalks about informed form.
+Augmented by information, form\nbecomes a malleable concept,
+which implies that\narchitecture is
+an interplay between\naesthetic values of design
+and broader types\nof information that
+act upon form, that\ncollaborate with form,
+or that produce\nsynergies with form.
+And how does making\ninform architecture?
+How does environment,\ntechnology, program, history,
+and their discipline\nitself inform
+the making of architecture?
+The following projects are\na work in progress and aim
+to give expression\nthrough the design
+to some of these questions.
+We've spent the last five years\nbuilding an infrastructure
+and framework for architectural\nexplorations across scales.
+So starting from\nthe design of tools,
+moving to the prototypes\nand installations,
+and then combining on\nresearch into the construction
+of a small building.
+About five years\nago, Leslie and I
+became interested in a\nnew method of making,
+namely concrete 3D printing.
+And after starting\na collaboration
+with building industry,\nwe were disappointed
+by the limitations at the time.
+And so in order to\nconduct research
+in advanced manufacturing and\nengage new methods of making,
+one needs the facilities,\nthe means and tools
+to do such work.
+So on the left, you\ncan see the 3D printer
+that Leslie and I built in\n2011 sitting on an MIT--
+Studio desk.
+Studio desk.
+And on the right,\nyou see the printer
+that RCL developed\nat Cornell in 2016
+as part of an option studio.
+The printer is\nfully open source.
+And that is very\nimportant to us.
+The printer runs\noff an Arduino board
+with slightly modified firmware.
+A 3D model parts list\nand wiring diagram
+can be downloaded\non our website.
+We think that fully\nunpacking the manufacturing
+tool or machine is an exciting\nopportunity for architects
+to reclaim authorship over\nprocesses of construction,
+which fundamentally influence\nthe way we can build.
+While the machine\nis only a framework,
+our thesis is with\nnew tools come
+new architectural opportunities.
+We also believe that\ntechnology comes
+with a social responsibility\nto make these tools broadly
+available to all.
+So this printer costs\nabout $6,000 to make.
+It is very much inspired by\nthe open source movement.
+And its realization\nis really only
+possible because of the\ngenerous open source community.
+And so we are interested in\ngiving back to that community.
+The printer was built\nover a three-week period
+in a collaborative\noption studio at Cornell.
+And here you see the final\nphoto shoot of the printer
+with Chris Battaglia in it,\nwho played a very big role
+in the design and\nconstruction of the machine.
+And after a period of material\ndevelopment and machine
+modification, Daedalus\nis now able to print
+full-scale building\ncomponents in foam,
+recycled plastic, and concrete.
+For us, this new\ntool opens the door
+to novel architectural\nspeculation.
+If there are any Cornell\nfriends visiting this lecture,
+this is Rand Hall before\nthe library renovation.
+Our interest in the\nprinting was in its process.
+Like a three\ndimensional drawing,
+the machine horizontally\ndeposits one line
+after another.
+And if lines are shifted\nthrough corbelling,
+the printer creates\nspatial form.
+Inherent in this\nrather simple process
+is the complex\narchitectural language
+of concrete 3D printing.
+The 3D printer, a\nmachine which has long
+been characterized as\ncharacterless due to having
+little to no constraints, is\nin fact exactly the opposite.
+It has plenty of\ncharacter, maybe too much.
+In the project Additive\nArchitectural Elements,
+our research question is,\nwhat is the architecture of 3D
+printed concrete?
+How can materiality and\nthe unique fabrication
+opportunities and constraints\nof the tool inform the design?
+And before we ask a question\nof what the architecture of 3D
+printed concrete, let's look\ninto a prominent chapter
+of concrete architecture\nwhich inspires us.
+The development of reinforced\nconcrete around 1850
+has enabled unprecedented\narchitectural expression.
+Through the past\n150-plus years, there
+have been various interpretation\nof what constitutes
+an architecture of concrete.
+We might think of heroic\ncantilevers, fluidity,
+or a distinct articulation of\n[INAUDIBLE] form construction,
+processes, and exposed\nconcrete structures.
+Admittedly, our concrete\nelement from the previous slide
+produces certain visual\nlinkages to Paul Rudolph's
+rough striated [INAUDIBLE].
+By association,\nwe ask ourselves,
+what if anything do\nwe have in common
+with such work of architecture?
+And for us, our\nconcrete architecture
+is most intriguing when\nthere is a symbiosis
+between the material or the\nmethod construction demands, as
+well as the idiosyncratic,\nwillful, and biased expression
+of the architect.
+The merging of the two\nirreconcilable worlds
+of technical reason with\nexpressive intuition at times
+produces moments of stunning\narchitectural brilliance,
+beauty, and intellectual\nsatisfaction.
+So in both our\nresearch and practice,
+we aim to bring about and\nintroduce such balance
+to new processes of making.
+It's admittedly a\nwork in progress.
+And building the\nmachine was perhaps
+the easy part with the aim to\nderive an architecture that
+is intrinsic to the additive\nmanufacturing process.
+We experimented with dozens\nof initial concrete mixtures
+and printing failures\nto understand
+the materials and tolerance\nand this inherent urge
+for imprecision.
+When printing in\nconcrete, the same rules
+apply in the small\ndesktop 3D printers,
+but gravity takes on an\naltogether different role
+in the process.
+Cantilevers have to be\ncarefully constructed.
+New support material strategies\nhave to be developed,
+and toolpaths have to be\ncarefully manipulated.
+We see this manipulation\nof 3D printing rule sets
+as a tremendous opportunity.
+Concrete printing\nrequires the development
+of an entirely new\narchitectural language, which
+takes into account the\nlimitations of the process,
+as well as\nperformative advantage.
+So in this project, it aims\nto reveal the 3D printer's
+own and highly idiosyncratic\narchitectural tectonics
+and narratives.
+We chose prototypical motifs--
+floor, column, door,\nwindow, wall, and ceiling--
+and began to develop\nstrategies as
+to how the layering of\nconcrete, this relentless three
+dimensional drawing of\nextruded lines of material
+and the act of\ncorbelling can suggest
+new strategies for building.
+So working with the\nconstraint of gravity,
+this element here,\nthe mushroom column,
+plays with cantilever\nover support material
+by printing upside down.
+The horizontal striation\nresults in structural assemblies
+that seamlessly\ntransition between
+the vertical and horizontal.
+In the 3D printed structure,\nall common architectural motifs
+and building components must\nbe rethought to fit the logic
+of layer construction.
+For example, a concrete printer\ncannot print in mid-air,
+therefore the otherwise\nrather simple task of creating
+a rectilinear window opening\nin the wall becomes a de facto
+impossibility.
+So rather than\ndrastically altering
+the process, such as stopping\nthe machine to insert a beam,
+shortcomings become\nopportunities for design.
+So one logical\nconsequence for the window
+is to cantilever\nincrementally, and become
+a triangular corbelled arch.
+And suddenly a seemingly\nadvanced technology
+relies on obsolete or archaic\nstructural strategies,
+such as corbelling.
+In the case of this element,\nforce column, the modification
+of printing direction, such\nas printing upside down
+or printing a\nsection, is deployed
+to overcome printer\ndeficiencies.
+Printed in section,\nthe force column
+hints at the potential\nto deposit material
+where structurally necessary.
+And the smart poche wall,\nsimilar to the force column,
+explores some manipulation\nof concrete density
+to optimize for\nstructural performance
+and how it might begin to\nbe architecturally expressed
+in the wall assembly.
+The potential for\nexcessive ornamentation
+is brought up in the adornment.
+In the full-scale\nprototype we were
+playing with\ndelamination of layers
+to create screen-like\nmoments of transparency.
+Ornamentation can also\noccur horizontally
+in the floornament here.
+Besides patterning,\nthe floornament
+can be structurally and\nalgorithmically optimized.
+3D printing also\nopens the possibility
+of an integration of building\nsystems and furniture.
+The sealing element\nis an expressive play
+on ducts for ventilation,\nreflectors for lighting,
+it becomes a performative poche.
+There are multiple narratives\nat play in this project.
+And we chose to present the work\nwith a particular speculative
+focus.
+We can also discuss their work\nin various other terms as well.
+From a technical\npoint of view, there
+are multiple advantages\nto 3D printing.
+All of the elements'\ngeometries were constructed
+without the use of form work.
+So that constitutes a paradigm\nshift for concrete construction
+and allows for a radical mass\ncustomization of buildings
+and building components.
+There is great potential\nfor material savings,
+because 3D printing\ncan deposit material
+where structurally\nnecessary, also,
+an enormous advantage in a path\ntoward smarter construction.
+Undeniably, there is a\ncertain formal agenda
+at play in this project.
+And bottom-up\nprocesses are highly
+deterministic and\nimportant when it
+comes to form making informed\nby the digital process.
+Yet there are important\ntop-down decisions to be made,
+which are harder to\nquantify, but necessary when
+determining the architecture\nof 3D printed concrete.
+We then explore\nhow we can deploy
+the additive architectural\nelements in the building
+context.
+The Fabricate Lilong\nProject explores
+the potential of\ncomputation of protocols,
+such as additive manufacturing\nat the architectural scale,
+[INAUDIBLE] housing\nat the urban scale.
+The smart poche well is\nexpanded in the context
+of multi-unit housing.
+It can be densified\nfor structural load,
+thickened for party\nwall, and attenuated
+to meet the thinness\nof glazing transition.
+The corb window element\nis explored here
+as both window and entrance\nopenings at the housing scale.
+And the ceiling element can\ninform individual modules
+or organize into a\ncross-modular system
+with mechanical connection\nacross multiple units.
+Here the force column is\ntransformed into an integrated
+wall and beams system.
+At the cluster scale,\nsmart poche walls
+are mass customized to address\ndifferent domestic functions
+and expanded as poche cores\nfor utilities or circulation
+that can be organized\ninto continuous rowhouses.
+Apart from the typological\ntransformation,
+the original spine organization\nof a linear semi-public space
+is transformed into a weaving\nnetwork of semi-public alleys
+and courtyard spaces.
+So here, designing with the\nadditive architectural elements
+at the housing scale can\noffer alternate inspirations
+to build our city fabric.
+The next project we want to\nshow is at the furniture scale,
+informed fundamentally\nfrom the ground
+up by new processes of making\nmateriality, and in this case
+also a strange kind of program.
+The Rolling Stones\nis the winning design
+of the Folly/Function\n2018 competition sponsored
+by the Architectural League of\nNew York and Socrates Sculpture
+Park.
+Conceptually, the idea of\na folly operates twofold.
+The shapes and forms of the\nunfamiliar as cultural seating
+object constitute\nthe first folly.
+And the act of rolling to\nreveal new curvature and seating
+profiles constitutes\nthe second folly.
+And yes, it really\nis difficult to roll
+a heavy concrete\nchair, as difficult
+as it looks like in this slide.
+So thank you, Alex and Chris.
+Responding to the\nsite of the park,
+the 23 seats can form a long\ncontinuous bench that becomes
+a destination and place marker.
+They can also aggregate\ninto smaller benches
+or disperse entirely to form\ndifferent sized seating groups
+or solitary compositions.
+And they provide a range\nof scale and seating
+configurations from stool to\nsmall chaise for the public.
+We played with the\nsectional profile
+to generate nine seating\nand lounging configurations
+and three basic prototypes\nwith each turn revealing
+new curvature and\nseating profiles.
+Using the 3D printer to print\nin sections, number four rebar
+is embedded between the double\nlayer section as reinforcement.
+To enable the creation of\nthe cantilevered forms,
+the seats' interior is\nsupported with a bed of gravel
+during printing.
+And the layer of gravel remains\nimprinted on each chair's
+interior surface, giving\nit a geologic character,
+and also providing an honest\nreading of the fabrication
+process.
+In this video, you can see\na little bit of the testing
+and the design\nexplorations that we
+did for this project,\nwhich started out
+as this transformation\nof the long bench object.
+And then the seats\nthemselves can be dispersed
+in different ways in the park.
+We tested different\nprinting methods,
+but also looked at issues,\nsuch as reinforcement, which
+you will see in the next video.
+So this is the printing process\nwith the printer starting
+on the first layer on\na sheet of plastic.
+As you can see, it's a\nlabor intensive process.
+Our machine is not\nfully automated.
+So it requires a lot of\nmanpower to produce chairs.
+We did a series of\nreinforcement tests
+to establish what\nmethods might be viable.
+This is one of\nthe first projects
+that we used where rebar is\nembedded into the 3D print.
+So here you see how it's made.
+It's a double layer printed\nwith a manually inserted rebar
+profile that has been custom\nwelded to fit the seating
+profile of the chair.
+So printing these chairs\ntakes about one full day.
+And we have since\noptimized the process
+for the second iteration\nof this project, which
+is the Rolling Stones 2.0\nexhibit at the Momentary, which
+is a subsidiary of the Crystal\nBridges Museum of American
+Art in Bentonville.
+So besides exploring the\narchitectural potential
+of horizontal layer\nprinting, we are also
+interested in developing new\nprocesses of manufacturing
+at the lab.
+So at RCL, based on--
+sorry-- at RCL, based on Chris\nBattaglia's M.Arch thesis
+project, we developed a spatial\nmethod of concrete 3D printing,
+where the concrete gets\ndeposited on a support
+material, in this case gravel.
+Sub-additive 3D printing\nis a fundamental deviation
+from the standard process\nof 3D printing, which
+is a horizontal deposition of\ntwo paths layer upon layer.
+And we showed that in the\nvarious other projects prior.
+For certain complex geometries,\nlike shells, this method
+has severe disadvantages.
+Depositing cementitious material\non a supportive aggregate
+is not a new thing.
+The Philips Pavilion at\nthe Brussels Expo '58
+was one of the first\nmodern examples
+to panelize a large complex\nsurface through land forming.
+So casting on a shaped\nhyperbolic sand form,
+multiple panels were\nproduced as sections
+of the surface,\ntransferred to the site,
+and then post tensioned to\ncreate the iconic structure.
+And so here's what's smart about\nthis construction technique.
+The same machine that\nprints the concrete
+is used to create the\nflexible gravel form work.
+So in the first\nstep, the printer
+creates a surface that matches\nthe curvature of the thin shell
+geometry, making\nits own form work.
+So this is what you see\nhere, a tennis ball shaping
+the gravel mound, and\nthen shaping the lines
+for 3D printing.
+And then in the second\nstep, the concrete material
+is deposited on the\nreusable gravel form work.
+So this is the first panel\nthat Chris 3D printed
+with two layers of concrete.
+And so with this\nmethod, one can rapidly
+print highly mass customized\nand optimized grid
+of thin shell structures.
+Printing this with a horizontal\nlayer deposition method
+is a difficult proposition.
+And so here you see\nthe excavation process
+and some final results of\nChris's thesis project.
+This printing process\nhas been translated
+to also work with the robot.
+And it's a bit messier than\nwe would like it to be.
+We have since\ndeveloped a new method
+to machine or post-machine\nthese pieces using a CNC Mill.
+This is something that\nwe cannot show today,
+but if you're interested\nin knowing more about this
+project, we brought a\npaper for [INAUDIBLE],,
+and also have more\ninformation on the website.
+Using the 3D\nprinter's flexibility,
+we can use form finding methods\nand structural optimization
+to determine the\nlattice density required
+at each point\nwithin the surface.
+So depending on the\nshape of the structure,
+we get different\nlattice patterns, which
+also reduces waste material.
+In our research in the\nlab and in the practice,
+we think it is paramount to\ntest full scale prototypes.
+So this is a mockup of\nsub-additive printed arches.
+Each component weighs\nroughly 150 kilograms
+and was printed in\nthe span of one hour,
+and can be rolled up\nfor easy assembly.
+As a new method, sub-additive\nprinting leverage digital
+workflows to produce\nstructurally, materially,
+and spatially optimized building\ncomponents, while dramatically
+reducing waste material.
+Contextually, the\nsub-additive project
+expands on a lineage of\nthin shell structures
+by the likes of Nervi,\nCandela, Isler, or Dieste.
+So we are currently working\non improved printing accuracy,
+the integration of\nfiber reinforcement,
+and novel cement\nmixtures that don't have
+a massive environmental impact.
+And the latter point, I\nthink, is very important,
+because we cannot sustain\nconcrete as a building material
+by saving material alone.
+So the concrete has\nto fundamentally
+be rethought in the\ncontext of 3D printing
+to become a viable building\nmaterial for the future.
+So here back to the tools,\nbecause a concrete printer
+can only get you that far.
+Compared to other\ninstitutions, the RCL lab
+has very limited resources.
+So we have to be inventive\nwhen it comes to equipment.
+As it turns out, one can\ngo to eBay and purchase
+a used Kuka KR 200 for $8,000.
+And this is how it arrives.
+The robot was formerly\na welding robot for GM,
+producing cars in a\nplant in Louisiana.
+While the machine\nis proprietary,
+it was important for us to\nkeep the rest of the project
+open source.
+In terms of cost, it is hard\nto find a cheaper robot.
+A certain amount of\nhacking is required
+to make this robot work for\narchitectural production.
+All information on\nhow to set this up
+is available on the RCL website.
+And in an ACADIA paper\nwritten by the lab
+called "Open Source Factory."
+For us, this robot\nhas enabled research
+beyond the three axis\nconstraints of the 3D printer
+and is a new technological\nmeans to inform
+form and new material.
+So Log Knot is a\nproject that emerged
+from our first initial\nexploration with custom
+wood-based tools for the\nrobot that Leslie just showed.
+And wood is an\ninteresting material
+because it surrounds\nus in so many ways.
+As a building material,\nwe encounter wood
+in the shape of two\nby fours or plywood
+or other standardized\ndimensions.
+But as this image shows,\nwood comes from trees
+that are usually non-standard.
+Log Knot is a\nrobotically fabricated
+architectural installation which\naims to expand and optimize
+the use of entire trees\nand irregular timber
+geometries and construction.
+The research team, which\nincluded Brian Havener,
+a research associate, who did\nthis project in his M.Arch
+studio, and then continued\nto work on it as a research
+associate in the lab.
+The team examined\nwhether regular--
+irregular roundwood\ngeometries can
+be processed to construct\ncompound curvature assemblies.
+The project creates\nan infinite loop
+of roundwood curving three\ndimensionally along its length.
+And the project\nborrowed strategies
+from traditional wood\nbuilding and manufacturing
+while implementing\ncontemporary technologies
+to achieve precision\nand mass customization.
+Components are\ncomputationally processed
+to form a spatially\ncomplex figure eight knot.
+This is a series of\ndiagrams and studies
+and a conceptual\nmodel on the site.
+In a reciprocal design\nprocess, the project
+fosters synergies and feedback\nbetween material fabrication,
+digital form, and full\nscale construction.
+New technological\nparadigms, such as
+robotic-based fabrication,\nradically challenge
+our understanding of wood\nas a building material,
+but have yet to take\nbetter advantage of wood
+as a sustainable and smart\nmaterial for construction.
+Small roundwood members or tree\nforks are usually not utilized
+for construction purposes\nbecause today sawmills are not
+equipped to process those\nirregular tree geometries.
+So this project uses\ncomputation to optimize
+each joint for tension forces.
+And each of the\njoints is precisely
+rotated to resist forces\nand local buckling.
+Here you see a detail of the\nvarious mortise and tendon
+joints that we tested\nfor the project.
+Each joint is secured\nby three lag bolts.
+And Log Knot is designed\nfor disassembly,
+therefore relying upon the\nuse of steel lag bolts instead
+of wooden dowels.
+The fabrication was done\non our Kuka platform
+using a custom CNC\nmill and effector.
+The mill first creates a\nplanar surface on the log,
+and then creates the mortise\nand tendon rough cut.
+We then use the\nside of the end mill
+to smoothen the rough cut,\nwhich saves a lot of time,
+and is an efficient way of\nutilizing the tool that we have
+at hand and the end effector.
+And to prevent\nchecking and shaking,
+the milled end grains were\ncovered in pentacryl, which
+is a non-toxic wood stabilizer.
+And so this prevented\nchecking, and allowed
+us to assemble these pieces\nmore or less accurately.
+As we worked with\nsmall budgets, we
+did not have access\nto heavy machinery,
+and therefore developed a\nself-sufficient construction
+method that requires only\nminimal form work or support.
+So the idea was, can\nwe design a joint
+that is so smart that it guides\nthe shape and form of the wood
+assembly?
+So each component was\nlifted and placed by hand.
+And while we think\nconcrete is heavy,
+wood is also surprisingly\nheavy in these dimensions.
+So this is a\nconsiderable effort.
+And then in the second step,\nwe fastened the wood in place
+using the geometry of the joint\nto guide the form of the arc.
+So here you see a video\nof the assembly process.
+And so to hold up the\nstructure during construction,
+all that is required is a\nminimal support of attached two
+by fours.
+So you see them emerging at\nthe top of the frame, the two
+two-by-fours nailed\nto the wood structure
+to give some additional support.
+Unfamiliar notions of\ncraftsmanship and precision,
+both digital and analog,\nemerged from Log Knot's
+conceptual design practice and\ncharacteristic construction
+technique.
+Log Knot was exhibited as part\nof Cornell's 2018 Biennial
+called "Duration--
+Passage, Persistent, Survival,"\nand addresses this theme
+on multiple levels.
+Environmental cycles,\nbirth, growth, and decay
+are intrinsic to complex forest\necosystems and processes.
+Conceptually and spatially,\nthe Log Knot project
+references these internal cycles\nand reciprocal relationships
+between systems, both\nnatural and technical.
+The infinite looping\nstructure is an interplay
+between archaic natural\ngeometry, advanced computation,
+and state of the art\ndigital fabrication.
+By questioning how forests\nare used as a resource,
+Log Knot provides a\ncritical commentary
+on various perpetual\nwood cycles--
+economic, environmental,\nand cultural in nature.
+From the ground up, new material\nmeans and construction methods
+are intrinsic to the making\nof this last project.
+The Ashen Cabin\nrecalibrates expectations
+around digital\nfabrication methods,
+and out of contextual\nnecessity explores
+the architectural opportunities\nof digital-analog construction
+hybrids from the ground up\nto the scale of the building.
+And informed by multiple\nforces, the building
+follows two strands of\nmaterial narratives.
+It is 3D printed from\nconcrete and clothed
+in a robotically fabricated\nenvelope constructed
+from irregular wood logs.
+The making of the\nbuilding is also
+informed by the key\nenvironmental crisis
+of the ash trees\nin North America.
+Since its discovery\nin the US in 2002,
+the emerald ash borer killed\ntens of millions of ash trees,
+drastically transforming\nthe entire forest ecosystems
+in the process.
+The EAB threatens to\neradicate nearly all
+of the 8.7 billion ash\ntrees in North America.
+And as of October 2018,\nit is found in 35 states
+and several Canadian provinces.
+As a reference, 10% of all\ntrees in New York state
+are ash trees.
+So that is almost 1 in 10 trees\nyou see will die or are dying.
+And this is a huge problem.
+And our means of\nconstruction might
+contribute to some form of\ngruesome, after-the-effect
+remedy.
+In the first material\nnarrative, the 3D
+printed concrete\nstructure is characterized
+by three programmatic areas--
+a table, a storage seat\nelement, and a 6.5 meter
+tall working fireplace.
+It has a footprint\nof 3 by 3 meters
+and lifts off the ground\non printed legs, which
+adjust to the sloped terrain.
+The legs are printed in\ncomponents and function
+as sacrificial zero\nwaste form work
+for the main structural\nsystem to eliminate
+substantial construction waste.
+It used a cast-in-place concrete\nstructure with custom rebar.
+This slide here shows the\ninterior of the concrete leg
+with inserted rebar cage.
+And the drone photo here showing\nthe nested modules on site.
+They're also nested so that\nthey can be transported
+fairly easily on the truck.
+And here's a top view of\nthe [INAUDIBLE] structure
+with the rebar cages.
+Each leg is then filled with\nfoam in the void of the legs.
+And concrete is poured in\nbetween to form a structure.
+And going up, here's the\nassembly of the chimney.
+We have turned into\nlittle contractors
+with our scaffolding.
+The cabin here, as you\ncan see, is expressive.
+And corbelling becomes\na generative motif.
+There is a tectonic\nexpression that
+is generated by the fabrication\nmethod and materiality.
+You can see the underside\nof the cabin showing
+the corbelled legs connecting\nto the terrain on nine points,
+actually one of which\ndoes not touch the ground.
+In deliberately designing\na cabin and not a pavilion
+or installation,\nwe have to address
+border architectural\nconsiderations, such as,
+how does the building\ntouch the ground?
+How do we 3D print a fireplace?
+Similar to the window\nelement, corbelling
+is used to produce the opening\nof the working fireplace.
+And here the articulation\nof the horizontal striation
+is used as a tectonic\nstrategy to produce
+seamless vertical\ntransition from the leg
+to a 4-inch concrete slab, and\nfinally to the chimney above.
+The [INAUDIBLE] code\nand printed path
+are exploited in the ornamental\npattern of the 3D printed floor
+slabs.
+The slabs are also organized\nin a nine-square grid,
+reflecting the interlocking\npattern of the legs beneath.
+And finally, here\nis the envelope
+that slides from trees to\nquestion preconceived notions
+about material\nstandards in wood.
+In 2018, the EAB\narrived at Cornell.
+In order to use such\ntrees in construction,
+we developed a new process\nto build the wood envelope.
+Available ash\ntrees are harvested
+from the Cornell Arnot Forest.
+And by implementing\nhigh precision
+3D scanning and robotic-based\nfabrication technology, as you
+can see here, irregularly\nshaped waste wood
+is transformed into an\nabundantly available,
+affordable, and\nmorbidly sustainable
+building material\nfor the anthropocene.
+Utilizing the Kuka KR 200 robot\nwith a custom five horsepower
+band saw and effector,\nwe can robotically
+slice irregular tree logs\ninto naturally curved boards
+and strategically assemble\nthe boards to form a variety
+of surface conditions.
+The boards follow the geometry\nof the naturally bent logs.
+And they can be\nsliced into various
+and also varying thicknesses\nup to 2 millimeter thin.
+Also, by adjusting the\nthickness of the cut,
+the robotically\ncarved timber boards
+can be assembled as complex\nsingle curvature surfaces
+or double curvature surfaces.
+Here you see this drawing\nshows the number of logs
+that were harvested from\n10 trees at the forest.
+And a quick GIF showing\nhow one of the logs
+can be sliced according\nto the fork geometry.
+Geometric form finding\nand assembly protocols
+from form to log and\nlog to form have been
+developed for this project.
+We started with an\ninitial massing design,
+and then according to the\nlog that we have sourced,
+the log curvature\nserved as a feedback
+into the finalized\ndesign forms, that there
+is a reciprocity between\nthe top down design and also
+the available raw resources.
+And the system was\nelevation drawing
+Architecturally, the\nnatural bent wood planks
+create the enclosure.
+And the curvature of the\nwood is strategically
+deployed to highlight moments\nof architectural importance,
+as you can see in this diagram.
+And so no longer\nbound to the paradigm
+of industrial standardization,\nsuch as a wooden two-by-four,
+this project revisits\nbygone woodcraft and design
+based on organic found\nand living materials.
+How can irregular\ntimber geometries
+be used to create a fully\nfunctioning, ventilated,
+waterproof, and insulated high\nperformance building envelope?
+How does the envelope\nturn corners?
+What are the detail connections\nbetween wood and concrete?
+How are windows integrated\ninto the wall system?
+And how can the natural\ncurvature of the log
+inform an awning,\nan entrance, a door
+handle, or highlight\na corner opening
+for an extremely articulated\ndrain spout or frame views?
+Technically, the\nenvelope functions
+similar to the logic\nof a SIP panel.
+The panels are insulated using a\ntwo component closed-cell foam,
+which is fully biodegradable.
+The facade assembly\nis fully ventilated
+and is detailed to manage\nshrinkage and transformation
+of wooden boards to offset\nthe air drying process,
+and does not require an\nadditional rain screen.
+And here's a view of the\ninterior of the cabin.
+This shows the ceiling\nand the roof structure
+of the cabin using--
+combining with a typical\ntwo-by-six rafter.
+The cabin combined a variety of\nfabrication methods, material
+applications, geometries,\nand types of construction.
+So at various scale, the\ncabin's performance, structure,
+and architectural\nexpression is inherently
+derived from these\ndigital construction
+protocols, robotic routines,\nmateriality, and design logics.
+And together, the various and\nsometimes conflicting means,
+robotic or otherwise,\ninherently inform
+the form and the architectural\nexpression of this project.
+It is important to\nemphasize that this occurs
+at the scale of a\nbuilding from ground
+up using newly invented\nforms of making.
+Thank you.
+And we also want\nto thank our team,
+because while it's the\ntwo of us presenting,
+this work would not be possible\nwithout a very big team
+of highly dedicated students,\nformer students, research
+associates, and\nresearch assistants.
+So thank you, guys.
+Those are also your projects.
+Thank you.
+Thank you.
+So we've finished a bit early--
+10 minutes.
+We thought, as this is a\ndigital format lecture,
+we don't want to go over.
+So this might give\nus a bit more time
+for questions or an earlier\nend to our evenings.
+Well, thank you.
+I just want to thank\nyou all so much.
+As I said in my\nintroduction, these
+are not normal times, nor times\nto pretend they're normal,
+but the kind of inventiveness\nand imagination of the work
+allows us to think about\nall kinds of possibilities,
+including for new kinds of\nwork and new kinds of being,
+even amidst all sorts\nof uncertainties.
+So I really want to express\ngratitude on behalf of myself,
+of the community, the school,\nand of the over 700 viewers
+that we've had with us this\nevening for the lecture,
+which is just an\nastonishing testament to you
+and a testament to this\nlarger community as well.
+I wanted to start--
+I think we have all learned\nabout the differential
+staminas of online and in-person\nevents over the last few weeks,
+but we'll push this\na little bit further,
+because we've also got lots of\nquestions from the audience.
+And I guess before\nwe even go to those,
+I wanted to ask you to\ngo back to the F word,
+to the very beginning\nof your lecture,
+and some thoughts about form\nand form related to two ideas
+that we're all grappling\nwith at the moment, which
+is certainty and uncertainty.
+We had a moment in\nthe very first flush
+of parametric\ndigital architecture
+in the last few decades\nof a kind of profusion
+of form, and form about\nwhich lots of things
+were all too certain and\ndeterministically made.
+And I guess one thing\nI very much appreciated
+about the work, but\nI wanted to prompt
+you to talk about\na little bit more
+is a kind of an\nabundance of form,
+but an abundance of\nform that juxtaposed
+the ability of digital\nshapes to expand, overlap,
+multiply, and create a\ngreat deal of complexity,
+complexity that hearkens back to\nthe low cost of labor of things
+like the King's College\nChapel, but then
+a different kind\nof complexity that
+makes me think of the origins\nof the Land Art Movement
+at Cornell that your Log\nKnot project is obviously
+a tribute to as well,\nand the idea of entropy.
+Gordon Matta-Clark\nand Robert Smithson
+met on the Cornell campus.
+And the kind of\nprofusion of form
+that comes from the\noperation of entropy
+is often seen as\na kind of contrast
+between the deterministic\nnature of digital form.
+But in your work, the two are\nvery much in collaboration.
+So I wanted you to--
+part of what makes the\nconcrete work beautiful
+is the mistakes or\nthe uncertainties
+around the precision and that\nsort of surround the precision
+in the process.
+And the same is obviously\ntrue in the beautiful cutting
+of logs and the entropy of\nliving forms and knots and all
+the rest.
+So that question of form\nand certainty/uncertainty
+seems to be--
+to run very deep in the work.
+And I wondered if you could\nreflect a little bit more
+explicitly on it while I\nhave a moment to get together
+everybody else's questions.
+Yeah.
+Thank you.
+Thank you for that question.
+I think for a while, it was\ndifficult to talk about form
+in our discipline, because it\nmight have been sort of misused
+within a certain kind\nof moment of time.
+But I think that was also--
+that was necessary for that\nparticular discourse project.
+I think what differentiates\nhere our work is this connection
+to materiality.
+And this is by no means a kind\nof solitary invention of ours.
+So there are many fellow\ncolleagues and offices
+that are deeply\ninvested in materiality
+and form and digital\nform, and perhaps
+in architectural expression.
+So I think the certainty or\nuncertainty in these project
+comes through the material,\nwhich brings its own
+challenges, and which\nsometimes work in your favor,
+and sometimes don't, which\nsometimes produce happy
+accidents, and sometimes don't.
+And so that gives it something\nconcrete to push back, I think.
+And so the materiality\nis a really important
+determining factor in the work.
+What I want to point\nout is that for us it's
+important, especially\nin the last project,
+that we apply these\nmethods of material form
+making to the scale\nof a building,
+because that expands\nthe discourse
+and brings other issues to\nthis kind of research, which
+usually has a tendency\nto focus on prototypes,
+or to focus on installations,\nor to focus on sort of smaller
+scale investigations and has\nyet to arrive in many cases
+at the building, which comes\nwith its own constraints
+and issues that kind of\ncontaminate the diagram.
+And I think also--
+and to address that,\nthere are more than just,
+let's say, our\nwillful desire for
+a particular formal expression\nthat we have to engage with.
+So direction-- I mean, as simple\nas, again, direction of roof.
+How do we produce an interesting\narchitectural strategy
+that connects with the ground?
+So I think a lot of\nthese other, let's say,
+challenges,\nconstruction challenges,
+also inform the form.
+So the process of making,\nso there is the material,
+but there is also then what we\ncan make, and what we can test,
+and what we can\ngenerate that allows
+us to play with the form.
+That's great.
+I'm now going to move to\nquestions from the audience.
+And I'm going to synthesize\nand put a couple of questions
+together in the\nnext two questions.
+There are some really\ninteresting questions-- one
+from Pamela Tang, who's the head\nof our Alumni Association, who
+I'm delighted to\nsee here, and then
+another question\nfrom another audience
+member about traditional\narchitectural techniques
+as they relate to this process.
+So there's a question\nabout study models
+and the role of modeling,\nboth digitally and otherwise
+in the process.
+And then there's another\nreally interesting question
+about drawing.
+When you're moving so kind of\npromiscuously between planning
+section and thinking about\nhow these things are made,
+does it relate to how you think\nabout objects and environments
+and planning section as you also\ndeploy more traditional media?
+So drawings and\nmodels in the process.
+I think models is--
+our model testing has\na big range of scale.
+So we have the traditional--
+your hand size, let's\nsay, massing models
+that you play with, but I think\noftentimes we engage much more
+with like prototyping scale,\nso looking at half scale,
+for example, in the cabin\nproject when we want
+to test out the log design and\ngeometry to really figure out
+the building system.
+The layering, we\nactually have to-- we
+produce a half scale\ncorner prototype.
+So I think model making becomes\na really, really integral part
+of the design.
+And then playing with both at\nkind of the design study model
+scale, and also actually\nat the material scale
+is really important.
+It allows us to test out, "Oh,\nthe wood is cracked," or, "Oh,
+wow.
+This is really,\nreally heavy," when
+we thought it would be\nlighter when you're playing
+with smaller trees and logs.
+And then once you\nsquish a big log,
+then you realize\nhow heavy it can be.
+Regarding drawings\nand representations,
+what we found interesting\nabout the printing process
+is that it is very\nsimilar to drawing,
+because it's the deposition\nof line up on line
+to build a three\ndimensional form.
+So in a funny way, these\nare sort of sketches,
+the prints that we do.
+This is all very much\nwork in progress.
+I think you can see\nthe sort of roughness
+of some of these\nexperimentations,
+for better or worse.
+And so I think drawing\nsort of through model
+is something that\nwe are interested
+in these explorations.
+Regarding the question\nof traditional building
+precedents, I think\nthis is something
+that we tangentially\nmentioned in the presentation
+and would probably\nneed a bit more backup
+and sort of thoroughness to\nbe developed into a stronger
+argument.
+But we do think that, for\nexample, the use of roundwoods
+in construction, or the\nuse of irregular members,
+we could have shown sort of\nthe German Fachwerkhaus series.
+So there is a legacy\narchitecturally, but maybe
+also in some of the design\ndisciplines or engineering,
+such as shipbuilding and so on,\nthat these projects reference.
+And certainly we have\nlooked at that without now
+explicitly pointing\nit out in the lecture.
+So these references are\nfloating around in the work,
+I would say.
+And also maybe referring\nback to the one
+of the questions\nabout drawing, you
+were talking about\nmodes of representation
+and how that plays\nin, let's say,
+the process of the making\nof some of these projects.
+And I think because of what the\ndigital tool allows us to do,
+sometimes in certain cases--
+and a lot of it can be\ndue to time constraints--
+you bypass technical drawings.
+So in the case of the\ncabin, from the design
+to the building, there\nis some level of,
+let's say, drawing in terms\nof plans and sections,
+but in terms of making\nand building the building,
+since we are designing it,\nbut we're also building it
+ourselves, there is that one\nlevel that is kind of taken out
+normally when you have\nan architect designer,
+and you give it to a contractor.
+And the drawing needs to\ncommunicate in that stage
+to construct something.
+And the cabin in that case,\nduring the construction
+process, the drawing was\nmore of an exploration tool,
+rather than a means of\ncommunicating how to build it.
+So in the prototypes or\neven in the concrete part,
+a lot of the time it was\nwe'd go from the 3D model
+then to the print\npaths, and then
+to the actual 3D\nprinting and construction
+of the physical object.
+So the drawing part, in\nsome cases, are bypassed.
+And then the question\ngoes back to,
+after we build the building,\nhow do we share it?
+How do we represent\nit with the community?
+And so then there\nis a return back
+to drawing it using\nconventional drawing standards.
+In the case of\nthe Rolling Stone,
+we also went back--\nactually started
+a machine-drawing project\nthat we didn't share here,
+because we started to\nquestion, how do you
+represent a 3D printed object?
+And using the conventional plans\nin section doesn't fully, let's
+say, translate or express the\ndesign logic of this 3D printed
+project in that case.
+Just a quick follow-up to that.
+One of the-- so we struggle\nwith this question of drawing,
+I would say.
+So Leslie outlined some\nof the struggles going
+from digital to prototype.
+So in some ways,\nas I've said, we
+conceptualize drawing\nthrough the model.
+But what is missing,\nand we think
+is a kind of missed\nopportunity, is using
+drawing as a generative tool.
+And its role as\na generative tool
+is kind of submerged in here.
+So that's why we\nthink the model is
+a generative tool in our case,\nbut we are exploring ways
+currently in these projects\nto think about drawing
+as a generative tool.
+So you think about the\nmachine and the drawing
+in combination as\na generative tool.
+And so these are some of\nour next research steps.
+I'm going to ask\na quick follow-up
+question that's also come up.
+But does the idea\nof drawing relate
+to how you're actually\nspending your time now
+when so much of us\ndon't have access
+to the tools and shops\nand large equipment
+that we think and work with?
+So currently we are\nworking in the office
+on scaling up some\nof these projects.
+So we would like to 3D\nprint a residential project
+and a sort of housing\nproject following thereafter.
+So this requires a\ncertain set of, I guess,
+conventional design methods.
+I think by now we have\ndeveloped an understanding
+of some of these material\nprocesses and behaviors
+that we can take\nthem into account
+while drawing and designing.
+And so that's kind\nof maybe an intuitive
+layer that has emerged within\nthe practice that substitutes
+for some of the model making.
+But it is unfortunate that we\ncannot access our shop right
+now like so many others.
+The robots are\nsitting and waiting.
+Taking a break.
+They're sleeping.
+I would-- so back to the\nrobots, there's a lot of people
+in the questions interested\nin the actual physics
+of production and materiality,\nand everything from,
+can you can you print rebar to\nsome technical questions around
+how--
+whether you're experimenting\nwith or collaborating
+with others at Cornell on\nmore sustainable or different
+concrete mixes.
+How much of the\npractice at this point
+is involved in that\nmateriality and experimentation
+about materiality?
+And how much of it is\nrelated to the questions
+of process and form that\nwe were also talking about?
+Well, the RCL\nsession is actually
+currently collaborating\nwith researchers at Cornell
+in engineering and\ndesign and looking
+at using different natural\nfiber as reinforcement.
+It is one has to address that\nultimately cement or sand are
+limited resources.
+And we have to rethink\nthe composition
+or the mixture of such.
+And this is what is so great\nabout interdisciplinary
+collaboration.
+That's not something\nthat, let's say,
+an architect or designer\nalone can address.
+So there is\ndefinitely that strand
+that we are pursuing and\nlooking at how we can
+think at the material scale.
+And in terms of the sort of\ntechnicalities and material
+printing rebars, one thing is--
+maybe we have slightly\nmentioned it in the lecture,
+that the making of\nthe Rolling Stones
+is actually quite labor\nintensive, because we
+have to gravel the\npieces while we print.
+And it's not a fully\nautomated process.
+And I think that comes down\nto our priority of what we're
+interested in exploring and the\nway the printer was constructed
+as a method and as\na tool to explore
+what we're interested in\nexploring architecturally.
+So it wasn't our\ninitial intention
+to design like a full\nstreamlined automated system.
+So we were interested in\ndeveloping and hacking,
+to an extent, to allow us\nto do what we like to do.
+So therefore, in\nterms of, let's say,
+different material,\nprinting multiple material
+at the same time, we definitely\nsee the possibilities.
+And there's ongoing--\nplenty of ongoing research
+that does that.
+There's already research\nat other institutes
+that looks at robotically\nwelding rebar and so on.
+So those technologies exist.
+However, they don't\nplay yet and occupy
+this sort of larger space\nin our work currently.
+To follow up on\nthat, I think there
+may be two components\nto this question.
+So one is besides\ncollaborations in academia,
+we're interested\nin collaboration
+with the building industry.
+And I think to scale up some\nof these processes of making,
+one has to engage\nbuilding industry
+at a fundamental level.
+And this transformation\nwill take time.
+The building\nindustry is changing.
+It's one of the last sort\nof non-automated industries.
+And so for better\nor worse, I think
+this will come as a\nprocess in the future.
+So automation will\narrive in construction.
+And I think it's important that\nwe as architects have agency
+in it by becoming experts\nin some of these tools
+and technologies.
+There's a lot of questions\non how things scale up.
+Obviously, we're not just\ngoing to get an enormous robot
+to attack a redwood tree.
+So how do you scale up the\nmeans and scale of the work
+while keeping the\nprecision of the knowledge
+and understanding that you've\ndeveloped at the scales
+that you have?
+I think the way\nthat we've done it
+or have been doing it\nis to recognize what
+are the positive-- what are the\npros and cons of, let's say,
+a particular tool\nand material system,
+and leveraging what is good\nabout it and what it can do,
+and not try to force\nit to do everything.
+So meaning that, let's\nsay, in the cabin,
+the envelope is\nrobotically fabricated,
+but the roof structure\nin the end that we used
+was a rather simple roof\njoist sort of construction
+with rafters and\nso on and so forth.
+So we definitely\ncould apply also
+the same robotically\nslicing for the roof,
+but I think recognizing--
+well, due to time\nconstraint as well--
+when we should deploy the robot,\nand when we can customize,
+and then when can we\nalso take advantage
+of traditional and conventional\nbuilding techniques?
+So it's not about\nreinventing the wheel,
+but finding a smart and\nsmarter way to customize,
+and in this case mass\ncustomize, using our tools
+and material at\nthe larger scale.
+And I think to scale up, we have\nto understand and acknowledge
+the shortcomings and advantages\nof specific tools and material,
+and use it to their advantage.
+And we can't\ndisclose any details,
+but there are big printers\nthat can actually print houses.
+So these developments\nhave kind of
+happened in the past\ncouple of years.
+So when we started the\nprinter development in 2016,
+this technology was only\navailable in a very limited
+way.
+And so in the last four\nyears, things have changed
+drastically, I would say.
+So scaling up becomes more and\nmore feasible and possible.
+And so hopefully, the\nnext time we meet,
+we can share some of that.
+Wonderful.
+I'm going to synthesize.
+I think we have time for\nabout two more questions.
+But for the first one, I'm going\nto synthesize two questions
+on the theme of improvisation\non both how much-- there's a--
+what one question describes\nis a beautiful kind
+of uncanny and improvisational\nposture to the cabin in how--
+the way it perches\non the ground.
+But this also relates\nto a larger question
+of what is the--
+a lot of questions on the\nprecision of the lifecycle
+of data in a process of\nscanning and making things,
+making slices of wood\nthat don't turn out quite
+how you expect\nthem to, I'm sure,
+and then probably also\nneed to be scanned.
+And then where is\ndesign in that process?
+And where is improvisation?
+And what's the difference\nbetween the two,
+between the precision and\nimprecision of a process that,
+I'm guessing, resembles\njazz more than Bach?
+But maybe you can expand\non that a little bit.
+Yeah.
+Well, I think the cabin\nis a good example,
+because essentially,\nwhat it is is
+a feedback between an intended\ndesign and the material,
+on the other hand.
+So you go into the forest.
+You say, OK, roughly,\nI need 10 logs.
+Roughly, I want to do\nthis with the wood.
+And then you go and\ncut down 10 trees.
+And you find things\nthat are similar to what
+you had in mind,\nbut in the end, you
+don't get exactly what\nyou were shopping for,
+as opposed to when\nyou go to Home Depot
+and buy a two by four.
+You know that if you\nselect the straight one,
+it's going to be a two by four.
+And so there's a feedback\nbetween the material.
+So we would literally\ngo out into the forest
+and look at this stuff, and\nhave to then redesign based
+on the things that we find.
+So that's a kind\nof improvisation
+that happens by\ndesign in the cabin,
+because the material sort of\nforces that upon the design
+process.
+So this is a challenge.
+It's not easy to think\nthat way and to design
+a project that way, because\nthere's this uncertainty
+about the material.
+So until the very last\nminute, we don't really
+know what the cabin\nwill look like due
+to some of these factors.
+I mean, there is maybe\nthe top down, let's say,
+intuition for designers\nand architects.
+And then we take full\nadvantage of that.
+And so also recognizing there\nare design opportunities
+that come from curvature.
+Of course, we would\nleverage that, and maybe
+exaggerate certain moments,\nespecially the example
+of the drain spout.
+And so there are this\nsort of top-down desire,
+expressive desire that\nwe want to achieve,
+and then like Sasa said,\nthere is the feedback
+between the material character.
+So it's not entirely totally\nopen and total improvisation.
+So there is a level of\ncalibration within the process.
+We also intentionally\na lot of the time when
+it comes to form avoid\nfull optimization,
+and not allowing, let's say,\noptimization really play out
+the design fully.
+And that's also due\nto our partial bias
+towards having this\ndesign expression
+that we want to play with.
+I mean, some of this also has to\ndo with a particular structure
+that we work with.
+So there's the lab, and\nthen there's the office.
+And so the lab does\nfundamental research.
+It looks at concrete\nmixtures and collaborates
+with researchers,\nand tries to advance
+that sort of more\nengineering-based
+architectural discourse.
+But in the practice,\nwe have the freedom
+to bring in other\nnarratives and to, I guess,
+sort of contaminate the ideal\noptimized engineered state
+of things.
+And this is what\nthe cabin really
+is, because there's no way\nto sort of optimize this,
+or there's no way to justify\nit through optimization.
+So there are other narratives,\narchitectural design
+narratives, at play\nthat are important here.
+And so this is a project\nthat demonstrates
+that these two kind of realms\ncan be combined and connected.
+So that provides\na good follow-up.
+I'm still going\nto allow myself--
+questions keep cropping up.
+So this will be the\nsecond to last question.
+But I'm going to synthesize\na couple of questions
+with the observation that\none of Marshall McLuhan's
+laws of media is that\nthe future resembles
+not the present, but the past\nthat preceded the present.
+And so in your rejection\nof optimization, which was,
+of course, often part of\nthe language of modern
+architecture, if not always\npart of the actual substance
+of modern\narchitecture, there's--
+and in a lot of the questions,\nthere's questions, for example,
+here about questions\nof locality.
+Does the idea of looking out\nyour window at your materials
+relate to this idea of\nlocalness of architecture,
+that outside of modern--
+what we've come to expect to be\nglobe-spanning supply chains?
+Or does it also--\nit also relates
+to a question about\nornamentation and decoration,
+which often served a functional\npurpose historically,
+but also has a different\nkind of character in the work
+that you've shown.
+So maybe if you could\nreflect a little bit
+on this idea of the past that\npreceded the present, as well
+as the future, and how these\nquestions of optimization,
+ornamentation, locality\nare potentially challenged
+by some of the\nfundamental questions
+that your work raises.
+[INAUDIBLE]
+I don't know.
+Maybe the question is not clear.
+This is a good question.
+Yeah.
+I think the locality\nplays a big role,
+let's say, in both the\nLog Knot and the cabin.
+And one thing is\nthat I don't think
+we would have produced the\nwork that we showed today
+if we were not in\nIthaca and Cornell,
+and what this\ncontext provides us.
+And so maybe the role of the\nwood, the role of the situation
+with the ash tree, I\nwould say in the beginning
+it wasn't something\nthat we see as like, oh,
+we need to work with\nsome local material,
+but it presented itself\nas an opportunity
+for us to think about,\noh, well, now there
+is this infestation\nwith the ash trees.
+What can we do with it?
+And it happened to be a big\nproblem in New York state.
+So this actually prompted\nus to think about,
+now how can we use\nthese trees locally?
+And if this is a resource that\nis all over North America,
+how can we--
+and in such a\nnon-standardized way,
+then how can we develop building\nstrategies that we can actually
+upcycle these wood, these logs?
+And so then the\ndeserved locality
+began to play a much stronger\nrole once we were presented
+with this opportunity here.
+And also, with the 3D printing\nas well, one of the biggest
+advantages, you could\n3D print on-site,
+and on-site 3D printing\nhas been happening now
+also at the building scale.
+Not in our work, but\nas Sasa mentioned.
+The challenge, let's\nsay, for our printer
+was that our site\nwas extremely uneven.
+And 3D printing requires a\nfairly stable flat ground
+condition to print.
+So the locality topic can\ncome into the local resources.
+How do you reuse\nlocal resources?
+And also how you can\nprint on-site actually,
+the production of\na building on-site
+as kind of a local focus.
+And that way, that\nalso eliminates
+a lot of the transportations,\nand so on and so forth.
+So that is-- there is definitely\nthat narrative embedded
+in this process.
+The question of past, future,\npresent histories in the work,
+I think is an interesting one.
+And it's a challenging one\nto answer, I would say.
+I don't think that there\nis a definitive answer.
+I think what we've come to\nenjoy through working much
+more in the practice is the\nfreedom to leave things up
+for interpretation also,\nwhich I think is something
+that we do with the cabin,\nbecause in the practice,
+we're not bound to some of\nthe constraints of the lab.
+And so I think depending\non who looks at this,
+you might have a different\nanswer to your question.
+And that's also a good\nthing, I would say.
+So that's not\nreally a shortcoming
+generally within a\ndiscourse-based discipline.
+Well, that's maybe a good prompt\nfor the last question that's
+come up.
+I mean, I would reflect on the--
+we are very sorry not to be\nin the physical space at MIT,
+but one of the things that\nthis current improvisation
+gives us is the\nability to welcome,
+as we have tonight, both\nour current students
+and a large segment of our\nalumni into a shared space, as
+limited as this can be\ndescribed as a space.
+And so it's a nice\nmoment to ask a question
+that several people in the\naudience have asked, too.
+Maybe just answer very briefly\nwhat about your work is MIT,
+or what about your\nwork have you taken
+from MIT into these other places\nand ecologies distinctively
+as you packed your bag\nfor your journey from here
+into your career.
+Wow.
+So much.
+I mean, I think, there's\nthe culture of hacking,
+the DIY, make your own machine,\nfigure it out, try it out,
+test something, make something.
+That is, I think, fundamental\nto MIT and its culture.
+But then in the\ndepartment, I think
+there's a very rigorous\ncommitment to discourse
+and to creating an argument for\na project and honing in on it
+and refining it.
+And this is at least\nwhat we attempt to do,
+not successfully, I\nthink, in all cases,
+but that's the ambition.
+And so this is sort of what we\ncarry as a package from MIT.
+Well, that's a beautiful\nmoment to end on.
+So I would say that to all of\nyou watching who we can't see
+and who we are very sad not\nto be physically present
+with, I would apologize deeply\nfor our own improvisations
+tonight.
+This is the first time\nany of us have done this.
+I'm standing in a\nhouse with a computer
+on top of a set of cardboard\nboxes outside of the frame.
+And we're all making this\nup as we go along, maybe
+hearkening back to the\nbeautiful improvisation,
+hopefully, in the work\nthat we've seen tonight.
+And so with that\napology also comes again
+the enormous gratitude\nfor joining us together
+for something whose\nunnecessary qualities are
+deeply necessary in this time.
+So thank you for bringing\nthe serendipity and grace
+of your work to help us create\na little bit of serendipity
+and grace here tonight,\non behalf of myself,
+but mostly of everyone\nelse watching who doesn't
+have the ability to speak.
+So thanks guys, I'm\ngoing to give you a hand.
+Thank you.

@@ -1,0 +1,853 @@
+thank you so my my goal today is to
+outline a few ideas that I have been
+playing with in this area of smarts
+studies and how is the nature of our
+studies as an artifact and also how we
+go about designing and planning them as
+processes how are they under going very
+very fundamental changes due to the
+access of technologies in order to do
+that I will hopefully go through this
+agenda now in in all fairness I very
+rarely stick to an agenda so we may get
+through half of this and then we may
+talk about other issues so feel free to
+interrupt me at any time I enjoy getting
+questions as we go through the
+presentation rather than trying to keep
+everything to the end so it's important
+that I share with you a little bit about
+how did I arrived at this topic because
+how I arrived at it plays a quite
+critical role in how I see things my
+original academic training and
+everything proposed from a school of
+management where I was focused on
+learning how do these large information
+technologies transform organizations and
+very very specifically how do they
+transform organizations in the ability
+of the organization to move information
+and knowledge for the purposes of high
+and innovation so how were individuals
+using email how people using intranets
+to really drive how did the organization
+innovate and as I began to explore a
+fair amount of organizing
+I realized very quickly that the role of
+Technology was not that important you
+could have the greatest intranet you
+could have the greatest technology you
+throw it in the wrong organization and
+it wouldn't make a damn difference and
+organizations that just went out and
+spent a lot of money would never get the
+results then a colleague of mine up told
+me Kevin why don't you examine the
+public sector I said why do I even care
+well the public sector on average
+depends twice or three times the amount
+that the private sector does on
+technology think about that for a second
+there are how much money the department
+of defense spends on technology think
+about any other department they spend a
+lot of money on technology as you'll see
+later on in my slides the public sector
+has a hopeless record at getting any
+technology project completed on time on
+Project and there are a lot of reasons
+why so I began playing around with the
+role of Technology in the public sector
+and then about three years back we saw
+this big wave and the wave came in terms
+of about three years back you had
+unprecedented unprecedented mobile
+access and a lord of the application
+platforms and a lot of the development
+environments was stable enough to
+Anchorage everyday citizens to begin to
+develop apps and you have platforms and
+markets in place where everyday citizens
+could take technology and pick on their
+own entrepreneurs that wave
+to me though the most critical element
+of that is how is that going to change
+us society how is that going to impact
+how we do things and so for the last
+about three years I've been focused on
+the role of Technology in how does it
+enable us to change our governance
+process how does it enable us to change
+how we plan and how we design our
+societies so I have a word up that
+challenge gov how many of you have heard
+of challenge God one two three four five
+so slowly we'll get more if you have an
+order challenge challenge.gov going
+you're about go online and look up
+challenge our God so challenge.gov came
+into operation a few years back and
+today it's one of the most vibrant crowd
+sourcing platforms for federal agencies
+to involve everyday citizens the private
+sector the NGO space to solve problems
+okay through a grant from IBM i was able
+to examine the range of competitions
+that will run on these platforms talk to
+app developers talk to people who hosted
+these these challenges and i'll share a
+few of those results later on in terms
+of information systems and how I see
+governance and smarts cities as i know
+that early on there are two distinct
+ways i operate and fade these things one
+is as the artifact okay so we all
+interact with things a city a town
+campus can be viewed as a noun as a
+thing okay and we can decide how we
+these things and for about a year I had
+the pleasure of having an appointment in
+a school of architecture where I had a
+lot of colleagues who were interested in
+the thing and how does the thing
+interact with its environment in today's
+world we don't have to depend on others
+to create things that have longevity in
+US cities prior to the technology
+revolution okay most of the things that
+were designed was most of them not all
+of them most of them originated out of
+central plans out of central structures
+today the nature of how we design things
+and install them in our environments has
+changed the process of how we engage the
+community in the design process for our
+studies is undergoing a lot of change as
+well and I'll highlight a few examples
+later on the the role of Technology
+today one of the most interesting
+aspects of it is today we don't have to
+guess about the future to a large degree
+we do not have to guess as an example
+how many of you have played around with
+agent based models 12 today right if if
+you began playing with agent based
+models let's say five years back they
+were very very hard to work with today
+they are easier to work with five years
+back we in the research community
+struggle with how to validate them how
+to appreciate them so on so forth today
+the use of agent-based models and
+simulation environment a part of parcel
+of most design elements when you think
+about planning cities and especially
+smart cities so I get
+with that background to basically give
+you my lengths of how I view these
+problems so it's a very very engineering
+is driven lens so most of you pretty
+much know everything on this slide we
+are moving very very radically towards
+mega cities as a dominant structure we
+have large large cities that are being
+constructed being built and most of them
+so the last point is probably the most
+important one most of our future mega
+cities are not in places we know a lot
+about we don't know a lot about a lot of
+these areas in terms of infrastructures
+in terms of policy development in terms
+of governance structures and many of
+these places are highly unstable as well
+so if you look at
+if you look at various numbers okay we
+are about 7 billion individuals in the
+world 1 billion cars and you can just go
+online and get all the numbers you need
+most dense mega cities and you can see
+them they are all getting concentrated
+in a few areas okay this is all data if
+you were to charge mega cities in 20-25
+if you trust predictions this is what
+the world would look like this is not my
+prediction this is somebody else's but
+you notice a few trends you see things
+happen
+if you look at the literature and the
+practice on smart cities about
+ninety-nine point nine percent of it is
+focused on those large bubbles that I've
+talked about or I showed on the map or
+the major mega cities of today if you
+think about New York London so on and so
+forth a lot of the literature is around
+that and what I want to do is give you a
+vision this is an idea on what I think
+magus a smart city needs to have and we
+will go through each one in some detail
+throughout this presentation but i just
+want to throw this up here for a minute
+does anybody have anything to add to
+this anybody disagree and if he wants to
+change something just as with any
+outline this is half wrong and half
+right yes sir
+okay let me go back why well there's a
+very easy answer to that and a more
+difficult answer the easy answer is the
+reproduction rate is very high in India
+in China I mean I mean people are
+reproducing at a very very high rate
+compared to the rest of the world
+especially India China is not so the the
+other reason that people attribute to
+large population growth are high level
+of education you know the role of women
+in in society I mean there are a number
+of reasons that drive population growth
+but so I outlined this vision and
+basically this vision grew out of a
+whole series of meetings with the Lord
+of city managers and city planners where
+I went to them and ask them when you
+hear the word smart city what comes to
+mind okay now let me give you an
+illustration of why the word smart city
+gets interesting this is from IBM so IBM
+did a study in 2011 and they try to
+calculate the pain of commuter fields in
+a given steady so you see mexico city
+beijing I Roby Johannesburg so on so
+forth and then you have the other cities
+on the other side having lived in
+Chicago for nine years I'm not sure a 25
+is accurate but you know that's what
+they think it is but I guess compared to
+Joanna's book maybe but this is what IBM
+calculated the amount of pain a commuter
+feels okay soon I'll get the hang of
+this depending on your mindset each of
+these interventions would consider or
+would be applicable if you thought about
+an intervention to make us titties model
+in terms of transport London introduced
+the congestion charge to change
+transport behavior singapore introduced
+smart metering and tolling that's
+considered a smart city intervention
+vienna just started adding more bicycle
+lanes and removing callings that's a
+smart city intervention and then you
+have con francisco's bike coalition
+another example so you can take any
+issue of a city and the minute you begin
+to tease it apart you will find just
+about any intervention gets classified
+into a smart city thing what's the
+problem with that or the problem of
+everything
+right so drawing lines becomes very very
+tricky right on the one hand if you ask
+the IBM's and this siemens they would
+tell you everything to do with
+technology is smart if you talk to
+public agencies and local governments to
+them as we did our research the minute
+deal about the words sustainability
+smartness resonates with them if you
+talk about young citizens they they
+think about information provision as
+their dominant variable when they think
+about smart so the number of apps to to
+any college going student I would
+hypothesize that if a city had more apps
+you're probably going to get them to
+think it's smart so so one of the big
+big issues in the literature and
+practices you can take just about any
+dimension office Teddy's operation and
+you can collect the range of examples
+from highly technology to economic
+incentive issues to infrastructure as in
+the case of Vienna to just civic action
+and they all fall into this category of
+making things smarter okay now because
+of the range of those examples my posts
+no view which is the answer to the
+question of this is you I don't believe
+any city is dumb right thus city by its
+very existence have to has to have some
+level of intelligence smartness so the
+question is not
+smart cities or not smart cities
+question is how do we take existing
+things and make them smarter if that's
+how you want to frame them or what are
+the range of interventions that you can
+use in my view technology is one of many
+interventions and as I'll show you
+through examples technology with our
+process interventions are almost always
+useless we can have a lot of apps a lot
+of platforms lot of senses if the
+process and the governance is not
+accounted for we just are paying a lot
+of money to construct technology so it's
+important to appreciate cities
+especially if you want to make them
+smarter as very very complex ecosystems
+amigo so very very basically if you
+break down any city and you view it from
+a complex ecosystem and there's a
+growing literature today on complex
+adaptive systems of systems you will see
+that if city has few very discerning
+elements you have agents you have
+objects and you have platforms hopefully
+the agents objects and platforms are all
+in us in an environment because they
+choose to be there everything on the
+lower end of that slide in terms of the
+features are how these things operate
+okay you have local control you have
+emergent structures you have each
+element being goal-directed on their own
+you have environments that are
+influenced and the systems that
+influence them
+and you have a lot of information
+exchange that happens in these
+environments if you just stripped away
+and viewed cities in the abstract you
+would see them as these okay given this
+view how do our current planning and
+design approaches account for them how
+do they account for them if we want to
+make something smarter we have to
+intervene we have to do something to
+move it from state a two-state be most
+researchers and practitioners if you
+bought them in a room and asked them to
+describe the elements of us city would
+list all of these things if you view
+them as that most of our planning and
+design approaches unfortunately don't
+account for these things can anybody
+give me an example of a planning and
+design approach that accounts for most
+of these this is the Q&A part where I
+get to drink water wheel of reductionism
+we love it we try to account for
+everything in a plan we try to build a
+grand plans we try to build mega cities
+when we know this is how in reality
+things operate
+in my research group this these are the
+imperatives that we are trying to build
+on as we conduct our research and build
+solutions one is for every project we
+try to embrace complexity rather than
+trying to say complexity is an error
+term or we don't understand it and so
+we'll leave it to us tied or let's have
+all these assumptions and then come up
+with an answer we try our hardest to
+model complexity okay any intervention
+that you think about that has some
+ability to make us city smarter has to
+in some way increase the situational
+awareness of the various elements you
+are either trying to increase the amount
+of information relevant information not
+just any information relevant
+information one element has about how
+their behavior impacts others other ways
+you can make things smarter if you adopt
+the complex adaptive system view is you
+create emerging platforms for
+decision-making you have to build cities
+where rather than trying to plan every
+single thing or our institutions you
+must allow for emerging platforms to to
+originate and I'll share examples of
+these leverage technologies is obviously
+important okay i'm not saying technology
+is not important but it's more important
+that the technologies are plug-and-play
+it's more important that the
+technologies of plug and play
+how many of you have done any reading on
+the Dreamliner Boeing's dreamline so if
+you think about that project okay it was
+a fairly complex undertaking actually
+its tail is a complex undertaking is not
+yet done and what did they want to do
+they they actually wanted to build the
+airplane with complete appreciation of
+complexity so on the one hand I have to
+go to them and say you guys are geniuses
+rather than Boeing designing the chairs
+or the TV screens or any other element
+of the airplane boeing went to the chair
+designers and said you know how to make
+chairs make the best chair you know how
+to make the best screens make the best
+screens and boeing assumed one thing
+that we all take for granted
+plug-and-play meaning all of these
+independent things will come together
+and Boing would assemble it kind of like
+how we build computers and it would fly
+as you know there's been a lot of
+problems with it but its approach is one
+where I recommend anybody who has any
+free time read about it because that's
+what's going to be required to really
+build smartest cities we have to think
+about how we enable for plug-and-play to
+happen today most cities do not have
+opportunities for citizens to plug their
+information in readily plug their
+devices in plug their ideas in and those
+that are making headway in those areas
+are struggling with what we do with
+those inputs ok so the plug-and-play
+aspect becomes very important and lastly
+if you really want to appreciate the
+whole
+call them up and lack of central control
+you really need to enable ways for those
+living in a city to actually actively
+participate in its construction
+maintenance implementations building so
+if you were to go home and ask yourself
+how many times did you actively
+participate in the design of your city
+how many instances how do you recall not
+that many none of most of us are passive
+residents we use our home we design our
+home we don't care about the next home
+right in a complex adaptive system model
+you can't do that you design your home
+and you design your home so well that
+you can zoom all the resources
+eventually a home is not going to be
+that good they take some time for that
+feedback to materialize so how do we
+enables citizens sorry to be active
+participants is so these are our
+imperatives that we are working off of
+as we try to conduct research and
+projects around smarter cities and
+organization so let me give you a few
+examples now in the interest of time I
+will not be able to get through every
+research project because I've chosen a
+few examples but I'd be glad to chat
+afterwards you can email me I have all
+the articles you can read them we can
+skype we can do a whole group of things
+so I apologize in advance if I don't get
+into the nitty gritties
+so I already know of Jennifers work
+around apps and mobile apps and
+everything so we also did a project
+while I was out of Virginia Tech we
+examined the whole group of apps as well
+and most if you see on this end there we
+go all of this stuff you will find apps
+in just about every aspect of what would
+be considered urban management policy or
+local government just about everything
+ok for example transparency and
+corruption let me just give you one
+example ok in India in one of the Megas
+in one country that as that has one of
+the highest growth rates of mega cities
+in the future corruption is very very
+high so a non-profit created an app it's
+called I PAB I paid a bribe to cool app
+you should go check it out so basically
+if you go into a government office or a
+public agency or you deal with any
+stable Sylvan and you pay a bribe to get
+a particular transaction completed you
+can go online and say I went to this
+agency I wanted to do this this is how
+much the bribe so it serves one you are
+reporting it plus two you don't want
+other people to pay more than the going
+rate so the going rate for this
+transaction is hundred rupees and you
+have an officer saying well give me 400
+you can say to them no look it's hundred
+they're going rate is hundred the the
+other reason why it's very important is
+if you went to the bank withdrew money
+right and then you went to do your
+transaction and the force and then
+accept money you can also report that so
+in India a non-profit constructed this
+you have apps so for example in
+transportation when I was at the
+University of Washington a few students
+that will join from the information
+school and computers x created the one
+bus away app okay where they basically
+took advantage of GPS data that's on
+buses so that you don't have to wait in
+the rain it's a very simple prom and
+they built an app so you have a whole
+collection of apps what we did was we
+wanted to see what were they doing and
+how were they being built and why most
+apps took advantage of either user feeds
+meaning like in the I paid a bribe that
+was a user feed app you have to input
+information in order to get any value
+from it or they took advantage of
+government data or a combination of the
+two most apps had goals that are noted
+there as we began to tease away at these
+apps we became very curious about one
+thing why would a portion develop an app
+how many of you have developed apps 12
+why did you develop your app was your
+motive motivation entertainment there
+was another hand somewhere up there that
+hand went away
+okay motivation entertainment what we
+found is basically this beep their role
+agencies that gave out little prizes
+that got individuals moving so for
+example the most notable one is the
+competition that was run in DC where
+they open up data and they gave our
+prizes small small amounts two thousand
+five thousand the other ones they were
+just civic activists that wanted to
+solve a problem and the third one we
+found a lot of developers who built the
+original app because they thought
+they're going to make money they were
+going to open a business open everything
+else unfortunately for a lot of those
+they haven't made money yet okay so we
+began this project as our first input
+and to try to understand how is the
+democratization of Technology how is it
+transforming things now a few things we
+found that are worth remembering now and
+I will build on this one how many of you
+have heard of the long tail effect no
+the long tail it's very true for apps
+what does that mean most apps most apps
+have very few users very few usage
+there's a long tail effect if you look
+at apps in general and especially apps
+around urban governance and let's use
+that work that basically captures all of
+this you always have a long tail number
+two the other thing we found and if you
+go on my website I have even copied of
+or not copy
+I have made available a few of our
+interview transcripts and then you can
+just read them we found a lot of
+competition among developers so if I'm
+developing an app to solve
+transportation and he's developing an
+app to solve transportation and he's
+developing an app and we might be a
+block away we are not talking to each
+other as a result as a result most app
+developers give up after the first
+failure there's no environments right
+now that are in place to promote lesson
+sharing knowledge sharing around app
+development for governance and I'm being
+very very specific around governance
+okay whereas if you look at other kinds
+of app development there are usergroups
+there are user Nets there are other
+platforms that are promoting exchanges
+so if you look at the biomedical
+community okay where a lot of the data
+is being made available open large-scale
+data there are forums for people to
+share in this place there's very little
+okay so we found a few interesting
+things that led us to this one so we so
+we looked at what US citizens doing and
+then we'll begin to tackle the issue of
+how is inputs translating into action
+okay how are any of these technologies
+actually making a difference and what we
+found is you can categorize most apps
+and platforms where you have citizens
+collaborating to solve urban governance
+problems in these four categories okay
+so the first one is where you have a
+group of locals titas ins coming
+together and their share
+bring citizen data on an issue ok so in
+Massachusetts as an example there's a
+group called local I can never say the
+name its local AC are a cy and any we
+want to try that local oversee local
+crazy whatever local a RC c 1 basically
+it's a group that just wanted it was 22
+citizens that wanted a platform for
+people to share ideas wart on them
+discuss them and then recommend them to
+the local government for implementation
+in example number two where you have a
+lot of development happening is where
+you have citizens that take advantage of
+open data so for example in the Bay Area
+ok there's an app called crime spotting
+it's a nap and a web-based platform
+crime sporting basically it was taking
+the police feed data to give residents
+of Oakland and then later on han
+francisco the ability to know crime data
+in their locality so if there's an
+incident how many incidences statistics
+on and so forth the really cool thing
+about that platform was and this is an
+important thing to remember as we think
+about interventions when the app was
+forced beginning to be developed the
+group had some discussions with the city
+government made sure that the data over
+was able to be imported everything else
+so on so forth the app became so popular
+that this
+city had more demand on its silvers and
+everything else and they decided to cut
+off the data feed city decided to say no
+no let's cut the data feed that lasted
+for about two weeks and then that will
+reopen the data feeling why am i sharing
+that example most of the literature
+around smart cities assumes we can just
+do this and it's no cost there are real
+resource costs if we want to make steady
+smarter when any of these apps start to
+be developed any of these platforms
+especially if you're relying on
+traditional agency resources to the
+average citizen they don't think about
+the implications they don't think about
+the demand and most agencies today are
+opening up their data and we will get to
+that most of them and we have
+interviewed a lot of them haven't
+thought about resource implications have
+not thought about resource implication
+the third one is at and I've thrown this
+up there pick up austin is a good
+example of the third model you see a lot
+of these now propping up where the
+government creates the platform and
+chitosan share information if you were
+to guess what's the big problem with
+this one is a big problem
+depends on perspective but close close
+people have to go there it's actually
+people have to go there and they do they
+throw out a lot of ideas all of you
+decide those ideas are wonderful he's at
+Capitol Hill or the city hall or
+whatever building and he thinks it's
+irrelevant what do what does he do does
+he still implement them does he ignore
+them does he respond to them and he's
+won everybody that provided an idea what
+do they want feedback he has to make a
+decision do I give feedback do I not
+give feedback if I give feedback or kind
+of feedback if I give feedback how does
+that interfere with the future contract
+bid if I give feedback can I enter into
+or can I get myself into a lawsuit so as
+a result I mean these are serious
+serious implications there's a lot these
+websites these platforms if you trace
+them you will see something early on
+Lord of activity a lot of activity why
+because it's being talked about in the
+news media there the this city may take
+out an ad in the local paper you have a
+momentum and a lot of titans and there's
+a beautiful book in which Clay Shirky
+talks about cognitive hopeless a lot of
+us want to change want to help something
+gentle we get energized and we
+contribute contribute contribute and
+then the black box
+the policy issue here is again
+technology very nice but if the city
+then give him three other people to
+respond you're gonna be in a lot of
+trouble because now you've just
+aggravated everybody government centric
+and state is a nap model is very common
+okay a lord of titties from Chicago to
+Boston have all tried that where they
+make data open available and they
+provide little incentives and we'll talk
+about why or the critical issues around
+those in a minute okay so open data
+which is related to the last one a lot
+of ladies are opening this up and as
+it's written right up there and I have
+interviewed state CIOs on this and
+steady CIOs how many of them actually
+have a plan that's why I call it it's
+cool you know it's become very very if
+you don't do it now this is where
+institutional theory comes in it's it's
+quite a nice thing if anybody wants to
+write their dissertation on today it's
+all about let's just keep up with the
+jones people are opening data because
+it's fashionable it's fashionable people
+may read to you all of the right things
+that they claim that open data will do
+like transparency accountability promote
+innovation promote this promote that
+they don't have a plan the flip side of
+doing that is wait and see
+and right now we have a lot of lot of
+data related issues that unfortunately
+are just going to get intensified down
+your talk about chief data officers one
+project we are embarking on right now
+how many ladies have a chief data
+officer how many cities have achieved it
+if you are a major company will you not
+have a post and in charge of your data
+if you're making it available especially
+if you're making it available how many
+cities have achieved an officer time
+Francisco is trying to get one it's
+trying to get on the last year towards
+uh I want to say October they try to
+release a new open data policy blah blah
+blah the reason being without dedicated
+resources there's no guarantee data is
+protected one most of the data being
+made open okay he's being made open
+under the assumption there's no
+individual harm done to anybody okay
+after the gun shooting we saw what
+happens with open data where maps were
+made there's no security there's there's
+a lot of issues then again if you don't
+think about them from technology is not
+the problem okay so I just want to get
+okay so the other things cities are
+doing which I'll wrap up for it is is it
+doing a lot of challenges and
+competitions take a minute to choose any
+two coats and just read them and pretty
+much make my point and these are
+extracted directly from managers that
+have ran competitions to make this
+cities or towns smarter and they have
+open data and given you notice something
+there's a huge disconnect in the two
+groups huge and these are people who
+actually won imagine those that lost
+managers have won mental schema when
+they're trying to make apps platforms
+data every all of these things available
+and those are the things up the people
+who actually do stuff like this we
+already talked about this one so again
+there's a lot of policy and governance
+issues that go beyond just having cool
+technologies in the interest of time
+months I'll just rush you through this
+one very quickly the key point that I
+want to leave you with is technology
+without governance and policy if you're
+not going to get anything smarter this
+is an example of what agencies are
+trying to do with technology today and
+the numbers speak for themselves over
+three billion not done blah blah blah
+okay I hate to it end on such depressing
+but in the duration of the project see
+how many CIOs were changed every year
+the government kept coming up write a
+report and trust me on this even if you
+can't read them it was the same thing
+here in your after and we still spend
+billions and billions of dollars on
+technology bottom line we took open data
+and this is very similar to anything if
+you just look at technology and smart
+you begin with people talking with high
+confidence and high sentiment and then
+over time you notice the decline and
+these were from just analyzing press
+releases
+doing traditional text mining when these
+projects begin people have it's going to
+change the wall and I completely believe
+it as a project progresses I don't think
+it's going to change the world but I
+hope it doesn't harm the world and I
+don't believe it okay so with this I'll
+end I'll just leave this up but
+basically bottom line being our take on
+Smart City design and planning is
+technology is absolutely wonderful but
+if you don't account for everything else
+around the technology from a complex
+systems point of view you're never going
+to make any headway in this and there
+are a few ways i recommend that we do
+this
+mm-hmm so right away oh right so I think
+these three elements or these three
+design considerations need to be
+critical rather than thinking of
+designing something so probably the best
+way to thing about is I call it the
+Google way everything is in beta
+everything is always in beta right we
+have to take that approach we every time
+that I speak to people designing stuff
+okay they want the end product they they
+they want it to be version 1 or version
+whereas if you assume everything is
+designed as beta and through constant
+feedback you'll eventually extend it
+make it more flexible I think you have a
+better chance is it easy to do
+absolutely not but at least what we are
+trying to do is we are trying to launch
+platform so at ASU we have a platform
+and it's done in collaboration with it
+Ashok has change makers where it's an
+ideation platform and every I guess it's
+every four months or so we keep
+iterating with the feedback we get and
+we're trying to learn and Regina so
+rather than saying this is the platform
+and then and we are involving our users
+in in the next iterations so it's a
+different way and especially if you're
+talking about smart cities in order to
+do that you need citizens to be active
+players in the design process rather
+than just recipients of it which
+requires interventions on the policy
+side
+you
+you

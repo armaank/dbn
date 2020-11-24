@@ -1,0 +1,1612 @@
+{'text': "so welcome everyone to tonight's lecture", 'start': 5.75, 'duration': 5.53}
+{'text': "from Vela we've been looking at viola", 'start': 8.1, 'duration': 6.749}
+{'text': 'around all year as along with cañizares', 'start': 11.28, 'duration': 5.58}
+{'text': 'one of our associates visiting', 'start': 14.849, 'duration': 4.02}
+{'text': 'professors bill and gala have been', 'start': 16.86, 'duration': 3.6}
+{'text': 'directing the non-stop schedule at', 'start': 18.869, 'duration': 3.96}
+{'text': 'workshops talks soon and exhibition not', 'start': 20.46, 'duration': 3.84}
+{'text': 'so soon a conference and tonight a', 'start': 22.829, 'duration': 3.171}
+{'text': 'lecture all under the banner of', 'start': 24.3, 'duration': 3.84}
+{'text': 'interferences a project that seeks to', 'start': 26.0, 'duration': 3.91}
+{'text': 'reframe and disrupt the contemporary', 'start': 28.14, 'duration': 4.619}
+{'text': 'discourses in digital design now you', 'start': 29.91, 'duration': 4.559}
+{'text': 'probably know this already because', 'start': 32.759, 'duration': 3.601}
+{'text': "you've been perhaps a part of one of the", 'start': 34.469, 'duration': 4.531}
+{'text': 'studios viola this pot here which in', 'start': 36.36, 'duration': 4.53}
+{'text': 'reductively simple terms has attempted', 'start': 39.0, 'duration': 3.51}
+{'text': "to set up a series of inflation's", 'start': 40.89, 'duration': 3.84}
+{'text': 'between volumes and graphics or you', 'start': 42.51, 'duration': 3.299}
+{'text': 'already know this because you', 'start': 44.73, 'duration': 2.879}
+{'text': 'participated in long workshops deal with', 'start': 45.809, 'duration': 3.57}
+{'text': 'has organized examining augmented', 'start': 47.609, 'duration': 3.3}
+{'text': 'reality and experimental image', 'start': 49.379, 'duration': 3.48}
+{'text': 'transferring techniques or you already', 'start': 50.909, 'duration': 4.351}
+{'text': "know this because you've seen any number", 'start': 52.859, 'duration': 4.261}
+{'text': 'of the recent large-scale installations', 'start': 55.26, 'duration': 3.989}
+{'text': 'developed by viola along with monstrous', 'start': 57.12, 'duration': 4.559}
+{'text': 'activity nd Museum in Los Angeles at', 'start': 59.249, 'duration': 4.65}
+{'text': 'Park Bomi in New York and Gracie', 'start': 61.679, 'duration': 4.371}
+{'text': 'in Columbus Indiana for the 2019', 'start': 63.899, 'duration': 6.211}
+{'text': 'iteration of exhibit Columbus so if I', 'start': 66.05, 'duration': 5.17}
+{'text': 'can just assume that you already know', 'start': 70.11, 'duration': 3.06}
+{'text': 'viola or at least you know her work or', 'start': 71.22, 'duration': 3.78}
+{'text': "at least you're about to instead I would", 'start': 73.17, 'duration': 3.72}
+{'text': 'just provide a very brief comment about', 'start': 75.0, 'duration': 3.66}
+{'text': "one particular aspect or work that's", 'start': 76.89, 'duration': 3.27}
+{'text': 'both extremely interesting and I think', 'start': 78.66, 'duration': 5.21}
+{'text': 'indispensable for the school at large so', 'start': 80.16, 'duration': 5.91}
+{'text': 'this is', 'start': 83.87, 'duration': 5.59}
+{'text': 'and I use reading I guess one way to', 'start': 86.07, 'duration': 6.72}
+{'text': 'describe what viola does is as an', 'start': 89.46, 'duration': 4.74}
+{'text': 'attempt to orchestrate something that I', 'start': 92.79, 'duration': 4.35}
+{'text': 'would call a non total design process by', 'start': 94.2, 'duration': 4.8}
+{'text': 'non total I mean to say that violas work', 'start': 97.14, 'duration': 3.15}
+{'text': 'involves the invention of design', 'start': 99.0, 'duration': 3.24}
+{'text': 'processes that seem to deliberately fail', 'start': 100.29, 'duration': 3.66}
+{'text': 'to circumscribe the entirety of a', 'start': 102.24, 'duration': 4.2}
+{'text': "project's narrative you can see this in", 'start': 103.95, 'duration': 4.26}
+{'text': 'surface based image experiments like', 'start': 106.44, 'duration': 3.9}
+{'text': 'catching or screen printing the rapid', 'start': 108.21, 'duration': 4.29}
+{'text': 'supported volumes whose formal objects', 'start': 110.34, 'duration': 4.23}
+{'text': 'are derived elsewhere you can see this', 'start': 112.5, 'duration': 3.84}
+{'text': 'in experimental material fabrication', 'start': 114.57, 'duration': 3.81}
+{'text': 'processes like robotic hydro dipping in', 'start': 116.34, 'duration': 3.87}
+{'text': 'which the precision of CNC scripted', 'start': 118.38, 'duration': 3.75}
+{'text': 'movements inevitably fails to account', 'start': 120.21, 'duration': 4.47}
+{'text': 'for unpredictable fluid dynamics or you', 'start': 122.13, 'duration': 4.02}
+{'text': 'can see this in the general methodology', 'start': 124.68, 'duration': 3.9}
+{'text': 'in which the blind spots of standard', 'start': 126.15, 'duration': 32.64}
+{'text': 'software in the novel project becomes a', 'start': 128.58, 'duration': 31.86}
+{'text': 'radical proposition of computational', 'start': 158.79, 'duration': 3.81}
+{'text': 'architecture itself we should remember', 'start': 160.44, 'duration': 3.329}
+{'text': 'one one of the underlying', 'start': 162.6, 'duration': 3.15}
+{'text': 'characteristics of any computer is that', 'start': 163.769, 'duration': 4.561}
+{'text': 'it requires a reality to operate in that', 'start': 165.75, 'duration': 4.11}
+{'text': 'is on a certain fundamental level', 'start': 168.33, 'duration': 2.67}
+{'text': 'computable', 'start': 169.86, 'duration': 2.46}
+{'text': 'and the more computable the human', 'start': 171.0, 'duration': 3.39}
+{'text': 'reality is the more useful its computers', 'start': 172.32, 'duration': 4.53}
+{'text': 'become now this principle suggests that', 'start': 174.39, 'duration': 3.84}
+{'text': 'perhaps the enduring narrative of the', 'start': 176.85, 'duration': 3.09}
+{'text': "computational architecture shouldn't so", 'start': 178.23, 'duration': 3.45}
+{'text': 'much be the story of people trying to', 'start': 179.94, 'duration': 3.12}
+{'text': 'figure out how to make architecture with', 'start': 181.68, 'duration': 3.39}
+{'text': 'computers but rather this little process', 'start': 183.06, 'duration': 3.84}
+{'text': 'of rendering of architecture computable', 'start': 185.07, 'duration': 4.02}
+{'text': 'in the first place this is a story that', 'start': 186.9, 'duration': 3.87}
+{'text': 'provides us with contemporary building', 'start': 189.09, 'duration': 3.24}
+{'text': 'information management platforms like', 'start': 190.77, 'duration': 3.51}
+{'text': "Revit we're seemingly disparate concerns", 'start': 192.33, 'duration': 3.84}
+{'text': 'such as global commodity supply chains', 'start': 194.28, 'duration': 4.05}
+{'text': 'and wall sections and the performance of', 'start': 196.17, 'duration': 3.69}
+{'text': 'the Sun are all rendered mutually', 'start': 198.33, 'duration': 3.39}
+{'text': "computable it's a story that lurks", 'start': 199.86, 'duration': 3.09}
+{'text': 'somewhere beneath any of the recent', 'start': 201.72, 'duration': 3.18}
+{'text': 'innovations in digital fabrication that', 'start': 202.95, 'duration': 3.21}
+{'text': 'promise an ever more predictable', 'start': 204.9, 'duration': 2.82}
+{'text': 'fidelity in the translation from', 'start': 206.16, 'duration': 3.57}
+{'text': "information to matter and it's an", 'start': 207.72, 'duration': 3.78}
+{'text': 'explicit narrative of parametric isms', 'start': 209.73, 'duration': 3.9}
+{'text': 'total and totalitarian ambition for a', 'start': 211.5, 'duration': 3.75}
+{'text': 'computable threads direction between the', 'start': 213.63, 'duration': 3.18}
+{'text': 'smallest architectural detail on one', 'start': 215.25, 'duration': 4.29}
+{'text': 'hand and planet Earth on the other so', 'start': 216.81, 'duration': 4.08}
+{'text': 'with the disciplines long dream of a', 'start': 219.54, 'duration': 3.419}
+{'text': 'totally computable architecture and in', 'start': 220.89, 'duration': 3.87}
+{'text': 'fact a totally computable reality is its', 'start': 222.959, 'duration': 3.931}
+{'text': 'historical backdrop the OEL is playing', 'start': 224.76, 'duration': 3.99}
+{'text': 'out of non total digital processes', 'start': 226.89, 'duration': 3.48}
+{'text': 'serves as a kind of short-circuiting of', 'start': 228.75, 'duration': 3.24}
+{'text': 'the underlying politics of the computer', 'start': 230.37, 'duration': 3.75}
+{'text': 'itself the images that fail to resolve', 'start': 231.99, 'duration': 4.469}
+{'text': 'their supporting structures in software', 'start': 234.12, 'duration': 3.81}
+{'text': 'platforms that fail to speak each', 'start': 236.459, 'duration': 3.391}
+{'text': "other's languages of robots that fall", 'start': 237.93, 'duration': 3.63}
+{'text': 'short of anticipating the intricate ways', 'start': 239.85, 'duration': 3.419}
+{'text': 'in which was a floating graphic drifts', 'start': 241.56, 'duration': 2.79}
+{'text': 'across a pool of water', 'start': 243.269, 'duration': 3.241}
+{'text': 'violas work returns the limits of', 'start': 244.35, 'duration': 3.84}
+{'text': 'computation or the edges of the', 'start': 246.51, 'duration': 4.02}
+{'text': 'computable processes into scenarios that', 'start': 248.19, 'duration': 4.71}
+{'text': 'undermine our perceptual faculties and', 'start': 250.53, 'duration': 3.929}
+{'text': 'encountering these difficulties of', 'start': 252.9, 'duration': 3.149}
+{'text': "perception we're perhaps showing a", 'start': 254.459, 'duration': 3.06}
+{'text': 'version of the world has made a bit more', 'start': 256.049, 'duration': 3.261}
+{'text': 'difficult to compute', 'start': 257.519, 'duration': 3.921}
+{'text': 'versions of ourselves as slightly less', 'start': 259.31, 'duration': 9.78}
+{'text': 'total computers that was actually the', 'start': 261.44, 'duration': 8.97}
+{'text': "entire lecture I'm just gonna follow", 'start': 269.09, 'duration': 3.42}
+{'text': "that up we'll see with some images thank", 'start': 270.41, 'duration': 5.82}
+{'text': 'you okay hello everyone and thank you so', 'start': 272.51, 'duration': 5.79}
+{'text': 'much for coming again thank you for this', 'start': 276.23, 'duration': 3.77}
+{'text': 'for the very generous introduction', 'start': 278.3, 'duration': 3.99}
+{'text': 'further thanks to Chris yeah students', 'start': 280.0, 'duration': 3.88}
+{'text': 'for making this project possible', 'start': 282.29, 'duration': 2.879}
+{'text': '[Music]', 'start': 283.88, 'duration': 2.819}
+{'text': 'thanks of course to the school and my', 'start': 285.169, 'duration': 3.33}
+{'text': 'colleagues to support friendship over', 'start': 286.699, 'duration': 3.08}
+{'text': "the last few months that I've been here", 'start': 288.499, 'duration': 3.6}
+{'text': 'just to quickly update you on our', 'start': 289.779, 'duration': 4.45}
+{'text': 'two-year project so far I love and I', 'start': 292.099, 'duration': 3.991}
+{'text': 'have successfully writing for workshops', 'start': 294.229, 'duration': 3.481}
+{'text': 'with the participation of yelps and', 'start': 296.09, 'duration': 4.65}
+{'text': 'fantastic student body in our invited', 'start': 297.71, 'duration': 5.069}
+{'text': "workshop leaders I'm delivering the", 'start': 300.74, 'duration': 4.35}
+{'text': 'first lecture in our series gala will be', 'start': 302.779, 'duration': 4.17}
+{'text': 'delivering a similar talk next semester', 'start': 305.09, 'duration': 4.889}
+{'text': "we're also planning exhibitions of our", 'start': 306.949, 'duration': 4.56}
+{'text': 'respective research projects in the', 'start': 309.979, 'duration': 3.66}
+{'text': 'member gallery next year and a companion', 'start': 311.509, 'duration': 4.891}
+{'text': "symposium that's all in the planning", 'start': 313.639, 'duration': 3.761}
+{'text': 'stages', 'start': 316.4, 'duration': 2.769}
+{'text': "don't write that down but many more", 'start': 317.4, 'duration': 2.94}
+{'text': 'exciting things to come in the near', 'start': 319.169, 'duration': 1.821}
+{'text': 'future', 'start': 320.34, 'duration': 4.26}
+{'text': 'okay so we talks today titled assemblies', 'start': 320.99, 'duration': 5.679}
+{'text': 'on volumes and graphics I want to', 'start': 324.6, 'duration': 4.08}
+{'text': 'demonstrate that through a paper focus', 'start': 326.669, 'duration': 4.141}
+{'text': 'research project one can derive the', 'start': 328.68, 'duration': 3.87}
+{'text': 'thesis about architectural culture at', 'start': 330.81, 'duration': 2.46}
+{'text': 'large', 'start': 332.55, 'duration': 3.179}
+{'text': 'the simplest hidding refers to a kind of', 'start': 333.27, 'duration': 4.59}
+{'text': 'current mood of collective thinking and', 'start': 335.729, 'duration': 3.81}
+{'text': 'contemporary design that has to do with', 'start': 337.86, 'duration': 3.72}
+{'text': 'the collapse of representational issues', 'start': 339.539, 'duration': 5.281}
+{'text': 'and digital fabrication the volumetric', 'start': 341.58, 'duration': 5.459}
+{'text': 'in Grafton concurrently are kind of the', 'start': 344.82, 'duration': 4.11}
+{'text': 'excuse to focus these more abstract', 'start': 347.039, 'duration': 4.861}
+{'text': 'concerns on a series of design exercises', 'start': 348.93, 'duration': 5.1}
+{'text': 'it should go without saying that is a', 'start': 351.9, 'duration': 4.5}
+{'text': 'designer I begin with visual issues and', 'start': 354.03, 'duration': 3.84}
+{'text': 'the premise that geometry is an', 'start': 356.4, 'duration': 3.36}
+{'text': 'expressive language capable of', 'start': 357.87, 'duration': 5.12}
+{'text': 'articulating more theoretical concerns I', 'start': 359.76, 'duration': 5.31}
+{'text': 'wanted to put a few disciplinary', 'start': 362.99, 'duration': 4.239}
+{'text': 'questions on the table with us top now I', 'start': 365.07, 'duration': 3.81}
+{'text': 'wanted to show design work and research', 'start': 367.229, 'duration': 3.75}
+{'text': 'so you can probably think of this is', 'start': 368.88, 'duration': 3.93}
+{'text': 'somewhere between a lecture and a', 'start': 370.979, 'duration': 4.051}
+{'text': 'discussion in the bracing work I will', 'start': 372.81, 'duration': 3.84}
+{'text': 'start off with a paper short great', 'start': 375.03, 'duration': 3.9}
+{'text': 'biographical narrative talking about the', 'start': 376.65, 'duration': 3.2}
+{'text': 'past', 'start': 378.93, 'duration': 3.17}
+{'text': 'to get here then I want to go through', 'start': 379.85, 'duration': 4.05}
+{'text': 'the reticle argument that will serve as', 'start': 382.1, 'duration': 3.96}
+{'text': 'a conceptual framework for the images of', 'start': 383.9, 'duration': 4.08}
+{'text': 'it with images from an air and their', 'start': 386.06, 'duration': 5.46}
+{'text': "project that's I got looks it looks at", 'start': 387.98, 'duration': 5.25}
+{'text': 'the contemporary status of digital tools', 'start': 391.52, 'duration': 3.63}
+{'text': 'in architecture it suggests a few', 'start': 393.23, 'duration': 4.13}
+{'text': 'questions a few key questions for', 'start': 395.15, 'duration': 5.609}
+{'text': 'aesthetic discourse and digital design', 'start': 397.36, 'duration': 5.35}
+{'text': 'then fast forward to now and you get two', 'start': 400.759, 'duration': 5.181}
+{'text': 'recent projects one', 'start': 402.71, 'duration': 5.39}
+{'text': 'I want to talk about those projects', 'start': 405.94, 'duration': 4.11}
+{'text': 'through the lens of some design theory', 'start': 408.1, 'duration': 4.11}
+{'text': 'conserving the contemporary conceptual', 'start': 410.05, 'duration': 4.14}
+{'text': 'landscape of architects using digital', 'start': 412.21, 'duration': 4.23}
+{'text': 'tools and fabrication processes to', 'start': 414.19, 'duration': 5.01}
+{'text': 'explore geometric organizations and', 'start': 416.44, 'duration': 4.59}
+{'text': 'lastly I will end with a series of', 'start': 419.2, 'duration': 3.51}
+{'text': 'projects that are more in the realm of', 'start': 421.03, 'duration': 3.84}
+{'text': 'pure research training workshops', 'start': 422.71, 'duration': 3.84}
+{'text': 'experiments in the studio and my', 'start': 424.87, 'duration': 3.12}
+{'text': "personal work that I've been doing here", 'start': 426.55, 'duration': 3.95}
+{'text': 'at Milton', 'start': 427.99, 'duration': 2.51}
+{'text': 'sure', 'start': 431.27, 'duration': 3.0}
+{'text': 'deeply enmeshed and the design culture', 'start': 436.12, 'duration': 3.06}
+{'text': 'cup city', 'start': 438.13, 'duration': 3.18}
+{'text': 'shortly after school I worked at', 'start': 439.18, 'duration': 5.16}
+{'text': 'purposes for a few formative years these', 'start': 441.31, 'duration': 4.71}
+{'text': 'are three projects that contributed to', 'start': 444.34, 'duration': 3.99}
+{'text': 'the most during my time there I was', 'start': 446.02, 'duration': 4.26}
+{'text': 'quite lucky as to these projects are', 'start': 448.33, 'duration': 4.47}
+{'text': 'actually built which can be sometimes', 'start': 450.28, 'duration': 4.32}
+{'text': 'rare when you work in an experimental', 'start': 452.8, 'duration': 5.46}
+{'text': 'design focus for my purposes', 'start': 454.6, 'duration': 5.58}
+{'text': 'I was also very fortunate to be a little', 'start': 458.26, 'duration': 4.459}
+{'text': 'computation and advanced technology', 'start': 460.18, 'duration': 4.339}
+{'text': 'there were four buds they are the time', 'start': 462.719, 'duration': 4.29}
+{'text': 'for women actually who primarily worked', 'start': 464.519, 'duration': 4.77}
+{'text': 'on the design of facades and a true', 'start': 467.009, 'duration': 4.47}
+{'text': 'spaces for all the projects that will go', 'start': 469.289, 'duration': 4.211}
+{'text': 'through the office', 'start': 471.479, 'duration': 4.031}
+{'text': 'in the very limited time that I had', 'start': 473.5, 'duration': 4.74}
+{'text': 'outside the office I was also working in', 'start': 475.51, 'duration': 6.56}
+{'text': 'these multi-layered information', 'start': 478.24, 'duration': 3.83}
+{'text': '[Music]', 'start': 484.49, 'duration': 3.7}
+{'text': 'I was really interested in', 'start': 486.11, 'duration': 5.34}
+{'text': "they're based information", 'start': 488.19, 'duration': 3.26}
+{'text': 'making these drawings over that was', 'start': 492.32, 'duration': 4.13}
+{'text': 'strange Lina and', 'start': 494.79, 'duration': 4.789}
+{'text': '[Music]', 'start': 496.45, 'duration': 3.129}
+{'text': 'patience which are typically only used', 'start': 500.55, 'duration': 3.99}
+{'text': 'for CD set to prototyping and', 'start': 502.74, 'duration': 3.27}
+{'text': 'fabrication and other construction', 'start': 504.54, 'duration': 4.32}
+{'text': 'related phases in these works I was', 'start': 506.01, 'duration': 4.5}
+{'text': 'interested in these legislation of that', 'start': 508.86, 'duration': 5.43}
+{'text': 'information as a visual exercise so', 'start': 510.51, 'duration': 5.7}
+{'text': 'working in LA I was clearly caught', 'start': 514.29, 'duration': 4.17}
+{'text': 'between two worlds as many of us are', 'start': 516.21, 'duration': 4.02}
+{'text': 'when we deeply care about architecture', 'start': 518.46, 'duration': 3.48}
+{'text': 'but need to establish ourselves as', 'start': 520.23, 'duration': 4.23}
+{'text': 'emergent practitioners I was in this', 'start': 521.94, 'duration': 4.44}
+{'text': 'very intense environment of computation', 'start': 524.46, 'duration': 4.74}
+{'text': 'investment digital tools knows deeply', 'start': 526.38, 'duration': 4.29}
+{'text': 'invested and how they would lead to', 'start': 529.2, 'duration': 4.14}
+{'text': 'practice but it was also still very much', 'start': 530.67, 'duration': 4.98}
+{'text': 'engaged with experimental visual work so', 'start': 533.34, 'duration': 3.69}
+{'text': "I hadn't nourished a question that stuck", 'start': 535.65, 'duration': 2.66}
+{'text': 'the paradox', 'start': 537.03, 'duration': 4.71}
+{'text': "okay so here's ready to set up in top", 'start': 538.31, 'duration': 5.53}
+{'text': 'and one question that I would like to', 'start': 541.74, 'duration': 4.9}
+{'text': 'offer us something to struggle with', 'start': 543.84, 'duration': 5.02}
+{'text': 'the emergence of visual programming and', 'start': 546.64, 'duration': 3.949}
+{'text': 'object-oriented programming paradigms', 'start': 548.86, 'duration': 4.11}
+{'text': 'open-source computing other accessible', 'start': 550.589, 'duration': 5.321}
+{'text': 'platforms proliferated or just between', 'start': 552.97, 'duration': 5.1}
+{'text': "up pretty high ways so here's a simple", 'start': 555.91, 'duration': 5.31}
+{'text': 'google image search of projects frequent', 'start': 558.07, 'duration': 5.639}
+{'text': 'keywords digital design and architecture', 'start': 561.22, 'duration': 4.5}
+{'text': 'so starting off as a scientific', 'start': 563.709, 'duration': 4.141}
+{'text': 'exploration the emergence of code weight', 'start': 565.72, 'duration': 4.47}
+{'text': 'code base design and digital design in', 'start': 567.85, 'duration': 4.14}
+{'text': 'architecture did not really work you', 'start': 570.19, 'duration': 3.36}
+{'text': 'parallel with other other critical', 'start': 571.99, 'duration': 3.81}
+{'text': 'frames of reference so in other words', 'start': 573.55, 'duration': 3.93}
+{'text': 'they did not engage with the discipline', 'start': 575.8, 'duration': 3.81}
+{'text': 'in meaningful aesthetic spatial or', 'start': 577.48, 'duration': 5.07}
+{'text': 'visual visually focused registers and', 'start': 579.61, 'duration': 4.409}
+{'text': 'you had developed a particular style', 'start': 582.55, 'duration': 2.909}
+{'text': 'brain that is currently very', 'start': 584.019, 'duration': 4.021}
+{'text': 'recognizable as such that kind of', 'start': 585.459, 'duration': 4.831}
+{'text': 'isolated and even hermetic mode of', 'start': 588.04, 'duration': 4.5}
+{'text': 'thinking can be intuitive and image', 'start': 590.29, 'duration': 6.03}
+{'text': 'spreads like this one here but this', 'start': 592.54, 'duration': 6.239}
+{'text': 'paradox is intense in unison we see code', 'start': 596.32, 'duration': 4.44}
+{'text': 'base design actually has president and', 'start': 598.779, 'duration': 4.061}
+{'text': 'visual art theory', 'start': 600.76, 'duration': 4.72}
+{'text': 'famous article systems effects our', 'start': 602.84, 'duration': 4.5}
+{'text': 'theories Jack Brennan addressed the', 'start': 605.48, 'duration': 3.7}
+{'text': 'influence of tech', 'start': 607.34, 'duration': 4.07}
+{'text': 'interferences with the advanced part of', 'start': 609.18, 'duration': 4.45}
+{'text': 'his moment he attempted to illustrate', 'start': 611.41, 'duration': 4.049}
+{'text': 'the cultural transition structured by', 'start': 613.63, 'duration': 4.199}
+{'text': 'the influx of technology but looking at', 'start': 615.459, 'duration': 4.201}
+{'text': 'minimal minimal in conceptual art and', 'start': 617.829, 'duration': 4.62}
+{'text': "it's varied actions he argued that the", 'start': 619.66, 'duration': 4.65}
+{'text': 'technological transition could be', 'start': 622.449, 'duration': 3.301}
+{'text': 'thought of as moving from object', 'start': 624.31, 'duration': 3.63}
+{'text': 'oriented to systems oriented ways of', 'start': 625.75, 'duration': 4.74}
+{'text': 'thinking and seeing in other words he', 'start': 627.94, 'duration': 4.56}
+{'text': 'senses shifts in interest from sames', 'start': 630.49, 'duration': 4.23}
+{'text': 'themselves to the way that things are', 'start': 632.5, 'duration': 4.11}
+{'text': 'maybe it should be clear that this is', 'start': 634.72, 'duration': 4.38}
+{'text': 'not like art that glorifies technology', 'start': 636.61, 'duration': 3.74}
+{'text': 'per se', 'start': 639.1, 'duration': 3.63}
+{'text': 'Burnham argued that the modernist sudden', 'start': 640.35, 'duration': 4.239}
+{'text': 'impulse needs to actively participate', 'start': 642.73, 'duration': 4.349}
+{'text': 'and relate to technological means of', 'start': 644.589, 'duration': 4.92}
+{'text': 'research in production fair enough', 'start': 647.079, 'duration': 4.341}
+{'text': 'but architects may be too comfortable', 'start': 649.509, 'duration': 4.231}
+{'text': 'with this way of thinking at this', 'start': 651.42, 'duration': 3.6}
+{'text': 'present', 'start': 653.74, 'duration': 3.26}
+{'text': 'so one could argue that in our present', 'start': 655.02, 'duration': 3.45}
+{'text': 'condition in the wind type of', 'start': 657.0, 'duration': 2.97}
+{'text': 'computation for out the speaking', 'start': 658.47, 'duration': 3.96}
+{'text': 'privileges the pseudo-scientific project', 'start': 659.97, 'duration': 4.68}
+{'text': 'and oftentimes lacks integration with', 'start': 662.43, 'duration': 3.75}
+{'text': 'platforms related to other visual', 'start': 664.65, 'duration': 3.69}
+{'text': 'cultures so there was a growing very', 'start': 666.18, 'duration': 5.51}
+{'text': 'problematic cultural resonance play I', 'start': 668.34, 'duration': 6.45}
+{'text': 'think we went through a serious face of', 'start': 671.69, 'duration': 5.56}
+{'text': 'widespread anxiety and frenzy after the', 'start': 674.79, 'duration': 4.71}
+{'text': 'first digital turn in architecture maybe', 'start': 677.25, 'duration': 4.62}
+{'text': "we haven't recovered yet so there's been", 'start': 679.5, 'duration': 4.02}
+{'text': 'a lot of speculation confusion my', 'start': 681.87, 'duration': 3.03}
+{'text': 'opinion has our cadets try to', 'start': 683.52, 'duration': 3.3}
+{'text': 'renegotiate a healthy relationship with', 'start': 684.9, 'duration': 4.26}
+{'text': 'additional tools of software I mean', 'start': 686.82, 'duration': 3.51}
+{'text': "we're still going through the transition", 'start': 689.16, 'duration': 3.69}
+{'text': "however I think we're at least past the", 'start': 690.33, 'duration': 3.96}
+{'text': 'adolescent years in that relationship', 'start': 692.85, 'duration': 3.39}
+{'text': 'and canary engage in that conversation', 'start': 694.29, 'duration': 7.29}
+{'text': 'in our productive ways in my own', 'start': 696.24, 'duration': 7.23}
+{'text': 'reinstallation with a digital drink', 'start': 701.58, 'duration': 4.02}
+{'text': 'during my time in practice and currently', 'start': 703.47, 'duration': 4.35}
+{'text': 'I started to look at Mel Joaquin Osteria', 'start': 705.6, 'duration': 4.95}
+{'text': 'attitude for alternatives the critique I', 'start': 707.82, 'duration': 3.829}
+{'text': 'presented so far', 'start': 710.55, 'duration': 3.18}
+{'text': 'spanning sort of over the last 10 years', 'start': 711.649, 'duration': 4.81}
+{'text': 'of summit design if one we new styles', 'start': 713.73, 'duration': 4.71}
+{'text': 'have been developing passively even', 'start': 716.459, 'duration': 4.651}
+{'text': 'accidentally it seems to be a kind of', 'start': 718.44, 'duration': 5.459}
+{'text': 'style for in both camps actually this is', 'start': 721.11, 'duration': 4.83}
+{'text': 'the history here you driven designers', 'start': 723.899, 'duration': 4.291}
+{'text': 'and the algorithmic ones are the digital', 'start': 725.94, 'duration': 5.13}
+{'text': "processing one but it's refreshing to", 'start': 728.19, 'duration': 4.29}
+{'text': 'read Burnham and Mel Bob never talked', 'start': 731.07, 'duration': 4.139}
+{'text': 'about the 70s in similar terms in his', 'start': 732.48, 'duration': 5.82}
+{'text': 'essay dr. Hart in serial order is a', 'start': 735.209, 'duration': 5.551}
+{'text': 'method and not a style I found this to', 'start': 738.3, 'duration': 4.5}
+{'text': 'be encouraging to read about the time', 'start': 740.76, 'duration': 3.63}
+{'text': 'when the discipline of art was looking', 'start': 742.8, 'duration': 3.39}
+{'text': 'to withdraw from associations of style', 'start': 744.39, 'duration': 4.83}
+{'text': 'or maybe redefine it maybe systems can', 'start': 746.19, 'duration': 6.26}
+{'text': 'be styles and styles can be system', 'start': 749.22, 'duration': 6.08}
+{'text': 'see reality has to find my back there is', 'start': 752.45, 'duration': 5.79}
+{'text': 'a recurring theme in my work as a broad', 'start': 755.3, 'duration': 5.969}
+{'text': 'term it generally defines as a number of', 'start': 758.24, 'duration': 5.07}
+{'text': 'similar or related things that are', 'start': 761.269, 'duration': 4.411}
+{'text': 'structured and sub sorted sequence for', 'start': 763.31, 'duration': 4.469}
+{'text': 'bottner see reality is concerned with', 'start': 765.68, 'duration': 3.899}
+{'text': 'the order of things and not move their', 'start': 767.779, 'duration': 4.11}
+{'text': 'execution so he goes to step further car', 'start': 769.579, 'duration': 6.661}
+{'text': 'burners burn under clear proposition he', 'start': 771.889, 'duration': 6.121}
+{'text': 'further illustrated the significance of', 'start': 776.24, 'duration': 3.839}
+{'text': 'this mode of thinking by separating it', 'start': 778.01, 'duration': 4.62}
+{'text': 'into two types artists at simply mark a', 'start': 780.079, 'duration': 4.471}
+{'text': 'series and car does that embed the', 'start': 782.63, 'duration': 4.319}
+{'text': 'series space methodology within one word', 'start': 784.55, 'duration': 4.8}
+{'text': 'I had to keep working the latter one for', 'start': 786.949, 'duration': 4.44}
+{'text': "example so here's what that looks like", 'start': 789.35, 'duration': 3.87}
+{'text': 'they hope you find this as productive', 'start': 791.389, 'duration': 3.821}
+{'text': 'any relevant as I do', 'start': 793.22, 'duration': 3.67}
+{'text': 'this is a group of bullying Dickens', 'start': 795.21, 'duration': 4.74}
+{'text': 'women de Kooning women seven of them', 'start': 796.89, 'duration': 4.56}
+{'text': "among many many where I think it's in", 'start': 799.95, 'duration': 2.48}
+{'text': 'the hundreds', 'start': 801.45, 'duration': 3.3}
+{'text': "according to about their de Kooning's", 'start': 802.43, 'duration': 4.69}
+{'text': 'investigation exemplifies our that is', 'start': 804.75, 'duration': 4.17}
+{'text': 'based on a theme with different', 'start': 807.12, 'duration': 2.58}
+{'text': 'variations', 'start': 808.92, 'duration': 3.63}
+{'text': 'de Kooning lead at the same subject was', 'start': 809.7, 'duration': 4.74}
+{'text': 'like deviations each time therefore', 'start': 812.55, 'duration': 4.38}
+{'text': 'creating a body of or related to in this', 'start': 814.44, 'duration': 5.31}
+{'text': "case abstract expressionism so we're in", 'start': 816.93, 'duration': 5.76}
+{'text': 'the realm of sigh of the ER Jasper Johns', 'start': 819.75, 'duration': 4.52}
+{'text': "on the other hand they've done the right", 'start': 822.69, 'duration': 3.54}
+{'text': 'operated with simple logical', 'start': 824.27, 'duration': 4.6}
+{'text': "prepositions it's color top of it as", 'start': 826.23, 'duration': 5.01}
+{'text': 'shown here use conventions that have a', 'start': 828.87, 'duration': 4.86}
+{'text': 'beginning and an end a closed system a', 'start': 831.24, 'duration': 4.68}
+{'text': 'known closed system presumably have a', 'start': 833.73, 'duration': 3.99}
+{'text': 'vetting of the alphabet thereby', 'start': 835.92, 'duration': 3.87}
+{'text': 'establishing the work as serial within', 'start': 837.72, 'duration': 4.59}
+{'text': 'the artwork itself embedded an', 'start': 839.79, 'duration': 4.68}
+{'text': 'infinitely serial so this was an', 'start': 842.31, 'duration': 3.99}
+{'text': 'attitude according to doctor a kind of', 'start': 844.47, 'duration': 3.72}
+{'text': 'methodology which is an opposition to', 'start': 846.3, 'duration': 5.78}
+{'text': "style fast forward to the early 2010's", 'start': 848.19, 'duration': 6.51}
+{'text': 'CNI as years to write successful', 'start': 852.08, 'duration': 4.42}
+{'text': 'extensively on aesthetics and culture', 'start': 854.7, 'duration': 4.05}
+{'text': 'wrote a book on what she considers to be', 'start': 856.5, 'duration': 4.44}
+{'text': 'three primary dominate aesthetic', 'start': 858.75, 'duration': 4.89}
+{'text': 'categories the most compelling', 'start': 860.94, 'duration': 4.71}
+{'text': 'was a proposal for instead of the', 'start': 863.64, 'duration': 4.2}
+{'text': 'difference we appropriated from the', 'start': 865.65, 'duration': 3.72}
+{'text': 'sixties and seventies conceptual art', 'start': 867.84, 'duration': 7.02}
+{'text': 'movement which mofo was a pioneer so she', 'start': 869.37, 'duration': 7.5}
+{'text': 'describes its aesthetic projects of', 'start': 874.86, 'duration': 3.93}
+{'text': 'difference as something that emerges out', 'start': 876.87, 'duration': 4.41}
+{'text': 'of variation information and even', 'start': 878.79, 'duration': 4.98}
+{'text': 'forensic evidence in this library', 'start': 881.28, 'duration': 4.44}
+{'text': 'she sketches out a parallel between', 'start': 883.77, 'duration': 4.98}
+{'text': 'literary theory in a social art her', 'start': 885.72, 'duration': 5.25}
+{'text': 'studies of difference arose having art', 'start': 888.75, 'duration': 4.11}
+{'text': 'criticism the looked at work which no', 'start': 890.97, 'duration': 5.46}
+{'text': 'longer was the best virtuosity work that', 'start': 892.86, 'duration': 5.67}
+{'text': "wasn't spent about use of data objects", 'start': 896.43, 'duration': 5.13}
+{'text': 'things actions and performances work', 'start': 898.53, 'duration': 4.98}
+{'text': 'that represents a great from classical', 'start': 901.56, 'duration': 3.93}
+{'text': 'particle that starts apart and the cult', 'start': 903.51, 'duration': 4.62}
+{'text': 'of the genius the singular genius so', 'start': 905.49, 'duration': 4.05}
+{'text': "again we're talking about things like", 'start': 908.13, 'duration': 4.23}
+{'text': "conceptual and process aren't here and", 'start': 909.54, 'duration': 4.62}
+{'text': "here's how that works take for example", 'start': 912.36, 'duration': 4.26}
+{'text': 'Elinor and teens blooded the PO Box on', 'start': 914.16, 'duration': 4.68}
+{'text': 'the left the box contains and blood', 'start': 916.62, 'duration': 5.11}
+{'text': 'samples from under poets and associate', 'start': 918.84, 'duration': 4.94}
+{'text': "hunting's work had a personalized", 'start': 921.73, 'duration': 3.7}
+{'text': "narrative approach there's also no", 'start': 923.78, 'duration': 4.5}
+{'text': "collections of data at Yoshi's work is", 'start': 925.43, 'duration': 4.44}
+{'text': 'another example that speaks the same', 'start': 928.28, 'duration': 4.1}
+{'text': 'format stains the image on the right', 'start': 929.87, 'duration': 6.21}
+{'text': '1876 76 change from mixed media such as', 'start': 932.38, 'duration': 6.69}
+{'text': 'water here', 'start': 936.08, 'duration': 2.99}
+{'text': 'both of these artists work exist as a', 'start': 939.14, 'duration': 4.05}
+{'text': 'type of collection the set and', 'start': 941.24, 'duration': 4.469}
+{'text': 'assemblage somatically unified into a', 'start': 943.19, 'duration': 4.92}
+{'text': 'series by the concept of evidence or', 'start': 945.709, 'duration': 5.911}
+{'text': 'forensic light information another', 'start': 948.11, 'duration': 5.909}
+{'text': 'famous or even famous example is to show', 'start': 951.62, 'duration': 4.95}
+{'text': 'curated by mal dr. which included four', 'start': 954.019, 'duration': 4.741}
+{'text': 'identical binders that exhibited receive', 'start': 956.57, 'duration': 4.829}
+{'text': 'phone calls and purchase orders rough', 'start': 958.76, 'duration': 4.59}
+{'text': 'sketches notes another related', 'start': 961.399, 'duration': 5.13}
+{'text': 'documentation for our artists apply this', 'start': 963.35, 'duration': 5.4}
+{'text': 'information but not the actual final', 'start': 966.529, 'duration': 6.481}
+{'text': 'works themselves the lists of data are', 'start': 968.75, 'duration': 6.06}
+{'text': 'very well-known to computer programmer', 'start': 973.01, 'duration': 4.829}
+{'text': "in fact it's the basis of any code to", 'start': 974.81, 'duration': 5.31}
+{'text': 'declare you variables at a certain level', 'start': 977.839, 'duration': 4.291}
+{'text': 'of abstraction conceptual art is', 'start': 980.12, 'duration': 3.659}
+{'text': 'actually not far off from writing code', 'start': 982.13, 'duration': 3.449}
+{'text': 'or scripting logics to journey to', 'start': 983.779, 'duration': 4.68}
+{'text': 'generate some work on a conceptual level', 'start': 985.579, 'duration': 5.161}
+{'text': "the system's approach of the work is", 'start': 988.459, 'duration': 3.991}
+{'text': 'therefore one that performs on the very', 'start': 990.74, 'duration': 3.81}
+{'text': 'characteristics of unity and the', 'start': 992.45, 'duration': 3.48}
+{'text': 'repetition of', 'start': 994.55, 'duration': 3.87}
+{'text': 'reassess this automatically renders the', 'start': 995.93, 'duration': 6.48}
+{'text': 'work mathematical in spatial so my', 'start': 998.42, 'duration': 7.05}
+{'text': 'argument through readings of nine back', 'start': 1002.41, 'duration': 5.67}
+{'text': 'near Birnam is that serial modes might', 'start': 1005.47, 'duration': 4.17}
+{'text': 'provide a certain kind of appreciation', 'start': 1008.08, 'duration': 3.57}
+{'text': 'friendly designed this horse with a', 'start': 1009.64, 'duration': 3.93}
+{'text': 'model for aesthetic evaluation a', 'start': 1011.65, 'duration': 3.93}
+{'text': 'conceptual grit which almost and the', 'start': 1013.57, 'duration': 3.15}
+{'text': 'transition Fame that we currently', 'start': 1015.58, 'duration': 4.44}
+{'text': 'occupied somewhere specifically or any', 'start': 1016.72, 'duration': 4.87}
+{'text': 'other example the night', 'start': 1020.02, 'duration': 4.09}
+{'text': 'argue that relationships of units and', 'start': 1021.59, 'duration': 4.41}
+{'text': 'system can provide a performance of a', 'start': 1024.11, 'duration': 4.32}
+{'text': 'judgment that fair work to be successful', 'start': 1026.0, 'duration': 4.439}
+{'text': 'it only needs to be interesting so this', 'start': 1028.43, 'duration': 4.019}
+{'text': "is entry she's very small fires in Ville", 'start': 1030.439, 'duration': 4.89}
+{'text': 'in this piece Russia showcases series of', 'start': 1032.449, 'duration': 5.741}
+{'text': 'fires and one image of the glass of the', 'start': 1035.329, 'duration': 5.201}
+{'text': 'the one unit that destabilizes series', 'start': 1038.19, 'duration': 4.35}
+{'text': 'such as it can offer window into another', 'start': 1040.53, 'duration': 4.32}
+{'text': 'version of the set or background by', 'start': 1042.54, 'duration': 3.93}
+{'text': 'which to evaluate their relationships', 'start': 1044.85, 'duration': 3.6}
+{'text': 'between all the other images in the', 'start': 1046.47, 'duration': 4.74}
+{'text': 'collection this is a series based work', 'start': 1048.45, 'duration': 4.44}
+{'text': "that it's hardly expressive in any", 'start': 1051.21, 'duration': 4.32}
+{'text': 'conventional definition but one that is', 'start': 1052.89, 'duration': 5.1}
+{'text': 'undeniably interesting so I wonder if', 'start': 1055.53, 'duration': 3.87}
+{'text': 'certain strands of contemporary', 'start': 1057.99, 'duration': 3.51}
+{'text': 'architecture might take hues from nice', 'start': 1059.4, 'duration': 4.08}
+{'text': 'reading of conceptual art and move away', 'start': 1061.5, 'duration': 5.82}
+{'text': 'from the cult of novelty with that', 'start': 1063.48, 'duration': 5.55}
+{'text': 'framework in mind I want to talk about', 'start': 1067.32, 'duration': 3.63}
+{'text': 'an earlier project of mine that operates', 'start': 1069.03, 'duration': 4.17}
+{'text': 'in series employs line drawings as', 'start': 1070.95, 'duration': 5.61}
+{'text': 'clusters or units of visual content this', 'start': 1073.2, 'duration': 6.3}
+{'text': 'series comprised of eight or maybe nine', 'start': 1076.56, 'duration': 4.68}
+{'text': 'objects depending on how you look at it', 'start': 1079.5, 'duration': 3.39}
+{'text': 'with Berger mentioned Times fellowship', 'start': 1081.24, 'duration': 3.69}
+{'text': 'exhibition at the University of Michigan', 'start': 1082.89, 'duration': 5.37}
+{'text': 'stomping College of Architecture the', 'start': 1084.93, 'duration': 5.55}
+{'text': 'ninth object of the top right hand', 'start': 1088.26, 'duration': 4.71}
+{'text': 'corner is inserted into the series as a', 'start': 1090.48, 'duration': 5.04}
+{'text': 'deviation or rather distraction is', 'start': 1092.97, 'duration': 4.59}
+{'text': 'something that not unlike with shades', 'start': 1095.52, 'duration': 3.5}
+{'text': 'glass of milk here reaching', 'start': 1097.56, 'duration': 4.23}
+{'text': 'recontextualized effect in the physical', 'start': 1099.02, 'duration': 4.78}
+{'text': 'manifestation of the deviations in the', 'start': 1101.79, 'duration': 4.2}
+{'text': 'image and left the drawing has have been', 'start': 1103.8, 'duration': 4.02}
+{'text': 'actually write it out and become', 'start': 1105.99, 'duration': 3.48}
+{'text': 'something more experimental with other', 'start': 1107.82, 'duration': 3.92}
+{'text': 'in nature', 'start': 1109.47, 'duration': 4.35}
+{'text': 'so before I talk about the', 'start': 1111.74, 'duration': 3.7}
+{'text': 'three-dimensional objects in more detail', 'start': 1113.82, 'duration': 4.44}
+{'text': 'I want to elaborate on the drive as I', 'start': 1115.44, 'duration': 4.44}
+{'text': "mentioned earlier I've always been", 'start': 1118.26, 'duration': 3.39}
+{'text': 'interested in my drawings and the', 'start': 1119.88, 'duration': 3.45}
+{'text': 'distinction between drawings as', 'start': 1121.65, 'duration': 3.99}
+{'text': 'representation by drawing as information', 'start': 1123.33, 'duration': 4.68}
+{'text': 'in this project I was focus on the', 'start': 1125.64, 'duration': 4.05}
+{'text': 'representational aspect of the drawing', 'start': 1128.01, 'duration': 4.14}
+{'text': 'as it plugs into our current modes of', 'start': 1129.69, 'duration': 5.34}
+{'text': "visual production that it's 3d models", 'start': 1132.15, 'duration': 4.62}
+{'text': 'that reduce multiple drives from a', 'start': 1135.03, 'duration': 3.759}
+{'text': 'singular object', 'start': 1136.77, 'duration': 4.089}
+{'text': "though there's very slight undertone of", 'start': 1138.789, 'duration': 4.02}
+{'text': 'digital information individual catalyst', 'start': 1140.859, 'duration': 5.72}
+{'text': "but I'll talk about that more in there", 'start': 1142.809, 'duration': 7.56}
+{'text': 'so the use of line carries with a new', 'start': 1146.579, 'duration': 5.26}
+{'text': "level of simplicity but it's very", 'start': 1150.369, 'duration': 2.361}
+{'text': 'important to make', 'start': 1151.839, 'duration': 3.231}
+{'text': 'I mean what could be more elemental in a', 'start': 1152.73, 'duration': 4.95}
+{'text': 'way similar between my drying some', 'start': 1155.07, 'duration': 4.83}
+{'text': 'painted surfaces these objects offer the', 'start': 1157.68, 'duration': 4.32}
+{'text': 'visual effect of motion tracing', 'start': 1159.9, 'duration': 3.63}
+{'text': 'movements from the picture support to', 'start': 1162.0, 'duration': 3.45}
+{'text': 'the picture plane the Tracie specialized', 'start': 1163.53, 'duration': 5.01}
+{'text': 'line drying the topmost layer of these', 'start': 1165.45, 'duration': 5.19}
+{'text': 'objects the white linear one does the', 'start': 1168.54, 'duration': 3.66}
+{'text': 'most work to create the illusion of the', 'start': 1170.64, 'duration': 3.17}
+{'text': 'illusion of depth while maintaining', 'start': 1172.2, 'duration': 3.42}
+{'text': 'three-dimensional sculptural effect', 'start': 1173.81, 'duration': 4.66}
+{'text': 'although static in nature the appearance', 'start': 1175.62, 'duration': 4.11}
+{'text': 'of motion is mobilized by the', 'start': 1178.47, 'duration': 3.27}
+{'text': 'directionality and continuity of the', 'start': 1179.73, 'duration': 4.65}
+{'text': 'clusters of parallel lines almost as if', 'start': 1181.74, 'duration': 4.32}
+{'text': "they're errors to slowly guide your eyes", 'start': 1184.38, 'duration': 4.86}
+{'text': 'through these movements the plane', 'start': 1186.06, 'duration': 5.28}
+{'text': 'tonight clusters are not just right are', 'start': 1189.24, 'duration': 4.11}
+{'text': 'not described in frames of motion but', 'start': 1191.34, 'duration': 4.26}
+{'text': 'rather traces of motion as they flow', 'start': 1193.35, 'duration': 4.92}
+{'text': 'through a directional index although the', 'start': 1195.6, 'duration': 4.35}
+{'text': 'clusters of lines then can change', 'start': 1198.27, 'duration': 3.66}
+{'text': 'direction frequently and in times', 'start': 1199.95, 'duration': 4.47}
+{'text': 'overlay they always maintain a sense of', 'start': 1201.93, 'duration': 4.89}
+{'text': 'continuity there are no end points in', 'start': 1204.42, 'duration': 4.5}
+{'text': 'these compositions the Lions terminated', 'start': 1206.82, 'duration': 3.99}
+{'text': 'the boundary of the drawing or the', 'start': 1208.92, 'duration': 4.02}
+{'text': 'boundary of the sport and by support', 'start': 1210.81, 'duration': 3.48}
+{'text': 'here I referred to Michael for a', 'start': 1212.94, 'duration': 3.36}
+{'text': 'definition of feeding support as in the', 'start': 1214.29, 'duration': 4.65}
+{'text': 'host of the painting content the', 'start': 1216.3, 'duration': 5.15}
+{'text': 'relationship is best illustrated made', 'start': 1218.94, 'duration': 4.52}
+{'text': 'and the French fellas she began this', 'start': 1221.45, 'duration': 5.76}
+{'text': 'works so the lines never break they live', 'start': 1223.46, 'duration': 5.64}
+{'text': 'stream like transition from one inclined', 'start': 1227.21, 'duration': 4.32}
+{'text': 'plane and this example horizontal to the', 'start': 1229.1, 'duration': 4.92}
+{'text': 'next these virtual planes are not in', 'start': 1231.53, 'duration': 4.35}
+{'text': 'classical issue but they suggested two', 'start': 1234.02, 'duration': 4.26}
+{'text': 'percent type of event the continuous', 'start': 1235.88, 'duration': 3.93}
+{'text': 'line transition from one piece to the', 'start': 1238.28, 'duration': 4.05}
+{'text': 'next as it draws a composition that', 'start': 1239.81, 'duration': 5.16}
+{'text': 'again reinforces the idea of tracing on', 'start': 1242.33, 'duration': 7.23}
+{'text': 'a flat picture plane so this is another', 'start': 1244.97, 'duration': 6.24}
+{'text': 'way that I was attempting to specialize', 'start': 1249.56, 'duration': 3.78}
+{'text': 'architectural eyes blue design drying', 'start': 1251.21, 'duration': 4.95}
+{'text': 'the diagram on the left as described by', 'start': 1253.34, 'duration': 4.5}
+{'text': 'adult Arnheim demonstrates the ability', 'start': 1256.16, 'duration': 4.38}
+{'text': 'and the desire of the eye to read', 'start': 1257.84, 'duration': 4.8}
+{'text': 'movement as an extension of lines here', 'start': 1260.54, 'duration': 4.95}
+{'text': 'denoted by the dotted arrows and not the', 'start': 1262.64, 'duration': 4.71}
+{'text': 'actual movement which is denoted by the', 'start': 1265.49, 'duration': 4.68}
+{'text': 'solid arrows and enhancing even call for', 'start': 1267.35, 'duration': 5.67}
+{'text': 'it on the right pleased with visual', 'start': 1270.17, 'duration': 5.43}
+{'text': 'perception fields in similar ways these', 'start': 1273.02, 'duration': 4.44}
+{'text': 'diagrams challenge the premise of the', 'start': 1275.6, 'duration': 4.23}
+{'text': 'figured continuous line by juxtaposing', 'start': 1277.46, 'duration': 5.19}
+{'text': 'two different ellipsoid forms with one', 'start': 1279.83, 'duration': 4.59}
+{'text': 'another but always maintaining an', 'start': 1282.65, 'duration': 5.34}
+{'text': 'implied aperture between the two so back', 'start': 1284.42, 'duration': 5.46}
+{'text': 'to the ninth objects the deviation from', 'start': 1287.99, 'duration': 4.23}
+{'text': 'the signals from the series i similarly', 'start': 1289.88, 'duration': 5.04}
+{'text': 'tried to negotiate a less expected play', 'start': 1292.22, 'duration': 5.68}
+{'text': 'between mind depths of space', 'start': 1294.92, 'duration': 5.139}
+{'text': 'in this example the picture plane is', 'start': 1297.9, 'duration': 5.25}
+{'text': 'slightly displaced decoupled from its', 'start': 1300.059, 'duration': 5.821}
+{'text': 'host and disoriented its firstly placed', 'start': 1303.15, 'duration': 4.08}
+{'text': 'on the floor and while it still', 'start': 1305.88, 'duration': 3.63}
+{'text': 'maintains its verticality it slightly', 'start': 1307.23, 'duration': 4.62}
+{'text': 'rotated and separated from its support', 'start': 1309.51, 'duration': 5.18}
+{'text': 'to create another zone of spatial play', 'start': 1311.85, 'duration': 5.43}
+{'text': 'this combination of white lines and', 'start': 1314.69, 'duration': 4.69}
+{'text': 'white translucent planks produces an', 'start': 1317.28, 'duration': 3.96}
+{'text': 'architectural specific drawing that', 'start': 1319.38, 'duration': 3.51}
+{'text': 'invites the viewer to observe it from', 'start': 1321.24, 'duration': 2.97}
+{'text': 'different points in the gallery', 'start': 1322.89, 'duration': 4.08}
+{'text': 'revealing itself over time the drawing', 'start': 1324.21, 'duration': 5.16}
+{'text': 'has I hope been transformed beyond the', 'start': 1326.97, 'duration': 4.98}
+{'text': 'pedestal object or the end up or to an', 'start': 1329.37, 'duration': 4.89}
+{'text': 'expanded field of spatial illusion as', 'start': 1331.95, 'duration': 4.77}
+{'text': "it's both virtual and it participates", 'start': 1334.26, 'duration': 6.299}
+{'text': 'with inner space the line in this series', 'start': 1336.72, 'duration': 4.98}
+{'text': 'are not only charged with producing', 'start': 1340.559, 'duration': 3.421}
+{'text': 'effective tonically but also with', 'start': 1341.7, 'duration': 3.9}
+{'text': 'creating compositional qualities in the', 'start': 1343.98, 'duration': 3.87}
+{'text': 'flat picture plane support or in other', 'start': 1345.6, 'duration': 4.86}
+{'text': 'words the frame there are two things', 'start': 1347.85, 'duration': 4.41}
+{'text': 'that play here one competing processes', 'start': 1350.46, 'duration': 4.0}
+{'text': 'over the', 'start': 1352.26, 'duration': 4.029}
+{'text': 'this example attempts to have the', 'start': 1354.46, 'duration': 3.599}
+{'text': 'physicality of the sport embedded in the', 'start': 1356.289, 'duration': 3.811}
+{'text': 'structure of the drawing on the other', 'start': 1358.059, 'duration': 3.99}
+{'text': 'hand the drawing itself is framed in', 'start': 1360.1, 'duration': 3.48}
+{'text': 'such a way that is simple tediously', 'start': 1362.049, 'duration': 3.48}
+{'text': 'ignores the picture support and hope', 'start': 1363.58, 'duration': 3.599}
+{'text': 'that the perception of the image object', 'start': 1365.529, 'duration': 5.1}
+{'text': 'can be flattened out another key factor', 'start': 1367.179, 'duration': 5.401}
+{'text': 'in the construction of the balancing act', 'start': 1370.629, 'duration': 4.41}
+{'text': "it's the dialogue between line and color", 'start': 1372.58, 'duration': 4.049}
+{'text': 'in an attempt to dissipate the', 'start': 1375.039, 'duration': 3.561}
+{'text': 'physicality of the surface it occupies', 'start': 1376.629, 'duration': 4.321}
+{'text': "there's typically five liters of color", 'start': 1378.6, 'duration': 4.269}
+{'text': 'fills line creates its digital', 'start': 1380.95, 'duration': 4.439}
+{'text': 'information into all these terrains each', 'start': 1382.869, 'duration': 4.351}
+{'text': 'one playing an important role in the', 'start': 1385.389, 'duration': 3.86}
+{'text': 'emergence of figures negative boy', 'start': 1387.22, 'duration': 6.409}
+{'text': 'misalignment another graphic in silence', 'start': 1389.249, 'duration': 4.38}
+{'text': 'maybe how tight around the architecture', 'start': 1394.58, 'duration': 4.38}
+{'text': "to this to the discipline of fading I'm", 'start': 1396.77, 'duration': 3.81}
+{'text': 'interested in the phenomena of hedges', 'start': 1398.96, 'duration': 4.459}
+{'text': "again there's just focus", 'start': 1400.58, 'duration': 4.939}
+{'text': "so serious gleam that they're funded for", 'start': 1403.419, 'duration': 3.57}
+{'text': 'there are two fundamental categories of', 'start': 1405.519, 'duration': 4.2}
+{'text': 'paintings paintings that are based on my', 'start': 1406.989, 'duration': 4.62}
+{'text': "drawings and paintings they're based on", 'start': 1409.719, 'duration': 3.69}
+{'text': 'the immediate application of color fills', 'start': 1411.609, 'duration': 4.17}
+{'text': "so here I'm specifically focusing on the", 'start': 1413.409, 'duration': 4.26}
+{'text': 'application of paint black and white', 'start': 1415.779, 'duration': 4.47}
+{'text': 'lines and this', 'start': 1417.669, 'duration': 5.26}
+{'text': 'as architect started to adopt techniques', 'start': 1420.249, 'duration': 5.5}
+{'text': 'from a team they challenge the code the', 'start': 1422.929, 'duration': 5.88}
+{'text': "older repeatedly binary image I'd found", 'start': 1425.749, 'duration': 4.77}
+{'text': 'graphic fields and the direct', 'start': 1428.809, 'duration': 3.121}
+{'text': 'application of color', 'start': 1430.519, 'duration': 3.691}
+{'text': 'so lime drawings and renderings changed', 'start': 1431.93, 'duration': 3.84}
+{'text': 'from black lines that can find a', 'start': 1434.21, 'duration': 4.46}
+{'text': 'boundary to implied white lines the', 'start': 1435.77, 'duration': 6.03}
+{'text': 'described areas between zone and this', 'start': 1438.67, 'duration': 5.58}
+{'text': 'one seemingly trivial', 'start': 1441.8, 'duration': 4.43}
+{'text': 'an example like the figure to the right', 'start': 1444.25, 'duration': 3.96}
+{'text': 'can no longer be perceived as having a', 'start': 1446.23, 'duration': 4.35}
+{'text': 'boundary they attend dition disappears', 'start': 1448.21, 'duration': 4.02}
+{'text': 'into the optical field of the artboard', 'start': 1450.58, 'duration': 6.3}
+{'text': 'or printer paper in our conventions of', 'start': 1452.23, 'duration': 7.199}
+{'text': 'macing drying filter white usually means', 'start': 1456.88, 'duration': 4.529}
+{'text': 'something like void let the void of the', 'start': 1459.429, 'duration': 3.87}
+{'text': 'white water paper so in other words', 'start': 1461.409, 'duration': 4.711}
+{'text': "there's no outlet for it simply an", 'start': 1463.299, 'duration': 4.831}
+{'text': 'accent through which the paper shows', 'start': 1466.12, 'duration': 4.66}
+{'text': 'through as a visual placeholder', 'start': 1468.13, 'duration': 4.75}
+{'text': 'in the art world however as drawing', 'start': 1470.78, 'duration': 5.869}
+{'text': 'started leaning sector eternity', 'start': 1472.88, 'duration': 5.419}
+{'text': "white wines we're not restricted to the", 'start': 1476.649, 'duration': 4.74}
+{'text': 'same status to illustrate right Tom', 'start': 1478.299, 'duration': 3.6}
+{'text': 'please', 'start': 1481.389, 'duration': 3.15}
+{'text': 'maybe if I Trombley engages the physical', 'start': 1481.899, 'duration': 4.89}
+{'text': 'as subsequent visual emissions of the', 'start': 1484.539, 'duration': 4.08}
+{'text': 'shrine by using white chocolate a', 'start': 1486.789, 'duration': 4.2}
+{'text': 'blackboard so you and similarly the', 'start': 1488.619, 'duration': 4.41}
+{'text': 'sculptor printing back draws lines and', 'start': 1490.989, 'duration': 2.661}
+{'text': 'acrylic', 'start': 1493.029, 'duration': 3.021}
+{'text': 'and uses interior architectural spaces', 'start': 1493.65, 'duration': 5.21}
+{'text': 'media', 'start': 1496.05, 'duration': 2.81}
+{'text': 'the series milk works as a mini', 'start': 1500.09, 'duration': 6.96}
+{'text': 'meditation on the articulation of white', 'start': 1504.8, 'duration': 4.35}
+{'text': 'or negative lines an institution to', 'start': 1507.05, 'duration': 4.59}
+{'text': 'exist in the physical world these are', 'start': 1509.15, 'duration': 4.8}
+{'text': 'just a few experiments that use', 'start': 1511.64, 'duration': 5.44}
+{'text': 'but remove material from solid stuff in', 'start': 1513.95, 'duration': 4.93}
+{'text': 'an attempt to create in tiny conditions', 'start': 1517.08, 'duration': 3.54}
+{'text': 'where the line becomes I sleep', 'start': 1518.88, 'duration': 4.17}
+{'text': 'efficiently so that sounds paper ground', 'start': 1520.62, 'duration': 5.0}
+{'text': 'distinctions', 'start': 1523.05, 'duration': 2.57}
+{'text': 'so luminosities lie somewhere in this', 'start': 1526.65, 'duration': 5.87}
+{'text': 'interchange between physical', 'start': 1529.11, 'duration': 3.41}
+{'text': 'as it emerges from our digital processes', 'start': 1532.539, 'duration': 5.07}
+{'text': 'and workflows this brief snapshot shows', 'start': 1534.759, 'duration': 4.65}
+{'text': 'several primary states that the line', 'start': 1537.609, 'duration': 3.81}
+{'text': 'moves through during the production of', 'start': 1539.409, 'duration': 3.141}
+{'text': 'the shine', 'start': 1541.419, 'duration': 4.191}
+{'text': 'through a process on rigid material the', 'start': 1542.55, 'duration': 4.95}
+{'text': 'lines and color no longer belong to the', 'start': 1545.61, 'duration': 3.96}
+{'text': "final image they're now integrated with", 'start': 1547.5, 'duration': 5.85}
+{'text': 'the properties of the support so this', 'start': 1549.57, 'duration': 5.22}
+{'text': 'diagram shows a layered structure', 'start': 1553.35, 'duration': 4.86}
+{'text': 'because of this particular job so this', 'start': 1554.79, 'duration': 5.31}
+{'text': 'breakdown shows the structure locked up', 'start': 1558.21, 'duration': 3.72}
+{'text': 'to claim that simply of linear in the', 'start': 1560.1, 'duration': 4.26}
+{'text': 'kind of information the very first', 'start': 1561.93, 'duration': 4.38}
+{'text': 'printed later to the far right as a', 'start': 1564.36, 'duration': 4.05}
+{'text': 'solid weight fill that functions as a', 'start': 1566.31, 'duration': 4.11}
+{'text': 'mask to hide and reveal two different', 'start': 1568.41, 'duration': 4.2}
+{'text': 'states of material of materials fantasy', 'start': 1570.42, 'duration': 4.29}
+{'text': 'the rest of the layers are then', 'start': 1572.61, 'duration': 3.72}
+{'text': 'sequentially build one on top of the', 'start': 1574.71, 'duration': 3.51}
+{'text': 'other until the final figure emerges', 'start': 1576.33, 'duration': 3.96}
+{'text': 'thereby establishing a clear route', 'start': 1578.22, 'duration': 5.87}
+{'text': 'through the vert tool to the material', 'start': 1580.29, 'duration': 6.69}
+{'text': 'the esthetic objective of the scaffold', 'start': 1584.09, 'duration': 4.81}
+{'text': 'however almost for just an intimate', 'start': 1586.98, 'duration': 3.93}
+{'text': 'relationship between structure and form', 'start': 1588.9, 'duration': 4.98}
+{'text': 'the white so later to the farc list or', 'start': 1590.91, 'duration': 5.28}
+{'text': 'in other words the mat is the first mark', 'start': 1593.88, 'duration': 4.56}
+{'text': 'that creates a figure in the field the', 'start': 1596.19, 'duration': 4.92}
+{'text': 'second layer the first layer white line', 'start': 1598.44, 'duration': 4.89}
+{'text': 'the second image to the left completes', 'start': 1601.11, 'duration': 4.47}
+{'text': 'the figure around but gently softening', 'start': 1603.33, 'duration': 4.53}
+{'text': 'the edges of exclusive that buying of', 'start': 1605.58, 'duration': 4.38}
+{'text': 'the figure from the first layer so the', 'start': 1607.86, 'duration': 4.86}
+{'text': 'color fill layer adjusts and buries the', 'start': 1609.96, 'duration': 4.89}
+{'text': 'transparency and the quickness of the', 'start': 1612.72, 'duration': 5.01}
+{'text': 'printed support material component of', 'start': 1614.85, 'duration': 4.62}
+{'text': "the B's it's made of two layers the", 'start': 1617.73, 'duration': 3.66}
+{'text': 'black lines on the white lines is then', 'start': 1619.47, 'duration': 4.68}
+{'text': 'finally into the separate layers without', 'start': 1621.39, 'duration': 4.86}
+{'text': 'the sequential concept atlas color line', 'start': 1624.15, 'duration': 4.68}
+{'text': 'materials or conversation just outline', 'start': 1626.25, 'duration': 5.22}
+{'text': 'these final in linear elements would', 'start': 1628.83, 'duration': 4.56}
+{'text': 'simply be a subscription sitting by', 'start': 1631.47, 'duration': 5.28}
+{'text': "dropping a different surface so I'm", 'start': 1633.39, 'duration': 4.98}
+{'text': 'going to give you the full magnified', 'start': 1636.75, 'duration': 3.33}
+{'text': 'analysis of the physical manifestations', 'start': 1638.37, 'duration': 3.78}
+{'text': "of these drawings don't suppose the", 'start': 1640.08, 'duration': 5.55}
+{'text': 'capacities of the line beyond beyond new', 'start': 1642.15, 'duration': 7.02}
+{'text': 'drawing and representation these works', 'start': 1645.63, 'duration': 5.01}
+{'text': 'for me complete with notions of', 'start': 1649.17, 'duration': 4.59}
+{'text': 'repetition similarity variance and', 'start': 1650.64, 'duration': 5.19}
+{'text': 'relief the drawings become especially', 'start': 1653.76, 'duration': 4.26}
+{'text': 'attainment between material and article', 'start': 1655.83, 'duration': 4.59}
+{'text': 'problems as the top layer of lines and', 'start': 1658.02, 'duration': 4.56}
+{'text': 'the discrete frame bound opposition', 'start': 1660.42, 'duration': 4.26}
+{'text': 'underneath and the bottom layer crimes', 'start': 1662.58, 'duration': 4.47}
+{'text': 'as they - lead wrap around the', 'start': 1664.68, 'duration': 5.61}
+{'text': 'underlying support the ghostly traces', 'start': 1667.05, 'duration': 5.22}
+{'text': 'the be transfigured sometimes comes', 'start': 1670.29, 'duration': 2.43}
+{'text': 'together', 'start': 1672.27, 'duration': 3.21}
+{'text': 'do it like and that other moments remain', 'start': 1672.72, 'duration': 5.31}
+{'text': 'separated and distinct layers although', 'start': 1675.48, 'duration': 4.26}
+{'text': 'there are many optical and technical', 'start': 1678.03, 'duration': 4.26}
+{'text': 'variables in play here as shown the', 'start': 1679.74, 'duration': 4.77}
+{'text': 'final work still operates in response to', 'start': 1682.29, 'duration': 4.02}
+{'text': 'the collapse of painting and drying a', 'start': 1684.51, 'duration': 3.54}
+{'text': 'temporary culture of architectural', 'start': 1686.31, 'duration': 4.65}
+{'text': 'representation needless to say these', 'start': 1688.05, 'duration': 4.77}
+{'text': 'issues go beyond to my modest', 'start': 1690.96, 'duration': 3.99}
+{'text': 'investigation the architectural drawing', 'start': 1692.82, 'duration': 3.99}
+{'text': 'is a tank is in this unique place I', 'start': 1694.95, 'duration': 3.6}
+{'text': 'believe as we collectively learn', 'start': 1696.81, 'duration': 3.66}
+{'text': 'categories and defining boundaries', 'start': 1698.55, 'duration': 3.44}
+{'text': 'between what is instructional', 'start': 1700.47, 'duration': 4.65}
+{'text': 'representation approximates documentary', 'start': 1701.99, 'duration': 5.29}
+{'text': 'and that which is fairly driven by', 'start': 1705.12, 'duration': 3.16}
+{'text': 'technique', 'start': 1707.28, 'duration': 3.63}
+{'text': '[Music]', 'start': 1708.28, 'duration': 5.37}
+{'text': 'as a continuation and sometimes', 'start': 1710.91, 'duration': 4.54}
+{'text': "deviation from this research I'm going", 'start': 1713.65, 'duration': 3.78}
+{'text': 'to quickly show two projects both down', 'start': 1715.45, 'duration': 3.54}
+{'text': 'as collaboration was mine sometimes', 'start': 1717.43, 'duration': 6.0}
+{'text': 'collaborated on her side this project', 'start': 1718.99, 'duration': 6.03}
+{'text': 'title transfers is located in the', 'start': 1723.43, 'duration': 3.57}
+{'text': 'sculpture in this web server called art', 'start': 1725.02, 'duration': 4.47}
+{'text': "by mine and get near it's about three", 'start': 1727.0, 'duration': 4.65}
+{'text': "hours in of Sigma York City it's up for", 'start': 1729.49, 'duration': 3.63}
+{'text': "two years so next time you're near I", 'start': 1731.65, 'duration': 3.21}
+{'text': 'recommend to make some time to visit dia', 'start': 1733.12, 'duration': 5.34}
+{'text': 'became something and oh my the basic', 'start': 1734.86, 'duration': 5.19}
+{'text': 'premise of the project is that the piece', 'start': 1738.46, 'duration': 2.7}
+{'text': 'should read little thread of', 'start': 1740.05, 'duration': 3.57}
+{'text': 'architecture elastic studies in our', 'start': 1741.16, 'duration': 4.35}
+{'text': 'conversations with a curator we decided', 'start': 1743.62, 'duration': 3.33}
+{'text': 'that it should we live in urban tower', 'start': 1745.51, 'duration': 6.51}
+{'text': 'situated in the woods there are two', 'start': 1746.95, 'duration': 7.02}
+{'text': 'primary sources of inspiration for the', 'start': 1752.02, 'duration': 4.29}
+{'text': 'project the image on the Left shows', 'start': 1753.97, 'duration': 5.0}
+{'text': 'volumetric almost eerie atomic clusters', 'start': 1756.31, 'duration': 5.31}
+{'text': 'projected or dragged through a two and a', 'start': 1758.97, 'duration': 4.69}
+{'text': 'half the environment they made on the', 'start': 1761.62, 'duration': 3.45}
+{'text': 'right is from a really extraordinary', 'start': 1763.66, 'duration': 3.0}
+{'text': 'show of Michael Hedges work at the', 'start': 1765.07, 'duration': 3.18}
+{'text': 'Whitney music', 'start': 1766.66, 'duration': 5.56}
+{'text': 'kold-draft next two men trained in this', 'start': 1768.25, 'duration': 6.22}
+{'text': 'exhibition as you build massive stereo', 'start': 1772.22, 'duration': 4.41}
+{'text': 'Tomic forms out of aluminum scaffolds', 'start': 1774.47, 'duration': 4.5}
+{'text': 'and herniated board the panels are so', 'start': 1776.63, 'duration': 4.41}
+{'text': 'extreme with apples obstructed images', 'start': 1778.97, 'duration': 3.51}
+{'text': 'that hazard to the most southwestern', 'start': 1781.04, 'duration': 4.86}
+{'text': 'landscape contextualizing went 8', 'start': 1782.48, 'duration': 5.64}
+{'text': 'graphics on the interior of the gallery', 'start': 1785.9, 'duration': 5.94}
+{'text': 'be a geometric the organizations from', 'start': 1788.12, 'duration': 5.97}
+{'text': 'informal perceptive theme of the project', 'start': 1791.84, 'duration': 3.78}
+{'text': 'was they reconcile that crystalline', 'start': 1794.09, 'duration': 3.63}
+{'text': 'faceted geometric Maxim said he was', 'start': 1795.62, 'duration': 5.52}
+{'text': 'buying work 2d drawings so in in the', 'start': 1797.72, 'duration': 5.16}
+{'text': 'form he can read the influence of hi', 'start': 1801.14, 'duration': 4.23}
+{'text': 'giant expense and then the graphic was', 'start': 1802.88, 'duration': 4.32}
+{'text': 'more inspired by Catholics Americans', 'start': 1805.37, 'duration': 4.74}
+{'text': 'extend the composition and maybe also', 'start': 1807.2, 'duration': 4.53}
+{'text': 'make elevations over print hours at', 'start': 1810.11, 'duration': 2.75}
+{'text': "night as we've seen", 'start': 1811.73, 'duration': 3.079}
+{'text': 'so this is another early Heiser', 'start': 1812.86, 'duration': 4.199}
+{'text': 'installation here the forms show', 'start': 1814.809, 'duration': 4.11}
+{'text': 'evidence of prehistoric architectural', 'start': 1817.059, 'duration': 4.141}
+{'text': 'configurations the later Kate shape and', 'start': 1818.919, 'duration': 4.531}
+{'text': 'his monumental City project in this', 'start': 1821.2, 'duration': 5.01}
+{'text': 'example however this continued use of', 'start': 1823.45, 'duration': 4.949}
+{'text': 'extracted photographs of the desert or', 'start': 1826.21, 'duration': 4.41}
+{'text': 'other landscapes as an analogue texture', 'start': 1828.399, 'duration': 5.461}
+{'text': "map here's a form generation diagram of", 'start': 1830.62, 'duration': 6.029}
+{'text': 'the piece here the idea was the next two', 'start': 1833.86, 'duration': 4.949}
+{'text': 'volumes inside of one another on the', 'start': 1836.649, 'duration': 3.87}
+{'text': 'second route the drying you can see a', 'start': 1838.809, 'duration': 3.48}
+{'text': 'kind of carving operation on the outer', 'start': 1840.519, 'duration': 4.41}
+{'text': 'volume to reveal the in your figure and', 'start': 1842.289, 'duration': 4.26}
+{'text': 'on the third row a sequence of', 'start': 1844.929, 'duration': 3.48}
+{'text': 'compressive forces that begin to kind of', 'start': 1846.549, 'duration': 4.891}
+{'text': "push the volume in on itself so we're", 'start': 1848.409, 'duration': 4.471}
+{'text': 'really interested in the stereo Tomic', 'start': 1851.44, 'duration': 3.329}
+{'text': 'expression but when it comes to actually', 'start': 1852.88, 'duration': 3.81}
+{'text': "making the piece it's made out of thin", 'start': 1854.769, 'duration': 3.66}
+{'text': 'planes just like Tony Smith and Michael', 'start': 1856.69, 'duration': 3.81}
+{'text': "Kaiser's work is often managed by wood", 'start': 1858.429, 'duration': 4.201}
+{'text': 'or thick board so the project was', 'start': 1860.5, 'duration': 3.84}
+{'text': 'sponsored by Korean solid surface', 'start': 1862.63, 'duration': 4.95}
+{'text': "materials so we've we also created a", 'start': 1864.34, 'duration': 4.98}
+{'text': 'corner to state court adjourned aluminum', 'start': 1867.58, 'duration': 5.199}
+{'text': 'structure to support the Korean', 'start': 1869.32, 'duration': 5.419}
+{'text': 'following some of the fellowship work', 'start': 1872.779, 'duration': 3.97}
+{'text': 'that I showed earlier each men of the', 'start': 1874.739, 'duration': 3.93}
+{'text': 'thinking of the pieces printed using a', 'start': 1876.749, 'duration': 4.14}
+{'text': 'flatbed commercial sign printer the', 'start': 1878.669, 'duration': 3.99}
+{'text': 'beast was designed to be flat packed and', 'start': 1880.889, 'duration': 3.39}
+{'text': 'shipped in the back of a small team so', 'start': 1882.659, 'duration': 3.24}
+{'text': "there's also like an economic", 'start': 1884.279, 'duration': 3.6}
+{'text': 'justification for this for this project', 'start': 1885.899, 'duration': 3.9}
+{'text': 'in the loo and then make up the project', 'start': 1887.879, 'duration': 6.42}
+{'text': 'and its assignment to get a cart so this', 'start': 1889.799, 'duration': 6.301}
+{'text': 'is the piece under construction we use', 'start': 1894.299, 'duration': 4.59}
+{'text': 'the very talented Fulton 1/32 of an inch', 'start': 1896.1, 'duration': 4.379}
+{'text': 'and the fabrication assembly of the', 'start': 1898.889, 'duration': 4.11}
+{'text': 'piece the simply want to thank you to', 'start': 1900.479, 'duration': 3.9}
+{'text': "the serration that we're going to the", 'start': 1902.999, 'duration': 3.42}
+{'text': 'strengthen the work with very low tech', 'start': 1904.379, 'duration': 3.78}
+{'text': "tools and with just the two of us I'm", 'start': 1906.419, 'duration': 5.37}
+{'text': "saying there's some connection details", 'start': 1908.159, 'duration': 6.27}
+{'text': 'where the aluminum water jet structure', 'start': 1911.789, 'duration': 4.2}
+{'text': 'means the question they know for you', 'start': 1914.429, 'duration': 3.391}
+{'text': 'know thought it was important to', 'start': 1915.989, 'duration': 3.57}
+{'text': 'actually Express the hardware and to', 'start': 1917.82, 'duration': 3.209}
+{'text': 'show the connections between the parts', 'start': 1919.559, 'duration': 4.381}
+{'text': 'and the different material systems so it', 'start': 1921.029, 'duration': 4.441}
+{'text': 'should read like the continues shell', 'start': 1923.94, 'duration': 3.72}
+{'text': 'from far away and like an assembly up', 'start': 1925.47, 'duration': 4.26}
+{'text': 'one of the better use of anything is', 'start': 1927.66, 'duration': 4.26}
+{'text': 'actually from the back of the piece as', 'start': 1929.73, 'duration': 4.56}
+{'text': 'shown here you can also see how the', 'start': 1931.92, 'duration': 4.2}
+{'text': 'graphic not sort of misses there skips', 'start': 1934.29, 'duration': 4.71}
+{'text': 'off the quarry and narsing I mean', 'start': 1936.12, 'duration': 4.71}
+{'text': "there's another theme of the work early", 'start': 1939.0, 'duration': 4.32}
+{'text': 'in the top as well how graphic map talks', 'start': 1940.83, 'duration': 4.2}
+{'text': 'to its three-dimensional support or in', 'start': 1943.32, 'duration': 4.77}
+{'text': 'other words frame so the conversation', 'start': 1945.03, 'duration': 4.74}
+{'text': 'between drawing material the material', 'start': 1948.09, 'duration': 3.75}
+{'text': 'assembly is what hopefully motivates', 'start': 1949.77, 'duration': 3.51}
+{'text': 'them here to study the piece in the', 'start': 1951.84, 'duration': 3.32}
+{'text': 'round the 360', 'start': 1953.28, 'duration': 5.04}
+{'text': 'okay so geometric posture is my', 'start': 1955.16, 'duration': 5.11}
+{'text': "network's tectonics surface into", 'start': 1958.32, 'duration': 4.11}
+{'text': 'equations and so on can be illustrated', 'start': 1960.27, 'duration': 3.75}
+{'text': 'here in a little bit of a larger scale', 'start': 1962.43, 'duration': 3.84}
+{'text': 'this next project is currently in the', 'start': 1964.02, 'duration': 4.8}
+{'text': 'prototyping and development phase we', 'start': 1966.27, 'duration': 4.35}
+{'text': 'presented our final design in January', 'start': 1968.82, 'duration': 4.08}
+{'text': 'and the piece will be constructed down', 'start': 1970.62, 'duration': 4.53}
+{'text': 'later this year in August so the', 'start': 1972.9, 'duration': 3.87}
+{'text': 'pavillion is for the upcoming ends of a', 'start': 1975.15, 'duration': 3.73}
+{'text': 'Columbus Exhibition in Columbus Indiana', 'start': 1976.77, 'duration': 4.45}
+{'text': "many of you may know about Columbus it's", 'start': 1978.88, 'duration': 3.95}
+{'text': 'a mecca for modernist and postmodernist', 'start': 1981.22, 'duration': 4.08}
+{'text': 'architecture the town has worked by', 'start': 1982.83, 'duration': 3.88}
+{'text': 'materi that River', 'start': 1985.3, 'duration': 4.23}
+{'text': 'I am a in others our piece is going to', 'start': 1986.71, 'duration': 4.35}
+{'text': "sit right in front of New York's area in", 'start': 1989.53, 'duration': 3.21}
+{'text': 'this first Christian Church a new', 'start': 1991.06, 'duration': 5.79}
+{'text': 'landscape designed by Dan Kiley when we', 'start': 1992.74, 'duration': 5.7}
+{'text': 'put our initial proposal together over', 'start': 1996.85, 'duration': 3.42}
+{'text': 'the summer times we started with two', 'start': 1998.44, 'duration': 4.02}
+{'text': 'lines of inspiration so do you like to', 'start': 2000.27, 'duration': 4.8}
+{'text': 'conceptual drivers first we wanted to', 'start': 2002.46, 'duration': 4.14}
+{'text': 'imagine the series of architectural', 'start': 2005.07, 'duration': 4.17}
+{'text': 'forms as wireframe wireframes and our', 'start': 2006.6, 'duration': 4.89}
+{'text': 'skeletal constructions so volumes', 'start': 2009.24, 'duration': 5.19}
+{'text': 'redness lines and space the second thing', 'start': 2011.49, 'duration': 4.44}
+{'text': 'we wanted to do this for was how', 'start': 2014.43, 'duration': 3.39}
+{'text': 'architecture might give shape to extract', 'start': 2015.93, 'duration': 3.96}
+{'text': "natural systems so we're thinking about", 'start': 2017.82, 'duration': 4.13}
+{'text': 'the ways that we in popular culture', 'start': 2019.89, 'duration': 4.35}
+{'text': 'conventional needs of Natural History', 'start': 2021.95, 'duration': 3.96}
+{'text': 'and ecological networks', 'start': 2024.24, 'duration': 3.84}
+{'text': 'it was exciting to start to consider', 'start': 2025.91, 'duration': 3.97}
+{'text': 'program with this project as we went up', 'start': 2028.08, 'duration': 5.31}
+{'text': 'in scale from a formal perspective we', 'start': 2029.88, 'duration': 5.549}
+{'text': 'looked at artists that work with selves', 'start': 2033.39, 'duration': 4.949}
+{'text': 'a little frames the question for us was', 'start': 2035.429, 'duration': 5.07}
+{'text': 'can an architectural structure be', 'start': 2038.339, 'duration': 4.44}
+{'text': "expressive and again there's also this", 'start': 2040.499, 'duration': 4.14}
+{'text': 'idea of form as a diagram of course in', 'start': 2042.779, 'duration': 3.661}
+{'text': 'that way a question that I like to think', 'start': 2044.639, 'duration': 4.591}
+{'text': 'about it is how can when compose with', 'start': 2046.44, 'duration': 5.58}
+{'text': 'physics can one subjective form to', 'start': 2049.23, 'duration': 5.49}
+{'text': 'virtual or simulated gravity as a way of', 'start': 2052.02, 'duration': 7.319}
+{'text': 'generating schemes thinking about the', 'start': 2054.72, 'duration': 6.149}
+{'text': 'pavilion program over there summertime', 'start': 2059.339, 'duration': 3.181}
+{'text': "we're reading the number of philosophers", 'start': 2060.869, 'duration': 3.151}
+{'text': 'interested in materialists and', 'start': 2062.52, 'duration': 3.839}
+{'text': "ecological theories think there's asking", 'start': 2064.02, 'duration': 3.509}
+{'text': 'asked their questions about our', 'start': 2066.359, 'duration': 4.17}
+{'text': 'relationship to inanimate things part of', 'start': 2067.529, 'duration': 4.77}
+{'text': 'the reason we wanted a more visually for', 'start': 2070.529, 'duration': 4.02}
+{'text': 'its massing is driven by the other major', 'start': 2072.299, 'duration': 4.5}
+{'text': 'element of the project its program has a', 'start': 2074.549, 'duration': 4.58}
+{'text': 'full scale in the very important area', 'start': 2076.799, 'duration': 5.641}
+{'text': 'the basic material idea for billion is', 'start': 2079.129, 'duration': 5.321}
+{'text': 'that we are co-opting ready-made', 'start': 2082.44, 'duration': 4.679}
+{'text': 'assembly logic from greenhouse games so', 'start': 2084.45, 'duration': 4.199}
+{'text': 'a combination of off-the-shelf', 'start': 2087.119, 'duration': 3.51}
+{'text': 'components and receipt machine precision', 'start': 2088.649, 'duration': 4.95}
+{'text': 'fabricated parts the actual enclosure', 'start': 2090.629, 'duration': 4.081}
+{'text': 'will be clear', 'start': 2093.599, 'duration': 3.03}
+{'text': 'structures and for the carbonate engines', 'start': 2094.71, 'duration': 3.75}
+{'text': 'the panels will be cut to match the', 'start': 2096.629, 'duration': 3.391}
+{'text': 'primary and secondary structure elements', 'start': 2098.46, 'duration': 3.33}
+{'text': 'of', 'start': 2100.02, 'duration': 4.21}
+{'text': "on the interior we've designed the", 'start': 2101.79, 'duration': 3.85}
+{'text': 'planar arrangement of print', 'start': 2104.23, 'duration': 3.99}
+{'text': 'raishin for its artificial lighting of', 'start': 2105.64, 'duration': 5.49}
+{'text': 'fabricated serene during the day the', 'start': 2108.22, 'duration': 4.379}
+{'text': 'installation will be exciting forgot', 'start': 2111.13, 'duration': 3.27}
+{'text': 'sirloin Club encounter and social', 'start': 2112.599, 'duration': 5.25}
+{'text': 'gathering during the evening the', 'start': 2114.4, 'duration': 4.77}
+{'text': 'structure would be illuminated from', 'start': 2117.849, 'duration': 3.541}
+{'text': 'within here were actually going to', 'start': 2119.17, 'duration': 3.99}
+{'text': 'inspired by the glass volume on top of', 'start': 2121.39, 'duration': 4.11}
+{'text': "different works are we knew you'd be if", 'start': 2123.16, 'duration': 3.6}
+{'text': "you haven't been to Columbus you may", 'start': 2125.5, 'duration': 2.48}
+{'text': 'have seen', 'start': 2126.76, 'duration': 3.45}
+{'text': 'seesee continuation of some of our', 'start': 2127.98, 'duration': 4.3}
+{'text': 'earlier work in the geometry of the', 'start': 2130.21, 'duration': 3.96}
+{'text': 'civilians maxing the same distance', 'start': 2132.28, 'duration': 4.26}
+{'text': 'accidents or atomic form rendered and', 'start': 2134.17, 'duration': 4.59}
+{'text': 'lightweight structural system in any', 'start': 2136.54, 'duration': 6.12}
+{'text': "reflective skinny's so turning to the", 'start': 2138.76, 'duration': 5.94}
+{'text': 'shapes of fabrication were designing the', 'start': 2142.66, 'duration': 3.87}
+{'text': 'pavilions frame is a kid of interlocking', 'start': 2144.7, 'duration': 4.35}
+{'text': 'flat digitally fabricated components', 'start': 2146.53, 'duration': 4.68}
+{'text': "we've been very fortunate to receive yet", 'start': 2149.05, 'duration': 3.57}
+{'text': 'another corporate sponsorship from', 'start': 2151.21, 'duration': 4.08}
+{'text': 'Autodesk for our project as we search', 'start': 2152.62, 'duration': 4.92}
+{'text': 'residents and their bill twisting Boston', 'start': 2155.29, 'duration': 4.44}
+{'text': 'were now developing prototypes into', 'start': 2157.54, 'duration': 3.75}
+{'text': 'pending court flows for the Sharks', 'start': 2159.73, 'duration': 5.52}
+{'text': 'refrain the plan is to fabricate the', 'start': 2161.29, 'duration': 6.06}
+{'text': 'framing elements using a CNC tube', 'start': 2165.25, 'duration': 4.17}
+{'text': 'bending machine so each frame will have', 'start': 2167.35, 'duration': 3.93}
+{'text': 'connection watching those into its', 'start': 2169.42, 'duration': 4.08}
+{'text': 'geometry so again you want to minimize', 'start': 2171.28, 'duration': 3.93}
+{'text': 'labor-intensive on-site assembly', 'start': 2173.5, 'duration': 4.08}
+{'text': 'processes such as like precision welding', 'start': 2175.21, 'duration': 4.2}
+{'text': 'for example so our plan is to', 'start': 2177.58, 'duration': 3.3}
+{'text': 'practically the panels such as the', 'start': 2179.41, 'duration': 3.63}
+{'text': 'entire pavilion fitting and flat packed', 'start': 2180.88, 'duration': 5.31}
+{'text': 'and transported to our site', 'start': 2183.04, 'duration': 5.22}
+{'text': 'in this room you see us working to', 'start': 2186.19, 'duration': 4.56}
+{'text': 'optimize the amount of unique radii at', 'start': 2188.26, 'duration': 5.13}
+{'text': 'each main 20 moments for example to our', 'start': 2190.75, 'duration': 5.07}
+{'text': 'fabrication pieces as that digital tools', 'start': 2193.39, 'duration': 4.71}
+{'text': 'can easily accommodate an infinite', 'start': 2195.82, 'duration': 4.26}
+{'text': 'amount or an infinite variety of unique', 'start': 2198.1, 'duration': 3.96}
+{'text': 'parameters like radii and length and so', 'start': 2200.08, 'duration': 4.95}
+{'text': 'on but for our interests in research', 'start': 2202.06, 'duration': 4.86}
+{'text': 'were aiming to land somewhere between', 'start': 2205.03, 'duration': 4.8}
+{'text': 'standardized production and 100% custom', 'start': 2206.92, 'duration': 6.6}
+{'text': 'fabrication so we see the pavilion as a', 'start': 2209.83, 'duration': 5.4}
+{'text': 'model for something that is potentially', 'start': 2213.52, 'duration': 4.23}
+{'text': "scaleable here's a physical model that", 'start': 2215.23, 'duration': 3.87}
+{'text': 'we built for the design presentation', 'start': 2217.75, 'duration': 3.78}
+{'text': 'maximum in the model itself you can see', 'start': 2219.1, 'duration': 3.81}
+{'text': "how we're starting to think about the", 'start': 2221.53, 'duration': 3.54}
+{'text': 'construction relationship between', 'start': 2222.91, 'duration': 4.89}
+{'text': 'multiple elements such as planar', 'start': 2225.07, 'duration': 5.61}
+{'text': 'arrangements wireframe the linear linear', 'start': 2227.8, 'duration': 5.58}
+{'text': 'expressions formal articulations and', 'start': 2230.68, 'duration': 5.6}
+{'text': 'surface conditions', 'start': 2233.38, 'duration': 2.9}
+{'text': 'okay so I talked about', 'start': 2239.78, 'duration': 6.479}
+{'text': 'first part of the lecture and some more', 'start': 2244.069, 'duration': 4.081}
+{'text': 'formal and graphical motivations in the', 'start': 2246.259, 'duration': 4.26}
+{'text': 'second part in this final part at the', 'start': 2248.15, 'duration': 4.23}
+{'text': 'top I want to conclude with the project', 'start': 2250.519, 'duration': 4.26}
+{'text': 'that attempts a convergence of these two', 'start': 2252.38, 'duration': 4.8}
+{'text': "drivers paddy Ryan's take on graphic", 'start': 2254.779, 'duration': 4.141}
+{'text': 'roles and how do those graphics and', 'start': 2257.18, 'duration': 3.24}
+{'text': 'volumes start to communicate with one', 'start': 2258.92, 'duration': 3.529}
+{'text': 'another', 'start': 2260.42, 'duration': 2.029}
+{'text': 'this final project titled poppy red', 'start': 2264.32, 'duration': 4.74}
+{'text': 'should be looked at as an ongoing war', 'start': 2266.8, 'duration': 5.05}
+{'text': 'movie suitcase driven rather than', 'start': 2269.06, 'duration': 5.87}
+{'text': 'production of specific artifacts I', 'start': 2271.85, 'duration': 4.95}
+{'text': 'originally started working on this', 'start': 2274.93, 'duration': 3.73}
+{'text': 'project as I was writing an article on', 'start': 2276.8, 'duration': 4.26}
+{'text': 'discrete geometries and the reappraisal', 'start': 2278.66, 'duration': 4.83}
+{'text': 'of the digital to the ad magazine issue', 'start': 2281.06, 'duration': 4.56}
+{'text': '89 which is going to be out and he', 'start': 2283.49, 'duration': 6.27}
+{'text': 'writes this April so building on some of', 'start': 2285.62, 'duration': 5.85}
+{'text': 'the earthly earlier thoughts and see', 'start': 2289.76, 'duration': 2.22}
+{'text': 'reality', 'start': 2291.47, 'duration': 3.09}
+{'text': 'specifically seeing nine in this article', 'start': 2291.98, 'duration': 5.1}
+{'text': 'I expended on the monitors mention of', 'start': 2294.56, 'duration': 5.01}
+{'text': 'part-to-whole logics in this', 'start': 2297.08, 'duration': 4.44}
+{'text': 'investigation I also turned to burn on', 'start': 2299.57, 'duration': 3.87}
+{'text': 'the torus composition theory which is', 'start': 2301.52, 'duration': 3.48}
+{'text': 'concerned with the imminent conditions', 'start': 2303.44, 'duration': 4.02}
+{'text': 'of what is already in the world so the', 'start': 2305.0, 'duration': 4.83}
+{'text': 'theory opposes existing things in non', 'start': 2307.46, 'duration': 4.38}
+{'text': 'hierarchical and non totalizing', 'start': 2309.83, 'duration': 4.65}
+{'text': 'organizations as opposed we started like', 'start': 2311.84, 'duration': 7.29}
+{'text': 'modernist transcendental model to', 'start': 2314.48, 'duration': 7.89}
+{'text': 'illustrate that our literary uses Thomas', 'start': 2319.13, 'duration': 4.89}
+{'text': 'Eric Sanders work so this work is called', 'start': 2322.37, 'duration': 3.7}
+{'text': 'a very long title', 'start': 2324.02, 'duration': 4.09}
+{'text': 'this form in the lungs elements like', 'start': 2326.07, 'duration': 3.54}
+{'text': 'droplets along the strains of a', 'start': 2328.11, 'duration': 3.9}
+{'text': 'spiderweb he uses this work as a visual', 'start': 2329.61, 'duration': 4.65}
+{'text': 'metaphor that resists hierarchical order', 'start': 2332.01, 'duration': 4.44}
+{'text': 'the center points and instead create', 'start': 2334.26, 'duration': 4.23}
+{'text': 'highly intricate conditions of nesting', 'start': 2336.45, 'duration': 4.38}
+{'text': 'so the work celebrates interdependence', 'start': 2338.49, 'duration': 3.78}
+{'text': 'of different elements into flat', 'start': 2340.83, 'duration': 3.93}
+{'text': 'ontological schemes this composition', 'start': 2342.27, 'duration': 4.83}
+{'text': 'based method of working and evaluating', 'start': 2344.76, 'duration': 4.56}
+{'text': 'even is what makes our shadows like', 'start': 2347.1, 'duration': 4.23}
+{'text': 'ousts galaxies words the contemporary', 'start': 2349.32, 'duration': 3.96}
+{'text': 'theoretical diagram and visually', 'start': 2351.33, 'duration': 6.27}
+{'text': 'enticing sculptural work another', 'start': 2353.28, 'duration': 6.18}
+{'text': 'illustration of this network theory the', 'start': 2357.6, 'duration': 4.32}
+{'text': 'focuses on parts rather than holes can', 'start': 2359.46, 'duration': 4.23}
+{'text': "be read in June resins I'm going to", 'start': 2361.92, 'duration': 4.2}
+{'text': 'research of discrete geometries in this', 'start': 2363.69, 'duration': 5.46}
+{'text': 'composition Breton aligns thickened', 'start': 2366.12, 'duration': 5.6}
+{'text': 'linear elements with some', 'start': 2369.15, 'duration': 5.6}
+{'text': "of directionality and loose form he's", 'start': 2371.72, 'duration': 5.129}
+{'text': 'not interested in custom geometry that', 'start': 2374.75, 'duration': 4.2}
+{'text': 'belongs to one finalized thing but', 'start': 2376.849, 'duration': 3.901}
+{'text': 'rather how things can come together to', 'start': 2378.95, 'duration': 6.18}
+{'text': 'create assembly of humans so discrete', 'start': 2380.75, 'duration': 6.99}
+{'text': 'modes of operating are analogous to', 'start': 2385.13, 'duration': 4.59}
+{'text': 'bullet Orion composition project and', 'start': 2387.74, 'duration': 4.08}
+{'text': 'that they both advocate a semblance a', 'start': 2389.72, 'duration': 4.889}
+{'text': 'reconfiguration in place of creation so', 'start': 2391.82, 'duration': 5.31}
+{'text': "instead of creation what's more the", 'start': 2394.609, 'duration': 4.921}
+{'text': 'discrete mode has evolved beyond its', 'start': 2397.13, 'duration': 5.25}
+{'text': 'original pure purely geometric ambitions', 'start': 2399.53, 'duration': 5.46}
+{'text': 'to include other architectural elements', 'start': 2402.38, 'duration': 4.26}
+{'text': 'such as graphics and figures and', 'start': 2404.99, 'duration': 6.45}
+{'text': 'tectonics these images here by our', 'start': 2406.64, 'duration': 7.65}
+{'text': 'eyelash our studies for a brief so the', 'start': 2411.44, 'duration': 5.73}
+{'text': 'study uses a linear unit varying lengths', 'start': 2414.29, 'duration': 4.71}
+{'text': 'and orientations of the unit and', 'start': 2417.17, 'duration': 4.71}
+{'text': 'composes it in a sort of statistical', 'start': 2419.0, 'duration': 5.13}
+{'text': 'manner from an almost shatter point', 'start': 2421.88, 'duration': 4.77}
+{'text': 'therefore creating assembly of clusters', 'start': 2424.13, 'duration': 5.19}
+{'text': 'of units so parts are formed into other', 'start': 2426.65, 'duration': 4.56}
+{'text': 'parts which are the nested into a', 'start': 2429.32, 'duration': 4.82}
+{'text': 'sequential composition', 'start': 2431.21, 'duration': 2.93}
+{'text': 'my project copyright is comprised of', 'start': 2434.3, 'duration': 4.89}
+{'text': 'various studies of objects models', 'start': 2437.18, 'duration': 5.13}
+{'text': 'renderings and animations that said it', 'start': 2439.19, 'duration': 6.33}
+{'text': 'began with a series of dragons so this', 'start': 2442.31, 'duration': 5.22}
+{'text': 'series is more tightly focused on self', 'start': 2445.52, 'duration': 3.69}
+{'text': 'similar clusters of lines and very', 'start': 2447.53, 'duration': 4.14}
+{'text': 'layered compositions at least in the', 'start': 2449.21, 'duration': 5.04}
+{'text': 'face shown here so you can see the sort', 'start': 2451.67, 'duration': 5.99}
+{'text': 'of variations from one frame to the next', 'start': 2454.25, 'duration': 6.3}
+{'text': 'this is part two of that study so the', 'start': 2457.66, 'duration': 5.05}
+{'text': 'idea is here for this group is to be', 'start': 2460.55, 'duration': 3.96}
+{'text': 'seen as a drawing that contains three', 'start': 2462.71, 'duration': 3.96}
+{'text': 'frames rather than three separate', 'start': 2464.51, 'duration': 4.38}
+{'text': "drawings it's almost filming in that way", 'start': 2466.67, 'duration': 4.35}
+{'text': 'so the frames are not distinguished from', 'start': 2468.89, 'duration': 3.84}
+{'text': 'one another in significant manner', 'start': 2471.02, 'duration': 3.84}
+{'text': "they're meant to be looked at snippets", 'start': 2472.73, 'duration': 4.44}
+{'text': 'that capture three distinct moment of', 'start': 2474.86, 'duration': 4.62}
+{'text': 'line clusters floating on to it two', 'start': 2477.17, 'duration': 6.12}
+{'text': 'floating on to a 2d plane this is the', 'start': 2479.48, 'duration': 5.91}
+{'text': 'last election from the drawing set so', 'start': 2483.29, 'duration': 3.78}
+{'text': 'the composition the composition of', 'start': 2485.39, 'duration': 3.6}
+{'text': 'watchings and these examples examples', 'start': 2487.07, 'duration': 3.75}
+{'text': 'are permutation games based on color', 'start': 2488.99, 'duration': 4.53}
+{'text': 'films line densities containers of', 'start': 2490.82, 'duration': 4.98}
+{'text': 'linear element and vector orientations', 'start': 2493.52, 'duration': 6.17}
+{'text': 'which may seem random at first', 'start': 2495.8, 'duration': 3.89}
+{'text': 'working loosely with the dilatory an', 'start': 2500.4, 'duration': 4.77}
+{'text': 'argument for not higher-order within a', 'start': 2502.77, 'duration': 4.65}
+{'text': 'composition the drawing studies are', 'start': 2505.17, 'duration': 4.74}
+{'text': "parceled into localized sequester's but", 'start': 2507.42, 'duration': 4.26}
+{'text': 'not necessarily groups that create a', 'start': 2509.91, 'duration': 5.13}
+{'text': 'have people there where their parts that', 'start': 2511.68, 'duration': 5.94}
+{'text': 'create a continuous network the idea is', 'start': 2515.04, 'duration': 4.44}
+{'text': 'to withhold any sort of conventional', 'start': 2517.62, 'duration': 3.87}
+{'text': 'evaluative criteria at this particular', 'start': 2519.48, 'duration': 4.38}
+{'text': 'phase so kind of like typical good', 'start': 2521.49, 'duration': 6.35}
+{'text': 'drawing versus bad drawing examples', 'start': 2523.86, 'duration': 3.98}
+{'text': 'so that was the kind of like', 'start': 2529.08, 'duration': 2.87}
+{'text': 'two-dimensional cream with prints', 'start': 2530.49, 'duration': 4.11}
+{'text': 'straightforward enough but like most', 'start': 2531.95, 'duration': 4.6}
+{'text': 'architects I left drying hoodies at', 'start': 2534.6, 'duration': 4.29}
+{'text': 'social tools and this next phase of the', 'start': 2536.55, 'duration': 4.08}
+{'text': 'project I became interested in more', 'start': 2538.89, 'duration': 4.26}
+{'text': 'public support commissioned I wanted to', 'start': 2540.63, 'duration': 4.5}
+{'text': 'explore how my feedly interests clear to', 'start': 2543.15, 'duration': 3.84}
+{'text': 'respond to or resistance of show', 'start': 2545.13, 'duration': 4.37}
+{'text': 'audience', 'start': 2546.99, 'duration': 2.51}
+{'text': 'I started looking at other architects', 'start': 2549.71, 'duration': 3.6}
+{'text': 'and artists that work with relatively', 'start': 2551.69, 'duration': 3.72}
+{'text': 'simple geometries so cover them in', 'start': 2553.31, 'duration': 3.75}
+{'text': 'complex images and graphics', 'start': 2555.41, 'duration': 4.14}
+{'text': 'I was not only interested in process but', 'start': 2557.06, 'duration': 4.13}
+{'text': 'also reading the result of that process', 'start': 2559.55, 'duration': 4.28}
+{'text': 'how is Michael Pfizer in this example', 'start': 2561.19, 'duration': 4.96}
+{'text': 'able to sustain her attention would be', 'start': 2563.83, 'duration': 5.11}
+{'text': 'simple white directional extrusions what', 'start': 2566.15, 'duration': 4.44}
+{'text': 'is the relationship between the edges of', 'start': 2568.94, 'duration': 3.6}
+{'text': 'the underlying geometry and the graphic', 'start': 2570.59, 'duration': 4.32}
+{'text': 'wrapper I particularly like this example', 'start': 2572.54, 'duration': 4.83}
+{'text': 'as an images or the image seems to', 'start': 2574.91, 'duration': 4.38}
+{'text': 'follow the edge of its work quite', 'start': 2577.37, 'duration': 4.35}
+{'text': 'faintly with the exception that the', 'start': 2579.29, 'duration': 4.2}
+{'text': 'spirit saw moments when the graphic', 'start': 2581.72, 'duration': 3.75}
+{'text': 'slips or drips onto the side of the', 'start': 2583.49, 'duration': 5.85}
+{'text': 'piece I find that this blurring', 'start': 2585.47, 'duration': 6.0}
+{'text': 'condition between what is geometry what', 'start': 2589.34, 'duration': 3.99}
+{'text': 'is graphic is a contemporary problem the', 'start': 2591.47, 'duration': 4.84}
+{'text': 'visual culture across discipline', 'start': 2593.33, 'duration': 4.63}
+{'text': 'I think that those apartments were', 'start': 2596.31, 'duration': 4.65}
+{'text': 'filled as well as atmospheric pictorial', 'start': 2597.96, 'duration': 5.19}
+{'text': 'effects like the Katrina first example', 'start': 2600.96, 'duration': 4.5}
+{'text': 'on the left both belong to a larger very', 'start': 2603.15, 'duration': 4.41}
+{'text': 'very interesting graphic form graphic', 'start': 2605.46, 'duration': 4.77}
+{'text': 'form equations so even though the Sun', 'start': 2607.56, 'duration': 5.13}
+{'text': 'looking example on the far right it', 'start': 2610.23, 'duration': 5.37}
+{'text': "belongs 60s it's anticipating this kind", 'start': 2612.69, 'duration': 6.47}
+{'text': 'of this field of interest in my opinion', 'start': 2615.6, 'duration': 5.88}
+{'text': "these are Frank's fellows Polish village", 'start': 2619.16, 'duration': 5.14}
+{'text': "series also from an earlier era but it's", 'start': 2621.48, 'duration': 5.25}
+{'text': 'still useful as a useful example of work', 'start': 2624.3, 'duration': 4.29}
+{'text': 'that it seems to productively entangled', 'start': 2626.73, 'duration': 4.02}
+{'text': 'color fills with geometric supports', 'start': 2628.59, 'duration': 4.2}
+{'text': 'having the use of color have to be', 'start': 2630.75, 'duration': 6.02}
+{'text': 'different ways we in-depth that figure', 'start': 2632.79, 'duration': 3.98}
+{'text': 'so maybe less serious or formal in terms', 'start': 2637.52, 'duration': 5.95}
+{'text': 'these examples show graphic massing and', 'start': 2640.92, 'duration': 4.71}
+{'text': "volumetric operations they're reveal", 'start': 2643.47, 'duration': 3.66}
+{'text': 'different effective properties of', 'start': 2645.63, 'duration': 4.14}
+{'text': 'objects and prices example on the Left', 'start': 2647.13, 'duration': 5.1}
+{'text': 'uses a solid color as a boolean', 'start': 2649.77, 'duration': 4.92}
+{'text': 'operation to further emphasize the', 'start': 2652.23, 'duration': 4.44}
+{'text': 'surface or texture condition that is', 'start': 2654.69, 'duration': 4.14}
+{'text': 'separate from the form itself', 'start': 2656.67, 'duration': 4.86}
+{'text': 'so I send this image on the right tells', 'start': 2658.83, 'duration': 5.64}
+{'text': 'a similar story of graphics or surfaces', 'start': 2661.53, 'duration': 4.89}
+{'text': 'that can be denominated from the volume', 'start': 2664.47, 'duration': 4.13}
+{'text': 'with their host of it', 'start': 2666.42, 'duration': 3.93}
+{'text': '[Music]', 'start': 2668.6, 'duration': 3.97}
+{'text': 'this more recent example by weight that', 'start': 2670.35, 'duration': 3.62}
+{'text': 'Union Kelly Walker on the Left', 'start': 2672.57, 'duration': 3.21}
+{'text': 'illustrates yet another way that', 'start': 2673.97, 'duration': 3.82}
+{'text': 'graphics and volume such an interaction', 'start': 2675.78, 'duration': 3.26}
+{'text': 'were in strange ways', 'start': 2677.79, 'duration': 3.93}
+{'text': 'in addition these examples show evidence', 'start': 2679.04, 'duration': 5.35}
+{'text': 'of graphic processes and digital image', 'start': 2681.72, 'duration': 5.22}
+{'text': 'hairs that are comfortably uncomfortably', 'start': 2684.39, 'duration': 4.44}
+{'text': 'bridge the gap between the virtual', 'start': 2686.94, 'duration': 6.09}
+{'text': 'screen and the material world so digging', 'start': 2688.83, 'duration': 7.14}
+{'text': 'into more digital processes makes', 'start': 2693.03, 'duration': 5.46}
+{'text': 'intelligence work on the right spatial', 'start': 2695.97, 'duration': 4.68}
+{'text': 'axes what we currently referred to as', 'start': 2698.49, 'duration': 4.23}
+{'text': 'texture mapping or UV mapping in the', 'start': 2700.65, 'duration': 4.65}
+{'text': "digital environment so here's how that", 'start': 2702.72, 'duration': 5.55}
+{'text': 'works the flat graphic pieces which are', 'start': 2705.3, 'duration': 5.07}
+{'text': 'hung on the walls are constantly being', 'start': 2708.27, 'duration': 4.26}
+{'text': 'projected onto their reflective surface', 'start': 2710.37, 'duration': 4.83}
+{'text': 'objects which are placed eighth floor so', 'start': 2712.53, 'duration': 4.44}
+{'text': 'the images are being projected in real', 'start': 2715.2, 'duration': 4.35}
+{'text': 'time onto the object as one walks around', 'start': 2716.97, 'duration': 4.77}
+{'text': 'the space the direction that the', 'start': 2719.55, 'duration': 4.5}
+{'text': 'projection is animated by the movement', 'start': 2721.74, 'duration': 7.26}
+{'text': 'of the viewer so I want to show that you', 'start': 2724.05, 'duration': 6.57}
+{'text': 'workshop with studio experiments and', 'start': 2729.0, 'duration': 4.47}
+{'text': 'have been a part of this research here I', 'start': 2730.62, 'duration': 3.68}
+{'text': 'went to Greece', 'start': 2733.47, 'duration': 2.86}
+{'text': 'temperate glass of digital fabrication', 'start': 2734.3, 'duration': 4.38}
+{'text': 'we used to teach separately as their', 'start': 2736.33, 'duration': 4.51}
+{'text': 'presentation and drying I think that', 'start': 2738.68, 'duration': 3.69}
+{'text': 'these two practices and practices are', 'start': 2740.84, 'duration': 4.2}
+{'text': 'becoming productively conflate completed', 'start': 2742.37, 'duration': 4.29}
+{'text': 'in the Academy and we said two things so', 'start': 2745.04, 'duration': 3.75}
+{'text': "so looking at this video I think it's", 'start': 2746.66, 'duration': 4.65}
+{'text': 'important to note that also although', 'start': 2748.79, 'duration': 5.58}
+{'text': "these tests I'm sorry these tests did", 'start': 2751.31, 'duration': 4.8}
+{'text': 'not privilege the digital physical', 'start': 2754.37, 'duration': 4.26}
+{'text': 'artifact in any way but rather I trust', 'start': 2756.11, 'duration': 4.44}
+{'text': 'trustee use want to inform the other', 'start': 2758.63, 'duration': 3.14}
+{'text': '[Music]', 'start': 2760.55, 'duration': 4.05}
+{'text': 'these examples here soon work from a to', 'start': 2761.77, 'duration': 4.72}
+{'text': 'act digital fabrication classical', 'start': 2764.6, 'duration': 3.75}
+{'text': 'tablets Jeff Hoffman we carefully', 'start': 2766.49, 'duration': 4.38}
+{'text': 'integrated the form generation and not', 'start': 2768.35, 'duration': 4.68}
+{'text': 'have rendering techniques fluidly', 'start': 2770.87, 'duration': 3.87}
+{'text': 'through the two different axes through', 'start': 2773.03, 'duration': 4.67}
+{'text': 'different softwares', 'start': 2774.74, 'duration': 2.96}
+{'text': "and here you're looking at a", 'start': 2778.19, 'duration': 2.85}
+{'text': 'cross-section of student work from that', 'start': 2779.66, 'duration': 5.25}
+{'text': 'video exploring the hydrogen which is', 'start': 2781.04, 'duration': 5.64}
+{'text': 'popularly using custom and emotive', 'start': 2784.91, 'duration': 3.99}
+{'text': 'culture athletic gear at during Clemente', 'start': 2786.68, 'duration': 5.52}
+{'text': 'and other similar things so this is a', 'start': 2788.9, 'duration': 5.64}
+{'text': 'collection of former renderings and hide', 'start': 2792.2, 'duration': 6.42}
+{'text': 'your dead physical artifacts using', 'start': 2794.54, 'duration': 6.9}
+{'text': 'vacuum transports and 3d prints the', 'start': 2798.62, 'duration': 4.29}
+{'text': 'students in these workshops and seminars', 'start': 2801.44, 'duration': 3.54}
+{'text': 'explored the idea of printmaking with', 'start': 2802.91, 'duration': 4.62}
+{'text': 'CBD substrates in this set for example', 'start': 2804.98, 'duration': 4.59}
+{'text': 'faceted 3d prints would be draped but', 'start': 2807.53, 'duration': 4.23}
+{'text': 'other field graphics suspended on the', 'start': 2809.57, 'duration': 4.59}
+{'text': 'surface tension of chemical baths when', 'start': 2811.76, 'duration': 4.14}
+{'text': 'the volume rushes through the fluid', 'start': 2814.16, 'duration': 3.87}
+{'text': 'graphic material logics would have', 'start': 2815.9, 'duration': 3.69}
+{'text': 'produced this unpredictable', 'start': 2818.03, 'duration': 3.24}
+{'text': 'relationships between the form in the', 'start': 2819.59, 'duration': 5.55}
+{'text': 'graphic so this line of material', 'start': 2821.27, 'duration': 6.06}
+{'text': 'experimentation is also informed by the', 'start': 2825.14, 'duration': 4.77}
+{'text': "use of digital tools so again I'm", 'start': 2827.33, 'duration': 4.89}
+{'text': 'exploiting the material behavior to push', 'start': 2829.91, 'duration': 4.47}
+{'text': 'against the precision of software such', 'start': 2832.22, 'duration': 4.11}
+{'text': 'as the platform does not over determine', 'start': 2834.38, 'duration': 3.45}
+{'text': 'the visual', 'start': 2836.33, 'duration': 4.12}
+{'text': 'this is a render that this is a rendered', 'start': 2837.83, 'duration': 4.69}
+{'text': 'image of 3d passing study that has been', 'start': 2840.45, 'duration': 4.35}
+{'text': 'placed up to a 2d canvas with some', 'start': 2842.52, 'duration': 3.51}
+{'text': 'painterly and graphic content', 'start': 2844.8, 'duration': 3.57}
+{'text': 'superimposed onto it so the virtual', 'start': 2846.03, 'duration': 5.0}
+{'text': 'equivalent of the Hydra different back', 'start': 2848.37, 'duration': 5.58}
+{'text': 'so similarly though the Hydra defeated', 'start': 2851.03, 'duration': 5.44}
+{'text': 'me in this event we can see the 2d', 'start': 2853.95, 'duration': 4.44}
+{'text': 'superimpose graphic projected directly', 'start': 2856.47, 'duration': 4.29}
+{'text': 'onto the 3d form while you know the', 'start': 2858.39, 'duration': 4.83}
+{'text': 'access to very precise and mechanics in', 'start': 2860.76, 'duration': 4.77}
+{'text': 'these workflows the geometry itself can', 'start': 2863.22, 'duration': 4.11}
+{'text': 'be made by expectedly as you tried to', 'start': 2865.53, 'duration': 3.93}
+{'text': 'forge relationships between these two', 'start': 2867.33, 'duration': 4.62}
+{'text': 'different representations the render and', 'start': 2869.46, 'duration': 7.56}
+{'text': 'the actual geometry of the 3d object so', 'start': 2871.95, 'duration': 7.74}
+{'text': 'the moments of misbehavior for me our', 'start': 2877.02, 'duration': 5.07}
+{'text': 'moments prefer their pronunciation what', 'start': 2879.69, 'duration': 4.77}
+{'text': 'reads as a digital process error to meet', 'start': 2882.09, 'duration': 4.38}
+{'text': 'you be refreshing especially within a', 'start': 2884.46, 'duration': 3.9}
+{'text': 'contemporary visual culture that is', 'start': 2886.47, 'duration': 3.66}
+{'text': 'saturated with high luster high', 'start': 2888.36, 'duration': 4.53}
+{'text': 'resolution imagery so precision can be', 'start': 2890.13, 'duration': 6.05}
+{'text': 'an unproductive constraining in our way', 'start': 2892.89, 'duration': 6.63}
+{'text': 'back to copy read this image is a table', 'start': 2896.18, 'duration': 5.78}
+{'text': 'showing the parameters of a head', 'start': 2899.52, 'duration': 4.78}
+{'text': 'that initiated the 3d version your', 'start': 2901.96, 'duration': 4.649}
+{'text': 'development can be read the Left column', 'start': 2904.3, 'duration': 4.799}
+{'text': 'lists different processes techniques and', 'start': 2906.609, 'duration': 4.891}
+{'text': 'methods that I used to dress a fixed', 'start': 2909.099, 'duration': 5.901}
+{'text': 'volume with variations of graphic film', 'start': 2911.5, 'duration': 6.319}
+{'text': 'so this particular set for meeting', 'start': 2915.0, 'duration': 5.619}
+{'text': 'various combinations of these techniques', 'start': 2917.819, 'duration': 5.731}
+{'text': '15 times', 'start': 2920.619, 'duration': 2.931}
+{'text': 'you can see varying degrees citizen', 'start': 2923.87, 'duration': 5.37}
+{'text': 'control material agency insurance', 'start': 2926.18, 'duration': 5.43}
+{'text': 'operations at play you may also note', 'start': 2929.24, 'duration': 4.77}
+{'text': 'have fidelity to the vacuum positive', 'start': 2931.61, 'duration': 4.47}
+{'text': 'user ability to read the graphic as a', 'start': 2934.01, 'duration': 5.01}
+{'text': 'rap like decal or color scheme embedded', 'start': 2936.08, 'duration': 6.87}
+{'text': 'within the volume itself so these', 'start': 2939.02, 'duration': 5.79}
+{'text': 'artifacts primarily borrowing drawing', 'start': 2942.95, 'duration': 3.63}
+{'text': 'and printing procedures from graphic or', 'start': 2944.81, 'duration': 4.08}
+{'text': 'industrial design on the more precise', 'start': 2946.58, 'duration': 4.59}
+{'text': "end of the spectrum there's also some", 'start': 2948.89, 'duration': 4.05}
+{'text': 'very slight traces of just like high', 'start': 2951.17, 'duration': 3.81}
+{'text': 'finished commercial processes like the', 'start': 2952.94, 'duration': 6.32}
+{'text': 'Hydra dipping zones vinyl perhaps and', 'start': 2954.98, 'duration': 4.28}
+{'text': 'in this diagram you can start to see the', 'start': 2960.56, 'duration': 4.71}
+{'text': 'logic supplying graphic and material', 'start': 2963.11, 'duration': 4.8}
+{'text': 'finalization as an attempt to operate me', 'start': 2965.27, 'duration': 5.49}
+{'text': 'on one stop mode or modeling like you', 'start': 2967.91, 'duration': 5.49}
+{'text': 'gotyou forms so the design of Michigan', 'start': 2970.76, 'duration': 4.2}
+{'text': 'stood in the center region can be great', 'start': 2973.4, 'duration': 4.14}
+{'text': 'for characterizes graphic content which', 'start': 2974.96, 'duration': 4.29}
+{'text': 'seems to follow up to grounded and', 'start': 2977.54, 'duration': 4.47}
+{'text': 'volumetric clusters so this is less a', 'start': 2979.25, 'duration': 4.26}
+{'text': 'study and more of a credit or', 'start': 2982.01, 'duration': 6.42}
+{'text': 'architectural composition the follow of', 'start': 2983.51, 'duration': 7.14}
+{'text': 'the to do film similar to some other', 'start': 2988.43, 'duration': 3.75}
+{'text': 'operations I talked about earlier', 'start': 2990.65, 'duration': 3.81}
+{'text': 'produces unexpected moments in this', 'start': 2992.18, 'duration': 4.5}
+{'text': 'graphic form choreography and this', 'start': 2994.46, 'duration': 4.11}
+{'text': 'close-up view you can see the direction', 'start': 2996.68, 'duration': 4.08}
+{'text': 'change and the line clusters slightly', 'start': 2998.57, 'duration': 4.41}
+{'text': 'misses the edges of the geometry toast', 'start': 3000.76, 'duration': 7.95}
+{'text': 'agon zoomy now it becomes clear that the', 'start': 3002.98, 'duration': 7.89}
+{'text': 'graphics all sometimes causes alignment', 'start': 3008.71, 'duration': 3.75}
+{'text': 'with the forming transformations of loop', 'start': 3010.87, 'duration': 4.44}
+{'text': 'as the volumes inaccurate way but', 'start': 3012.46, 'duration': 4.89}
+{'text': 'challenges and sculptural qualities of', 'start': 3015.31, 'duration': 4.31}
+{'text': 'those forms in favor of graphic figures', 'start': 3017.35, 'duration': 4.95}
+{'text': 'so this competition becomes a official', 'start': 3019.62, 'duration': 6.82}
+{'text': 'narrative form or so things are taken', 'start': 3022.3, 'duration': 6.33}
+{'text': "out of here in the perspectives that I'm", 'start': 3026.44, 'duration': 4.05}
+{'text': 'going to show you my street slides are', 'start': 3028.63, 'duration': 3.36}
+{'text': 'the relationship between the graphic', 'start': 3030.49, 'duration': 4.29}
+{'text': 'artifacts in fragment geologically', 'start': 3031.99, 'duration': 4.85}
+{'text': 'floods and volumetric organization', 'start': 3034.78, 'duration': 4.5}
+{'text': 'broadly speaking the project is an', 'start': 3036.84, 'duration': 4.06}
+{'text': 'attempt to discovery new relations', 'start': 3039.28, 'duration': 3.27}
+{'text': 'between contemporary visual trends and', 'start': 3040.9, 'duration': 3.09}
+{'text': 'disciplines for referral to', 'start': 3042.55, 'duration': 2.97}
+{'text': 'architectures so graphic design', 'start': 3043.99, 'duration': 4.32}
+{'text': 'animation riveting but also the built', 'start': 3045.52, 'duration': 4.41}
+{'text': 'environment something beyond the', 'start': 3048.31, 'duration': 5.52}
+{'text': 'tabletop object so abstract and', 'start': 3049.93, 'duration': 6.15}
+{'text': "experimental the study is selling it's", 'start': 3053.83, 'duration': 4.92}
+{'text': 'still in its initial seasons so the', 'start': 3056.08, 'duration': 4.59}
+{'text': 'series is meant to investigate visual', 'start': 3058.75, 'duration': 3.39}
+{'text': 'principles that could be extrapolated', 'start': 3060.67, 'duration': 5.66}
+{'text': 'into full-scale architectural proposal', 'start': 3062.14, 'duration': 4.19}
+{'text': 'you can think of these as rigorous', 'start': 3066.66, 'duration': 3.449}
+{'text': 'investigations into the sculptural', 'start': 3068.519, 'duration': 3.961}
+{'text': 'spatial properties of mind right here I', 'start': 3070.109, 'duration': 4.5}
+{'text': 'hope that hints of that miss Martin and', 'start': 3072.48, 'duration': 5.629}
+{'text': "friends and that they're visible again", 'start': 3074.609, 'duration': 3.5}
+{'text': 'well the word relies on advanced digital', 'start': 3078.529, 'duration': 4.871}
+{'text': 'tools or an architectural computation', 'start': 3081.18, 'duration': 4.439}
+{'text': 'and the animation or film industry like', 'start': 3083.4, 'duration': 3.869}
+{'text': 'the zebra student painting environment', 'start': 3085.619, 'duration': 3.99}
+{'text': 'for an earlier for example it also takes', 'start': 3087.269, 'duration': 5.1}
+{'text': 'cues reports or art theory in every', 'start': 3089.609, 'duration': 4.591}
+{'text': 'architecture like the references would', 'start': 3092.369, 'duration': 4.98}
+{'text': 'have sprinkled through at this top as a', 'start': 3094.2, 'duration': 5.339}
+{'text': 'final design composition papi wears', 'start': 3097.349, 'duration': 4.44}
+{'text': 'geometric agenda is a tent indebted to', 'start': 3099.539, 'duration': 3.631}
+{'text': "the house let's put forward by", 'start': 3101.789, 'duration': 3.391}
+{'text': 'contemporary sculptural worked in', 'start': 3103.17, 'duration': 3.81}
+{'text': "particular I'm interested in here", 'start': 3105.18, 'duration': 4.109}
+{'text': 'opposed carefully calculated sculptural', 'start': 3106.98, 'duration': 4.619}
+{'text': 'contortionism and her investigation of', 'start': 3109.289, 'duration': 5.371}
+{'text': "geometric posture like Bob's word poppy", 'start': 3111.599, 'duration': 5.101}
+{'text': 'red employs volumes that have undergone', 'start': 3114.66, 'duration': 4.349}
+{'text': 'a series of transformation America in', 'start': 3116.7, 'duration': 4.2}
+{'text': 'other words architectural figures in the', 'start': 3119.009, 'duration': 6.03}
+{'text': 'state of transformation change so to', 'start': 3120.9, 'duration': 5.969}
+{'text': "conclude I'd like to pose today's", 'start': 3125.039, 'duration': 3.841}
+{'text': 'lecture as an attempt to participate in', 'start': 3126.869, 'duration': 4.14}
+{'text': 'a digital trajectory that is part of the', 'start': 3128.88, 'duration': 4.469}
+{'text': 'continuance smoothly involving discourse', 'start': 3131.009, 'duration': 4.851}
+{'text': 'on the relationship between technology', 'start': 3133.349, 'duration': 5.271}
+{'text': 'an aesthetic theory this discourse is', 'start': 3135.86, 'duration': 5.55}
+{'text': "not free or post digital it's not first", 'start': 3138.62, 'duration': 5.7}
+{'text': 'or second way it embraces technology', 'start': 3141.41, 'duration': 5.7}
+{'text': 'code base assign material processes and', 'start': 3144.32, 'duration': 4.38}
+{'text': 'their disciplinary representational', 'start': 3147.11, 'duration': 4.14}
+{'text': 'conventions I know that sometimes not', 'start': 3148.7, 'duration': 4.35}
+{'text': 'taking it as a minute position can be', 'start': 3151.25, 'duration': 3.84}
+{'text': 'seen as an invasive stance however', 'start': 3153.05, 'duration': 4.11}
+{'text': 'within the larger practice that my', 'start': 3155.09, 'duration': 4.08}
+{'text': 'researcher with the STS first juice', 'start': 3157.16, 'duration': 4.23}
+{'text': "professorship I'd like to Sage it as a", 'start': 3159.17, 'duration': 4.44}
+{'text': 'productive bridge between two cultures a', 'start': 3161.39, 'duration': 4.5}
+{'text': 'culture that embraces technology and the', 'start': 3163.61, 'duration': 4.32}
+{'text': 'first principle and the one that begins', 'start': 3165.89, 'duration': 4.02}
+{'text': 'its architectural propositions with', 'start': 3167.93, 'duration': 3.87}
+{'text': 'historical precedent and theoretical', 'start': 3169.91, 'duration': 5.21}
+{'text': 'positions thank you', 'start': 3171.8, 'duration': 3.32}
+{'text': '[Applause]', 'start': 3176.04, 'duration': 3.119}
+{'text': '[Music]', 'start': 3180.34, 'duration': 4.44}
+{'text': "and let's", 'start': 3200.45, 'duration': 6.13}
+{'text': 'so a little bit of background the', 'start': 3203.86, 'duration': 5.61}
+{'text': 'original and this is also important in', 'start': 3206.58, 'duration': 4.48}
+{'text': 'terms of the emerging practices and how', 'start': 3209.47, 'duration': 2.76}
+{'text': 'we start to work through these problems', 'start': 3211.06, 'duration': 2.79}
+{'text': 'and notice that I was stuck to work like', 'start': 3212.23, 'duration': 4.35}
+{'text': 'and kind of transforming from sort of', 'start': 3213.85, 'duration': 3.93}
+{'text': 'like architecture model which is', 'start': 3216.58, 'duration': 4.14}
+{'text': "something that is out there it's larger", 'start': 3217.78, 'duration': 5.24}
+{'text': 'scale than like the tabletop object so', 'start': 3220.72, 'duration': 6.9}
+{'text': 'we originally thought of my there was an', 'start': 3223.02, 'duration': 7.33}
+{'text': 'earlier iteration that at the ablest', 'start': 3227.62, 'duration': 4.71}
+{'text': 'museum we originally thought of that is', 'start': 3230.35, 'duration': 4.41}
+{'text': 'having some sort of transparency so the', 'start': 3232.33, 'duration': 4.38}
+{'text': 'structural frame of the project also was', 'start': 3234.76, 'duration': 4.49}
+{'text': 'meant to have an expensive', 'start': 3236.71, 'duration': 4.16}
+{'text': "wasn't Africa stressful conditions in", 'start': 3239.25, 'duration': 5.76}
+{'text': 'the work so with the budget tonight', 'start': 3240.87, 'duration': 6.87}
+{'text': 'allowed for such things so we started', 'start': 3245.01, 'duration': 5.34}
+{'text': 'your week degree kind of like the the', 'start': 3247.74, 'duration': 6.69}
+{'text': 'solid panels with the aluminum frame but', 'start': 3250.35, 'duration': 6.78}
+{'text': 'then in the second or the next project', 'start': 3254.43, 'duration': 4.909}
+{'text': "the mixtape Oklahoma's project", 'start': 3257.13, 'duration': 3.739}
+{'text': 'we started to work with that idea', 'start': 3259.339, 'duration': 4.291}
+{'text': 'earlier on we started to recalculate or', 'start': 3260.869, 'duration': 4.23}
+{'text': 'recalibrate the project with those', 'start': 3263.63, 'duration': 4.26}
+{'text': "design decisions so it's not always I", 'start': 3265.099, 'duration': 5.441}
+{'text': 'mean this is like', 'start': 3267.89, 'duration': 4.3}
+{'text': 'very conventional in architectural', 'start': 3270.54, 'duration': 4.95}
+{'text': 'practices but we started to renegotiate', 'start': 3272.19, 'duration': 6.6}
+{'text': 'the material conditions with the linear', 'start': 3275.49, 'duration': 5.97}
+{'text': 'expressions in terms of like the volume', 'start': 3278.79, 'duration': 4.23}
+{'text': "are lying I think it's like it's", 'start': 3281.46, 'duration': 4.11}
+{'text': 'somewhere in between and I think that', 'start': 3283.02, 'duration': 5.07}
+{'text': 'the kind of the transparency and the', 'start': 3285.57, 'duration': 5.0}
+{'text': 'receptivity', 'start': 3288.09, 'duration': 2.48}
+{'text': 'surfaces for the Civic illumise model', 'start': 3290.75, 'duration': 5.339}
+{'text': "specifically and I think it's such that", 'start': 3292.91, 'duration': 4.86}
+{'text': 'it can start to sort of like challenge', 'start': 3296.089, 'duration': 4.53}
+{'text': 'the visibility of the structural frame', 'start': 3297.77, 'duration': 4.529}
+{'text': 'so sometimes it showed you leaders lines', 'start': 3300.619, 'duration': 3.42}
+{'text': 'and maybe on the interior even more so', 'start': 3302.299, 'duration': 4.171}
+{'text': 'on the outside and how much agreed more', 'start': 3304.039, 'duration': 5.901}
+{'text': 'like the kind of like a shallow form', 'start': 3306.47, 'duration': 3.47}
+{'text': 'good cancer', 'start': 3310.67, 'duration': 3.08}
+{'text': 'thank you', 'start': 3316.569, 'duration': 2.69}
+{'text': '[Music]', 'start': 3341.43, 'duration': 3.15}
+{'text': 'and in a very artificial way and I think', 'start': 3345.17, 'duration': 5.76}
+{'text': 'and this is something that maybe like', 'start': 3349.01, 'duration': 3.33}
+{'text': "we're starting to work with a little bit", 'start': 3350.93, 'duration': 5.25}
+{'text': 'more with further potential proposals so', 'start': 3352.34, 'duration': 7.35}
+{'text': 'the original piece of the my example was', 'start': 3356.18, 'duration': 8.97}
+{'text': 'speech on a 20 foot by 25 somewhere so', 'start': 3359.69, 'duration': 7.56}
+{'text': 'that was the ground initiative we were', 'start': 3365.15, 'duration': 4.74}
+{'text': 'working with and it was very simple it', 'start': 3367.25, 'duration': 4.35}
+{'text': 'was kind of like a simple problem to us', 'start': 3369.89, 'duration': 3.69}
+{'text': 'and then in the second iteration of the', 'start': 3371.6, 'duration': 4.41}
+{'text': 'project that I became slightly more', 'start': 3373.58, 'duration': 4.59}
+{'text': 'complicated because of sudden we were', 'start': 3376.01, 'duration': 6.99}
+{'text': 'dealing with kind of like we did not', 'start': 3378.17, 'duration': 7.17}
+{'text': 'have the first iteration of the project', 'start': 3383.0, 'duration': 4.32}
+{'text': 'so we started to integrate that with the', 'start': 3385.34, 'duration': 4.26}
+{'text': "graphical under each other it's like the", 'start': 3387.32, 'duration': 5.36}
+{'text': 'pointed graphic onto the form in the', 'start': 3389.6, 'duration': 6.33}
+{'text': "exhibit Columbus example I think we're", 'start': 3392.68, 'duration': 5.7}
+{'text': 'starting to work with that even further', 'start': 3395.93, 'duration': 4.47}
+{'text': "maybe because it's a requirement would", 'start': 3398.38, 'duration': 3.58}
+{'text': 'be because we find that as a natural', 'start': 3400.4, 'duration': 3.57}
+{'text': 'development of swarm or as a natural', 'start': 3401.96, 'duration': 3.93}
+{'text': "perfection of the work because we're", 'start': 3403.97, 'duration': 3.43}
+{'text': 'working with Dean', 'start': 3405.89, 'duration': 4.35}
+{'text': '20 twins', 'start': 3407.4, 'duration': 2.84}
+{'text': "it's a work in progress and I think this", 'start': 3410.52, 'duration': 5.97}
+{'text': 'kind of idea of going from sort of like', 'start': 3413.82, 'duration': 6.69}
+{'text': 'three-dimensional 360 digital space to', 'start': 3416.49, 'duration': 6.23}
+{'text': 'making these objects do things a really', 'start': 3420.51, 'duration': 5.31}
+{'text': 'important step for important way', 'start': 3422.72, 'duration': 5.02}
+{'text': 'investigating these kinds of works I', 'start': 3425.82, 'duration': 6.57}
+{'text': 'think further like challenges this the', 'start': 3427.74, 'duration': 6.36}
+{'text': 'premise that the menti where the ground', 'start': 3432.39, 'duration': 4.65}
+{'text': 'takes over or which determines the work', 'start': 3434.1, 'duration': 4.59}
+{'text': 'I sort of like challenges in the', 'start': 3437.04, 'duration': 2.94}
+{'text': "productive way so it's a feminine", 'start': 3438.69, 'duration': 4.37}
+{'text': 'community relationship', 'start': 3439.98, 'duration': 3.08}
+{'text': '[Music]', 'start': 3443.7, 'duration': 5.21}
+{'text': "that's true that was really lucky and", 'start': 3446.38, 'duration': 5.489}
+{'text': 'you and those two brats', 'start': 3448.91, 'duration': 2.959}
+{'text': 'and', 'start': 3465.409, 'duration': 5.671}
+{'text': 'then your work with', 'start': 3467.55, 'duration': 3.53}
+{'text': 'all over', 'start': 3473.44, 'duration': 4.54}
+{'text': 'is geared toward', 'start': 3475.04, 'duration': 5.94}
+{'text': "it's", 'start': 3477.98, 'duration': 3.0}
+{'text': 'yeah', 'start': 3485.67, 'duration': 2.6}
+{'text': '[Music]', 'start': 3488.28, 'duration': 4.94}
+{'text': "there's nothing", 'start': 3489.65, 'duration': 3.57}
+{'text': 'fine', 'start': 3497.18, 'duration': 2.81}
+{'text': 'just collinear attention to', 'start': 3502.37, 'duration': 6.409}
+{'text': 'I think', 'start': 3505.849, 'duration': 2.93}
+{'text': 'sometimes', 'start': 3508.99, 'duration': 2.33}
+{'text': "you're distracted", 'start': 3512.19, 'duration': 3.47}
+{'text': 'laborers', 'start': 3517.47, 'duration': 2.869}
+{'text': 'motions', 'start': 3525.05, 'duration': 3.0}
+{'text': 'the positive', 'start': 3528.27, 'duration': 3.95}
+{'text': 'the dedication', 'start': 3538.0, 'duration': 4.829}
+{'text': 'and later on that by thinking that the', 'start': 3540.25, 'duration': 5.51}
+{'text': 'two possibilities', 'start': 3542.829, 'duration': 2.931}
+{'text': "when we show us our words they're close", 'start': 3546.72, 'duration': 6.17}
+{'text': 'to the edge', 'start': 3550.53, 'duration': 2.36}
+{'text': 'or close reading', 'start': 3554.04, 'duration': 3.74}
+{'text': 'intro spectrum of potentials neither', 'start': 3568.91, 'duration': 5.61}
+{'text': 'in order to spread', 'start': 3575.28, 'duration': 3.02}
+{'text': 'material', 'start': 3589.61, 'duration': 2.78}
+{'text': "I've seen your word never cease", 'start': 3595.77, 'duration': 5.81}
+{'text': 'relationship', 'start': 3603.53, 'duration': 2.99}
+{'text': 'this', 'start': 3613.74, 'duration': 5.86}
+{'text': 'this is fun the beginning but this is', 'start': 3615.58, 'duration': 7.65}
+{'text': 'not offensive but I just wonder if who', 'start': 3619.6, 'duration': 8.12}
+{'text': 'you are you so aware you make', 'start': 3623.23, 'duration': 4.49}
+{'text': 'not interior', 'start': 3632.49, 'duration': 3.11}
+{'text': 'we describe', 'start': 3638.41, 'duration': 6.05}
+{'text': 'whereas', 'start': 3641.46, 'duration': 3.0}
+{'text': "that's pretty", 'start': 3649.06, 'duration': 7.74}
+{'text': "I don't know that it was intentional", 'start': 3652.31, 'duration': 4.49}
+{'text': 'by', 'start': 3658.7, 'duration': 2.81}
+{'text': 'in our', 'start': 3662.39, 'duration': 3.12}
+{'text': 'probably less than one today', 'start': 3665.579, 'duration': 4.051}
+{'text': 'and I just', 'start': 3675.44, 'duration': 2.72}
+{'text': 'and', 'start': 3681.52, 'duration': 7.239}
+{'text': "well I I don't I don't know that I've", 'start': 3683.569, 'duration': 7.5}
+{'text': "placed those parallels so they're worth", 'start': 3688.759, 'duration': 5.24}
+{'text': 'enough see nose hair', 'start': 3691.069, 'duration': 2.93}
+{'text': 'so i heard sheriff i can t move of the', 'start': 3697.86, 'duration': 9.209}
+{'text': 'I think the like I am I do have like a', 'start': 3703.17, 'duration': 11.21}
+{'text': 'sort of fear sight here', 'start': 3707.069, 'duration': 9.05}
+{'text': 'articulating these ideas with', 'start': 3714.38, 'duration': 5.219}
+{'text': 'architectural examples as a way of kind', 'start': 3716.119, 'duration': 6.301}
+{'text': 'of like falling into down conventions so', 'start': 3719.599, 'duration': 5.251}
+{'text': 'English', 'start': 3722.42, 'duration': 4.5}
+{'text': 'smaller scaled a little bit larger to a', 'start': 3724.85, 'duration': 4.62}
+{'text': "little bit larger and is a way that I'm", 'start': 3726.92, 'duration': 6.27}
+{'text': 'trying to investigate that kind of scale', 'start': 3729.47, 'duration': 6.41}
+{'text': 'of attention', 'start': 3733.19, 'duration': 2.69}
+{'text': 'rigorous investigation through our', 'start': 3735.98, 'duration': 5.56}
+{'text': 'philosophical preferences rather than', 'start': 3739.13, 'duration': 5.11}
+{'text': 'architectural project but I think like', 'start': 3741.54, 'duration': 3.57}
+{'text': 'some of the things that I was talking', 'start': 3744.24, 'duration': 3.39}
+{'text': 'about earlier in terms of like digital', 'start': 3745.11, 'duration': 4.77}
+{'text': 'tools and how they engineer to feel', 'start': 3747.63, 'duration': 5.07}
+{'text': 'I think and the reason why I take only', 'start': 3749.88, 'duration': 4.79}
+{'text': 'references I think things like', 'start': 3752.7, 'duration': 5.169}
+{'text': 'we know those references', 'start': 3754.67, 'duration': 3.199}
+{'text': 'medium', 'start': 3769.979, 'duration': 3.0}
+{'text': 'are just so', 'start': 3779.93, 'duration': 3.83}
+{'text': 'competition for that', 'start': 3782.109, 'duration': 4.191}
+{'text': 'with me', 'start': 3783.76, 'duration': 2.54}
+{'text': 'makes that', 'start': 3786.6, 'duration': 3.23}
+{'text': 'exactly', 'start': 3792.66, 'duration': 3.0}
+{'text': 'aficionados practice', 'start': 3795.9, 'duration': 4.53}
+{'text': 'staying very close', 'start': 3803.61, 'duration': 2.93}
+{'text': "there's like okay so there's so that's", 'start': 3811.019, 'duration': 5.53}
+{'text': 'where the serial mode of working I think', 'start': 3814.39, 'duration': 6.0}
+{'text': "becomes interesting because it's such", 'start': 3816.549, 'duration': 6.96}
+{'text': 'that you have different units different', 'start': 3820.39, 'duration': 5.389}
+{'text': "elements and you're looking at the work", 'start': 3823.509, 'duration': 4.53}
+{'text': 'relationship between the unity element', 'start': 3825.779, 'duration': 4.121}
+{'text': 'so that I kind of like ties into like a', 'start': 3828.039, 'duration': 6.66}
+{'text': 'sort of like basic and should be looking', 'start': 3829.9, 'duration': 6.569}
+{'text': 'at things like quickly looking at nine', 'start': 3834.699, 'duration': 3.27}
+{'text': 'things and an image which is not one and', 'start': 3836.469, 'duration': 2.82}
+{'text': 'it just more important than the other', 'start': 3837.969, 'duration': 2.85}
+{'text': "it's about looking at the overall thing", 'start': 3839.289, 'duration': 4.5}
+{'text': "right so I think maybe like I haven't", 'start': 3840.819, 'duration': 5.37}
+{'text': 'really thought about when the time comes', 'start': 3843.789, 'duration': 4.68}
+{'text': 'to remove one of those as an expiration', 'start': 3846.189, 'duration': 5.28}
+{'text': "set you develop that further and we're a", 'start': 3848.469, 'duration': 4.74}
+{'text': 'place to touch up in that scale like I', 'start': 3851.469, 'duration': 4.02}
+{'text': "haven't really thought of that yet but I", 'start': 3853.209, 'duration': 3.591}
+{'text': 'think', 'start': 3855.489, 'duration': 2.991}
+{'text': 'yeah I think those interesting seriality', 'start': 3856.8, 'duration': 6.08}
+{'text': 'particularly and relating back to late', 'start': 3858.48, 'duration': 4.4}
+{'text': 'revealing', 'start': 3878.15, 'duration': 2.869}
+{'text': 'super interesting', 'start': 3894.92, 'duration': 7.73}
+{'text': 'I also like', 'start': 3897.89, 'duration': 4.76}
+{'text': 'sometimes', 'start': 3905.66, 'duration': 3.0}
+{'text': 'vectors', 'start': 3918.35, 'duration': 2.87}
+{'text': 'straining like', 'start': 3932.3, 'duration': 3.26}
+{'text': "it's", 'start': 3941.2, 'duration': 2.659}
+{'text': "it's how I", 'start': 3952.47, 'duration': 6.87}
+{'text': '[Music]', 'start': 3954.01, 'duration': 5.33}
+{'text': 'so', 'start': 3962.37, 'duration': 2.57}
+{'text': "something that's like really really", 'start': 3965.6, 'duration': 4.11}
+{'text': 'important to me as I develop these kinds', 'start': 3967.04, 'duration': 3.45}
+{'text': 'of work closed', 'start': 3969.71, 'duration': 4.14}
+{'text': 'I think the thing that it would like to', 'start': 3970.49, 'duration': 5.19}
+{'text': 'highlight and maybe even more such of', 'start': 3973.85, 'duration': 3.99}
+{'text': "the students it's a sort of the", 'start': 3975.68, 'duration': 4.53}
+{'text': 'information workflow or the sort of', 'start': 3977.84, 'duration': 4.83}
+{'text': 'information from testing things testing', 'start': 3980.21, 'duration': 4.71}
+{'text': 'things in like physical artifacts via', 'start': 3982.67, 'duration': 4.53}
+{'text': 'digital processes understanding the kind', 'start': 3984.92, 'duration': 4.23}
+{'text': 'of like the structural framework digital', 'start': 3987.2, 'duration': 3.54}
+{'text': 'processes and how you share something in', 'start': 3989.15, 'duration': 3.39}
+{'text': 'the digital world and how you translate', 'start': 3990.74, 'duration': 3.66}
+{'text': 'that back into like the physical', 'start': 3992.54, 'duration': 4.74}
+{'text': "artifact so I think with that that's", 'start': 3994.4, 'duration': 5.64}
+{'text': 'like the kind of like the method that I', 'start': 3997.28, 'duration': 6.0}
+{'text': 'like to use in order to avoid becoming', 'start': 4000.04, 'duration': 5.25}
+{'text': 'too embedded too enmeshed in warning', 'start': 4003.28, 'duration': 5.01}
+{'text': 'process or my software or some software', 'start': 4005.29, 'duration': 4.89}
+{'text': 'that offers only one particular thing so', 'start': 4008.29, 'duration': 3.93}
+{'text': "I think like it's actually like really", 'start': 4010.18, 'duration': 5.04}
+{'text': 'working to try to show that to me but to', 'start': 4012.22, 'duration': 5.42}
+{'text': 'show a certain', 'start': 4015.22, 'duration': 7.18}
+{'text': 'very easy were taken advantage are less', 'start': 4017.64, 'duration': 8.22}
+{'text': 'through like many different platforms', 'start': 4022.4, 'duration': 5.08}
+{'text': 'not necessarily just felt the same', 'start': 4025.86, 'duration': 4.56}
+{'text': 'morning so I think like the kind of like', 'start': 4027.48, 'duration': 5.04}
+{'text': 'the the translation between vector', 'start': 4030.42, 'duration': 3.81}
+{'text': 'information to raster information I', 'start': 4032.52, 'duration': 3.57}
+{'text': 'think that those those that also helps', 'start': 4034.23, 'duration': 4.11}
+{'text': 'likely to not become constrained or', 'start': 4036.09, 'duration': 5.6}
+{'text': 'remain within one particular software', 'start': 4038.34, 'duration': 5.85}
+{'text': 'coding is important but I actually think', 'start': 4041.69, 'duration': 4.66}
+{'text': "that's a really mean way to think to", 'start': 4044.19, 'duration': 3.36}
+{'text': 'think through these problems as well as', 'start': 4046.35, 'duration': 3.24}
+{'text': 'like you know we are no longer operating', 'start': 4047.55, 'duration': 5.48}
+{'text': 'outside of the digital anyway so', 'start': 4049.59, 'duration': 3.44}
+{'text': 'thank you sometimes', 'start': 4059.3, 'duration': 3.48}

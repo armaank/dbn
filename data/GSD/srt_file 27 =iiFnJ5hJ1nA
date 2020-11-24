@@ -1,0 +1,2040 @@
+{'text': 'Hello.', 'start': 9.24, 'duration': 1.78}
+{'text': 'Good evening and welcome.', 'start': 11.02, 'duration': 2.06}
+{'text': "I'm Eve Blau.", 'start': 13.08, 'duration': 1.14}
+{'text': "I'm the co-director of\nthe Harvard Mellon Urban", 'start': 14.22, 'duration': 4.44}
+{'text': 'Initiative, which is the\nsponsor for this event.', 'start': 18.66, 'duration': 4.42}
+{'text': "And I'm very pleased\nto welcome you", 'start': 23.08, 'duration': 2.9}
+{'text': "to tonight's lecture and panel\ndiscussion and conversation.", 'start': 25.98, 'duration': 6.029}
+{'text': 'This is the culminating\nevent, as many of you', 'start': 32.009, 'duration': 2.731}
+{'text': 'probably know, in a three-part\nseries of interventions', 'start': 34.74, 'duration': 3.84}
+{'text': 'and workshops that\nhave been taking place', 'start': 38.58, 'duration': 3.33}
+{'text': 'over the last couple of\ndays, yesterday and today.', 'start': 41.91, 'duration': 3.94}
+{'text': 'On Wednesday morning, there was\na workshop called Intervening.', 'start': 45.85, 'duration': 6.14}
+{'text': 'And some of the speakers tonight\nwere part of that workshop.', 'start': 51.99, 'duration': 4.35}
+{'text': 'And earlier today,\nthere was another.', 'start': 56.34, 'duration': 3.06}
+{'text': 'It was called a\nTalkshop on Agendas,', 'start': 59.4, 'duration': 4.08}
+{'text': 'which was also with\nrepresentatives from Assemble,', 'start': 63.48, 'duration': 5.55}
+{'text': 'and actually, most of the\nspeakers tonight and Stephen', 'start': 69.03, 'duration': 3.54}
+{'text': 'Zacks and Sandra Branch\nof the Flint Art Project', 'start': 72.57, 'duration': 5.91}
+{'text': 'in Flint, Michigan.', 'start': 78.48, 'duration': 1.9}
+{'text': 'So this program as a whole,\nthis series of events', 'start': 80.38, 'duration': 4.92}
+{'text': 'is intended to offer\nstudents and other people who', 'start': 85.3, 'duration': 5.0}
+{'text': 'are participating hands-on\nengagement with methods', 'start': 90.3, 'duration': 5.16}
+{'text': 'of intervention and critical\ndebates about the agency,', 'start': 95.46, 'duration': 6.27}
+{'text': 'or how the agency to\ntransform the public realm', 'start': 101.73, 'duration': 4.59}
+{'text': 'can be and is seized by artists\nand architects and curators', 'start': 106.32, 'duration': 4.53}
+{'text': 'and critics and various\npublic sector actors.', 'start': 110.85, 'duration': 6.75}
+{'text': 'Now, before I introduce\nStephen Zacks,', 'start': 117.6, 'duration': 4.02}
+{'text': "who is going to moderate\ntonight's conversation,", 'start': 121.62, 'duration': 3.54}
+{'text': 'I just want to say a few\nwords about the initiative', 'start': 125.16, 'duration': 3.629}
+{'text': 'as a whole, the\nMellon Initiative.', 'start': 128.789, 'duration': 3.191}
+{'text': 'It is a cross-Harvard\nproject, which', 'start': 131.98, 'duration': 3.32}
+{'text': 'means it crosses the\nvarious schools at Harvard.', 'start': 135.3, 'duration': 4.6}
+{'text': "It's funded by a four-year grant\nfrom the Mellon Foundation.", 'start': 139.9, 'duration': 6.08}
+{'text': 'And that grant and\nthe project itself', 'start': 145.98, 'duration': 3.78}
+{'text': 'are directed towards\nexploring interdisciplinary', 'start': 149.76, 'duration': 3.45}
+{'text': 'and multimedia methods for\nstudying urban environments,', 'start': 153.21, 'duration': 3.69}
+{'text': 'societies, and cultures across\nthe design disciplines, so all', 'start': 156.9, 'duration': 5.27}
+{'text': 'of the disciplines that are\nhere, but also the humanities', 'start': 162.17, 'duration': 4.51}
+{'text': 'and the social sciences.', 'start': 166.68, 'duration': 1.83}
+{'text': 'And the idea in all\nof this is that,', 'start': 168.51, 'duration': 4.83}
+{'text': 'with a common object of study--', 'start': 173.34, 'duration': 2.04}
+{'text': 'the city-- we can\nbegin to bridge', 'start': 175.38, 'duration': 2.7}
+{'text': 'these disciplinary boundaries\nand learn from each other', 'start': 178.08, 'duration': 4.23}
+{'text': 'and have conversations\nthat are really fruitful.', 'start': 182.31, 'duration': 5.7}
+{'text': "So for the last\nthree years, we've", 'start': 188.01, 'duration': 2.13}
+{'text': 'been carrying out research\nand site visits, site travel,', 'start': 190.14, 'duration': 5.19}
+{'text': 'with faculty and students\nfrom different schools', 'start': 195.33, 'duration': 2.43}
+{'text': 'across the university.', 'start': 197.76, 'duration': 2.16}
+{'text': "And we've been focusing\nthat work on four cities,", 'start': 199.92, 'duration': 2.91}
+{'text': 'on Berlin, Boston,\nIstanbul, and Mumbai,', 'start': 202.83, 'duration': 6.03}
+{'text': 'which we see as portals\ninto specific geographies', 'start': 208.86, 'duration': 5.94}
+{'text': 'and urban issues.', 'start': 214.8, 'duration': 2.262}
+{'text': "They're very different cities\nin very different parts", 'start': 217.062, 'duration': 2.208}
+{'text': 'of the world.', 'start': 219.27, 'duration': 1.02}
+{'text': 'And through that research,\nactually, and the conversations', 'start': 220.29, 'duration': 3.3}
+{'text': 'between these portals,\nwe have been opening up', 'start': 223.59, 'duration': 4.4}
+{'text': 'a very interesting,\nactually, and quite broad', 'start': 227.99, 'duration': 3.04}
+{'text': 'field of comparative\nresearch across geographies', 'start': 231.03, 'duration': 3.84}
+{'text': 'and cultures.', 'start': 234.87, 'duration': 1.45}
+{'text': 'So this is our fourth\nyear of the project.', 'start': 236.32, 'duration': 3.23}
+{'text': 'And our focus has shifted from\nsite-based research and travel', 'start': 239.55, 'duration': 6.24}
+{'text': 'to public programming.', 'start': 245.79, 'duration': 2.49}
+{'text': "We've had an extensive series\nof conferences and colloquia", 'start': 248.28, 'duration': 3.48}
+{'text': 'and workshops and\npanel discussions', 'start': 251.76, 'duration': 3.27}
+{'text': 'across the year, most of it,\nactually, in this semester.', 'start': 255.03, 'duration': 6.179}
+{'text': "And in those events, we've\ntried to address major themes", 'start': 261.209, 'duration': 3.391}
+{'text': 'that have emerged in the\ncourse of our research', 'start': 264.6, 'duration': 2.88}
+{'text': 'and our work in the portals,\nbut that also extend quite a bit', 'start': 267.48, 'duration': 4.11}
+{'text': 'the discussions beyond\nthe portal research.', 'start': 271.59, 'duration': 2.61}
+{'text': 'And this is one of\nthose events that', 'start': 274.2, 'duration': 2.46}
+{'text': 'really moves quite far\nbeyond the research', 'start': 276.66, 'duration': 4.35}
+{'text': "that we've been doing and\nvery specifically grounded,", 'start': 281.01, 'duration': 5.22}
+{'text': 'actually, here.', 'start': 286.23, 'duration': 2.67}
+{'text': 'And so before I\nintroduce Stephen,', 'start': 288.9, 'duration': 3.54}
+{'text': 'I want to thank the Mellon\nFoundation and the Graduate', 'start': 292.44, 'duration': 3.78}
+{'text': 'School of Design,\nespecially Dean Mostafavi,', 'start': 296.22, 'duration': 3.87}
+{'text': 'and also Associate Dean and\nInterim Chair of Architecture,', 'start': 300.09, 'duration': 4.14}
+{'text': 'Michael Hays, who has been\nsupporting this program.', 'start': 304.23, 'duration': 4.29}
+{'text': 'And I want to thank the\norganizers, actually,', 'start': 308.52, 'duration': 5.55}
+{'text': 'of these events--', 'start': 314.07, 'duration': 1.2}
+{'text': 'Eric [? Ganoyu, ?] who is\nour program manager, who', 'start': 315.27, 'duration': 3.99}
+{'text': "has masterminded all of these\nthings, Michael Haggerty, who's", 'start': 319.26, 'duration': 4.77}
+{'text': 'been working with him\nfor about a year on this,', 'start': 324.03, 'duration': 2.25}
+{'text': 'and Ken Stewart,\nwho has also been', 'start': 326.28, 'duration': 2.76}
+{'text': 'working with us in the last\nlittle while on this project.', 'start': 329.04, 'duration': 3.6}
+{'text': 'The structure for the evening,\nNato Thompson will present.', 'start': 332.64, 'duration': 5.31}
+{'text': 'Then his presentation\nis going to be followed', 'start': 337.95, 'duration': 3.6}
+{'text': 'by a response from\nPaloma Strelitz', 'start': 341.55, 'duration': 4.02}
+{'text': 'and Anthony Engi\nMeacock of Assemble.', 'start': 345.57, 'duration': 4.2}
+{'text': "And then it's going to end with\na conversation between Thompson", 'start': 349.77, 'duration': 4.11}
+{'text': 'and Assemble that will be\nmoderated by Stephen Zacks.', 'start': 353.88, 'duration': 3.63}
+{'text': 'Well, I had left out--', 'start': 360.78, 'duration': 2.46}
+{'text': "I'm terribly sorry.", 'start': 363.24, 'duration': 0.87}
+{'text': 'Sandra Branch is\npart of that too.', 'start': 364.11, 'duration': 4.27}
+{'text': 'OK, Stephen Zacks is a\ndistinguished architecture', 'start': 368.38, 'duration': 5.33}
+{'text': 'and urban journalist,\ntheorist, and cultural producer', 'start': 373.71, 'duration': 3.54}
+{'text': "who's based in\nGreenpoint, Brooklyn,", 'start': 377.25, 'duration': 4.08}
+{'text': 'and is a native of\nFlint, Michigan.', 'start': 381.33, 'duration': 2.73}
+{'text': 'He received an MA\nin liberal studies', 'start': 384.06, 'duration': 2.19}
+{'text': 'from the New School for\nSocial Research and BA', 'start': 386.25, 'duration': 3.41}
+{'text': 'in interdisciplinary humanities\nfrom Michigan State University.', 'start': 389.66, 'duration': 4.24}
+{'text': 'He served as an editor\nat Metropolis Magazine.', 'start': 393.9, 'duration': 4.92}
+{'text': "And he's received\na number of awards", 'start': 398.82, 'duration': 3.3}
+{'text': 'from various institutions,\nincluding the Warhol', 'start': 402.12, 'duration': 4.62}
+{'text': 'Foundation, Creative\nCapital, ArtPlace, the Graham', 'start': 406.74, 'duration': 3.84}
+{'text': 'Foundation, the\nNational Endowment', 'start': 410.58, 'duration': 2.25}
+{'text': 'for the Arts, the MacDowell\nColony, and the New York State', 'start': 412.83, 'duration': 5.13}
+{'text': 'Council on the Arts, and\nthe Newtown Creek Fund.', 'start': 417.96, 'duration': 5.1}
+{'text': 'He is also the founder\nand creative director', 'start': 423.06, 'duration': 4.38}
+{'text': 'of the Flint Public\nArt Project, which', 'start': 427.44, 'duration': 2.97}
+{'text': 'organizes public\nevents and workshops', 'start': 430.41, 'duration': 2.97}
+{'text': 'and temporary installations to\ninspire residents to re-imagine', 'start': 433.38, 'duration': 4.77}
+{'text': 'the city, to reclaim vacant\nand underutilized buildings', 'start': 438.15, 'duration': 4.23}
+{'text': 'and lots, and to use\ninnovative tools to steer', 'start': 442.38, 'duration': 3.63}
+{'text': "Flint's long-range planning.", 'start': 446.01, 'duration': 2.55}
+{'text': 'Please join me in\nwelcoming Stephen Zacks.', 'start': 448.56, 'duration': 3.237}
+{'text': '[APPLAUSE]', 'start': 451.797, 'duration': 1.431}
+{'text': 'Thanks for the\nkind introduction.', 'start': 460.39, 'duration': 4.17}
+{'text': "So as Eve said, I'm\na journalist covering", 'start': 464.56, 'duration': 4.65}
+{'text': 'public art, architecture,\nand urbanism for Metropolis,', 'start': 469.21, 'duration': 3.72}
+{'text': "currently Architect's Newspaper,\nand an organizer of projects", 'start': 472.93, 'duration': 5.07}
+{'text': 'meant to impact\nthe public realm.', 'start': 478.0, 'duration': 3.96}
+{'text': "And I'm excited to welcome Nato\nThompson to discuss public art", 'start': 481.96, 'duration': 9.24}
+{'text': 'and urban engagement as a\npart of the Mellon Urbanism', 'start': 491.2, 'duration': 4.53}
+{'text': 'Initiative.', 'start': 495.73, 'duration': 1.051}
+{'text': 'Curator and now artistic\ndirector of Creative Time', 'start': 499.49, 'duration': 3.3}
+{'text': 'since 2007, Nato has\nplayed a formative role', 'start': 502.79, 'duration': 5.37}
+{'text': 'in shaping the\nfield of public art', 'start': 508.16, 'duration': 2.58}
+{'text': 'and its engagement with the\ncity through his annual Creative', 'start': 510.74, 'duration': 5.819}
+{'text': 'Time Summit and projects like\nPedro Reyes\' "Doomacracy,"', 'start': 516.559, 'duration': 5.591}
+{'text': 'Kara Walker\'s, "A Subtlety"\nin the former Domino Sugar', 'start': 522.15, 'duration': 4.25}
+{'text': 'factory, "Living as Form" a\nsurvey of socially engaged art,', 'start': 526.4, 'duration': 6.03}
+{'text': 'questioning the boundary between\nart and socio-political action.', 'start': 532.43, 'duration': 7.11}
+{'text': 'Trevor Paglen\'s\n"The Last Picture,"', 'start': 539.54, 'duration': 3.06}
+{'text': 'which deployed a record of human\ncivilization sent into orbit,', 'start': 542.6, 'duration': 6.24}
+{'text': 'and Paul Chan\'s "Waiting for\nGodot in New Orleans," which', 'start': 548.84, 'duration': 5.04}
+{'text': 'was an outdoor\nstaging of Beckett', 'start': 553.88, 'duration': 2.4}
+{'text': "as a testimony to the\ngovernment's failed", 'start': 556.28, 'duration': 3.06}
+{'text': 'response to Hurricane Katrina.', 'start': 559.34, 'duration': 3.27}
+{'text': "He's brought a new\norder of criticality", 'start': 562.61, 'duration': 2.82}
+{'text': 'to art that happens in\npublic places, which', 'start': 565.43, 'duration': 4.59}
+{'text': "can be seen as answering\nRosalyn Deutsche's", 'start': 570.02, 'duration': 3.54}
+{'text': 'call for a public\nart that facilitates', 'start': 573.56, 'duration': 3.09}
+{'text': 'the expression of\nsocial groups excluded', 'start': 576.65, 'duration': 3.12}
+{'text': 'from the current\norganization of the city', 'start': 579.77, 'duration': 3.09}
+{'text': 'and help appropriate the city\nas a vehicle for illuminating', 'start': 582.86, 'duration': 4.59}
+{'text': 'contradictions.', 'start': 587.45, 'duration': 2.19}
+{'text': 'Previously, Nato worked\nas a curator at Mass MOCA,', 'start': 589.64, 'duration': 3.6}
+{'text': 'where he curated The\nInterventionists,', 'start': 593.24, 'duration': 3.0}
+{'text': 'Art in the Social\nSphere in 2004,', 'start': 596.24, 'duration': 3.9}
+{'text': 'which helped articulate\nthe intervention', 'start': 600.14, 'duration': 2.16}
+{'text': 'as a defined\ntypology of practice.', 'start': 602.3, 'duration': 3.45}
+{'text': 'And apart from his\nrole as curator,', 'start': 605.75, 'duration': 1.77}
+{'text': 'Nato has been an important voice\nin the field whose writings', 'start': 607.52, 'duration': 3.9}
+{'text': 'have appeared in book form,\nfrieze, art form, third text,', 'start': 611.42, 'duration': 6.11}
+{'text': 'and Huffington Post.', 'start': 617.53, 'duration': 2.52}
+{'text': 'And moreover, he has\nauthored two books--', 'start': 620.05, 'duration': 4.9}
+{'text': 'Seeing Power, Art and\nActivism in the 21st', 'start': 624.95, 'duration': 3.75}
+{'text': 'Century, and most recently,\nCulture as Weapon,', 'start': 628.7, 'duration': 5.25}
+{'text': 'the Art of Influence\nin Everyday Life, which', 'start': 633.95, 'duration': 3.45}
+{'text': 'brings insight and urgency to\nthe question of how culture', 'start': 637.4, 'duration': 3.42}
+{'text': 'serves as a tool of\npropaganda and liberation', 'start': 640.82, 'duration': 3.81}
+{'text': 'in our political moment.', 'start': 644.63, 'duration': 2.07}
+{'text': 'So please welcome Nato Thompson.', 'start': 646.7, 'duration': 1.65}
+{'text': '[APPLAUSE]', 'start': 648.35, 'duration': 1.47}
+{'text': 'Hey, guys.', 'start': 656.19, 'duration': 1.35}
+{'text': 'Thanks for coming out.', 'start': 657.54, 'duration': 1.72}
+{'text': 'I know you students\ngot homework to do.', 'start': 659.26, 'duration': 2.45}
+{'text': 'So yeah, I wrote a book.', 'start': 668.19, 'duration': 1.0}
+{'text': 'Just for all of\nyou younger people,', 'start': 673.36, 'duration': 2.25}
+{'text': 'I want you to know that\nif you write a book,', 'start': 675.61, 'duration': 2.12}
+{'text': 'you will make no money.', 'start': 677.73, 'duration': 2.64}
+{'text': 'But it feels good.', 'start': 680.37, 'duration': 1.58}
+{'text': 'And feeling good is\na good part of life.', 'start': 681.95, 'duration': 3.11}
+{'text': 'And you could kind\nof feel fancy.', 'start': 685.06, 'duration': 3.416}
+{'text': 'So this is the book,\nCulture as Weapon.', 'start': 688.476, 'duration': 1.624}
+{'text': 'I want to talk\nabout it because--', 'start': 690.1, 'duration': 2.592}
+{'text': "I'm going to give\ntwo parts of my talk.", 'start': 692.692, 'duration': 1.988}
+{'text': "There's going to be two parts.", 'start': 694.68, 'duration': 1.96}
+{'text': "You've just got to bear\nwith me because it's", 'start': 696.64, 'duration': 1.07}
+{'text': 'going to feel somewhat\nschizophrenic,', 'start': 697.71, 'duration': 1.541}
+{'text': "but we'll try to be\ndelicate about it.", 'start': 699.251, 'duration': 2.809}
+{'text': 'The first part, I want to go\non what this book is about,', 'start': 702.06, 'duration': 3.4}
+{'text': 'which this book is\nin some ways trying', 'start': 705.46, 'duration': 3.14}
+{'text': 'to talk about\npublic art, perhaps,', 'start': 708.6, 'duration': 2.1}
+{'text': 'or culture-making in the\ncity, but not made by artists.', 'start': 710.7, 'duration': 4.11}
+{'text': "So we'll get into it.", 'start': 714.81, 'duration': 3.757}
+{'text': "But that's the first part.", 'start': 718.567, 'duration': 1.083}
+{'text': 'And then the second\npart is I also', 'start': 719.65, 'duration': 1.417}
+{'text': "just want to talk about some\npublic art projects I've", 'start': 721.067, 'duration': 2.208}
+{'text': 'done, to just get into the\nkind of practice of public art,', 'start': 723.275, 'duration': 2.425}
+{'text': "if that's OK.", 'start': 725.7, 'duration': 0.979}
+{'text': "And then we'll have\nsome discussions.", 'start': 726.679, 'duration': 1.541}
+{'text': 'Good.', 'start': 728.22, 'duration': 0.5}
+{'text': 'And I work at a place\ncalled Creative Time.', 'start': 731.18, 'duration': 1.93}
+{'text': "That's our brand.", 'start': 733.11, 'duration': 2.28}
+{'text': "Since we don't have an\narchitectural facility,", 'start': 735.39, 'duration': 2.67}
+{'text': 'we are like a\nguerrilla organization', 'start': 738.06, 'duration': 2.1}
+{'text': 'that does public art\nprojects throughout New', 'start': 740.16, 'duration': 3.0}
+{'text': 'York and sometimes the US.', 'start': 743.16, 'duration': 1.4}
+{'text': "And we're starting to\nthink about doing work", 'start': 744.56, 'duration': 1.93}
+{'text': 'internationally.', 'start': 746.49, 'duration': 0.67}
+{'text': "But when you don't\nhave an actual house", 'start': 747.16, 'duration': 4.18}
+{'text': 'that you call your own, your\nbrand becomes your house.', 'start': 751.34, 'duration': 3.42}
+{'text': "All right, that's our brand.", 'start': 754.76, 'duration': 1.62}
+{'text': 'All right, so I want to start\nwith something very unorthodox.', 'start': 756.38, 'duration': 5.04}
+{'text': "Let's get it.", 'start': 761.42, 'duration': 1.02}
+{'text': 'Where is it?', 'start': 762.44, 'duration': 2.21}
+{'text': 'Where are you?', 'start': 764.65, 'duration': 0.996}
+{'text': 'OK, there we are.', 'start': 771.117, 'duration': 1.497}
+{'text': '[VIDEO PLAYBACK]', 'start': 776.107, 'duration': 1.003}
+{'text': '- NATO Forward Operating\nBase, Morales-Frazier.', 'start': 777.11, 'duration': 4.55}
+{'text': 'The outpost of US Marines\nand French paratroopers', 'start': 781.66, 'duration': 3.42}
+{'text': 'is surrounded by Taliban forces.', 'start': 785.08, 'duration': 2.624}
+{'text': '[HELICOPTER WHIRRING]', 'start': 787.704, 'duration': 1.908}
+{'text': '- If you all could stand\nover there, please.', 'start': 791.227, 'duration': 1.833}
+{'text': '- John Green is preparing\na military mission', 'start': 793.06, 'duration': 2.82}
+{'text': 'with an unusual objective.', 'start': 795.88, 'duration': 1.85}
+{'text': '- Stand over there\nfor now, please.', 'start': 797.73, 'duration': 2.05}
+{'text': '- He and Dr. Matt\nArnold are part', 'start': 799.78, 'duration': 2.4}
+{'text': 'of a group of civilian social\nscientists called The Human', 'start': 802.18, 'duration': 3.84}
+{'text': 'Terrain Team, a key to\nturn the people here away', 'start': 806.02, 'duration': 4.2}
+{'text': 'from the Taliban.', 'start': 810.22, 'duration': 1.155}
+{'text': "- Uh, Richard's gonna\nride into the lab.", 'start': 811.375, 'duration': 2.627}
+{'text': "The cameraman, we're\ngoing to put in the bab.", 'start': 814.002, 'duration': 3.795}
+{'text': "And you're going to want to be--", 'start': 817.797, 'duration': 1.333}
+{'text': '- For the next 18\nhours, our crew', 'start': 819.13, 'duration': 2.04}
+{'text': 'will embed with\nthem as they head', 'start': 821.17, 'duration': 1.89}
+{'text': 'outside the secure perimeter\ninto the front lines', 'start': 823.06, 'duration': 3.124}
+{'text': 'of the conflict.', 'start': 826.184, 'duration': 0.666}
+{'text': "- The valley's gonna\nbe on the left.", 'start': 826.85, 'duration': 0.84}
+{'text': 'We want the gun on the left.', 'start': 827.69, 'duration': 1.166}
+{'text': 'We want you on back side.', 'start': 828.856, 'duration': 1.619}
+{'text': "Hey, y'all be careful.", 'start': 830.475, 'duration': 1.045}
+{'text': "We'll see you out there.", 'start': 831.52, 'duration': 1.0}
+{'text': '- Roger.', 'start': 832.52, 'duration': 2.32}
+{'text': '- The chances that\nthe Taliban will', 'start': 834.84, 'duration': 1.71}
+{'text': 'attempt to strike\nthis mission are high.', 'start': 836.55, 'duration': 3.3}
+{'text': "They likely know Matt\nand John's destination,", 'start': 839.85, 'duration': 3.39}
+{'text': 'a highly publicized\ntown meeting.', 'start': 843.24, 'duration': 2.15}
+{'text': 'The helicopter gunship sweeps\nthe route ahead of the convoy,', 'start': 848.6, 'duration': 3.97}
+{'text': 'looking for signs of\ninsurgent activity.', 'start': 852.57, 'duration': 4.59}
+{'text': 'On the ground, safely moving the\nfour-person Human Terrain Team', 'start': 857.16, 'duration': 4.26}
+{'text': 'requires 30 armed soldiers\nand seven armored vehicles.', 'start': 861.42, 'duration': 6.01}
+{'text': 'But the mission is critical.', 'start': 867.43, 'duration': 3.26}
+{'text': 'As part of an effort to win\nthe hearts and minds here,', 'start': 870.69, 'duration': 3.12}
+{'text': 'the US funded the\nbuilding of a paved road.', 'start': 873.81, 'duration': 3.84}
+{'text': 'But the plan has backfired.', 'start': 877.65, 'duration': 3.03}
+{'text': 'Road construction\nhas bulldozed homes.', 'start': 880.68, 'duration': 4.38}
+{'text': 'Villages are now threatening\nto join the Taliban.', 'start': 885.06, 'duration': 5.055}
+{'text': 'The team must\nsomehow make amends.', 'start': 890.115, 'duration': 2.092}
+{'text': '[END PLAYBACK]', 'start': 892.207, 'duration': 0.583}
+{'text': '[LAUGHS]', 'start': 892.79, 'duration': 1.69}
+{'text': "Sorry, it's not funny.", 'start': 894.48, 'duration': 1.76}
+{'text': "But it's like, but\nsomething went wrong.", 'start': 896.24, 'duration': 2.73}
+{'text': "They built a road and plowed\nthrough people's homes.", 'start': 898.97, 'duration': 3.39}
+{'text': 'That did not endear them.', 'start': 902.36, 'duration': 2.88}
+{'text': 'So this is--', 'start': 905.24, 'duration': 2.88}
+{'text': "Wouldn't you want that\nvoice narrating your wake-up", 'start': 908.12, 'duration': 2.22}
+{'text': 'in the morning?', 'start': 910.34, 'duration': 1.697}
+{'text': "I don't know when National\nGeographic got that style.", 'start': 912.037, 'duration': 2.208}
+{'text': 'It was A while ago.', 'start': 914.245, 'duration': 1.745}
+{'text': 'So this is a doc around a\nsystem called the Human Terrain', 'start': 915.99, 'duration': 3.2}
+{'text': 'System, which is, in fact--', 'start': 919.19, 'duration': 2.792}
+{'text': 'one of my chapters in the book\ngoes into this quite deeply.', 'start': 921.982, 'duration': 2.458}
+{'text': 'It\'s called "The Insurgents."', 'start': 924.44, 'duration': 1.35}
+{'text': 'But it talks about the\nmoment during the Iraq War', 'start': 925.79, 'duration': 3.63}
+{'text': 'where it moved from--', 'start': 929.42, 'duration': 3.54}
+{'text': "Donald Rumsfeld's\nWar of Shock and Awe", 'start': 932.96, 'duration': 3.09}
+{'text': 'was its adage to\nHearts and Minds.', 'start': 936.05, 'duration': 5.73}
+{'text': 'And Hearts and Minds\nwas the brainchild', 'start': 941.78, 'duration': 2.28}
+{'text': 'of Petraeus, who came in.', 'start': 944.06, 'duration': 3.0}
+{'text': 'And Hearts and Minds was a\nmodel of fighting warfare', 'start': 947.06, 'duration': 4.23}
+{'text': 'that borrowed its entire\ntoolkit from a large trove', 'start': 951.29, 'duration': 4.89}
+{'text': 'of information from\ncounterinsurgency models,', 'start': 956.18, 'duration': 3.27}
+{'text': 'pulling particularly from the\nFrench occupation of Algeria', 'start': 959.45, 'duration': 4.35}
+{'text': 'to the insurgency of Mao Zedong.', 'start': 963.8, 'duration': 5.22}
+{'text': "And what's interesting\nabout it-- and you're like,", 'start': 969.02, 'duration': 2.519}
+{'text': "we're talking about public art.", 'start': 971.539, 'duration': 1.291}
+{'text': 'Why are we dealing with\nthe Human Terrain System', 'start': 972.83, 'duration': 2.0}
+{'text': 'in Iraq and Afghanistan--', 'start': 974.83, 'duration': 1.87}
+{'text': 'is because when Petraeus\ncame into the military, what', 'start': 976.7, 'duration': 3.03}
+{'text': 'was fascinating to\nme was they called it', 'start': 979.73, 'duration': 1.68}
+{'text': 'the cultural turn\nin the military,', 'start': 981.41, 'duration': 2.4}
+{'text': 'which certainly\npricked my ears up.', 'start': 983.81, 'duration': 2.07}
+{'text': 'And when I started looking\nat the methods they used,', 'start': 985.88, 'duration': 2.819}
+{'text': 'which was-- just to\nsay, Petraeus was', 'start': 988.699, 'duration': 1.541}
+{'text': 'a big advocate of what we need\nto do when we go into Mosul,', 'start': 990.24, 'duration': 4.1}
+{'text': 'for example, is we need to\nbuild roads, build schools, hold', 'start': 994.34, 'duration': 3.3}
+{'text': 'tribal council meetings,\nget to know people.', 'start': 997.64, 'duration': 2.7}
+{'text': 'Those soldiers need to\nget out of their tanks', 'start': 1000.34, 'duration': 2.1}
+{'text': 'and walk the beat and get to\nbecome a face in the community.', 'start': 1002.44, 'duration': 4.15}
+{'text': 'And when I was looking\nat these methodologies,', 'start': 1006.59, 'duration': 2.09}
+{'text': 'it occurred to me that\nit looked strikingly', 'start': 1008.68, 'duration': 2.76}
+{'text': 'similar to the same\nkind of tactics', 'start': 1011.44, 'duration': 2.25}
+{'text': 'I was invested in\nwith public art.', 'start': 1013.69, 'duration': 3.39}
+{'text': 'And so this book is\na kind of opportunity', 'start': 1017.08, 'duration': 3.15}
+{'text': 'to look at methodologies\nof sociality', 'start': 1020.23, 'duration': 3.24}
+{'text': 'across a wide variety\nof discourses.', 'start': 1023.47, 'duration': 4.24}
+{'text': 'So in this particular\nchapter, I get', 'start': 1027.71, 'duration': 1.639}
+{'text': 'into the military and the\nways in which the Hearts', 'start': 1029.349, 'duration': 2.131}
+{'text': 'and Minds approach,\nor the cultural turn,', 'start': 1031.48, 'duration': 3.66}
+{'text': 'I look at that and its methods.', 'start': 1035.14, 'duration': 1.59}
+{'text': 'And part of it hints at a\ncertain kind of reflection', 'start': 1036.73, 'duration': 2.58}
+{'text': 'back onto art itself.', 'start': 1039.31, 'duration': 1.769}
+{'text': 'There are some other\nchapters, one of them', 'start': 1041.079, 'duration': 3.79}
+{'text': 'which I called "The Real\nEstate Show"-- and certainly,', 'start': 1044.869, 'duration': 2.25}
+{'text': 'it will be germane to\nour conversation today.', 'start': 1047.119, 'duration': 2.581}
+{'text': "And I'm sure most\nof you in this room", 'start': 1049.7, 'duration': 2.3}
+{'text': 'know more about the\nsubject than I do.', 'start': 1052.0, 'duration': 2.61}
+{'text': "But it's looking at\nthe last 20 years", 'start': 1054.61, 'duration': 3.87}
+{'text': 'of the growth of\nthe phraseologies', 'start': 1058.48, 'duration': 1.83}
+{'text': 'of the creative city,\nthe creative class,', 'start': 1060.31, 'duration': 2.64}
+{'text': 'that terrifyingly creepy\nword called the creative,', 'start': 1062.95, 'duration': 3.42}
+{'text': 'and the other friendly word\nof it that is also creepy,', 'start': 1066.37, 'duration': 3.58}
+{'text': 'the innovation.', 'start': 1069.95, 'duration': 2.36}
+{'text': "I don't know if you guys\nuse those words here.", 'start': 1072.31, 'duration': 1.98}
+{'text': 'They just sound like a\ngross Ted Talk thing.', 'start': 1074.29, 'duration': 4.17}
+{'text': 'But you know, the world\nwhere capitalism has entirely', 'start': 1078.46, 'duration': 3.06}
+{'text': 'embraced the language\nof creativity.', 'start': 1081.52, 'duration': 2.52}
+{'text': 'And now, we have a\nworld where everyone', 'start': 1084.04, 'duration': 3.09}
+{'text': 'is encouraging everyone to\nbe creative at all times.', 'start': 1087.13, 'duration': 4.02}
+{'text': 'The arts, profoundly,\nhas left the arts,', 'start': 1091.15, 'duration': 3.15}
+{'text': 'and has become a kind of\nlogic of urbanism itself.', 'start': 1094.3, 'duration': 3.96}
+{'text': 'So with that in mind, I will\nalso turn to the public art', 'start': 1098.26, 'duration': 3.36}
+{'text': 'projects.', 'start': 1101.62, 'duration': 1.02}
+{'text': "But I'm looking for\na certain kind of--", 'start': 1102.64, 'duration': 2.792}
+{'text': 'I guess one of the things\nI want to think about', 'start': 1105.432, 'duration': 1.958}
+{'text': 'as I talk about my\npublic art projects is--', 'start': 1107.39, 'duration': 3.32}
+{'text': 'not mine, but to be fair,\npublic art is a team sport.', 'start': 1110.71, 'duration': 3.67}
+{'text': 'It takes a lot of people.', 'start': 1114.38, 'duration': 2.27}
+{'text': "It's a village kind of style.", 'start': 1116.65, 'duration': 2.02}
+{'text': 'But to think about the\ncomplexities of the forces that', 'start': 1118.67, 'duration': 3.72}
+{'text': 'are using culture to get things\ndone for a variety of reasons,', 'start': 1122.39, 'duration': 3.6}
+{'text': 'and understanding that\noperating within that landscape', 'start': 1125.99, 'duration': 5.22}
+{'text': 'requires some savviness,\nand also, I think,', 'start': 1131.21, 'duration': 2.12}
+{'text': 'some self-assessment\nabout impact,', 'start': 1133.33, 'duration': 5.54}
+{'text': 'and quite honestly, a\nkind of getting real about', 'start': 1138.87, 'duration': 2.73}
+{'text': 'some radical politics\nbecause as much as like this', 'start': 1141.6, 'duration': 3.3}
+{'text': 'might seem crazy, right, when\nwe talk about gentrification,', 'start': 1144.9, 'duration': 3.12}
+{'text': 'or we talk about the ways in\nwhich urban development is', 'start': 1148.02, 'duration': 3.0}
+{'text': 'predominantly funded\nby developers,', 'start': 1151.02, 'duration': 2.22}
+{'text': 'we are talking\nabout an occupation,', 'start': 1153.24, 'duration': 1.92}
+{'text': "and we're also talking about\ntechniques of community", 'start': 1155.16, 'duration': 2.19}
+{'text': 'development that do not only\nreflect the methodologies that', 'start': 1157.35, 'duration': 3.57}
+{'text': 'are deployed by the US military,', 'start': 1160.92, 'duration': 1.68}
+{'text': 'but I would say a similar kind\nof ethos at times as well.', 'start': 1162.6, 'duration': 3.96}
+{'text': 'And so that produces\nreal problems', 'start': 1166.56, 'duration': 2.74}
+{'text': 'as you look in the mirror.', 'start': 1169.3, 'duration': 1.19}
+{'text': 'For me.', 'start': 1170.49, 'duration': 0.77}
+{'text': 'Not you, maybe.', 'start': 1171.26, 'duration': 0.76}
+{'text': "I don't know.", 'start': 1172.02, 'duration': 1.049}
+{'text': "I don't know.", 'start': 1173.069, 'duration': 0.541}
+{'text': "I don't know how you\nlook in the mirror.", 'start': 1173.61, 'duration': 3.51}
+{'text': "So we'll go to some\nprojects too because I", 'start': 1177.12, 'duration': 1.95}
+{'text': "think it's also good to\nground things in practice.", 'start': 1179.07, 'duration': 4.56}
+{'text': 'So you go to view slideshow.', 'start': 1183.63, 'duration': 1.65}
+{'text': 'So I work at a place called\nCreative Time, like I said.', 'start': 1187.799, 'duration': 2.291}
+{'text': 'I am 45 years old.', 'start': 1190.09, 'duration': 2.95}
+{'text': 'And so is Creative Time.', 'start': 1193.04, 'duration': 1.79}
+{'text': 'It was founded in 1972.', 'start': 1194.83, 'duration': 2.44}
+{'text': 'Oh, what happened?', 'start': 1197.27, 'duration': 0.75}
+{'text': 'It just disappeared.', 'start': 1200.72, 'duration': 3.3}
+{'text': 'It just disappeared.', 'start': 1204.02, 'duration': 3.45}
+{'text': 'Oh, my gosh.', 'start': 1207.47, 'duration': 2.18}
+{'text': 'No, no, hold on.', 'start': 1209.65, 'duration': 1.81}
+{'text': "He's coming.", 'start': 1211.46, 'duration': 1.251}
+{'text': "It's OK.", 'start': 1212.711, 'duration': 0.499}
+{'text': "I'll just talk to you for a bit.", 'start': 1213.21, 'duration': 1.63}
+{'text': 'Just come over here.', 'start': 1214.84, 'duration': 2.4}
+{'text': 'So in 1972, Creative\nTime, which was started', 'start': 1217.24, 'duration': 3.78}
+{'text': 'by basically artists who were\ninterested in doing projects', 'start': 1221.02, 'duration': 3.48}
+{'text': 'in the city--', 'start': 1224.5, 'duration': 1.17}
+{'text': 'you can imagine the urban\nenvironment of New York', 'start': 1225.67, 'duration': 2.34}
+{'text': "'72 was so different than\nNew York City gentrified,", 'start': 1228.01, 'duration': 3.96}
+{'text': 'nightmarishly overpriced,\nurban development', 'start': 1231.97, 'duration': 2.654}
+{'text': 'city that it is today.', 'start': 1234.624, 'duration': 0.916}
+{'text': 'Thank you, brah.', 'start': 1235.54, 'duration': 0.666}
+{'text': 'So in 1972, artists were\ninterested in using abandoned', 'start': 1238.9, 'duration': 3.48}
+{'text': 'derelict spaces to do projects.', 'start': 1242.38, 'duration': 1.47}
+{'text': 'So there was projects\nlike Art on the Beach.', 'start': 1243.85, 'duration': 1.98}
+{'text': 'There was projects where they\ndid a drive-in theater, which', 'start': 1245.83, 'duration': 2.55}
+{'text': 'is totally impossible\nto imagine now,', 'start': 1248.38, 'duration': 1.837}
+{'text': 'where you would just\ndrive your car up', 'start': 1250.217, 'duration': 1.583}
+{'text': 'and they would project films\non the sides of buildings.', 'start': 1251.8, 'duration': 3.18}
+{'text': 'And it was a way to kind of\ninvigorate the landscape.', 'start': 1254.98, 'duration': 2.88}
+{'text': "And through most of the\n'70s and into the '80s,", 'start': 1257.86, 'duration': 3.84}
+{'text': 'that was the kind of language\nof the arts in the city,', 'start': 1261.7, 'duration': 2.55}
+{'text': 'that it was a kind of space\nto produce ideas and operate', 'start': 1264.25, 'duration': 4.32}
+{'text': 'culturally, but also,\nin a kind of ragtag, not', 'start': 1268.57, 'duration': 3.39}
+{'text': 'well-funded, guerrilla aspect.', 'start': 1271.96, 'duration': 2.82}
+{'text': "And for most of the first\n50% of Creative Time's life,", 'start': 1274.78, 'duration': 7.35}
+{'text': 'it was a shoestring budget.', 'start': 1282.13, 'duration': 1.59}
+{'text': 'And it was much more,\nlike, artist-driven,', 'start': 1283.72, 'duration': 2.02}
+{'text': 'in so much as it was\nvery performative', 'start': 1285.74, 'duration': 2.15}
+{'text': 'and not in your classic\npublic art sense of, like,', 'start': 1287.89, 'duration': 2.6}
+{'text': 'pink sculptures.', 'start': 1290.49, 'duration': 1.27}
+{'text': 'It was much more like\nguerrilla activity.', 'start': 1291.76, 'duration': 3.58}
+{'text': 'And so I say that because\nthat particular period is', 'start': 1295.34, 'duration': 3.739}
+{'text': 'so different than the\nworld we live in now.', 'start': 1299.079, 'duration': 1.791}
+{'text': 'Not only is New York\ndifferent, but also the kind', 'start': 1300.87, 'duration': 2.74}
+{'text': 'of urban landscape that\none operates within', 'start': 1303.61, 'duration': 3.11}
+{'text': 'is also different.', 'start': 1306.72, 'duration': 0.82}
+{'text': 'And our budgets are different.', 'start': 1307.54, 'duration': 2.1}
+{'text': "So I've been here since 2007.", 'start': 1309.64, 'duration': 3.18}
+{'text': "And the relationship,\nwhich we'll", 'start': 1312.82, 'duration': 3.36}
+{'text': 'get into too, with the art\nin public with developers,', 'start': 1316.18, 'duration': 3.69}
+{'text': 'for example.', 'start': 1319.87, 'duration': 0.69}
+{'text': "And there's not just\nan abandoned building", 'start': 1320.56, 'duration': 2.34}
+{'text': "down in Brooklyn we're\njust going to go and do", 'start': 1322.9, 'duration': 2.27}
+{'text': 'guerrilla project in.', 'start': 1325.17, 'duration': 0.97}
+{'text': "That's just not the case.", 'start': 1326.14, 'duration': 1.42}
+{'text': 'So it is a totally\ndifferent environment.', 'start': 1327.56, 'duration': 2.15}
+{'text': 'Let me get into about project.', 'start': 1329.71, 'duration': 2.644}
+{'text': 'When I first got\nto Creative Time,', 'start': 1332.354, 'duration': 1.416}
+{'text': 'the second project I\nworked on was a project', 'start': 1333.77, 'duration': 2.54}
+{'text': 'called "Waiting for Godot in\nNew Orleans" by the artist', 'start': 1336.31, 'duration': 2.76}
+{'text': 'Paul Chan.', 'start': 1339.07, 'duration': 0.96}
+{'text': 'And this is two years\nafter Hurricane Katrina.', 'start': 1340.03, 'duration': 3.9}
+{'text': 'And the idea, which\nwas-- you know,', 'start': 1343.93, 'duration': 1.5}
+{'text': "it's funny because it's not\nan original idea at all.", 'start': 1345.43, 'duration': 2.166}
+{'text': 'It was totally, overtly\nborrowed from Susan Sontag,', 'start': 1347.596, 'duration': 5.304}
+{'text': 'who\'d done "Waiting\nfor Godot in Sarajevo"', 'start': 1352.9, 'duration': 3.0}
+{'text': 'during the Balkan Wars.', 'start': 1355.9, 'duration': 1.23}
+{'text': 'And Paul was interested\nin doing Waiting for Godot', 'start': 1357.13, 'duration': 4.35}
+{'text': 'in the landscape of\nNew Orleans, because he', 'start': 1361.48, 'duration': 2.61}
+{'text': 'said that the\nlandscape reminded him', 'start': 1364.09, 'duration': 2.43}
+{'text': "so much of every production\nof Samuel Beckett's play", 'start': 1366.52, 'duration': 3.12}
+{'text': "that he'd ever seen.", 'start': 1369.64, 'duration': 1.35}
+{'text': 'But simultaneously, what became\ninteresting about this project,', 'start': 1370.99, 'duration': 3.25}
+{'text': 'and which will feed into the\nconversation around community', 'start': 1374.24, 'duration': 3.41}
+{'text': 'engagement, was Paul\neloquently stated', 'start': 1377.65, 'duration': 3.0}
+{'text': 'that he wanted to do a play\nwith a front end and a back end,', 'start': 1380.65, 'duration': 4.08}
+{'text': 'the front end being the\nproduction of a play,', 'start': 1384.73, 'duration': 2.37}
+{'text': 'and the back end being the\nproduction of a public.', 'start': 1387.1, 'duration': 4.8}
+{'text': 'And when I think about what that\nmeans, which is just to say--', 'start': 1391.9, 'duration': 2.786}
+{'text': 'he also said-- which\nI think was great.', 'start': 1394.686, 'duration': 1.624}
+{'text': "He said, we're gonna to organize\nthis project Hezbollah style.", 'start': 1396.31, 'duration': 3.409}
+{'text': 'And I said, what do\nyou mean by that?', 'start': 1399.719, 'duration': 1.541}
+{'text': "He was like, well, we're\njust going to go door to door", 'start': 1401.26, 'duration': 2.249}
+{'text': 'and ask people what they need.', 'start': 1403.509, 'duration': 1.351}
+{'text': "And that's how we're going\nto organize this project.", 'start': 1404.86, 'duration': 2.83}
+{'text': 'And so he was\ntalking about a kind', 'start': 1407.69, 'duration': 1.58}
+{'text': 'of Saul Alinsky, leftist\ncommunity organizing model that', 'start': 1409.27, 'duration': 3.51}
+{'text': 'is applied to a very traditional\nkind of theatrical production.', 'start': 1412.78, 'duration': 5.88}
+{'text': 'That model of\nworking-- and we could', 'start': 1418.66, 'duration': 1.682}
+{'text': "get into that, because\nit's interesting--", 'start': 1420.342, 'duration': 1.708}
+{'text': 'has really informed\na lot of the work', 'start': 1422.05, 'duration': 2.97}
+{'text': "I've done since because the\nproduction of the play, to me,", 'start': 1425.02, 'duration': 5.43}
+{'text': 'is not just a production,\nyou could say.', 'start': 1430.45, 'duration': 2.791}
+{'text': "It's just a production\nof a theater.", 'start': 1433.241, 'duration': 1.499}
+{'text': 'And we worked, actually, with\nthe Harlem Theater Company', 'start': 1434.74, 'duration': 1.74}
+{'text': 'to produce it.', 'start': 1436.48, 'duration': 0.63}
+{'text': 'And we also benefited greatly,\nbecause the star of our play', 'start': 1437.11, 'duration': 2.7}
+{'text': 'was a gentleman named\nWendell Pierce, who was also', 'start': 1439.81, 'duration': 3.6}
+{'text': 'the star of the show Treme.', 'start': 1443.41, 'duration': 1.59}
+{'text': 'And he featured prominently\nin the show, The Wire.', 'start': 1445.0, 'duration': 2.347}
+{'text': "I don't know if you\nguys have seen it.", 'start': 1447.347, 'duration': 1.583}
+{'text': "Of course you have,\nbecause that's what we do.", 'start': 1448.93, 'duration': 5.43}
+{'text': 'But Wendell Pierce also\nbrought that to play.', 'start': 1454.36, 'duration': 3.104}
+{'text': 'But the production\nof a play, what', 'start': 1457.464, 'duration': 1.416}
+{'text': "was fascinating-- and to\nme, that's also in some ways", 'start': 1458.88, 'duration': 3.1}
+{'text': 'a symbol of the production\nof artwork, which is,', 'start': 1461.98, 'duration': 2.52}
+{'text': 'there is an artwork or a sign.', 'start': 1464.5, 'duration': 2.22}
+{'text': 'But then the back end\nis the social relations', 'start': 1466.72, 'duration': 3.03}
+{'text': 'that are put into play\nto support the symbol.', 'start': 1469.75, 'duration': 4.53}
+{'text': 'And the symbol without the\nsocial forces at play, I think,', 'start': 1474.28, 'duration': 3.76}
+{'text': "is something I'm not as\nmuch interested in anymore.", 'start': 1478.04, 'duration': 2.51}
+{'text': "I'm interested in how putting\na sign into the urban sphere", 'start': 1480.55, 'duration': 4.32}
+{'text': 'sets into action an opportunity\nto rethink social relations.', 'start': 1484.87, 'duration': 5.31}
+{'text': 'We did simple things.', 'start': 1490.18, 'duration': 1.14}
+{'text': 'We hosted community dinners.', 'start': 1491.32, 'duration': 1.28}
+{'text': 'We did potlucks.', 'start': 1492.6, 'duration': 1.15}
+{'text': 'We worked with local\ncommunity organizations.', 'start': 1493.75, 'duration': 3.15}
+{'text': 'And the thematic of waiting\nbecame a profound symbol', 'start': 1496.9, 'duration': 3.554}
+{'text': 'for many different things that\npeople were working through', 'start': 1500.454, 'duration': 2.416}
+{'text': 'in New Orleans, from waiting for\ntheir FEMA trailer to arrive,', 'start': 1502.87, 'duration': 3.84}
+{'text': 'waiting for their asthma test,\nbecause the FEMA trailers had', 'start': 1506.71, 'duration': 3.03}
+{'text': 'so much asthma problems, waiting\nfor their insurance checks,', 'start': 1509.74, 'duration': 3.51}
+{'text': 'waiting for people to\nreturn, waiting for the city', 'start': 1513.25, 'duration': 2.67}
+{'text': 'to actually address\ntheir concerns,', 'start': 1515.92, 'duration': 1.59}
+{'text': 'waiting for the federal\ngovernment to provide', 'start': 1517.51, 'duration': 1.875}
+{'text': 'any kind of aid.', 'start': 1519.385, 'duration': 0.675}
+{'text': 'So waiting became an\nimportant metaphor', 'start': 1520.06, 'duration': 2.4}
+{'text': 'to deal with this tragicomic\nterrible situation, which', 'start': 1522.46, 'duration': 3.13}
+{'text': 'just to say, is still\nentirely unresolved.', 'start': 1525.59, 'duration': 2.664}
+{'text': "The other thing I'd\nsay too-- and it's", 'start': 1532.997, 'duration': 1.583}
+{'text': 'important to bear in mind-- is\nthat was a project around race,', 'start': 1534.58, 'duration': 2.94}
+{'text': 'obviously.', 'start': 1537.52, 'duration': 1.35}
+{'text': 'And the Hurricane\nKatrina is entirely', 'start': 1538.87, 'duration': 2.25}
+{'text': 'a story about race in America.', 'start': 1541.12, 'duration': 3.03}
+{'text': 'But when we started working\non it, it was interesting,', 'start': 1544.15, 'duration': 2.25}
+{'text': 'because people said to us in the\nwhite community of New Orleans,', 'start': 1546.4, 'duration': 4.14}
+{'text': "oh, you're going to do a play in\nthe Ninth Ward of New Orleans?", 'start': 1550.54, 'duration': 2.73}
+{'text': 'No white people\nwill see your play.', 'start': 1553.27, 'duration': 2.49}
+{'text': 'And then when we talked\nto organizers of color', 'start': 1555.76, 'duration': 1.92}
+{'text': 'in the neighborhood\nand they said,', 'start': 1557.68, 'duration': 1.14}
+{'text': "oh, you're doing a theater play?", 'start': 1558.82, 'duration': 1.59}
+{'text': 'No people of color are\ncoming to your play.', 'start': 1560.41, 'duration': 2.22}
+{'text': 'So it was like, basically,\nthe word we got from everybody', 'start': 1562.63, 'duration': 2.61}
+{'text': "was no one's coming.", 'start': 1565.24, 'duration': 2.39}
+{'text': 'So of course, we took\nthat into our hearts.', 'start': 1567.63, 'duration': 1.84}
+{'text': 'And we said, well, then we\ndefinitely should do it.', 'start': 1569.47, 'duration': 2.76}
+{'text': 'But we did.', 'start': 1572.23, 'duration': 0.75}
+{'text': 'And what was amazing was we had\na very heterogeneous audience.', 'start': 1572.98, 'duration': 3.72}
+{'text': 'And it broke down a lot of\nspace around race and class', 'start': 1576.7, 'duration': 3.27}
+{'text': 'that really stuck with\nme, because as we all', 'start': 1579.97, 'duration': 3.75}
+{'text': 'know, finding spaces that\nare truly mixed race,', 'start': 1583.72, 'duration': 3.87}
+{'text': 'mixed class are rare in our\nvery racialized society.', 'start': 1587.59, 'duration': 5.04}
+{'text': 'And finding space\nto produce that is', 'start': 1592.63, 'duration': 1.92}
+{'text': 'important and meaningful,\nand also something one', 'start': 1594.55, 'duration': 2.94}
+{'text': 'should always take note of,\nparticularly in the really', 'start': 1597.49, 'duration': 2.73}
+{'text': 'racist, weird art world.', 'start': 1600.22, 'duration': 1.38}
+{'text': 'I mean, and it is racist, right?', 'start': 1604.64, 'duration': 1.692}
+{'text': 'Most art stuff you go to is\njust like, what the hell?', 'start': 1606.332, 'duration': 2.208}
+{'text': 'I did a project by the\nartist Jeremy Deller,', 'start': 1611.29, 'duration': 1.99}
+{'text': 'where we took a car--', 'start': 1613.28, 'duration': 1.5}
+{'text': 'this is his idea, by the way.', 'start': 1614.78, 'duration': 1.83}
+{'text': "I'm just a supporting guy.", 'start': 1616.61, 'duration': 2.556}
+{'text': 'We took a car from Baghdad,\nIraq that had been blown up', 'start': 1619.166, 'duration': 4.104}
+{'text': 'in a marketplace bombing.', 'start': 1623.27, 'duration': 1.74}
+{'text': 'And we traveled it\nthrough the United States', 'start': 1625.01, 'duration': 2.88}
+{'text': 'with a US soldier and a\nIraqi soldier, who had just', 'start': 1627.89, 'duration': 5.37}
+{'text': 'come from the war and were\nable to talk to people', 'start': 1633.26, 'duration': 2.28}
+{'text': 'about their experiences.', 'start': 1635.54, 'duration': 1.11}
+{'text': "And I'm going to show a clip\nof one of the people talking.", 'start': 1636.65, 'duration': 5.04}
+{'text': '[LAUGHS]', 'start': 1649.482, 'duration': 2.438}
+{'text': "I'm really embarrassed by\nthat picture too, just to say.", 'start': 1651.92, 'duration': 2.44}
+{'text': 'Sorry.', 'start': 1654.36, 'duration': 2.392}
+{'text': 'Hold on.', 'start': 1656.752, 'duration': 0.986}
+{'text': 'Here we go.', 'start': 1669.57, 'duration': 1.479}
+{'text': 'Oh, this one will do it.', 'start': 1683.374, 'duration': 1.972}
+{'text': '[VIDEO PLAYBACK]', 'start': 1685.346, 'duration': 1.484}
+{'text': '- I was a civilian contractor\nwith Kellogg, Brown and Root,', 'start': 1686.83, 'duration': 4.6}
+{'text': 'which is a subsidiary\nof Halliburton.', 'start': 1691.43, 'duration': 2.13}
+{'text': 'And I was in the Morale,\nWelfare, and Recreation', 'start': 1693.56, 'duration': 3.2}
+{'text': 'Programming Department.', 'start': 1696.76, 'duration': 2.11}
+{'text': 'There were kind of\nthe regular things', 'start': 1698.87, 'duration': 1.64}
+{'text': 'of planning basketball\ntournaments and arm wrestling', 'start': 1700.51, 'duration': 3.87}
+{'text': 'tournaments and\nevents like that.', 'start': 1704.38, 'duration': 3.174}
+{'text': 'And a lot of what\nI ended up doing', 'start': 1707.554, 'duration': 1.416}
+{'text': 'was really off-the-radar,\ninformal kinds of things.', 'start': 1708.97, 'duration': 2.46}
+{'text': 'I think one of the most exciting\nand unusual activities that we', 'start': 1711.43, 'duration': 5.07}
+{'text': 'started to run was a regular\nPictionary and manicure night.', 'start': 1716.5, 'duration': 6.28}
+{'text': 'And this is for US\nmilitary personnel, men.', 'start': 1722.78, 'duration': 4.01}
+{'text': 'And they got really excited\nabout Mary Kay manicures', 'start': 1726.79, 'duration': 3.51}
+{'text': 'and would come on\na nightly basis', 'start': 1730.3, 'duration': 2.01}
+{'text': 'and stand in line to have\ntheir hands softened.', 'start': 1732.31, 'duration': 4.41}
+{'text': 'So there were really\nunusual things like that.', 'start': 1736.72, 'duration': 3.182}
+{'text': '- Does that mean\nthey were very bored?', 'start': 1739.902, 'duration': 1.768}
+{'text': '- They were incredibly bored.', 'start': 1741.67, 'duration': 1.32}
+{'text': 'They were bored\nout of their minds.', 'start': 1742.99, 'duration': 1.86}
+{'text': 'They were in the best\nshape of their lives', 'start': 1744.85, 'duration': 3.57}
+{'text': 'because they worked\nout all the time', 'start': 1748.42, 'duration': 2.58}
+{'text': 'and really sat around waiting\nto be given things to do.', 'start': 1751.0, 'duration': 5.13}
+{'text': 'And also, I think the\nmost shocking thing for me', 'start': 1756.13, 'duration': 2.73}
+{'text': 'was experiencing the futility\nof a lot of the missions', 'start': 1758.86, 'duration': 2.85}
+{'text': 'that they were sent out to do,\npatrolling just to give them', 'start': 1761.71, 'duration': 2.79}
+{'text': 'something to do,\nwhich was insane.', 'start': 1764.5, 'duration': 2.92}
+{'text': '[END PLAYBACK]', 'start': 1767.42, 'duration': 1.38}
+{'text': 'But just to say, so this\nproject, if you looked at it,', 'start': 1768.8, 'duration': 3.836}
+{'text': 'you would think it was the\nmost boring project ever', 'start': 1772.636, 'duration': 2.124}
+{'text': 'because it was a way to get\npeople talking about the war.', 'start': 1774.76, 'duration': 2.79}
+{'text': 'And so you would just\nhave two guys sitting', 'start': 1777.55, 'duration': 1.86}
+{'text': 'around this blown-up car.', 'start': 1779.41, 'duration': 1.4}
+{'text': 'But what was\nfascinating to me was', 'start': 1780.81, 'duration': 1.42}
+{'text': 'it was a way to, in some\nways, produce a social space', 'start': 1782.23, 'duration': 4.5}
+{'text': "that wasn't mediated\nby Fox News or CNN,", 'start': 1786.73, 'duration': 3.33}
+{'text': 'a way to touch upon the\nconversation of the war that', 'start': 1790.06, 'duration': 3.57}
+{'text': 'was open to just discussion\nfrom people that had been there', 'start': 1793.63, 'duration': 2.52}
+{'text': 'and get their firsthand\nknowledge from it.', 'start': 1796.15, 'duration': 2.01}
+{'text': 'And while we worked on it,\nwhat was fascinating to me', 'start': 1798.16, 'duration': 2.37}
+{'text': 'was we were so concerned\nabout getting attacked', 'start': 1800.53, 'duration': 3.66}
+{'text': 'by right-wing zealots or\npatriots who felt like this was', 'start': 1804.19, 'duration': 4.41}
+{'text': 'very anti-war, but in fact,\nwhere our concerns were totally', 'start': 1808.6, 'duration': 3.957}
+{'text': 'opposite of what occurred.', 'start': 1812.557, 'duration': 1.083}
+{'text': 'Because the people involved in\nthe war were eager to discuss.', 'start': 1813.64, 'duration': 3.78}
+{'text': 'In fact, we found so many\nyoung, like, 20-year-old kids', 'start': 1817.42, 'duration': 3.18}
+{'text': 'and 21-year-old\nkids who had already', 'start': 1820.6, 'duration': 1.56}
+{'text': 'done a few tours\nthat wanted to talk', 'start': 1822.16, 'duration': 1.5}
+{'text': 'about it and their families.', 'start': 1823.66, 'duration': 1.39}
+{'text': 'So people touched by the war\nwere the most eager to talk in', 'start': 1825.05, 'duration': 3.11}
+{'text': 'public about it.', 'start': 1828.16, 'duration': 2.28}
+{'text': 'The pushback we got was\nfrom the left wing, in fact.', 'start': 1830.44, 'duration': 3.96}
+{'text': 'A lot of the activists\nsaid, this is ridiculous.', 'start': 1834.4, 'duration': 2.1}
+{'text': 'You know, the war is going on.', 'start': 1836.5, 'duration': 1.81}
+{'text': 'Why would you put so much money\ntoward something so ambiguous?', 'start': 1838.31, 'duration': 2.83}
+{'text': 'You should put something\ntowards something', 'start': 1841.14, 'duration': 1.75}
+{'text': 'directly against\nthe war, you know.', 'start': 1842.89, 'duration': 1.795}
+{'text': 'And one guy said to\nus, which I thought', 'start': 1844.685, 'duration': 1.625}
+{'text': 'was fun, because he had a\nHurricane Katrina moment.', 'start': 1846.31, 'duration': 2.28}
+{'text': "He said, it's as though like\nHurricane Katrina happens", 'start': 1848.59, 'duration': 4.53}
+{'text': "and there's bodies\nin the streets.", 'start': 1853.12, 'duration': 2.52}
+{'text': 'And you want to do a project\nabout the merits of Cajun food.', 'start': 1855.64, 'duration': 3.87}
+{'text': "That's not the time\nor place for that.", 'start': 1859.51, 'duration': 2.642}
+{'text': 'But I thought that\nwas interesting to me.', 'start': 1862.152, 'duration': 1.708}
+{'text': 'Because, of course,\nin some ways,', 'start': 1863.86, 'duration': 2.1}
+{'text': 'it was a public art\nproject that people', 'start': 1865.96, 'duration': 4.38}
+{'text': 'felt like-- so we\nhave our activists who', 'start': 1870.34, 'duration': 1.74}
+{'text': 'felt like it was too ambiguous.', 'start': 1872.08, 'duration': 1.41}
+{'text': 'Right?', 'start': 1873.49, 'duration': 0.54}
+{'text': 'And then we got a critique\nin The New York Times', 'start': 1874.03, 'duration': 3.16}
+{'text': 'that was convinced that it\nwas good therapy for America,', 'start': 1877.19, 'duration': 2.9}
+{'text': "but it certainly\nwasn't an art project.", 'start': 1880.09, 'duration': 3.26}
+{'text': 'Just to say, public art is\none of these things where', 'start': 1883.35, 'duration': 2.217}
+{'text': 'you have to have very thick\nskin, because you know', 'start': 1885.567, 'duration': 2.083}
+{'text': "it's successful when everyone\ntalks about why it's bad,", 'start': 1887.65, 'duration': 3.74}
+{'text': 'which is, like, my whole--', 'start': 1891.39, 'duration': 1.952}
+{'text': "I'm surprised I'm here\nwith you guys at Harvard", 'start': 1893.342, 'duration': 1.958}
+{'text': "because if you look at all my\nreviews, it's all negative.", 'start': 1895.3, 'duration': 2.73}
+{'text': '[LAUGHTER]', 'start': 1898.03, 'duration': 1.473}
+{'text': "But that's the public sphere.", 'start': 1901.562, 'duration': 1.208}
+{'text': "It's like democracy is a world\nof people hating on each other.", 'start': 1902.77, 'duration': 3.26}
+{'text': '[CHUCKLES]', 'start': 1909.05, 'duration': 1.476}
+{'text': "All right, I'm just going to\ngo through a few more projects.", 'start': 1912.3, 'duration': 3.38}
+{'text': 'I have so many\nfun little things.', 'start': 1915.68, 'duration': 3.54}
+{'text': 'We did a project in\n2010 with the artist', 'start': 1919.22, 'duration': 1.83}
+{'text': 'Paul Ramirez Jonas, who I think\nhas done a bunch of projects', 'start': 1921.05, 'duration': 2.805}
+{'text': 'up here, right?', 'start': 1923.855, 'duration': 0.765}
+{'text': 'Yeah.', 'start': 1924.62, 'duration': 0.63}
+{'text': 'Yeah.', 'start': 1925.25, 'duration': 1.71}
+{'text': "He's great.", 'start': 1926.96, 'duration': 0.63}
+{'text': 'I love Paul.', 'start': 1927.59, 'duration': 0.99}
+{'text': 'So we did a project\ncalled "Key to the City."', 'start': 1928.58, 'duration': 3.61}
+{'text': "I think he's got a\nlittle piece of land", 'start': 1932.19, 'duration': 2.36}
+{'text': 'out here that people in\nCambridge have got to key to.', 'start': 1934.55, 'duration': 2.55}
+{'text': "That's right.", 'start': 1937.1, 'duration': 0.671}
+{'text': 'So we did this project,\n"Key to the City," which', 'start': 1937.771, 'duration': 1.999}
+{'text': 'became the official key to the\ncity of New York for one month.', 'start': 1939.77, 'duration': 3.12}
+{'text': 'And Mayor Bloomberg\nactually announced', 'start': 1942.89, 'duration': 1.65}
+{'text': 'it, which was pretty fun.', 'start': 1944.54, 'duration': 1.89}
+{'text': 'We released 36,000\nof these keys.', 'start': 1946.43, 'duration': 2.13}
+{'text': 'You would go Times Square.', 'start': 1948.56, 'duration': 1.71}
+{'text': 'And you had to actually\nbestow upon someone.', 'start': 1950.27, 'duration': 2.82}
+{'text': 'So it was very ceremonial.', 'start': 1953.09, 'duration': 1.769}
+{'text': 'And the key to the city\nthat you would physically', 'start': 1954.859, 'duration': 2.041}
+{'text': 'get in your hand after\ndoing this ceremony', 'start': 1956.9, 'duration': 2.88}
+{'text': 'would open up physical spaces\nthroughout the Boroughs,', 'start': 1959.78, 'duration': 3.9}
+{'text': 'from the super higg-end,\nimportant social capital', 'start': 1963.68, 'duration': 3.6}
+{'text': 'spaces, to super\nprivate quiet spaces,', 'start': 1967.28, 'duration': 3.33}
+{'text': 'to certain peculiar spaces.', 'start': 1970.61, 'duration': 1.92}
+{'text': 'So for example,\nthere was a locker', 'start': 1972.53, 'duration': 3.9}
+{'text': 'at Gleasons Gym in Brooklyn\nthat you could open.', 'start': 1976.43, 'duration': 3.36}
+{'text': 'You had to go in this boxing\nplace, go in the back area,', 'start': 1979.79, 'duration': 2.94}
+{'text': 'open up this locker.', 'start': 1982.73, 'duration': 2.07}
+{'text': 'And there was all this\nboxing memorabilia there.', 'start': 1984.8, 'duration': 2.4}
+{'text': 'You could go to tortaria.', 'start': 1987.2, 'duration': 3.45}
+{'text': "It's called Tortilla\nNixtamal in Queens.", 'start': 1990.65, 'duration': 2.58}
+{'text': "And you'd go to the back\ndoor, open it with your key.", 'start': 1993.23, 'duration': 2.73}
+{'text': 'You could go down these\nstairs and make tortillas', 'start': 1995.96, 'duration': 2.835}
+{'text': 'with the people working there.', 'start': 1998.795, 'duration': 1.465}
+{'text': 'It was awesome.', 'start': 2000.26, 'duration': 1.85}
+{'text': 'You could go to Bryant Park,\nput your key in a light,', 'start': 2002.11, 'duration': 2.94}
+{'text': 'and turn it on and off.', 'start': 2005.05, 'duration': 3.15}
+{'text': 'Pretty fun!', 'start': 2008.2, 'duration': 1.62}
+{'text': 'You could go to the\nBrooklyn Museum.', 'start': 2009.82, 'duration': 2.13}
+{'text': 'And it was like Scooby-Doo.', 'start': 2011.95, 'duration': 2.97}
+{'text': 'Between these two paintings\nwas a little door,', 'start': 2014.92, 'duration': 2.64}
+{'text': 'and you opened it with your key.', 'start': 2017.56, 'duration': 1.38}
+{'text': 'And there was a private\nexhibition for you.', 'start': 2018.94, 'duration': 3.21}
+{'text': "Isn't that awesome?", 'start': 2022.15, 'duration': 1.08}
+{'text': 'But there was also\na private exhibition', 'start': 2023.23, 'duration': 2.43}
+{'text': "in the mayor's house,\nat Gracie Mansion", 'start': 2025.66, 'duration': 2.97}
+{'text': 'because he never lived there.', 'start': 2028.63, 'duration': 2.52}
+{'text': "He's like, sure, you\ncan use the house.", 'start': 2031.15, 'duration': 3.99}
+{'text': 'I mean, this project\nwas a total pain.', 'start': 2035.14, 'duration': 2.111}
+{'text': 'All of them were a total pain.', 'start': 2037.251, 'duration': 1.249}
+{'text': 'But this project was\na pain because we', 'start': 2038.5, 'duration': 2.58}
+{'text': 'worked with Port Authority\nto get access to the George', 'start': 2041.08, 'duration': 4.62}
+{'text': 'Washington Bridge so\nthat you could open up', 'start': 2045.7, 'duration': 3.72}
+{'text': 'the pedestrian walkway to\nwalk across the bridge.', 'start': 2049.42, 'duration': 3.299}
+{'text': "And first of all, I\ndon't think hardly", 'start': 2052.719, 'duration': 2.161}
+{'text': 'anybody did it, which is\na shame, since it required', 'start': 2054.88, 'duration': 3.81}
+{'text': '4,000 meetings to get done.', 'start': 2058.69, 'duration': 2.67}
+{'text': 'But it is important to be\nable to open up the bridge', 'start': 2061.36, 'duration': 2.339}
+{'text': 'to the city, literally.', 'start': 2063.699, 'duration': 1.811}
+{'text': "But what's fun about\nthat too was to me,", 'start': 2065.51, 'duration': 2.229}
+{'text': 'the project is kind of a\nmetaphor for public art, which', 'start': 2067.739, 'duration': 2.291}
+{'text': 'was it was offering access to\nthings you already had access', 'start': 2070.03, 'duration': 3.75}
+{'text': 'to.', 'start': 2073.78, 'duration': 0.66}
+{'text': 'And the key becomes\na space of opening up', 'start': 2074.44, 'duration': 2.43}
+{'text': 'between the private\nand the public.', 'start': 2076.87, 'duration': 1.92}
+{'text': 'And then, for me, Paul\nRamirez Jonas joked.', 'start': 2078.79, 'duration': 3.23}
+{'text': 'He said, you know,\nthis is going to become', 'start': 2082.02, 'duration': 1.75}
+{'text': 'my cows on parade project.', 'start': 2083.77, 'duration': 2.25}
+{'text': "That's all people ever going\nto want me to do anymore.", 'start': 2086.02, 'duration': 3.339}
+{'text': "But it's a great project.", 'start': 2089.359, 'duration': 1.041}
+{'text': 'I kind of wish every\ncity would just do it.', 'start': 2090.4, 'duration': 1.86}
+{'text': 'So feel free to steal it.', 'start': 2092.26, 'duration': 1.26}
+{'text': "It's OK.", 'start': 2093.52, 'duration': 0.869}
+{'text': 'I mean, but tell him.', 'start': 2094.389, 'duration': 1.35}
+{'text': 'We also worked with the artist\nTania Bruguera on a project', 'start': 2098.26, 'duration': 2.61}
+{'text': 'called "Immigrant Movement\nInternational," where', 'start': 2100.87, 'duration': 2.28}
+{'text': 'she decided to work on\na-- well, the back story', 'start': 2103.15, 'duration': 2.899}
+{'text': 'is very funny because\nshe said to me,', 'start': 2106.049, 'duration': 1.541}
+{'text': 'I want to start\na political party', 'start': 2107.59, 'duration': 1.374}
+{'text': 'for immigrants in America.', 'start': 2108.964, 'duration': 2.356}
+{'text': "And I said, let's do that.", 'start': 2111.32, 'duration': 1.11}
+{'text': 'And then I realized what\ndefines a 501(c)(3) is that you', 'start': 2112.43, 'duration': 3.11}
+{'text': "can't start a political party.", 'start': 2115.54, 'duration': 2.5}
+{'text': "So I was like, wait, that's\nthe one project I can't work on", 'start': 2118.04, 'duration': 2.74}
+{'text': 'at Creative Time.', 'start': 2120.78, 'duration': 2.23}
+{'text': 'But we did start this project\ncalled "Immigrant Movement', 'start': 2123.01, 'duration': 2.7}
+{'text': 'International,"\nwhich became a space', 'start': 2125.71, 'duration': 1.59}
+{'text': 'to think through the\npolitical imaginary of what', 'start': 2127.3, 'duration': 2.7}
+{'text': 'a global immigrant\ncommunity would look like', 'start': 2130.0, 'duration': 3.12}
+{'text': 'and how it could function.', 'start': 2133.12, 'duration': 1.775}
+{'text': 'And this was in partnership\nwith the Queens Museum.', 'start': 2134.895, 'duration': 2.125}
+{'text': 'And so she produced this\nspace in Corona, Queens, which', 'start': 2137.02, 'duration': 2.67}
+{'text': 'became a community service\ncenter and a space of thinking', 'start': 2139.69, 'duration': 3.96}
+{'text': "about the global possibilities\nof a citizenry that's", 'start': 2143.65, 'duration': 3.15}
+{'text': 'truly international,\nwithout national borders.', 'start': 2146.8, 'duration': 3.759}
+{'text': 'And just to give you a sense of\nthe community organizing that', 'start': 2150.559, 'duration': 2.541}
+{'text': 'went into this-- because this is\none of those things you can say', 'start': 2153.1, 'duration': 2.666}
+{'text': 'is great, but until you\nunderstand the work that goes', 'start': 2155.766, 'duration': 2.644}
+{'text': 'into it-- the back end,\nas Paul Chan would say--', 'start': 2158.41, 'duration': 2.49}
+{'text': "you don't know.", 'start': 2160.9, 'duration': 0.7}
+{'text': 'And the back end of this-- just\nlet me give you a sense of it.', 'start': 2161.6, 'duration': 4.216}
+{'text': 'These are all the\nclasses they offered.', 'start': 2165.816, 'duration': 1.624}
+{'text': 'And it continues to go.', 'start': 2174.17, 'duration': 2.45}
+{'text': "So it's been going\nfor six years now.", 'start': 2176.62, 'duration': 3.82}
+{'text': "That's a lot of work.", 'start': 2180.44, 'duration': 1.23}
+{'text': 'I worked with the\nartist Suzanne Lacy,', 'start': 2184.19, 'duration': 1.71}
+{'text': 'where we worked with community\norganizers and activists,', 'start': 2185.9, 'duration': 2.97}
+{'text': '400 of them women, to do a\nproject between cross-race,', 'start': 2188.87, 'duration': 6.72}
+{'text': 'cross-age, and\ncross-disciplinary', 'start': 2195.59, 'duration': 2.37}
+{'text': 'on the conversation around\ncontemporary feminism,', 'start': 2197.96, 'duration': 3.96}
+{'text': 'basically, and gender rights.', 'start': 2201.92, 'duration': 2.13}
+{'text': 'And the way it was orchestrated,\nafter talking to a gazillion', 'start': 2204.05, 'duration': 4.522}
+{'text': 'people to get involved\nin this, was to actually', 'start': 2208.572, 'duration': 1.958}
+{'text': 'have these kind of conversations\nthat were on stoops across one', 'start': 2210.53, 'duration': 3.946}
+{'text': 'street in Brooklyn,\nwhere you could listen in', 'start': 2214.476, 'duration': 1.874}
+{'text': 'on the various discussions\nthat people were having.', 'start': 2216.35, 'duration': 4.1}
+{'text': "I'll give you a little\nvideo of that too.", 'start': 2220.45, 'duration': 1.823}
+{'text': "Oh, I'll do that one too.", 'start': 2226.819, 'duration': 1.041}
+{'text': "I'm gonna check my\nemail while I'm here.", 'start': 2236.904, 'duration': 3.016}
+{'text': '[LAUGHTER]', 'start': 2239.92, 'duration': 1.96}
+{'text': "I'm sorry.", 'start': 2241.88, 'duration': 0.97}
+{'text': "Well, I'm running out of time.", 'start': 2245.811, 'duration': 1.249}
+{'text': "I'll do something else for you.", 'start': 2247.06, 'duration': 2.26}
+{'text': "So we'll do this Kara\nWalker project too", 'start': 2249.32, 'duration': 1.82}
+{'text': 'because it is kind of\nlike my platinum album.', 'start': 2251.14, 'duration': 3.59}
+{'text': 'So we worked with the artist\nKara Walker in the Domino Sugar', 'start': 2254.73, 'duration': 2.5}
+{'text': 'factory to do this\ngiant project.', 'start': 2257.23, 'duration': 1.82}
+{'text': '[VIDEO PLAYBACK]', 'start': 2259.05, 'duration': 1.0}
+{'text': '[MUSIC PLAYING]', 'start': 2260.05, 'duration': 2.0}
+{'text': 'So this was a large\nscale sculpture', 'start': 2295.55, 'duration': 1.8}
+{'text': 'in the old Domino Sugar\nRefinery plant in Williamsburg.', 'start': 2297.35, 'duration': 2.44}
+{'text': '- --an elaborate, sort of\nmarzipan, or sugar sculpture,', 'start': 2299.79, 'duration': 2.42}
+{'text': 'made of sugar paste, a kind\nof fondant that typically,', 'start': 2302.21, 'duration': 3.21}
+{'text': 'in these large banquets\nthat would have been thrown', 'start': 2305.42, 'duration': 2.4}
+{'text': 'in the medieval era at\nthe court of King Henry.', 'start': 2307.82, 'duration': 3.66}
+{'text': 'They would have had a\nmain course and then', 'start': 2311.48, 'duration': 2.13}
+{'text': 'a sugar subtlety.', 'start': 2313.61, 'duration': 1.192}
+{'text': 'And then people would eat it.', 'start': 2314.802, 'duration': 1.208}
+{'text': 'So it had all this kind\nof power of ingesting', 'start': 2316.01, 'duration': 3.27}
+{'text': 'this desirable\nprecious substance,', 'start': 2319.28, 'duration': 2.76}
+{'text': "but also, you're\nsort of ingesting", 'start': 2322.04, 'duration': 2.01}
+{'text': 'the power of the king.', 'start': 2324.05, 'duration': 1.35}
+{'text': 'Anyway, when I heard the term\n"subtlety," I was a goner.', 'start': 2325.4, 'duration': 2.969}
+{'text': 'I was like, oh, I have to\nmake a sugar sculpture.', 'start': 2328.369, 'duration': 2.041}
+{'text': 'I was like, oh, of course!', 'start': 2330.41, 'duration': 2.304}
+{'text': "- I'm really proud\nthat Creative Time", 'start': 2332.714, 'duration': 2.506}
+{'text': 'is undertaking this\nextremely ambitious project.', 'start': 2335.22, 'duration': 3.28}
+{'text': "It's not just\nambitious in scale.", 'start': 2338.5, 'duration': 1.92}
+{'text': "It's ambitious in\nterms of its content.", 'start': 2340.42, 'duration': 2.34}
+{'text': 'Kara Walker is\nencouraging us to look', 'start': 2342.76, 'duration': 2.28}
+{'text': 'at things that are so visible\nin our society that we wish', 'start': 2345.04, 'duration': 2.91}
+{'text': 'were invisible-- our\nhistories of slavery', 'start': 2347.95, 'duration': 2.49}
+{'text': 'and our contemporary\nrelationship', 'start': 2350.44, 'duration': 1.89}
+{'text': 'to slavery, immigration,\nmigration, mythologizing', 'start': 2352.33, 'duration': 4.53}
+{'text': "of black women's bodies.", 'start': 2356.86, 'duration': 2.47}
+{'text': "And it's our belief\nat Creative Time", 'start': 2359.33, 'duration': 1.91}
+{'text': 'that public art creates\na space to engage', 'start': 2361.24, 'duration': 3.005}
+{'text': 'in those difficult\nconversations.', 'start': 2364.245, 'duration': 1.375}
+{'text': '[MUSIC PLAYING]', 'start': 2365.62, 'duration': 1.932}
+{'text': '- The Domino Sugar factory is\ndoing a large part of the work.', 'start': 2375.96, 'duration': 3.864}
+{'text': 'I mean, the accepting\nof the building', 'start': 2379.824, 'duration': 2.056}
+{'text': 'itself is creating the context.', 'start': 2381.88, 'duration': 2.16}
+{'text': 'And it is, like, the sculpture.', 'start': 2384.04, 'duration': 1.74}
+{'text': 'It is kind of the subtlety.', 'start': 2385.78, 'duration': 1.62}
+{'text': 'To make a piece that would\nsort of complement it, echo it,', 'start': 2387.4, 'duration': 3.87}
+{'text': 'and hopefully that contain\nthese assorted meanings', 'start': 2391.27, 'duration': 3.84}
+{'text': 'about imperialism,\nabout slavery,', 'start': 2395.11, 'duration': 2.94}
+{'text': 'about the slave trade that\ntraded sugar for bodies', 'start': 2398.05, 'duration': 3.33}
+{'text': 'and bodies for sugar.', 'start': 2401.38, 'duration': 3.14}
+{'text': 'So these are these\ncast figurines', 'start': 2404.52, 'duration': 1.71}
+{'text': 'that were made\nentirely of sugar here.', 'start': 2406.23, 'duration': 2.16}
+{'text': 'And then we made this\nenormous Sphinx-like sculpture', 'start': 2411.79, 'duration': 6.42}
+{'text': 'that was covered in a\nsugar slurry is the word.', 'start': 2418.21, 'duration': 5.14}
+{'text': "But that's not sugar.\nit was Styrofoam inside.", 'start': 2423.35, 'duration': 2.14}
+{'text': '- --and we started to get\nan understanding of what', 'start': 2425.49, 'duration': 2.083}
+{'text': 'parasitism was, a lot of people\nthought that it was impossible.', 'start': 2427.573, 'duration': 5.517}
+{'text': "And so it's been incredibly\nexciting to assemble", 'start': 2433.09, 'duration': 2.18}
+{'text': 'this team of problem-solvers\nthat have turned this', 'start': 2435.27, 'duration': 3.11}
+{'text': 'into a reality.', 'start': 2438.38, 'duration': 3.7}
+{'text': '- Well, the space\nin and of itself--', 'start': 2442.08, 'duration': 1.976}
+{'text': '[END PLAYBACK]', 'start': 2444.056, 'duration': 0.954}
+{'text': 'Anyway, so that\nwas really popular.', 'start': 2445.01, 'duration': 2.9}
+{'text': "I got call them on my phone\nfrom Usher, Usher's people,", 'start': 2447.91, 'duration': 5.52}
+{'text': 'asking to go backstage.', 'start': 2453.43, 'duration': 1.53}
+{'text': "And I was like, well,\nit's public art.", 'start': 2454.96, 'duration': 0.98}
+{'text': "It's free and open\nto the public.", 'start': 2455.94, 'duration': 1.375}
+{'text': 'Come on down.', 'start': 2457.315, 'duration': 1.235}
+{'text': "Don't have a\nbackstage here, Usher.", 'start': 2458.55, 'duration': 1.51}
+{'text': 'But just to say, it was a\nreally impressive project.', 'start': 2462.504, 'duration': 2.166}
+{'text': 'People came.', 'start': 2464.67, 'duration': 0.55}
+{'text': "And and also, Kara\nWalker, of course, she's", 'start': 2465.22, 'duration': 3.01}
+{'text': 'incredibly brilliant,\nbut she also', 'start': 2468.23, 'duration': 1.492}
+{'text': 'understood the\nnature of public art', 'start': 2469.722, 'duration': 1.458}
+{'text': 'and really went for the\nmonumental-- literally,', 'start': 2471.18, 'duration': 2.31}
+{'text': 'monumentality of it.', 'start': 2473.49, 'duration': 1.5}
+{'text': 'And it also,\nfascinatingly enough--', 'start': 2474.99, 'duration': 1.77}
+{'text': 'just say something very--', 'start': 2476.76, 'duration': 2.16}
+{'text': "over the years, it's shifted\ndramatically in my experience", 'start': 2478.92, 'duration': 2.43}
+{'text': 'with public art is the role\nof social media in terms', 'start': 2481.35, 'duration': 5.67}
+{'text': 'its profound ability to\nproduce discussions with art', 'start': 2487.02, 'duration': 2.52}
+{'text': 'in public, because I mean,\nevery one of our projects now,', 'start': 2489.54, 'duration': 4.62}
+{'text': 'even if no single\nreporter reported on it,', 'start': 2494.16, 'duration': 2.46}
+{'text': 'would just become this-- it\njust takes off in social medias', 'start': 2496.62, 'duration': 3.0}
+{'text': 'spheres very fast.', 'start': 2499.62, 'duration': 2.22}
+{'text': 'I hate the word "grammable,"\nbut it is all very grammable.', 'start': 2501.84, 'duration': 2.64}
+{'text': 'But also discursive, it gets\npeople talking and debating', 'start': 2504.48, 'duration': 2.7}
+{'text': 'and trolling each other.', 'start': 2507.18, 'duration': 3.04}
+{'text': "But it's interesting, because it\ndoes become a kind of fulcrum,", 'start': 2510.22, 'duration': 3.244}
+{'text': 'or a kind of catalyst\nfor a certain kind', 'start': 2513.464, 'duration': 1.666}
+{'text': 'of social, civic sense,\nwhich I find extremely', 'start': 2515.13, 'duration': 3.66}
+{'text': 'exciting and interesting\nand new, relatively so,', 'start': 2518.79, 'duration': 4.7}
+{'text': "for the work we've been doing.", 'start': 2523.49, 'duration': 1.57}
+{'text': 'I want to show\none final project.', 'start': 2525.06, 'duration': 1.41}
+{'text': 'And then I will be done-ish.', 'start': 2526.47, 'duration': 2.28}
+{'text': 'And it is-- it ought to go here.', 'start': 2532.29, 'duration': 1.988}
+{'text': "So it's funny because--", 'start': 2540.63, 'duration': 3.47}
+{'text': "it's not funny.", 'start': 2544.1, 'duration': 0.85}
+{'text': 'But the same year that we\ndid the Kara Walker project,', 'start': 2544.95, 'duration': 4.31}
+{'text': 'I also worked on this project,\n"funkgodjazz&medicine,', 'start': 2549.26, 'duration': 3.51}
+{'text': 'Black Radical Brooklyn."', 'start': 2552.77, 'duration': 1.38}
+{'text': "And I think Kara\nWalker's project", 'start': 2554.15, 'duration': 2.73}
+{'text': 'attracted 145,000 people.', 'start': 2556.88, 'duration': 3.06}
+{'text': "And this project, which I'm sure\nmany of you have not heard of,", 'start': 2559.94, 'duration': 4.41}
+{'text': 'attracted 5,200.', 'start': 2564.35, 'duration': 3.42}
+{'text': 'So not a success in\nterms of audience.', 'start': 2567.77, 'duration': 2.61}
+{'text': 'But I love this project, so\nI have to tell you about it.', 'start': 2570.38, 'duration': 4.59}
+{'text': 'It was a partnership\nwith this place called', 'start': 2574.97, 'duration': 1.86}
+{'text': 'Weeksville Heritage Center.', 'start': 2576.83, 'duration': 1.56}
+{'text': 'And it is a historic\nAfrican-American community', 'start': 2578.39, 'duration': 4.47}
+{'text': 'that was started by a\nguy named John Weeks, who', 'start': 2582.86, 'duration': 3.45}
+{'text': 'understood that if\nyou owned property,', 'start': 2586.31, 'duration': 2.55}
+{'text': 'you were allowed to vote.', 'start': 2588.86, 'duration': 1.11}
+{'text': 'And so he started\nencouraging free blacks', 'start': 2589.97, 'duration': 3.03}
+{'text': 'to buy property in this area\ncalled Weeksville in order', 'start': 2593.0, 'duration': 4.17}
+{'text': 'to produce a self-determined\nblack community', 'start': 2597.17, 'duration': 1.89}
+{'text': 'in the early 19th century.', 'start': 2599.06, 'duration': 3.73}
+{'text': 'So in 1968, this place\nhad been lost to time.', 'start': 2602.79, 'duration': 4.58}
+{'text': 'And a radical anthropology\ngroup from CUNY', 'start': 2607.37, 'duration': 3.15}
+{'text': 'actually had heard about\nthe history of Weeksville', 'start': 2610.52, 'duration': 3.31}
+{'text': 'and wanted to find out if the\nactual homes or any legacy', 'start': 2613.83, 'duration': 3.02}
+{'text': 'of it was still around.', 'start': 2616.85, 'duration': 1.05}
+{'text': 'And so they actually flew\na prop plane over Brooklyn', 'start': 2617.9, 'duration': 5.82}
+{'text': 'and found three of\nthe original homes,', 'start': 2623.72, 'duration': 2.16}
+{'text': 'because they actually\nwent against the grid.', 'start': 2625.88, 'duration': 3.15}
+{'text': 'And so they started a community\norganizing effort and made it', 'start': 2629.03, 'duration': 2.94}
+{'text': 'a historical home and community\ncenter called Weeksville.', 'start': 2631.97, 'duration': 3.75}
+{'text': 'And we partnered with\nthem to do a project', 'start': 2635.72, 'duration': 3.12}
+{'text': 'around radical black\nself-determination.', 'start': 2638.84, 'duration': 2.85}
+{'text': 'And the site itself is very\ninvested in that narrative.', 'start': 2641.69, 'duration': 3.85}
+{'text': 'But I was also, on\na different level--', 'start': 2645.54, 'duration': 2.48}
+{'text': "and something I'm very\ninvested in in terms of this", 'start': 2648.02, 'duration': 2.16}
+{'text': 'conversation and just future\nwork is I kept thinking about', 'start': 2650.18, 'duration': 6.66}
+{'text': 'how the money is spent as being\none of the most important parts', 'start': 2656.84, 'duration': 3.09}
+{'text': 'of a project and\nwhere the resources ,', 'start': 2659.93, 'duration': 2.13}
+{'text': "go not just what it's about,\nbut where the resources actually", 'start': 2662.06, 'duration': 2.85}
+{'text': 'end up and who they support.', 'start': 2664.91, 'duration': 2.28}
+{'text': 'And so thinking about\nthe money of a project', 'start': 2667.19, 'duration': 2.6}
+{'text': 'as going towards sites of black\nself-determination in Brooklyn', 'start': 2669.79, 'duration': 4.3}
+{'text': 'and to encourage those\nstruggles and to also support', 'start': 2674.09, 'duration': 2.46}
+{'text': 'the people doing that work,\nrather than a project that just', 'start': 2676.55, 'duration': 3.51}
+{'text': 'abstractly talks about that.', 'start': 2680.06, 'duration': 1.65}
+{'text': 'But I guess, to be simple,\na project that puts', 'start': 2681.71, 'duration': 2.49}
+{'text': 'its money where its mouth is.', 'start': 2684.2, 'duration': 1.74}
+{'text': 'And so this project, which\nonly had 5,200 people come,', 'start': 2685.94, 'duration': 5.58}
+{'text': 'involved partnering artists\nwith community organizations', 'start': 2691.52, 'duration': 3.39}
+{'text': 'that embodied that ethos to\nproduce projects together.', 'start': 2694.91, 'duration': 3.99}
+{'text': 'And then the idea would be that\nyou would go to see the show', 'start': 2698.9, 'duration': 3.45}
+{'text': 'and go to each different site\nof black self-determination', 'start': 2702.35, 'duration': 2.48}
+{'text': 'to see an artwork.', 'start': 2704.83, 'duration': 0.75}
+{'text': 'So we had the artist Xenobia\nBailey work with the Boys', 'start': 2705.58, 'duration': 3.13}
+{'text': 'and Girls High School.', 'start': 2708.71, 'duration': 1.41}
+{'text': 'And she worked\nwith a class there.', 'start': 2710.12, 'duration': 2.91}
+{'text': 'And then they produced a space\nin one of the historic homes.', 'start': 2713.03, 'duration': 2.88}
+{'text': 'We worked with the\nfilmmaker Bradford Young.', 'start': 2715.91, 'duration': 4.04}
+{'text': "He wasn't as famous then.", 'start': 2719.95, 'duration': 1.23}
+{'text': 'But he just was up for an\nOscar for cinematography', 'start': 2721.18, 'duration': 3.36}
+{'text': 'for that film, Arrival.', 'start': 2724.54, 'duration': 1.44}
+{'text': 'And he did this cinematic piece\nwith the Bethel Tabernacle AME', 'start': 2725.98, 'duration': 4.35}
+{'text': 'Church, which was the first\nblack-owned church in New York.', 'start': 2730.33, 'duration': 3.854}
+{'text': 'And so he worked with\ntheir congregation', 'start': 2734.184, 'duration': 1.666}
+{'text': 'to produce a film\nthat was situated', 'start': 2735.85, 'duration': 2.79}
+{'text': 'in one of their old buildings.', 'start': 2738.64, 'duration': 2.1}
+{'text': 'We worked with the group\nOtabenga Jones and Associates,', 'start': 2740.74, 'duration': 2.61}
+{'text': 'with the local jazz consortium,\nto produce an outdoor community', 'start': 2743.35, 'duration': 6.15}
+{'text': 'radio center that\nwas in the back', 'start': 2749.5, 'duration': 1.44}
+{'text': 'of a chopped-in-half pink\nCadillac with big speakers', 'start': 2750.94, 'duration': 3.9}
+{'text': 'in the back that became a\nradical community radio station', 'start': 2754.84, 'duration': 3.54}
+{'text': 'that was there for six weeks.', 'start': 2758.38, 'duration': 1.816}
+{'text': 'And then we worked with\nthe artist Simone Lee', 'start': 2760.196, 'duration': 1.874}
+{'text': 'to do a project called the\n"Free Peoples Medical Clinic,"', 'start': 2762.07, 'duration': 3.33}
+{'text': 'inspired in two parts--\none by the history', 'start': 2765.4, 'duration': 1.98}
+{'text': 'of radical black\nnurses, and secondly,', 'start': 2767.38, 'duration': 1.98}
+{'text': 'with the Black Panthers project\naround doing community health', 'start': 2769.36, 'duration': 4.83}
+{'text': 'services in Oakland\nand across the country.', 'start': 2774.19, 'duration': 2.34}
+{'text': 'So this actually\nwas a partnership', 'start': 2776.53, 'duration': 1.74}
+{'text': 'with a local community\nhealth organization that', 'start': 2778.27, 'duration': 6.39}
+{'text': 'had been started by\nJosephine English, who', 'start': 2784.66, 'duration': 4.44}
+{'text': 'had been the first black female\nOB-GYN in New York, who also', 'start': 2789.1, 'duration': 8.04}
+{'text': "delivered all six of\nMalcolm X's children,", 'start': 2797.14, 'duration': 1.97}
+{'text': 'and was really invested in the\nconversation around community', 'start': 2799.11, 'duration': 3.31}
+{'text': 'health.', 'start': 2802.42, 'duration': 0.685}
+{'text': 'And so this space became\na way to not only think', 'start': 2803.105, 'duration': 2.255}
+{'text': 'about preventative medicine,\nbut also holistic medicine.', 'start': 2805.36, 'duration': 3.15}
+{'text': 'She offered workshops of yoga.', 'start': 2808.51, 'duration': 1.944}
+{'text': 'And it was weird,\ntoo, because she', 'start': 2810.454, 'duration': 1.416}
+{'text': 'had this kind of like\nsci-fi soundtrack in there', 'start': 2811.87, 'duration': 3.66}
+{'text': 'and these kind of\nfuturistic, beautiful nurses', 'start': 2815.53, 'duration': 2.352}
+{'text': 'that were just like, come in.', 'start': 2817.882, 'duration': 1.208}
+{'text': 'And there were herbs everywhere.', 'start': 2819.09, 'duration': 1.849}
+{'text': 'And it became this kind\nof community center', 'start': 2820.939, 'duration': 1.791}
+{'text': 'that was dreamy and possible\nand really, really popular', 'start': 2822.73, 'duration': 3.88}
+{'text': 'and grew and grew.', 'start': 2826.61, 'duration': 1.68}
+{'text': 'But just to say, I say that as\nkind of interesting way, maybe', 'start': 2828.29, 'duration': 3.401}
+{'text': 'as a way we can kind\nof think through when', 'start': 2831.691, 'duration': 1.749}
+{'text': 'we talk about my first\nvideo, which was--', 'start': 2833.44, 'duration': 8.41}
+{'text': "I guess I'd say\ncommunity relations is", 'start': 2841.85, 'duration': 1.62}
+{'text': 'a certain kind of way of\nameliorating tensions.', 'start': 2843.47, 'duration': 3.06}
+{'text': "I think there's an important\nway of working where", 'start': 2846.53, 'duration': 4.35}
+{'text': 'the resources go towards\nthe struggle and the people', 'start': 2850.88, 'duration': 3.45}
+{'text': 'invested in it.', 'start': 2854.33, 'duration': 1.08}
+{'text': 'And I do think it is very\nmuch about race in the city.', 'start': 2855.41, 'duration': 3.66}
+{'text': 'And it is about not just\ntalking about things,', 'start': 2859.07, 'duration': 2.76}
+{'text': 'but where the kind of\ncapital and capacity go.', 'start': 2861.83, 'duration': 4.35}
+{'text': 'I also say that\nbecause as you know,', 'start': 2866.18, 'duration': 2.88}
+{'text': 'the conversation on\ngentrification and urbanism', 'start': 2869.06, 'duration': 2.04}
+{'text': 'is so important.', 'start': 2871.1, 'duration': 1.14}
+{'text': 'And it haunts everything we do\nat this point in Creative Time.', 'start': 2872.24, 'duration': 4.29}
+{'text': 'And I think it haunts\nmost of the work anybody', 'start': 2876.53, 'duration': 2.73}
+{'text': 'is probably doing\nin many cities.', 'start': 2879.26, 'duration': 2.64}
+{'text': 'We were joking earlier\nthat I hope when I die,', 'start': 2881.9, 'duration': 5.412}
+{'text': "someone's going to\nlet me know if I", 'start': 2887.312, 'duration': 1.458}
+{'text': "was for the force of good or\nbad because sometimes, it's", 'start': 2888.77, 'duration': 4.11}
+{'text': "really hard to know what force\nyou're fighting for when you've", 'start': 2892.88, 'duration': 2.91}
+{'text': 'got developers paying entirely\nfor your projects in cities,', 'start': 2895.79, 'duration': 3.69}
+{'text': 'and the forces of\ncapital, really,', 'start': 2899.48, 'duration': 2.73}
+{'text': 'not just ambivalent, but very\naggressively exploitative', 'start': 2902.21, 'duration': 3.51}
+{'text': 'towards the most oppressed\ncommunities in our country.', 'start': 2905.72, 'duration': 6.18}
+{'text': "So I'm invested in a kind\nof social justice politics", 'start': 2911.9, 'duration': 4.23}
+{'text': 'and a radical politics.', 'start': 2916.13, 'duration': 1.009}
+{'text': "But it's not enough\njust to say that.", 'start': 2917.139, 'duration': 1.541}
+{'text': 'You actually have to be\nkind of Machiavellian', 'start': 2918.68, 'duration': 2.61}
+{'text': 'and radical in terms of the\nways in which you organize', 'start': 2921.29, 'duration': 3.74}
+{'text': 'or as you organize Hezbollah\nstyle, if you will.', 'start': 2925.03, 'duration': 3.83}
+{'text': "So that's what I have to say.", 'start': 2928.86, 'duration': 3.17}
+{'text': "It's not your typical approach\nto public art, I know.", 'start': 2932.03, 'duration': 3.197}
+{'text': "But at the same time too,\nI'll say one other thing", 'start': 2935.227, 'duration': 2.083}
+{'text': 'the magic of public are for\nthose of you that are not', 'start': 2937.31, 'duration': 2.208}
+{'text': 'really interested in public art\nas something you study a lot.', 'start': 2939.518, 'duration': 3.942}
+{'text': 'I do believe profoundly\nin the power of art.', 'start': 2943.46, 'duration': 2.58}
+{'text': "And I say that as much as I'm\nvery Marxist and political, I", 'start': 2946.04, 'duration': 4.8}
+{'text': 'believe deeply in the power\nof dreams and weirdness', 'start': 2950.84, 'duration': 2.91}
+{'text': 'and irrationality and\ndysfunction and unfunctionality', 'start': 2953.75, 'duration': 4.62}
+{'text': 'as a space to open up the deeply\npedantic utilitarian space', 'start': 2958.37, 'duration': 4.95}
+{'text': "of the city, to find spaces\nwhere it's not overtly", 'start': 2963.32, 'duration': 3.39}
+{'text': 'a commercial or an\nadvertisement to produce space,', 'start': 2966.71, 'duration': 3.12}
+{'text': "or it's about debate,\nit's about wonder,", 'start': 2969.83, 'duration': 2.82}
+{'text': "and it's about the\ncomplexities of the civic that", 'start': 2972.65, 'duration': 2.46}
+{'text': 'ignite us together.', 'start': 2975.11, 'duration': 1.65}
+{'text': 'Finding room, and I think it\nrequires a bit of a wrestling', 'start': 2976.76, 'duration': 3.15}
+{'text': 'match with the\nforces that are very', 'start': 2979.91, 'duration': 2.04}
+{'text': 'powerful in the city to\nover-determine everything,', 'start': 2981.95, 'duration': 3.45}
+{'text': 'is where the battleground lies.', 'start': 2985.4, 'duration': 4.23}
+{'text': "And I think it's one\nof the great battles.", 'start': 2989.63, 'duration': 3.39}
+{'text': 'And as much as we live\nin one of the most', 'start': 2993.02, 'duration': 3.99}
+{'text': 'terrifying political climates\nin my lifetime with Trump', 'start': 2997.01, 'duration': 2.61}
+{'text': "as the president, but\nas much as it's easy--", 'start': 2999.62, 'duration': 2.7}
+{'text': "I think it's important\nto push back on that--", 'start': 3002.32, 'duration': 2.49}
+{'text': "I think it's also simultaneously\nimportant to fight", 'start': 3004.81, 'duration': 2.43}
+{'text': 'for the power to be\nnon-obvious and ambiguous', 'start': 3007.24, 'duration': 5.25}
+{'text': 'and dream at the same\ntime as you fight back.', 'start': 3012.49, 'duration': 2.37}
+{'text': 'So thanks so much.', 'start': 3014.86, 'duration': 1.256}
+{'text': '[APPLAUSE]', 'start': 3016.116, 'duration': 2.48}
+{'text': 'Is that good?', 'start': 3026.036, 'duration': 1.574}
+{'text': 'OK.', 'start': 3027.61, 'duration': 0.5}
+{'text': 'Thank you.', 'start': 3032.27, 'duration': 0.5}
+{'text': "So we're going to ask\nAssemble to join us", 'start': 3032.77, 'duration': 5.84}
+{'text': 'in conversation with Nato,\nas well as Sandra Branch, who', 'start': 3038.61, 'duration': 5.35}
+{'text': 'presented with us this morning.', 'start': 3043.96, 'duration': 7.62}
+{'text': "And maybe just because we\nhadn't planned enough mikes,", 'start': 3051.58, 'duration': 7.3}
+{'text': "I'll stand up here for a second.", 'start': 3058.88, 'duration': 1.43}
+{'text': '[LAUGHTER]', 'start': 3060.31, 'duration': 1.92}
+{'text': 'Oh, thanks.', 'start': 3070.87, 'duration': 0.69}
+{'text': "I'll be your interrogator here.", 'start': 3074.37, 'duration': 2.47}
+{'text': "So I guess because I'm normally\nthinking about your work", 'start': 3080.95, 'duration': 6.57}
+{'text': 'as being super political\nand socially activist--', 'start': 3087.52, 'duration': 5.12}
+{'text': 'and I even remember you from\nbefore you were a curator', 'start': 3092.64, 'duration': 3.49}
+{'text': 'as an activist in Chicago, doing\nthese public space projects--', 'start': 3096.13, 'duration': 5.25}
+{'text': 'When I get arrested by MTV.', 'start': 3105.23, 'duration': 3.9}
+{'text': 'We tried to liberate the\nactors of the "Real World"', 'start': 3109.13, 'duration': 2.24}
+{'text': 'from their unreality.', 'start': 3111.37, 'duration': 0.875}
+{'text': '[LAUGHTER]', 'start': 3112.245, 'duration': 0.885}
+{'text': "I'm not joking.", 'start': 3113.13, 'duration': 0.625}
+{'text': '[LAUGHTER]', 'start': 3113.755, 'duration': 2.063}
+{'text': 'It was so funny.', 'start': 3115.818, 'duration': 2.429}
+{'text': "They didn't find it funny.", 'start': 3118.247, 'duration': 1.083}
+{'text': 'MTV has no sense of\nhumor when it comes', 'start': 3119.33, 'duration': 2.33}
+{'text': 'to disrupting their film shoot.', 'start': 3121.66, 'duration': 1.98}
+{'text': 'But it was great fun.', 'start': 3123.64, 'duration': 3.3}
+{'text': 'So yeah, I thought\nit would be worth', 'start': 3126.94, 'duration': 2.94}
+{'text': 'talking a little bit further\nabout the curatorial process', 'start': 3129.88, 'duration': 5.31}
+{'text': 'and the intentionality\nbehind it.', 'start': 3135.19, 'duration': 5.0}
+{'text': 'Because I mean, of course,\npublic art is always', 'start': 3140.19, 'duration': 5.11}
+{'text': 'caught up in all\nthese implications', 'start': 3145.3, 'duration': 3.24}
+{'text': 'of the potential\nknock-on effects', 'start': 3148.54, 'duration': 4.83}
+{'text': 'for development and inflation\nof value and things like that,', 'start': 3153.37, 'duration': 5.43}
+{'text': 'yet the ephemerality\nof a lot of things', 'start': 3158.8, 'duration': 3.62}
+{'text': "that you're doing in\nNew York, I think,", 'start': 3162.42, 'duration': 3.07}
+{'text': 'helps prevent them from seeming\nto have a direct impact.', 'start': 3165.49, 'duration': 6.82}
+{'text': "It's not like the\nDomino Sugar development", 'start': 3172.31, 'duration': 3.02}
+{'text': "wasn't going to happen\nif you didn't do", 'start': 3175.33, 'duration': 1.65}
+{'text': 'a sculpture in that building.', 'start': 3176.98, 'duration': 1.5}
+{'text': 'It was already in\nthe bank essentially.', 'start': 3178.48, 'duration': 4.285}
+{'text': "So can you talk about the\nextent to which you're", 'start': 3185.59, 'duration': 3.3}
+{'text': 'able to try to produce\nsocial and political effects', 'start': 3188.89, 'duration': 7.61}
+{'text': 'through these projects and\nwhat kind of aspirations', 'start': 3196.5, 'duration': 4.51}
+{'text': 'you have as a curator\nto have consequences?', 'start': 3201.01, 'duration': 4.35}
+{'text': 'Or is that too far?', 'start': 3205.36, 'duration': 1.88}
+{'text': "That's fine.", 'start': 3207.24, 'duration': 1.1}
+{'text': 'So just to say, I\ngrew up as an anarcho.', 'start': 3208.34, 'duration': 2.535}
+{'text': 'I thought I was going to be\na professional anarchist when', 'start': 3210.875, 'duration': 2.375}
+{'text': 'I grew up.', 'start': 3213.25, 'duration': 0.5}
+{'text': "And then I realized\nthat's totally", 'start': 3213.75, 'duration': 1.81}
+{'text': 'such a Berkeley College--', 'start': 3215.56, 'duration': 1.65}
+{'text': "I went to Berkeley, by the\nway, if you can't tell.", 'start': 3217.21, 'duration': 4.84}
+{'text': 'But just to say, I\ngot a job at Mass MOCA', 'start': 3222.05, 'duration': 1.94}
+{'text': 'after grad school as\nan assistant curator.', 'start': 3223.99, 'duration': 4.08}
+{'text': 'And I was convinced\nmy entire life', 'start': 3228.07, 'duration': 1.56}
+{'text': 'that the art world was\nevil and that if you', 'start': 3229.63, 'duration': 3.72}
+{'text': 'had any radical ideas, they\nwould just kick you out.', 'start': 3233.35, 'duration': 4.55}
+{'text': 'And I was actually on trial\nfor this real world thing', 'start': 3237.9, 'duration': 2.98}
+{'text': 'when I got my job.', 'start': 3240.88, 'duration': 1.56}
+{'text': 'I only say that because\nI found a real connection', 'start': 3242.44, 'duration': 2.91}
+{'text': 'with the director there,\nJoe Thompson, no relation,', 'start': 3245.35, 'duration': 3.84}
+{'text': "because while he's\nclearly not a Marxist,", 'start': 3249.19, 'duration': 2.1}
+{'text': "he's raising the dough with\nthe Williams College people.", 'start': 3251.29, 'duration': 4.98}
+{'text': 'We did agree on something\nthat I thought helped me a lot', 'start': 3256.27, 'duration': 3.12}
+{'text': 'in this, which was\nhe was very populist.', 'start': 3259.39, 'duration': 2.58}
+{'text': "And it's a museum\nin a town of 12,000.", 'start': 3261.97, 'duration': 3.42}
+{'text': 'And he was invested in art\nthat spoke to all people.', 'start': 3265.39, 'duration': 4.28}
+{'text': "And so was I. And\nwhile we didn't", 'start': 3269.67, 'duration': 2.23}
+{'text': 'have the same\npolitical analysis,', 'start': 3271.9, 'duration': 1.56}
+{'text': 'our enthusiasm for a certain\nkind of public discourse', 'start': 3273.46, 'duration': 3.829}
+{'text': 'made me understand that the\ncontradictions that capital', 'start': 3277.289, 'duration': 2.291}
+{'text': 'could still find\nsome kind of space--', 'start': 3279.58, 'duration': 2.34}
+{'text': 'like, my analysis\nand his analysis', 'start': 3281.92, 'duration': 1.76}
+{'text': 'could find some\nkind of commingling', 'start': 3283.68, 'duration': 2.35}
+{'text': 'in our belief in the\npower of the civic,', 'start': 3286.03, 'duration': 2.7}
+{'text': 'and then thinking of the\nmuseum as a civic space.', 'start': 3288.73, 'duration': 3.06}
+{'text': "And that's the\nsame way that I've", 'start': 3291.79, 'duration': 2.01}
+{'text': 'been able to wrestle that\nwith Creative Time is', 'start': 3293.8, 'duration': 2.07}
+{'text': 'because certainly our\nboard is not Marxist--', 'start': 3295.87, 'duration': 3.085}
+{'text': 'but that said, being\nrelevant is helpful for art.', 'start': 3301.87, 'duration': 7.11}
+{'text': 'And just to say, on the\nMachiavellian level,', 'start': 3308.98, 'duration': 2.13}
+{'text': 'relevant art actually does\nwell for artists and art', 'start': 3311.11, 'duration': 3.42}
+{'text': 'organizations.', 'start': 3314.53, 'duration': 2.22}
+{'text': 'Go figure.', 'start': 3316.75, 'duration': 0.9}
+{'text': "So it's just to say it's\na strategic maneuvering", 'start': 3317.65, 'duration': 3.149}
+{'text': 'through that.', 'start': 3320.799, 'duration': 0.541}
+{'text': "And for me, it's like\nthe production of meaning", 'start': 3321.34, 'duration': 3.65}
+{'text': 'is political itself.', 'start': 3324.99, 'duration': 1.69}
+{'text': 'Meaningful things is political.', 'start': 3326.68, 'duration': 1.614}
+{'text': "It's a different\nkind of politics.", 'start': 3328.294, 'duration': 1.416}
+{'text': "But finding things that touches\npeople's hearts and gets", 'start': 3329.71, 'duration': 3.18}
+{'text': 'them involved and also thinks\nthrough race and class, all', 'start': 3332.89, 'duration': 4.179}
+{'text': "these things, we're\nalready wrestling with.", 'start': 3337.069, 'duration': 1.791}
+{'text': 'And art that unpacks that\nand opens it up for people', 'start': 3338.86, 'duration': 3.12}
+{'text': 'is exciting.', 'start': 3341.98, 'duration': 2.8}
+{'text': 'But it is a bit of a--', 'start': 3344.78, 'duration': 2.311}
+{'text': 'I mean, we could get in that.', 'start': 3347.091, 'duration': 1.899}
+{'text': 'It is a balancing\nact with trying', 'start': 3348.99, 'duration': 5.4}
+{'text': "to have a politics of liberation\nin a space that's deeply", 'start': 3354.39, 'duration': 4.77}
+{'text': 'exploitative and proprietary.', 'start': 3359.16, 'duration': 3.37}
+{'text': "I've got a question about\nthat idea of capital, which", 'start': 3362.53, 'duration': 3.46}
+{'text': "is a term that we've\ncome across a few times,", 'start': 3365.99, 'duration': 3.26}
+{'text': 'is the idea of\ncapturing [INAUDIBLE].', 'start': 3369.25, 'duration': 1.869}
+{'text': 'Because when You talk\nabout where the money goes,', 'start': 3371.119, 'duration': 2.041}
+{'text': 'but I wonder if you could\ntalk a bit more about where', 'start': 3373.16, 'duration': 1.17}
+{'text': 'money comes from.', 'start': 3374.33, 'duration': 1.184}
+{'text': "There's a complicit relationship\nbetween who funds these things,", 'start': 3375.514, 'duration': 2.666}
+{'text': "and there's an expectation\nthat we have discovered", 'start': 3378.18, 'duration': 2.205}
+{'text': "a lot in the UK, that\nthere's increasingly", 'start': 3380.385, 'duration': 3.065}
+{'text': 'outputs required\nfrom the funding that', 'start': 3383.45, 'duration': 1.605}
+{'text': 'has been delivered.', 'start': 3385.055, 'duration': 1.485}
+{'text': 'How do you negotiate those two?', 'start': 3386.54, 'duration': 1.77}
+{'text': "I guess it's often quite\noppositional in that--", 'start': 3388.31, 'duration': 3.019}
+{'text': "and what you're saying\nis trying to provide", 'start': 3391.329, 'duration': 1.791}
+{'text': 'a kind of slack space for\nalternatives, where actually,', 'start': 3393.12, 'duration': 2.73}
+{'text': 'the funders may frequently be\nlooking for the total opposite.', 'start': 3395.85, 'duration': 3.56}
+{'text': 'Well, yes, we are\ntoo, because I mean,', 'start': 3399.41, 'duration': 3.19}
+{'text': 'we could do an ethnography\nof funding, if you want.', 'start': 3402.6, 'duration': 2.63}
+{'text': "Because it's peculiar.", 'start': 3405.23, 'duration': 1.31}
+{'text': 'And obviously, the United States\nhas a very specific and unique', 'start': 3406.54, 'duration': 3.73}
+{'text': "nonprofit system that I know\ny'all over across the pond are", 'start': 3410.27, 'duration': 5.34}
+{'text': 'certainly eager to mimic.', 'start': 3415.61, 'duration': 1.082}
+{'text': 'But certainly the\nculture of philanthropy', 'start': 3416.692, 'duration': 1.708}
+{'text': 'and the systems for\nthat are not the same.', 'start': 3418.4, 'duration': 3.611}
+{'text': 'I mean, Creative Time has\nthis interesting space', 'start': 3422.011, 'duration': 1.999}
+{'text': "because it's not just some\npublic arts organization.", 'start': 3424.01, 'duration': 2.38}
+{'text': "It's a public organization\nin New York City, which", 'start': 3426.39, 'duration': 2.72}
+{'text': 'is just to say,\nthere is a culture', 'start': 3429.11, 'duration': 1.53}
+{'text': 'of philanthropy in New York.', 'start': 3430.64, 'duration': 2.88}
+{'text': 'And most of our board\nmembers are already', 'start': 3433.52, 'duration': 2.08}
+{'text': 'on museum boards,\nwhich I think offers us', 'start': 3435.6, 'duration': 2.93}
+{'text': "a certain kind of freedom,\nbecause we're the kind of side", 'start': 3438.53, 'duration': 4.77}
+{'text': 'project that can be fun,\nwhere I think they might', 'start': 3443.3, 'duration': 3.079}
+{'text': 'want their artists represented\nmore in like the Whitney', 'start': 3446.379, 'duration': 2.291}
+{'text': 'or MOMA, like, OK,\nnow, show these things.', 'start': 3448.67, 'duration': 3.404}
+{'text': "But we don't get that same\nkind of pressure in that space,", 'start': 3452.074, 'duration': 2.416}
+{'text': 'frankly.', 'start': 3454.49, 'duration': 0.85}
+{'text': "And foundations,\nhonestly, it's bizarre.", 'start': 3455.34, 'duration': 2.81}
+{'text': 'But I found the social justice\nstuff is much more fun.', 'start': 3458.15, 'duration': 3.84}
+{'text': 'The more overtly\ncommunity organizing,', 'start': 3461.99, 'duration': 2.25}
+{'text': 'the more foundations are\nlike, yeah, yeah, yeah,', 'start': 3464.24, 'duration': 2.58}
+{'text': "that's what I want.", 'start': 3466.82, 'duration': 0.87}
+{'text': 'You know?', 'start': 3467.69, 'duration': 0.64}
+{'text': "So I mean, just to say,\nit's like that stuff,", 'start': 3468.33, 'duration': 3.53}
+{'text': 'in a kind of crass way,\nyou can be playing that', 'start': 3471.86, 'duration': 2.43}
+{'text': "up more if you're just\ngoing for the dollars.", 'start': 3474.29, 'duration': 2.4}
+{'text': "The stuff that's\nvery hard to fund", 'start': 3476.69, 'duration': 2.19}
+{'text': "is the art that art world\npeople don't collect and doesn't", 'start': 3478.88, 'duration': 5.67}
+{'text': 'directly, obviously lead to\nsome social justice thing.', 'start': 3484.55, 'duration': 3.48}
+{'text': "That's like the black\nhole of no funding.", 'start': 3488.03, 'duration': 5.832}
+{'text': "And it's bizarre, because\npeople would say, oh, wait,", 'start': 3493.862, 'duration': 2.208}
+{'text': 'this socially progressive\nstuff, how in the world', 'start': 3496.07, 'duration': 2.05}
+{'text': 'do you get funding for that?', 'start': 3498.12, 'duration': 1.37}
+{'text': "But there's funding\nfor that, particularly", 'start': 3499.49, 'duration': 2.4}
+{'text': "in Trump's America.", 'start': 3501.89, 'duration': 1.26}
+{'text': "That's all people\nwant is anything", 'start': 3503.15, 'duration': 2.43}
+{'text': 'to get those kind of values\non the table, which leads,', 'start': 3505.58, 'duration': 3.48}
+{'text': 'in its own kind of\nindustrial complex way,', 'start': 3509.06, 'duration': 2.46}
+{'text': 'to everybody offering\ncommunity organizing', 'start': 3511.52, 'duration': 3.74}
+{'text': 'in a kind of crass approach.', 'start': 3515.26, 'duration': 1.266}
+{'text': 'You could say people\ndo it just so they', 'start': 3516.526, 'duration': 1.624}
+{'text': 'can get the funding dollars.', 'start': 3518.15, 'duration': 1.26}
+{'text': 'Right?', 'start': 3519.41, 'duration': 0.77}
+{'text': "We're like, yeah, yeah,\nwe have a community thing.", 'start': 3520.18, 'duration': 1.39}
+{'text': 'And they all write it up\nin the grant proposal,', 'start': 3521.57, 'duration': 2.19}
+{'text': "and they say they're doing\nthose things because they", 'start': 3523.76, 'duration': 2.166}
+{'text': 'know what the funders want.', 'start': 3525.926, 'duration': 1.544}
+{'text': 'And then they use that as a\nway to support something else.', 'start': 3527.47, 'duration': 3.22}
+{'text': "I'm not being mean about it.", 'start': 3530.69, 'duration': 1.35}
+{'text': 'But I guess we all\nunderstand that that happens.', 'start': 3532.04, 'duration': 3.12}
+{'text': "I'm curious.", 'start': 3535.16, 'duration': 1.02}
+{'text': "So I think it's\nsomething that we grapple", 'start': 3536.18, 'duration': 2.19}
+{'text': 'with within our own projects\nis how you deal with some', 'start': 3538.37, 'duration': 4.8}
+{'text': 'of your projects,\nwhich you presented,', 'start': 3543.17, 'duration': 2.02}
+{'text': 'which obviously have, I\nsuppose, an initial impulse,', 'start': 3545.19, 'duration': 4.22}
+{'text': 'like the immigrant--', 'start': 3549.41, 'duration': 2.436}
+{'text': 'Yeah, yeah, Immigrant\nMovement International.', 'start': 3551.846, 'duration': 2.544}
+{'text': 'For example, or the medicine\nproject in Brooklyn.', 'start': 3554.39, 'duration': 4.54}
+{'text': 'And are they normally\nset up to have', 'start': 3558.93, 'duration': 4.94}
+{'text': 'a limited temporal lifespan?', 'start': 3563.87, 'duration': 2.71}
+{'text': 'And do they ever grow to\nbecome more permanent?', 'start': 3566.58, 'duration': 2.33}
+{'text': 'Or is that something at\nCreative Time that you', 'start': 3568.91, 'duration': 2.45}
+{'text': 'help negotiate or try--', 'start': 3571.36, 'duration': 1.7}
+{'text': "I'm curious.", 'start': 3573.06, 'duration': 1.132}
+{'text': "That's a good question.", 'start': 3574.192, 'duration': 0.958}
+{'text': 'And certainly, each project\nhas its own kind of situation.', 'start': 3575.15, 'duration': 2.56}
+{'text': 'So for particularly with that\none, that was a project--', 'start': 3577.71, 'duration': 2.81}
+{'text': "Tania Bruguera, because she's\nCuban, she said, I'm Cuban,", 'start': 3580.52, 'duration': 2.4}
+{'text': 'so I think in five-year\nplans, which I always', 'start': 3582.92, 'duration': 1.874}
+{'text': 'thought was funny.', 'start': 3584.794, 'duration': 1.586}
+{'text': 'But she was like, I want\nto do this for five years.', 'start': 3586.38, 'duration': 2.99}
+{'text': 'That was what she\nsaid from the outset.', 'start': 3589.37, 'duration': 2.09}
+{'text': "And that's what she did.", 'start': 3591.46, 'duration': 1.63}
+{'text': 'But at the same time, that\none was a very odd project,', 'start': 3593.09, 'duration': 5.58}
+{'text': 'because it was the\none that looked', 'start': 3598.67, 'duration': 1.59}
+{'text': 'the most like a non-profit NGO.', 'start': 3600.26, 'duration': 4.56}
+{'text': "It's almost like the\nready made in reverse,", 'start': 3604.82, 'duration': 2.71}
+{'text': 'where she was mimicking\nsocial justice organizations', 'start': 3607.53, 'duration': 3.08}
+{'text': 'to the point that\nit became a kind', 'start': 3610.61, 'duration': 2.19}
+{'text': 'of experimental social\njustice organization.', 'start': 3612.8, 'duration': 2.95}
+{'text': 'And so the conversation was\nlike, do we keep that going?', 'start': 3615.75, 'duration': 2.34}
+{'text': "And It's left Tania,\nand it is still going.", 'start': 3618.09, 'duration': 3.17}
+{'text': 'And it is its own\noperating thing now.', 'start': 3621.26, 'duration': 1.862}
+{'text': 'So that is something that was\nimportant to the work itself.', 'start': 3623.122, 'duration': 2.458}
+{'text': 'But just to be fair,\nnot to us, but also', 'start': 3625.58, 'duration': 2.275}
+{'text': 'to put our cards\non the table, we', 'start': 3627.855, 'duration': 2.345}
+{'text': "don't have the\nbandwidth or capacity", 'start': 3630.2, 'duration': 2.58}
+{'text': 'to do long-term things.', 'start': 3632.78, 'duration': 2.04}
+{'text': 'And so if we were\nto do a project that', 'start': 3634.82, 'duration': 3.06}
+{'text': 'had a long-term\naspiration, we would', 'start': 3637.88, 'duration': 2.58}
+{'text': 'need to negotiate a certain\npartnership that took it over.', 'start': 3640.46, 'duration': 4.62}
+{'text': 'You know what I mean?', 'start': 3645.08, 'duration': 0.887}
+{'text': 'And that is a certain skill set.', 'start': 3645.967, 'duration': 1.333}
+{'text': "And it's tough\ntoo, because I feel", 'start': 3647.3, 'duration': 1.416}
+{'text': 'like one of the mistakes\nwith social justice projects', 'start': 3648.716, 'duration': 2.574}
+{'text': "is where you promise things\nyou can't deliver on.", 'start': 3651.29, 'duration': 2.72}
+{'text': "And you make it seem like you're\ngoing to be around forever,", 'start': 3654.01, 'duration': 2.5}
+{'text': 'but you really\nhave no intention.', 'start': 3656.51, 'duration': 2.392}
+{'text': 'When we were in New Orleans,\neveryone was like, well,', 'start': 3658.902, 'duration': 2.208}
+{'text': "why don't you stick around\nNew Orleans and stuff?", 'start': 3661.11, 'duration': 2.041}
+{'text': "I'm like, everybody\nunderstood it's a play", 'start': 3663.151, 'duration': 1.969}
+{'text': "and we're going to leave town.", 'start': 3665.12, 'duration': 0.84}
+{'text': "It's not like they're\nlike, oh, my gosh.", 'start': 3665.96, 'duration': 1.4}
+{'text': 'I need you to stick\naround forever.', 'start': 3667.36, 'duration': 1.63}
+{'text': 'But being very clear\nin your limits, I mean,', 'start': 3668.99, 'duration': 2.22}
+{'text': "I'm sure with your guys'\nwork, you come across that.", 'start': 3671.21, 'duration': 2.88}
+{'text': 'Right?', 'start': 3674.09, 'duration': 1.67}
+{'text': "Yeah, no, we've been having\nconversations today really.", 'start': 3675.76, 'duration': 6.18}
+{'text': "And yeah, it's a tricky\nthing to negotiate.", 'start': 3681.94, 'duration': 2.07}
+{'text': 'And I think that one of the\nthings that we discussed', 'start': 3684.01, 'duration': 2.95}
+{'text': 'earlier was the way that you\ncan unintentionally also become', 'start': 3686.96, 'duration': 5.94}
+{'text': 'very emotionally\ninvolved in projects.', 'start': 3692.9, 'duration': 1.95}
+{'text': "And that's something\nthat we have experience,", 'start': 3694.85, 'duration': 2.16}
+{'text': 'where we have intended\nthings to be more temporary.', 'start': 3697.01, 'duration': 3.96}
+{'text': 'So for example, we\ntalked about a project', 'start': 3700.97, 'duration': 2.52}
+{'text': 'to set up an adventure\nplayground in Glasgow.', 'start': 3703.49, 'duration': 2.35}
+{'text': 'And the original impulse was\nfor a 12-month play project.', 'start': 3705.84, 'duration': 6.13}
+{'text': 'And once we were on the\nground, that aspiration', 'start': 3711.97, 'duration': 5.29}
+{'text': 'changed quite quickly.', 'start': 3717.26, 'duration': 1.29}
+{'text': 'And we found ourselves willing\nand wanting and working', 'start': 3718.55, 'duration': 3.81}
+{'text': 'with the people running\nthe organization there', 'start': 3722.36, 'duration': 4.23}
+{'text': 'to try and make the\nsituation more permanent,', 'start': 3726.59, 'duration': 2.97}
+{'text': 'because it just felt like\nan important thing to do.', 'start': 3729.56, 'duration': 3.18}
+{'text': "And therefore, I guess that's\nwhere the question is born", 'start': 3732.74, 'duration': 2.7}
+{'text': 'from, because I understand\nthe need to negotiate', 'start': 3735.44, 'duration': 8.52}
+{'text': 'these relationships,\nand that sometimes you', 'start': 3743.96, 'duration': 2.67}
+{'text': 'do need to be able to\nwalk away, as you say.', 'start': 3746.63, 'duration': 2.19}
+{'text': 'And a play is a play.', 'start': 3748.82, 'duration': 0.91}
+{'text': 'And the curtain comes down.', 'start': 3749.73, 'duration': 2.14}
+{'text': 'And other times, you\nsay, well, actually,', 'start': 3751.87, 'duration': 3.04}
+{'text': 'what could happen if\nthis could keep going.', 'start': 3754.91, 'duration': 1.92}
+{'text': "I Feel like that's\nthe tricky thing.", 'start': 3759.725, 'duration': 2.075}
+{'text': "It's like how one operates\nwithin a larger ecosystem", 'start': 3761.8, 'duration': 5.4}
+{'text': 'is interesting to bear in\nmind, because while Creative', 'start': 3767.2, 'duration': 3.245}
+{'text': "Time does these\nprojects, there's", 'start': 3770.445, 'duration': 1.375}
+{'text': 'a certain thing that haunts me.', 'start': 3771.82, 'duration': 1.89}
+{'text': 'You start seeing these kind\nof utopian, imaginary spaces', 'start': 3773.71, 'duration': 3.57}
+{'text': 'in urban environments\npopping up and disappearing.', 'start': 3777.28, 'duration': 2.19}
+{'text': 'Right?', 'start': 3779.47, 'duration': 1.05}
+{'text': 'Yesterday, I was\ntalking to someone.', 'start': 3780.52, 'duration': 0.86}
+{'text': 'And they were like, well,\nwhat are we supposed', 'start': 3781.38, 'duration': 1.0}
+{'text': 'to do about gentrification?', 'start': 3782.38, 'duration': 1.86}
+{'text': 'And then my buddy\nTrevor just said, well,', 'start': 3784.24, 'duration': 2.55}
+{'text': 'you just get rent control.', 'start': 3786.79, 'duration': 1.54}
+{'text': 'Right?', 'start': 3788.33, 'duration': 0.5}
+{'text': 'But just to say,\nwhat I mean by that', 'start': 3788.83, 'duration': 1.56}
+{'text': "is you don't set up an\nexperimental community", 'start': 3790.39, 'duration': 2.52}
+{'text': 'in a neighborhood to demonstrate\nthe political horizon.', 'start': 3792.91, 'duration': 4.17}
+{'text': 'There is a certain\nspace in which', 'start': 3797.08, 'duration': 1.5}
+{'text': 'policy is important to address.', 'start': 3798.58, 'duration': 2.88}
+{'text': 'And it feels really\nannoying after a while', 'start': 3801.46, 'duration': 2.774}
+{'text': 'where we demonstrate--', 'start': 3804.234, 'duration': 0.916}
+{'text': "It's almost like I understand\nwhy we do temporary stuff.", 'start': 3805.15, 'duration': 2.04}
+{'text': "A, we can't.", 'start': 3807.19, 'duration': 0.78}
+{'text': 'But also on a mediascape-wise,\nthe attention span', 'start': 3807.97, 'duration': 3.18}
+{'text': "dwindles out, and we've\ngot to do something new.", 'start': 3811.15, 'duration': 2.28}
+{'text': 'And so we are, to\nsome degree, complicit', 'start': 3813.43, 'duration': 1.74}
+{'text': 'in a certain kind of\nspectacle media logic, where', 'start': 3815.17, 'duration': 4.53}
+{'text': 'if you did a project for\n12 years, for example,', 'start': 3819.7, 'duration': 2.76}
+{'text': "you'd get an article\nin the beginning.", 'start': 3822.46, 'duration': 2.13}
+{'text': "And then you'd be\ndone media-wise.", 'start': 3824.59, 'duration': 1.89}
+{'text': 'And people would\npat you on the back.', 'start': 3826.48, 'duration': 1.65}
+{'text': 'Good work for 12 years, but\nyour funding would disappear.', 'start': 3828.13, 'duration': 2.6}
+{'text': 'You know what I mean?', 'start': 3830.73, 'duration': 0.875}
+{'text': 'So I feel like the\ntemporality around this stuff', 'start': 3831.605, 'duration': 2.075}
+{'text': 'also has its own problematics.', 'start': 3833.68, 'duration': 2.61}
+{'text': 'I was just going to--', 'start': 3836.29, 'duration': 1.42}
+{'text': 'go ahead.', 'start': 3837.71, 'duration': 1.16}
+{'text': 'I also experience that.', 'start': 3838.87, 'duration': 1.77}
+{'text': 'I work in a depressed\narea in Flint, Michigan.', 'start': 3840.64, 'duration': 3.42}
+{'text': "And when we put on projects,\nthey're like, oh wow,", 'start': 3844.06, 'duration': 3.93}
+{'text': "I'm glad you did that.", 'start': 3847.99, 'duration': 1.0}
+{'text': "I'm glad you're here.", 'start': 3848.99, 'duration': 1.134}
+{'text': "But the one thing that you don't\nwant to do is promise something", 'start': 3850.124, 'duration': 2.666}
+{'text': 'you cannot deliver because\nthen, that sticks with you.', 'start': 3852.79, 'duration': 3.36}
+{'text': 'That follows you.', 'start': 3856.15, 'duration': 0.9}
+{'text': "That's the monkey on your back.", 'start': 3857.05, 'duration': 1.56}
+{'text': 'Oh, I know her.', 'start': 3858.61, 'duration': 1.14}
+{'text': 'She promises the world\nand delivers stones.', 'start': 3859.75, 'duration': 3.12}
+{'text': "Or she's Santa Claus\nwith a bag of coal.", 'start': 3862.87, 'duration': 2.88}
+{'text': "We don't do that.", 'start': 3865.75, 'duration': 1.47}
+{'text': "And that's why I always\ntell them, this is up to you", 'start': 3867.22, 'duration': 4.65}
+{'text': 'how far this goes.', 'start': 3871.87, 'duration': 1.38}
+{'text': 'If you want this\nto continue, you', 'start': 3873.25, 'duration': 1.86}
+{'text': 'must find a way to continue it.', 'start': 3875.11, 'duration': 1.5}
+{'text': 'Sustainability is in your hands.', 'start': 3876.61, 'duration': 2.76}
+{'text': "And that's why I always do that.", 'start': 3879.37, 'duration': 2.25}
+{'text': "But I want to know,\nbecause there's not", 'start': 3881.62, 'duration': 3.39}
+{'text': 'a lot of funding in\na desert like Flint,', 'start': 3885.01, 'duration': 3.0}
+{'text': "where everybody is in need,\neverybody's got their hand out,", 'start': 3888.01, 'duration': 4.11}
+{'text': 'how do you bring that funding?', 'start': 3892.12, 'duration': 3.06}
+{'text': "Even though there's a need\nfor it, it's not available.", 'start': 3895.18, 'duration': 3.9}
+{'text': 'And with a depressed\ncommunity like that,', 'start': 3899.08, 'duration': 2.58}
+{'text': "everybody's got their hand out.", 'start': 3901.66, 'duration': 1.59}
+{'text': 'And the only funding is\ngoing for water, water.', 'start': 3903.25, 'duration': 3.79}
+{'text': "It's like, forget the arts now.", 'start': 3907.04, 'duration': 1.3}
+{'text': "It's water.", 'start': 3908.34, 'duration': 1.7}
+{'text': 'And when we started\ndoing political murals', 'start': 3910.04, 'duration': 3.5}
+{'text': 'about the water situation,\nsure, it got a lot of attention.', 'start': 3913.54, 'duration': 3.84}
+{'text': "Everybody was like, wow,\nyeah, oh, that's powerful.", 'start': 3917.38, 'duration': 3.51}
+{'text': 'But then the people\nthat will fund you', 'start': 3920.89, 'duration': 2.7}
+{'text': "don't want you to\ndisplay it in their area.", 'start': 3923.59, 'duration': 3.69}
+{'text': "It's like, oh,\nyeah, that's great.", 'start': 3927.28, 'duration': 1.43}
+{'text': "You're doing great work.", 'start': 3928.71, 'duration': 1.0}
+{'text': "But we don't want you\nto bring it over here.", 'start': 3929.71, 'duration': 2.82}
+{'text': 'So what do you do\nwith stuff like that?', 'start': 3932.53, 'duration': 2.154}
+{'text': "I mean, I don't know\nthe answer to that.", 'start': 3934.684, 'duration': 1.666}
+{'text': 'But it is systemic, obviously.', 'start': 3936.35, 'duration': 2.07}
+{'text': 'Right?', 'start': 3938.42, 'duration': 0.5}
+{'text': "I mean, don't you think?", 'start': 3938.92, 'duration': 1.0}
+{'text': 'I mean, obviously.', 'start': 3939.92, 'duration': 1.58}
+{'text': 'I mean, the funny thing is like,\nif I was a doctor of cities,', 'start': 3941.5, 'duration': 2.92}
+{'text': 'and I took my stethoscope,\nand I went over New York,', 'start': 3944.42, 'duration': 3.8}
+{'text': "I wouldn't be like,\nthis city suffers", 'start': 3948.22, 'duration': 1.62}
+{'text': 'from a lack of\ncultural programming.', 'start': 3949.84, 'duration': 1.5}
+{'text': '[LAUGHTER]', 'start': 3951.34, 'duration': 1.38}
+{'text': 'You know what I mean?', 'start': 3952.72, 'duration': 1.18}
+{'text': 'But yet, it just keeps\ncoming, cranking it out.', 'start': 3953.9, 'duration': 2.15}
+{'text': "And everyone's\nlike, oh, we ought", 'start': 3956.05, 'duration': 0.95}
+{'text': 'to do an art project here.', 'start': 3957.0, 'duration': 1.083}
+{'text': 'But Flint, you could use\nsome cultural programming', 'start': 3958.083, 'duration': 2.387}
+{'text': 'over there.', 'start': 3960.47, 'duration': 0.5}
+{'text': 'Right?', 'start': 3960.97, 'duration': 0.75}
+{'text': "But where's the\nbang for the buck?", 'start': 3961.72, 'duration': 1.639}
+{'text': 'What rich person wants to\nhead out to Flint to do that?', 'start': 3963.359, 'duration': 2.291}
+{'text': 'Right?', 'start': 3965.65, 'duration': 0.5}
+{'text': 'So there is a structural,\nracist, political component', 'start': 3966.15, 'duration': 2.761}
+{'text': 'to these funding models.', 'start': 3968.911, 'duration': 0.999}
+{'text': 'That said, I would say--', 'start': 3969.91, 'duration': 1.23}
+{'text': "my gut tells me that's\nKresge is the one to go,", 'start': 3971.14, 'duration': 2.61}
+{'text': 'to because they do support\ncultural programming', 'start': 3973.75, 'duration': 2.1}
+{'text': 'in the Midwest.', 'start': 3975.85, 'duration': 0.941}
+{'text': 'Right?', 'start': 3976.791, 'duration': 0.499}
+{'text': 'Is that right?', 'start': 3977.29, 'duration': 0.81}
+{'text': 'Kresge has a Detroit program.', 'start': 3981.25, 'duration': 1.38}
+{'text': "And it's very specific to\nthe boundaries of Detroit.", 'start': 3982.63, 'duration': 5.13}
+{'text': 'And otherwise, you fall into\nthe larger Kresge Foundation', 'start': 3987.76, 'duration': 4.01}
+{'text': "pot that's nationwide.", 'start': 3991.77, 'duration': 2.05}
+{'text': 'But they are in Michigan.', 'start': 3993.82, 'duration': 3.42}
+{'text': "So that's helpful.", 'start': 3997.24, 'duration': 0.93}
+{'text': "I'd say go to Betsy DeVos.", 'start': 4001.03, 'duration': 1.22}
+{'text': "She's very philanthropic.", 'start': 4002.25, 'duration': 1.11}
+{'text': '[LAUGHTER]', 'start': 4003.36, 'duration': 1.222}
+{'text': 'Right.', 'start': 4006.31, 'duration': 0.752}
+{'text': 'Or Erik Prince.', 'start': 4007.062, 'duration': 1.788}
+{'text': 'Sorry.', 'start': 4008.85, 'duration': 1.95}
+{'text': 'So I thought I would ask one\nmore question along these lines', 'start': 4010.8, 'duration': 2.52}
+{'text': 'and then open it up for\nothers to ask questions.', 'start': 4013.32, 'duration': 4.848}
+{'text': 'So Creative Time has\nthis history, actually,', 'start': 4020.805, 'duration': 4.985}
+{'text': 'going back, as you said,\nto the 1970s, 1973.', 'start': 4025.79, 'duration': 4.19}
+{'text': 'And it was founded essentially\nto activate vacant office', 'start': 4029.98, 'duration': 7.58}
+{'text': 'towers that were built in\nthe middle of an oil embargo.', 'start': 4037.56, 'duration': 3.15}
+{'text': 'And so there was this kind of\ngreat opportunity of vacancy', 'start': 4040.71, 'duration': 6.9}
+{'text': 'that was then taken up by some\nof the cultural organizations', 'start': 4047.61, 'duration': 4.82}
+{'text': 'that David Rockefeller\nwas funding.', 'start': 4052.43, 'duration': 5.49}
+{'text': 'And even though the\nwork was coming out', 'start': 4057.92, 'duration': 7.05}
+{'text': 'of a space of the\nSoho artists community', 'start': 4064.97, 'duration': 5.52}
+{'text': 'and kind of a\nradical context, it', 'start': 4070.49, 'duration': 7.47}
+{'text': 'was intended to serve as a\ntool of development, something', 'start': 4077.96, 'duration': 6.52}
+{'text': 'that I think in our\ncontext in Flint', 'start': 4084.48, 'duration': 3.25}
+{'text': 'and in some of your\nprojects in England', 'start': 4087.73, 'duration': 3.36}
+{'text': "is a position that we're\nbeing asked to play.", 'start': 4091.09, 'duration': 4.89}
+{'text': 'And in the context of\ncreative place-making,', 'start': 4095.98, 'duration': 3.48}
+{'text': "it's become a formulaic way\nthat public art is being pushed", 'start': 4099.46, 'duration': 7.05}
+{'text': 'and being funded to serve.', 'start': 4106.51, 'duration': 2.099}
+{'text': "So I don't know.", 'start': 4108.609, 'duration': 1.29}
+{'text': "What's your reaction to\nthe broader narratives", 'start': 4112.42, 'duration': 3.87}
+{'text': 'of public art that are\nprevalent right now?', 'start': 4116.29, 'duration': 5.069}
+{'text': 'Well, it\'s just to say,\nthis term, "place-making,"', 'start': 4121.359, 'duration': 3.75}
+{'text': "I don't know how\nubiquitous it is.", 'start': 4125.109, 'duration': 2.131}
+{'text': 'So you guys get that word?', 'start': 4127.24, 'duration': 1.311}
+{'text': 'You do.', 'start': 4128.551, 'duration': 0.499}
+{'text': 'Yeah.', 'start': 4129.05, 'duration': 0.5}
+{'text': 'OK.', 'start': 4129.55, 'duration': 0.75}
+{'text': "But I don't want to\nbe snotty about it,", 'start': 4130.3, 'duration': 1.71}
+{'text': 'because there are\nsome good parts to it.', 'start': 4132.01, 'duration': 1.679}
+{'text': 'So I am being snotty about it.', 'start': 4133.689, 'duration': 1.57}
+{'text': "It's like a\nbackhanded compliment.", 'start': 4135.259, 'duration': 1.49}
+{'text': "There's some good things to it.", 'start': 4136.749, 'duration': 1.291}
+{'text': "But certainly, what's\ninteresting is it is", 'start': 4138.04, 'duration': 2.459}
+{'text': 'about art in the public sphere.', 'start': 4140.499, 'duration': 1.291}
+{'text': "And I've watched that learning\ncurve, because at first,", 'start': 4141.79, 'duration': 3.689}
+{'text': 'it used to be much more of\nthis creepy, Richard Florida,', 'start': 4145.479, 'duration': 3.511}
+{'text': 'creative economies logic.', 'start': 4148.99, 'duration': 1.732}
+{'text': "But then I've seen it\nshift as the conversation", 'start': 4150.722, 'duration': 1.958}
+{'text': 'around social justice and race\nhave been pushing themselves', 'start': 4152.68, 'duration': 2.7}
+{'text': 'into that.', 'start': 4155.38, 'duration': 1.11}
+{'text': 'And the funders,\nI think, have been', 'start': 4156.49, 'duration': 1.89}
+{'text': 'much more cognizant in working\nwith that, to think through,', 'start': 4158.38, 'duration': 5.18}
+{'text': 'like, what are the implications.', 'start': 4163.56, 'duration': 1.54}
+{'text': 'And I also think with the\ngrowth of gentrification', 'start': 4165.1, 'duration': 2.61}
+{'text': 'as a narrative\nwithin urban spaces', 'start': 4167.71, 'duration': 2.37}
+{'text': "that you'd have to really\nhave your head in the sand", 'start': 4170.08, 'duration': 2.699}
+{'text': "to not talk about that if you're\ngoing to talk about development", 'start': 4172.779, 'duration': 2.851}
+{'text': 'models in cities.', 'start': 4175.63, 'duration': 2.689}
+{'text': "And it is useful\nbecause for me, it's", 'start': 4178.319, 'duration': 1.988}
+{'text': 'much better than the\nconversation around art', 'start': 4180.307, 'duration': 1.833}
+{'text': 'museums.', 'start': 4182.14, 'duration': 0.939}
+{'text': "At least we're talking\nabout race and class", 'start': 4183.079, 'duration': 1.791}
+{'text': 'and political economy\nand urban space.', 'start': 4184.87, 'duration': 1.949}
+{'text': "So in that way, it's been\na very productive space", 'start': 4186.819, 'duration': 2.37}
+{'text': 'to interrogate.', 'start': 4189.189, 'duration': 0.75}
+{'text': 'At the same time,\nthere is a lot of very', 'start': 4189.939, 'duration': 3.871}
+{'text': 'misaligned and\nconfusing politics', 'start': 4193.81, 'duration': 3.87}
+{'text': 'that are going into\na lot of money that', 'start': 4197.68, 'duration': 2.86}
+{'text': 'is being thrown around.', 'start': 4200.54, 'duration': 1.61}
+{'text': 'But just to say, with the\nfunding thing, two parts-- one,', 'start': 4202.15, 'duration': 4.21}
+{'text': 'I do think the\nplace-makings one is good.', 'start': 4206.36, 'duration': 2.327}
+{'text': 'You got an ArtPlace grant.', 'start': 4208.687, 'duration': 1.083}
+{'text': 'Right?', 'start': 4209.77, 'duration': 1.42}
+{'text': "And the other one I'd\nsay is, I think all of us", 'start': 4211.19, 'duration': 3.11}
+{'text': "don't need to defend the arts.", 'start': 4214.3, 'duration': 2.16}
+{'text': 'We need to go on arts offensive.', 'start': 4216.46, 'duration': 3.86}
+{'text': "Because I think the NEA's\nbudget should be $1 billion", 'start': 4220.32, 'duration': 2.53}
+{'text': 'and not sit there going like,\ncan I please have $30 million?', 'start': 4222.85, 'duration': 4.62}
+{'text': 'Because then, you can\nhave a national program', 'start': 4227.47, 'duration': 2.28}
+{'text': 'for cultural\nprogramming, because what', 'start': 4229.75, 'duration': 1.65}
+{'text': "we're talking with Flint,\nthat's a federal problem.", 'start': 4231.4, 'duration': 3.93}
+{'text': "That is something that can't\nbe resolved by one foundation", 'start': 4235.33, 'duration': 3.18}
+{'text': 'or an arts organization.', 'start': 4238.51, 'duration': 1.38}
+{'text': 'That should be a\nsustained program', 'start': 4239.89, 'duration': 3.9}
+{'text': 'of social infrastructure.', 'start': 4243.79, 'duration': 3.89}
+{'text': 'I mean.', 'start': 4247.68, 'duration': 0.54}
+{'text': "Sorry, I suppose I don't\nhave an articulate response.", 'start': 4248.22, 'duration': 4.71}
+{'text': "But it's making me think\nabout something that I've", 'start': 4252.93, 'duration': 3.18}
+{'text': 'noticed a lot in\nthe UK and I feel', 'start': 4256.11, 'duration': 1.83}
+{'text': 'is probably more extreme in\nthe US, which is the way that,', 'start': 4257.94, 'duration': 5.37}
+{'text': 'I suppose, money for\npublic art projects', 'start': 4263.31, 'duration': 4.08}
+{'text': 'is increasingly used by\neither people like us', 'start': 4267.39, 'duration': 4.8}
+{'text': 'as well to do projects,\nwhich in some way', 'start': 4272.19, 'duration': 3.57}
+{'text': 'are a panacea for things\nthat should be, if you like,', 'start': 4275.76, 'duration': 3.75}
+{'text': 'centrally funded.', 'start': 4279.51, 'duration': 1.8}
+{'text': "And I think that's because\nthat's where the holes are,", 'start': 4281.31, 'duration': 4.35}
+{'text': 'and they become an interesting\nspace in which to do projects.', 'start': 4285.66, 'duration': 4.08}
+{'text': 'But actually, as you\nsay, ideally, that money', 'start': 4289.74, 'duration': 6.15}
+{'text': "shouldn't be coming from these\nsorts of small diffuse spots,", 'start': 4295.89, 'duration': 4.38}
+{'text': 'but would be coming\nfrom central government.', 'start': 4300.27, 'duration': 3.812}
+{'text': "Well, yeah, it's funny.", 'start': 4304.082, 'duration': 0.958}
+{'text': 'Because like yeah, exactly.', 'start': 4305.04, 'duration': 1.43}
+{'text': "So let's say platform\nheads over to Stockholm.", 'start': 4306.47, 'duration': 5.604}
+{'text': "And it's just a different--\nit's like, you go to Stockholm", 'start': 4312.074, 'duration': 2.416}
+{'text': 'and the environment of\ndoing interventionist', 'start': 4314.49, 'duration': 1.92}
+{'text': 'or urban development projects\nthat we do in the US,', 'start': 4316.41, 'duration': 3.36}
+{'text': "it's so radically different.", 'start': 4319.77, 'duration': 1.761}
+{'text': "They're like, oh, right.", 'start': 4321.531, 'duration': 0.999}
+{'text': "Well, I mean, we really\ndon't have as many things", 'start': 4322.53, 'duration': 3.742}
+{'text': 'to complain about over there.', 'start': 4326.272, 'duration': 1.208}
+{'text': "But like over here,\neveryone's like, look at me!", 'start': 4327.48, 'duration': 3.99}
+{'text': "I'm purifying water.", 'start': 4331.47, 'duration': 1.54}
+{'text': "I'm, like, doing basic needs\nof a community that should", 'start': 4333.01, 'duration': 2.93}
+{'text': 'be supported by the state.', 'start': 4335.94, 'duration': 1.44}
+{'text': 'That is the lament about\nsocially engaged art', 'start': 4337.38, 'duration': 1.92}
+{'text': "often is that it's\ntrying to put the finger", 'start': 4339.3, 'duration': 2.67}
+{'text': 'in the dam of a\ntotal privatization', 'start': 4341.97, 'duration': 4.02}
+{'text': 'of all infrastructure.', 'start': 4345.99, 'duration': 1.56}
+{'text': 'And we are part of that.', 'start': 4347.55, 'duration': 1.25}
+{'text': 'But the same time, it does more\nthan that, I would say, too.', 'start': 4348.8, 'duration': 2.005}
+{'text': "Yeah, I think it's\nsomething though,", 'start': 4350.805, 'duration': 1.5}
+{'text': 'that I, as someone who utilizes\nthat for the funding field', 'start': 4352.305, 'duration': 3.805}
+{'text': 'to be convicted by, whereas\nyou are, in some ways,', 'start': 4356.11, 'duration': 3.23}
+{'text': 'propping up an argument\nabout allowing privatization', 'start': 4359.34, 'duration': 3.22}
+{'text': 'and philanthropy as a model\nfor social justice, which', 'start': 4362.56, 'duration': 2.744}
+{'text': 'I think in some\nways, politically,', 'start': 4365.304, 'duration': 1.416}
+{'text': 'is quite dangerous.', 'start': 4366.72, 'duration': 0.97}
+{'text': "But equally, it's better\nthan doing nothing,", 'start': 4367.69, 'duration': 1.833}
+{'text': 'which is the alternative.', 'start': 4369.523, 'duration': 2.579}
+{'text': "In some ways, I\npersonally feel like it's", 'start': 4372.102, 'duration': 1.708}
+{'text': "a quite horrible\ncatch-22, where it's", 'start': 4373.81, 'duration': 2.42}
+{'text': 'like you are providing\nbackup for an argument', 'start': 4376.23, 'duration': 2.25}
+{'text': 'about enabling social\njustice to be only', 'start': 4378.48, 'duration': 2.44}
+{'text': 'through philanthropic\nenterprises.', 'start': 4380.92, 'duration': 1.915}
+{'text': 'But also, without\ndoing anything,', 'start': 4382.835, 'duration': 1.375}
+{'text': "that's going to happen.", 'start': 4384.21, 'duration': 1.83}
+{'text': 'Where do you intervene?', 'start': 4386.04, 'duration': 1.35}
+{'text': 'And where do you just let it go?', 'start': 4387.39, 'duration': 3.26}
+{'text': "I mean, it's really tough.", 'start': 4390.65, 'duration': 2.35}
+{'text': "Because you can start to feel\nlike you're the charter school.", 'start': 4393.0, 'duration': 4.362}
+{'text': "You're like, but I'm a\nwell-intentioned charter", 'start': 4397.362, 'duration': 1.958}
+{'text': "school, but I'm totally playing\ninto this defunding federal", 'start': 4399.32, 'duration': 3.93}
+{'text': 'education policies.', 'start': 4403.25, 'duration': 1.04}
+{'text': 'So I feel that sometimes too.', 'start': 4404.29, 'duration': 2.92}
+{'text': "But at the same time, to\nbe more fair, it's funny.", 'start': 4407.21, 'duration': 5.82}
+{'text': "To pick on Scandinavia,\nbecause let's do that.", 'start': 4413.03, 'duration': 4.73}
+{'text': "They don't get a full pass.", 'start': 4417.76, 'duration': 2.66}
+{'text': 'At least with\nnot-government-funded thing', 'start': 4420.42, 'duration': 2.76}
+{'text': 'that we do, we can talk about\nflagrantly race and racism.', 'start': 4423.18, 'duration': 4.35}
+{'text': "We don't have to worry\nabout staying on message", 'start': 4427.53, 'duration': 2.4}
+{'text': 'with a giant PR machine.', 'start': 4429.93, 'duration': 1.851}
+{'text': 'I mean, there is some\nfreedom in the model', 'start': 4431.781, 'duration': 1.749}
+{'text': 'that we have that I\nfind very valuable.', 'start': 4433.53, 'duration': 3.69}
+{'text': "It's bizarre because\nyou can kick and push", 'start': 4437.22, 'duration': 2.46}
+{'text': 'a lot more in this\nkind of model, I find.', 'start': 4439.68, 'duration': 1.95}
+{'text': "And that's useful in\nsome ways to just throw", 'start': 4441.63, 'duration': 2.16}
+{'text': 'some cards on the table.', 'start': 4443.79, 'duration': 1.262}
+{'text': "I think that's true.", 'start': 4445.052, 'duration': 0.833}
+{'text': 'And like, somebody found\nagain, by acting as artists,', 'start': 4445.885, 'duration': 2.208}
+{'text': "we're wearing a\nkind of artist hat.", 'start': 4448.093, 'duration': 1.497}
+{'text': 'You can do work that, if you\ncan architecture commission,', 'start': 4449.59, 'duration': 2.83}
+{'text': "people that see them have\ncertain outputs that you've", 'start': 4452.42, 'duration': 1.69}
+{'text': "got to get away with\nbecause it wouldn't fit.", 'start': 4454.11, 'duration': 1.53}
+{'text': "It wouldn't tick\nthe right boxes.", 'start': 4455.64, 'duration': 1.08}
+{'text': "It wouldn't tick the right\nhealth and safety or output", 'start': 4456.72, 'duration': 1.58}
+{'text': 'or other thing boxes.', 'start': 4458.3, 'duration': 0.875}
+{'text': 'And so there is a\ndefinite argument', 'start': 4459.175, 'duration': 1.835}
+{'text': 'for co-opting and\nutilizing funds for art,', 'start': 4461.01, 'duration': 2.73}
+{'text': "because actually, there's\na kind of level of freedom", 'start': 4463.74, 'duration': 2.286}
+{'text': "there, that you don't have\nthe more practical outputs, so", 'start': 4466.026, 'duration': 2.374}
+{'text': 'like traditional\narchitectural outputs.', 'start': 4468.4, 'duration': 2.51}
+{'text': "I mean, it's the greatest\npassport of all time.", 'start': 4470.91, 'duration': 4.47}
+{'text': "It's like your biggest visa.", 'start': 4475.38, 'duration': 2.85}
+{'text': 'Because when people get\nall utilitarian on you--', 'start': 4478.23, 'duration': 2.119}
+{'text': "they're like, what is that for?", 'start': 4480.349, 'duration': 1.291}
+{'text': 'Who does that affect?', 'start': 4481.64, 'duration': 1.539}
+{'text': 'How many tourist dollars\ndoes that attract?', 'start': 4483.179, 'duration': 1.791}
+{'text': "You're just like, I'm an artist.", 'start': 4484.97, 'duration': 3.61}
+{'text': "I don't deal with your\npedantic questions.", 'start': 4488.58, 'duration': 3.18}
+{'text': 'And sometimes, I feel\nlike, hell, yeah, man.', 'start': 4491.76, 'duration': 2.34}
+{'text': "Sometimes it's good to\npush back like that.", 'start': 4494.1, 'duration': 1.8}
+{'text': 'You know?', 'start': 4495.9, 'duration': 1.89}
+{'text': "Well, let's open up to\nquestions, if anybody--", 'start': 4497.79, 'duration': 4.78}
+{'text': "I think there's a mike, a\ncouple of mikes running around,", 'start': 4502.57, 'duration': 3.08}
+{'text': 'a few, three.', 'start': 4505.65, 'duration': 1.461}
+{'text': 'Hi.', 'start': 4509.84, 'duration': 0.5}
+{'text': 'Thanks for the\ninspirational talk.', 'start': 4510.34, 'duration': 2.455}
+{'text': "I'm just wondering-- I had\nthis question for the speakers", 'start': 4512.795, 'duration': 2.375}
+{'text': 'this morning as well.', 'start': 4515.17, 'duration': 0.91}
+{'text': 'But do you think in time,\nthese projects and this idea', 'start': 4516.08, 'duration': 5.09}
+{'text': 'of public art as community\nengagement can be so culturally', 'start': 4521.17, 'duration': 6.21}
+{'text': 'influential that it\nwill shape market demand', 'start': 4527.38, 'duration': 3.6}
+{'text': 'and kind of allow the market\nto support the initiatives,', 'start': 4530.98, 'duration': 4.86}
+{'text': 'rather than being\nsubversive to it?', 'start': 4535.84, 'duration': 3.21}
+{'text': "Or is it only art\nif it's subversive?", 'start': 4539.05, 'duration': 3.22}
+{'text': "I mean, it's already\ngot market demand.", 'start': 4542.27, 'duration': 2.37}
+{'text': "There's an artist named Theaster\nGates who is filthy rich.", 'start': 4544.64, 'duration': 4.485}
+{'text': "And he's doing community\ndevelopment projects", 'start': 4549.125, 'duration': 1.875}
+{'text': 'that are very popular with Rahm\nEmanuel and the Chicago Bulls', 'start': 4551.0, 'duration': 3.8}
+{'text': 'as big funders.', 'start': 4554.8, 'duration': 0.97}
+{'text': "So just to say, there's\na market out there.", 'start': 4555.77, 'duration': 3.18}
+{'text': "But I wouldn't say it's big.", 'start': 4558.95, 'duration': 1.62}
+{'text': "It's almost like\nwith the art world,", 'start': 4560.57, 'duration': 1.74}
+{'text': 'you get, like, three stars,\nand the rest of us go broke.', 'start': 4562.31, 'duration': 4.477}
+{'text': "I do think there's a certain\nkind of market sensibility.", 'start': 4566.787, 'duration': 2.333}
+{'text': 'But the arts are\nparticularly fickle.', 'start': 4569.12, 'duration': 3.441}
+{'text': 'It is a luxury good.', 'start': 4572.561, 'duration': 3.189}
+{'text': 'And it is all about scarcity\nin the arts in particular.', 'start': 4575.75, 'duration': 3.92}
+{'text': 'That particular world\nis very scarcity-driven.', 'start': 4579.67, 'duration': 3.79}
+{'text': 'And the sad thing\nabout the art world', 'start': 4583.46, 'duration': 3.66}
+{'text': 'is that the bigger\nthe wealth gap,', 'start': 4587.12, 'duration': 3.66}
+{'text': 'the better the art world\ndoes because, of course,', 'start': 4590.78, 'duration': 3.81}
+{'text': "there's just much more\nluxury money out there.", 'start': 4594.59, 'duration': 2.85}
+{'text': 'I did want to address that.', 'start': 4597.44, 'duration': 1.53}
+{'text': "He's right.", 'start': 4598.97, 'duration': 0.66}
+{'text': "It's the 1% that\nyou're going for.", 'start': 4599.63, 'duration': 3.21}
+{'text': "They're the ones that\nhave that money to support", 'start': 4602.84, 'duration': 2.49}
+{'text': 'and the money to pay\nfor the projects.', 'start': 4605.33, 'duration': 2.64}
+{'text': 'But we hope that yes, it\nstarts a bigger movement that', 'start': 4607.97, 'duration': 3.57}
+{'text': 'makes it culturally acceptable.', 'start': 4611.54, 'duration': 2.08}
+{'text': "That's the orgasm we have\nin our brain about this art.", 'start': 4613.62, 'duration': 4.34}
+{'text': "But it doesn't really\npan out that way.", 'start': 4617.96, 'duration': 3.18}
+{'text': "Usually, it's a passion\nthat the artist has,", 'start': 4621.14, 'duration': 3.6}
+{'text': "that he's putting out there.", 'start': 4624.74, 'duration': 1.84}
+{'text': "And he's saying, accept me.", 'start': 4626.58, 'duration': 2.24}
+{'text': 'This is part of who I am.', 'start': 4628.82, 'duration': 2.04}
+{'text': "But yet, it's still, in public\nart, a voice of the people.", 'start': 4630.86, 'duration': 4.14}
+{'text': "And so this is what\nthey're saying.", 'start': 4635.0, 'duration': 2.52}
+{'text': "But you can't hear them.", 'start': 4637.52, 'duration': 1.71}
+{'text': "So it's not always\na matter of how much", 'start': 4639.23, 'duration': 2.16}
+{'text': "money, but how much action that\nit inspires because it's art", 'start': 4641.39, 'duration': 6.59}
+{'text': 'if it evokes an emotion.', 'start': 4647.98, 'duration': 3.8}
+{'text': "It doesn't have to be good.", 'start': 4651.78, 'duration': 1.74}
+{'text': 'The emotion is there.', 'start': 4653.52, 'duration': 1.62}
+{'text': 'But also, too, is it Grand\nRapids, the thing, art--', 'start': 4655.14, 'duration': 7.48}
+{'text': 'Yeah, ArtPrize.', 'start': 4662.62, 'duration': 0.79}
+{'text': 'ArtPrize, right?', 'start': 4663.41, 'duration': 0.87}
+{'text': "Isn't that thing hugely popular?", 'start': 4664.28, 'duration': 2.22}
+{'text': 'Yes, very popular.', 'start': 4666.5, 'duration': 1.44}
+{'text': "And they're usually using\nstudents that are unknown.", 'start': 4667.94, 'duration': 4.06}
+{'text': 'So they do get a name.', 'start': 4672.0, 'duration': 1.4}
+{'text': 'They get their stuff out there.', 'start': 4673.4, 'duration': 1.71}
+{'text': "And it's funded by\nthe DeVos family.", 'start': 4675.11, 'duration': 2.45}
+{'text': 'Right?', 'start': 4677.56, 'duration': 2.06}
+{'text': '1%.', 'start': 4679.62, 'duration': 1.88}
+{'text': 'My joke used to be that\nthe foundations that', 'start': 4681.5, 'duration': 4.05}
+{'text': "have to give away 1% of their\ncapital every year, and they've", 'start': 4685.55, 'duration': 5.7}
+{'text': 'essentially stolen our\ntax dollars by creating', 'start': 4691.25, 'duration': 4.18}
+{'text': 'private foundations.', 'start': 4695.43, 'duration': 1.34}
+{'text': 'And our job is to\ntake it from them.', 'start': 4696.77, 'duration': 3.65}
+{'text': 'I like that guerrilla\nHezbollah thing.', 'start': 4700.42, 'duration': 2.77}
+{'text': "I didn't even know\nI was doing it.", 'start': 4703.19, 'duration': 3.4}
+{'text': 'But anyway, any other questions?', 'start': 4706.59, 'duration': 3.142}
+{'text': "Don't be shy.", 'start': 4713.15, 'duration': 0.975}
+{'text': "I think it's very\ninteresting that you said,", 'start': 4716.767, 'duration': 1.833}
+{'text': "I didn't even realize\nthat I was doing it.", 'start': 4718.6, 'duration': 2.232}
+{'text': 'I think for a lot\nof people who are', 'start': 4720.832, 'duration': 1.458}
+{'text': "activists and\nartists, that's one", 'start': 4722.29, 'duration': 1.74}
+{'text': 'of the most difficult things.', 'start': 4724.03, 'duration': 1.329}
+{'text': 'When you are someone who is\nworking within communities,', 'start': 4725.359, 'duration': 2.291}
+{'text': 'somebody who is\ncreating projects', 'start': 4727.65, 'duration': 2.65}
+{'text': 'that are socially and culturally\nirrelevant, it becomes very', 'start': 4730.3, 'duration': 2.61}
+{'text': 'difficult if you are\nnot in an institution', 'start': 4732.91, 'duration': 3.24}
+{'text': "to understand what you're doing\nis relevant to the institution.", 'start': 4736.15, 'duration': 2.89}
+{'text': 'So I guess my question\nis, how do you', 'start': 4739.04, 'duration': 3.68}
+{'text': 'seek that validation\nwhile understanding', 'start': 4742.72, 'duration': 3.696}
+{'text': 'that things like\nfunding are important,', 'start': 4746.416, 'duration': 1.624}
+{'text': "and as we've seen,\nwhile at the same time,", 'start': 4748.04, 'duration': 2.36}
+{'text': 'not compromising our\nmission or our message?', 'start': 4750.4, 'duration': 2.916}
+{'text': 'Anybody else want to--', 'start': 4756.19, 'duration': 1.41}
+{'text': 'OK.', 'start': 4757.6, 'duration': 1.38}
+{'text': 'Well, I think that you get your\nvalidation by when people say,', 'start': 4758.98, 'duration': 5.52}
+{'text': "that's what I was saying,\nor that's what I feel.", 'start': 4764.5, 'duration': 3.48}
+{'text': "It's not so much what\nbeing put in a museum,", 'start': 4767.98, 'duration': 3.99}
+{'text': 'or being put up on a building.', 'start': 4771.97, 'duration': 1.65}
+{'text': "It's when you reach the\npeople, and when you say,", 'start': 4773.62, 'duration': 2.49}
+{'text': "OK, I'm not the only\none that feels this way.", 'start': 4776.11, 'duration': 2.22}
+{'text': "I'm getting it out.", 'start': 4778.33, 'duration': 1.29}
+{'text': "And I'm representing you\nand you and you and you.", 'start': 4779.62, 'duration': 2.7}
+{'text': 'And so together, we are this.', 'start': 4782.32, 'duration': 2.37}
+{'text': 'This is our voice.', 'start': 4784.69, 'duration': 1.271}
+{'text': 'See, we have a voice\nfor the voiceless.', 'start': 4785.961, 'duration': 1.624}
+{'text': 'And that is satisfaction.', 'start': 4787.585, 'duration': 3.225}
+{'text': 'And that is knowing that\nyour work is accepted.', 'start': 4790.81, 'duration': 4.12}
+{'text': 'And for me, the way\nI would respond,', 'start': 4794.93, 'duration': 4.76}
+{'text': 'is that you do all\nthis terrible work', 'start': 4799.69, 'duration': 4.29}
+{'text': 'of writing grants and trying\nto bring the money from people.', 'start': 4803.98, 'duration': 3.726}
+{'text': "And then it's difficult.\nThe committee meetings are", 'start': 4807.706, 'duration': 2.124}
+{'text': 'difficult. People yell at you.', 'start': 4809.83, 'duration': 2.1}
+{'text': 'And sometimes, the projects\nare hated and all of that.', 'start': 4811.93, 'duration': 5.43}
+{'text': 'You get trolled all the time.', 'start': 4817.36, 'duration': 3.51}
+{'text': "But the thing that's kind of\nmagical from my point of view,", 'start': 4820.87, 'duration': 3.69}
+{'text': "as someone who's not an\nartist and not a designer,", 'start': 4824.56, 'duration': 2.91}
+{'text': 'is that you kind\nof create a process', 'start': 4827.47, 'duration': 2.01}
+{'text': 'and you create a\nplatform for people', 'start': 4829.48, 'duration': 2.32}
+{'text': 'to create their own work.', 'start': 4831.8, 'duration': 2.24}
+{'text': 'And then when it works well,\nyou get to walk into the project', 'start': 4834.04, 'duration': 5.73}
+{'text': 'that you never imagined, but\nyou created a space for it', 'start': 4839.77, 'duration': 3.75}
+{'text': 'to happen in.', 'start': 4843.52, 'duration': 2.43}
+{'text': "And that's kind\nof a joyous thing", 'start': 4845.95, 'duration': 2.73}
+{'text': "to see other people create in\na place that you've set up for.", 'start': 4848.68, 'duration': 8.37}
+{'text': "Life is a story called,\nyou're not invited.", 'start': 4857.05, 'duration': 2.37}
+{'text': "So I think it's important--", 'start': 4859.42, 'duration': 4.489}
+{'text': "it's funny, because\nthe museums would", 'start': 4863.909, 'duration': 1.541}
+{'text': "make you think that's the work\nthat most people are doing.", 'start': 4865.45, 'duration': 2.52}
+{'text': 'But in fact, a lot of the\nsocially engaged art stuff,', 'start': 4867.97, 'duration': 3.48}
+{'text': "there's so many people doing\nthis in cities, like so many.", 'start': 4871.45, 'duration': 3.84}
+{'text': "And it's more the rule\nthan the exception really.", 'start': 4875.29, 'duration': 3.36}
+{'text': "It's just that the spaces\nthat highlight stuff", 'start': 4878.65, 'duration': 2.55}
+{'text': "don't reflect the actual\ncomposition of practice that's", 'start': 4881.2, 'duration': 3.51}
+{'text': 'out there.', 'start': 4884.71, 'duration': 0.72}
+{'text': 'So I do think finding\nspace to produce community', 'start': 4885.43, 'duration': 2.55}
+{'text': 'and solidarity that are not\nreliant on the institutions', 'start': 4887.98, 'duration': 3.57}
+{'text': 'is absolutely\nemotionally critical too.', 'start': 4891.55, 'duration': 3.9}
+{'text': 'This guy Greg Sholette has\na book called Dark Matter.', 'start': 4895.45, 'duration': 2.4}
+{'text': "But it's talking about the\nidea that with dark matter,", 'start': 4897.85, 'duration': 4.41}
+{'text': "it's the dark matter that\nholds the universe together.", 'start': 4902.26, 'duration': 2.92}
+{'text': "But in the arts, it's a\nlot of these practices that", 'start': 4905.18, 'duration': 2.32}
+{'text': "hold the arts together\nthat isn't actually", 'start': 4907.5, 'duration': 1.75}
+{'text': 'in the institutions.', 'start': 4909.25, 'duration': 1.817}
+{'text': 'Now, I see that everywhere I go.', 'start': 4911.067, 'duration': 1.333}
+{'text': "There's so many people\ndoing social engaged art.", 'start': 4912.4, 'duration': 3.449}
+{'text': "I mean, it's funny.", 'start': 4915.849, 'duration': 0.791}
+{'text': "It's like such a lame term.", 'start': 4916.64, 'duration': 1.47}
+{'text': 'Because I just feel like people\nboth want to make a difference', 'start': 4918.11, 'duration': 2.82}
+{'text': 'and also are just\ninherently good', 'start': 4920.93, 'duration': 1.79}
+{'text': 'with cultural manipulation.', 'start': 4922.72, 'duration': 1.89}
+{'text': 'So that is a modality a lot of\npeople are comfortable with.', 'start': 4924.61, 'duration': 2.74}
+{'text': 'Yeah, I mean, I\ntotally agree with you.', 'start': 4927.35, 'duration': 2.69}
+{'text': "And I think what's so evident\nis that the lens that gets shone", 'start': 4930.04, 'duration': 5.88}
+{'text': 'on certain people or certain\nprojects is just that.', 'start': 4935.92, 'duration': 4.05}
+{'text': "It's a lens.", 'start': 4939.97, 'duration': 1.02}
+{'text': "And there's a whole broader\nworld out there where", 'start': 4940.99, 'duration': 3.99}
+{'text': "those things don't get seen.", 'start': 4944.98, 'duration': 1.23}
+{'text': 'And what can be really\nuseful about those lenses', 'start': 4946.21, 'duration': 2.73}
+{'text': 'is that you begin to\nlook back at the world', 'start': 4948.94, 'duration': 3.3}
+{'text': "and see those things that you\nperhaps hadn't valued or hadn't", 'start': 4952.24, 'duration': 5.43}
+{'text': "considered or hadn't seen the\ncultural value in beforehand.", 'start': 4957.67, 'duration': 6.11}
+{'text': "And it makes me think of someone\nlike Jeremy Deller's work.", 'start': 4963.78, 'duration': 2.879}
+{'text': "I don't know if people here\nare that familiar with him.", 'start': 4966.659, 'duration': 2.291}
+{'text': "But he's a British\nartist who works", 'start': 4968.95, 'duration': 3.3}
+{'text': 'very much with every day\nculture, largely in the UK,', 'start': 4972.25, 'duration': 9.03}
+{'text': 'sort of contemporary folk\nculture, if you like.', 'start': 4981.28, 'duration': 3.374}
+{'text': 'And it also makes\nme think a lot--', 'start': 4984.654, 'duration': 1.416}
+{'text': 'I know I was at a\nconversation in the UK', 'start': 4986.07, 'duration': 4.36}
+{'text': 'with the arts minister\nat the time, Ed Vaizey.', 'start': 4990.43, 'duration': 3.09}
+{'text': 'And it was a\nroundtable discussion', 'start': 4993.52, 'duration': 2.43}
+{'text': 'about a new kind of arts paper.', 'start': 4995.95, 'duration': 2.01}
+{'text': 'And someone raised the\npoint about going out', 'start': 4997.96, 'duration': 2.97}
+{'text': 'into an area where\nthere was no culture,', 'start': 5000.93, 'duration': 3.44}
+{'text': 'a shit area with no culture.', 'start': 5004.37, 'duration': 2.08}
+{'text': 'And I just got so\nangry with this person.', 'start': 5006.45, 'duration': 2.655}
+{'text': 'Because it was like,\nhow dare you say that?', 'start': 5009.105, 'duration': 3.445}
+{'text': "How dare you use that term\nto someone else's community?", 'start': 5012.55, 'duration': 3.08}
+{'text': 'And it reminds me, I was\ndoing a transcription', 'start': 5015.63, 'duration': 5.85}
+{'text': 'of a series of interviews with\nmanagers of Sure Start centers', 'start': 5021.48, 'duration': 5.94}
+{'text': 'in the UK, which are basically\nsort of early learning centers.', 'start': 5027.42, 'duration': 3.57}
+{'text': 'And one of the\nmanagers saying she', 'start': 5030.99, 'duration': 3.75}
+{'text': 'has these very\nin-depth conversations', 'start': 5034.74, 'duration': 2.1}
+{'text': 'with young mothers who are\nwhite, working-class mothers,', 'start': 5036.84, 'duration': 4.11}
+{'text': 'who say, I wish I was Indian\nbecause my Indian friends,', 'start': 5040.95, 'duration': 4.867}
+{'text': "they've got culture.", 'start': 5045.817, 'duration': 0.833}
+{'text': "They've got saris.", 'start': 5046.65, 'duration': 1.02}
+{'text': 'They have delicious food.', 'start': 5047.67, 'duration': 1.29}
+{'text': "And we don't have that.", 'start': 5048.96, 'duration': 1.545}
+{'text': 'I have no culture.', 'start': 5050.505, 'duration': 1.645}
+{'text': 'And the manager of this\nearly learning center', 'start': 5052.15, 'duration': 2.18}
+{'text': 'is like, what are\nyou talking about?', 'start': 5054.33, 'duration': 2.03}
+{'text': 'Of course you do.', 'start': 5056.36, 'duration': 0.88}
+{'text': 'You have a ritual\nof tea whenever', 'start': 5057.24, 'duration': 2.7}
+{'text': 'someone enters your house.', 'start': 5059.94, 'duration': 1.32}
+{'text': 'You have your\nbirthday celebrations.', 'start': 5061.26, 'duration': 3.57}
+{'text': 'You just need to learn\nthe visual material,', 'start': 5064.83, 'duration': 4.35}
+{'text': 'the culture, the everyday\nculture that you inhabit.', 'start': 5069.18, 'duration': 2.287}
+{'text': 'And you need to learn\nhow to recognize that.', 'start': 5071.467, 'duration': 1.833}
+{'text': 'And so going back to\nthe start of the point,', 'start': 5073.3, 'duration': 3.26}
+{'text': 'I think the ability\nthen of certain artists', 'start': 5076.56, 'duration': 3.72}
+{'text': 'or practitioners to focus\nthose lenses and say, oh, yeah,', 'start': 5080.28, 'duration': 4.67}
+{'text': 'I never thought that that\nthing that I did was culture', 'start': 5084.95, 'duration': 3.52}
+{'text': 'or was valuable.', 'start': 5088.47, 'duration': 1.44}
+{'text': 'I think that can be an\namazing virtue and joy of some', 'start': 5089.91, 'duration': 3.78}
+{'text': 'of this type of work.', 'start': 5093.69, 'duration': 1.05}
+{'text': 'Yeah.', 'start': 5094.74, 'duration': 0.5}
+{'text': 'And to elaborate on that.', 'start': 5095.24, 'duration': 2.26}
+{'text': 'In Flint, where we are that\nshit area that they say', 'start': 5097.5, 'duration': 3.25}
+{'text': 'has no culture.', 'start': 5100.75, 'duration': 1.34}
+{'text': 'And when the plants left\nand half of the residents', 'start': 5102.09, 'duration': 3.33}
+{'text': 'left, and they left all\nof these empty homes that', 'start': 5105.42, 'duration': 2.4}
+{'text': 'are vacant and left to\ngo through the process', 'start': 5107.82, 'duration': 2.94}
+{'text': 'of gentrification so they\ncan cleanse the city--', 'start': 5110.76, 'duration': 2.97}
+{'text': "she's right about the lense.", 'start': 5117.06, 'duration': 2.19}
+{'text': 'I have to go into\neach neighborhood.', 'start': 5119.25, 'duration': 2.25}
+{'text': 'And my project varies\nwith each neighborhood,', 'start': 5121.5, 'duration': 2.76}
+{'text': 'because I engage community.', 'start': 5124.26, 'duration': 2.04}
+{'text': 'And I say, what is your culture?', 'start': 5126.3, 'duration': 2.04}
+{'text': 'And they say, what?', 'start': 5128.34, 'duration': 1.18}
+{'text': "We're black, or we're\nthis or we're that?", 'start': 5129.52, 'duration': 2.09}
+{'text': "No, no, that's who you are.", 'start': 5131.61, 'duration': 1.14}
+{'text': 'Your culture is what you do,\nthe rituals that you have.', 'start': 5132.75, 'duration': 4.2}
+{'text': "It's how you live.", 'start': 5136.95, 'duration': 0.96}
+{'text': "It's how you enjoy.", 'start': 5137.91, 'duration': 0.9}
+{'text': "It's how you celebrate.", 'start': 5138.81, 'duration': 1.14}
+{'text': 'And so I say, what\nis your flavor?', 'start': 5139.95, 'duration': 1.89}
+{'text': "Well, they've got\na lot of flavor.", 'start': 5141.84, 'duration': 1.56}
+{'text': 'Oh, we do this.', 'start': 5143.4, 'duration': 1.12}
+{'text': 'We do that.', 'start': 5144.52, 'duration': 0.92}
+{'text': "That's their culture.", 'start': 5145.44, 'duration': 1.47}
+{'text': 'And I focus a lens on that.', 'start': 5146.91, 'duration': 1.44}
+{'text': 'And I bring it out through\nthe murals that we do.', 'start': 5148.35, 'duration': 2.18}
+{'text': 'And I say, OK, this is the\nflavor of this neighborhood.', 'start': 5150.53, 'duration': 3.82}
+{'text': 'And that mural is the\nculture of that area.', 'start': 5154.35, 'duration': 3.0}
+{'text': "Even though we're one people--", 'start': 5157.35, 'duration': 1.32}
+{'text': "We're all American-- there's\nlittle microcosms of culture.", 'start': 5158.67, 'duration': 3.48}
+{'text': "Maybe it's with\nthese three houses.", 'start': 5162.15, 'duration': 1.5}
+{'text': "Maybe it's with this block.", 'start': 5163.65, 'duration': 1.44}
+{'text': "Maybe it's with this\nwhole neighborhood.", 'start': 5165.09, 'duration': 2.07}
+{'text': "Maybe it's with this community.", 'start': 5167.16, 'duration': 2.07}
+{'text': 'But you have to be that\nlens that says, I see you,', 'start': 5169.23, 'duration': 4.89}
+{'text': 'and I hear you.', 'start': 5174.12, 'duration': 1.17}
+{'text': 'And that validates them.', 'start': 5175.29, 'duration': 1.459}
+{'text': 'So when talking about\ndeveloping culture', 'start': 5185.74, 'duration': 2.64}
+{'text': 'or identifying\nthose cultures that', 'start': 5188.38, 'duration': 1.83}
+{'text': 'exist in those\nneighborhoods, how', 'start': 5190.21, 'duration': 2.46}
+{'text': 'do you find that balance\nbetween that culture', 'start': 5192.67, 'duration': 5.97}
+{'text': 'attracting more\ndevelopment, and with that,', 'start': 5198.64, 'duration': 3.66}
+{'text': 'gentrification, and then killing\nthat culture that was vibrant', 'start': 5202.3, 'duration': 4.29}
+{'text': 'and then this full circle\nthat goes over and over?', 'start': 5206.59, 'duration': 4.38}
+{'text': 'Well, actually, we just remind\nthem of where they came from', 'start': 5210.97, 'duration': 3.18}
+{'text': 'and remind them of\nwhat their culture was.', 'start': 5214.15, 'duration': 2.94}
+{'text': 'And then we also put\nup there what it was', 'start': 5217.09, 'duration': 2.79}
+{'text': 'and what it has turned into.', 'start': 5219.88, 'duration': 1.29}
+{'text': "Because it's always evolving.", 'start': 5221.17, 'duration': 2.07}
+{'text': 'When these people move in\nand these people move out,', 'start': 5223.24, 'duration': 2.61}
+{'text': 'it changes.', 'start': 5225.85, 'duration': 1.56}
+{'text': 'At one time, this was\na predominantly white', 'start': 5227.41, 'duration': 1.92}
+{'text': 'neighborhood that\nended up going black.', 'start': 5229.33, 'duration': 2.7}
+{'text': 'And then it ended\nup going empty.', 'start': 5232.03, 'duration': 2.64}
+{'text': 'And then it ended\nup going abandoned.', 'start': 5234.67, 'duration': 1.74}
+{'text': 'But still, there are still\nspots of that culture.', 'start': 5236.41, 'duration': 3.62}
+{'text': 'And you just have to say,\nwhen they forget what it was,', 'start': 5240.03, 'duration': 3.94}
+{'text': 'remind them of who they are.', 'start': 5243.97, 'duration': 2.76}
+{'text': "And it's still there.", 'start': 5246.73, 'duration': 1.65}
+{'text': 'So you deal with it as it comes.', 'start': 5248.38, 'duration': 1.635}
+{'text': "And it's fluid.", 'start': 5250.015, 'duration': 2.025}
+{'text': "And you have to know\nthat it's organic", 'start': 5252.04, 'duration': 1.807}
+{'text': "and it's going to change and\nyou can't keep it that way.", 'start': 5253.847, 'duration': 2.333}
+{'text': 'It is what it is.', 'start': 5256.18, 'duration': 2.02}
+{'text': "I think that's kind\nof key is that there's", 'start': 5258.2, 'duration': 1.75}
+{'text': 'an undertone to some of the\ngentrification conversation', 'start': 5259.95, 'duration': 3.016}
+{'text': 'that actually what\nyou want to do', 'start': 5262.966, 'duration': 1.374}
+{'text': 'is keep things in total stasis.', 'start': 5264.34, 'duration': 1.715}
+{'text': 'And I think like\nthings will change.', 'start': 5266.055, 'duration': 2.152}
+{'text': 'And I think, for me,\nthe bigger question is,', 'start': 5268.207, 'duration': 1.833}
+{'text': 'who benefits from\nthose changes, and how,', 'start': 5270.04, 'duration': 2.22}
+{'text': 'through the\nstructure of the work', 'start': 5272.26, 'duration': 1.92}
+{'text': 'and the creation\nof organizations,', 'start': 5274.18, 'duration': 1.47}
+{'text': 'or the impact of the work, you\ncan share benefits more widely,', 'start': 5275.65, 'duration': 4.76}
+{'text': 'rather than aim for a stasis,\nwhich is self-defeating.', 'start': 5280.41, 'duration': 4.63}
+{'text': 'And a lot of these areas\nhave real social problems', 'start': 5285.04, 'duration': 2.261}
+{'text': 'that do need investment.', 'start': 5287.301, 'duration': 0.999}
+{'text': "And where there's\ninvestments, there", 'start': 5288.3, 'duration': 1.66}
+{'text': 'is going to be a change\nand gentrification.', 'start': 5289.96, 'duration': 3.21}
+{'text': 'And trying to stop it\ncompletely is a losing game.', 'start': 5293.17, 'duration': 2.462}
+{'text': "So it's more like,\nhow do you reframe it?", 'start': 5295.632, 'duration': 1.708}
+{'text': 'How do you share the benefits?', 'start': 5297.34, 'duration': 1.249}
+{'text': 'How do you change--', 'start': 5298.589, 'duration': 0.866}
+{'text': "And I guess that's where\nthat question also of capital", 'start': 5299.455, 'duration': 2.305}
+{'text': 'and economy comes in\nand how you start--', 'start': 5301.76, 'duration': 2.63}
+{'text': 'the culture is a way of also\npeople seeing value and seeing', 'start': 5304.39, 'duration': 2.49}
+{'text': "agency in what they're doing.", 'start': 5306.88, 'duration': 1.582}
+{'text': 'And also, it enables them\nto take on ownership.', 'start': 5308.462, 'duration': 1.958}
+{'text': 'And it is a kind\nof pride thing that', 'start': 5310.42, 'duration': 1.71}
+{'text': 'also means that when\nchanges do come,', 'start': 5312.13, 'duration': 2.49}
+{'text': 'people are much better\nable to take control of it,', 'start': 5314.62, 'duration': 5.22}
+{'text': 'rather than just\nbe victims of it.', 'start': 5319.84, 'duration': 2.077}
+{'text': "I think it's almost\njust like changing", 'start': 5321.917, 'duration': 1.583}
+{'text': 'the narrative about what the\nvalue relative values are', 'start': 5323.5, 'duration': 3.33}
+{'text': 'can have a huge impact\non that process.', 'start': 5326.83, 'duration': 1.8}
+{'text': 'And you also have to explain to\nthem what process is going on,', 'start': 5331.42, 'duration': 3.99}
+{'text': "because when they're\nin it, they don't", 'start': 5335.41, 'duration': 1.77}
+{'text': "see that it's gentrification\nuntil you explain it to them.", 'start': 5337.18, 'duration': 3.06}
+{'text': "You say, this is the\nprocess that's going on.", 'start': 5340.24, 'duration': 2.76}
+{'text': "And you can't be\noutside here, saying,", 'start': 5343.0, 'duration': 3.69}
+{'text': "we're getting mowed over.", 'start': 5346.69, 'duration': 1.26}
+{'text': 'You have to actually\ngo to the table.', 'start': 5347.95, 'duration': 3.65}
+{'text': 'You have to have a\nseat at the table', 'start': 5351.6, 'duration': 1.5}
+{'text': 'before they can\ngive you a plate.', 'start': 5353.1, 'duration': 1.54}
+{'text': "So if you're not part of\nthe process, if you don't", 'start': 5354.64, 'duration': 3.36}
+{'text': 'get into the meetings\nwith those people,', 'start': 5358.0, 'duration': 3.7}
+{'text': 'go to your city meetings\nand tell them what to do,', 'start': 5361.7, 'duration': 2.94}
+{'text': "empower them to be at that table\nso that they don't get mowed", 'start': 5364.64, 'duration': 4.98}
+{'text': "over, they don't get lost.", 'start': 5369.62, 'duration': 1.62}
+{'text': "Because it's\ninvestment in people.", 'start': 5371.24, 'duration': 2.01}
+{'text': 'And the big businesses they\nhave the money, or the schools', 'start': 5373.25, 'duration': 3.78}
+{'text': 'or whoever is doing the\nprocess of gentrification,', 'start': 5377.03, 'duration': 2.91}
+{'text': "they don't want to be\nlabeled as the villain.", 'start': 5379.94, 'duration': 2.58}
+{'text': 'You put that Snidely\nWhiplash hat on them,', 'start': 5382.52, 'duration': 2.165}
+{'text': 'and all of a\nsudden, they change.', 'start': 5384.685, 'duration': 1.375}
+{'text': 'Oh, no, no, we want you.', 'start': 5386.06, 'duration': 1.15}
+{'text': 'We want you here.', 'start': 5387.21, 'duration': 1.22}
+{'text': 'So you tell them how to\nget a seat at the table,', 'start': 5388.43, 'duration': 2.784}
+{'text': 'because change is never\ndone from the outside.', 'start': 5391.214, 'duration': 1.916}
+{'text': "It's done from the inside.", 'start': 5393.13, 'duration': 3.04}
+{'text': 'Sorry.', 'start': 5396.17, 'duration': 0.59}
+{'text': 'I had a slight aside,\nbut partly because I', 'start': 5396.76, 'duration': 3.79}
+{'text': "feel like maybe there's a\nstrand of the conversation which", 'start': 5400.55, 'duration': 3.36}
+{'text': 'is about, if you like,\ngoing into a context', 'start': 5403.91, 'duration': 5.37}
+{'text': 'and doing a project.', 'start': 5409.28, 'duration': 1.58}
+{'text': "And I think, for me,\nit's also very personal.", 'start': 5410.86, 'duration': 3.75}
+{'text': "It's like I've benefited from\nmany public art projects.", 'start': 5414.61, 'duration': 5.91}
+{'text': "So I've benefited from\naccess to the arts", 'start': 5420.52, 'duration': 3.9}
+{'text': 'throughout my whole life.', 'start': 5424.42, 'duration': 1.15}
+{'text': "And for me, that's so much\nanother dimension of how", 'start': 5425.57, 'duration': 3.47}
+{'text': 'I see the world and an ability\nto feel like I can understand', 'start': 5429.04, 'duration': 7.65}
+{'text': 'and engage with the world\nof visual and material', 'start': 5436.69, 'duration': 3.24}
+{'text': 'culture, which is such an\nimportant element of this world', 'start': 5439.93, 'duration': 4.59}
+{'text': "we're in that is\nfull of images and I", 'start': 5444.52, 'duration': 1.59}
+{'text': 'think is really underrepresented\nin our education systems.', 'start': 5446.11, 'duration': 4.2}
+{'text': 'And actually, to\ngo back to where', 'start': 5450.31, 'duration': 2.25}
+{'text': "Paul's talk ended on moments of\nambiguity or moments of joy--", 'start': 5452.56, 'duration': 8.88}
+{'text': 'I remember the first time when\nI went to a project in the UK', 'start': 5461.44, 'duration': 4.56}
+{'text': 'that was done by Artangel,\nwhich is sort of similar.', 'start': 5466.0, 'duration': 2.65}
+{'text': "It's a UK production\ncompany, which was in--", 'start': 5468.65, 'duration': 2.99}
+{'text': "the Round House, in the '90s,\nwhich was a big train shed,", 'start': 5471.64, 'duration': 5.196}
+{'text': 'which is now an arts venue.', 'start': 5476.836, 'duration': 1.124}
+{'text': 'But it was before it\nhad been renovated.', 'start': 5477.96, 'duration': 1.666}
+{'text': "And they'd filled\nthe whole space", 'start': 5479.626, 'duration': 2.124}
+{'text': 'with a white bouncy castle.', 'start': 5481.75, 'duration': 1.9}
+{'text': 'I think it was by Michael Landy.', 'start': 5483.65, 'duration': 1.85}
+{'text': 'I had no idea.', 'start': 5485.5, 'duration': 0.66}
+{'text': 'I was, like, eight years old.', 'start': 5486.16, 'duration': 1.61}
+{'text': 'I only discovered this\nmany, many years later.', 'start': 5487.77, 'duration': 2.48}
+{'text': 'But I remember that\nsort of surreal moment', 'start': 5490.25, 'duration': 2.43}
+{'text': 'and that joy that can come\nwith something like that, just', 'start': 5492.68, 'duration': 3.74}
+{'text': 'the ability to experience\nthe city differently,', 'start': 5496.42, 'duration': 2.25}
+{'text': "to feel like, it's yeah, this\nopen-ended, malleable thing,", 'start': 5498.67, 'duration': 3.03}
+{'text': 'and as a child, what\nthat feels like.', 'start': 5501.7, 'duration': 1.62}
+{'text': 'And then when you talk about\nyour project with the keys', 'start': 5503.32, 'duration': 2.985}
+{'text': 'to the city, there are\nno concrete outcomes.', 'start': 5506.305, 'duration': 4.635}
+{'text': "It's going to be very hard\nto tick a box on a form.", 'start': 5510.94, 'duration': 3.6}
+{'text': 'But actually, these\nthings make a difference,', 'start': 5514.54, 'duration': 2.46}
+{'text': "and they're cumulative.", 'start': 5517.0, 'duration': 1.56}
+{'text': 'And I think they do enrich all\nof our experiences of the built', 'start': 5518.56, 'duration': 5.76}
+{'text': 'environment.', 'start': 5524.32, 'duration': 1.679}
+{'text': 'I mean, just to say one thing\nabout the gentrification thing.', 'start': 5525.999, 'duration': 2.541}
+{'text': "It's a tricky little wicket.", 'start': 5528.54, 'duration': 4.31}
+{'text': 'I mean, I think it\nis good to always be', 'start': 5532.85, 'duration': 2.04}
+{'text': 'strategic in terms of context.', 'start': 5534.89, 'duration': 2.31}
+{'text': 'And New York City, for example,\nis very different than Flint', 'start': 5537.2, 'duration': 2.58}
+{'text': 'in terms of the\nspeed of urbanism,', 'start': 5539.78, 'duration': 2.01}
+{'text': "how much speculative\ncapital's out there", 'start': 5541.79, 'duration': 3.09}
+{'text': 'for development and stuff.', 'start': 5544.88, 'duration': 1.95}
+{'text': 'So I mean, I say that because\nwhen we did that Weeksville', 'start': 5546.83, 'duration': 2.82}
+{'text': "project, it was really\ncrazy, because there's", 'start': 5549.65, 'duration': 3.51}
+{'text': 'a sad part to that\nstory, which was', 'start': 5553.16, 'duration': 1.68}
+{'text': 'just that this is in\na neighborhood called', 'start': 5554.84, 'duration': 3.27}
+{'text': 'Bedford-Stuyvesant.', 'start': 5558.11, 'duration': 1.23}
+{'text': "It's on the border of\nBed-Stuy and Crown Heights.", 'start': 5559.34, 'duration': 3.36}
+{'text': "And I think it's\nreally important", 'start': 5562.7, 'duration': 2.94}
+{'text': 'to bring up these sites of\nblack self-determination.', 'start': 5565.64, 'duration': 2.69}
+{'text': 'But as we were doing\ncommunity organizing, I mean,', 'start': 5568.33, 'duration': 2.926}
+{'text': 'everybody in the\nneighborhood was', 'start': 5571.256, 'duration': 1.374}
+{'text': "basically like, it's a\ndone deal, like it's done.", 'start': 5572.63, 'duration': 4.952}
+{'text': 'While we are working\nwith them, the place', 'start': 5577.582, 'duration': 1.708}
+{'text': "of Josephine English's\nhistoric home,", 'start': 5579.29, 'duration': 2.035}
+{'text': 'the guy who owned\nthe building was just', 'start': 5581.325, 'duration': 1.625}
+{'text': "looking for the highest bidder\nwhile we're working with him.", 'start': 5582.95, 'duration': 4.32}
+{'text': 'And when Weeksville\nactually had the city', 'start': 5587.27, 'duration': 2.4}
+{'text': 'pay for a LEEDS-certified,\ngiant architectural building,', 'start': 5589.67, 'duration': 3.78}
+{'text': 'they literally did\nthe ribbon-cutting', 'start': 5593.45, 'duration': 1.74}
+{'text': 'while we were doing\nthe opening of the show', 'start': 5595.19, 'duration': 2.93}
+{'text': 'and had to fire the entire staff\nand had a staff of two people.', 'start': 5598.12, 'duration': 3.11}
+{'text': 'So they had literally\nbrand new computers,', 'start': 5601.23, 'duration': 3.04}
+{'text': 'state-of-the-art everything.', 'start': 5604.27, 'duration': 1.89}
+{'text': 'But of course, the city gives\nno money to actual operating', 'start': 5606.16, 'duration': 2.49}
+{'text': 'expenses, but they\npat themselves', 'start': 5608.65, 'duration': 2.22}
+{'text': 'on the back for helping\nthis civic organization.', 'start': 5610.87, 'duration': 2.947}
+{'text': 'But of course, they got no\nfunding for this organization', 'start': 5613.817, 'duration': 2.333}
+{'text': 'on the operating level.', 'start': 5616.15, 'duration': 2.55}
+{'text': 'But it seemed to me it was\nalmost this structural racism.', 'start': 5618.7, 'duration': 3.39}
+{'text': 'In certain kind of\nhyper-developed moments,', 'start': 5622.09, 'duration': 5.07}
+{'text': 'you have-- to have\na certain kind of--', 'start': 5627.16, 'duration': 3.27}
+{'text': "I don't know what it is.", 'start': 5630.43, 'duration': 2.45}
+{'text': 'It felt like that Waiting\nfor Godot project,', 'start': 5632.88, 'duration': 2.1}
+{'text': 'like you almost have to have an\nalmost epic, existential sense', 'start': 5634.98, 'duration': 4.38}
+{'text': 'of like irony and\ntragedy at the same time,', 'start': 5639.36, 'duration': 3.78}
+{'text': 'because it is hard to confront\nthat kind of shit, man,', 'start': 5643.14, 'duration': 2.79}
+{'text': 'in the neighborhoods.', 'start': 5645.93, 'duration': 2.82}
+{'text': 'The mayors, nobody in the\ncity can stand up to it.', 'start': 5648.75, 'duration': 3.0}
+{'text': "The mayor can't.", 'start': 5651.75, 'duration': 1.29}
+{'text': 'De Blasio runs on\na platform of like,', 'start': 5653.04, 'duration': 2.46}
+{'text': "we're going to stop\nthe developers.", 'start': 5655.5, 'duration': 1.47}
+{'text': 'You see how that went.', 'start': 5656.97, 'duration': 1.45}
+{'text': 'So I just think when\nan arts organization--', 'start': 5658.42, 'duration': 3.47}
+{'text': "it's a tough thing.", 'start': 5661.89, 'duration': 1.09}
+{'text': "And I also don't want to\nlie to ourselves about it", 'start': 5662.98, 'duration': 2.66}
+{'text': 'in certain places.', 'start': 5665.64, 'duration': 1.17}
+{'text': 'When I worked in North Adams,\nthey wanted gentrification', 'start': 5666.81, 'duration': 2.7}
+{'text': 'and still do.', 'start': 5669.51, 'duration': 1.59}
+{'text': "They're like, hey, I\nwould take any business.", 'start': 5671.1, 'duration': 2.76}
+{'text': "And it's a different narrative.", 'start': 5673.86, 'duration': 1.314}
+{'text': "So I do think it's\nimportant to be", 'start': 5675.174, 'duration': 1.416}
+{'text': 'contextual about the\npolitical economy fights', 'start': 5676.59, 'duration': 2.43}
+{'text': "that you're dealing with.", 'start': 5679.02, 'duration': 2.01}
+{'text': "And it's tough for me too\nbecause with Creative Time,", 'start': 5681.03, 'duration': 3.226}
+{'text': 'you want to address\nthese issues.', 'start': 5684.256, 'duration': 1.374}
+{'text': 'But sometimes I do\nthe math in my head,', 'start': 5685.63, 'duration': 3.48}
+{'text': "and there's some really bad\nmath that's coming down.", 'start': 5689.11, 'duration': 2.64}
+{'text': 'You know?', 'start': 5691.75, 'duration': 1.13}
+{'text': 'Yeah, sometimes I tell the\nresidents in the area--', 'start': 5692.88, 'duration': 3.37}
+{'text': "I'm like, it's going to happen.", 'start': 5696.25, 'duration': 3.0}
+{'text': "It's going to happen.", 'start': 5699.25, 'duration': 2.05}
+{'text': "They're going to come in here,\nand you're going to be gone.", 'start': 5701.3, 'duration': 3.65}
+{'text': 'This is life.', 'start': 5704.95, 'duration': 1.17}
+{'text': "Life isn't fair.", 'start': 5706.12, 'duration': 1.42}
+{'text': 'This is truth.', 'start': 5707.54, 'duration': 1.1}
+{'text': 'So what we do is we shine\na light, the brightest', 'start': 5708.64, 'duration': 3.24}
+{'text': "light we can, for as\nlong as you're here.", 'start': 5711.88, 'duration': 3.36}
+{'text': "And that's all we can do.", 'start': 5715.24, 'duration': 2.219}
+{'text': "So we're a bit over time.", 'start': 5717.459, 'duration': 1.041}
+{'text': 'But I just wanted to\nask one last question', 'start': 5718.5, 'duration': 5.92}
+{'text': 'to do with your book, which\nis dealing with these very', 'start': 5724.42, 'duration': 4.21}
+{'text': 'hot topics of the way that\nculture is almost at war', 'start': 5728.63, 'duration': 4.47}
+{'text': 'with us and our\nsociety and being', 'start': 5733.1, 'duration': 4.59}
+{'text': 'used as a tool of propaganda.', 'start': 5737.69, 'duration': 2.73}
+{'text': 'And at the same time,\nthere are these forces', 'start': 5740.42, 'duration': 3.45}
+{'text': 'that are trying to use\nculture for liberation.', 'start': 5743.87, 'duration': 4.22}
+{'text': "And it's striking\nin your talking", 'start': 5748.09, 'duration': 4.9}
+{'text': 'about the curatorial\nwork at Creative Time.', 'start': 5752.99, 'duration': 4.58}
+{'text': 'One would think that as a\nsocial-political activist,', 'start': 5757.57, 'duration': 4.45}
+{'text': 'you would be doing more\nconfrontational work,', 'start': 5762.02, 'duration': 4.2}
+{'text': 'or trying to promote\nmore provocations.', 'start': 5766.22, 'duration': 4.607}
+{'text': "But actually, the way that\nyou're talking about it", 'start': 5770.827, 'duration': 2.083}
+{'text': 'sounds more like community\nbuilding and mediation', 'start': 5772.91, 'duration': 5.94}
+{'text': 'or softening the\neffect of cultures.', 'start': 5778.85, 'duration': 3.44}
+{'text': 'So can you talk about that?', 'start': 5782.29, 'duration': 2.604}
+{'text': 'Well, first of\nall, I got to say--', 'start': 5784.894, 'duration': 1.416}
+{'text': 'Bernie Sanders almost won.', 'start': 5786.31, 'duration': 1.81}
+{'text': "And there's no Bernie\nSanders without Occupy Wall", 'start': 5788.12, 'duration': 4.092}
+{'text': "There's no Bernie Sanders\nwithout Black Lives Matter.", 'start': 5792.212, 'duration': 2.208}
+{'text': "There's no Bernie Sanders\nwithout Standing Rock.", 'start': 5794.42, 'duration': 2.0}
+{'text': "So just to say, when people\nsay social movements don't", 'start': 5796.42, 'duration': 2.34}
+{'text': 'have impact, they totally do.', 'start': 5798.76, 'duration': 1.41}
+{'text': 'And when people\nsay, oh, what did', 'start': 5800.17, 'duration': 2.88}
+{'text': 'the artists relate to social\nmovements, everybody--', 'start': 5803.05, 'duration': 3.93}
+{'text': "it's all cultural producers\nin these things now.", 'start': 5806.98, 'duration': 2.64}
+{'text': 'Culture-making and social\nmovements are very ingrained.', 'start': 5809.62, 'duration': 2.69}
+{'text': 'And I say that to go to\nyour point, because I do', 'start': 5812.31, 'duration': 3.22}
+{'text': 'think the slow work\nof social building', 'start': 5815.53, 'duration': 2.34}
+{'text': 'and social producing\nalternative visions of a future', 'start': 5817.87, 'duration': 5.16}
+{'text': 'is having effects.', 'start': 5823.03, 'duration': 1.62}
+{'text': 'Like, I see it in the\npolitical discourse', 'start': 5824.65, 'duration': 2.88}
+{'text': 'that we are experiencing today.', 'start': 5827.53, 'duration': 2.28}
+{'text': "As much as Trump's\nin office, there", 'start': 5829.81, 'duration': 1.88}
+{'text': 'is also a very\nprogressive challenge', 'start': 5831.69, 'duration': 3.01}
+{'text': 'to overarching\nneoliberal capital that', 'start': 5834.7, 'duration': 2.43}
+{'text': 'is being articulated globally in\ncountry to country to country.', 'start': 5837.13, 'duration': 4.08}
+{'text': "And it's well long overdue.", 'start': 5841.21, 'duration': 2.29}
+{'text': "But I think it's important\nin these moments with Trump", 'start': 5843.5, 'duration': 2.33}
+{'text': 'there to remind ourselves\nof some progress.', 'start': 5845.83, 'duration': 5.31}
+{'text': "Whatever you feel about\nBernie, I'm just saying,", 'start': 5851.14, 'duration': 2.01}
+{'text': 'there is a vision that is\nmuch more specifically talking', 'start': 5853.15, 'duration': 2.67}
+{'text': 'about capitalism, that says\nthe word "socialism," that', 'start': 5855.82, 'duration': 3.09}
+{'text': 'talks about an ability to combat\nflagrant speculative money', 'start': 5858.91, 'duration': 5.4}
+{'text': 'running the world.', 'start': 5864.31, 'duration': 1.32}
+{'text': 'That is being articulated\nin a very profound way.', 'start': 5865.63, 'duration': 3.07}
+{'text': 'And I do credit a\nlot of this culture,', 'start': 5868.7, 'duration': 2.76}
+{'text': 'socially-engaged\ndo-gooder stuff as a part', 'start': 5871.46, 'duration': 3.11}
+{'text': 'of the ecosystem\nthat is producing', 'start': 5874.57, 'duration': 2.34}
+{'text': 'a global collective\nsubjectivity.', 'start': 5876.91, 'duration': 1.98}
+{'text': 'That is out there.', 'start': 5878.89, 'duration': 1.08}
+{'text': "So I think it's OK.", 'start': 5879.97, 'duration': 3.25}
+{'text': 'Jeff Chang wrote this\nreally great book.', 'start': 5883.22, 'duration': 1.86}
+{'text': "I forget what it's called, it's\nlike Who We Be or something.", 'start': 5885.08, 'duration': 3.92}
+{'text': 'But he talked about\nculture-making being part', 'start': 5889.0, 'duration': 2.56}
+{'text': 'of a wave.', 'start': 5891.56, 'duration': 1.29}
+{'text': 'And no water molecule see\nhow it plays in the wave.', 'start': 5892.85, 'duration': 3.84}
+{'text': 'Right?', 'start': 5896.69, 'duration': 0.87}
+{'text': 'But we are all part\nof a bigger push.', 'start': 5897.56, 'duration': 2.64}
+{'text': "And it's slower than\ndirect push sometimes.", 'start': 5900.2, 'duration': 2.76}
+{'text': "And I think that's\nOK, because I feel it.", 'start': 5902.96, 'duration': 1.86}
+{'text': 'I feel it.', 'start': 5904.82, 'duration': 1.486}
+{'text': 'I feel it.', 'start': 5906.306, 'duration': 1.124}
+{'text': 'I feel it in everything.', 'start': 5907.43, 'duration': 3.07}
+{'text': "I think it's good to\nhave moments of hope,", 'start': 5910.5, 'duration': 1.98}
+{'text': "because right now,\nI think we're all", 'start': 5912.48, 'duration': 1.5}
+{'text': "realizing this dude's literally\nin office for a while.", 'start': 5913.98, 'duration': 3.684}
+{'text': '[LAUGHS]', 'start': 5917.664, 'duration': 1.728}
+{'text': 'All right.', 'start': 5919.392, 'duration': 1.188}
+{'text': 'On that note--', 'start': 5920.58, 'duration': 0.6}
+{'text': '[LAUGHTER]', 'start': 5921.18, 'duration': 2.52}
+{'text': 'Thanks.', 'start': 5923.7, 'duration': 0.99}
+{'text': 'Thank you, Nato.', 'start': 5924.69, 'duration': 0.87}
+{'text': '[APPLAUSE]', 'start': 5925.56, 'duration': 2.45}

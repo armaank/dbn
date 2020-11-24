@@ -1,0 +1,1470 @@
+{'text': 'I practice people large in Australia', 'start': 2.57, 'duration': 42.629}
+{'text': 'Asia Europe and America I look at the', 'start': 39.829, 'duration': 9.831}
+{'text': "site technology there that's kind of the", 'start': 45.199, 'duration': 4.461}
+{'text': 'little bit about the side projects I do', 'start': 50.41, 'duration': 4.09}
+{'text': "and there's the main thing I'm going to", 'start': 53.39, 'duration': 3.149}
+{'text': 'talk about which is of course the', 'start': 54.5, 'duration': 7.05}
+{'text': "offworld architecture besides that I've", 'start': 56.539, 'duration': 9.481}
+{'text': 'also been teaching in a few places puts', 'start': 61.55, 'duration': 17.58}
+{'text': "in in practice and I've also been", 'start': 66.02, 'duration': 16.139}
+{'text': 'involved with for many years and now the', 'start': 79.13, 'duration': 6.15}
+{'text': 'director of geometry which is this kind', 'start': 82.159, 'duration': 5.82}
+{'text': 'of group of people computational design', 'start': 85.28, 'duration': 5.22}
+{'text': 'people from lots of different practices', 'start': 87.979, 'duration': 11.901}
+{'text': 'different two years 10 workshops', 'start': 90.5, 'duration': 14.67}
+{'text': 'parallel over a period of six days is', 'start': 99.88, 'duration': 6.849}
+{'text': 'this kind of place that really is in', 'start': 105.17, 'duration': 8.85}
+{'text': 'between academia and practice talk about', 'start': 106.729, 'duration': 9.631}
+{'text': 'today really started quite a few years', 'start': 114.02, 'duration': 4.529}
+{'text': 'ago I would say exactly and smart', 'start': 116.36, 'duration': 6.06}
+{'text': 'geometry I think it was like 2004 and we', 'start': 118.549, 'duration': 6.121}
+{'text': 'had a smart geometry in mostly', 'start': 122.42, 'duration': 5.159}
+{'text': 'University in Canada and I really want', 'start': 124.67, 'duration': 5.1}
+{'text': "to show this slide because there's a few", 'start': 127.579, 'duration': 5.761}
+{'text': 'from Amtech on that slide as well as you', 'start': 129.77, 'duration': 8.94}
+{'text': 'might recognize who they are it was a', 'start': 133.34, 'duration': 8.97}
+{'text': 'great year for the Beasley nari I him', 'start': 138.71, 'duration': 5.63}
+{'text': 'Andrew', 'start': 142.31, 'duration': 5.73}
+{'text': 'and this was like early days of pretty', 'start': 144.34, 'duration': 5.74}
+{'text': 'much it modeling right this is the days', 'start': 148.04, 'duration': 6.53}
+{'text': 'when we were using chains of components', 'start': 150.08, 'duration': 4.49}
+{'text': 'fighting because we actually got changed', 'start': 159.85, 'duration': 5.56}
+{'text': 'and rewritten overnight', 'start': 163.49, 'duration': 5.22}
+{'text': "we're doing that I could probably give a", 'start': 165.41, 'duration': 4.74}
+{'text': 'whole lecture about that kind of stuff', 'start': 168.71, 'duration': 3.27}
+{'text': "but I'm not going to do it today I'm", 'start': 170.15, 'duration': 3.93}
+{'text': 'gonna talk about the fact that I founded', 'start': 171.98, 'duration': 5.31}
+{'text': 'a basement of Waterloo University this', 'start': 174.08, 'duration': 5.85}
+{'text': 'machine 2004 that was the first 3d', 'start': 177.29, 'duration': 4.62}
+{'text': 'printer I saw with my own eyes prior', 'start': 179.93, 'duration': 4.44}
+{'text': 'start working we actually was super', 'start': 181.91, 'duration': 3.93}
+{'text': 'excited about it we could use that', 'start': 184.37, 'duration': 4.08}
+{'text': 'technology this was like a secret', 'start': 185.84, 'duration': 7.29}
+{'text': 'machine hard to get the participants of', 'start': 188.45, 'duration': 7.65}
+{'text': 'this module tree workshop to get them', 'start': 193.13, 'duration': 5.1}
+{'text': 'all 3d printed and it was kind of like', 'start': 196.1, 'duration': 6.59}
+{'text': 'magic I thought back then but of course', 'start': 198.23, 'duration': 6.66}
+{'text': 'and from these machines you see them', 'start': 202.69, 'duration': 4.15}
+{'text': 'building stuff layer by layer magically', 'start': 204.89, 'duration': 4.71}
+{'text': "and you think well you know I won't do", 'start': 206.84, 'duration': 5.34}
+{'text': 'this for real I wanna do this a real', 'start': 209.6, 'duration': 4.65}
+{'text': "scale why can't do architecture like", 'start': 212.18, 'duration': 5.49}
+{'text': 'that one to one and it was a bit of a', 'start': 214.25, 'duration': 6.03}
+{'text': 'dream but that dream kind of became', 'start': 217.67, 'duration': 6.99}
+{'text': 'reality I met this guy which is on the', 'start': 220.28, 'duration': 9.33}
+{'text': 'left he was at that point I think it was', 'start': 224.66, 'duration': 6.72}
+{'text': "a senior lecturer or professor I'm not", 'start': 229.61, 'duration': 5.79}
+{'text': 'sure at love University background was', 'start': 231.38, 'duration': 7.13}
+{'text': 'engineering it was really interested in', 'start': 235.4, 'duration': 5.85}
+{'text': "building physics and he's standing there", 'start': 238.51, 'duration': 6.46}
+{'text': 'in actually a scaled up version of a', 'start': 241.25, 'duration': 6.84}
+{'text': 'part of a termite mound but because he', 'start': 244.97, 'duration': 5.489}
+{'text': 'was really interested in starting to', 'start': 248.09, 'duration': 5.16}
+{'text': 'understand how termite mounds really', 'start': 250.459, 'duration': 5.941}
+{'text': 'operated how the air circulated around', 'start': 253.25, 'duration': 3.639}
+{'text': 'the', 'start': 256.4, 'duration': 2.41}
+{'text': 'how they controls the internal', 'start': 256.889, 'duration': 6.631}
+{'text': 'environments and he had some money from', 'start': 258.81, 'duration': 8.24}
+{'text': 'I think it was an EPS or Sea Grant and', 'start': 263.52, 'duration': 6.66}
+{'text': 'the idea about the grant was to really', 'start': 267.05, 'duration': 6.54}
+{'text': 'start to understand how termite mounds', 'start': 270.18, 'duration': 10.53}
+{'text': 'operated but nobody really the most', 'start': 273.59, 'duration': 9.46}
+{'text': 'researchers did actually kick a hole in', 'start': 280.71, 'duration': 4.739}
+{'text': 'it and kind of see what the internal', 'start': 283.05, 'duration': 12.209}
+{'text': 'structure was but nobody actually poured', 'start': 285.449, 'duration': 16.051}
+{'text': 'it full of plaster too full of plaster', 'start': 295.259, 'duration': 10.59}
+{'text': 'to start to understand what that the', 'start': 301.5, 'duration': 9.87}
+{'text': 'internal structure is I think now once', 'start': 305.849, 'duration': 8.04}
+{'text': 'you get this kind of blast the thing it', 'start': 311.37, 'duration': 5.34}
+{'text': "still can't do much with it difficult to", 'start': 313.889, 'duration': 6.721}
+{'text': 'scan so the next thing they did is they', 'start': 316.71, 'duration': 6.179}
+{'text': 'build this massive rig which is see on', 'start': 320.61, 'duration': 4.919}
+{'text': 'the left-hand side you can see these', 'start': 322.889, 'duration': 7.161}
+{'text': 'were structure engineers designing this', 'start': 325.529, 'duration': 4.521}
+{'text': 'plaster into this termite mounds and', 'start': 332.629, 'duration': 5.5}
+{'text': 'then they had a big grinder which is the', 'start': 335.279, 'duration': 6.0}
+{'text': 'big red thing that grinded it off layer', 'start': 338.129, 'duration': 6.21}
+{'text': 'by layer and then every centimeter they', 'start': 341.279, 'duration': 4.41}
+{'text': 'took a picture on the right hand side', 'start': 344.339, 'duration': 5.431}
+{'text': 'and that way they were able to build up', 'start': 345.689, 'duration': 8.431}
+{'text': 'layer by layer this digital model the', 'start': 349.77, 'duration': 7.019}
+{'text': 'great research project interesting', 'start': 354.12, 'duration': 5.219}
+{'text': 'outcomes and they brought the whole rig', 'start': 356.789, 'duration': 6.75}
+{'text': 'with them back to LA River City and then', 'start': 359.339, 'duration': 6.45}
+{'text': 'when they had the genius idea to reverse', 'start': 363.539, 'duration': 5.55}
+{'text': "the process but what don't we instead of", 'start': 365.789, 'duration': 6.511}
+{'text': 'kind of slicing it off and demolishing', 'start': 369.089, 'duration': 5.461}
+{'text': 'that thing layer by layer whatever the', 'start': 372.3, 'duration': 4.25}
+{'text': 'opposite and start to think about', 'start': 374.55, 'duration': 5.31}
+{'text': 'building something layer by layer so the', 'start': 376.55, 'duration': 6.609}
+{'text': 'big kind of on the left-hand side was', 'start': 379.86, 'duration': 7.619}
+{'text': 'really the first big large scale 3d', 'start': 383.159, 'duration': 6.201}
+{'text': 'printer in the world', 'start': 387.479, 'duration': 5.161}
+{'text': 'and it ended up being a research project', 'start': 389.36, 'duration': 5.41}
+{'text': 'between foster partners when I was at', 'start': 392.64, 'duration': 4.49}
+{'text': 'the time together with your apples and', 'start': 394.77, 'duration': 6.45}
+{'text': 'lovely diversity remember this kind of', 'start': 397.13, 'duration': 7.12}
+{'text': 'conversation we had with them what', 'start': 401.22, 'duration': 6.18}
+{'text': 'material are we gonna use and we came up', 'start': 404.25, 'duration': 5.51}
+{'text': 'with this kind of very big decision', 'start': 407.4, 'duration': 10.05}
+{'text': 'concrete because there was a very quick', 'start': 409.76, 'duration': 9.94}
+{'text': 'decision I thought maybe she thought', 'start': 417.45, 'duration': 10.53}
+{'text': 'about a bit longer system the next', 'start': 419.7, 'duration': 15.12}
+{'text': 'generation we use robotic arm to do it', 'start': 427.98, 'duration': 10.67}
+{'text': 'and I think that was really the first', 'start': 434.82, 'duration': 8.25}
+{'text': 'the first ever 3d printed concrete piece', 'start': 438.65, 'duration': 6.1}
+{'text': 'of architecture it was kind of a wall', 'start': 443.07, 'duration': 8.91}
+{'text': 'type thing that was that lots of', 'start': 444.75, 'duration': 9.66}
+{'text': 'companies universities start to kind of', 'start': 451.98, 'duration': 6.39}
+{'text': 'do this stuff putting concrete printer', 'start': 454.41, 'duration': 7.41}
+{'text': 'on a rig on a robotic arm you know there', 'start': 458.37, 'duration': 4.89}
+{'text': 'was a big China', 'start': 461.82, 'duration': 5.52}
+{'text': "Winston doing it there's extreme in in", 'start': 463.26, 'duration': 6.72}
+{'text': 'France doing it lots and lots of', 'start': 467.34, 'duration': 5.73}
+{'text': 'companies doing that and but I always', 'start': 469.98, 'duration': 5.82}
+{'text': 'kind of questioned the output what is', 'start': 473.07, 'duration': 3.78}
+{'text': 'happening with that this is gonna', 'start': 475.8, 'duration': 3.63}
+{'text': 'winters first idea of what you can', 'start': 476.85, 'duration': 6.3}
+{'text': "accomplish with your houses I think it's", 'start': 479.43, 'duration': 8.58}
+{'text': "slightly better I still think there's", 'start': 483.15, 'duration': 9.42}
+{'text': 'like massive limitations to it in the', 'start': 488.01, 'duration': 7.14}
+{'text': 'end most of these companies - is the', 'start': 492.57, 'duration': 6.87}
+{'text': 'Friends of concrete concrete is a', 'start': 495.15, 'duration': 6.09}
+{'text': 'concrete wall is never just a concrete', 'start': 499.44, 'duration': 5.34}
+{'text': "wall it's always a combination of rebars", 'start': 501.24, 'duration': 5.109}
+{'text': 'right', 'start': 504.78, 'duration': 4.479}
+{'text': 'if you want to take up any anything else', 'start': 506.349, 'duration': 6.961}
+{'text': 'then if you want to take up attention in', 'start': 509.259, 'duration': 5.4}
+{'text': "your structures you're gonna need", 'start': 513.31, 'duration': 3.149}
+{'text': "concrete you're gonna need steel right", 'start': 514.659, 'duration': 3.75}
+{'text': "you can't just do it with concrete on", 'start': 516.459, 'duration': 5.7}
+{'text': 'its own for me just using concrete to', 'start': 518.409, 'duration': 7.261}
+{'text': 'print with you call it that much for', 'start': 522.159, 'duration': 5.3}
+{'text': 'that you can build some walls but I', 'start': 525.67, 'duration': 5.25}
+{'text': 'think the efficiency of two blokes with', 'start': 527.459, 'duration': 6.13}
+{'text': 'some breezeblocks is really hard to beat', 'start': 530.92, 'duration': 6.24}
+{'text': 'I think right so is it really the right', 'start': 533.589, 'duration': 5.94}
+{'text': 'what do we what the question is what do', 'start': 537.16, 'duration': 4.26}
+{'text': 'we really do with this technology I', 'start': 539.529, 'duration': 4.74}
+{'text': 'always ask myself because really what', 'start': 541.42, 'duration': 5.419}
+{'text': 'you can do with it is create', 'start': 544.269, 'duration': 6.3}
+{'text': "compression-only structures right it's", 'start': 546.839, 'duration': 7.42}
+{'text': 'really well in compression if we start', 'start': 550.569, 'duration': 6.0}
+{'text': 'thinking compression only structures', 'start': 554.259, 'duration': 3.991}
+{'text': 'well you know I immediately think of the', 'start': 556.569, 'duration': 4.681}
+{'text': "arena's work what Phillip blog does and", 'start': 558.25, 'duration': 4.8}
+{'text': 'his block research group this is the', 'start': 561.25, 'duration': 4.519}
+{'text': 'Venice Biennale of course where you have', 'start': 563.05, 'duration': 5.61}
+{'text': 'compression only structures rebuke shell', 'start': 565.769, 'duration': 6.481}
+{'text': "structures and that's really the kind of", 'start': 568.66, 'duration': 7.71}
+{'text': "application that I've been using now 3d", 'start': 572.25, 'duration': 6.459}
+{'text': 'printing for in quite a different', 'start': 576.37, 'duration': 5.76}
+{'text': 'location and which is Mars and is the', 'start': 578.709, 'duration': 6.601}
+{'text': "first I'll be talking about for the rest", 'start': 582.13, 'duration': 6.449}
+{'text': 'of the evening is about this project and', 'start': 585.31, 'duration': 6.75}
+{'text': "how we've created this 3d printed shell", 'start': 588.579, 'duration': 7.32}
+{'text': "structure but I don't talk about this", 'start': 592.06, 'duration': 5.279}
+{'text': "reprinting part of it it's just only", 'start': 595.899, 'duration': 3.451}
+{'text': "like a small part of it I actually won't", 'start': 597.339, 'duration': 4.8}
+{'text': 'talk about how you redesign something', 'start': 599.35, 'duration': 6.95}
+{'text': 'for a completely different environment', 'start': 602.139, 'duration': 6.841}
+{'text': 'this project was part of a competition', 'start': 606.3, 'duration': 6.88}
+{'text': 'competition organised by NASA so nASA', 'start': 608.98, 'duration': 8.339}
+{'text': "has this funding model that's called the", 'start': 613.18, 'duration': 8.55}
+{'text': 'Centennial Challenges they were set up I', 'start': 617.319, 'duration': 6.901}
+{'text': 'think about eight years ago and the idea', 'start': 621.73, 'duration': 4.74}
+{'text': 'about the Centennial Challenges is that', 'start': 624.22, 'duration': 4.83}
+{'text': 'they try to bring in different types of', 'start': 626.47, 'duration': 6.539}
+{'text': 'industry different types of universities', 'start': 629.05, 'duration': 6.899}
+{'text': 'into the space development world right', 'start': 633.009, 'duration': 4.961}
+{'text': "so they don't just want to work", 'start': 635.949, 'duration': 3.37}
+{'text': 'for the bowings and the Lockheed', 'start': 637.97, 'duration': 3.539}
+{'text': "Martin's they want to see is there other", 'start': 639.319, 'duration': 5.54}
+{'text': 'industries that can really help us', 'start': 641.509, 'duration': 8.27}
+{'text': 'challenge the idea was can we 3d print', 'start': 644.859, 'duration': 10.93}
+{'text': 'Mars habitats that was the top line of', 'start': 649.779, 'duration': 11.11}
+{'text': "this competition so how'd you start like", 'start': 655.789, 'duration': 7.62}
+{'text': 'how do you start designing something for', 'start': 660.889, 'duration': 4.26}
+{'text': 'different planets you might think this', 'start': 663.409, 'duration': 4.08}
+{'text': 'is this must be like a really technical', 'start': 665.149, 'duration': 6.59}
+{'text': 'thing examples we have this is it right', 'start': 667.489, 'duration': 9.18}
+{'text': 'in space station the ISS highly highly', 'start': 671.739, 'duration': 8.71}
+{'text': 'engineered project for the one of the', 'start': 676.669, 'duration': 5.91}
+{'text': 'most expensive objects ever made by', 'start': 680.449, 'duration': 10.41}
+{'text': 'humans skill do I have as an architect', 'start': 682.579, 'duration': 13.44}
+{'text': 'to come into this field all right but I', 'start': 690.859, 'duration': 6.96}
+{'text': "think I'm convinced myself pretty", 'start': 696.019, 'duration': 3.36}
+{'text': 'quickly that I do have a role to play', 'start': 697.819, 'duration': 4.08}
+{'text': 'well you just look at the inside of the', 'start': 699.379, 'duration': 6.42}
+{'text': 'ISS right so this is how engineers', 'start': 701.899, 'duration': 10.8}
+{'text': 'designed you to live here for six months', 'start': 705.799, 'duration': 10.95}
+{'text': 'or a year so I do think like design has', 'start': 712.699, 'duration': 7.32}
+{'text': 'a role to play right and I started', 'start': 716.749, 'duration': 7.35}
+{'text': 'looking in the history a little bit as', 'start': 720.019, 'duration': 11.76}
+{'text': 'well of space development and so and', 'start': 724.099, 'duration': 13.71}
+{'text': 'where were the designers involved the', 'start': 731.779, 'duration': 7.83}
+{'text': 'first architects or the first designer', 'start': 737.809, 'duration': 6.45}
+{'text': 'involved in space was Raymond Loewy all', 'start': 739.609, 'duration': 7.05}
+{'text': 'right and he was there and that was for', 'start': 744.259, 'duration': 4.711}
+{'text': "project let's find out so scarlet was", 'start': 746.659, 'duration': 8.28}
+{'text': "the first let's say habitat or the first", 'start': 748.97, 'duration': 7.889}
+{'text': 'space station orbital Space Station', 'start': 754.939, 'duration': 4.59}
+{'text': 'where astronauts were really inhabiting', 'start': 756.859, 'duration': 4.32}
+{'text': 'space they were there for weeks and', 'start': 759.529, 'duration': 3.9}
+{'text': 'months they were not just there for days', 'start': 761.179, 'duration': 4.251}
+{'text': 'but so', 'start': 763.429, 'duration': 4.911}
+{'text': 'they had to inhabit space the first time', 'start': 765.43, 'duration': 4.56}
+{'text': 'they brought designer in and that was', 'start': 768.34, 'duration': 3.89}
+{'text': 'the famous industrial American designer', 'start': 769.99, 'duration': 3.54}
+{'text': 'Raymond Loewy', 'start': 772.23, 'duration': 6.21}
+{'text': 'so he was brought onto onto the project', 'start': 773.53, 'duration': 8.49}
+{'text': 'now in the beginning they were very very', 'start': 778.44, 'duration': 7.0}
+{'text': 'skeptical about him coming in into this', 'start': 782.02, 'duration': 6.96}
+{'text': "team it's very kind of full of space", 'start': 785.44, 'duration': 9.96}
+{'text': 'engineers to do choose the collar or', 'start': 788.98, 'duration': 11.43}
+{'text': 'something which you did do we did a', 'start': 795.4, 'duration': 7.17}
+{'text': 'couple of other things which i think is', 'start': 800.41, 'duration': 4.59}
+{'text': 'quite interesting and the other things', 'start': 802.57, 'duration': 4.02}
+{'text': 'he did you most of them you see on this', 'start': 805.0, 'duration': 6.24}
+{'text': 'in this picture so the first thing he', 'start': 806.59, 'duration': 9.51}
+{'text': 'did was he put in a personal space for', 'start': 811.24, 'duration': 7.74}
+{'text': 'each of the astronauts you know Scarlett', 'start': 816.1, 'duration': 7.32}
+{'text': 'was a really big volume the engineer did', 'start': 818.98, 'duration': 8.61}
+{'text': 'not think the spaces did not need their', 'start': 823.42, 'duration': 6.84}
+{'text': 'own private space I think if you were', 'start': 827.59, 'duration': 4.26}
+{'text': 'there for months you do want that you', 'start': 830.26, 'duration': 2.64}
+{'text': "don't want to be with the same three", 'start': 831.85, 'duration': 1.53}
+{'text': 'people', 'start': 832.9, 'duration': 3.33}
+{'text': 'James face the whole time so he brought', 'start': 833.38, 'duration': 5.25}
+{'text': 'in a kind of a personal sleeping pod for', 'start': 836.23, 'duration': 8.07}
+{'text': 'each of the of the astronauts second', 'start': 838.63, 'duration': 7.59}
+{'text': 'thing and you can actually see it on the', 'start': 844.3, 'duration': 4.05}
+{'text': 'phone the picture is he designed the', 'start': 846.22, 'duration': 4.68}
+{'text': "table they might think wow okay it's", 'start': 848.35, 'duration': 6.74}
+{'text': "kind of cool table it's not shocking", 'start': 850.9, 'duration': 6.99}
+{'text': 'world-changing is it well if you look at', 'start': 855.09, 'duration': 6.49}
+{'text': 'the original design of of Skylab the', 'start': 857.89, 'duration': 5.99}
+{'text': 'engineers created these little little', 'start': 861.58, 'duration': 5.31}
+{'text': 'tablets that came from the sides of', 'start': 863.88, 'duration': 6.96}
+{'text': 'Skylab so there was one kind of', 'start': 866.89, 'duration': 6.48}
+{'text': "something like that so the Astros we're", 'start': 870.84, 'duration': 5.59}
+{'text': 'gonna have a meal and not being able to', 'start': 873.37, 'duration': 6.27}
+{'text': 'have a conversation but', 'start': 876.43, 'duration': 4.86}
+{'text': 'because for the engine it was the most', 'start': 879.64, 'duration': 2.88}
+{'text': 'awesome thing just have a little flappy', 'start': 881.29, 'duration': 3.9}
+{'text': 'thing from from the wall so that was the', 'start': 882.52, 'duration': 8.22}
+{'text': 'second thing he brought in the third', 'start': 885.19, 'duration': 7.44}
+{'text': 'thing I think is the most shocking thing', 'start': 890.74, 'duration': 4.44}
+{'text': 'after all is the thing you see in the', 'start': 892.63, 'duration': 6.45}
+{'text': "back and that's a window but in the", 'start': 895.18, 'duration': 7.47}
+{'text': 'original design of Skylab there was not', 'start': 899.08, 'duration': 6.15}
+{'text': 'going to be a window because the', 'start': 902.65, 'duration': 7.01}
+{'text': "engineers thought well that's really", 'start': 905.23, 'duration': 7.68}
+{'text': "risk no it's a risk we don't want to", 'start': 909.66, 'duration': 6.46}
+{'text': "take it's a weakness in the structure so", 'start': 912.91, 'duration': 5.91}
+{'text': "why don't we have our astronauts in this", 'start': 916.12, 'duration': 5.88}
+{'text': 'capsule go around earth for months that', 'start': 918.82, 'duration': 8.4}
+{'text': 'time and being able to see this and you', 'start': 922.0, 'duration': 7.11}
+{'text': 'might think well this is this is this is', 'start': 927.22, 'duration': 2.34}
+{'text': 'crazy', 'start': 929.11, 'duration': 7.59}
+{'text': "but of course now we're gonna make that", 'start': 929.56, 'duration': 10.26}
+{'text': 'mistake again because what that kind of', 'start': 936.7, 'duration': 6.21}
+{'text': 'did because so this is the the cupola in', 'start': 939.82, 'duration': 5.64}
+{'text': 'the International Space Station the', 'start': 942.91, 'duration': 5.67}
+{'text': 'cupola was designed it took 23 years', 'start': 945.46, 'duration': 8.97}
+{'text': 'from design to implementation and each', 'start': 948.58, 'duration': 10.73}
+{'text': "time taken out because it wasn't deemed", 'start': 954.43, 'duration': 11.3}
+{'text': 'necessary but because that thing came in', 'start': 959.31, 'duration': 10.39}
+{'text': 'actually people actually start to know', 'start': 965.73, 'duration': 10.24}
+{'text': 'yes more International Space Station was', 'start': 969.7, 'duration': 8.37}
+{'text': 'taking pictures taken in front of this', 'start': 975.97, 'duration': 5.49}
+{'text': 'cupola was playing his guitar in front', 'start': 978.07, 'duration': 6.0}
+{'text': 'of it and suddenly you know people got', 'start': 981.46, 'duration': 7.38}
+{'text': "more and more engaged with it and that's", 'start': 984.07, 'duration': 11.33}
+{'text': "indeed that that's Cooper back here", 'start': 988.84, 'duration': 6.56}
+{'text': "what's gonna read something but we're", 'start': 1003.75, 'duration': 7.81}
+{'text': 'gonna find it now anyway a second person', 'start': 1006.1, 'duration': 9.81}
+{'text': "I really admire is galina borisova we've", 'start': 1011.56, 'duration': 5.7}
+{'text': 'got the book here I was gonna read the', 'start': 1015.91, 'duration': 4.26}
+{'text': "quote if I'm not gonna find it anyway", 'start': 1017.26, 'duration': 7.67}
+{'text': 'she works for the Russian space agency', 'start': 1020.17, 'duration': 9.3}
+{'text': 'Roscosmos and she was the really only', 'start': 1024.93, 'duration': 6.73}
+{'text': 'architects Quaffle architect to ever', 'start': 1029.47, 'duration': 6.75}
+{'text': 'work for the space agency and I too', 'start': 1031.66, 'duration': 6.75}
+{'text': "loved the kind of drawings that she's", 'start': 1036.22, 'duration': 4.44}
+{'text': "done and the work she's done some of the", 'start': 1038.41, 'duration': 4.59}
+{'text': "work she's actually in an exhibition of", 'start': 1040.66, 'duration': 4.35}
+{'text': 'the moment in design museum you should', 'start': 1043.0, 'duration': 4.89}
+{'text': 'go and check that out so she works on', 'start': 1045.01, 'duration': 5.49}
+{'text': 'the interior for example of this one and', 'start': 1047.89, 'duration': 6.27}
+{'text': 'this is this was exhibited in the same a', 'start': 1050.5, 'duration': 5.88}
+{'text': 'few years ago so this was the Russian', 'start': 1054.16, 'duration': 5.28}
+{'text': 'moon lander that actually never flew so', 'start': 1056.38, 'duration': 7.14}
+{'text': 'the Russians also had their own this was', 'start': 1059.44, 'duration': 12.45}
+{'text': 'one designed for one actually works on', 'start': 1063.52, 'duration': 10.77}
+{'text': "the interior of that she'll support", 'start': 1071.89, 'duration': 7.07}
+{'text': 'material Soyuz and the interior of Mir', 'start': 1074.29, 'duration': 7.86}
+{'text': "it's just this kind of completely", 'start': 1078.96, 'duration': 8.62}
+{'text': 'different look at how a space for like', 'start': 1082.15, 'duration': 9.15}
+{'text': 'yeah why not have some wood veneer why', 'start': 1087.58, 'duration': 6.45}
+{'text': 'not look at it cause look at how things', 'start': 1091.3, 'duration': 5.79}
+{'text': 'are placed these are kind of for example', 'start': 1094.03, 'duration': 6.74}
+{'text': 'her drawings from the MIR Space Station', 'start': 1097.09, 'duration': 7.23}
+{'text': 'which i think is a sensitivity if you', 'start': 1100.77, 'duration': 5.08}
+{'text': 'could have look at the pure engineering', 'start': 1104.32, 'duration': 4.86}
+{'text': 'drawings and she had a hard time', 'start': 1105.85, 'duration': 5.67}
+{'text': 'actually placing herself with those', 'start': 1109.18, 'duration': 6.39}
+{'text': 'engineers because she had to decide', 'start': 1111.52, 'duration': 6.15}
+{'text': 'where everything go where economically', 'start': 1115.57, 'duration': 5.01}
+{'text': 'things went and this constant struggle', 'start': 1117.67, 'duration': 4.5}
+{'text': 'with the engineers who only were', 'start': 1120.58, 'duration': 3.96}
+{'text': 'thinking about their particular bit that', 'start': 1122.17, 'duration': 5.58}
+{'text': 'they did and she was the only one we', 'start': 1124.54, 'duration': 5.52}
+{'text': 'actually have an overall view over the', 'start': 1127.75, 'duration': 4.11}
+{'text': "whole project and that's what architects", 'start': 1130.06, 'duration': 3.59}
+{'text': 'do right we cannot specialist', 'start': 1131.86, 'duration': 3.98}
+{'text': 'anything but we kind of have an idea of', 'start': 1133.65, 'duration': 5.58}
+{'text': 'we were able to kind of think in more a', 'start': 1135.84, 'duration': 9.75}
+{'text': 'whole way around the project so go back', 'start': 1139.23, 'duration': 8.13}
+{'text': "to Mars that's these are kind of my", 'start': 1145.59, 'duration': 3.72}
+{'text': 'heroes all right designers in space', 'start': 1147.36, 'duration': 3.95}
+{'text': "let's go back to Mars", 'start': 1149.31, 'duration': 4.98}
+{'text': "what's the issue with Mars it's a big", 'start': 1151.31, 'duration': 8.44}
+{'text': 'issue with it right because first thing', 'start': 1154.29, 'duration': 8.49}
+{'text': 'is the distance that fixture that', 'start': 1159.75, 'duration': 5.7}
+{'text': 'drawing shows you the relative distance', 'start': 1162.78, 'duration': 4.74}
+{'text': 'the actual distance between Earth and', 'start': 1165.45, 'duration': 5.13}
+{'text': 'the moon and I think that takes about', 'start': 1167.52, 'duration': 7.38}
+{'text': "three days to get there it's actually", 'start': 1170.58, 'duration': 7.94}
+{'text': 'quite far that is roughly about 300,000', 'start': 1174.9, 'duration': 8.07}
+{'text': 'kilometers is only 300 or 400 kilometers', 'start': 1178.52, 'duration': 6.58}
+{'text': "away from the Earth's surface so that's", 'start': 1182.97, 'duration': 5.39}
+{'text': 'a thousand times that distance', 'start': 1185.1, 'duration': 3.26}
+{'text': '[Music]', 'start': 1189.35, 'duration': 7.66}
+{'text': 'interesting from Earth from if I take', 'start': 1191.03, 'duration': 7.3}
+{'text': 'the same picture from Mars', 'start': 1197.01, 'duration': 4.26}
+{'text': "I'll get that which is just a little dot", 'start': 1198.33, 'duration': 5.78}
+{'text': 'this is taken from the Curiosity rover', 'start': 1201.27, 'duration': 4.62}
+{'text': 'standing on Mars', 'start': 1204.11, 'duration': 8.11}
+{'text': 'tiny tiny speck in the sky now this is a', 'start': 1205.89, 'duration': 14.73}
+{'text': 'thousand times the distance did we get', 'start': 1212.22, 'duration': 11.79}
+{'text': 'there well the interesting thing about', 'start': 1220.62, 'duration': 6.3}
+{'text': 'designing something on another planet', 'start': 1224.01, 'duration': 4.77}
+{'text': 'the crucial thing is how you get stuff', 'start': 1226.92, 'duration': 3.81}
+{'text': "there right it's actually not very", 'start': 1228.78, 'duration': 3.45}
+{'text': 'different to when you when you think', 'start': 1230.73, 'duration': 2.91}
+{'text': 'about designing something on earth you', 'start': 1232.23, 'duration': 3.03}
+{'text': 'also need to think about how you can', 'start': 1233.64, 'duration': 4.23}
+{'text': "assemble it how it gets there it's", 'start': 1235.26, 'duration': 6.09}
+{'text': 'slightly more more crucial so this is we', 'start': 1237.87, 'duration': 5.61}
+{'text': 'work together with it with a crank', 'start': 1241.35, 'duration': 4.05}
+{'text': 'filter University the space engineering', 'start': 1243.48, 'duration': 5.13}
+{'text': 'course so this was kind of a sketch idea', 'start': 1245.4, 'duration': 6.06}
+{'text': "on how we're gonna get there so this is", 'start': 1248.61, 'duration': 9.15}
+{'text': 'our Mars transfer vehicle today yeah so', 'start': 1251.46, 'duration': 8.73}
+{'text': 'these are what is in here is a lander', 'start': 1257.76, 'duration': 5.51}
+{'text': 'with the cargo whatever that is can be', 'start': 1260.19, 'duration': 4.85}
+{'text': 'proposed the habitats', 'start': 1263.27, 'duration': 4.32}
+{'text': 'something like that but for these two', 'start': 1265.04, 'duration': 5.97}
+{'text': 'bids to get to Mars you need all this', 'start': 1267.59, 'duration': 6.81}
+{'text': "fuel because it's about a year to get", 'start': 1271.01, 'duration': 6.03}
+{'text': "there and that's the engine now to get", 'start': 1274.4, 'duration': 6.96}
+{'text': 'all that into space you need to have', 'start': 1277.04, 'duration': 7.08}
+{'text': 'each of these on a different launch', 'start': 1281.36, 'duration': 6.65}
+{'text': 'vehicle we actually worked it out', 'start': 1284.12, 'duration': 6.15}
+{'text': 'calculations patches bonded but you', 'start': 1288.01, 'duration': 4.21}
+{'text': 'really need to think about how many', 'start': 1290.27, 'duration': 4.59}
+{'text': 'launches you need to do from us into', 'start': 1292.22, 'duration': 6.83}
+{'text': 'Earth orbit and then you assemble your', 'start': 1294.86, 'duration': 7.77}
+{'text': 'vehicle which is this one and your cargo', 'start': 1299.05, 'duration': 6.28}
+{'text': "to go to Mars so I think it's heard so", 'start': 1302.63, 'duration': 5.37}
+{'text': 'for our project we were looking at about', 'start': 1305.33, 'duration': 5.19}
+{'text': '34 SLS launches which is the Space', 'start': 1308.0, 'duration': 5.85}
+{'text': 'Launch System which is a NASA rocket', 'start': 1310.52, 'duration': 6.75}
+{'text': 'which is in development so you need to', 'start': 1313.85, 'duration': 6.72}
+{'text': 'start thinking about that right so you', 'start': 1317.27, 'duration': 6.57}
+{'text': 'see the sheer difficulty to get', 'start': 1320.57, 'duration': 5.19}
+{'text': 'something to Mars it makes you think', 'start': 1323.84, 'duration': 3.99}
+{'text': 'well we really have to think about it', 'start': 1325.76, 'duration': 3.75}
+{'text': 'what we take with it that we take the', 'start': 1327.83, 'duration': 6.08}
+{'text': 'minimal amount of material possible', 'start': 1329.51, 'duration': 7.23}
+{'text': 'which gives you different way of', 'start': 1333.91, 'duration': 4.36}
+{'text': "thinking I think I'll shut in few other", 'start': 1336.74, 'duration': 4.11}
+{'text': 'slides is that although you might not', 'start': 1338.27, 'duration': 5.91}
+{'text': 'think this is a sustainable project the', 'start': 1340.85, 'duration': 5.73}
+{'text': 'way you think about it is you have to', 'start': 1344.18, 'duration': 5.19}
+{'text': 'think in a hyper sustainable way you', 'start': 1346.58, 'duration': 4.86}
+{'text': 'really have to think about recycling', 'start': 1349.37, 'duration': 6.56}
+{'text': 'remaking reusing in extreme way so', 'start': 1351.44, 'duration': 6.93}
+{'text': "there's kind of like a duality in that", 'start': 1355.93, 'duration': 3.88}
+{'text': "project right you know of course I'm", 'start': 1358.37, 'duration': 3.75}
+{'text': 'going to Mars not sustainable but the', 'start': 1359.81, 'duration': 6.35}
+{'text': 'way you think about it it has to be', 'start': 1362.12, 'duration': 4.04}
+{'text': "environmental factors right it's it", 'start': 1366.55, 'duration': 6.04}
+{'text': 'squash this is if you have a storm on', 'start': 1369.95, 'duration': 6.78}
+{'text': "Mars it's it's the whole planet and it", 'start': 1372.59, 'duration': 5.82}
+{'text': 'can last months these are two pictures', 'start': 1376.73, 'duration': 3.84}
+{'text': 'of Mars in two different dates and you', 'start': 1378.41, 'duration': 4.35}
+{'text': 'see this is a storm happening on Mars', 'start': 1380.57, 'duration': 8.03}
+{'text': 'very very fun dust the really kind of', 'start': 1382.76, 'duration': 11.13}
+{'text': 'driver for design project was radiation', 'start': 1388.6, 'duration': 9.17}
+{'text': 'so in space you have ready', 'start': 1393.89, 'duration': 7.39}
+{'text': 'cosmic radiation and which is gamma', 'start': 1397.77, 'duration': 6.45}
+{'text': 'radiation which is very radioactive the', 'start': 1401.28, 'duration': 4.529}
+{'text': 'great thing about being on the earth of', 'start': 1404.22, 'duration': 4.8}
+{'text': 'course is that we have magnetic fields', 'start': 1405.809, 'duration': 5.941}
+{'text': 'around our planet which makes that these', 'start': 1409.02, 'duration': 4.47}
+{'text': 'kind of gamma radiation gets deflected', 'start': 1411.75, 'duration': 4.679}
+{'text': 'most of it gets deflected from planets', 'start': 1413.49, 'duration': 4.77}
+{'text': 'which is a very good thing', 'start': 1416.429, 'duration': 3.811}
+{'text': "boom is where we get to Mars we don't", 'start': 1418.26, 'duration': 5.01}
+{'text': 'have that so you have that radiation', 'start': 1420.24, 'duration': 6.6}
+{'text': 'happening all the time on the planet and', 'start': 1423.27, 'duration': 5.58}
+{'text': "it's really dangerous for example when", 'start': 1426.84, 'duration': 3.15}
+{'text': 'there are solar flares when you get', 'start': 1428.85, 'duration': 4.2}
+{'text': 'solar flares the exposure of that thing', 'start': 1429.99, 'duration': 5.7}
+{'text': 'is about 50% chance that you will die', 'start': 1433.05, 'duration': 6.95}
+{'text': "within the first week right so it's it's", 'start': 1435.69, 'duration': 7.11}
+{'text': 'kind of protection so we need to think', 'start': 1440.0, 'duration': 6.36}
+{'text': "about how we're gonna protect ourselves", 'start': 1442.8, 'duration': 3.56}
+{'text': 'you know just that picture so kind of', 'start': 1453.23, 'duration': 4.77}
+{'text': 'people think like Mars seems to be quite', 'start': 1458.3, 'duration': 5.08}
+{'text': "warm it's very cold it's average I think", 'start': 1460.59, 'duration': 4.95}
+{'text': 'the warmest ever guess is about 20', 'start': 1463.38, 'duration': 5.82}
+{'text': "degrees Celsius - cause I think it's not", 'start': 1465.54, 'duration': 7.38}
+{'text': "- 50 roughly let's say average", 'start': 1469.2, 'duration': 6.24}
+{'text': "temperature was minus 60 that's about", 'start': 1472.92, 'duration': 5.97}
+{'text': "minus 60 day atmosphere it's also very", 'start': 1475.44, 'duration': 5.76}
+{'text': 'different the atmosphere is a hundred', 'start': 1478.89, 'duration': 6.48}
+{'text': "times less dense and it's mainly co2 at", 'start': 1481.2, 'duration': 6.3}
+{'text': 'least you have an atmosphere there so', 'start': 1485.37, 'duration': 4.74}
+{'text': "which is it's it's better than the moon", 'start': 1487.5, 'duration': 6.48}
+{'text': "where you don't have anything so that", 'start': 1490.11, 'duration': 5.76}
+{'text': 'kind of set out the environmental', 'start': 1493.98, 'duration': 6.0}
+{'text': 'parameters of this project so this was', 'start': 1495.87, 'duration': 7.26}
+{'text': 'kind of one of our sketches or one of', 'start': 1499.98, 'duration': 6.6}
+{'text': 'our drawings for the project that NASA', 'start': 1503.13, 'duration': 5.94}
+{'text': 'explains I think the different parts of', 'start': 1506.58, 'duration': 6.45}
+{'text': 'it right you have this kind of shell', 'start': 1509.07, 'duration': 6.06}
+{'text': "structure which is it's free princess", 'start': 1513.03, 'duration': 5.25}
+{'text': 'shell structure done with regolith', 'start': 1515.13, 'duration': 4.23}
+{'text': 'explain in a minute', 'start': 1518.28, 'duration': 2.97}
+{'text': "that's our protection shield right", 'start': 1519.36, 'duration': 7.04}
+{'text': 'against the radiation the needs we have', 'start': 1521.25, 'duration': 8.42}
+{'text': 'bunch of pods habitat pods which are', 'start': 1526.4, 'duration': 6.12}
+{'text': 'inflatables and inside we have the', 'start': 1529.67, 'duration': 5.22}
+{'text': "interior so that's kind of the main", 'start': 1532.52, 'duration': 9.0}
+{'text': 'structure of our habitat now often', 'start': 1534.89, 'duration': 8.82}
+{'text': 'people kind of look at science fiction', 'start': 1541.52, 'duration': 6.09}
+{'text': 'for to get inspiration or to get to look', 'start': 1543.71, 'duration': 7.23}
+{'text': 'at it kind of an analogue we did for', 'start': 1547.61, 'duration': 5.31}
+{'text': 'this one but I think about one thing', 'start': 1550.94, 'duration': 4.58}
+{'text': 'which I find was kind of an interesting', 'start': 1552.92, 'duration': 10.2}
+{'text': 'with these these also pioneers right the', 'start': 1555.52, 'duration': 11.65}
+{'text': 'game West in the u.s. also had to travel', 'start': 1563.12, 'duration': 6.41}
+{'text': 'light', 'start': 1567.17, 'duration': 2.36}
+{'text': 'when they finally arrived I had to kind', 'start': 1570.04, 'duration': 12.91}
+{'text': 'of do what they have because the log', 'start': 1574.34, 'duration': 11.01}
+{'text': 'cabin is it is a habitat that you can', 'start': 1582.95, 'duration': 9.06}
+{'text': 'make really very simple is basically', 'start': 1585.35, 'duration': 9.51}
+{'text': 'just tree trunks stacks on top of each', 'start': 1592.01, 'duration': 5.58}
+{'text': 'other but interesting quite simple into', 'start': 1594.86, 'duration': 4.47}
+{'text': 'looking mechanism so they just used', 'start': 1597.59, 'duration': 4.5}
+{'text': 'whatever was there in the land when they', 'start': 1599.33, 'duration': 5.88}
+{'text': 'arrived and then it was actually very', 'start': 1602.09, 'duration': 7.89}
+{'text': 'simple construction technique so what do', 'start': 1605.21, 'duration': 7.29}
+{'text': 'we have when we go to Mars well we turn', 'start': 1609.98, 'duration': 5.73}
+{'text': 'much this is kind of like taking a', 'start': 1612.5, 'duration': 7.19}
+{'text': 'picture from some tracks in the surface', 'start': 1615.71, 'duration': 6.75}
+{'text': 'regulates we have rocks and we have', 'start': 1619.69, 'duration': 6.82}
+{'text': 'Martian dust so what are we gonna do', 'start': 1622.46, 'duration': 8.65}
+{'text': 'with that well see this place', 'start': 1626.51, 'duration': 9.12}
+{'text': "yeah so we're thinking of creating our", 'start': 1631.11, 'duration': 7.799}
+{'text': 'shell structure our protection system by', 'start': 1635.63, 'duration': 7.87}
+{'text': '3d printing layer by layer this gel', 'start': 1638.909, 'duration': 6.721}
+{'text': 'structure right by using Martian', 'start': 1643.5, 'duration': 6.09}
+{'text': 'regulates Martian dust as you notice we', 'start': 1645.63, 'duration': 6.81}
+{'text': "don't have a big printer to do this we", 'start': 1649.59, 'duration': 5.189}
+{'text': 'really have just we have kind of small', 'start': 1652.44, 'duration': 5.4}
+{'text': 'printers or kind of a swarm of little', 'start': 1654.779, 'duration': 5.49}
+{'text': 'machines doing this let me just go into', 'start': 1657.84, 'duration': 12.87}
+{'text': 'that in a bit of detail so we have so we', 'start': 1660.269, 'duration': 14.91}
+{'text': 'have four different robots first one', 'start': 1670.71, 'duration': 6.5}
+{'text': 'goes and looks for the right regulates', 'start': 1675.179, 'duration': 5.1}
+{'text': 'the second one is the digger and that', 'start': 1677.21, 'duration': 6.069}
+{'text': 'goes and digs up the regulates the third', 'start': 1680.279, 'duration': 6.15}
+{'text': 'one is depositor brings a regulate to', 'start': 1683.279, 'duration': 4.801}
+{'text': 'your site to your construction sites and', 'start': 1686.429, 'duration': 3.901}
+{'text': 'the fourth one is the center or the', 'start': 1688.08, 'duration': 5.61}
+{'text': 'microwave robots then spent like that', 'start': 1690.33, 'duration': 5.63}
+{'text': "isn't it", 'start': 1693.69, 'duration': 2.27}
+{'text': 'that microwaves all the layers together', 'start': 1701.54, 'duration': 11.19}
+{'text': 'and that was our swarm of robots some of', 'start': 1705.34, 'duration': 9.49}
+{'text': 'them we made up the one the rides', 'start': 1712.73, 'duration': 6.9}
+{'text': 'actually did is wonderful by NASA was', 'start': 1714.83, 'duration': 7.23}
+{'text': "the the razor robot it's kind of an", 'start': 1719.63, 'duration': 3.81}
+{'text': 'interesting system because it actually', 'start': 1722.06, 'duration': 4.17}
+{'text': 'has these two drums that kind of digs', 'start': 1723.44, 'duration': 5.1}
+{'text': 'itself into the earth and starts', 'start': 1726.23, 'duration': 5.34}
+{'text': 'rotating and picking up the regulate the', 'start': 1728.54, 'duration': 6.3}
+{'text': "reason for that is that's a normal kind", 'start': 1731.57, 'duration': 7.23}
+{'text': 'of bigger machine that you would have on', 'start': 1734.84, 'duration': 8.7}
+{'text': 'earth but it just kind of digs up work', 'start': 1738.8, 'duration': 5.76}
+{'text': "slightly differently because they're", 'start': 1743.54, 'duration': 2.28}
+{'text': 'having machines in to use their own', 'start': 1744.56, 'duration': 2.9}
+{'text': 'weights to really kind of', 'start': 1745.82, 'duration': 6.96}
+{'text': 'action-reaction pick up dust so earth we', 'start': 1747.46, 'duration': 8.47}
+{'text': 'only have a third of gravity on Mars so', 'start': 1752.78, 'duration': 5.64}
+{'text': "we don't have that weight to actually", 'start': 1755.93, 'duration': 4.44}
+{'text': "dig so that's where we have that system", 'start': 1758.42, 'duration': 4.53}
+{'text': 'which has two drums that kind of counter', 'start': 1760.37, 'duration': 4.53}
+{'text': 'rotate and the whole thing actually kind', 'start': 1762.95, 'duration': 4.5}
+{'text': 'of digs itself into the earth once it', 'start': 1764.9, 'duration': 6.41}
+{'text': 'has everything he kind of transports it', 'start': 1767.45, 'duration': 3.86}
+{'text': 'this is the first renderings we got from', 'start': 1776.41, 'duration': 6.57}
+{'text': 'our visualization team and I noticed', 'start': 1779.09, 'duration': 7.47}
+{'text': 'this thing on the right-hand sides which', 'start': 1782.98, 'duration': 9.9}
+{'text': "are finished a job and there's kind of", 'start': 1786.56, 'duration': 9.71}
+{'text': 'graveyards of robots happening there', 'start': 1792.88, 'duration': 8.05}
+{'text': 'this is kind of wrong that was creating', 'start': 1796.27, 'duration': 6.46}
+{'text': 'the shell structure and never do', 'start': 1800.93, 'duration': 6.62}
+{'text': 'anything with them recycle reuse', 'start': 1802.73, 'duration': 8.43}
+{'text': 'whatever we bring there as and as much', 'start': 1807.55, 'duration': 6.43}
+{'text': 'as we can so I thought this is wrong', 'start': 1811.16, 'duration': 4.86}
+{'text': 'right so we went back to the drawing', 'start': 1813.98, 'duration': 2.43}
+{'text': 'board', 'start': 1816.02, 'duration': 2.79}
+{'text': 'and we actually kind of start to rethink', 'start': 1816.41, 'duration': 5.76}
+{'text': 'our robots and there might be less', 'start': 1818.81, 'duration': 6.33}
+{'text': 'optimum than the first generation but', 'start': 1822.17, 'duration': 4.879}
+{'text': 'this second generation', 'start': 1825.14, 'duration': 4.609}
+{'text': 'a set of robotic systems that is modular', 'start': 1827.049, 'duration': 6.811}
+{'text': 'and they use the same wheels the same', 'start': 1829.749, 'duration': 11.52}
+{'text': 'the same topology and the same job so', 'start': 1833.86, 'duration': 10.199}
+{'text': 'this is the one the one wheel one that', 'start': 1841.269, 'duration': 4.98}
+{'text': 'actually kind of goes out and looks for', 'start': 1844.059, 'duration': 4.771}
+{'text': 'the right regulate six wheels two', 'start': 1846.249, 'duration': 4.56}
+{'text': 'diggers you can make it bigger robot', 'start': 1848.83, 'duration': 5.78}
+{'text': 'again or we can make it into a', 'start': 1850.809, 'duration': 7.161}
+{'text': 'transporter or transporter then becomes', 'start': 1854.61, 'duration': 9.789}
+{'text': 'Center or stroke microwaving robots got', 'start': 1857.97, 'duration': 12.0}
+{'text': 'a seam here in the field working', 'start': 1864.399, 'duration': 5.571}
+{'text': 'comments from mechanical engineers on', 'start': 1870.419, 'duration': 7.32}
+{'text': 'this one wheel one which was quite funny', 'start': 1873.1, 'duration': 4.639}
+{'text': 'but funny enough when they kind of', 'start': 1881.039, 'duration': 5.651}
+{'text': 'looked at the video quite a bit more in', 'start': 1884.679, 'duration': 4.141}
+{'text': 'detail the one comedy always had was', 'start': 1886.69, 'duration': 4.049}
+{'text': 'that yeah but that yeah that much of the', 'start': 1888.82, 'duration': 4.799}
+{'text': 'thing yeah that might worked out so that', 'start': 1890.739, 'duration': 5.04}
+{'text': 'maybe bit of confidence to kind of that', 'start': 1893.619, 'duration': 4.951}
+{'text': 'we might be in for something it might', 'start': 1895.779, 'duration': 6.03}
+{'text': 'not be just one wheel one but I do', 'start': 1898.57, 'duration': 7.679}
+{'text': "believe somehow we won't do something", 'start': 1901.809, 'duration': 8.031}
+{'text': 'here so that is the the microwaving one', 'start': 1906.249, 'duration': 5.52}
+{'text': "no we didn't just invent this", 'start': 1909.84, 'duration': 3.73}
+{'text': 'microwaving thing yeah there are', 'start': 1911.769, 'duration': 4.59}
+{'text': 'actually the German Space Agency and', 'start': 1913.57, 'duration': 5.579}
+{'text': "there's another research group in Hawaii", 'start': 1916.359, 'duration': 5.731}
+{'text': "Price's who actually doing research into", 'start': 1919.149, 'duration': 6.36}
+{'text': 'microwaving resolves or kind of regular', 'start': 1922.09, 'duration': 8.37}
+{'text': 'type materials project we never kind of', 'start': 1925.509, 'duration': 6.211}
+{'text': "it's not what's nice fiction projects", 'start': 1930.46, 'duration': 4.02}
+{'text': 'right we looked at technology days out', 'start': 1931.72, 'duration': 5.01}
+{'text': "there there's been research and that we", 'start': 1934.48, 'duration': 4.59}
+{'text': 'hope that will be on point within the', 'start': 1936.73, 'duration': 3.0}
+{'text': 'next 10 years', 'start': 1939.07, 'duration': 4.439}
+{'text': 'so for that we kind of gathered existing', 'start': 1939.73, 'duration': 6.629}
+{'text': 'tech that we knew somehow this is', 'start': 1943.509, 'duration': 8.64}
+{'text': 'feasible to kind of show how the', 'start': 1946.359, 'duration': 8.841}
+{'text': "system's gonna go up and lower kind of", 'start': 1952.149, 'duration': 4.801}
+{'text': 'reconfiguring itself', 'start': 1955.2, 'duration': 3.359}
+{'text': 'into what', 'start': 1956.95, 'duration': 6.229}
+{'text': 'it needs to be put this one up because I', 'start': 1958.559, 'duration': 6.921}
+{'text': 'think it shows dude that I think our', 'start': 1963.179, 'duration': 7.051}
+{'text': 'robotics system is some quite unique I', 'start': 1965.48, 'duration': 6.819}
+{'text': "think because it's sits in between these", 'start': 1970.23, 'duration': 4.019}
+{'text': 'two extremes right they have on the', 'start': 1972.299, 'duration': 5.271}
+{'text': 'left-hand side these the Tesla factory', 'start': 1974.249, 'duration': 5.191}
+{'text': 'very effective', 'start': 1977.57, 'duration': 5.41}
+{'text': 'these robots very productive they do a', 'start': 1979.44, 'duration': 5.849}
+{'text': 'very specific task and did very well', 'start': 1982.98, 'duration': 5.25}
+{'text': 'over and over again for me is if one', 'start': 1985.289, 'duration': 5.911}
+{'text': 'robot fails in that production line we', 'start': 1988.23, 'duration': 8.549}
+{'text': 'have big problem robot immediately on', 'start': 1991.2, 'duration': 9.24}
+{'text': 'the right hand side is things profit is', 'start': 1996.779, 'duration': 8.61}
+{'text': 'some swarm robotics where you know you', 'start': 2000.44, 'duration': 7.5}
+{'text': 'can get rid of half of them the system', 'start': 2005.389, 'duration': 4.951}
+{'text': 'will still work but you do have to ask', 'start': 2007.94, 'duration': 4.89}
+{'text': 'yourself what kind of it actually', 'start': 2010.34, 'duration': 5.189}
+{'text': 'produces how effective is it in its', 'start': 2012.83, 'duration': 5.37}
+{'text': 'actually doing something and I think', 'start': 2015.529, 'duration': 6.0}
+{'text': "we're so in the middle where we do have", 'start': 2018.2, 'duration': 6.63}
+{'text': 'a system that is modular can behave as a', 'start': 2021.529, 'duration': 7.86}
+{'text': 'swarm but it still is quite pragmatic at', 'start': 2024.83, 'duration': 8.459}
+{'text': "the same time so we're kind of thinking", 'start': 2029.389, 'duration': 6.36}
+{'text': 'of actually developing that that idea', 'start': 2033.289, 'duration': 9.75}
+{'text': 'further in a few research projects our', 'start': 2035.749, 'duration': 10.05}
+{'text': 'system has actually kind of noticed', 'start': 2043.039, 'duration': 6.501}
+{'text': "there is actually two systems right it's", 'start': 2045.799, 'duration': 8.391}
+{'text': 'that shell structure and an inflatable', 'start': 2049.54, 'duration': 10.0}
+{'text': 'now we we actually wind it a little bit', 'start': 2054.19, 'duration': 7.81}
+{'text': 'against the rules that NASA sent because', 'start': 2059.54, 'duration': 5.25}
+{'text': "NASA's in the brief they kind of said", 'start': 2062.0, 'duration': 4.879}
+{'text': 'that we had to create something that', 'start': 2064.79, 'duration': 5.309}
+{'text': 'would be able to contain an environment', 'start': 2066.879, 'duration': 4.571}
+{'text': 'so we had to create a 3d pretty', 'start': 2070.099, 'duration': 4.191}
+{'text': 'structure that was able to contain a', 'start': 2071.45, 'duration': 5.939}
+{'text': 'pressurized volume now we never really', 'start': 2074.29, 'duration': 6.25}
+{'text': 'believed in that right not true', 'start': 2077.389, 'duration': 6.721}
+{'text': 'three Britain structures but three print', 'start': 2080.54, 'duration': 5.369}
+{'text': 'something and believing that that will', 'start': 2084.11, 'duration': 5.91}
+{'text': 'be a complete sealed unit you know I', 'start': 2085.909, 'duration': 5.911}
+{'text': "think that's way too risky I think you", 'start': 2090.02, 'duration': 4.02}
+{'text': 'have to do risk it and have to systems', 'start': 2091.82, 'duration': 3.839}
+{'text': 'where you have a shelf structure would', 'start': 2094.04, 'duration': 3.42}
+{'text': 'protect yourself from radiation and you', 'start': 2095.659, 'duration': 4.681}
+{'text': 'have an internal inflatable which is', 'start': 2097.46, 'duration': 7.32}
+{'text': 'manufactured on there with that we can', 'start': 2100.34, 'duration': 7.62}
+{'text': "manufacture here and we're sure that you", 'start': 2104.78, 'duration': 5.31}
+{'text': "know or Astral's are not gonna die and", 'start': 2107.96, 'duration': 3.99}
+{'text': 'there are protected in this in this', 'start': 2110.09, 'duration': 6.42}
+{'text': 'environment so we kind of had a', 'start': 2111.95, 'duration': 7.41}
+{'text': 'different view about that we also worked', 'start': 2116.51, 'duration': 6.06}
+{'text': 'with actually o Callaghan engineers to', 'start': 2119.36, 'duration': 5.34}
+{'text': 'create these shell structures as I said', 'start': 2122.57, 'duration': 3.69}
+{'text': 'before if you three bring something', 'start': 2124.7, 'duration': 4.74}
+{'text': 'concrete over here just microwave', 'start': 2126.26, 'duration': 4.86}
+{'text': 'regular together which was performed', 'start': 2129.44, 'duration': 5.12}
+{'text': 'even worse than than than that concrete', 'start': 2131.12, 'duration': 6.54}
+{'text': 'you really only want to do compression', 'start': 2134.56, 'duration': 5.73}
+{'text': "of his choices so we didn't really", 'start': 2137.66, 'duration': 5.37}
+{'text': 'design it we gave it the parameters of', 'start': 2140.29, 'duration': 7.81}
+{'text': "it and with rules like kangaroo we're", 'start': 2143.03, 'duration': 8.28}
+{'text': 'able to create that optimum shape and', 'start': 2148.1, 'duration': 7.08}
+{'text': 'that was done by about EFC engineers the', 'start': 2151.31, 'duration': 5.34}
+{'text': 'great thing about it is you know where', 'start': 2155.18, 'duration': 3.93}
+{'text': 'you do shell structures compression Airy', 'start': 2156.65, 'duration': 5.1}
+{'text': 'structures the problem is always when', 'start': 2159.11, 'duration': 6.78}
+{'text': 'you get bending in them or when you get', 'start': 2161.75, 'duration': 8.67}
+{'text': 'wind loads lateral loads on it right big', 'start': 2165.89, 'duration': 8.57}
+{'text': 'issue the great thing in on moon is that', 'start': 2170.42, 'duration': 6.81}
+{'text': 'the atmosphere is a hundred times less', 'start': 2174.46, 'duration': 4.39}
+{'text': 'dense than on earth', 'start': 2177.23, 'duration': 4.59}
+{'text': 'right we have a co2 atmosphere times', 'start': 2178.85, 'duration': 5.91}
+{'text': 'less dense which means the wind on if', 'start': 2181.82, 'duration': 4.71}
+{'text': 'you have a tunic lumps of winds on Mars', 'start': 2184.76, 'duration': 4.38}
+{'text': 'which does exist the pressure you get', 'start': 2186.53, 'duration': 6.18}
+{'text': 'your structure is almost nothing because', 'start': 2189.14, 'duration': 4.86}
+{'text': 'the pot you have a hundred thousand less', 'start': 2192.71, 'duration': 3.66}
+{'text': 'particles blowing on your structure so', 'start': 2194.0, 'duration': 3.66}
+{'text': "it's actually quite interesting so it's", 'start': 2196.37, 'duration': 4.47}
+{'text': 'actually not deal environment to start', 'start': 2197.66, 'duration': 7.28}
+{'text': 'thinking about confessionary structures', 'start': 2200.84, 'duration': 4.1}
+{'text': 'reference of course felix candelas', 'start': 2208.12, 'duration': 6.19}
+{'text': 'structures which i think that the same', 'start': 2210.76, 'duration': 7.12}
+{'text': 'idea they had this kind of institute on', 'start': 2214.31, 'duration': 5.73}
+{'text': 'sides of the manufactures shell', 'start': 2217.88, 'duration': 7.07}
+{'text': 'structure lots of people right and', 'start': 2220.04, 'duration': 8.82}
+{'text': 'afterwards you get to the facades are of', 'start': 2224.95, 'duration': 5.89}
+{'text': "course not made on sites they'll be made", 'start': 2228.86, 'duration': 4.35}
+{'text': 'in factories coming in afterwards', 'start': 2230.84, 'duration': 5.15}
+{'text': 'so that idea of having two systems', 'start': 2233.21, 'duration': 5.85}
+{'text': 'prefabricated one and an insulin coming', 'start': 2235.99, 'duration': 5.23}
+{'text': "together then it's actually the one that", 'start': 2239.06, 'duration': 7.62}
+{'text': 'we followed as well inflatables right so', 'start': 2241.22, 'duration': 7.83}
+{'text': 'we have each tell me the project we have', 'start': 2246.68, 'duration': 4.86}
+{'text': 'these kind of larger pots and we have a', 'start': 2249.05, 'duration': 8.16}
+{'text': 'smaller connection pulse unfolds and at', 'start': 2251.54, 'duration': 8.15}
+{'text': 'the same time inflates', 'start': 2257.21, 'duration': 7.13}
+{'text': "again it's not something we just made up", 'start': 2259.69, 'duration': 4.65}
+{'text': 'in the 1960s already looking at', 'start': 2265.66, 'duration': 8.77}
+{'text': 'inflatable systems for space great', 'start': 2270.46, 'duration': 6.55}
+{'text': 'because you can take white light you can', 'start': 2274.43, 'duration': 4.95}
+{'text': 'pack them up quite small which means', 'start': 2277.01, 'duration': 7.19}
+{'text': 'your launch costs actually go go lower', 'start': 2279.38, 'duration': 4.82}
+{'text': 'there was actually a very serious', 'start': 2284.32, 'duration': 6.61}
+{'text': 'research project at NASA which called', 'start': 2286.73, 'duration': 6.33}
+{'text': 'trans HAP I really like this idea', 'start': 2290.93, 'duration': 5.76}
+{'text': 'because this one has you see in the', 'start': 2293.06, 'duration': 5.94}
+{'text': 'middle you have a very kind of a hard', 'start': 2296.69, 'duration': 4.56}
+{'text': "shell element there's no inflexible and", 'start': 2299.0, 'duration': 6.15}
+{'text': 'the outside is inflated which means if', 'start': 2301.25, 'duration': 6.42}
+{'text': "it's compact that you can get it in the", 'start': 2305.15, 'duration': 4.92}
+{'text': "fairing of a rocket that's the last of", 'start': 2307.67, 'duration': 4.47}
+{'text': 'whatever and then once the space you', 'start': 2310.07, 'duration': 5.37}
+{'text': 'actually kind of inflated and that', 'start': 2312.14, 'duration': 5.24}
+{'text': "didn't stay as just a research project", 'start': 2315.44, 'duration': 5.7}
+{'text': 'at the moments at the International', 'start': 2317.38, 'duration': 5.95}
+{'text': 'Space Station there is this inflatable', 'start': 2321.14, 'duration': 4.14}
+{'text': 'module especially done by private', 'start': 2323.33, 'duration': 3.57}
+{'text': 'company called big Lou', 'start': 2325.28, 'duration': 4.53}
+{'text': 'they bought the license of inflatable', 'start': 2326.9, 'duration': 5.79}
+{'text': 'architecture or flexible systems from', 'start': 2329.81, 'duration': 5.34}
+{'text': 'NASA and are developing that now', 'start': 2332.69, 'duration': 4.309}
+{'text': 'and their goal is actually have', 'start': 2335.15, 'duration': 5.429}
+{'text': 'inflatable space hotels so serious about', 'start': 2336.999, 'duration': 5.711}
+{'text': "it it's been tested in special space", 'start': 2340.579, 'duration': 3.99}
+{'text': 'station is still quite small modular as', 'start': 2342.71, 'duration': 5.339}
+{'text': 'a person in that module is just a pure', 'start': 2344.569, 'duration': 7.171}
+{'text': 'research testing facility now to see if', 'start': 2348.049, 'duration': 9.96}
+{'text': "we can actually do this so that's a", 'start': 2351.74, 'duration': 11.519}
+{'text': 'habitat but and remember what I said in', 'start': 2358.009, 'duration': 6.931}
+{'text': 'the beginning with Raymond Larry and and', 'start': 2363.259, 'duration': 2.76}
+{'text': 'they are assessed to have like a', 'start': 2364.94, 'duration': 3.96}
+{'text': "beautiful window right we didn't really", 'start': 2366.019, 'duration': 8.28}
+{'text': 'have that and has a very obvious in', 'start': 2368.9, 'duration': 7.649}
+{'text': 'engineering approach to it right because', 'start': 2374.299, 'duration': 5.191}
+{'text': 'they have these flaps that are able to', 'start': 2376.549, 'duration': 6.06}
+{'text': 'kind of close and protect the cupola', 'start': 2379.49, 'duration': 4.109}
+{'text': "because this what's called the big", 'start': 2382.609, 'duration': 5.071}
+{'text': 'winner is called the cupola I think you', 'start': 2383.599, 'duration': 6.121}
+{'text': 'kind of not go for an engineering', 'start': 2387.68, 'duration': 3.899}
+{'text': 'approach and go for an architectural', 'start': 2389.72, 'duration': 6.68}
+{'text': 'approach something like this courtyards', 'start': 2391.579, 'duration': 7.861}
+{'text': 'many quarters what it great for is they', 'start': 2396.4, 'duration': 6.219}
+{'text': 'bring in sunlight that bein indirect', 'start': 2399.44, 'duration': 8.669}
+{'text': 'light direct sunlight and they also give', 'start': 2402.619, 'duration': 8.73}
+{'text': 'great views across space across the', 'start': 2408.109, 'duration': 6.93}
+{'text': 'habitats and so we did something similar', 'start': 2411.349, 'duration': 8.791}
+{'text': 'so we created this courtyard inner space', 'start': 2415.039, 'duration': 11.941}
+{'text': 'that with views across but we did quite', 'start': 2420.14, 'duration': 10.59}
+{'text': 'a bit of analysis to look at if it', 'start': 2426.98, 'duration': 5.91}
+{'text': 'actually works we have to kind of tweed', 'start': 2430.73, 'duration': 7.139}
+{'text': 'the browns a little bit it was the same', 'start': 2432.89, 'duration': 8.28}
+{'text': 'tool we would use to do some analysis on', 'start': 2437.869, 'duration': 6.21}
+{'text': 'a building less the only difference is', 'start': 2441.17, 'duration': 4.589}
+{'text': 'that like you see the comes the habitat', 'start': 2444.079, 'duration': 3.811}
+{'text': 'is like the weather the the white', 'start': 2445.759, 'duration': 4.53}
+{'text': 'circles are so one the blue so we never', 'start': 2447.89, 'duration': 5.369}
+{'text': "have direct sunlight there which is it's", 'start': 2450.289, 'duration': 4.411}
+{'text': "not that you Billy's gonna overheat it's", 'start': 2453.259, 'duration': 3.871}
+{'text': "that you could potentially die so it's", 'start': 2454.7, 'duration': 4.68}
+{'text': "it's quite it's quite a crucial thing to", 'start': 2457.13, 'duration': 4.429}
+{'text': 'do', 'start': 2459.38, 'duration': 2.179}
+{'text': 'ten building these shell structures', 'start': 2462.79, 'duration': 4.43}
+{'text': 'shelters are quite hard to do this is', 'start': 2468.63, 'duration': 6.49}
+{'text': "looks I'm a dealer thing in the Biennale", 'start': 2470.71, 'duration': 6.66}
+{'text': "as you see the only work once they've", 'start': 2475.12, 'duration': 7.55}
+{'text': 'finished right so you need to do a full', 'start': 2477.37, 'duration': 8.28}
+{'text': 'structure underneath a support structure', 'start': 2482.67, 'duration': 6.25}
+{'text': 'a full bug before you can kind of build', 'start': 2485.65, 'duration': 6.06}
+{'text': 'it and you might have seen our video', 'start': 2488.92, 'duration': 4.92}
+{'text': 'right it kind of quickly quickly quickly', 'start': 2491.71, 'duration': 6.0}
+{'text': 'builded up and there was no support very', 'start': 2493.84, 'duration': 5.58}
+{'text': 'much aware of that we did try to solve', 'start': 2497.71, 'duration': 8.85}
+{'text': "that first that it was why don't we use", 'start': 2499.42, 'duration': 9.3}
+{'text': 'another inflatable why do we have a big', 'start': 2506.56, 'duration': 5.1}
+{'text': 'inflatable that sits underneath and is', 'start': 2508.72, 'duration': 7.7}
+{'text': 'your scaffolding ready for building but', 'start': 2511.66, 'duration': 7.5}
+{'text': "then again it's still a really big thing", 'start': 2516.42, 'duration': 10.96}
+{'text': 'this is we start to think about can we', 'start': 2519.16, 'duration': 11.25}
+{'text': 'do this in a slightly different way in a', 'start': 2527.38, 'duration': 4.92}
+{'text': 'bit more elaborate or maybe even a dumb', 'start': 2530.41, 'duration': 6.9}
+{'text': 'way right and so we look at examples', 'start': 2532.3, 'duration': 8.19}
+{'text': 'like this summer museum which is', 'start': 2537.31, 'duration': 5.82}
+{'text': 'beautiful shell structure and the way', 'start': 2540.49, 'duration': 6.36}
+{'text': 'that was built was by earth formwork so', 'start': 2543.13, 'duration': 7.08}
+{'text': 'they made mounds and then put the', 'start': 2546.85, 'duration': 7.35}
+{'text': 'concrete on top of that we were like', 'start': 2550.21, 'duration': 6.84}
+{'text': 'yeah is this really going to to work', 'start': 2554.2, 'duration': 6.33}
+{'text': 'right how much time digging how much', 'start': 2557.05, 'duration': 6.69}
+{'text': 'time taking the regular hours again is', 'start': 2560.53, 'duration': 5.34}
+{'text': 'that gonna work so we worked again', 'start': 2563.74, 'duration': 4.29}
+{'text': 'without with our team from Cranfield', 'start': 2565.87, 'duration': 6.53}
+{'text': "University they had a spread she's ready", 'start': 2568.03, 'duration': 4.37}
+{'text': 'I think it was about it will take us', 'start': 2572.7, 'duration': 6.76}
+{'text': 'about a year longer to construct and the', 'start': 2574.87, 'duration': 9.23}
+{'text': 'process we had was indeed instead of', 'start': 2579.46, 'duration': 8.52}
+{'text': 'just building it up without formwork we', 'start': 2584.1, 'duration': 6.88}
+{'text': 'would use regulates loose regulates to', 'start': 2587.98, 'duration': 5.07}
+{'text': 'build it up layer by layer and in the', 'start': 2590.98, 'duration': 4.56}
+{'text': 'end we would just stick it out but we', 'start': 2593.05, 'duration': 3.319}
+{'text': 'can use the same time', 'start': 2595.54, 'duration': 2.9}
+{'text': 'of robots they could reconfigure itself', 'start': 2596.369, 'duration': 5.761}
+{'text': 'in the ends they become all diggers take', 'start': 2598.44, 'duration': 8.19}
+{'text': 'the regulator out so we figured out that', 'start': 2602.13, 'duration': 6.389}
+{'text': "shell structure I'm going to talk a", 'start': 2606.63, 'duration': 4.29}
+{'text': 'little bit about the interior as well so', 'start': 2608.519, 'duration': 6.721}
+{'text': 'this is in the International Space', 'start': 2610.92, 'duration': 6.74}
+{'text': "Station's European Space Agency's", 'start': 2615.24, 'duration': 7.41}
+{'text': "research module it's kind of an", 'start': 2617.66, 'duration': 8.02}
+{'text': "interesting thing because it's a very", 'start': 2622.65, 'duration': 4.83}
+{'text': 'simple idea right simple idea is that', 'start': 2625.68, 'duration': 6.419}
+{'text': 'you have a cylinder on the left side you', 'start': 2627.48, 'duration': 6.96}
+{'text': 'have science racks and the bottom you', 'start': 2632.099, 'duration': 5.041}
+{'text': 'made basically have storage and have', 'start': 2634.44, 'duration': 5.04}
+{'text': "these racks it's kind of a corridor with", 'start': 2637.14, 'duration': 4.919}
+{'text': 'each time a science rack and they do', 'start': 2639.48, 'duration': 10.019}
+{'text': 'operate these things this is actually', 'start': 2642.059, 'duration': 8.641}
+{'text': 'how the whole international space', 'start': 2649.499, 'duration': 4.911}
+{'text': "station works it's all like this it's", 'start': 2650.7, 'duration': 6.599}
+{'text': 'corridors with science racks on the side', 'start': 2654.41, 'duration': 6.07}
+{'text': "left air rides and I actually think it's", 'start': 2657.299, 'duration': 5.01}
+{'text': 'like a really inefficient structure', 'start': 2660.48, 'duration': 5.339}
+{'text': 'because the astronauts they said yes', 'start': 2662.309, 'duration': 5.7}
+{'text': "we're way too big it's like massive for", 'start': 2665.819, 'duration': 4.92}
+{'text': "them right and actually it's from an", 'start': 2668.009, 'duration': 6.02}
+{'text': 'architectural design perspective', 'start': 2670.739, 'duration': 6.211}
+{'text': 'structure I would think right which', 'start': 2674.029, 'duration': 4.661}
+{'text': 'which building do you know where you', 'start': 2676.95, 'duration': 3.809}
+{'text': 'just have corridors and stuff on the', 'start': 2678.69, 'duration': 4.02}
+{'text': "sides like it's it's a bit of a bizarre", 'start': 2680.759, 'duration': 3.81}
+{'text': 'thing to think about so we start to kind', 'start': 2682.71, 'duration': 3.599}
+{'text': 'of thinking can we do this a bit better', 'start': 2684.569, 'duration': 10.02}
+{'text': 'all right so these archives racks that', 'start': 2686.309, 'duration': 11.46}
+{'text': 'are just able to move around and you', 'start': 2694.589, 'duration': 4.47}
+{'text': 'just go in whenever you need to do', 'start': 2697.769, 'duration': 2.881}
+{'text': "something if you don't need to be there", 'start': 2699.059, 'duration': 4.651}
+{'text': "just close it up there's the same idea", 'start': 2700.65, 'duration': 5.31}
+{'text': "we had there so we kind of we didn't do", 'start': 2703.71, 'duration': 3.69}
+{'text': 'it in a linear way within it in a', 'start': 2705.96, 'duration': 5.25}
+{'text': 'circular way for our pods and each time', 'start': 2707.4, 'duration': 6.119}
+{'text': 'each of these pots has these rack', 'start': 2711.21, 'duration': 6.149}
+{'text': 'systems they are able to move some of', 'start': 2713.519, 'duration': 4.891}
+{'text': 'them are size racks', 'start': 2717.359, 'duration': 3.541}
+{'text': 'some of them are part of the greenhouse', 'start': 2718.41, 'duration': 4.919}
+{'text': 'but it all have the same idea you were', 'start': 2720.9, 'duration': 4.23}
+{'text': 'able to kind of compact so much more', 'start': 2723.329, 'duration': 4.651}
+{'text': 'stuff in a much of small space and you', 'start': 2725.13, 'duration': 3.77}
+{'text': 'just', 'start': 2727.98, 'duration': 2.69}
+{'text': 'in Iraq use it and then close it', 'start': 2728.9, 'duration': 7.86}
+{'text': 'afterwards and we did to kind of see so', 'start': 2730.67, 'duration': 8.07}
+{'text': 'each of the polls is a different', 'start': 2736.76, 'duration': 4.23}
+{'text': 'function one of the living space in', 'start': 2738.74, 'duration': 5.52}
+{'text': 'kitchen the other ones a lab we have a', 'start': 2740.99, 'duration': 5.91}
+{'text': 'fabrication lab as well a greenhouse and', 'start': 2744.26, 'duration': 6.48}
+{'text': 'so forth and the connection ports HD for', 'start': 2746.9, 'duration': 5.34}
+{'text': 'the connection posts is your life', 'start': 2750.74, 'duration': 4.74}
+{'text': 'support system so and they serve one on', 'start': 2752.24, 'duration': 4.56}
+{'text': "the left and on the right so there's", 'start': 2755.48, 'duration': 2.79}
+{'text': 'like a triple redundancy in the system', 'start': 2756.8, 'duration': 4.38}
+{'text': 'as well and then the third opening it', 'start': 2758.27, 'duration': 5.04}
+{'text': 'can be a suit port which you see on the', 'start': 2761.18, 'duration': 5.52}
+{'text': 'outside there or a normal hatched that', 'start': 2763.31, 'duration': 7.46}
+{'text': 'goes to one of the Rovers', 'start': 2766.7, 'duration': 4.07}
+{'text': 'interior views which I showed you before', 'start': 2772.36, 'duration': 6.22}
+{'text': "there's a few clues in there that we try", 'start': 2775.45, 'duration': 4.54}
+{'text': "to do things slightly it's slightly", 'start': 2778.58, 'duration': 2.31}
+{'text': 'different I think', 'start': 2779.99, 'duration': 3.24}
+{'text': 'then then normally when you when you', 'start': 2780.89, 'duration': 5.69}
+{'text': 'look at an ISS or something like that', 'start': 2783.23, 'duration': 6.45}
+{'text': 'and we got a lot by talking to different', 'start': 2786.58, 'duration': 5.23}
+{'text': 'types of people in this project one of', 'start': 2789.68, 'duration': 5.01}
+{'text': 'the people we talked to was John eager', 'start': 2791.81, 'duration': 7.68}
+{'text': 'and he was the winterization things', 'start': 2794.69, 'duration': 6.9}
+{'text': 'capsules of the winterization captain of', 'start': 2799.49, 'duration': 4.35}
+{'text': 'Holly 6 which is the British Antarctic', 'start': 2801.59, 'duration': 5.22}
+{'text': 'Survey they lived there for eight months', 'start': 2803.84, 'duration': 5.58}
+{'text': 'they completely disconnected from the', 'start': 2806.81, 'duration': 4.17}
+{'text': "rest of the world there's no way to", 'start': 2809.42, 'duration': 4.17}
+{'text': "evacuate from it but there's a doctor", 'start': 2810.98, 'duration': 5.85}
+{'text': 'there if something needs to happen it', 'start': 2813.59, 'duration': 5.64}
+{'text': 'will be with that doctor that says all', 'start': 2816.83, 'duration': 5.31}
+{'text': 'right you can escape from the evacuate', 'start': 2819.23, 'duration': 4.77}
+{'text': 'from the ISS in about I think about', 'start': 2822.14, 'duration': 6.3}
+{'text': 'twelve hours no way out in winter so', 'start': 2824.0, 'duration': 9.33}
+{'text': "it's a good analog for Mars we talked a", 'start': 2828.44, 'duration': 6.3}
+{'text': 'lot about them how it is to live there', 'start': 2833.33, 'duration': 3.06}
+{'text': "and they sent up some pictures so that's", 'start': 2834.74, 'duration': 5.22}
+{'text': 'kind of how it looks like and one of the', 'start': 2836.39, 'duration': 5.64}
+{'text': 'complaints they had John had like what', 'start': 2839.96, 'duration': 3.45}
+{'text': 'was thought the complaint was they had', 'start': 2842.03, 'duration': 3.42}
+{'text': 'that the fact is they kind of live in', 'start': 2843.41, 'duration': 4.32}
+{'text': 'their workplace right kind of then this', 'start': 2845.45, 'duration': 3.84}
+{'text': 'thing kind of looks a bit like a', 'start': 2847.73, 'duration': 4.07}
+{'text': 'workplace actually looks a bit like a', 'start': 2849.29, 'duration': 4.41}
+{'text': 'like some cheap hotel', 'start': 2851.8, 'duration': 7.17}
+{'text': "I think there's no", 'start': 2853.7, 'duration': 5.27}
+{'text': "to them whatever there's nothing tactile", 'start': 2860.18, 'duration': 3.54}
+{'text': "they didn't they wants to have something", 'start': 2862.069, 'duration': 4.411}
+{'text': 'that felt like home because it lived', 'start': 2863.72, 'duration': 4.859}
+{'text': 'there for eight months and then he sent', 'start': 2866.48, 'duration': 4.349}
+{'text': 'me this thing actually talks to me about', 'start': 2868.579, 'duration': 4.381}
+{'text': 'it then I awesome take the picture which', 'start': 2870.829, 'duration': 6.631}
+{'text': 'was this and this is living space and', 'start': 2872.96, 'duration': 6.84}
+{'text': 'they wants to clad one of the walls in', 'start': 2877.46, 'duration': 5.399}
+{'text': 'wood and the wood they have was from', 'start': 2879.8, 'duration': 5.1}
+{'text': 'packaging crates so they made their own', 'start': 2882.859, 'duration': 7.291}
+{'text': 'little thing looks like their local pub', 'start': 2884.9, 'duration': 7.89}
+{'text': 'or something like that because something', 'start': 2890.15, 'duration': 5.4}
+{'text': "tactile something that wasn't looking", 'start': 2892.79, 'duration': 4.92}
+{'text': 'like a lab or workplace or this kind of', 'start': 2895.55, 'duration': 4.74}
+{'text': 'terrible Floyd out there so they wanted', 'start': 2897.71, 'duration': 4.08}
+{'text': 'something that felt like a home it just', 'start': 2900.29, 'duration': 4.11}
+{'text': 'made me think you know what Galena was', 'start': 2901.79, 'duration': 12.029}
+{'text': 'doing to live so if you see the flooring', 'start': 2904.4, 'duration': 14.55}
+{'text': "here is it's actually some bamboo is", 'start': 2913.819, 'duration': 7.321}
+{'text': 'growing in the backgrounds so we start', 'start': 2918.95, 'duration': 3.51}
+{'text': "to think about we maybe we shouldn't", 'start': 2921.14, 'duration': 6.179}
+{'text': 'grow stuff to eat but but maybe we', 'start': 2922.46, 'duration': 7.77}
+{'text': 'should grow stuff on Mars to build if', 'start': 2927.319, 'duration': 5.701}
+{'text': 'you grow stuff to eat you need a volume', 'start': 2930.23, 'duration': 4.29}
+{'text': "you know you're never gonna get there", 'start': 2933.02, 'duration': 3.839}
+{'text': 'remember like biosphere 2 back in the', 'start': 2934.52, 'duration': 4.65}
+{'text': '90s somewhere there was a massive', 'start': 2936.859, 'duration': 5.611}
+{'text': 'project that in Arizona I think trying', 'start': 2939.17, 'duration': 5.37}
+{'text': 'to sustain I think 10 people and it was', 'start': 2942.47, 'duration': 6.03}
+{'text': 'massive building it completely felt so', 'start': 2944.54, 'duration': 5.46}
+{'text': 'we were thinking maybe we just grow', 'start': 2948.5, 'duration': 3.78}
+{'text': 'stuff to build stuff with or make', 'start': 2950.0, 'duration': 5.75}
+{'text': 'flooring or something like that', 'start': 2952.28, 'duration': 3.47}
+{'text': 'another thing you might kind of think', 'start': 2955.78, 'duration': 5.62}
+{'text': "there's a bit weird spacey furniture you", 'start': 2958.28, 'duration': 7.079}
+{'text': 'might think well have compact stuff are', 'start': 2961.4, 'duration': 9.179}
+{'text': 'you gonna have this massive long well we', 'start': 2965.359, 'duration': 7.861}
+{'text': 'did think about that the idea is that', 'start': 2970.579, 'duration': 5.641}
+{'text': 'you will not bring it and that your 3d', 'start': 2973.22, 'duration': 6.42}
+{'text': 'printers with your own printer on Mars', 'start': 2976.22, 'duration': 5.28}
+{'text': "there's no point in bringing these big", 'start': 2979.64, 'duration': 5.31}
+{'text': "things so why not it's really printed", 'start': 2981.5, 'duration': 7.29}
+{'text': 'with recycled materials and we', 'start': 2984.95, 'duration': 5.94}
+{'text': 'collaborate with this with money well', 'start': 2988.79, 'duration': 3.53}
+{'text': 'from Nogami', 'start': 2990.89, 'duration': 4.25}
+{'text': 'and we looked at his 3d printing process', 'start': 2992.32, 'duration': 6.03}
+{'text': 'and he actually designed for us some', 'start': 2995.14, 'duration': 6.48}
+{'text': 'furniture for Mars base and this is done', 'start': 2998.35, 'duration': 6.3}
+{'text': 'by recycle with recycled plastics and', 'start': 3001.62, 'duration': 4.68}
+{'text': 'you can imagine that your astronauts', 'start': 3004.65, 'duration': 6.48}
+{'text': 'would have lots of packaging material', 'start': 3006.3, 'duration': 8.03}
+{'text': 'from experiments of food and all that so', 'start': 3011.13, 'duration': 6.15}
+{'text': "what are gonna do it is there's no waste", 'start': 3014.33, 'duration': 6.04}
+{'text': 'recycling units on Mars so why not reuse', 'start': 3017.28, 'duration': 7.07}
+{'text': 'it and start 3d printing with it', 'start': 3020.37, 'duration': 3.98}
+{'text': "of course we're not going to bring a", 'start': 3024.5, 'duration': 5.53}
+{'text': 'massive like a BB or cuca robots in the', 'start': 3026.28, 'duration': 6.69}
+{'text': 'in the left you see like a delta 3d', 'start': 3030.03, 'duration': 5.55}
+{'text': 'printer printing one of their first', 'start': 3032.97, 'duration': 7.29}
+{'text': 'chairs and this is this is the the', 'start': 3035.58, 'duration': 7.92}
+{'text': 'workshop really for the habitat which', 'start': 3040.26, 'duration': 5.13}
+{'text': 'was actually also in addy we had but', 'start': 3043.5, 'duration': 5.61}
+{'text': 'talking to people from the Holly 6', 'start': 3045.39, 'duration': 5.31}
+{'text': 'because when they looked at our plans', 'start': 3049.11, 'duration': 3.81}
+{'text': 'the first thing they were like so where', 'start': 3050.7, 'duration': 4.5}
+{'text': "am I gonna fix stuff but where's your", 'start': 3052.92, 'duration': 4.47}
+{'text': "workshop because apparently that's about", 'start': 3055.2, 'duration': 4.08}
+{'text': 'half the time they spent is actually', 'start': 3057.39, 'duration': 4.11}
+{'text': 'fixing stuff and making the thing run', 'start': 3059.28, 'duration': 5.1}
+{'text': 'same thing on the ISS so because of that', 'start': 3061.5, 'duration': 4.83}
+{'text': 'we actually started to change our design', 'start': 3064.38, 'duration': 8.46}
+{'text': 'slightly now we also start thinking what', 'start': 3066.33, 'duration': 26.37}
+{'text': 'these astronauts are going to wear they', 'start': 3072.84, 'duration': 23.28}
+{'text': 'were like some cargo pants and polo', 'start': 3092.7, 'duration': 7.17}
+{'text': 'shirts that they only wear for a few', 'start': 3096.12, 'duration': 6.6}
+{'text': 'days and then they get rid of it and it', 'start': 3099.87, 'duration': 5.34}
+{'text': 'gets burned off in the atmosphere one of', 'start': 3102.72, 'duration': 5.16}
+{'text': 'the cargo units so not exactly', 'start': 3105.21, 'duration': 4.98}
+{'text': "sustainable you can't do that on Mars", 'start': 3107.88, 'duration': 5.13}
+{'text': "you can't just throw it out so we start", 'start': 3110.19, 'duration': 5.79}
+{'text': 'working with Christopher Rabin', 'start': 3113.01, 'duration': 5.25}
+{'text': 'there was a design practice here in in', 'start': 3115.98, 'duration': 6.119}
+{'text': 'Hackney and he looks at reusing', 'start': 3118.26, 'duration': 6.77}
+{'text': 'materials like for example he uses', 'start': 3122.099, 'duration': 5.791}
+{'text': "parachute material on the Left there's a", 'start': 3125.03, 'duration': 5.13}
+{'text': 'parachute dam bang one as well there and', 'start': 3127.89, 'duration': 6.06}
+{'text': 'reuses it every makes jackass and', 'start': 3130.16, 'duration': 5.47}
+{'text': 'amateur and and then close out of that', 'start': 3133.95, 'duration': 3.869}
+{'text': 'so we start thinking well maybe maybe', 'start': 3135.63, 'duration': 4.86}
+{'text': "that's as well because we have landing", 'start': 3137.819, 'duration': 4.831}
+{'text': 'parachutes a lot of this stuff will be', 'start': 3140.49, 'duration': 4.98}
+{'text': 'landed on mars with massive perishes why', 'start': 3142.65, 'duration': 5.01}
+{'text': "don't we use that again right so it's", 'start': 3145.47, 'duration': 3.96}
+{'text': 'again that idea of kind of thinking', 'start': 3147.66, 'duration': 4.98}
+{'text': 'really radical about recycling and', 'start': 3149.43, 'duration': 6.48}
+{'text': 'reusing and you see the one over two', 'start': 3152.64, 'duration': 9.449}
+{'text': 'astronauts wearing them so that was kind', 'start': 3155.91, 'duration': 9.32}
+{'text': 'of the end of our of our project but', 'start': 3162.089, 'duration': 5.401}
+{'text': "luckily didn't we stop there because", 'start': 3165.23, 'duration': 5.2}
+{'text': 'then we got approached by za Museum here', 'start': 3167.49, 'duration': 7.349}
+{'text': 'in London and just by pure luck they', 'start': 3170.43, 'duration': 6.929}
+{'text': 'were thinking of organizing an', 'start': 3174.839, 'duration': 10.621}
+{'text': 'exhibition titled moving to Mars an', 'start': 3177.359, 'duration': 11.071}
+{'text': 'exhibition about Mars in the size museum', 'start': 3185.46, 'duration': 6.78}
+{'text': "this is in the design regime it's still", 'start': 3188.43, 'duration': 6.869}
+{'text': 'the 23rd of February and they asked us', 'start': 3192.24, 'duration': 6.869}
+{'text': 'to see if we could actually make one of', 'start': 3195.299, 'duration': 4.981}
+{'text': 'our pots', 'start': 3199.109, 'duration': 4.95}
+{'text': "oh no that's what we did it's kind of", 'start': 3200.28, 'duration': 5.789}
+{'text': "pictures we've taken a couple of weeks", 'start': 3204.059, 'duration': 4.951}
+{'text': 'ago so we wanted to make sure that you', 'start': 3206.069, 'duration': 4.561}
+{'text': 'can go visit that in the Design Museum', 'start': 3209.01, 'duration': 4.16}
+{'text': 'now we can go inside you can touch stuff', 'start': 3210.63, 'duration': 5.57}
+{'text': 'we want to make sure that it really felt', 'start': 3213.17, 'duration': 6.159}
+{'text': 'quite immersive right so we have indeed', 'start': 3216.2, 'duration': 5.169}
+{'text': 'an inflatable structure as you can see', 'start': 3219.329, 'duration': 5.51}
+{'text': 'the white one you can then view out to', 'start': 3221.369, 'duration': 6.301}
+{'text': 'the rest of your port like you know but', 'start': 3224.839, 'duration': 4.27}
+{'text': 'it talks about you have that quartet you', 'start': 3227.67, 'duration': 3.81}
+{'text': 'look at the rest of the of the habitat', 'start': 3229.109, 'duration': 5.041}
+{'text': "it's about a 10-minute video it goes", 'start': 3231.48, 'duration': 4.889}
+{'text': 'over day and night even so you can sit', 'start': 3234.15, 'duration': 4.36}
+{'text': 'there and see the', 'start': 3236.369, 'duration': 4.271}
+{'text': 'the sky changing as well you see the', 'start': 3238.51, 'duration': 4.5}
+{'text': 'furniture was all three printed with', 'start': 3240.64, 'duration': 5.669}
+{'text': 'Nogami as well with recycled plastics', 'start': 3243.01, 'duration': 8.22}
+{'text': 'and we have racking system also working', 'start': 3246.309, 'duration': 6.361}
+{'text': 'so you can go in there you can move', 'start': 3251.23, 'duration': 3.359}
+{'text': "stuff around of course we didn't put a", 'start': 3252.67, 'duration': 6.629}
+{'text': "real lab it's kind of just we did we", 'start': 3254.589, 'duration': 6.631}
+{'text': 'just wanna make sure that people go', 'start': 3259.299, 'duration': 4.05}
+{'text': 'there they kind of have at least that', 'start': 3261.22, 'duration': 4.44}
+{'text': 'kind of physical experience of what it', 'start': 3263.349, 'duration': 5.851}
+{'text': 'might look like and you can see that is', 'start': 3265.66, 'duration': 5.1}
+{'text': 'the kind of the big this was before we', 'start': 3269.2, 'duration': 4.77}
+{'text': 'had the big Expo going over the big', 'start': 3270.76, 'duration': 4.829}
+{'text': 'screen that gives you that that that', 'start': 3273.97, 'duration': 3.24}
+{'text': 'feels kind of a ten minute video that', 'start': 3275.589, 'duration': 3.99}
+{'text': 'gives you the view out to the rest of', 'start': 3277.21, 'duration': 6.24}
+{'text': 'the habitat so we had to build this', 'start': 3279.579, 'duration': 6.661}
+{'text': 'inflatable which was kind of a tricky', 'start': 3283.45, 'duration': 5.819}
+{'text': 'one because of Mars of course there will', 'start': 3286.24, 'duration': 5.46}
+{'text': 'be an airlock now you have an internal', 'start': 3289.269, 'duration': 4.201}
+{'text': 'pressure which is a hundred times bigger', 'start': 3291.7, 'duration': 3.119}
+{'text': "than the external pressure so you've", 'start': 3293.47, 'duration': 4.349}
+{'text': 'kind of just have a balloon inflated', 'start': 3294.819, 'duration': 7.171}
+{'text': "which is fine we'll earth and we want to", 'start': 3297.819, 'duration': 13.611}
+{'text': 'create something that the system to', 'start': 3301.99, 'duration': 12.69}
+{'text': "design this and we won't have an", 'start': 3311.43, 'duration': 5.139}
+{'text': "inflatable but we didn't want it to look", 'start': 3314.68, 'duration': 6.75}
+{'text': 'very fat quite slim so we start to look', 'start': 3316.569, 'duration': 7.94}
+{'text': 'at these things kite surfing cards', 'start': 3321.43, 'duration': 5.429}
+{'text': "special with it because I think it's", 'start': 3324.509, 'duration': 5.651}
+{'text': 'like a really interesting way of making', 'start': 3326.859, 'duration': 5.43}
+{'text': 'a structure because the cost of think', 'start': 3330.16, 'duration': 5.939}
+{'text': 'art has again this dual system way has', 'start': 3332.289, 'duration': 7.47}
+{'text': 'on the outsides a sleeve like the green', 'start': 3336.099, 'duration': 9.27}
+{'text': 'one is like a sleeve which has still', 'start': 3339.759, 'duration': 12.661}
+{'text': 'working no yeah that gives you geometry', 'start': 3345.369, 'duration': 9.66}
+{'text': 'on the inside down the bottom right you', 'start': 3352.42, 'duration': 8.55}
+{'text': 'have this kind of latex inflatable that', 'start': 3355.029, 'duration': 8.191}
+{'text': 'just inflates as a big sausage but it', 'start': 3360.97, 'duration': 4.02}
+{'text': "doesn't really kind of keep a particular", 'start': 3363.22, 'duration': 4.2}
+{'text': 'shape but once you kind of combine these', 'start': 3364.99, 'duration': 4.14}
+{'text': 'through the outsiders shear and stretch', 'start': 3367.42, 'duration': 2.83}
+{'text': 'resistant the', 'start': 3369.13, 'duration': 2.92}
+{'text': "inside isn't you can actually start", 'start': 3370.25, 'duration': 5.28}
+{'text': 'treating certain geometries that is with', 'start': 3372.05, 'duration': 7.56}
+{'text': 'a company in Slovenia Oliviana company', 'start': 3375.53, 'duration': 5.85}
+{'text': 'called dual and there they are making', 'start': 3379.61, 'duration': 5.31}
+{'text': 'these kind of inflatables and the', 'start': 3381.38, 'duration': 6.65}
+{'text': 'outside sleeves they made out of', 'start': 3384.92, 'duration': 6.21}
+{'text': 'individual pieces of material that are', 'start': 3388.03, 'duration': 6.67}
+{'text': 'all then stitched together to come quite', 'start': 3391.13, 'duration': 9.27}
+{'text': 'a long time to do but this was one of', 'start': 3394.7, 'duration': 8.4}
+{'text': 'the first prototypes of these structures', 'start': 3400.4, 'duration': 4.14}
+{'text': "they're very kind of like there's a lot", 'start': 3403.1, 'duration': 3.3}
+{'text': 'of hot pressure in there and actually we', 'start': 3404.54, 'duration': 7.43}
+{'text': 'still that was the first in the end and', 'start': 3406.4, 'duration': 9.3}
+{'text': 'you see kind of all the kind of the the', 'start': 3411.97, 'duration': 5.95}
+{'text': 'inflatable the taps that we inflate the', 'start': 3415.7, 'duration': 7.85}
+{'text': 'structure on astronaut relaxing on', 'start': 3417.92, 'duration': 14.21}
+{'text': "habitat I think I'm gonna finish with", 'start': 3423.55, 'duration': 10.81}
+{'text': 'just a little video that we made and', 'start': 3432.13, 'duration': 5.29}
+{'text': 'that was actually our entry to to the', 'start': 3434.36, 'duration': 6.0}
+{'text': 'competition so let me finish with that', 'start': 3437.42, 'duration': 5.61}
+{'text': 'half a century ago we took our first', 'start': 3440.36, 'duration': 5.1}
+{'text': 'step on the surface of the Moon today', 'start': 3443.03, 'duration': 4.59}
+{'text': 'there is renewed passion to explore for', 'start': 3445.46, 'duration': 5.94}
+{'text': 'our next human endeavor Mars the Red', 'start': 3447.62, 'duration': 4.44}
+{'text': 'Planet', 'start': 3451.4, 'duration': 3.54}
+{'text': 'further than any human has ever been we', 'start': 3452.06, 'duration': 5.55}
+{'text': 'face many challenges from illness no', 'start': 3454.94, 'duration': 5.4}
+{'text': 'livable atmosphere high radiation dust', 'start': 3457.61, 'duration': 4.73}
+{'text': 'storms and extremely low temperatures', 'start': 3460.34, 'duration': 5.13}
+{'text': "we've already humans set foot on Mars we", 'start': 3462.34, 'duration': 5.01}
+{'text': 'must first design a protective shelter', 'start': 3465.47, 'duration': 4.38}
+{'text': 'we will protect our astronauts from', 'start': 3467.35, 'duration': 4.78}
+{'text': 'radiation with a thick 3d printed shell', 'start': 3469.85, 'duration': 5.07}
+{'text': 'structure using Martian regolith which', 'start': 3472.13, 'duration': 4.74}
+{'text': 'works great in compression but does not', 'start': 3474.92, 'duration': 4.38}
+{'text': 'perform well under tension to overcome', 'start': 3476.87, 'duration': 4.35}
+{'text': 'this shortfall we have chosen to', 'start': 3479.3, 'duration': 3.54}
+{'text': 'construct the pressure retaining parts', 'start': 3481.22, 'duration': 2.85}
+{'text': 'of the habitat from lightweight', 'start': 3482.84, 'duration': 4.47}
+{'text': 'inflatable pods they will be made out of', 'start': 3484.07, 'duration': 5.16}
+{'text': 'high precision engineered composites', 'start': 3487.31, 'duration': 3.89}
+{'text': 'that are prefabricated on earth', 'start': 3489.23, 'duration': 4.19}
+{'text': 'their ellipsoid geometry will be able to', 'start': 3491.2, 'duration': 3.96}
+{'text': 'mitigate the pressure differences wealth', 'start': 3493.42, 'duration': 5.37}
+{'text': 'optimizing spatial planning to create', 'start': 3495.16, 'duration': 5.76}
+{'text': 'the base on moss we will use a two-phase', 'start': 3498.79, 'duration': 6.24}
+{'text': 'approach in phase one an ecosystem of 3d', 'start': 3500.92, 'duration': 6.0}
+{'text': 'printing robots will arrive months in', 'start': 3505.03, 'duration': 4.35}
+{'text': 'advance of any human explore they will', 'start': 3506.92, 'duration': 4.05}
+{'text': 'construct a protective shield for the', 'start': 3509.38, 'duration': 3.959}
+{'text': 'base by adopting a modular robotic swarm', 'start': 3510.97, 'duration': 4.74}
+{'text': 'strategy a plan that allows for', 'start': 3513.339, 'duration': 4.411}
+{'text': 'redundancies and enhances the odds for', 'start': 3515.71, 'duration': 5.79}
+{'text': 'success intelligent autonomous robots', 'start': 3517.75, 'duration': 5.76}
+{'text': 'will have interchangeable roles from', 'start': 3521.5, 'duration': 3.869}
+{'text': 'battery storage to Scout Rovers', 'start': 3523.51, 'duration': 4.74}
+{'text': 'logistics to excavational and even 3d', 'start': 3525.369, 'duration': 5.011}
+{'text': 'printing units all integrated with', 'start': 3528.25, 'duration': 3.96}
+{'text': 'multiple cameras and sensors for', 'start': 3530.38, 'duration': 4.05}
+{'text': 'navigation they can reconfigure', 'start': 3532.21, 'duration': 4.29}
+{'text': 'themselves for a multitude of purposes', 'start': 3534.43, 'duration': 4.08}
+{'text': 'ensuring prolonged usage beyond the', 'start': 3536.5, 'duration': 5.849}
+{'text': 'initial build phases the smaller', 'start': 3538.51, 'duration': 5.94}
+{'text': 'configuration is the one wheeled Scout', 'start': 3542.349, 'duration': 4.321}
+{'text': 'Rover that uses ultrasonic scanning to', 'start': 3544.45, 'duration': 3.96}
+{'text': 'analyze the Martian surface to determine', 'start': 3546.67, 'duration': 4.05}
+{'text': 'the best regions for obtaining optimum', 'start': 3548.41, 'duration': 5.34}
+{'text': 'regolith the digger receives the', 'start': 3550.72, 'duration': 5.07}
+{'text': 'location coordinates and then escapades', 'start': 3553.75, 'duration': 4.98}
+{'text': 'the Martian soil it then delivers the', 'start': 3555.79, 'duration': 6.15}
+{'text': 'payload to the refining assemblies here', 'start': 3558.73, 'duration': 5.849}
+{'text': 'large chunks of Martian regolith can be', 'start': 3561.94, 'duration': 5.129}
+{'text': 'processed down to a finer grain and then', 'start': 3564.579, 'duration': 4.351}
+{'text': 'delivered to the melter robot since its', 'start': 3567.069, 'duration': 3.961}
+{'text': 'you they then use concentrated', 'start': 3568.93, 'duration': 4.08}
+{'text': 'microwaves to mount the regular and', 'start': 3571.03, 'duration': 5.99}
+{'text': 'extrude through the 3d printing nozzle', 'start': 3573.01, 'duration': 4.01}
+{'text': 'the shell is autonomously 3d printed', 'start': 3577.849, 'duration': 5.381}
+{'text': 'layer by layer over several months by', 'start': 3580.74, 'duration': 5.2}
+{'text': 'the robotic system', 'start': 3583.23, 'duration': 5.349}
+{'text': 'in the next phase the first astronauts', 'start': 3585.94, 'duration': 4.32}
+{'text': 'arrived with the habitation units', 'start': 3588.579, 'duration': 5.101}
+{'text': 'equipment and supplies the robots now', 'start': 3590.26, 'duration': 5.609}
+{'text': 'take on their second life rules to aid', 'start': 3593.68, 'duration': 4.919}
+{'text': 'the next phase they come together to', 'start': 3595.869, 'duration': 5.101}
+{'text': 'make flexible mobile platforms that can', 'start': 3598.599, 'duration': 4.141}
+{'text': 'carry the payload from the loading zone', 'start': 3600.97, 'duration': 4.649}
+{'text': 'to the base a convoy begins its journey', 'start': 3602.74, 'duration': 4.829}
+{'text': 'across the Martian surface to the', 'start': 3605.619, 'duration': 5.341}
+{'text': 'habitat site the build commences with a', 'start': 3607.569, 'duration': 5.25}
+{'text': 'connector module placed underneath the', 'start': 3610.96, 'duration': 3.629}
+{'text': 'protective shield and readied for', 'start': 3612.819, 'duration': 5.161}
+{'text': 'inflation the module that unfolds and', 'start': 3614.589, 'duration': 6.871}
+{'text': 'self inflates into its final form the', 'start': 3617.98, 'duration': 5.43}
+{'text': 'habitation units are then placed into', 'start': 3621.46, 'duration': 4.05}
+{'text': 'position and sequentially inflated to', 'start': 3623.41, 'duration': 3.629}
+{'text': 'form the completed pressurized', 'start': 3625.51, 'duration': 4.079}
+{'text': 'environments the circular layout of the', 'start': 3627.039, 'duration': 5.131}
+{'text': 'habitat ensures continuous accessibility', 'start': 3629.589, 'duration': 4.171}
+{'text': 'of the habitat in the event of a', 'start': 3632.17, 'duration': 4.86}
+{'text': 'catastrophic failure each connector', 'start': 3633.76, 'duration': 4.859}
+{'text': 'module houses three integrated', 'start': 3637.03, 'duration': 3.24}
+{'text': 'environmental control life support', 'start': 3638.619, 'duration': 4.261}
+{'text': 'systems delivering essential services', 'start': 3640.27, 'duration': 5.549}
+{'text': 'like power water data and oxygen to all', 'start': 3642.88, 'duration': 6.33}
+{'text': 'the habitation units a circular conduit', 'start': 3645.819, 'duration': 5.22}
+{'text': 'delivers these services to multiple', 'start': 3649.21, 'duration': 4.829}
+{'text': 'endpoints in each pod the base will be', 'start': 3651.039, 'duration': 5.161}
+{'text': 'remotely powered by two nuclear kylo', 'start': 3654.039, 'duration': 4.83}
+{'text': 'power reactors in a solar farm located a', 'start': 3656.2, 'duration': 5.609}
+{'text': 'safe distance away from the base in the', 'start': 3658.869, 'duration': 5.281}
+{'text': 'next stage the astronauts will construct', 'start': 3661.809, 'duration': 4.02}
+{'text': 'and install a flat-pack rail-based', 'start': 3664.15, 'duration': 4.169}
+{'text': 'racking system capable of connecting to', 'start': 3665.829, 'duration': 4.801}
+{'text': 'the distribution system enabling spaces', 'start': 3668.319, 'duration': 3.901}
+{'text': 'to reconfigure according to their', 'start': 3670.63, 'duration': 3.87}
+{'text': 'spatial needs', 'start': 3672.22, 'duration': 4.83}
+{'text': 'is modular and radical design principle', 'start': 3674.5, 'duration': 4.32}
+{'text': 'has been adopted for all the habitat', 'start': 3677.05, 'duration': 4.5}
+{'text': 'pots ensuring multi-use reconfigurable', 'start': 3678.82, 'duration': 6.12}
+{'text': 'environments a martian base should not', 'start': 3681.55, 'duration': 5.49}
+{'text': 'just be a habitat it is home for the', 'start': 3684.94, 'duration': 3.03}
+{'text': 'astronauts', 'start': 3687.04, 'duration': 2.85}
+{'text': 'each pod expresses its own identity', 'start': 3687.97, 'duration': 4.71}
+{'text': 'quality and character a highly', 'start': 3689.89, 'duration': 4.92}
+{'text': 'functional design which places the human', 'start': 3692.68, 'duration': 5.27}
+{'text': 'experience of the court', 'start': 3694.81, 'duration': 3.14}
+{'text': 'spaces include a state-of-the-art', 'start': 3698.56, 'duration': 6.12}
+{'text': 'research laboratory a hydroponic', 'start': 3701.38, 'duration': 7.86}
+{'text': 'greenhouse a fully equipped workshop', 'start': 3704.68, 'duration': 8.1}
+{'text': 'with digital fabrication facilities the', 'start': 3709.24, 'duration': 5.34}
+{'text': 'sleeping quarters with gym facilities', 'start': 3712.78, 'duration': 4.64}
+{'text': 'and immersive virtual-reality platform', 'start': 3714.58, 'duration': 5.37}
+{'text': 'we believe that the key to success of', 'start': 3717.42, 'duration': 4.84}
+{'text': 'human habitation on Mars is the health', 'start': 3719.95, 'duration': 5.1}
+{'text': 'and well-being of its residents creating', 'start': 3722.26, 'duration': 4.32}
+{'text': 'a place where work life and living', 'start': 3725.05, 'duration': 3.6}
+{'text': 'combined holistically to ensure they', 'start': 3726.58, 'duration': 3.96}
+{'text': 'feel connected to each other to', 'start': 3728.65, 'duration': 4.32}
+{'text': 'themselves and somehow to their distant', 'start': 3730.54, 'duration': 4.61}
+{'text': 'home', 'start': 3732.97, 'duration': 2.18}
+{'text': 'questions', 'start': 3756.799, 'duration': 3.0}
+{'text': "it's all working the way that is Shawn", 'start': 3782.76, 'duration': 10.9}
+{'text': "liked it don't you have any problems", 'start': 3791.2, 'duration': 4.62}
+{'text': "would say like it's not working or", 'start': 3793.66, 'duration': 4.62}
+{'text': "because I'm from em second I know I mean", 'start': 3795.82, 'duration': 3.87}
+{'text': 'we have been dealing with the computer', 'start': 3798.28, 'duration': 3.87}
+{'text': 'programming and everything and I I keep', 'start': 3799.69, 'duration': 4.14}
+{'text': 'remembering everyday an interview', 'start': 3802.15, 'duration': 4.05}
+{'text': "Byron's a piano and he says computers", 'start': 3803.83, 'duration': 4.289}
+{'text': 'are stupid you have to tell them', 'start': 3806.2, 'duration': 11.669}
+{'text': "everything like I feel like when I'm", 'start': 3808.119, 'duration': 15.711}
+{'text': "watching it it's like it's my", 'start': 3817.869, 'duration': 5.961}
+{'text': "visualization it's a concept I think", 'start': 3841.47, 'duration': 6.37}
+{'text': "that's what we're good at so good at", 'start': 3844.63, 'duration': 6.78}
+{'text': 'somehow bringing lots of bits of', 'start': 3847.84, 'duration': 6.45}
+{'text': 'knowledge and trying to understand most', 'start': 3851.41, 'duration': 5.67}
+{'text': 'of it a little bit of enough of it and', 'start': 3854.29, 'duration': 6.24}
+{'text': 'then bringing it together and coming up', 'start': 3857.08, 'duration': 7.38}
+{'text': 'with the concepts in the idea of it and', 'start': 3860.53, 'duration': 7.05}
+{'text': 'that has to be super powerful right and', 'start': 3864.46, 'duration': 9.45}
+{'text': "that's really important in this field we", 'start': 3867.58, 'duration': 9.39}
+{'text': 'have to kind of sit in this kind of', 'start': 3873.91, 'duration': 6.84}
+{'text': "bizarre zone where you which doesn't", 'start': 3876.97, 'duration': 6.23}
+{'text': 'really happen in space development so', 'start': 3880.75, 'duration': 4.59}
+{'text': 'before I start this bridging before it', 'start': 3883.2, 'duration': 3.58}
+{'text': 'started the other projects I did I', 'start': 3885.34, 'duration': 3.84}
+{'text': 'looked at what is out there right and', 'start': 3886.78, 'duration': 4.35}
+{'text': 'there were like two extremes on the one', 'start': 3889.18, 'duration': 5.24}
+{'text': 'hand side there was people who do really', 'start': 3891.13, 'duration': 7.02}
+{'text': 'detailed studies right maybe about an', 'start': 3894.42, 'duration': 8.65}
+{'text': 'airlock 50 white papers about airlock', 'start': 3898.15, 'duration': 7.26}
+{'text': 'and on the other hand what you also have', 'start': 3903.07, 'duration': 5.66}
+{'text': 'in space is people to come up with', 'start': 3905.41, 'duration': 7.62}
+{'text': 'artist impressions is this kind of like', 'start': 3908.73, 'duration': 5.94}
+{'text': 'you know', 'start': 3913.03, 'duration': 4.049}
+{'text': 'spends about half a day and making a', 'start': 3914.67, 'duration': 5.319}
+{'text': 'drawing but starts fiction because a lot', 'start': 3917.079, 'duration': 5.341}
+{'text': "of it isn't actually true isn't this", 'start': 3919.989, 'duration': 4.32}
+{'text': 'just as loads of these imagery that you', 'start': 3922.42, 'duration': 3.99}
+{'text': 'see done by you said done by NASA and', 'start': 3924.309, 'duration': 4.68}
+{'text': 'all that and you look at me like this is', 'start': 3926.41, 'duration': 3.449}
+{'text': 'a bit ridiculous', 'start': 3928.989, 'duration': 3.931}
+{'text': 'right so I want to make sure that we', 'start': 3929.859, 'duration': 4.65}
+{'text': 'kind of stay in that middle road where I', 'start': 3932.92, 'duration': 4.47}
+{'text': 'are able to kind of give an overall view', 'start': 3934.509, 'duration': 6.21}
+{'text': 'that is hopefully quite believable and', 'start': 3937.39, 'duration': 5.459}
+{'text': 'that used technology that is kind of', 'start': 3940.719, 'duration': 8.431}
+{'text': 'dare or almost there be realistic and be', 'start': 3942.849, 'duration': 8.76}
+{'text': 'grounded in science and an engineer as', 'start': 3949.15, 'duration': 12.54}
+{'text': 'much as I can you know done it yet you', 'start': 3951.609, 'duration': 14.851}
+{'text': "know but that's right we don't build the", 'start': 3961.69, 'duration': 6.659}
+{'text': 'buildings we just the concepts that the', 'start': 3966.46, 'duration': 3.149}
+{'text': 'drawings and the ideas and kind of', 'start': 3968.349, 'duration': 4.851}
+{'text': 'putting it together so I do believe', 'start': 3969.609, 'duration': 5.97}
+{'text': "there's a very particular role to play", 'start': 3973.2, 'duration': 6.339}
+{'text': "in this field but it's not really", 'start': 3975.579, 'duration': 27.03}
+{'text': 'recognized yet I think leaving the space', 'start': 3979.539, 'duration': 25.621}
+{'text': "station everything there's no he wanted", 'start': 4002.609, 'duration': 6.72}
+{'text': 'more private space in the design I saw', 'start': 4005.16, 'duration': 16.77}
+{'text': 'the living area small they kind of part', 'start': 4009.329, 'duration': 14.311}
+{'text': 'of the racking system as well so you', 'start': 4021.93, 'duration': 7.919}
+{'text': 'kind of get like a wire rack and from we', 'start': 4023.64, 'duration': 8.04}
+{'text': 'kind of model this by looking at again', 'start': 4029.849, 'duration': 3.781}
+{'text': 'at Hawley six because at Hawley six we', 'start': 4031.68, 'duration': 5.549}
+{'text': 'asked the people there so how much time', 'start': 4033.63, 'duration': 6.0}
+{'text': 'do you spend in your own room simple', 'start': 4037.229, 'duration': 3.06}
+{'text': 'question', 'start': 4039.63, 'duration': 3.239}
+{'text': 'I actually know that much we just we', 'start': 4040.289, 'duration': 4.83}
+{'text': 'like to be even if we read a book or', 'start': 4042.869, 'duration': 2.911}
+{'text': 'something', 'start': 4045.119, 'duration': 2.941}
+{'text': 'they like to be with other people people', 'start': 4045.78, 'duration': 4.88}
+{'text': 'love to be alone with other people right', 'start': 4048.06, 'duration': 5.46}
+{'text': 'but they do want to help psychologically', 'start': 4050.66, 'duration': 4.84}
+{'text': 'have their own space that was actually', 'start': 4053.52, 'duration': 4.86}
+{'text': "quite formed but the size of it wasn't", 'start': 4055.5, 'duration': 7.08}
+{'text': 'actually a major issue so we do have', 'start': 4058.38, 'duration': 6.33}
+{'text': 'these kind of small pods almost these', 'start': 4062.58, 'duration': 4.47}
+{'text': "racks so they're kind of wide racks that", 'start': 4064.71, 'duration': 4.23}
+{'text': 'everybody has their own private space', 'start': 4067.05, 'duration': 5.58}
+{'text': 'bed a table your your storage in the', 'start': 4068.94, 'duration': 8.13}
+{'text': 'same and do you think that is a need for', 'start': 4072.63, 'duration': 6.9}
+{'text': 'an architect to be in that building or', 'start': 4077.07, 'duration': 6.35}
+{'text': 'is everything designed on earth', 'start': 4079.53, 'duration': 3.89}
+{'text': '50 the people from Holly six they said', 'start': 4095.04, 'duration': 18.6}
+{'text': 'like and also the people astronauts', 'start': 4111.27, 'duration': 4.589}
+{'text': 'right so the astronauts what is an', 'start': 4113.64, 'duration': 4.98}
+{'text': 'astronaut an astronaut is a very good', 'start': 4115.859, 'duration': 7.531}
+{'text': 'operator the top scientists right people', 'start': 4118.62, 'duration': 7.29}
+{'text': 'who can follow instructions really', 'start': 4123.39, 'duration': 6.36}
+{'text': 'clearly really and who really kind of', 'start': 4125.91, 'duration': 6.51}
+{'text': 'can concentrate really well can operate', 'start': 4129.75, 'duration': 7.08}
+{'text': 'an immense stress so the kind of perfect', 'start': 4132.42, 'duration': 12.39}
+{'text': 'robots the European astronaut Center in', 'start': 4136.83, 'duration': 10.65}
+{'text': "Germany there's massive screen that", 'start': 4144.81, 'duration': 6.509}
+{'text': 'shows what each asteroid is gonna do for', 'start': 4147.48, 'duration': 6.18}
+{'text': "the next six months but I think it's", 'start': 4151.319, 'duration': 4.65}
+{'text': "five minutes or ten minutes lots so it's", 'start': 4153.66, 'duration': 4.86}
+{'text': 'completely regulated what they do', 'start': 4155.969, 'duration': 5.461}
+{'text': "there's a control room that knows what", 'start': 4158.52, 'duration': 6.75}
+{'text': 'everybody is doing all the time', 'start': 4161.43, 'duration': 7.32}
+{'text': 'so again halli six on the Arctic base', 'start': 4165.27, 'duration': 6.69}
+{'text': 'the people that go are really practical', 'start': 4168.75, 'duration': 6.75}
+{'text': 'engineers that can fix stuff people that', 'start': 4171.96, 'duration': 4.25}
+{'text': 'can', 'start': 4175.5, 'duration': 2.81}
+{'text': 'operates and do instructions and I can', 'start': 4176.21, 'duration': 5.39}
+{'text': "fix stuff that's the people you want", 'start': 4178.31, 'duration': 3.29}
+{'text': 'interesting about your approach as', 'start': 4188.92, 'duration': 11.47}
+{'text': 'opposed to some speculations run either', 'start': 4196.67, 'duration': 9.33}
+{'text': 'feasible basis looking to geological', 'start': 4200.39, 'duration': 8.13}
+{'text': 'features like you know placing a base on', 'start': 4206.0, 'duration': 4.65}
+{'text': 'shock Shackleton crater because you know', 'start': 4208.52, 'duration': 6.27}
+{'text': 'is places have been surveyed to give you', 'start': 4210.65, 'duration': 6.569}
+{'text': 'an advantage in a way your scheme almost', 'start': 4214.79, 'duration': 6.33}
+{'text': 'relies on there being no cyclicity in', 'start': 4217.219, 'duration': 11.971}
+{'text': 'some ways is on how you would cite but', 'start': 4221.12, 'duration': 12.3}
+{'text': 'we looked at the location or potential', 'start': 4229.19, 'duration': 6.36}
+{'text': 'not what specific location but we did', 'start': 4233.42, 'duration': 4.71}
+{'text': 'think about actually placing it in a', 'start': 4235.55, 'duration': 5.07}
+{'text': 'valley all right the reason for that is', 'start': 4238.13, 'duration': 4.65}
+{'text': "that you've got the mountains that", 'start': 4240.62, 'duration': 4.59}
+{'text': 'protect you already from radiation so we', 'start': 4242.78, 'duration': 3.84}
+{'text': 'were that was one of the reason that we', 'start': 4245.21, 'duration': 3.24}
+{'text': 'looked at you know should that should be', 'start': 4246.62, 'duration': 8.28}
+{'text': 'that kind of location is on the moon and', 'start': 4248.45, 'duration': 8.78}
+{'text': "that's a very good location because", 'start': 4254.9, 'duration': 5.19}
+{'text': "there's an issue with the moon is if", 'start': 4257.23, 'duration': 5.59}
+{'text': "you're on the equator you what you get", 'start': 4260.09, 'duration': 4.83}
+{'text': 'is you get fourteen days of on the moon', 'start': 4262.82, 'duration': 4.32}
+{'text': 'yeah fourteen days of of day and', 'start': 4264.92, 'duration': 4.47}
+{'text': 'fourteen days of not so you have the', 'start': 4267.14, 'duration': 4.29}
+{'text': 'lunar night switch everything plummets', 'start': 4269.39, 'duration': 4.89}
+{'text': 'temperature plummets is unlivable so on', 'start': 4271.43, 'duration': 3.99}
+{'text': "the moon of course you've wanna go check", 'start': 4274.28, 'duration': 3.39}
+{'text': 'out the crater South Pole which means', 'start': 4275.42, 'duration': 4.17}
+{'text': "you always have the Sun let's never", 'start': 4277.67, 'duration': 3.95}
+{'text': 'build the horizon and turns around you', 'start': 4279.59, 'duration': 5.25}
+{'text': 'over twenty-eight days three and sixty', 'start': 4281.62, 'duration': 6.73}
+{'text': 'degrees so from environmental reasons we', 'start': 4284.84, 'duration': 7.59}
+{'text': "didn't really have that constraint but", 'start': 4288.35, 'duration': 6.78}
+{'text': "you're right you could for example start", 'start': 4292.43, 'duration': 5.43}
+{'text': 'to look at lava tubes particularly the', 'start': 4295.13, 'duration': 5.76}
+{'text': "moon as a protection but but then it's", 'start': 4297.86, 'duration': 4.68}
+{'text': "also how'd you get into them what is the", 'start': 4300.89, 'duration': 4.11}
+{'text': 'risk but you could potentially do that', 'start': 4302.54, 'duration': 3.43}
+{'text': "as well yeah that's", 'start': 4305.0, 'duration': 2.92}
+{'text': 'another way of looking but that NASA', 'start': 4305.97, 'duration': 3.57}
+{'text': 'competition was particularly about three', 'start': 4307.92, 'duration': 6.63}
+{'text': 'points anyway it is another way if if', 'start': 4309.54, 'duration': 8.49}
+{'text': 'you would have good data and which we', 'start': 4314.55, 'duration': 6.81}
+{'text': "don't of 3d data of the environments", 'start': 4318.03, 'duration': 6.86}
+{'text': 'then you could start thinking that yeah', 'start': 4321.36, 'duration': 3.53}
+{'text': 'oh my two questions so the first one I', 'start': 4332.949, 'duration': 5.091}
+{'text': 'thought it was really smart at how you', 'start': 4336.699, 'duration': 4.381}
+{'text': 'reuse materials for furniture and', 'start': 4338.04, 'duration': 5.679}
+{'text': 'clothing but I was wondering if because', 'start': 4341.08, 'duration': 4.29}
+{'text': 'most of the furniture is actually the', 'start': 4343.719, 'duration': 3.48}
+{'text': 'racks and if those were printed as well', 'start': 4345.37, 'duration': 3.99}
+{'text': 'or brought there and also the second', 'start': 4347.199, 'duration': 4.831}
+{'text': 'question is you mentioned it gets down', 'start': 4349.36, 'duration': 7.17}
+{'text': 'to minus 150 degrees and how do how do', 'start': 4352.03, 'duration': 7.169}
+{'text': 'the inflatable structures resist the', 'start': 4356.53, 'duration': 8.79}
+{'text': 'cold weather good questions well as you', 'start': 4359.199, 'duration': 7.581}
+{'text': 'saw the video that kind of flat packed', 'start': 4365.32, 'duration': 3.74}
+{'text': 'programming you more something like that', 'start': 4366.78, 'duration': 6.79}
+{'text': "racks but one of the things that I'll", 'start': 4369.06, 'duration': 7.09}
+{'text': 'think about which thoughts kind of', 'start': 4373.57, 'duration': 5.399}
+{'text': 'developing more is could we grow our', 'start': 4376.15, 'duration': 5.37}
+{'text': 'racks can we grow bambua can we make a', 'start': 4378.969, 'duration': 4.71}
+{'text': 'racks out of bamboo right and this is', 'start': 4381.52, 'duration': 3.12}
+{'text': 'got this weird thing because people', 'start': 4383.679, 'duration': 3.631}
+{'text': "would think about space it's all clean", 'start': 4384.64, 'duration': 6.48}
+{'text': 'its wide is brushed aluminium but maybe', 'start': 4387.31, 'duration': 7.47}
+{'text': "it's a little bit closer to these people", 'start': 4391.12, 'duration': 6.63}
+{'text': 'these pioneers in America that had to', 'start': 4394.78, 'duration': 4.98}
+{'text': 'may we grow our own stuff and start', 'start': 4397.75, 'duration': 3.78}
+{'text': "making stuff so I think it'd be", 'start': 4399.76, 'duration': 3.33}
+{'text': 'interesting to kind of see what a base', 'start': 4401.53, 'duration': 3.689}
+{'text': 'looks like after ten years there might', 'start': 4403.09, 'duration': 5.25}
+{'text': 'be some Alemany racks some bamboo rags I', 'start': 4405.219, 'duration': 4.861}
+{'text': 'think I think I think the aesthetics', 'start': 4408.34, 'duration': 3.81}
+{'text': 'will be very different that what we', 'start': 4410.08, 'duration': 5.79}
+{'text': "think they're getting to be right what's", 'start': 4412.15, 'duration': 7.86}
+{'text': 'the same question temperature yeah so', 'start': 4415.87, 'duration': 7.23}
+{'text': "yeah good question I'm not upset sure we", 'start': 4420.01, 'duration': 5.04}
+{'text': "think maybe it's to do with aerogels", 'start': 4423.1, 'duration': 5.55}
+{'text': 'that we use something so that that might', 'start': 4425.05, 'duration': 7.2}
+{'text': 'be inflatable you know the environment', 'start': 4428.65, 'duration': 6.39}
+{'text': 'that you have the the inflatable on the', 'start': 4432.25, 'duration': 6.57}
+{'text': "ISS is insulating it's also kind of", 'start': 4435.04, 'duration': 5.85}
+{'text': 'protecting against micro meteoroids and', 'start': 4438.82, 'duration': 5.07}
+{'text': "all that so we feel it's possible but we", 'start': 4440.89, 'duration': 7.73}
+{'text': "haven't 100% figured it out yeah", 'start': 4443.89, 'duration': 4.73}
+{'text': "other questions yes so I've seen this", 'start': 4449.22, 'duration': 12.6}
+{'text': 'idea grow from sandpit with some small', 'start': 4458.49, 'duration': 6.12}
+{'text': 'robots to the concept you have now how', 'start': 4461.82, 'duration': 4.41}
+{'text': 'do you think this will evolve in the', 'start': 4464.61, 'duration': 4.44}
+{'text': "next years where it's gonna go next", 'start': 4466.23, 'duration': 8.58}
+{'text': 'yes well for me the next I would love to', 'start': 4469.05, 'duration': 13.26}
+{'text': 'do is really test base most of the', 'start': 4474.81, 'duration': 9.3}
+{'text': 'analog have been developed by NASA base', 'start': 4482.31, 'duration': 4.2}
+{'text': 'and all that there was no designer', 'start': 4484.11, 'duration': 6.54}
+{'text': "involved but they terribly built it's", 'start': 4486.51, 'duration': 5.73}
+{'text': 'all about of psychology of these', 'start': 4490.65, 'duration': 2.85}
+{'text': 'astronauts they kind of put them in', 'start': 4492.24, 'duration': 3.03}
+{'text': 'these analogs and then do tests and', 'start': 4493.5, 'duration': 6.09}
+{'text': 'Atacama Desert or on the Antarctic but I', 'start': 4495.27, 'duration': 6.93}
+{'text': 'think the environments we live in is it', 'start': 4499.59, 'duration': 5.45}
+{'text': 'has a mash massive influence of', 'start': 4502.2, 'duration': 6.0}
+{'text': "psychological and your well-being so I'm", 'start': 4505.04, 'duration': 6.34}
+{'text': "really that's for me the next step is", 'start': 4508.2, 'duration': 6.87}
+{'text': 'actually building one and as a proper', 'start': 4511.38, 'duration': 7.86}
+{'text': 'MRSA analog somewhere on earth so step', 'start': 4515.07, 'duration': 19.11}
+{'text': 'past them Stocki', 'start': 4519.24, 'duration': 18.99}
+{'text': 'they made this 3d print like a 3d', 'start': 4534.18, 'duration': 20.76}
+{'text': 'printer to use the cabo shells to that', 'start': 4538.23, 'duration': 18.0}
+{'text': 'we have a bunch of three printers in', 'start': 4554.94, 'duration': 5.34}
+{'text': 'there to kind of maybe methyl PrinterOn', 'start': 4556.23, 'duration': 9.15}
+{'text': 'who knows we actually bring the printing', 'start': 4560.28, 'duration': 8.73}
+{'text': 'is still require complicated process', 'start': 4565.38, 'duration': 6.18}
+{'text': 'that needs very much control', 'start': 4569.01, 'duration': 4.61}
+{'text': 'environments', 'start': 4571.56, 'duration': 4.7}
+{'text': "you know it won't be the first", 'start': 4573.62, 'duration': 6.18}
+{'text': 'generation I think you know there is an', 'start': 4576.26, 'duration': 5.55}
+{'text': 'FTM printer on the international space', 'start': 4579.8, 'duration': 3.15}
+{'text': 'station I think they can bring the', 'start': 4581.81, 'duration': 2.49}
+{'text': 'second one in now there was all about', 'start': 4582.95, 'duration': 4.89}
+{'text': 'NASA he said it will now as well but', 'start': 4584.3, 'duration': 6.36}
+{'text': "it's so but if you kind of if you've a", 'start': 4587.84, 'duration': 5.1}
+{'text': 'little bit if you kind of see how much', 'start': 4590.66, 'duration': 4.35}
+{'text': 'involvement is in there in actually', 'start': 4592.94, 'duration': 3.42}
+{'text': 'developing something that is actually', 'start': 4595.01, 'duration': 3.59}
+{'text': "works in space it's it's pretty crazy", 'start': 4596.36, 'duration': 5.25}
+{'text': 'and you know development which is the', 'start': 4598.6, 'duration': 4.75}
+{'text': 'simple of the EM printer to get it to', 'start': 4601.61, 'duration': 5.13}
+{'text': 'work in the ISS yeah metal bridges I', 'start': 4603.35, 'duration': 10.92}
+{'text': 'think was still bit the second question', 'start': 4606.74, 'duration': 10.53}
+{'text': 'is related to the fabrication of shell', 'start': 4614.27, 'duration': 6.06}
+{'text': "itself usually exclusions don't exactly", 'start': 4617.27, 'duration': 20.97}
+{'text': 'happen perfectly the on deposit and all', 'start': 4620.33, 'duration': 22.07}
+{'text': 'the things that will need to be looks at', 'start': 4638.24, 'duration': 7.89}
+{'text': 'you you know yeah of course but you know', 'start': 4642.4, 'duration': 5.35}
+{'text': "in a three-month project you can't", 'start': 4646.13, 'duration': 3.6}
+{'text': 'really do everything but yeah thank you', 'start': 4647.75, 'duration': 6.35}
+{'text': 'now you kind of need to do that', 'start': 4649.73, 'duration': 4.37}
+{'text': "we're just two engineers sitting at the", 'start': 4670.69, 'duration': 6.809}
+{'text': 'back here we read enjoyed this talk', 'start': 4673.309, 'duration': 4.19}
+{'text': 'between the between the brief from NASA', 'start': 4678.639, 'duration': 7.511}
+{'text': 'and the delivery of your proposal how', 'start': 4682.969, 'duration': 6.651}
+{'text': 'long did you take what how much time', 'start': 4686.15, 'duration': 6.61}
+{'text': '[Music]', 'start': 4689.62, 'duration': 3.14}
+{'text': '[Music]', 'start': 4701.87, 'duration': 3.159}
+{'text': 'what we did at one point was kind of', 'start': 4705.039, 'duration': 9.96}
+{'text': 'halfway through the project and we felt', 'start': 4710.269, 'duration': 4.73}
+{'text': 'I need some people to come and give me', 'start': 4715.179, 'duration': 10.81}
+{'text': 'some input so symposium and invited', 'start': 4717.44, 'duration': 12.179}
+{'text': 'people that are bring us interesting', 'start': 4725.989, 'duration': 5.971}
+{'text': 'knowledge for this project and so we', 'start': 4729.619, 'duration': 6.781}
+{'text': 'invited professor of mining we invited', 'start': 4731.96, 'duration': 8.88}
+{'text': 'people robotics backgrounds people with', 'start': 4736.4, 'duration': 8.759}
+{'text': 'and was it the space anthropologists we', 'start': 4740.84, 'duration': 6.149}
+{'text': 'brought in people with radiation', 'start': 4745.159, 'duration': 5.19}
+{'text': 'radiation experts we bought them all in', 'start': 4746.989, 'duration': 6.451}
+{'text': 'to room we had like quick presentations', 'start': 4750.349, 'duration': 4.56}
+{'text': 'and then most of the afternoon what we', 'start': 4753.44, 'duration': 3.329}
+{'text': 'did we did not actual quit with all of', 'start': 4754.909, 'duration': 4.77}
+{'text': 'them so we put a massive wall all the', 'start': 4756.769, 'duration': 5.43}
+{'text': 'scientists please tell us everything', 'start': 4759.679, 'duration': 4.5}
+{'text': "that's wrong with this right and we talk", 'start': 4762.199, 'duration': 2.971}
+{'text': "through it so that we didn't actually", 'start': 4764.179, 'duration': 3.181}
+{'text': 'quit and it took us about four hours and', 'start': 4765.17, 'duration': 4.23}
+{'text': 'it was the most interesting afternoon we', 'start': 4767.36, 'duration': 4.5}
+{'text': 'had we taped the whole thing and that', 'start': 4769.4, 'duration': 4.619}
+{'text': 'was for us really interesting because it', 'start': 4771.86, 'duration': 3.929}
+{'text': 'just kind of shifted things that we were', 'start': 4774.019, 'duration': 4.47}
+{'text': 'able to kind of change things very', 'start': 4775.789, 'duration': 5.1}
+{'text': 'quickly and and the funny thing was is', 'start': 4778.489, 'duration': 4.05}
+{'text': 'that some of the scientists thought this', 'start': 4780.889, 'duration': 3.96}
+{'text': 'kind of review process was quite', 'start': 4782.539, 'duration': 3.96}
+{'text': 'interesting because they never do that', 'start': 4784.849, 'duration': 4.29}
+{'text': 'they never stand in a room with ten', 'start': 4786.499, 'duration': 5.79}
+{'text': 'other people and just really hack into', 'start': 4789.139, 'duration': 9.63}
+{'text': 'it you know that process of design they', 'start': 4792.289, 'duration': 7.521}
+{'text': "didn't know", 'start': 4798.769, 'duration': 2.931}
+{'text': 'for them it was that kind of Wow maybe', 'start': 4799.81, 'duration': 3.0}
+{'text': 'we should try to eat it as well', 'start': 4801.7, 'duration': 6.84}
+{'text': 'sometimes was another question sausage', 'start': 4802.81, 'duration': 11.84}
+{'text': 'oh cool cool thank you very much', 'start': 4808.54, 'duration': 6.11}

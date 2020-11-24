@@ -1,0 +1,1364 @@
+{'text': 'Good evening.', 'start': 8.707, 'duration': 1.535}
+{'text': 'Hi, everybody.', 'start': 10.342, 'duration': 0.568}
+{'text': "I'm Diane Davis.", 'start': 11.01, 'duration': 1.268}
+{'text': "I'm the chair of the Department\nof Urban Planning and Design", 'start': 12.378, 'duration': 2.302}
+{'text': 'here at the Graduate\nSchool of Design.', 'start': 14.78, 'duration': 2.603}
+{'text': 'And it is my honor\nand extreme pleasure', 'start': 17.483, 'duration': 2.27}
+{'text': 'to be able to introduce\nProfessor Kees Christiaanse', 'start': 19.853, 'duration': 3.403}
+{'text': 'tonight, who will be speaking\non the subject of inversion', 'start': 23.356, 'duration': 3.27}
+{'text': 'and subtraction in urban design.', 'start': 26.726, 'duration': 3.97}
+{'text': 'His keynote is a capstone\nevent, the capstone event,', 'start': 30.796, 'duration': 4.038}
+{'text': 'of a conference organized by\nour doctor of design students', 'start': 34.934, 'duration': 3.47}
+{'text': 'today, structured around\nthe theme of urban form,', 'start': 38.505, 'duration': 3.803}
+{'text': 'and counting on the\nparticipation of some', 'start': 42.408, 'duration': 2.536}
+{'text': "of today's leading architectural\ntheorists, landscape", 'start': 45.044, 'duration': 2.97}
+{'text': 'architects, planners,\nurban designers,', 'start': 48.114, 'duration': 4.07}
+{'text': 'and geographers of built form.', 'start': 52.284, 'duration': 1.368}
+{'text': "And they're here\nin the audience,", 'start': 53.753, 'duration': 1.034}
+{'text': "and I hope you'll get a\nchance to chat with them", 'start': 54.888, 'duration': 1.868}
+{'text': 'after the presentation.', 'start': 56.856, 'duration': 1.902}
+{'text': 'Kees is doing double\nduty for us tonight', 'start': 58.858, 'duration': 3.003}
+{'text': 'as he has already shared\nhis reflections and thoughts', 'start': 61.961, 'duration': 3.536}
+{'text': 'this afternoon on recent\nurban transformations,', 'start': 65.598, 'duration': 3.904}
+{'text': 'has filtered through\nhis own deep knowledge', 'start': 69.602, 'duration': 1.835}
+{'text': 'and professional practice\nover the last 30 plus years.', 'start': 71.537, 'duration': 5.005}
+{'text': "And so we're so thankful\nthat he has also", 'start': 76.642, 'duration': 2.102}
+{'text': 'agreed to give us a\nspecial lecture tonight.', 'start': 78.844, 'duration': 4.772}
+{'text': 'It would be banal,\neven if somewhat true,', 'start': 83.716, 'duration': 2.936}
+{'text': 'to say that Kees Christiaanse\nneeds no introduction,', 'start': 86.752, 'duration': 3.837}
+{'text': "particularly to those of us\nhere at Harvard's Graduate", 'start': 90.689, 'duration': 3.771}
+{'text': 'School of Design.', 'start': 94.56, 'duration': 2.068}
+{'text': 'He is, after all, one of\nthe influential scholars', 'start': 96.729, 'duration': 4.171}
+{'text': 'and practitioners\nof urbanism today.', 'start': 101.0, 'duration': 4.471}
+{'text': 'But as a chair of\na department that', 'start': 105.571, 'duration': 1.535}
+{'text': 'houses two programs, urban\nplanning and urban design,', 'start': 107.206, 'duration': 5.439}
+{'text': 'it is especially important\nand meaningful to me,', 'start': 112.745, 'duration': 2.77}
+{'text': 'personally, to be able\nto introduce Kees,', 'start': 115.615, 'duration': 2.87}
+{'text': 'because he has built his\nsterling reputation not just', 'start': 118.585, 'duration': 4.003}
+{'text': 'around his many important\nbuilt projects, teaching,', 'start': 122.688, 'duration': 3.537}
+{'text': 'and scholarly\npublications, but also', 'start': 126.325, 'duration': 2.97}
+{'text': 'through his own active\nengagement with both', 'start': 129.395, 'duration': 2.903}
+{'text': 'the fields of urban\nplanning and urban design.', 'start': 132.398, 'duration': 3.604}
+{'text': 'In his very persona,\nand of course,', 'start': 136.102, 'duration': 2.736}
+{'text': 'with his built\nworks and writings,', 'start': 138.938, 'duration': 2.269}
+{'text': 'he has embodied the creative\ntensions inherent in any effort', 'start': 141.307, 'duration': 5.138}
+{'text': 'to synergize the\ninsights, sensitivities,', 'start': 146.545, 'duration': 4.138}
+{'text': 'and skills of these two\nseparate, but intertwined,', 'start': 150.783, 'duration': 4.138}
+{'text': 'disciplines.', 'start': 155.021, 'duration': 2.735}
+{'text': 'The achievement\nof this synthesis', 'start': 157.856, 'duration': 2.803}
+{'text': 'is considered by many to\nbe one of the holy grails', 'start': 160.759, 'duration': 3.27}
+{'text': 'of the design disciplines.', 'start': 164.129, 'duration': 2.87}
+{'text': 'One way that Kees has advanced\nthis synthesis in his projects', 'start': 167.099, 'duration': 4.338}
+{'text': 'and writings is by developing\nnew action paradigms', 'start': 171.537, 'duration': 3.704}
+{'text': 'and alternative\nconceptual frameworks', 'start': 175.341, 'duration': 2.502}
+{'text': 'for guiding interventions\nin the built environment.', 'start': 177.943, 'duration': 3.604}
+{'text': 'He is known, for\nexample, as someone', 'start': 181.647, 'duration': 2.302}
+{'text': 'who thinks about the role that\nbuildings and neighborhoods', 'start': 184.049, 'duration': 3.003}
+{'text': 'play as "socializing machines."', 'start': 187.152, 'duration': 3.504}
+{'text': 'And given my own\nbackground in sociology,', 'start': 190.756, 'duration': 2.536}
+{'text': 'this concept, and his own\nlongstanding commitment', 'start': 193.392, 'duration': 3.47}
+{'text': 'to paying attention to the\nexperiential dimensions', 'start': 196.962, 'duration': 3.671}
+{'text': 'of urban design\nprojects, all reveal', 'start': 200.733, 'duration': 3.17}
+{'text': 'a remarkable, transdisciplinary\nintellectual breadth.', 'start': 204.003, 'duration': 4.504}
+{'text': 'Likewise, commentators\nhave observed', 'start': 208.607, 'duration': 3.47}
+{'text': 'that much of his\nbuilt work shows', 'start': 212.178, 'duration': 2.836}
+{'text': 'the influence of urban\nplanners and social activists,', 'start': 215.114, 'duration': 3.203}
+{'text': 'like Jane Jacobs.', 'start': 218.417, 'duration': 2.102}
+{'text': "And I might similarly note that\nin this afternoon's discussion", 'start': 220.619, 'duration': 3.437}
+{'text': 'of new trends in\nurban design and city', 'start': 224.156, 'duration': 1.836}
+{'text': 'building, Kees eloquently\nframed his views on the limits', 'start': 226.092, 'duration': 3.804}
+{'text': "and possibilities of good\nurban design in today's world", 'start': 229.996, 'duration': 4.371}
+{'text': 'as being hamstrung\nby individualizing', 'start': 234.467, 'duration': 2.936}
+{'text': 'cultural orientations\nand transformed', 'start': 237.503, 'duration': 3.17}
+{'text': 'political practices,\nboth of which', 'start': 240.773, 'duration': 2.803}
+{'text': 'have emerged with a\nvengeance, in the context', 'start': 243.676, 'duration': 4.805}
+{'text': 'of neoliberalism-induced\ndeclining state', 'start': 248.581, 'duration': 3.003}
+{'text': 'efforts to actively\ndiscipline market actors', 'start': 251.684, 'duration': 4.171}
+{'text': 'and forces in the service\nof the public good.', 'start': 255.955, 'duration': 4.637}
+{'text': 'With that type of grounded\npolitical, economic approach', 'start': 260.692, 'duration': 2.971}
+{'text': 'to understanding the\nbarriers to creating', 'start': 263.763, 'duration': 2.135}
+{'text': "equitable and inclusive urban\nconditions in today's world,", 'start': 265.998, 'duration': 4.271}
+{'text': 'I would say that Kees speaks\nnot just to urban designers,', 'start': 270.369, 'duration': 4.438}
+{'text': 'but to all of us who have faith\nthat the design professions are', 'start': 274.907, 'duration': 5.038}
+{'text': 'central to creating\nmore sustainable,', 'start': 280.045, 'duration': 3.504}
+{'text': 'just, and human\nurban environments.', 'start': 283.649, 'duration': 4.538}
+{'text': 'Before I turn the\nmicrophone over to Kees,', 'start': 288.287, 'duration': 1.835}
+{'text': 'let me just give you a brief.', 'start': 290.222, 'duration': 1.368}
+{'text': "And it can't be too, too\nbrief, but an overview", 'start': 291.691, 'duration': 2.402}
+{'text': 'of his extraordinary\ncareer so far.', 'start': 294.193, 'duration': 3.537}
+{'text': 'Kees Christiaanse studied\narchitecture and urban planning', 'start': 297.83, 'duration': 3.003}
+{'text': 'at TU Delft.', 'start': 300.933, 'duration': 1.968}
+{'text': 'In 1980, he joined the Office\nfor Metropolitan Architecture,', 'start': 303.001, 'duration': 3.404}
+{'text': 'OMA, and was appointed\na partner in 1983.', 'start': 306.505, 'duration': 4.071}
+{'text': 'In 1989, he founded\nhis own company,', 'start': 310.676, 'duration': 2.903}
+{'text': 'now called KCAP Architects\nand Planners in Rotterdam.', 'start': 313.679, 'duration': 4.304}
+{'text': 'In these firms, Kees\nfocused much of his work', 'start': 318.083, 'duration': 2.937}
+{'text': 'on urban assignments\nin complex situations', 'start': 321.12, 'duration': 2.503}
+{'text': 'and on how to guide\nurban processes.', 'start': 323.723, 'duration': 3.47}
+{'text': "And he's an expert in the\ndevelopment of university", 'start': 327.293, 'duration': 2.235}
+{'text': 'campuses and in\nthe revitalization', 'start': 329.628, 'duration': 1.902}
+{'text': 'of former industrial\nrailway and harbor areas,', 'start': 331.63, 'duration': 3.637}
+{'text': 'as well as a supervisor\nthrough those works', 'start': 335.367, 'duration': 2.57}
+{'text': 'of several international\nurban developments.', 'start': 338.037, 'duration': 3.336}
+{'text': 'Throughout his career,\nKees has always', 'start': 341.473, 'duration': 1.936}
+{'text': 'combined teaching and research\nwith his professional work,', 'start': 343.509, 'duration': 4.939}
+{'text': 'generating fruitful\ncross-fertilization in frames', 'start': 348.548, 'duration': 3.369}
+{'text': 'of thinking and modes of action.', 'start': 352.017, 'duration': 2.703}
+{'text': 'From 1996 until 2003,\nhe held a professorship', 'start': 354.821, 'duration': 3.869}
+{'text': 'for architecture\nand urban planning', 'start': 358.79, 'duration': 2.17}
+{'text': 'at the Technical\nUniversity of Berlin.', 'start': 361.06, 'duration': 2.669}
+{'text': 'And from 2013 to 2018 has been\nchair of the Urban Planning', 'start': 363.829, 'duration': 4.538}
+{'text': 'Institute of the Swiss Federal\nInstitute of Technology--', 'start': 368.467, 'duration': 2.603}
+{'text': 'is that time-- yeah,\nthat time is correct--', 'start': 371.17, 'duration': 2.368}
+{'text': 'just until 2018 in Zurich.', 'start': 373.638, 'duration': 2.537}
+{'text': 'And since 2010, he has been\ninvolved in the Future Cities', 'start': 376.275, 'duration': 3.437}
+{'text': 'Laboratory in Singapore.', 'start': 379.812, 'duration': 2.736}
+{'text': 'In 2013, he was\nappointed chairperson', 'start': 382.648, 'duration': 2.669}
+{'text': 'of the External Advisory Board\nof the Architecture and Design', 'start': 385.417, 'duration': 2.636}
+{'text': 'Department of Singapore\nUniversity of Technology', 'start': 388.154, 'duration': 2.602}
+{'text': 'and Design.', 'start': 390.856, 'duration': 1.902}
+{'text': 'Kees is also author of\nmultiple books and essays', 'start': 392.858, 'duration': 3.17}
+{'text': 'about architecture\nand urban planning,', 'start': 396.128, 'duration': 1.936}
+{'text': 'and they include The\nCity as a Resource:', 'start': 398.164, 'duration': 2.635}
+{'text': 'Concepts and Methods for Urban\nDesign, The Noise Landscape:', 'start': 400.899, 'duration': 4.171}
+{'text': 'A Spatial Exploration of\nAirports and Cities, The Potato', 'start': 405.17, 'duration': 3.771}
+{'text': 'Plan Collection: 40 Cities\nThrough the Lens of Patrick', 'start': 409.041, 'duration': 3.537}
+{'text': 'Abercrombie, and City as Loft:\nAdaptive Reuse as a Resource', 'start': 412.678, 'duration': 5.972}
+{'text': 'for Sustainable\nUrban Development.', 'start': 418.75, 'duration': 3.738}
+{'text': 'He was a curator of the\nFourth International', 'start': 422.588, 'duration': 2.469}
+{'text': 'Biennale in Rotterdam in 2009.', 'start': 425.157, 'duration': 3.67}
+{'text': 'Just last year, he was\nawarded the ARC17 Oeuvre', 'start': 428.928, 'duration': 4.738}
+{'text': 'Award in recognition of his\ninfluences in the field,', 'start': 433.766, 'duration': 6.039}
+{'text': 'and just recently was announced\nas a speaker for the World', 'start': 439.905, 'duration': 2.736}
+{'text': 'Architecture Festival,\nor was in 2018.', 'start': 442.741, 'duration': 4.338}
+{'text': "There's probably a lot\nmore that I missed,", 'start': 447.179, 'duration': 2.169}
+{'text': 'but I think we are\ngoing to let his words', 'start': 449.448, 'duration': 2.836}
+{'text': 'and his work speak\nfor themselves', 'start': 452.384, 'duration': 2.236}
+{'text': 'in the rest of the evening.', 'start': 454.72, 'duration': 1.301}
+{'text': 'And so without further ado, let\nme introduce Kees Christiaanse.', 'start': 456.121, 'duration': 3.236}
+{'text': '[applause]', 'start': 459.458, 'duration': 2.37}
+{'text': 'That was too much honor.', 'start': 469.368, 'duration': 2.636}
+{'text': "I'm very honored to be here.", 'start': 472.104, 'duration': 1.535}
+{'text': 'Thank you very much.', 'start': 473.739, 'duration': 1.235}
+{'text': 'And I would call myself a\nrather pragmatic practitioner', 'start': 475.074, 'duration': 4.171}
+{'text': 'teaching urban design.', 'start': 479.345, 'duration': 2.936}
+{'text': 'I retired a month ago from\nATR, and we had a big party,', 'start': 482.381, 'duration': 5.872}
+{'text': 'and I released two books.', 'start': 488.353, 'duration': 1.769}
+{'text': 'The one is the textbook\non the left-hand side', 'start': 490.223, 'duration': 3.303}
+{'text': 'with some nice sketches.', 'start': 493.626, 'duration': 1.167}
+{'text': 'And the right hand is the\nPotato Plant Collection', 'start': 494.893, 'duration': 2.97}
+{'text': 'that Diane mentioned, with\n40 Patrick Abercrombie', 'start': 497.963, 'duration': 5.439}
+{'text': 'maps of world series made by\ndifferent architecture schools.', 'start': 503.502, 'duration': 6.807}
+{'text': 'I am a child of\nnot of the 68-ers,', 'start': 510.409, 'duration': 5.205}
+{'text': "but I'm a child of\nthe 67-ers, which", 'start': 515.714, 'duration': 2.703}
+{'text': 'are the Provos in Amsterdam, who\nwere a little bit older than me', 'start': 518.517, 'duration': 4.237}
+{'text': 'and who were much more\nplayful, and maybe also', 'start': 522.855, 'duration': 4.504}
+{'text': 'productive, constructive\nin the sense of urban', 'start': 527.46, 'duration': 3.703}
+{'text': 'than the Paris 1968 people.', 'start': 531.263, 'duration': 2.836}
+{'text': 'The Provo movement was\nalso rather coming forward', 'start': 534.199, 'duration': 4.305}
+{'text': 'out of a relation with the\nflux movement in New York,', 'start': 538.604, 'duration': 4.17}
+{'text': 'instead of having a very\nstrong link to Paris.', 'start': 542.875, 'duration': 5.172}
+{'text': 'This guy here is Luud\nSchimmelpenninck.', 'start': 548.147, 'duration': 2.302}
+{'text': 'He was the head\nProvo, so to say,', 'start': 550.549, 'duration': 2.937}
+{'text': 'and they organized\nprotests, performances,', 'start': 553.586, 'duration': 2.602}
+{'text': 'political rallies.', 'start': 556.288, 'duration': 3.003}
+{'text': 'But moreover, or\nvery importantly,', 'start': 559.391, 'duration': 3.471}
+{'text': 'they produced projects.', 'start': 562.962, 'duration': 2.568}
+{'text': 'One of the projects, they were\nalways wearing white Wrangler', 'start': 565.63, 'duration': 3.337}
+{'text': 'suits, as you can see,\nand one of the projects', 'start': 569.068, 'duration': 2.869}
+{'text': 'were the white plans.', 'start': 572.037, 'duration': 1.435}
+{'text': 'They had the white\nhousing plan, which', 'start': 573.572, 'duration': 1.935}
+{'text': 'led to the squatter\nmovement and which', 'start': 575.607, 'duration': 1.869}
+{'text': 'led to me being a\nsquatter for 10 years.', 'start': 577.576, 'duration': 3.303}
+{'text': 'They had the white bicycle\nplan, which you see here.', 'start': 580.979, 'duration': 3.337}
+{'text': 'They had the white car plan, and\nanother number of white plans.', 'start': 584.416, 'duration': 6.173}
+{'text': 'The white bicycle plan\nconsisted of a very modern idea.', 'start': 590.689, 'duration': 5.706}
+{'text': 'Namely, we take a\nthousand white bikes.', 'start': 596.495, 'duration': 3.436}
+{'text': 'We sprayed them all white, and\nwe distributed across the city', 'start': 600.031, 'duration': 4.105}
+{'text': 'without locking them.', 'start': 604.236, 'duration': 1.268}
+{'text': 'And all the people in the\ncity can use them, share them,', 'start': 605.604, 'duration': 4.204}
+{'text': "and just put them back when\nthey don't need them anymore.", 'start': 609.908, 'duration': 3.771}
+{'text': 'This, of course, was\nin the pre-digital age', 'start': 613.779, 'duration': 3.871}
+{'text': 'and, therefore, the bicycles\nwere thrown into the canals.', 'start': 617.75, 'duration': 3.604}
+{'text': 'They were repossessed\nand locked,', 'start': 621.454, 'duration': 3.103}
+{'text': 'or they were demolished.', 'start': 624.657, 'duration': 3.002}
+{'text': "And it's interesting that\nnow we have the means", 'start': 627.759, 'duration': 3.938}
+{'text': 'to deal with that.', 'start': 631.797, 'duration': 3.003}
+{'text': 'He was also-- left\nin the car, he', 'start': 634.9, 'duration': 2.736}
+{'text': 'is, with a famous photo model\nof that time and the prototype', 'start': 637.736, 'duration': 4.338}
+{'text': 'of the white car.', 'start': 642.174, 'duration': 1.268}
+{'text': 'This was a very\nrevolutionary thing', 'start': 643.542, 'duration': 2.135}
+{'text': 'because there was this\nshared electric car, which', 'start': 645.777, 'duration': 3.737}
+{'text': 'you could be a member of.', 'start': 649.614, 'duration': 1.669}
+{'text': 'There were eight stations\nin the center of Amsterdam.', 'start': 651.383, 'duration': 2.536}
+{'text': 'You see down below\none of the stations.', 'start': 654.019, 'duration': 2.57}
+{'text': 'Of course, they had\nvery heavy batteries', 'start': 656.689, 'duration': 2.602}
+{'text': 'that took 24 hours to charge,\nor something like that.', 'start': 659.391, 'duration': 2.903}
+{'text': 'So it went all a\nlittle bit slow.', 'start': 662.395, 'duration': 1.967}
+{'text': 'And both the bicycles\nand these electric cars', 'start': 664.463, 'duration': 3.203}
+{'text': 'ended up, in the morning,\nat the central station.', 'start': 667.766, 'duration': 2.336}
+{'text': 'And then they had\nto organize trucks', 'start': 670.202, 'duration': 1.669}
+{'text': "to redistribute them because\notherwise, the system didn't", 'start': 671.971, 'duration': 3.136}
+{'text': 'work.', 'start': 675.207, 'duration': 1.268}
+{'text': 'Here, you see, below right,\nyou see Luud Schimmelpenninck', 'start': 676.575, 'duration': 4.204}
+{'text': 'today, and he is still\nhaving a consulting', 'start': 680.879, 'duration': 2.57}
+{'text': 'firm on urban mobility.', 'start': 683.549, 'duration': 3.036}
+{'text': 'He develops menus\nand apps and systems.', 'start': 686.685, 'duration': 3.537}
+{'text': 'And one of his\nsystems is car2go,', 'start': 690.322, 'duration': 2.435}
+{'text': 'which is a electric\ncar sharing thing.', 'start': 692.857, 'duration': 3.204}
+{'text': 'And on the top, you see the\nZero bike, which you all know,', 'start': 696.161, 'duration': 2.703}
+{'text': 'which are also thrown in\nthe canal in the meantime.', 'start': 698.964, 'duration': 4.671}
+{'text': 'These white plans were\ndeveloped, more or less,', 'start': 703.736, 'duration': 3.402}
+{'text': 'at the same time when Yoko and\nJong came to the Hilton Hotel', 'start': 707.238, 'duration': 3.971}
+{'text': 'in Rotterdam for their\n"Bed Peace" performance.', 'start': 711.31, 'duration': 3.77}
+{'text': 'They did that because\nof the provos,', 'start': 715.18, 'duration': 2.903}
+{'text': 'and they got a bike also.', 'start': 718.183, 'duration': 3.303}
+{'text': 'Their concept was also\nto be dressed in white,', 'start': 721.587, 'duration': 2.202}
+{'text': 'to be in white sheets, and\nto talk about peaceful things', 'start': 723.889, 'duration': 4.037}
+{'text': 'and receive people that all had\nto be doing something in white.', 'start': 728.026, 'duration': 4.572}
+{'text': 'And they had an\nintensive relationship.', 'start': 732.698, 'duration': 2.802}
+{'text': 'Even the queen passed\nby in white clothes.', 'start': 735.6, 'duration': 4.405}
+{'text': "I don't have a\npicture out of that.", 'start': 740.105, 'duration': 2.936}
+{'text': 'I think Luud\nSchimmelpenninck was', 'start': 743.141, 'duration': 3.07}
+{'text': 'instrumental for this\nculture of sharing devices', 'start': 746.311, 'duration': 7.775}
+{'text': 'within urban mobility.', 'start': 754.186, 'duration': 1.835}
+{'text': 'He was really a pioneer.', 'start': 756.121, 'duration': 1.301}
+{'text': 'And it has led, like I said\nbefore, to all kinds of systems', 'start': 757.522, 'duration': 4.172}
+{'text': 'that we benefit from now today,\nwhich are extremely useful', 'start': 761.794, 'duration': 5.839}
+{'text': 'and which also prevent\nthings like stealing', 'start': 767.733, 'duration': 4.338}
+{'text': 'and demolishment, et cetera.', 'start': 772.171, 'duration': 2.102}
+{'text': 'I worked from 1980 at OMA.', 'start': 776.875, 'duration': 3.737}
+{'text': 'That means we founded OMA.', 'start': 780.712, 'duration': 2.436}
+{'text': 'OMA was consisting of\ntwo couples in London.', 'start': 783.249, 'duration': 4.471}
+{'text': "There's [inaudible]\nand the cool houses.", 'start': 787.82, 'duration': 2.568}
+{'text': 'And on the moment that\nthe leaders in New York', 'start': 790.489, 'duration': 2.436}
+{'text': 'arrived in the Netherlands,\nRem got a question', 'start': 793.025, 'duration': 3.904}
+{'text': 'to do three projects.', 'start': 797.029, 'duration': 2.001}
+{'text': 'Then he asked his students\nto set up the office,', 'start': 799.13, 'duration': 2.837}
+{'text': 'to let it look like an office.', 'start': 802.067, 'duration': 2.469}
+{'text': 'And so we hired a place\nand then OMA started.', 'start': 804.637, 'duration': 6.239}
+{'text': 'We had a lot of\ntrouble, but in the end,', 'start': 810.976, 'duration': 1.635}
+{'text': 'it became very\nsuccessful, as you know.', 'start': 812.711, 'duration': 1.935}
+{'text': 'And in the end, everybody\nwho is not Rem has to leave,', 'start': 814.746, 'duration': 5.773}
+{'text': 'which is good.', 'start': 820.619, 'duration': 2.736}
+{'text': 'This project was called\n[inaudible] in Amsterdam North.', 'start': 823.455, 'duration': 2.936}
+{'text': 'It was one of the first\nport conversion areas.', 'start': 826.492, 'duration': 4.07}
+{'text': 'In the top part, you see more.', 'start': 830.662, 'duration': 3.237}
+{'text': 'And it was in the times of\nheavy residents participation', 'start': 833.999, 'duration': 5.639}
+{'text': 'and political left wing regime\nin the city of Amsterdam.', 'start': 839.738, 'duration': 6.706}
+{'text': 'It was a period when the\ninvestors had nothing', 'start': 846.545, 'duration': 2.402}
+{'text': 'to say at all, and that meant\nthat the whole development was', 'start': 849.047, 'duration': 5.105}
+{'text': 'kind of geared by the residents\nof the dock workers that', 'start': 854.252, 'duration': 4.038}
+{'text': 'were living there, whose dock\nwas going to be converted.', 'start': 858.39, 'duration': 4.137}
+{'text': 'And therefore, there\nare 1,372 social houses.', 'start': 862.627, 'duration': 5.173}
+{'text': "There's only social housing,\nsome schools, some community", 'start': 867.9, 'duration': 3.036}
+{'text': 'centers.', 'start': 871.036, 'duration': 1.068}
+{'text': 'And one type is row\nhouse, which you can see,', 'start': 872.204, 'duration': 3.603}
+{'text': 'which we designed in such a way\nthat every bedroom could look', 'start': 875.907, 'duration': 4.438}
+{'text': 'across his garden to the water.', 'start': 880.445, 'duration': 3.237}
+{'text': 'And the front part\nwas urban villas.', 'start': 883.782, 'duration': 2.436}
+{'text': 'Actually, the\nurban villages were', 'start': 886.318, 'duration': 1.668}
+{'text': 'selected after they rejected\nthat we wanted to build towers.', 'start': 888.086, 'duration': 5.772}
+{'text': 'This is the very A1\nsite in Amsterdam.', 'start': 893.958, 'duration': 3.337}
+{'text': 'So this would be Battery Park\nin New York, as a comparison.', 'start': 897.395, 'duration': 3.771}
+{'text': "And it's still incomprehensible\nthat it was built,", 'start': 901.266, 'duration': 2.969}
+{'text': "and it's even more\nincomprehensible", 'start': 904.335, 'duration': 2.27}
+{'text': 'that it is still\nthere and not replaced', 'start': 906.705, 'duration': 2.135}
+{'text': 'by some kind of\nlarge environment.', 'start': 908.94, 'duration': 2.47}
+{'text': 'The urban villas were\ntransferred to the Netherlands', 'start': 911.51, 'duration': 4.471}
+{'text': 'from Berlin, because we knew\nOswald Mathias Ungers very', 'start': 916.081, 'duration': 3.503}
+{'text': 'well, who, on the\nright-hand side,', 'start': 919.684, 'duration': 1.468}
+{'text': 'made a lot of very\ninteresting sketches', 'start': 921.252, 'duration': 3.271}
+{'text': 'for urban villas in Berlin.', 'start': 924.623, 'duration': 1.368}
+{'text': 'And on the left hand is\nhis famous Roosevelt Island', 'start': 926.091, 'duration': 3.203}
+{'text': 'competition entry, with also\na kind of mini tower villa.', 'start': 929.394, 'duration': 7.141}
+{'text': 'Of course, the Germans in\nBerlin were extremely romantic.', 'start': 936.635, 'duration': 3.203}
+{'text': "They weren't always\non holiday in Italy.", 'start': 939.938, 'duration': 3.27}
+{'text': 'And of course, the urban\nvilla is, more or less,', 'start': 943.309, 'duration': 4.37}
+{'text': 'an Italian product in\nthe kind of environment', 'start': 947.78, 'duration': 4.036}
+{'text': 'of density than\na German product,', 'start': 951.916, 'duration': 2.536}
+{'text': 'and not at all a Dutch product.', 'start': 954.552, 'duration': 2.603}
+{'text': 'But this project triggered the\nintroduction of the urban villa', 'start': 957.255, 'duration': 3.203}
+{'text': 'in the Netherlands.', 'start': 960.558, 'duration': 1.269}
+{'text': "Before, it didn't exist at all,\nand transformed into a kind", 'start': 961.927, 'duration': 3.336}
+{'text': 'of low cost housing.', 'start': 965.363, 'duration': 2.436}
+{'text': 'And the advantage\nwas, of course,', 'start': 967.899, 'duration': 1.902}
+{'text': 'that it is kind of\nan oriented object.', 'start': 969.901, 'duration': 4.605}
+{'text': 'People feel identified.', 'start': 974.606, 'duration': 1.835}
+{'text': 'Most people have two corners or\nthree corners to look around.', 'start': 976.541, 'duration': 4.338}
+{'text': 'They have a few people\non one access point,', 'start': 980.979, 'duration': 4.271}
+{'text': 'et cetera, et cetera.', 'start': 985.35, 'duration': 1.535}
+{'text': 'So 12 years later, we\ndesigned the GWL area', 'start': 986.986, 'duration': 2.935}
+{'text': 'to form a water\nworks plant, where', 'start': 990.021, 'duration': 2.803}
+{'text': 'we created a scheme with urban\nvillas, of which all the house', 'start': 992.924, 'duration': 6.941}
+{'text': 'doors had to be on the\nground, preferably.', 'start': 999.965, 'duration': 2.669}
+{'text': 'If that was not\npossible, there should', 'start': 1002.734, 'duration': 2.236}
+{'text': 'be another interesting\naccess system.', 'start': 1005.07, 'duration': 4.438}
+{'text': 'And all the apartments\nhad a garden.', 'start': 1009.608, 'duration': 2.402}
+{'text': 'That means the ground floor\nhad to have a direct garden', 'start': 1012.11, 'duration': 2.97}
+{'text': 'on their living room.', 'start': 1015.18, 'duration': 1.701}
+{'text': 'The top floor had a roof garden.', 'start': 1016.981, 'duration': 2.67}
+{'text': 'And the sandwich houses\nin apartments in between,', 'start': 1019.751, 'duration': 3.837}
+{'text': 'they had an allotment,\nwhich you can see here.', 'start': 1023.689, 'duration': 2.635}
+{'text': 'And this created an\nenormous amount of eyes', 'start': 1026.424, 'duration': 2.503}
+{'text': 'on the street and accessibility,\nwhich makes this neighborhood', 'start': 1029.027, 'duration': 6.007}
+{'text': 'still the most socially\nsafe and vandalismless place', 'start': 1035.134, 'duration': 7.573}
+{'text': 'of all housing\nneighborhoods in Amsterdam.', 'start': 1042.807, 'duration': 3.704}
+{'text': 'I had contact with Jane\nJacobs at that time.', 'start': 1046.611, 'duration': 3.003}
+{'text': 'This is in 1991.', 'start': 1049.714, 'duration': 2.536}
+{'text': 'I was very impressed by her.', 'start': 1052.35, 'duration': 1.502}
+{'text': "You all know her so I don't\ngo very much more into it.", 'start': 1053.952, 'duration': 3.603}
+{'text': 'But she wrote a very funny\nbook, Economy of Cities,', 'start': 1057.655, 'duration': 4.138}
+{'text': 'which you may have seen.', 'start': 1061.893, 'duration': 1.602}
+{'text': "It's more like a\nnarrative, and it", 'start': 1063.595, 'duration': 2.068}
+{'text': 'says that the city came first\nand then agriculture, instead', 'start': 1065.763, 'duration': 3.204}
+{'text': 'of the reverse.', 'start': 1069.067, 'duration': 1.001}
+{'text': "It's a very beautiful story.", 'start': 1070.168, 'duration': 2.069}
+{'text': 'This whole way of\nthinking led, in 2009,', 'start': 1074.84, 'duration': 6.973}
+{'text': 'to me curating the Biennale\nof Architecture in Rotterdam.', 'start': 1081.913, 'duration': 5.773}
+{'text': 'And we called it Open City.', 'start': 1087.786, 'duration': 1.702}
+{'text': 'Also, at the same\ntime, Richard Sennett', 'start': 1089.588, 'duration': 2.335}
+{'text': 'had his article and\nsome lecturing going on.', 'start': 1092.023, 'duration': 6.073}
+{'text': 'A lot of ideas\nconverted into this idea', 'start': 1098.196, 'duration': 3.37}
+{'text': 'of Open City, which, actually,\nwas also an idea of the 1967', 'start': 1101.666, 'duration': 5.105}
+{'text': 'Provo movements that were also\nlinked to people like Herman', 'start': 1106.871, 'duration': 4.639}
+{'text': 'Hertzberger and\nFrank van Klingeren,', 'start': 1111.61, 'duration': 1.968}
+{'text': 'which were structuralist\narchitects that already worked', 'start': 1113.678, 'duration': 3.337}
+{'text': 'on such ideas in the 1950s.', 'start': 1117.115, 'duration': 2.736}
+{'text': 'And for us, Open City was mainly\nthat you created conditions', 'start': 1119.951, 'duration': 5.673}
+{'text': 'for coexistence by creating\nurban structures that were not', 'start': 1125.724, 'duration': 6.106}
+{'text': 'blocking an exchange\nbetween people,', 'start': 1131.93, 'duration': 4.037}
+{'text': 'but fostering exchange\nbetween people.', 'start': 1136.067, 'duration': 4.071}
+{'text': 'So this is the forum\nof that exhibition.', 'start': 1140.238, 'duration': 2.336}
+{'text': 'You see there a big chess\npiece of metal, Vriesendorp.', 'start': 1142.674, 'duration': 4.171}
+{'text': 'And you see here a\nparametrically developed', 'start': 1146.945, 'duration': 3.87}
+{'text': 'urban globe, and\nsome other things,', 'start': 1150.915, 'duration': 3.17}
+{'text': 'which was, more or less,\na replica of the Meerpaal', 'start': 1154.185, 'duration': 3.604}
+{'text': 'in Dronten, which was the only\nbuilding in the Netherlands', 'start': 1157.889, 'duration': 3.738}
+{'text': 'that became a superstar\nbecause of famous television', 'start': 1161.727, 'duration': 3.103}
+{'text': 'Christmas held there.', 'start': 1164.93, 'duration': 2.168}
+{'text': 'It consisted of a box\nby Frank van Klingeren,', 'start': 1167.199, 'duration': 3.336}
+{'text': 'and it contained a theater,\nthe council hall, market,', 'start': 1170.635, 'duration': 3.703}
+{'text': 'sports fields, and\neverything was-- a school,', 'start': 1174.439, 'duration': 3.203}
+{'text': 'a supermarket-- and everything\nwas not separated acoustically.', 'start': 1177.742, 'duration': 3.57}
+{'text': 'Everything was one in one space.', 'start': 1181.412, 'duration': 2.303}
+{'text': 'That was his idea\nof the Open Society.', 'start': 1183.815, 'duration': 3.37}
+{'text': 'There were also a lot of links\nto pauper, in that sense.', 'start': 1187.285, 'duration': 4.404}
+{'text': "Of course, it didn't function.", 'start': 1191.789, 'duration': 1.169}
+{'text': "So if you go there now,\nit's still a nice building,", 'start': 1193.058, 'duration': 2.002}
+{'text': 'but everything is closed\noff and has petition walls.', 'start': 1195.16, 'duration': 4.505}
+{'text': 'In those times, we developed\nthe idea of doing design', 'start': 1199.765, 'duration': 4.304}
+{'text': 'as simultaneous chess.', 'start': 1204.169, 'duration': 2.001}
+{'text': 'So simultaneous chess means that\nyou do not take all those work', 'start': 1206.27, 'duration': 5.005}
+{'text': 'streams-- like infantilization,\nanalysis, vision, development--', 'start': 1211.375, 'duration': 4.672}
+{'text': 'linear, past each other, but\nyou switch them parallel,', 'start': 1216.147, 'duration': 5.406}
+{'text': 'like in the red colored\npart of the diagram.', 'start': 1221.653, 'duration': 3.103}
+{'text': 'And then, by doing that, you\ntrigger the creative moment', 'start': 1224.856, 'duration': 4.071}
+{'text': 'and you get shortcuts and\nassociations, sheer by the fact', 'start': 1229.027, 'duration': 6.006}
+{'text': 'that you switch\ncertain investigations', 'start': 1235.133, 'duration': 1.902}
+{'text': 'and certain process streams\nparallel to each other,', 'start': 1237.135, 'duration': 5.005}
+{'text': 'instead of linear.', 'start': 1242.24, 'duration': 1.501}
+{'text': 'And you do that both\nat the technical level,', 'start': 1243.841, 'duration': 3.904}
+{'text': 'as well as on the stakeholder\nlevel, as on the design level.', 'start': 1247.845, 'duration': 4.705}
+{'text': 'And we process that\ninto our projects.', 'start': 1252.65, 'duration': 3.504}
+{'text': 'One of these projects\nwas the Mullerpier', 'start': 1256.254, 'duration': 2.436}
+{'text': 'in Rotterdam, which was a\nharbor pier, in which we', 'start': 1258.79, 'duration': 4.705}
+{'text': 'did the urban design.', 'start': 1263.595, 'duration': 1.168}
+{'text': 'And we started the\nurban design together', 'start': 1264.863, 'duration': 1.635}
+{'text': 'with a couple of architects.', 'start': 1266.598, 'duration': 1.234}
+{'text': 'And in the end, the\nurban design was,', 'start': 1267.932, 'duration': 4.338}
+{'text': 'more or less, not\narbitrary, but kind', 'start': 1272.37, 'duration': 3.271}
+{'text': 'of a composition of typologies\nthat were developed,', 'start': 1275.741, 'duration': 3.737}
+{'text': 'and then put on the model,\nand then shifted to each other', 'start': 1279.578, 'duration': 3.837}
+{'text': 'by different architects.', 'start': 1283.515, 'duration': 1.534}
+{'text': 'And the reason was\nthat we thought', 'start': 1285.149, 'duration': 3.671}
+{'text': 'that a kind of idiosyncratic\nform of architectural buildings', 'start': 1288.92, 'duration': 5.105}
+{'text': 'would connect to the culture,\nor to the presence of harbor', 'start': 1294.125, 'duration': 6.507}
+{'text': 'cranes and other\nscale-breaking elements,', 'start': 1300.732, 'duration': 4.438}
+{'text': 'along the river of the\nmaritime technology.', 'start': 1305.27, 'duration': 4.637}
+{'text': 'And this led, among others, to a\nkind of architectural sculpture', 'start': 1310.007, 'duration': 5.54}
+{'text': 'reality and an urbanistic\nway of working with buildings', 'start': 1315.647, 'duration': 6.239}
+{'text': 'and public space that we called\nflip-flop, in which you are not', 'start': 1321.986, 'duration': 5.105}
+{'text': 'in a perimeter block situation,\nwhere you have streets carved', 'start': 1327.191, 'duration': 3.471}
+{'text': 'out of blocks.', 'start': 1330.762, 'duration': 0.968}
+{'text': 'You are also not on\na chess board, where', 'start': 1331.83, 'duration': 3.036}
+{'text': 'the buildings are objects.', 'start': 1334.966, 'duration': 1.368}
+{'text': 'But it oscillates in between.', 'start': 1336.434, 'duration': 2.603}
+{'text': 'Of course, our process\nbackfired a lot.', 'start': 1339.137, 'duration': 2.135}
+{'text': 'So during the crisis,\nthese two building plots', 'start': 1341.373, 'duration': 3.136}
+{'text': 'were not constructed, and\nthey were immediately occupied', 'start': 1344.609, 'duration': 2.536}
+{'text': 'by the residents,\nturned into playgrounds,', 'start': 1347.245, 'duration': 3.17}
+{'text': "and into allotments,\nand I don't know what.", 'start': 1350.515, 'duration': 2.469}
+{'text': 'And of course, we could\nonly be agreeing with that.', 'start': 1353.084, 'duration': 4.805}
+{'text': 'In the meantime, there has\nbeen a paradigm shift--', 'start': 1357.989, 'duration': 4.171}
+{'text': 'now we talk about\n10, 15 years later--', 'start': 1362.26, 'duration': 3.504}
+{'text': 'in housing.', 'start': 1365.864, 'duration': 0.967}
+{'text': 'And housing is\nincreasingly personalized', 'start': 1366.931, 'duration': 3.236}
+{'text': 'as a commodity, but also\narchitects still have', 'start': 1370.268, 'duration': 4.07}
+{'text': 'some influence in\nthe Netherlands,', 'start': 1374.438, 'duration': 1.836}
+{'text': 'also as a kind of culture,\nand due to the fact', 'start': 1376.374, 'duration': 4.004}
+{'text': 'that our building industry\nis very rationalized.', 'start': 1380.478, 'duration': 4.605}
+{'text': 'In the meantime, with the help,\nalso, of digital technology,', 'start': 1385.183, 'duration': 3.77}
+{'text': 'we can develop row houses, or\nbrownstones, or townhouses,', 'start': 1389.053, 'duration': 6.273}
+{'text': 'if you like, that have\ndifferent access systems', 'start': 1395.427, 'duration': 3.503}
+{'text': 'and different configurations\nfor the same building', 'start': 1399.03, 'duration': 4.438}
+{'text': 'costs as formerly a block\nwith one architect and one', 'start': 1403.568, 'duration': 3.303}
+{'text': 'contractor would do it for.', 'start': 1406.971, 'duration': 2.169}
+{'text': "That's a very interesting\nand optimistic condition.", 'start': 1409.24, 'duration': 3.537}
+{'text': 'And here, you see the\nlast block that we finally', 'start': 1412.877, 'duration': 2.836}
+{'text': 'negotiated with the people\nto give the land back.', 'start': 1415.813, 'duration': 4.972}
+{'text': 'Of course, in favor\nof something, as', 'start': 1420.885, 'duration': 2.169}
+{'text': 'under construction.', 'start': 1423.154, 'duration': 2.436}
+{'text': 'So I am also not familiar\nwith the phenomenon', 'start': 1425.69, 'duration': 5.339}
+{'text': 'of starchitecture.', 'start': 1431.129, 'duration': 1.301}
+{'text': 'Or we also do not work as iconic\narchitects, being a man of war,', 'start': 1432.53, 'duration': 7.841}
+{'text': 'but we are more\nlike a fleet that', 'start': 1440.471, 'duration': 3.571}
+{'text': 'coordinates their movements\nin between each other,', 'start': 1444.142, 'duration': 3.303}
+{'text': 'and the stakeholders are\nalso part of the fleet.', 'start': 1447.546, 'duration': 3.536}
+{'text': 'Of course, in a social\ndemocratic market economy,', 'start': 1451.182, 'duration': 6.807}
+{'text': 'this may lead to\nsomething like this.', 'start': 1458.089, 'duration': 3.503}
+{'text': 'It is the kind of\nextreme condensation', 'start': 1461.692, 'duration': 4.605}
+{'text': 'of individual initiative within\nan institutional framework.', 'start': 1466.397, 'duration': 7.541}
+{'text': 'And you can criticize it or not.', 'start': 1474.038, 'duration': 2.603}
+{'text': 'I think it has some very\nbeautiful features about it.', 'start': 1476.741, 'duration': 5.639}
+{'text': 'Of course, this\ndemocracy also leads', 'start': 1482.48, 'duration': 2.636}
+{'text': 'to what we call railway\naccidents, which', 'start': 1485.216, 'duration': 4.571}
+{'text': 'means that traffic\ninfrastructures are built.', 'start': 1489.888, 'duration': 4.037}
+{'text': 'Then because of the\ntraffic infrastructure,', 'start': 1494.025, 'duration': 3.536}
+{'text': 'old country roads\nhave to be removed.', 'start': 1497.661, 'duration': 2.871}
+{'text': 'Then roundabouts have\nto be introduced.', 'start': 1500.632, 'duration': 2.468}
+{'text': 'Then the roundabout has\nto have a piece of art', 'start': 1503.201, 'duration': 3.403}
+{'text': 'because the local\ncouncil prescribes it.', 'start': 1506.704, 'duration': 3.004}
+{'text': 'Then the piece of art is\nbeing designed by an artist.', 'start': 1509.808, 'duration': 3.87}
+{'text': 'And another artist designs\nthis sound protection walls', 'start': 1513.778, 'duration': 3.07}
+{'text': 'that are completely in contrast\nto what this other artist', 'start': 1516.948, 'duration': 3.937}
+{'text': 'makes.', 'start': 1520.985, 'duration': 1.001}
+{'text': 'And the result is a\ncomplete cadavre exquis,', 'start': 1522.086, 'duration': 4.037}
+{'text': "or let's say not exquis, a\nkind of very bad combination", 'start': 1526.223, 'duration': 6.607}
+{'text': "of all kinds of elements\nthat are, let's say,", 'start': 1532.93, 'duration': 2.536}
+{'text': 'the bad side of this\nkind of condition.', 'start': 1535.566, 'duration': 7.341}
+{'text': 'We worked, as I said, a\nlot in former harbor areas', 'start': 1543.007, 'duration': 5.806}
+{'text': 'and in renovation sites.', 'start': 1548.913, 'duration': 3.437}
+{'text': 'And we produced three books,\nCity as Loft, State Build', 'start': 1552.45, 'duration': 3.137}
+{'text': 'State, and Urban Loopholes.', 'start': 1555.687, 'duration': 1.901}
+{'text': 'City as Loft is about\nthe creative and cultural', 'start': 1557.688, 'duration': 4.638}
+{'text': 'activities on former\nbrownstone and harboursides.', 'start': 1562.426, 'duration': 4.138}
+{'text': 'State beyond state\ndescribes Shenzhen', 'start': 1566.664, 'duration': 4.538}
+{'text': 'as a city where the real\ncity centers are neither', 'start': 1571.303, 'duration': 3.836}
+{'text': 'the villages, neither\nthe city center,', 'start': 1575.239, 'duration': 2.536}
+{'text': 'but the former industrial plants\nthat have been transformed.', 'start': 1577.875, 'duration': 3.904}
+{'text': 'And Urban Loopholes describes\nthe parallel reciprocal', 'start': 1581.879, 'duration': 6.34}
+{'text': 'influence of the settling\nof creative industries', 'start': 1588.319, 'duration': 4.638}
+{'text': 'in the French\nconcession in Shanghai,', 'start': 1593.057, 'duration': 2.269}
+{'text': 'and the upcoming\nheritage consciousness', 'start': 1595.426, 'duration': 4.205}
+{'text': 'with the authorities.', 'start': 1599.731, 'duration': 3.203}
+{'text': 'This is, for instance, a type\nof site where we work on,', 'start': 1603.034, 'duration': 5.506}
+{'text': 'a former port, shipyard.', 'start': 1608.64, 'duration': 3.836}
+{'text': "And above is about 1970, and now\ntoday, it's what you see below.", 'start': 1612.576, 'duration': 6.707}
+{'text': 'And it is a kind\nof rich palette.', 'start': 1619.384, 'duration': 2.536}
+{'text': 'And the interesting\nthing of today', 'start': 1622.02, 'duration': 1.434}
+{'text': 'is that these are really\nincubators of a changing', 'start': 1623.555, 'duration': 6.472}
+{'text': 'economy and of a changing\nsocioeconomic relationship.', 'start': 1630.127, 'duration': 4.038}
+{'text': 'Because were these areas former,\neither invaded by developers', 'start': 1634.265, 'duration': 7.674}
+{'text': 'and then changed into\nsomething exclusive,', 'start': 1642.039, 'duration': 2.67}
+{'text': 'or they were occupied\nby people like us', 'start': 1644.809, 'duration': 2.903}
+{'text': "and turned into squats, artist's\nstudios, and temporary uses.", 'start': 1647.812, 'duration': 7.807}
+{'text': 'Today, there is\na fusion going on', 'start': 1655.719, 'duration': 2.771}
+{'text': 'between these low-budget,\nhigh-culture and high-culture,', 'start': 1658.59, 'duration': 4.004}
+{'text': 'low-budget, if you like.', 'start': 1662.694, 'duration': 1.535}
+{'text': 'So on the left-hand\nside, you see', 'start': 1664.329, 'duration': 2.035}
+{'text': 'one of the holes, which is\nturned into a city where', 'start': 1666.464, 'duration': 4.138}
+{'text': 'different people, mainly\nartists, can build', 'start': 1670.702, 'duration': 3.102}
+{'text': 'their own workshop and studio.', 'start': 1673.904, 'duration': 2.503}
+{'text': 'And on the right-hand side, you\nsee a low-cost Hilton hotel.', 'start': 1676.507, 'duration': 4.438}
+{'text': 'Doubletree is a series\nof Hilton hotel,', 'start': 1681.045, 'duration': 3.337}
+{'text': 'which practices\na kind of mimicry', 'start': 1684.482, 'duration': 4.671}
+{'text': 'towards the surroundings, and\nwhich is heavily visited hotel', 'start': 1689.253, 'duration': 5.038}
+{'text': 'for a startup firms that\nstarted, like left up,', 'start': 1694.392, 'duration': 3.871}
+{'text': 'and then consequently\nbecame successful.', 'start': 1698.363, 'duration': 3.703}
+{'text': 'And so you have, also,\nthe sometimes a little bit', 'start': 1702.166, 'duration': 3.136}
+{'text': 'disagreeable situation,\nthat the neighbor is still', 'start': 1705.402, 'duration': 3.705}
+{'text': 'having social money,\nsocial benefit', 'start': 1709.207, 'duration': 2.469}
+{'text': 'money, and the other neighbor\nhas become a millionaire.', 'start': 1711.776, 'duration': 3.837}
+{'text': 'But this is quite interesting.', 'start': 1715.713, 'duration': 2.136}
+{'text': 'So we did a lot of\nthese kinds of project.', 'start': 1717.949, 'duration': 4.104}
+{'text': 'This is another one where\nwe renovated warehouses.', 'start': 1722.153, 'duration': 2.902}
+{'text': 'And the developer\nfirst wanted us', 'start': 1725.155, 'duration': 2.67}
+{'text': "to make expensive penthouses\nand lawyer's offices, and so on.", 'start': 1727.925, 'duration': 5.673}
+{'text': 'And we convinced\nthem that we should', 'start': 1733.698, 'duration': 1.468}
+{'text': 'make a combination of social\nhousing, of artist work,', 'start': 1735.266, 'duration': 4.204}
+{'text': 'and of, also, expensive stuff.', 'start': 1739.57, 'duration': 3.137}
+{'text': 'And the result is that we\nhave, in the plinth of one', 'start': 1742.807, 'duration': 2.469}
+{'text': 'of the buildings, a\nrestaurant Fifteen,', 'start': 1745.376, 'duration': 2.369}
+{'text': 'which is a series\nfounded by Jamie', 'start': 1747.845, 'duration': 2.103}
+{'text': 'Oliver, in which ex-delinquent\ncriminal youth are serving', 'start': 1750.048, 'duration': 6.205}
+{'text': 'the managers of\nthe holdings that', 'start': 1756.353, 'duration': 1.702}
+{'text': 'are having their office\nin the new architecture.', 'start': 1758.156, 'duration': 4.738}
+{'text': 'And of course, the architecture\nis related, in that sense,', 'start': 1762.994, 'duration': 4.904}
+{'text': 'to this cultural form\nof harbor and shipyards,', 'start': 1767.999, 'duration': 3.971}
+{'text': 'and therefore, also, we have\nbuilt in these rusty fleck,', 'start': 1772.07, 'duration': 3.736}
+{'text': 'these rusty spots, in it.', 'start': 1775.906, 'duration': 3.204}
+{'text': 'This phenomenon of low-budget,\nhigh-culture, high-budget,', 'start': 1779.21, 'duration': 3.436}
+{'text': 'low-culture--', 'start': 1782.746, 'duration': 1.235}
+{'text': 'which now is fused, which\nbecomes a complimentary,', 'start': 1784.081, 'duration': 3.303}
+{'text': 'a very interesting\nforce, which is also', 'start': 1787.484, 'duration': 2.67}
+{'text': 'connected to the new atomizing\neconomy of small firms', 'start': 1790.254, 'duration': 6.006}
+{'text': 'that is appearing in cities--', 'start': 1796.36, 'duration': 3.07}
+{'text': 'is becoming really mainstream.', 'start': 1799.53, 'duration': 2.503}
+{'text': 'And it is the artist of the\nurban design to work with that', 'start': 1802.133, 'duration': 5.004}
+{'text': 'and to take care\nthat it is going', 'start': 1807.238, 'duration': 2.202}
+{'text': 'a little bit in the\nright direction.', 'start': 1809.54, 'duration': 1.435}
+{'text': 'This is the railway station\narea in Zurich on the other side', 'start': 1811.075, 'duration': 3.37}
+{'text': 'of the tracks that we designed.', 'start': 1814.545, 'duration': 1.201}
+{'text': 'It looks like a\nstupid office concept,', 'start': 1815.846, 'duration': 3.971}
+{'text': 'but it is, I think, in\nterms of public space,', 'start': 1819.918, 'duration': 3.836}
+{'text': "it's quite unique and strong.", 'start': 1823.854, 'duration': 2.169}
+{'text': 'And it consists\nof a podium area,', 'start': 1826.123, 'duration': 1.935}
+{'text': 'and then you are allowed\nto do some towers on top.', 'start': 1828.158, 'duration': 2.803}
+{'text': 'Connects to all the\nstreets in the surrounding.', 'start': 1831.061, 'duration': 3.103}
+{'text': 'And here, this is one\nof the projects where', 'start': 1834.265, 'duration': 2.669}
+{'text': 'we do so-called subtraction\ntechniques, which are not', 'start': 1837.034, 'duration': 3.671}
+{'text': 'really very special\nbecause you fellas already', 'start': 1840.805, 'duration': 2.502}
+{'text': 'did it for New York.', 'start': 1843.407, 'duration': 2.036}
+{'text': 'We do not create urban design\nguidelines from zero to up,', 'start': 1845.543, 'duration': 5.372}
+{'text': 'but we go from a big mass down.', 'start': 1851.015, 'duration': 3.069}
+{'text': 'We create a big mass and then\nwe subtract the public space,', 'start': 1854.184, 'duration': 4.038}
+{'text': 'the shadow and sunlight\nrules, and the few lines', 'start': 1858.323, 'duration': 4.237}
+{'text': 'that we want to see, and\ncertain, also, form aspects', 'start': 1862.66, 'duration': 5.004}
+{'text': 'that we would like to see.', 'start': 1867.764, 'duration': 1.302}
+{'text': 'And then you have a framework\nin which developers architects', 'start': 1869.166, 'duration': 3.303}
+{'text': 'can make their buildings.', 'start': 1872.569, 'duration': 3.404}
+{'text': 'And this works very well.', 'start': 1876.073, 'duration': 1.702}
+{'text': 'We did that in Rotterdam.', 'start': 1877.875, 'duration': 1.034}
+{'text': "And you see the result\nthat's already--", 'start': 1879.009, 'duration': 1.603}
+{'text': 'that was the first project,\nin that sense, we did.', 'start': 1880.712, 'duration': 3.603}
+{'text': 'And this is one of the\nbuildings in Switzerland.', 'start': 1884.415, 'duration': 3.036}
+{'text': 'Of course, these buildings\nare a little more', 'start': 1887.552, 'duration': 1.734}
+{'text': 'conservative and retro\nthan in the Netherlands.', 'start': 1889.387, 'duration': 5.338}
+{'text': 'But what is super interesting\nis that its an enormous mix of', 'start': 1894.825, 'duration': 4.772}
+{'text': 'uses.', 'start': 1899.697, 'duration': 0.868}
+{'text': 'And one of the\ndeveloper buildings', 'start': 1900.665, 'duration': 3.937}
+{'text': 'was invaded by\nCosmos, and Cosmos', 'start': 1904.702, 'duration': 2.903}
+{'text': 'is the most well-known\nfringe cultural institution,', 'start': 1907.705, 'duration': 6.673}
+{'text': 'or foundation, in\nZurich, that decided,', 'start': 1914.478, 'duration': 2.97}
+{'text': 'sheer by the spot\nand this basis,', 'start': 1917.548, 'duration': 3.103}
+{'text': 'to settle itself\nin this building,', 'start': 1920.751, 'duration': 2.37}
+{'text': 'with its cinemas, bookshop,\ncafes, restroom, et cetera.', 'start': 1923.221, 'duration': 3.903}
+{'text': 'And now it is a kind of\nhot spot for the people', 'start': 1927.225, 'duration': 2.969}
+{'text': 'who protested\nagainst this project.', 'start': 1930.294, 'duration': 1.902}
+{'text': "It's the most popular\nplace for the people who", 'start': 1932.297, 'duration': 3.702}
+{'text': 'protest against this project as\na wrong capitalist development', 'start': 1936.099, 'duration': 5.74}
+{'text': 'by the Swiss Railway\nreal estate company.', 'start': 1941.939, 'duration': 3.604}
+{'text': "And to everybody's surprise,\nGoogle rented something", 'start': 1945.643, 'duration': 4.271}
+{'text': 'like half of the buildings.', 'start': 1950.014, 'duration': 1.201}
+{'text': 'Everything that is blue was\nsuddenly rented by Google,', 'start': 1951.315, 'duration': 5.105}
+{'text': 'and Google is kind\nof transforming', 'start': 1956.52, 'duration': 2.602}
+{'text': 'the architecture of our\nfriends who build there', 'start': 1959.223, 'duration': 4.271}
+{'text': 'into more spaces like on the\nright, relating to public space', 'start': 1963.594, 'duration': 4.872}
+{'text': 'and creating a\ndedicated condition.', 'start': 1968.566, 'duration': 3.836}
+{'text': 'Of course, they have a\nsecurity problem now.', 'start': 1972.503, 'duration': 3.237}
+{'text': 'And this is very, very\ndifficult to bring into harmony', 'start': 1975.84, 'duration': 4.204}
+{'text': 'with their original\nconcept of openness.', 'start': 1980.144, 'duration': 3.437}
+{'text': "But still, it's much\nbetter than this kind", 'start': 1983.681, 'duration': 1.735}
+{'text': 'of total hermetic stuff,\nwhich is also transcending', 'start': 1985.516, 'duration': 6.606}
+{'text': 'into the apps and\nthe operating system', 'start': 1992.222, 'duration': 3.605}
+{'text': 'in your phone,\nwhich allows nothing', 'start': 1995.927, 'duration': 2.502}
+{'text': 'else but the company\nthat is housed', 'start': 1998.529, 'duration': 3.537}
+{'text': 'in this car-friendly building.', 'start': 2002.166, 'duration': 4.304}
+{'text': "In the meantime,\nwe're working on more", 'start': 2006.57, 'duration': 4.805}
+{'text': 'of those spots in Zurich, also.', 'start': 2011.475, 'duration': 2.27}
+{'text': "And it's very\nunique that the rest", 'start': 2013.845, 'duration': 1.934}
+{'text': 'of the available land\nthat is still in Zurich', 'start': 2015.88, 'duration': 2.835}
+{'text': 'is allocated to industry.', 'start': 2018.815, 'duration': 2.403}
+{'text': 'Why?', 'start': 2021.318, 'duration': 1.135}
+{'text': 'Because there is an enormous\ndemand of apartments.', 'start': 2022.553, 'duration': 4.905}
+{'text': "It's like in Manhattan.", 'start': 2027.558, 'duration': 2.47}
+{'text': 'But still, the city has\ndecided all the municipality', 'start': 2030.128, 'duration': 5.538}
+{'text': 'land that is still left\nis reserved for industry.', 'start': 2035.766, 'duration': 2.969}
+{'text': 'Why?', 'start': 2038.835, 'duration': 1.136}
+{'text': 'Because the city says a\ncity cannot consist only out', 'start': 2040.071, 'duration': 3.403}
+{'text': 'of residence, and certainly\nnot out of only university', 'start': 2043.574, 'duration': 5.072}
+{'text': 'residents and bankers.', 'start': 2048.746, 'duration': 2.469}
+{'text': 'The city should also have a\nvital component of industry.', 'start': 2051.315, 'duration': 5.005}
+{'text': 'It should also not\nhave only services', 'start': 2056.42, 'duration': 1.935}
+{'text': 'because you need something\nthat need to be serviced.', 'start': 2058.455, 'duration': 3.137}
+{'text': 'And so this is going to be\nindustry, these former railway', 'start': 2061.692, 'duration': 3.671}
+{'text': 'areas.', 'start': 2065.463, 'duration': 1.134}
+{'text': 'And of course, they are\ngoing to be boosted and have', 'start': 2066.697, 'duration': 3.671}
+{'text': 'multiple laps and\nproduction facilities.', 'start': 2070.468, 'duration': 3.103}
+{'text': "It's the introduction\nof vertical,", 'start': 2073.671, 'duration': 2.202}
+{'text': 'of flatted production in Europe.', 'start': 2075.973, 'duration': 2.87}
+{'text': 'It Happens both in\nHamburg and in Zurich,', 'start': 2078.943, 'duration': 4.738}
+{'text': "which didn't happen before.", 'start': 2083.781, 'duration': 1.401}
+{'text': 'You see just realized\na building, the Noer,', 'start': 2085.283, 'duration': 3.803}
+{'text': 'where you can buy--', 'start': 2089.186, 'duration': 2.002}
+{'text': 'they produce these ugly bags\nthat all architecture students', 'start': 2091.288, 'duration': 4.605}
+{'text': 'wear, Freitag, these clumsy\nthings that are produced there.', 'start': 2095.993, 'duration': 8.609}
+{'text': 'But they are a very\ninteresting startup firm that', 'start': 2104.702, 'duration': 3.704}
+{'text': 'really meets these criteria.', 'start': 2108.506, 'duration': 3.169}
+{'text': 'And it produces an\nenormous spin-off', 'start': 2111.775, 'duration': 1.669}
+{'text': 'in the form of\nsocial environment.', 'start': 2113.544, 'duration': 4.905}
+{'text': 'Now, we work also on this\nphenomenon in Hamburg.', 'start': 2118.549, 'duration': 4.804}
+{'text': 'In the north of the river,\nyou see the HafenCity,', 'start': 2123.453, 'duration': 3.371}
+{'text': 'which is, more or less,\nthe most famous waterfront', 'start': 2126.924, 'duration': 4.071}
+{'text': 'project on the\ncontinent in Europe,', 'start': 2131.095, 'duration': 2.769}
+{'text': 'which we made a master plan\nin 1999 after competition.', 'start': 2133.964, 'duration': 5.439}
+{'text': 'But in the meantime,\nthe HafenCity', 'start': 2139.503, 'duration': 2.67}
+{'text': 'is due to its success.', 'start': 2142.273, 'duration': 1.835}
+{'text': "And it's the vision by\nthe people who manage it,", 'start': 2144.208, 'duration': 3.236}
+{'text': 'not necessarily me\nor us expanding.', 'start': 2147.544, 'duration': 4.772}
+{'text': 'And one of the\nexpenses is the jump', 'start': 2152.416, 'duration': 3.637}
+{'text': 'across the river, which you\nsee where the stadium is.', 'start': 2156.153, 'duration': 3.137}
+{'text': "This is a project\nthat didn't go ahead.", 'start': 2159.39, 'duration': 3.57}
+{'text': 'We made a design for the\ncity for the Olympic games,', 'start': 2163.06, 'duration': 3.871}
+{'text': 'but it was canceled\nby a referendum.', 'start': 2167.031, 'duration': 3.336}
+{'text': 'And as a stakeholder manager\nand simultaneous chess person,', 'start': 2170.467, 'duration': 3.57}
+{'text': 'you must take that very sportly.', 'start': 2174.137, 'duration': 3.27}
+{'text': 'But basically, like in\nthe Olympic legacy project', 'start': 2177.507, 'duration': 3.805}
+{'text': 'in London that we\ndid, this project', 'start': 2181.412, 'duration': 3.27}
+{'text': 'was firstly geared to create\na quality new urban district.', 'start': 2184.782, 'duration': 5.139}
+{'text': 'And secondly, then,\nthe question was', 'start': 2190.021, 'duration': 2.335}
+{'text': 'how to accommodate the Olympic\ngames in it and not vise versa.', 'start': 2192.456, 'duration': 5.038}
+{'text': 'And in this area,\nvery interestingly,', 'start': 2197.594, 'duration': 3.837}
+{'text': 'on the south side, there\nare still port activity.', 'start': 2201.532, 'duration': 2.436}
+{'text': 'And the idea is to\nintroduce, or to integrate,', 'start': 2204.068, 'duration': 3.703}
+{'text': 'port activity into\nresidential neighborhoods,', 'start': 2207.872, 'duration': 4.604}
+{'text': 'the pre-work for sound and\nemission insulation legislation', 'start': 2212.576, 'duration': 6.64}
+{'text': 'has been made.', 'start': 2219.316, 'duration': 1.435}
+{'text': 'And these typologies are really\na little bit taken from Asia,', 'start': 2220.851, 'duration': 5.773}
+{'text': 'also from Singapore, where\nthey have, of course, due', 'start': 2226.724, 'duration': 3.103}
+{'text': 'to the space problem,\nflooded factories.', 'start': 2229.927, 'duration': 3.103}
+{'text': 'But flooded factories now are\nemerging in Europe, not only', 'start': 2233.13, 'duration': 4.805}
+{'text': 'because of the space problem--\nbecause in the periphery', 'start': 2238.035, 'duration': 2.502}
+{'text': "there's often a lot of space--\nbut because of the high end", 'start': 2240.637, 'duration': 2.936}
+{'text': 'development of the\nenterprises that', 'start': 2243.673, 'duration': 2.971}
+{'text': 'are there that have urban and\nwell-educated workers that', 'start': 2246.744, 'duration': 4.871}
+{'text': 'do not produce\nemissions and sound,', 'start': 2251.715, 'duration': 3.103}
+{'text': 'and therefore want to be\nin the city, and therefore', 'start': 2254.918, 'duration': 3.503}
+{'text': 'they have to go vertical.', 'start': 2258.521, 'duration': 1.57}
+{'text': "So it's a kind of\ncrucial moment, at least", 'start': 2260.191, 'duration': 3.57}
+{'text': 'in middle Europe, and also\na little bit in Amsterdam,', 'start': 2263.861, 'duration': 5.839}
+{'text': 'how this production\naspect is going to evolve', 'start': 2269.8, 'duration': 4.938}
+{'text': 'in these kind of environments.', 'start': 2274.838, 'duration': 4.605}
+{'text': 'Another example is the railway\nstation area of Eindhoven', 'start': 2279.543, 'duration': 3.77}
+{'text': 'in the Netherlands.', 'start': 2283.413, 'duration': 1.069}
+{'text': 'So the top part is\nthe existing situation', 'start': 2284.582, 'duration': 2.869}
+{'text': 'and the south part is the\nfuture master plan that we made.', 'start': 2287.551, 'duration': 4.271}
+{'text': "And again, it doesn't consist\nof traditional perimeter blocks,", 'start': 2291.922, 'duration': 4.771}
+{'text': "which you may think, but\nit consists of, let's say,", 'start': 2296.793, 'duration': 5.34}
+{'text': 'atomized new economy with\nworking and residential towers', 'start': 2302.233, 'duration': 7.107}
+{'text': 'on top.', 'start': 2309.44, 'duration': 0.834}
+{'text': 'Eindhoven has a\ngenius development,', 'start': 2310.374, 'duration': 3.67}
+{'text': 'economic development.', 'start': 2314.144, 'duration': 2.103}
+{'text': 'It was very in crisis.', 'start': 2316.347, 'duration': 3.102}
+{'text': 'Why?', 'start': 2319.549, 'duration': 1.102}
+{'text': 'Because Phillips, the big\nmultinational electronic', 'start': 2320.751, 'duration': 5.906}
+{'text': 'company from the\nNetherlands, originally', 'start': 2326.757, 'duration': 2.202}
+{'text': 'decided, in the wake\nof the globalization,', 'start': 2329.059, 'duration': 2.97}
+{'text': 'to put its headquarters\nin Amsterdam.', 'start': 2332.129, 'duration': 2.435}
+{'text': "And Eindhoven didn't want it.", 'start': 2334.664, 'duration': 2.002}
+{'text': 'And then they made\na deal that Philips', 'start': 2336.766, 'duration': 3.204}
+{'text': 'gives away a lot of their\nbuildings for free to the city.', 'start': 2340.07, 'duration': 5.539}
+{'text': "And it gives away all it's\nnot used patents, which is", 'start': 2345.709, 'duration': 3.37}
+{'text': 'an enormous amount of patents.', 'start': 2349.179, 'duration': 1.435}
+{'text': 'And these patents are allowed\nto be used by any startup', 'start': 2350.714, 'duration': 4.004}
+{'text': 'firm that has the condition to\nsettle in the city of Eindhoven', 'start': 2354.818, 'duration': 4.839}
+{'text': 'preferably.', 'start': 2359.757, 'duration': 1.2}
+{'text': 'In one of the old Phillips\nfactories that you see here,', 'start': 2361.057, 'duration': 3.337}
+{'text': 'this creates an enormous boom.', 'start': 2364.494, 'duration': 3.171}
+{'text': "These are, by the way, by the\nRem Koolhaas' grandfather,", 'start': 2367.765, 'duration': 2.469}
+{'text': 'who was also an architect,\nMr. Roosevelt, Rosenburg.', 'start': 2370.334, 'duration': 6.473}
+{'text': 'And in it, you have the\nwell-known co-working spaces,', 'start': 2376.907, 'duration': 5.038}
+{'text': 'of course, which\nis very efficient.', 'start': 2382.045, 'duration': 1.802}
+{'text': 'This is the co-work space in\nShanghai, where our office is.', 'start': 2383.947, 'duration': 3.503}
+{'text': 'We would never want to go out of\nsuch a space, because you have', 'start': 2387.55, 'duration': 3.003}
+{'text': 'more benefit than\ndisadvantages, also, when', 'start': 2390.654, 'duration': 3.137}
+{'text': 'you have certain personnel.', 'start': 2393.891, 'duration': 2.335}
+{'text': 'And what is obviously\nalso the case is', 'start': 2396.326, 'duration': 4.004}
+{'text': 'that in these kind of\nareas where we work,', 'start': 2400.43, 'duration': 3.003}
+{'text': 'this is in Zurich, where we\nalso work on the master plan.', 'start': 2403.533, 'duration': 3.37}
+{'text': 'And these are two projects\nby Gramazio Kohler Robotics', 'start': 2407.003, 'duration': 4.972}
+{'text': 'and the ITA, the Institute\nfor Building Technology.', 'start': 2412.075, 'duration': 4.504}
+{'text': 'They did not make the\nobligatory competition', 'start': 2416.68, 'duration': 3.804}
+{'text': 'and started to make buildings,\nbut they formed a group', 'start': 2420.584, 'duration': 2.837}
+{'text': 'and handed in a research\nproposal to make a building.', 'start': 2423.521, 'duration': 4.27}
+{'text': 'Because the building is going\nto be a research instrument', 'start': 2427.891, 'duration': 4.772}
+{'text': 'during the time of its\nlife and, therefore,', 'start': 2432.763, 'duration': 2.535}
+{'text': 'we use, also, buildings\nas a research instruments,', 'start': 2435.398, 'duration': 4.205}
+{'text': 'as experiment, instead\nof just making buildings.', 'start': 2439.703, 'duration': 6.473}
+{'text': 'So I think this trend is\ngoing on all across the world.', 'start': 2446.276, 'duration': 5.239}
+{'text': 'This is the Create Campus of\nthe Future Cities Lab of ETH,', 'start': 2451.615, 'duration': 4.805}
+{'text': 'but also MIT, TU Munich,\nYale are all grouped together', 'start': 2456.52, 'duration': 6.039}
+{'text': 'to create a kind\nof critical mass,', 'start': 2462.659, 'duration': 2.235}
+{'text': 'also with certain\nstartup activities.', 'start': 2464.994, 'duration': 4.005}
+{'text': 'And you see also that you\ncan find it beautiful,', 'start': 2469.099, 'duration': 3.837}
+{'text': 'or less beautiful.', 'start': 2473.036, 'duration': 1.402}
+{'text': 'I find it not so\nbeautiful because I', 'start': 2474.538, 'duration': 1.868}
+{'text': 'lost the competition for this.', 'start': 2476.506, 'duration': 1.268}
+{'text': 'But it is a space that\nis working very well', 'start': 2477.874, 'duration': 5.372}
+{'text': 'as intermediate ideas and\nkind of producing space', 'start': 2483.346, 'duration': 8.576}
+{'text': 'in these conditions.', 'start': 2492.022, 'duration': 4.938}
+{'text': 'We do a research on the\nmoment in Future Cities, which', 'start': 2497.06, 'duration': 2.636}
+{'text': 'is called the Grand Projet, the\nbig project, or mega project.', 'start': 2499.796, 'duration': 4.271}
+{'text': 'And we research eight projects\nLa De France in Paris,', 'start': 2504.167, 'duration': 3.171}
+{'text': "King's Cross in London,\n@22 in Barcelona,", 'start': 2507.438, 'duration': 3.97}
+{'text': 'HafenCity in Hamburg,\nKowloon Station in Hong Kong,', 'start': 2511.508, 'duration': 5.239}
+{'text': '[inaudible] in Shanghai,\nand Tokyo Station in Tokyo,', 'start': 2516.847, 'duration': 5.839}
+{'text': 'Marunouchi.', 'start': 2522.786, 'duration': 1.302}
+{'text': "And we didn't find a\nsuitable US project.", 'start': 2524.188, 'duration': 5.004}
+{'text': 'And during this research, the\ncompetition was written out', 'start': 2529.292, 'duration': 5.239}
+{'text': 'for the new innovation district\non the high speed railway', 'start': 2534.631, 'duration': 4.738}
+{'text': 'terminal in Singapore, which is\nthis one, which competition--', 'start': 2539.469, 'duration': 4.505}
+{'text': 'oh, sorry--', 'start': 2544.074, 'duration': 1.067}
+{'text': 'which competition we won.', 'start': 2545.241, 'duration': 1.236}
+{'text': 'And we brought further--', 'start': 2549.213, 'duration': 3.67}
+{'text': 'I say we never invent something.', 'start': 2552.983, 'duration': 2.335}
+{'text': 'We never do an innovation.', 'start': 2555.418, 'duration': 1.902}
+{'text': 'What is innovation in our work\nis taking urban types and kind', 'start': 2557.42, 'duration': 7.175}
+{'text': 'of bring them a step further,\nor develop them further.', 'start': 2564.695, 'duration': 4.37}
+{'text': "In Singapore, there's a\nkind of culture going on", 'start': 2569.166, 'duration': 3.136}
+{'text': 'of buildings, high rises, on\npodia, where mostly shopping', 'start': 2572.402, 'duration': 6.807}
+{'text': 'malls are in, and so on.', 'start': 2579.309, 'duration': 1.368}
+{'text': 'And then there\nare towers on top,', 'start': 2580.777, 'duration': 1.468}
+{'text': 'which contain offices,\nor residential buildings,', 'start': 2582.345, 'duration': 3.604}
+{'text': 'or hotels.', 'start': 2586.05, 'duration': 2.068}
+{'text': 'And in between,\nthere are skyguard.', 'start': 2588.218, 'duration': 2.303}
+{'text': 'And so for this area, which\nhad the maximum height', 'start': 2590.621, 'duration': 3.069}
+{'text': 'of 135 meters due to\nsome air corridors,', 'start': 2593.79, 'duration': 4.705}
+{'text': "we decided that we\ndidn't want to do", 'start': 2598.595, 'duration': 2.103}
+{'text': 'a kind of ridiculous dwarfed\nskyline of Dubai, which', 'start': 2600.798, 'duration': 4.137}
+{'text': 'most of the offices in\nthe competition did.', 'start': 2605.035, 'duration': 2.536}
+{'text': 'But we made obligatory to make\nall the buildings flat roof,', 'start': 2607.671, 'duration': 5.305}
+{'text': '134 meters high with\na maximum surface', 'start': 2613.076, 'duration': 3.67}
+{'text': 'and an obligation to\ncreate roof terraces.', 'start': 2616.846, 'duration': 3.271}
+{'text': 'Then we also created\na podium level,', 'start': 2620.217, 'duration': 2.468}
+{'text': 'which would be permeable, and\nwhich would not so much contain', 'start': 2622.785, 'duration': 4.705}
+{'text': 'these shopping malls, but\nwould primarily also contain', 'start': 2627.59, 'duration': 4.105}
+{'text': 'university campuses, or\nproduction, flatted production,', 'start': 2631.795, 'duration': 5.672}
+{'text': 'or research, and of course,\nalso, other kinds of amenities.', 'start': 2637.567, 'duration': 5.339}
+{'text': "There's a new kind\nof test rule, which", 'start': 2646.409, 'duration': 3.036}
+{'text': 'is called the 100% green\nreplacement rule, which', 'start': 2649.546, 'duration': 3.436}
+{'text': 'means that every footprint of\na new building that you make,', 'start': 2653.082, 'duration': 4.272}
+{'text': 'you have to recreate the\nfootprint and surface in green', 'start': 2657.454, 'duration': 3.57}
+{'text': 'somewhere else on the building.', 'start': 2661.124, 'duration': 2.67}
+{'text': 'And this is not only\nlooking nice green,', 'start': 2663.894, 'duration': 2.903}
+{'text': "but it's water absorbing,\nhelping to cool,", 'start': 2666.897, 'duration': 3.237}
+{'text': "and I don't know what.", 'start': 2670.234, 'duration': 1.801}
+{'text': 'And so we did that\nand we comprised the--', 'start': 2672.135, 'duration': 4.205}
+{'text': 'sorry-- we comprised\nthe footprint', 'start': 2676.44, 'duration': 4.771}
+{'text': 'of the whole neighborhood\nby freeing up the high speed', 'start': 2681.311, 'duration': 4.871}
+{'text': 'railway corridor that\nyou see in the middle,', 'start': 2686.283, 'duration': 2.769}
+{'text': 'as this sinusoid part and\nthe shell as the station', 'start': 2689.152, 'duration': 4.905}
+{'text': 'hall, which was also saving the\nproject about three months ago', 'start': 2694.157, 'duration': 6.339}
+{'text': 'because the high speed station\nline was canceled by Malaysia.', 'start': 2700.596, 'duration': 5.106}
+{'text': 'And then they have\na phasing problem,', 'start': 2705.802, 'duration': 2.603}
+{'text': 'and we created this\nproject in such a way', 'start': 2708.505, 'duration': 1.769}
+{'text': 'that it can incrementally phase,\nindependent of the traffic', 'start': 2710.374, 'duration': 4.17}
+{'text': 'and public space\ninfrastructure, public transport', 'start': 2714.645, 'duration': 3.269}
+{'text': 'infrastructure.', 'start': 2718.014, 'duration': 2.036}
+{'text': 'So you see here this kind\nof comprised footprint,', 'start': 2720.15, 'duration': 2.969}
+{'text': 'very dense, but\non the other hand,', 'start': 2723.219, 'duration': 1.536}
+{'text': 'it leaves an enormous\namount of green space open,', 'start': 2724.855, 'duration': 3.836}
+{'text': 'and the streets are\nvery, very closed.', 'start': 2728.791, 'duration': 2.469}
+{'text': 'It is part of a corridor\nsystem that we helped', 'start': 2731.361, 'duration': 3.603}
+{'text': 'develop, the local authorities.', 'start': 2735.064, 'duration': 2.77}
+{'text': 'They are changing from a\ncentral area as the center', 'start': 2737.934, 'duration': 4.371}
+{'text': 'to a polycentric condition where\nJurong Lake District-- that', 'start': 2742.405, 'duration': 4.972}
+{'text': 'is our district-- woodlands\nand dampeners near the airport', 'start': 2747.477, 'duration': 3.771}
+{'text': 'are being new centers.', 'start': 2751.348, 'duration': 2.135}
+{'text': 'The one connecting to\nthe high speed railway', 'start': 2753.584, 'duration': 1.734}
+{'text': 'line, the second connecting\nto Malaysia, and the third', 'start': 2755.418, 'duration': 3.003}
+{'text': 'with the airport.', 'start': 2758.521, 'duration': 1.235}
+{'text': 'And then there are\ncertain accents', 'start': 2759.856, 'duration': 2.235}
+{'text': 'of corridor, functional\ncorridors, around them.', 'start': 2762.192, 'duration': 4.338}
+{'text': 'The brown one is the\nknowledge corridors,', 'start': 2766.63, 'duration': 4.371}
+{'text': 'where, also, our universities\nand the NUS and NTU', 'start': 2771.101, 'duration': 4.204}
+{'text': 'are already there.', 'start': 2775.405, 'duration': 0.935}
+{'text': 'You see a couple\nof these corridors.', 'start': 2779.443, 'duration': 2.936}
+{'text': 'They vary from very\ntraditional campuses,', 'start': 2782.479, 'duration': 4.671}
+{'text': 'too much screen and\nno public orientation,', 'start': 2787.25, 'duration': 3.471}
+{'text': 'to have succeeded projects\nby Zaha Hadid to C sar Pelli,', 'start': 2790.821, 'duration': 6.439}
+{'text': 'creating a kind of strange\namalgamation of colonial', 'start': 2797.36, 'duration': 4.738}
+{'text': 'architecture and Americanism.', 'start': 2802.198, 'duration': 3.538}
+{'text': "But let's say it's\ngoing to be interesting,", 'start': 2805.836, 'duration': 3.369}
+{'text': 'and you see an\nimage of the roofs', 'start': 2809.305, 'duration': 2.103}
+{'text': 'of these podia of this new\nneighborhood, or district.', 'start': 2811.508, 'duration': 4.037}
+{'text': "It's about 3 and 1/2\nmillion square meters.", 'start': 2815.645, 'duration': 1.969}
+{'text': 'It is based, like I said,\nnot on an innovation by us,', 'start': 2821.651, 'duration': 3.904}
+{'text': 'but it is created out\nof a gradual genealogy', 'start': 2825.656, 'duration': 5.571}
+{'text': 'of building new building\ntypes that is specifically', 'start': 2831.327, 'duration': 3.037}
+{'text': 'emerging in Singapore.', 'start': 2834.464, 'duration': 3.471}
+{'text': 'And this is the\nway the podia look.', 'start': 2838.035, 'duration': 4.704}
+{'text': 'These podia, like\nI said, permeable.', 'start': 2842.839, 'duration': 3.704}
+{'text': 'There is a hole.', 'start': 2846.643, 'duration': 1.034}
+{'text': 'Here we used quite some\nbig data server in order', 'start': 2847.778, 'duration': 7.974}
+{'text': 'to create the conditions\nfor natural ventilation', 'start': 2855.853, 'duration': 2.635}
+{'text': 'against air conditioning\nin the building blocks.', 'start': 2858.589, 'duration': 3.47}
+{'text': 'And so this is a\ntypical test layout', 'start': 2862.159, 'duration': 3.436}
+{'text': 'with patios and gangways, which\nmay have something like this', 'start': 2865.695, 'duration': 7.208}
+{'text': 'to see, in which, like I said,\nentrepreneurial activity,', 'start': 2873.003, 'duration': 9.375}
+{'text': 'educational, and\nresearch activity', 'start': 2882.478, 'duration': 2.904}
+{'text': 'exists next to\ncommercial activity.', 'start': 2885.482, 'duration': 3.403}
+{'text': 'So the project is\napproved and is now fixed', 'start': 2888.986, 'duration': 3.503}
+{'text': 'and they are already\ndoing the ground works.', 'start': 2892.589, 'duration': 2.202}
+{'text': 'And in the meantime,\nthey have an agreement', 'start': 2894.891, 'duration': 2.503}
+{'text': 'about the high\nspeed railway line.', 'start': 2897.494, 'duration': 3.136}
+{'text': 'Another little bit of a\nmega project but also not,', 'start': 2900.73, 'duration': 4.572}
+{'text': "that's why I show it.", 'start': 2905.402, 'duration': 2.402}
+{'text': "Also tied to this, we're\nmaking, in the city,", 'start': 2907.904, 'duration': 4.872}
+{'text': 'is the Seun project\nthat we do in Seoul.', 'start': 2912.876, 'duration': 3.57}
+{'text': 'You see on the left-hand side\nis two kilometers long building.', 'start': 2916.546, 'duration': 2.903}
+{'text': "It's quite famous.", 'start': 2919.549, 'duration': 1.668}
+{'text': 'It is, in the meantime,\nrebaptized making city.', 'start': 2921.318, 'duration': 4.771}
+{'text': 'There are a lot of new\neconomy activities there.', 'start': 2926.189, 'duration': 5.139}
+{'text': 'And we have worked on a\ncompetition for the right area,', 'start': 2931.428, 'duration': 5.004}
+{'text': 'which is an area\nthat is completely', 'start': 2936.532, 'duration': 2.871}
+{'text': 'atomized into small plots,\ncoming from the original plot', 'start': 2939.503, 'duration': 4.704}
+{'text': 'division, and\nowned by 60 owners.', 'start': 2944.307, 'duration': 4.638}
+{'text': 'So this is the kind\nof work that you see,', 'start': 2949.045, 'duration': 2.402}
+{'text': 'but also there are very low\nprofile things happening.', 'start': 2951.547, 'duration': 5.339}
+{'text': 'And this is the next project\nthat is going to be done.', 'start': 2956.986, 'duration': 3.57}
+{'text': 'And people in the\ncity, as well as', 'start': 2960.656, 'duration': 2.937}
+{'text': 'the 60 owners of\nall these sheds,', 'start': 2963.694, 'duration': 2.102}
+{'text': 'they want to prevent that these\nkind of Samsung buildings,', 'start': 2965.896, 'duration': 4.638}
+{'text': 'like you see there, are\ngoing to dominate the city.', 'start': 2970.634, 'duration': 3.202}
+{'text': 'Actually, the whole\nof Seoul is being', 'start': 2973.936, 'duration': 1.936}
+{'text': 'Samsungized by these kind of\ngiant blocks and is, of course,', 'start': 2975.972, 'duration': 6.273}
+{'text': 'not so very nice.', 'start': 2982.345, 'duration': 1.368}
+{'text': 'So we made quite a\nradical proposal,', 'start': 2983.813, 'duration': 3.971}
+{'text': 'which, amazingly, was\naccepted, by turning', 'start': 2987.884, 'duration': 4.938}
+{'text': 'these alleys of\nthe original plots', 'start': 2992.922, 'duration': 2.136}
+{'text': 'into a pedestrian access\nsystem for the new building', 'start': 2995.158, 'duration': 4.171}
+{'text': 'configuration.', 'start': 2999.429, 'duration': 1.968}
+{'text': 'And they also had a zoning\nlaw with height limitations', 'start': 3001.497, 'duration': 2.937}
+{'text': "because there's a tomb\nthere of some kings,", 'start': 3004.534, 'duration': 3.103}
+{'text': 'and other limitations,\nthat made the building', 'start': 3007.738, 'duration': 4.036}
+{'text': 'necessary to slope, or to\ncut off, or to tear us.', 'start': 3011.874, 'duration': 7.141}
+{'text': 'This is the famous river that\nwas freed from the highway', 'start': 3019.115, 'duration': 5.205}
+{'text': 'viaduct that maybe you all know,\nsomething like 15 years ago,', 'start': 3024.42, 'duration': 4.338}
+{'text': 'and has become one of the\nmajor public spaces in Seoul.', 'start': 3028.858, 'duration': 3.537}
+{'text': 'And on the left hand,\nyou see the area', 'start': 3032.495, 'duration': 2.135}
+{'text': 'that we are planning now.', 'start': 3034.73, 'duration': 1.903}
+{'text': 'And on the left, you\nsee the original fabric.', 'start': 3036.733, 'duration': 4.037}
+{'text': 'Then you see the current fabric.', 'start': 3040.87, 'duration': 2.102}
+{'text': 'And then you see what\nwe try to preserve,', 'start': 3043.072, 'duration': 3.905}
+{'text': 'and we cannot\npreserve the plots.', 'start': 3047.077, 'duration': 2.969}
+{'text': 'But we preserve kind of\nimagining of the plots', 'start': 3050.147, 'duration': 4.804}
+{'text': 'in the form of\nstepped roof terraces', 'start': 3055.051, 'duration': 2.402}
+{'text': 'in the different building\nelements that are', 'start': 3057.554, 'duration': 2.135}
+{'text': 'between this pedestrian space.', 'start': 3059.789, 'duration': 2.636}
+{'text': 'And we are commissioned\nby the 60 owners,', 'start': 3062.525, 'duration': 3.003}
+{'text': 'so this is not a repossession\nproject, where a big developer', 'start': 3065.628, 'duration': 4.338}
+{'text': 'kind of skims the whole thing.', 'start': 3070.066, 'duration': 2.069}
+{'text': 'But this is a project\nthat is commissioned', 'start': 3072.235, 'duration': 1.935}
+{'text': 'by the 60 proprietors\nof these different sets', 'start': 3074.271, 'duration': 4.304}
+{'text': 'in the middle slides.', 'start': 3078.675, 'duration': 1.468}
+{'text': "So it's highly unique.", 'start': 3080.243, 'duration': 2.269}
+{'text': 'So if you go to the second\nimage top on the left,', 'start': 3082.612, 'duration': 3.771}
+{'text': "that's the condition\nthat it has now.", 'start': 3086.483, 'duration': 1.668}
+{'text': 'And normally, you would go to\nthe left, clear everything,', 'start': 3088.251, 'duration': 2.636}
+{'text': 'and then you would go down\nand put in a couple of Samsung', 'start': 3090.987, 'duration': 3.837}
+{'text': 'volumes on top of it.', 'start': 3094.924, 'duration': 1.101}
+{'text': 'But what we do is\ngoing to the right', 'start': 3096.125, 'duration': 2.236}
+{'text': "and, let's say, make a kind\nof scale interpretation,", 'start': 3098.461, 'duration': 4.204}
+{'text': 'and use certain reminiscence\nstructures for the urban design', 'start': 3102.765, 'duration': 4.838}
+{'text': 'and also for the architecture.', 'start': 3107.703, 'duration': 1.269}
+{'text': 'So this is the\nresult. It consists', 'start': 3109.072, 'duration': 5.038}
+{'text': 'of something like 10\nbuildings, and they will all', 'start': 3114.21, 'duration': 2.57}
+{'text': 'be elaborated by architects.', 'start': 3116.88, 'duration': 2.535}
+{'text': 'We do also one of the buildings.', 'start': 3119.515, 'duration': 1.435}
+{'text': 'It steps down towards the tomb.', 'start': 3121.05, 'duration': 2.502}
+{'text': 'It has multiple terraces.', 'start': 3123.652, 'duration': 2.403}
+{'text': 'And it has three\nlayers, which is only', 'start': 3126.155, 'duration': 6.24}
+{'text': 'viable in Asia, ground floor\nlayer, an intermediate layer,', 'start': 3132.495, 'duration': 5.573}
+{'text': 'and a top layer, where there\nare also public activities.', 'start': 3138.168, 'duration': 4.504}
+{'text': 'And the ground floor\nlayer is very interesting', 'start': 3142.772, 'duration': 2.57}
+{'text': 'because it also is\ncalled memory ground.', 'start': 3145.442, 'duration': 2.803}
+{'text': "There's a lot of archaeological\nstuff underneath the soil,", 'start': 3148.345, 'duration': 3.637}
+{'text': 'underneath these sheds.', 'start': 3152.082, 'duration': 1.434}
+{'text': 'And we open them\nup and [inaudible],,', 'start': 3153.616, 'duration': 2.035}
+{'text': 'and so it will be\npartly a museum', 'start': 3155.751, 'duration': 3.204}
+{'text': 'where you go through\nthe ground floor.', 'start': 3159.055, 'duration': 1.702}
+{'text': 'And we orient the space\nand the articulation', 'start': 3160.857, 'duration': 2.836}
+{'text': 'of the scale and the\nelements to the alleys', 'start': 3163.793, 'duration': 3.27}
+{'text': 'that are now in that area.', 'start': 3167.163, 'duration': 2.803}
+{'text': 'And of course, funny enough,\nlike the Meerpaal in Dronten,', 'start': 3170.066, 'duration': 6.774}
+{'text': 'this is, of course, a little\nbit also coming forward', 'start': 3176.94, 'duration': 4.303}
+{'text': 'out of my history with\nthe Herman Hertzberger', 'start': 3181.344, 'duration': 4.971}
+{'text': 'and Aldo van Eyck in the TU\nDelft in the 1970s, which,', 'start': 3186.415, 'duration': 6.107}
+{'text': 'of course, worked very much\nwith this scaling in a very', 'start': 3192.622, 'duration': 5.105}
+{'text': 'structuralist way.', 'start': 3197.827, 'duration': 0.867}
+{'text': 'This is the famous\nCentral Beheer', 'start': 3198.794, 'duration': 1.936}
+{'text': 'project by Herman Hertzberger.', 'start': 3200.83, 'duration': 4.138}
+{'text': 'So what about the landscape?', 'start': 3205.068, 'duration': 3.136}
+{'text': 'This is the landscape\nin the Netherlands.', 'start': 3208.304, 'duration': 3.737}
+{'text': "It's called Oostvaardersplassen,\nand it is an area", 'start': 3212.141, 'duration': 3.404}
+{'text': 'that is inside a polder.', 'start': 3215.645, 'duration': 2.869}
+{'text': 'So it should be parceled\ncompletely rectangular,', 'start': 3218.615, 'duration': 3.537}
+{'text': 'in the sense that Vittorio\nsaid this afternoon.', 'start': 3222.252, 'duration': 7.64}
+{'text': "But it didn't manage because\nthe civil engineers could not", 'start': 3229.992, 'duration': 4.238}
+{'text': 'get the so-called\n[inaudible] water out.', 'start': 3234.33, 'duration': 3.337}
+{'text': 'It is water that\ngoes under the dike', 'start': 3237.767, 'duration': 1.969}
+{'text': 'and then penetrates\ninto the polder.', 'start': 3239.836, 'duration': 2.669}
+{'text': 'So it was, more or less,\nlost, and it turned', 'start': 3242.605, 'duration': 3.604}
+{'text': 'into a natural reservation.', 'start': 3246.309, 'duration': 3.237}
+{'text': 'It was appointed a\nnational reservation,', 'start': 3249.646, 'duration': 2.969}
+{'text': 'and in the meantime,\nyou can say that it', 'start': 3252.715, 'duration': 2.603}
+{'text': 'is the only prehistoric\nlandscape in the Netherlands,', 'start': 3255.418, 'duration': 4.138}
+{'text': 'which is only 50 years old,\nwhich is a nice paradox.', 'start': 3259.656, 'duration': 5.238}
+{'text': 'And on top of that,\nkonic horses were', 'start': 3264.994, 'duration': 5.439}
+{'text': 'set out there, which is\na hybrid of the top horse', 'start': 3270.533, 'duration': 6.406}
+{'text': 'from the Eastern Europe plains\nand the aurochs, but not', 'start': 3277.039, 'duration': 5.706}
+{'text': 'a real one.', 'start': 3282.845, 'duration': 1.135}
+{'text': 'A kind of re-hybrid version\nof different wild cows', 'start': 3284.08, 'duration': 6.073}
+{'text': 'were set out in this\narea, and the horses,', 'start': 3290.253, 'duration': 3.803}
+{'text': 'they were very successful.', 'start': 3294.156, 'duration': 1.502}
+{'text': 'They grew and their herd\nwas split into 2 and 1/2.', 'start': 3295.758, 'duration': 5.305}
+{'text': 'The herd was transported to\nPoland, to the east of Poland,', 'start': 3301.163, 'duration': 4.271}
+{'text': 'and set out in their\noriginal habitat.', 'start': 3305.534, 'duration': 3.104}
+{'text': "So it's a kind of nature\nengineering, which", 'start': 3308.738, 'duration': 4.972}
+{'text': 'I think is interesting,\nin relation', 'start': 3313.81, 'duration': 2.135}
+{'text': 'to the discussions about the\nAnthropocene, which you also', 'start': 3316.045, 'duration': 4.871}
+{'text': 'addressed this afternoon.', 'start': 3321.016, 'duration': 2.037}
+{'text': 'We have, as Dutchman\nwho have been grown up', 'start': 3325.721, 'duration': 3.004}
+{'text': 'in artificial conditions,\nwe have the approach', 'start': 3328.825, 'duration': 5.972}
+{'text': 'that due to the fact that it\nis too late, that the planet is', 'start': 3334.897, 'duration': 5.072}
+{'text': 'already on its way\nto be destroyed,', 'start': 3340.069, 'duration': 4.371}
+{'text': 'we have to be also active\nin designing evolution.', 'start': 3344.54, 'duration': 4.605}
+{'text': 'Well, that was a little\nbit over the top.', 'start': 3349.245, 'duration': 1.602}
+{'text': 'We also made the\ntwo urban extensions', 'start': 3355.552, 'duration': 3.37}
+{'text': 'on the sides of this\narea, where they', 'start': 3359.022, 'duration': 2.469}
+{'text': 'manage to dry up the polder.', 'start': 3361.591, 'duration': 2.736}
+{'text': 'And then we said to\nthe mayor of this city,', 'start': 3364.427, 'duration': 3.937}
+{'text': 'oh, mayor, we do not\nbelieve that you get your,', 'start': 3368.464, 'duration': 4.671}
+{'text': "I don't know, 5,000\nor 7,000 housing units", 'start': 3373.235, 'duration': 2.57}
+{'text': 'there with all the amenities.', 'start': 3375.905, 'duration': 1.101}
+{'text': 'It will never happen.', 'start': 3377.106, 'duration': 1.736}
+{'text': 'So we made a design\nthat consists', 'start': 3378.942, 'duration': 2.302}
+{'text': 'of a spine in the middle, along\nwith the first construction', 'start': 3381.344, 'duration': 4.004}
+{'text': 'and the amenities.', 'start': 3385.448, 'duration': 1.368}
+{'text': 'And then on the\nright-hand side, we', 'start': 3386.916, 'duration': 1.769}
+{'text': 'created an extension\nof this water area,', 'start': 3388.785, 'duration': 3.77}
+{'text': 'or this wetland area.', 'start': 3392.655, 'duration': 1.334}
+{'text': 'And on the left-hand side,\nwe created Forest Park.', 'start': 3394.089, 'duration': 3.971}
+{'text': 'And so the trick was\nthat you were allowed', 'start': 3398.16, 'duration': 3.504}
+{'text': 'to build the spine, and after\nyou had built the spine,', 'start': 3401.764, 'duration': 3.069}
+{'text': 'only on the basis to a\ncertain degree of demand', 'start': 3404.934, 'duration': 4.104}
+{'text': 'you were allowed to invade\nthe forests with dwellings', 'start': 3409.138, 'duration': 3.604}
+{'text': 'or invade the water with\nislands we build for them.', 'start': 3412.842, 'duration': 4.07}
+{'text': 'And this is one of\nthe projects that we', 'start': 3417.012, 'duration': 5.906}
+{'text': 'call inversion in urban design.', 'start': 3423.018, 'duration': 3.838}
+{'text': 'We do not take a side.', 'start': 3426.956, 'duration': 3.003}
+{'text': 'And then we start to design\nsomething nice on it.', 'start': 3430.059, 'duration': 4.171}
+{'text': 'From the volume of the\nprogram that we get,', 'start': 3434.33, 'duration': 2.836}
+{'text': 'we look at how the\nprogram fits onto a site.', 'start': 3437.267, 'duration': 3.836}
+{'text': "We say, let's look\nat the site, then", 'start': 3441.203, 'duration': 4.272}
+{'text': 'make a diagnose\nabout the qualities,', 'start': 3445.575, 'duration': 1.801}
+{'text': 'then consolidate what we\nthink are the qualities.', 'start': 3447.477, 'duration': 2.836}
+{'text': 'Consequently, we\ntell the authorities', 'start': 3450.413, 'duration': 3.636}
+{'text': 'how much we think that\nsuch a site can have.', 'start': 3454.15, 'duration': 4.938}
+{'text': "So it's a kind of\ninverse approach", 'start': 3459.188, 'duration': 2.102}
+{'text': 'of protecting an area,\nmore than just let it go.', 'start': 3461.39, 'duration': 5.606}
+{'text': 'Of course, this is only possible\nin certain planning conditions.', 'start': 3467.096, 'duration': 6.106}
+{'text': 'And as I was, at that\ntime, also appointed', 'start': 3473.302, 'duration': 3.304}
+{'text': 'as the chief planner of Schiphol\nAirport, Amsterdam Airport,', 'start': 3476.706, 'duration': 3.202}
+{'text': 'we also worked on the\nmaster plan in Schiphol', 'start': 3480.009, 'duration': 3.604}
+{'text': 'from that perspective, which\nled to an enormous resonance,', 'start': 3483.713, 'duration': 4.805}
+{'text': 'also, at other airports.', 'start': 3488.618, 'duration': 1.134}
+{'text': 'And then we decided to\nmake a resource in a book', 'start': 3489.852, 'duration': 3.169}
+{'text': 'called The Noise\nLandscape, where', 'start': 3493.122, 'duration': 1.468}
+{'text': 'we looked at different airport\nurbanization conditions, which', 'start': 3494.69, 'duration': 7.374}
+{'text': 'was nice for me because in the\n1980s, when I was still at OMA,', 'start': 3502.164, 'duration': 4.204}
+{'text': 'I made this collage.', 'start': 3506.468, 'duration': 1.468}
+{'text': 'You see David [inaudible]\non the left-hand--', 'start': 3508.037, 'duration': 4.271}
+{'text': 'you can see his eyes--', 'start': 3512.408, 'duration': 1.635}
+{'text': 'in a farmer costume.', 'start': 3514.143, 'duration': 2.102}
+{'text': 'And you see he has an\nAmerican Express card,', 'start': 3516.346, 'duration': 2.502}
+{'text': 'and he earns so much money with\nhis farm next to the airport', 'start': 3518.948, 'duration': 3.804}
+{'text': 'that he can fly to Concorde.', 'start': 3522.852, 'duration': 2.569}
+{'text': 'You see all the\nproduction on the horizon.', 'start': 3525.521, 'duration': 3.704}
+{'text': "You see that he\ndoesn't have a farm,", 'start': 3529.325, 'duration': 1.568}
+{'text': 'but he has more like\na Renaissance castle', 'start': 3530.993, 'duration': 2.969}
+{'text': 'and a Renaissance garden.', 'start': 3534.062, 'duration': 2.069}
+{'text': 'In this garden are not\nflowers, but his products', 'start': 3536.231, 'duration': 2.97}
+{'text': 'as an exhibition.', 'start': 3539.301, 'duration': 1.369}
+{'text': 'You see him with his father,\nshowing a model of his farm', 'start': 3540.77, 'duration': 3.803}
+{'text': 'in Nairobi, where the\nroses are growing better.', 'start': 3544.673, 'duration': 4.505}
+{'text': 'You see that they are\ngenetically experimenting.', 'start': 3549.278, 'duration': 2.87}
+{'text': 'And you see that they\nhave guest workers', 'start': 3552.248, 'duration': 1.935}
+{'text': 'in the underground\ninfrastructure helping them', 'start': 3554.283, 'duration': 3.637}
+{'text': 'to produce their products,\nwhich are then in the Harlem', 'start': 3558.02, 'duration': 5.272}
+{'text': 'which is seven meters below\nsea level, in which Amsterdam', 'start': 3563.392, 'duration': 3.07}
+{'text': 'Airport lies, being\nshipped to the airport.', 'start': 3566.562, 'duration': 4.571}
+{'text': 'And I can tell you, the\nreality is not very different', 'start': 3571.233, 'duration': 4.705}
+{'text': 'as this caricature that I made\nin 1987 for an exhibition.', 'start': 3576.038, 'duration': 9.877}
+{'text': 'This is the Schiphol\narea, and you', 'start': 3586.015, 'duration': 3.036}
+{'text': "see it's a beautiful landscape.", 'start': 3589.151, 'duration': 2.069}
+{'text': 'And the motorway and the railway\nland in an island by tunnels.', 'start': 3591.32, 'duration': 6.24}
+{'text': 'And so the revolving landing\nstrips are, of course,', 'start': 3597.66, 'duration': 6.072}
+{'text': 'because of the very\nmany wind directions,', 'start': 3603.832, 'duration': 4.438}
+{'text': 'the planes can freely\nmove around this node.', 'start': 3608.371, 'duration': 4.637}
+{'text': 'And you see the original\npolar structure,', 'start': 3613.108, 'duration': 2.937}
+{'text': "let's say the subdivision\nfor agricultural use", 'start': 3616.145, 'duration': 3.704}
+{'text': 'from the 19th\ncentury, very nicely,', 'start': 3619.949, 'duration': 2.068}
+{'text': 'and also some of\nthe farm strips.', 'start': 3622.118, 'duration': 3.437}
+{'text': 'So one of the\nacknowledgments that they', 'start': 3625.655, 'duration': 3.203}
+{'text': 'made as master\nplanners was always', 'start': 3628.958, 'duration': 3.236}
+{'text': 'a fight between the city of\nAmsterdam and the airport,', 'start': 3632.294, 'duration': 2.67}
+{'text': 'or the other surrounding areas.', 'start': 3635.064, 'duration': 3.57}
+{'text': 'And until we made this drawing\nwith the consequent diagrams--', 'start': 3638.734, 'duration': 6.774}
+{'text': 'this drawing shows the\nemission of sound contours.', 'start': 3645.608, 'duration': 5.672}
+{'text': 'And here, you see what,\nin our exaggerated vision,', 'start': 3651.38, 'duration': 5.205}
+{'text': 'would have happened when\nthe airport would not', 'start': 3656.686, 'duration': 1.801}
+{'text': 'have been there.', 'start': 3658.587, 'duration': 1.535}
+{'text': 'So on the left hand, you see the\nairport and its sound contour,', 'start': 3660.222, 'duration': 4.271}
+{'text': 'which leaves a lot of space\nopen and leaves Amsterdam', 'start': 3664.593, 'duration': 3.137}
+{'text': 'free from Haarlem\nand from Hoofddorp', 'start': 3667.83, 'duration': 2.336}
+{'text': 'and Liden and other cities.', 'start': 3670.266, 'duration': 2.068}
+{'text': 'And on the right\nhand, you see what', 'start': 3672.434, 'duration': 2.369}
+{'text': 'probably might have happened\nwhen the airport would not', 'start': 3674.903, 'duration': 2.67}
+{'text': 'have been there.', 'start': 3677.673, 'duration': 2.002}
+{'text': 'And so we convinced both the\ndirection of the airport,', 'start': 3679.775, 'duration': 4.038}
+{'text': 'as well as the city\ngovernment of the surrounding', 'start': 3683.913, 'duration': 3.436}
+{'text': 'municipalities, that you should\nconsider the airport as a park', 'start': 3687.449, 'duration': 4.438}
+{'text': 'landscape and that\nyou should be glad', 'start': 3691.987, 'duration': 3.204}
+{'text': 'that you have these nice\ncontours, because it creates', 'start': 3695.291, 'duration': 2.869}
+{'text': 'a hard edge for the\ncity and it does not', 'start': 3698.26, 'duration': 3.337}
+{'text': 'lead to a sprawled condition.', 'start': 3701.697, 'duration': 2.836}
+{'text': 'And so you see here,\nthis is a student project', 'start': 3704.633, 'duration': 2.369}
+{'text': 'that we did on the\nleft, which creates', 'start': 3707.102, 'duration': 1.869}
+{'text': 'this park out of the airport.', 'start': 3709.071, 'duration': 2.802}
+{'text': 'And you see here that\nthe airport park, which', 'start': 3711.974, 'duration': 2.068}
+{'text': 'is the second from the\nleft, is about the same', 'start': 3714.143, 'duration': 2.969}
+{'text': 'as other natural reservations\naround the city of Amsterdam.', 'start': 3717.212, 'duration': 4.772}
+{'text': 'And so in the wake\nof that, we also', 'start': 3722.084, 'duration': 3.771}
+{'text': 'tendered out park\nprojects that were kind', 'start': 3725.955, 'duration': 3.636}
+{'text': 'of consolidating this notion.', 'start': 3729.691, 'duration': 2.27}
+{'text': 'So this is the\nso-called sound part', 'start': 3732.061, 'duration': 2.435}
+{'text': 'by H&S Landscape\nArchitects, which', 'start': 3734.596, 'duration': 4.071}
+{'text': 'is a [inaudible] landscape that\nhas that distributes the noise', 'start': 3738.767, 'duration': 7.174}
+{'text': 'and, at the same time, is a very\nattractive park for leisure.', 'start': 3746.041, 'duration': 5.272}
+{'text': 'Of course, also\nfor spotters that', 'start': 3751.413, 'duration': 1.536}
+{'text': 'like to look at airplanes\nbecause probably', 'start': 3753.049, 'duration': 2.569}
+{'text': "half of the population\ndoesn't mind to live", 'start': 3755.718, 'duration': 2.135}
+{'text': 'around airplane ports at all.', 'start': 3757.953, 'duration': 3.371}
+{'text': 'One of the features\nin many airports', 'start': 3761.424, 'duration': 4.037}
+{'text': 'that we researched and we talked\nto was also the golf course.', 'start': 3765.561, 'duration': 4.404}
+{'text': 'We made a golf course in\nSchiphol between the Amsterdam', 'start': 3770.065, 'duration': 5.039}
+{'text': 'forest on the south, on the\nlower part of the slide,', 'start': 3775.204, 'duration': 4.17}
+{'text': 'and the landscape\naround the airport.', 'start': 3779.474, 'duration': 2.87}
+{'text': 'And the golf course is\nnot simply a golf course.', 'start': 3782.444, 'duration': 5.84}
+{'text': 'If you go to Incheon, Incheon\nis an enormous airport,', 'start': 3788.384, 'duration': 6.339}
+{'text': 'which has two golf courses, boat\nracing things, dentist clinics,', 'start': 3794.823, 'duration': 7.841}
+{'text': 'et cetera.', 'start': 3802.765, 'duration': 1.268}
+{'text': 'They have the problem that they\nare so far from the cities,', 'start': 3804.133, 'duration': 2.769}
+{'text': 'and they have gained so\nmuch land from the sea,', 'start': 3807.003, 'duration': 3.837}
+{'text': 'that the airport\nis almost vanishing', 'start': 3810.94, 'duration': 2.135}
+{'text': 'in the middle of nowhere\nand they are forced', 'start': 3813.175, 'duration': 3.136}
+{'text': 'to produce new functions.', 'start': 3816.411, 'duration': 3.004}
+{'text': 'And the golf courses\nthat are around airports', 'start': 3819.515, 'duration': 5.305}
+{'text': 'are initially golf courses\nthat were given to a golf club', 'start': 3824.92, 'duration': 3.37}
+{'text': 'because the land was\nnot valuable at all.', 'start': 3828.39, 'duration': 4.404}
+{'text': 'But now, Incheon, for instance,\nexploits the two golf courses.', 'start': 3832.894, 'duration': 3.404}
+{'text': 'Schiphol Airport\nexploits the golf courses', 'start': 3836.398, 'duration': 2.536}
+{'text': 'because they have noticed\nthat the golf course is', 'start': 3839.034, 'duration': 2.202}
+{'text': 'a vital economic engine\nfor entrepreneurial shape', 'start': 3841.336, 'duration': 3.538}
+{'text': 'and aviation in the\nairport urbanization', 'start': 3844.974, 'duration': 3.47}
+{'text': "area, which, of course, is\nit's kind of a brilliant idea.", 'start': 3848.544, 'duration': 5.305}
+{'text': 'These are birch trees planted\nby Adriaan Geuze from West 8', 'start': 3853.949, 'duration': 4.237}
+{'text': 'Architects that are specially\nbreeded birch trees that have', 'start': 3858.286, 'duration': 4.572}
+{'text': 'weak, venerable branches so\nthat birds cannot sit on them.', 'start': 3862.958, 'duration': 5.138}
+{'text': 'So as soon as a bird sits\non a branch, it flips down.', 'start': 3868.196, 'duration': 4.405}
+{'text': "So it's a landscape\ndevice that tries", 'start': 3872.701, 'duration': 4.905}
+{'text': 'to prevent to have too many\nbirds in the airport that', 'start': 3877.706, 'duration': 6.139}
+{'text': 'then do not land into\nthe engine of the plane.', 'start': 3883.946, 'duration': 3.103}
+{'text': 'And here, you see a\ninstallation in which', 'start': 3887.149, 'duration': 3.804}
+{'text': 'we are recycling de-icing\nliquid with the help of algae.', 'start': 3891.053, 'duration': 5.673}
+{'text': 'There is a department\ncalled The Grounds, founded', 'start': 3896.826, 'duration': 4.003}
+{'text': 'in Schiphol Airport, that works\non sustainable complementary', 'start': 3900.929, 'duration': 5.706}
+{'text': 'technologies to make\nthe airport more sound.', 'start': 3906.735, 'duration': 4.104}
+{'text': 'And of course, we have\nall these enormous boxes', 'start': 3910.94, 'duration': 4.403}
+{'text': 'in and around the airport.', 'start': 3915.443, 'duration': 1.436}
+{'text': "That's the flower auction in\none of the biggest buildings", 'start': 3916.979, 'duration': 3.269}
+{'text': 'in the Netherlands.', 'start': 3920.348, 'duration': 1.335}
+{'text': 'And we are now trying to see\nhow, with the different owners', 'start': 3921.783, 'duration': 6.64}
+{'text': 'and entrepreneurs, we can use\nthese roofs for multiple use,', 'start': 3928.523, 'duration': 5.339}
+{'text': 'specifically, also, for these\nsecondary economic activities', 'start': 3933.962, 'duration': 5.439}
+{'text': 'around the airport.', 'start': 3939.501, 'duration': 1.769}
+{'text': 'And the last project, in\nthat sense, that I show you', 'start': 3941.37, 'duration': 2.569}
+{'text': 'is a railway station in\nMontpellier in France.', 'start': 3944.04, 'duration': 5.371}
+{'text': 'This is the Mediterranean.', 'start': 3949.511, 'duration': 1.102}
+{'text': 'This is city center\nof Montpellier.', 'start': 3950.713, 'duration': 1.634}
+{'text': 'And here, you see the\nsite, the neighborhood,', 'start': 3952.448, 'duration': 3.503}
+{'text': "of the new railway station,\nwhich, of course, shouldn't be,", 'start': 3956.051, 'duration': 4.838}
+{'text': 'but in France, they just\ndeliberately let the TGV lines', 'start': 3960.989, 'duration': 5.039}
+{'text': 'past the cities and\nsometimes put a station', 'start': 3966.128, 'duration': 4.504}
+{'text': 'in between cities.', 'start': 3970.732, 'duration': 1.335}
+{'text': 'You see the TGV line that\nis going to be there.', 'start': 3972.167, 'duration': 3.204}
+{'text': 'And here, you see the\nexisting motorway.', 'start': 3975.471, 'duration': 2.201}
+{'text': 'This is a bypass motorway.', 'start': 3977.772, 'duration': 1.669}
+{'text': 'It becomes the nice separation\nof a landscape corridor', 'start': 3979.541, 'duration': 4.738}
+{'text': 'between the city\nand the villages', 'start': 3984.38, 'duration': 3.303}
+{'text': 'around the lagoon\nand the airport.', 'start': 3987.783, 'duration': 3.236}
+{'text': "It's completely threatening\nto be destroyed,", 'start': 3991.119, 'duration': 2.604}
+{'text': 'and we were selected\nbecause we did,', 'start': 3993.823, 'duration': 4.136}
+{'text': "let's say, a kind\nof inverse approach,", 'start': 3998.059, 'duration': 4.071}
+{'text': 'which, finally, they swallowed.', 'start': 4002.23, 'duration': 3.203}
+{'text': "So this line is being\nbuilt, and it's my fault", 'start': 4005.534, 'duration': 3.537}
+{'text': 'that this line is there.', 'start': 4009.171, 'duration': 0.901}
+{'text': 'So I have, by drawing\nthis, destroyed', 'start': 4010.172, 'duration': 2.669}
+{'text': 'the landscape on the one hand.', 'start': 4012.941, 'duration': 2.236}
+{'text': 'But on the other hand, this\nwould be only the railway,', 'start': 4015.277, 'duration': 4.638}
+{'text': 'and there would be another\none for the highway.', 'start': 4020.015, 'duration': 2.836}
+{'text': 'And we managed to\nput them together.', 'start': 4022.951, 'duration': 4.071}
+{'text': 'It needed seven\nmonths and, finally,', 'start': 4027.122, 'duration': 2.136}
+{'text': 'sitting at the desk\nof the Ministry', 'start': 4029.358, 'duration': 1.501}
+{'text': 'of Transport, Minister\nof Transport in Paris,', 'start': 4030.96, 'duration': 2.568}
+{'text': 'to lay them cold against each\nother, by which we could create', 'start': 4033.628, 'duration': 5.306}
+{'text': 'a railway square across that\nimmediately could connect', 'start': 4039.034, 'duration': 4.938}
+{'text': 'this area and this.', 'start': 4044.072, 'duration': 1.002}
+{'text': 'Then we decided\nthat everything that', 'start': 4045.174, 'duration': 1.868}
+{'text': 'was wetlands or stream and\ncreek and vineyard, and so on,', 'start': 4047.142, 'duration': 5.772}
+{'text': 'was going to be protected.', 'start': 4053.014, 'duration': 1.602}
+{'text': 'And the end is a\ngreen framework.', 'start': 4054.717, 'duration': 1.935}
+{'text': 'The result is a green framework.', 'start': 4056.752, 'duration': 2.002}
+{'text': 'So first, we have reduced\nthe infrastructure bundle.', 'start': 4058.854, 'duration': 4.004}
+{'text': 'Secondly, we have made\nintelligent crossings for them.', 'start': 4062.958, 'duration': 6.773}
+{'text': 'We have neutralized\nthe sound problem.', 'start': 4069.831, 'duration': 2.904}
+{'text': 'We have preserved the\nqualities of the landscape.', 'start': 4072.835, 'duration': 3.169}
+{'text': 'And then the\nresidual areas are--', 'start': 4076.104, 'duration': 3.771}
+{'text': 'this is an example\nof the station.', 'start': 4079.975, 'duration': 2.502}
+{'text': 'Of course, there has been a\ncompetition in the station', 'start': 4082.577, 'duration': 2.403}
+{'text': 'not so nice as we thought.', 'start': 4085.08, 'duration': 3.436}
+{'text': 'These neighborhoods,\nthey can be built,', 'start': 4088.616, 'duration': 1.936}
+{'text': "but they can also not be built.\nThat doesn't really matter.", 'start': 4090.652, 'duration': 2.503}
+{'text': 'We have a framework in\nwhich in different orders', 'start': 4093.255, 'duration': 4.07}
+{'text': 'of development incrementally.', 'start': 4097.425, 'duration': 3.171}
+{'text': 'One can fill it up to a\ncertain degree of relationship', 'start': 4100.696, 'duration': 4.137}
+{'text': 'between the built\nand the unbuilt.', 'start': 4104.933, 'duration': 3.538}
+{'text': 'And so we always say\nnowadays, after this project,', 'start': 4108.571, 'duration': 4.237}
+{'text': 'urban design is like skiing.', 'start': 4112.908, 'duration': 1.335}
+{'text': "It's the art of\nbreaking elegantly.", 'start': 4114.343, 'duration': 2.335}
+{'text': 'And the instruments that\nyou have for breaking', 'start': 4116.779, 'duration': 3.804}
+{'text': 'are different\nadministrative law.', 'start': 4120.683, 'duration': 4.937}
+{'text': 'Also, the first law in\nSwitzerland, for instance,', 'start': 4125.72, 'duration': 2.904}
+{'text': 'is an enormous problem\nfor some cities.', 'start': 4128.724, 'duration': 5.105}
+{'text': 'They also have a so-called\ndisaster food service law,', 'start': 4133.929, 'duration': 4.437}
+{'text': 'which means that\nthey have to have', 'start': 4138.466, 'duration': 1.302}
+{'text': 'a minimum agricultural service\nper resident in the country', 'start': 4139.868, 'duration': 5.672}
+{'text': 'in order to feed\nself-sufficiently', 'start': 4145.64, 'duration': 3.871}
+{'text': 'in times of crisis.', 'start': 4149.611, 'duration': 2.202}
+{'text': 'And so you have\nan enormous amount', 'start': 4151.913, 'duration': 1.468}
+{'text': 'of these kind of breaking\nfactors, if you like,', 'start': 4153.481, 'duration': 7.642}
+{'text': 'that make urban\ndesign like skiing.', 'start': 4161.223, 'duration': 3.971}
+{'text': 'And this is a list I\nshowed this afternoon.', 'start': 4168.763, 'duration': 2.17}
+{'text': 'I think that is a very\ninteresting list to look at it.', 'start': 4171.033, 'duration': 2.669}
+{'text': 'Because I can now say that\ninverse landscape urbanism', 'start': 4173.802, 'duration': 4.671}
+{'text': "is something new, but\nit's nothing new at all.", 'start': 4178.574, 'duration': 3.27}
+{'text': 'It was already in Cities in\nEvolution by Patrick Geddes.', 'start': 4181.944, 'duration': 4.604}
+{'text': 'And Rem Koolhaas showed nothing,\nthat his countryside is now', 'start': 4186.648, 'duration': 4.005}
+{'text': 'the label for\nlandscape urbanism,', 'start': 4190.753, 'duration': 2.335}
+{'text': 'because there are\nsomething like 40 concepts', 'start': 4193.189, 'duration': 3.136}
+{'text': 'and ideas before him.', 'start': 4196.425, 'duration': 1.768}
+{'text': 'The idea of being an\nurbanist, an urban designer,', 'start': 4198.293, 'duration': 4.004}
+{'text': 'is not to be a unique\ninventor of ideas.', 'start': 4202.397, 'duration': 5.94}
+{'text': 'You are a cog wheel\nin a mechanism,', 'start': 4208.437, 'duration': 4.737}
+{'text': 'and you have to find\nout where you have', 'start': 4213.274, 'duration': 1.803}
+{'text': 'where you can have\nimpact and where not.', 'start': 4215.177, 'duration': 2.402}
+{'text': 'Thank you very much.', 'start': 4217.679, 'duration': 1.434}
+{'text': '[applause]', 'start': 4219.214, 'duration': 2.303}
+{'text': 'Stay up here.', 'start': 4229.758, 'duration': 1.168}
+{'text': 'I think we have time for\nabout 13 minutes of questions,', 'start': 4231.026, 'duration': 3.137}
+{'text': 'or something like that.', 'start': 4234.263, 'duration': 1.034}
+{'text': 'So if you want to stay up here.', 'start': 4235.397, 'duration': 5.004}
+{'text': 'Questions?', 'start': 4240.502, 'duration': 0.868}
+{'text': 'Anybody have a question?', 'start': 4241.47, 'duration': 0.901}
+{'text': "We'll have a microphone\ngoing around.", 'start': 4242.471, 'duration': 1.635}
+{'text': 'Please.', 'start': 4248.176, 'duration': 1.935}
+{'text': 'Hi.', 'start': 4250.211, 'duration': 0.468}
+{'text': 'Good evening.', 'start': 4250.779, 'duration': 0.601}
+{'text': 'Thank you for your talk.', 'start': 4251.48, 'duration': 1.168}
+{'text': 'I want to go back to the\nmaybe one unarchitecture slide', 'start': 4252.748, 'duration': 3.136}
+{'text': 'you showed of the fleet\nversus the one ship.', 'start': 4255.984, 'duration': 3.07}
+{'text': 'Oh yeah.', 'start': 4259.154, 'duration': 1.168}
+{'text': 'And how you think of your\nwork and working together.', 'start': 4260.422, 'duration': 3.803}
+{'text': 'And I noticed what\nyou focused on a lot', 'start': 4264.325, 'duration': 2.77}
+{'text': 'in this talk were sites\nthat were rather large', 'start': 4267.196, 'duration': 4.003}
+{'text': 'and you could work\na lot in them one.', 'start': 4271.299, 'duration': 3.337}
+{'text': 'The one that seemed very unique\nwas where the owners were more', 'start': 4274.736, 'duration': 4.438}
+{'text': 'your client and not\nthe big developers,', 'start': 4279.274, 'duration': 2.035}
+{'text': 'but you seem to\nalways work and push--', 'start': 4281.409, 'duration': 2.703}
+{'text': 'as you said, develop--\nthe idea beyond kind', 'start': 4284.212, 'duration': 2.236}
+{'text': 'of at all what people think\nis possible at the outset.', 'start': 4286.548, 'duration': 3.036}
+{'text': 'My question is,\nin the future, do', 'start': 4289.684, 'duration': 3.103}
+{'text': 'you think that there is\nenough land right now that', 'start': 4292.887, 'duration': 4.205}
+{'text': 'are these kinds of defunct\nsites on city edges', 'start': 4297.192, 'duration': 4.371}
+{'text': 'and coastlines to\nredevelop into something', 'start': 4301.663, 'duration': 3.937}
+{'text': 'that could accommodate the\namount of housing and urban', 'start': 4305.7, 'duration': 3.237}
+{'text': "and built environment that we're\ngoing to need in the future?", 'start': 4309.037, 'duration': 2.97}
+{'text': "Or do you think\nit's a place where", 'start': 4312.107, 'duration': 1.335}
+{'text': 'you need to look to\nother smaller forms,', 'start': 4313.542, 'duration': 3.47}
+{'text': 'more atomized, more\nspread apart maybe?', 'start': 4317.112, 'duration': 3.07}
+{'text': "And I'll leave it at\nthat vague question mark.", 'start': 4320.282, 'duration': 3.736}
+{'text': "That's almost impossible\nto answer that question,", 'start': 4324.119, 'duration': 2.636}
+{'text': "but let's say I can\nsay something about it.", 'start': 4326.855, 'duration': 4.071}
+{'text': 'The fleet merely is an\norganization system,', 'start': 4331.026, 'duration': 4.838}
+{'text': 'in which I have installed\nboth in the university', 'start': 4335.964, 'duration': 5.505}
+{'text': 'as in our office, in which\nI immediately give away', 'start': 4341.569, 'duration': 6.307}
+{'text': 'the finances and the men and the\ncompany management to somebody', 'start': 4347.976, 'duration': 4.137}
+{'text': 'else so that I can\nwork on the content.', 'start': 4352.213, 'duration': 4.639}
+{'text': 'And this person is\nfully responsible.', 'start': 4356.952, 'duration': 2.235}
+{'text': "I don't even know what the\nturnover of the office is.", 'start': 4359.287, 'duration': 2.669}
+{'text': 'I have no idea.', 'start': 4362.056, 'duration': 1.435}
+{'text': "I have a salary, and\nwhen there's a profit,", 'start': 4363.591, 'duration': 3.037}
+{'text': 'I get something of the profit.', 'start': 4366.728, 'duration': 1.735}
+{'text': 'I also have, since\ntwo years, atomized', 'start': 4368.563, 'duration': 2.47}
+{'text': 'the property of the office.', 'start': 4371.133, 'duration': 2.368}
+{'text': 'So I only still have\nsomething like 12% ownership', 'start': 4373.601, 'duration': 6.307}
+{'text': 'in my office.', 'start': 4380.008, 'duration': 1.835}
+{'text': 'It appears that people\nget more motivated when', 'start': 4381.944, 'duration': 2.435}
+{'text': 'they are co-owners, and\nwe have a good mechanism', 'start': 4384.48, 'duration': 4.27}
+{'text': 'that people who are not really\nfunctioning after a while', 'start': 4388.85, 'duration': 2.737}
+{'text': 'can also fade out again.', 'start': 4391.687, 'duration': 2.903}
+{'text': "It's very important to\ncreate a complimentary team", 'start': 4394.69, 'duration': 6.039}
+{'text': 'and that you create\na condition in which', 'start': 4400.829, 'duration': 1.969}
+{'text': "this complimentary team can\nthen, let's say, subdivide,", 'start': 4402.898, 'duration': 5.105}
+{'text': 'if you like.', 'start': 4408.103, 'duration': 2.002}
+{'text': 'And I think this is a\nvery important requirement', 'start': 4410.205, 'duration': 6.907}
+{'text': 'because the urban design process\nin a city like Amsterdam,', 'start': 4417.212, 'duration': 6.707}
+{'text': 'or even in Singapore,\nworks in that way.', 'start': 4424.019, 'duration': 2.636}
+{'text': 'You have multiple people who\nall have a very independent say', 'start': 4426.755, 'duration': 5.004}
+{'text': 'and you have to\nbring into harmony', 'start': 4431.859, 'duration': 1.936}
+{'text': 'their different interests,\nor you have to at least go on', 'start': 4433.895, 'duration': 4.305}
+{'text': 'with the project.', 'start': 4438.3, 'duration': 2.936}
+{'text': 'The 60 clients in Korea, they\nhave organized themselves', 'start': 4441.336, 'duration': 6.54}
+{'text': 'in a certain way like that\nby delegating the project', 'start': 4447.976, 'duration': 3.137}
+{'text': 'management to a company.', 'start': 4451.213, 'duration': 4.404}
+{'text': "And this company has to,\nlet's say, every time produce", 'start': 4455.717, 'duration': 5.672}
+{'text': 'a presentation of\nthe design the costs', 'start': 4461.489, 'duration': 2.77}
+{'text': 'the functional differences\nin the program,', 'start': 4464.359, 'duration': 1.935}
+{'text': 'et cetera, to the 60 owners.', 'start': 4466.394, 'duration': 4.572}
+{'text': 'So they are not\nindividuals, but they', 'start': 4471.066, 'duration': 3.203}
+{'text': 'are grouped into a\nkind of collective,', 'start': 4474.369, 'duration': 1.768}
+{'text': 'and the collective\nhas a management', 'start': 4476.237, 'duration': 2.237}
+{'text': 'body that communicates with\nus and the municipality.', 'start': 4478.574, 'duration': 7.44}
+{'text': "And now, about urban\ndevelopment, let's say,", 'start': 4486.114, 'duration': 6.706}
+{'text': 'I think there are two\nmodels of urbanization', 'start': 4492.921, 'duration': 4.238}
+{'text': 'beyond the countryside.', 'start': 4497.259, 'duration': 1.802}
+{'text': 'The first is the compact city.', 'start': 4501.863, 'duration': 3.57}
+{'text': 'And of course, you can see that\neven mega cities in developing', 'start': 4505.533, 'duration': 6.206}
+{'text': 'countries, they are partly\nextremely unsustainable,', 'start': 4511.839, 'duration': 3.237}
+{'text': 'but at the same time, they have\na very low takeoff footprint.', 'start': 4515.176, 'duration': 5.373}
+{'text': 'And in general,\nfor all cities, you', 'start': 4520.649, 'duration': 3.469}
+{'text': 'can say that agglomeration\nleads to a better condition.', 'start': 4524.218, 'duration': 7.809}
+{'text': 'Also an economic sense.', 'start': 4532.127, 'duration': 2.703}
+{'text': 'If you read the\nbook Arrival Cities,', 'start': 4534.93, 'duration': 2.368}
+{'text': 'you know that after two\nor three generations,', 'start': 4537.399, 'duration': 4.104}
+{'text': 'people from the cities\nin the slums already', 'start': 4541.603, 'duration': 3.67}
+{'text': 'mostly have emancipated\ninto official society.', 'start': 4545.374, 'duration': 5.171}
+{'text': 'And then the second--', 'start': 4550.645, 'duration': 1.769}
+{'text': 'I always say in terms\nof concentration,', 'start': 4552.514, 'duration': 4.471}
+{'text': 'and attraction of concentration,\nand settling of forces,', 'start': 4557.085, 'duration': 3.337}
+{'text': 'and so on, the large city is,\nmore or less, on autopilot.', 'start': 4560.522, 'duration': 6.372}
+{'text': 'Of course, we have\nto govern them.', 'start': 4566.994, 'duration': 1.469}
+{'text': 'We have to improve them.', 'start': 4568.563, 'duration': 2.502}
+{'text': "But let's say that's\nan autopilot process.", 'start': 4571.165, 'duration': 3.971}
+{'text': 'And then we have\nwhatever you call it,', 'start': 4575.236, 'duration': 4.071}
+{'text': 'the last slide, the\nurbanized landscape.', 'start': 4579.407, 'duration': 3.57}
+{'text': 'And the urbanized landscape--', 'start': 4583.077, 'duration': 3.338}
+{'text': 'houses maybe as many people\nas in all the cities--', 'start': 4586.515, 'duration': 4.203}
+{'text': "I don't know.", 'start': 4590.818, 'duration': 0.902}
+{'text': "I mean, I'm not a statistic.", 'start': 4591.82, 'duration': 2.402}
+{'text': 'But you could maybe say that\nif you look at the world', 'start': 4594.322, 'duration': 2.936}
+{'text': 'population map, you see\nthat the area in Java,', 'start': 4597.359, 'duration': 6.873}
+{'text': 'or along the Ganges, are\ncompletely populated,', 'start': 4604.333, 'duration': 4.637}
+{'text': 'the whole area\nsouth of Shanghai.', 'start': 4609.07, 'duration': 2.402}
+{'text': 'And if you look at the\nworld rice production map,', 'start': 4611.572, 'duration': 3.137}
+{'text': 'you see, more or less, the same.', 'start': 4614.809, 'duration': 1.235}
+{'text': 'So those areas are producing\nmost of the agriculture', 'start': 4616.144, 'duration': 5.538}
+{'text': 'production, and at the same time\nare the most populated areas.', 'start': 4621.782, 'duration': 2.97}
+{'text': 'So maybe half of the\nso-called urban people,', 'start': 4624.852, 'duration': 5.072}
+{'text': 'according to the UN report,\nare living in those areas.', 'start': 4630.024, 'duration': 6.073}
+{'text': 'Those areas are\noriginally rural,', 'start': 4636.197, 'duration': 3.337}
+{'text': 'but they are increasingly\nbecoming productive landscape.', 'start': 4639.634, 'duration': 3.837}
+{'text': 'Also because they\nhouse industry.', 'start': 4643.571, 'duration': 2.937}
+{'text': 'Think of all the\nmemory stick factories', 'start': 4646.608, 'duration': 5.372}
+{'text': "along the river in Bangkok,\nand I don't know what.", 'start': 4652.08, 'duration': 2.936}
+{'text': 'So they become really\nindustrialized,', 'start': 4655.116, 'duration': 4.137}
+{'text': 'agriculturized,\nand also settled.', 'start': 4659.353, 'duration': 2.737}
+{'text': 'And they produce an\nenormous amount of mobility', 'start': 4662.19, 'duration': 2.536}
+{'text': 'and they get a proliferation\nof infrastructure.', 'start': 4664.826, 'duration': 3.169}
+{'text': 'So now the question is, is that\na future model of urbanization', 'start': 4668.095, 'duration': 5.54}
+{'text': 'that we should take seriously?', 'start': 4673.735, 'duration': 1.702}
+{'text': 'Or is it an intermediate\nstage in the full organization', 'start': 4675.537, 'duration': 5.339}
+{'text': 'of such a whole area?', 'start': 4680.976, 'duration': 4.271}
+{'text': 'And what does that mean?', 'start': 4685.347, 'duration': 1.234}
+{'text': 'You cannot now say I will\nmake a concept for that,', 'start': 4686.681, 'duration': 3.671}
+{'text': 'or I have an idea for that.', 'start': 4690.452, 'duration': 1.734}
+{'text': 'This is a kind of mixture\nbetween natural development,', 'start': 4692.286, 'duration': 4.805}
+{'text': 'between prosperity, between\nthe quality of governance,', 'start': 4697.191, 'duration': 7.709}
+{'text': 'et cetera, et cetera.', 'start': 4705.0, 'duration': 1.268}
+{'text': 'So thank you for your talk.', 'start': 4725.553, 'duration': 1.669}
+{'text': "Though I don't study\nurban planning,", 'start': 4727.322, 'duration': 1.634}
+{'text': 'I do have a vested\ninterest in it.', 'start': 4729.056, 'duration': 1.302}
+{'text': 'So I was curious in the\ndevelopment of Schiphol', 'start': 4730.459, 'duration': 3.002}
+{'text': 'as an airport.', 'start': 4733.561, 'duration': 0.901}
+{'text': 'If the development\nof the runways,', 'start': 4734.562, 'duration': 2.836}
+{'text': 'for example, the\nPolderbaan and the fact', 'start': 4737.498, 'duration': 1.569}
+{'text': "that it's so far away\nfrom the center terminal,", 'start': 4739.167, 'duration': 1.968}
+{'text': 'if the development of the\nrunways at the airport', 'start': 4741.235, 'duration': 2.837}
+{'text': 'substantially affected your\nplanning of the development.', 'start': 4744.172, 'duration': 4.104}
+{'text': 'There is one runway which is\ncalled the polder runway, which', 'start': 4748.376, 'duration': 4.805}
+{'text': 'lies is something\nlike six or seven', 'start': 4753.281, 'duration': 2.369}
+{'text': 'kilometers from the terminal.', 'start': 4755.75, 'duration': 2.502}
+{'text': 'So once a pilot made the\nremark when we landed,', 'start': 4758.353, 'duration': 5.238}
+{'text': 'ladies and gentlemen,\nwe have landed somewhere', 'start': 4763.692, 'duration': 3.002}
+{'text': 'between Zurich and Amsterdam\nand we are continuing our travel', 'start': 4766.794, 'duration': 3.904}
+{'text': 'on wheels.', 'start': 4770.799, 'duration': 0.534}
+{'text': "That's a good question.", 'start': 4775.804, 'duration': 1.434}
+{'text': 'It is there because\nexactly of this kind', 'start': 4777.338, 'duration': 4.405}
+{'text': 'of negotiating\nmoment, where to lay', 'start': 4781.843, 'duration': 6.14}
+{'text': 'the runway in order not to\naffect houses and urban area.', 'start': 4788.083, 'duration': 6.739}
+{'text': 'So normally, it would\nhave been much closer,', 'start': 4794.923, 'duration': 4.271}
+{'text': 'but this was the only area\nwhere the degree of people that', 'start': 4799.294, 'duration': 6.373}
+{'text': 'would be affected by\nnoise and emissions', 'start': 4805.767, 'duration': 2.336}
+{'text': 'and by the calamity\nlegislation would be minimum.', 'start': 4808.203, 'duration': 4.837}
+{'text': 'And so this corridor\nstays free and is,', 'start': 4813.14, 'duration': 6.107}
+{'text': 'on this moment, in the\nprocess of creating', 'start': 4819.347, 'duration': 2.202}
+{'text': 'an edge of recreational sport\nfacilities, and creating, also,', 'start': 4821.649, 'duration': 7.842}
+{'text': 'quite a nice edge condition\nof urban area around it.', 'start': 4829.591, 'duration': 5.672}
+{'text': 'Yeah, quite OK.', 'start': 4835.363, 'duration': 1.302}
+{'text': "I think we're going to\ntry to wrap it up here.", 'start': 4842.103, 'duration': 2.836}
+{'text': 'Many of the people\ninvolved in the conference', 'start': 4845.04, 'duration': 1.801}
+{'text': "and been here all day\nand it's been a long day.", 'start': 4846.941, 'duration': 2.869}
+{'text': "But I'd like to take one--", 'start': 4849.91, 'duration': 2.67}
+{'text': 'exploit my role here and\njust make one comment', 'start': 4852.681, 'duration': 3.703}
+{'text': 'about your the penultimate\nanswer to the question', 'start': 4856.484, 'duration': 5.672}
+{'text': 'about where are we going\nto fit all these people.', 'start': 4862.257, 'duration': 4.203}
+{'text': 'And your response, putting the\nidea of an urbanized landscape', 'start': 4866.56, 'duration': 5.273}
+{'text': 'on the table, I think is a\nvery powerful and important one', 'start': 4871.933, 'duration': 3.971}
+{'text': 'for us here at the GSD.', 'start': 4876.004, 'duration': 1.067}
+{'text': "I'm sorry Charles is not here.", 'start': 4877.171, 'duration': 1.302}
+{'text': 'He was around this morning.', 'start': 4878.573, 'duration': 1.968}
+{'text': 'There are a lot of\nconcepts floating around.', 'start': 4880.642, 'duration': 2.069}
+{'text': "There's landscape urbanism,\nurbanism as a landscape,", 'start': 4882.811, 'duration': 3.302}
+{'text': 'ecological urbanism.', 'start': 4886.213, 'duration': 1.269}
+{'text': 'I hear or read your phrasing\nof the issue urbanize landscape', 'start': 4887.582, 'duration': 7.24}
+{'text': 'in a very different way, as\nreally putting the built form', 'start': 4894.922, 'duration': 6.107}
+{'text': 'that we have associated\nwith cities out', 'start': 4901.129, 'duration': 2.169}
+{'text': 'in spaces that\nwere not associated', 'start': 4903.398, 'duration': 2.769}
+{'text': 'with cities, rural areas.', 'start': 4906.267, 'duration': 2.136}
+{'text': 'But they will become\nurbanized in the process,', 'start': 4908.503, 'duration': 2.603}
+{'text': "and it's a different\nway of thinking", 'start': 4911.206, 'duration': 1.668}
+{'text': 'about the combination\nof landscape', 'start': 4912.974, 'duration': 1.935}
+{'text': 'architecture, urban planning,\nand urban design, I believe.', 'start': 4915.009, 'duration': 3.471}
+{'text': "So next time you come\nback, maybe we'll", 'start': 4918.58, 'duration': 2.535}
+{'text': 'use that as the jumping off\npoint for a conversation,', 'start': 4921.215, 'duration': 3.003}
+{'text': "because I do think\nthere's a paradigm", 'start': 4924.318, 'duration': 1.835}
+{'text': 'shift in that concept that\nhas implications for how we', 'start': 4926.253, 'duration': 4.138}
+{'text': 'organize our programs\nand our work,', 'start': 4930.491, 'duration': 3.137}
+{'text': "and I think it's\nextremely important.", 'start': 4933.728, 'duration': 1.802}
+{'text': 'So thank you so\nmuch for leaving us', 'start': 4935.63, 'duration': 1.868}
+{'text': "with that provocative\nphrase, and let's offer", 'start': 4937.599, 'duration': 3.536}
+{'text': 'another round of applause.', 'start': 4941.235, 'duration': 1.902}
+{'text': '[applause]', 'start': 4943.238, 'duration': 1.0}

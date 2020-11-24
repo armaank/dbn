@@ -1,0 +1,1470 @@
+I practice people large in Australia
+Asia Europe and America I look at the
+site technology there that's kind of the
+little bit about the side projects I do
+and there's the main thing I'm going to
+talk about which is of course the
+offworld architecture besides that I've
+also been teaching in a few places puts
+in in practice and I've also been
+involved with for many years and now the
+director of geometry which is this kind
+of group of people computational design
+people from lots of different practices
+different two years 10 workshops
+parallel over a period of six days is
+this kind of place that really is in
+between academia and practice talk about
+today really started quite a few years
+ago I would say exactly and smart
+geometry I think it was like 2004 and we
+had a smart geometry in mostly
+University in Canada and I really want
+to show this slide because there's a few
+from Amtech on that slide as well as you
+might recognize who they are it was a
+great year for the Beasley nari I him
+Andrew
+and this was like early days of pretty
+much it modeling right this is the days
+when we were using chains of components
+fighting because we actually got changed
+and rewritten overnight
+we're doing that I could probably give a
+whole lecture about that kind of stuff
+but I'm not going to do it today I'm
+gonna talk about the fact that I founded
+a basement of Waterloo University this
+machine 2004 that was the first 3d
+printer I saw with my own eyes prior
+start working we actually was super
+excited about it we could use that
+technology this was like a secret
+machine hard to get the participants of
+this module tree workshop to get them
+all 3d printed and it was kind of like
+magic I thought back then but of course
+and from these machines you see them
+building stuff layer by layer magically
+and you think well you know I won't do
+this for real I wanna do this a real
+scale why can't do architecture like
+that one to one and it was a bit of a
+dream but that dream kind of became
+reality I met this guy which is on the
+left he was at that point I think it was
+a senior lecturer or professor I'm not
+sure at love University background was
+engineering it was really interested in
+building physics and he's standing there
+in actually a scaled up version of a
+part of a termite mound but because he
+was really interested in starting to
+understand how termite mounds really
+operated how the air circulated around
+the
+how they controls the internal
+environments and he had some money from
+I think it was an EPS or Sea Grant and
+the idea about the grant was to really
+start to understand how termite mounds
+operated but nobody really the most
+researchers did actually kick a hole in
+it and kind of see what the internal
+structure was but nobody actually poured
+it full of plaster too full of plaster
+to start to understand what that the
+internal structure is I think now once
+you get this kind of blast the thing it
+still can't do much with it difficult to
+scan so the next thing they did is they
+build this massive rig which is see on
+the left-hand side you can see these
+were structure engineers designing this
+plaster into this termite mounds and
+then they had a big grinder which is the
+big red thing that grinded it off layer
+by layer and then every centimeter they
+took a picture on the right hand side
+and that way they were able to build up
+layer by layer this digital model the
+great research project interesting
+outcomes and they brought the whole rig
+with them back to LA River City and then
+when they had the genius idea to reverse
+the process but what don't we instead of
+kind of slicing it off and demolishing
+that thing layer by layer whatever the
+opposite and start to think about
+building something layer by layer so the
+big kind of on the left-hand side was
+really the first big large scale 3d
+printer in the world
+and it ended up being a research project
+between foster partners when I was at
+the time together with your apples and
+lovely diversity remember this kind of
+conversation we had with them what
+material are we gonna use and we came up
+with this kind of very big decision
+concrete because there was a very quick
+decision I thought maybe she thought
+about a bit longer system the next
+generation we use robotic arm to do it
+and I think that was really the first
+the first ever 3d printed concrete piece
+of architecture it was kind of a wall
+type thing that was that lots of
+companies universities start to kind of
+do this stuff putting concrete printer
+on a rig on a robotic arm you know there
+was a big China
+Winston doing it there's extreme in in
+France doing it lots and lots of
+companies doing that and but I always
+kind of questioned the output what is
+happening with that this is gonna
+winters first idea of what you can
+accomplish with your houses I think it's
+slightly better I still think there's
+like massive limitations to it in the
+end most of these companies - is the
+Friends of concrete concrete is a
+concrete wall is never just a concrete
+wall it's always a combination of rebars
+right
+if you want to take up any anything else
+then if you want to take up attention in
+your structures you're gonna need
+concrete you're gonna need steel right
+you can't just do it with concrete on
+its own for me just using concrete to
+print with you call it that much for
+that you can build some walls but I
+think the efficiency of two blokes with
+some breezeblocks is really hard to beat
+I think right so is it really the right
+what do we what the question is what do
+we really do with this technology I
+always ask myself because really what
+you can do with it is create
+compression-only structures right it's
+really well in compression if we start
+thinking compression only structures
+well you know I immediately think of the
+arena's work what Phillip blog does and
+his block research group this is the
+Venice Biennale of course where you have
+compression only structures rebuke shell
+structures and that's really the kind of
+application that I've been using now 3d
+printing for in quite a different
+location and which is Mars and is the
+first I'll be talking about for the rest
+of the evening is about this project and
+how we've created this 3d printed shell
+structure but I don't talk about this
+reprinting part of it it's just only
+like a small part of it I actually won't
+talk about how you redesign something
+for a completely different environment
+this project was part of a competition
+competition organised by NASA so nASA
+has this funding model that's called the
+Centennial Challenges they were set up I
+think about eight years ago and the idea
+about the Centennial Challenges is that
+they try to bring in different types of
+industry different types of universities
+into the space development world right
+so they don't just want to work
+for the bowings and the Lockheed
+Martin's they want to see is there other
+industries that can really help us
+challenge the idea was can we 3d print
+Mars habitats that was the top line of
+this competition so how'd you start like
+how do you start designing something for
+different planets you might think this
+is this must be like a really technical
+thing examples we have this is it right
+in space station the ISS highly highly
+engineered project for the one of the
+most expensive objects ever made by
+humans skill do I have as an architect
+to come into this field all right but I
+think I'm convinced myself pretty
+quickly that I do have a role to play
+well you just look at the inside of the
+ISS right so this is how engineers
+designed you to live here for six months
+or a year so I do think like design has
+a role to play right and I started
+looking in the history a little bit as
+well of space development and so and
+where were the designers involved the
+first architects or the first designer
+involved in space was Raymond Loewy all
+right and he was there and that was for
+project let's find out so scarlet was
+the first let's say habitat or the first
+space station orbital Space Station
+where astronauts were really inhabiting
+space they were there for weeks and
+months they were not just there for days
+but so
+they had to inhabit space the first time
+they brought designer in and that was
+the famous industrial American designer
+Raymond Loewy
+so he was brought onto onto the project
+now in the beginning they were very very
+skeptical about him coming in into this
+team it's very kind of full of space
+engineers to do choose the collar or
+something which you did do we did a
+couple of other things which i think is
+quite interesting and the other things
+he did you most of them you see on this
+in this picture so the first thing he
+did was he put in a personal space for
+each of the astronauts you know Scarlett
+was a really big volume the engineer did
+not think the spaces did not need their
+own private space I think if you were
+there for months you do want that you
+don't want to be with the same three
+people
+James face the whole time so he brought
+in a kind of a personal sleeping pod for
+each of the of the astronauts second
+thing and you can actually see it on the
+phone the picture is he designed the
+table they might think wow okay it's
+kind of cool table it's not shocking
+world-changing is it well if you look at
+the original design of of Skylab the
+engineers created these little little
+tablets that came from the sides of
+Skylab so there was one kind of
+something like that so the Astros we're
+gonna have a meal and not being able to
+have a conversation but
+because for the engine it was the most
+awesome thing just have a little flappy
+thing from from the wall so that was the
+second thing he brought in the third
+thing I think is the most shocking thing
+after all is the thing you see in the
+back and that's a window but in the
+original design of Skylab there was not
+going to be a window because the
+engineers thought well that's really
+risk no it's a risk we don't want to
+take it's a weakness in the structure so
+why don't we have our astronauts in this
+capsule go around earth for months that
+time and being able to see this and you
+might think well this is this is this is
+crazy
+but of course now we're gonna make that
+mistake again because what that kind of
+did because so this is the the cupola in
+the International Space Station the
+cupola was designed it took 23 years
+from design to implementation and each
+time taken out because it wasn't deemed
+necessary but because that thing came in
+actually people actually start to know
+yes more International Space Station was
+taking pictures taken in front of this
+cupola was playing his guitar in front
+of it and suddenly you know people got
+more and more engaged with it and that's
+indeed that that's Cooper back here
+what's gonna read something but we're
+gonna find it now anyway a second person
+I really admire is galina borisova we've
+got the book here I was gonna read the
+quote if I'm not gonna find it anyway
+she works for the Russian space agency
+Roscosmos and she was the really only
+architects Quaffle architect to ever
+work for the space agency and I too
+loved the kind of drawings that she's
+done and the work she's done some of the
+work she's actually in an exhibition of
+the moment in design museum you should
+go and check that out so she works on
+the interior for example of this one and
+this is this was exhibited in the same a
+few years ago so this was the Russian
+moon lander that actually never flew so
+the Russians also had their own this was
+one designed for one actually works on
+the interior of that she'll support
+material Soyuz and the interior of Mir
+it's just this kind of completely
+different look at how a space for like
+yeah why not have some wood veneer why
+not look at it cause look at how things
+are placed these are kind of for example
+her drawings from the MIR Space Station
+which i think is a sensitivity if you
+could have look at the pure engineering
+drawings and she had a hard time
+actually placing herself with those
+engineers because she had to decide
+where everything go where economically
+things went and this constant struggle
+with the engineers who only were
+thinking about their particular bit that
+they did and she was the only one we
+actually have an overall view over the
+whole project and that's what architects
+do right we cannot specialist
+anything but we kind of have an idea of
+we were able to kind of think in more a
+whole way around the project so go back
+to Mars that's these are kind of my
+heroes all right designers in space
+let's go back to Mars
+what's the issue with Mars it's a big
+issue with it right because first thing
+is the distance that fixture that
+drawing shows you the relative distance
+the actual distance between Earth and
+the moon and I think that takes about
+three days to get there it's actually
+quite far that is roughly about 300,000
+kilometers is only 300 or 400 kilometers
+away from the Earth's surface so that's
+a thousand times that distance
+[Music]
+interesting from Earth from if I take
+the same picture from Mars
+I'll get that which is just a little dot
+this is taken from the Curiosity rover
+standing on Mars
+tiny tiny speck in the sky now this is a
+thousand times the distance did we get
+there well the interesting thing about
+designing something on another planet
+the crucial thing is how you get stuff
+there right it's actually not very
+different to when you when you think
+about designing something on earth you
+also need to think about how you can
+assemble it how it gets there it's
+slightly more more crucial so this is we
+work together with it with a crank
+filter University the space engineering
+course so this was kind of a sketch idea
+on how we're gonna get there so this is
+our Mars transfer vehicle today yeah so
+these are what is in here is a lander
+with the cargo whatever that is can be
+proposed the habitats
+something like that but for these two
+bids to get to Mars you need all this
+fuel because it's about a year to get
+there and that's the engine now to get
+all that into space you need to have
+each of these on a different launch
+vehicle we actually worked it out
+calculations patches bonded but you
+really need to think about how many
+launches you need to do from us into
+Earth orbit and then you assemble your
+vehicle which is this one and your cargo
+to go to Mars so I think it's heard so
+for our project we were looking at about
+34 SLS launches which is the Space
+Launch System which is a NASA rocket
+which is in development so you need to
+start thinking about that right so you
+see the sheer difficulty to get
+something to Mars it makes you think
+well we really have to think about it
+what we take with it that we take the
+minimal amount of material possible
+which gives you different way of
+thinking I think I'll shut in few other
+slides is that although you might not
+think this is a sustainable project the
+way you think about it is you have to
+think in a hyper sustainable way you
+really have to think about recycling
+remaking reusing in extreme way so
+there's kind of like a duality in that
+project right you know of course I'm
+going to Mars not sustainable but the
+way you think about it it has to be
+environmental factors right it's it
+squash this is if you have a storm on
+Mars it's it's the whole planet and it
+can last months these are two pictures
+of Mars in two different dates and you
+see this is a storm happening on Mars
+very very fun dust the really kind of
+driver for design project was radiation
+so in space you have ready
+cosmic radiation and which is gamma
+radiation which is very radioactive the
+great thing about being on the earth of
+course is that we have magnetic fields
+around our planet which makes that these
+kind of gamma radiation gets deflected
+most of it gets deflected from planets
+which is a very good thing
+boom is where we get to Mars we don't
+have that so you have that radiation
+happening all the time on the planet and
+it's really dangerous for example when
+there are solar flares when you get
+solar flares the exposure of that thing
+is about 50% chance that you will die
+within the first week right so it's it's
+kind of protection so we need to think
+about how we're gonna protect ourselves
+you know just that picture so kind of
+people think like Mars seems to be quite
+warm it's very cold it's average I think
+the warmest ever guess is about 20
+degrees Celsius - cause I think it's not
+- 50 roughly let's say average
+temperature was minus 60 that's about
+minus 60 day atmosphere it's also very
+different the atmosphere is a hundred
+times less dense and it's mainly co2 at
+least you have an atmosphere there so
+which is it's it's better than the moon
+where you don't have anything so that
+kind of set out the environmental
+parameters of this project so this was
+kind of one of our sketches or one of
+our drawings for the project that NASA
+explains I think the different parts of
+it right you have this kind of shell
+structure which is it's free princess
+shell structure done with regolith
+explain in a minute
+that's our protection shield right
+against the radiation the needs we have
+bunch of pods habitat pods which are
+inflatables and inside we have the
+interior so that's kind of the main
+structure of our habitat now often
+people kind of look at science fiction
+for to get inspiration or to get to look
+at it kind of an analogue we did for
+this one but I think about one thing
+which I find was kind of an interesting
+with these these also pioneers right the
+game West in the u.s. also had to travel
+light
+when they finally arrived I had to kind
+of do what they have because the log
+cabin is it is a habitat that you can
+make really very simple is basically
+just tree trunks stacks on top of each
+other but interesting quite simple into
+looking mechanism so they just used
+whatever was there in the land when they
+arrived and then it was actually very
+simple construction technique so what do
+we have when we go to Mars well we turn
+much this is kind of like taking a
+picture from some tracks in the surface
+regulates we have rocks and we have
+Martian dust so what are we gonna do
+with that well see this place
+yeah so we're thinking of creating our
+shell structure our protection system by
+3d printing layer by layer this gel
+structure right by using Martian
+regulates Martian dust as you notice we
+don't have a big printer to do this we
+really have just we have kind of small
+printers or kind of a swarm of little
+machines doing this let me just go into
+that in a bit of detail so we have so we
+have four different robots first one
+goes and looks for the right regulates
+the second one is the digger and that
+goes and digs up the regulates the third
+one is depositor brings a regulate to
+your site to your construction sites and
+the fourth one is the center or the
+microwave robots then spent like that
+isn't it
+that microwaves all the layers together
+and that was our swarm of robots some of
+them we made up the one the rides
+actually did is wonderful by NASA was
+the the razor robot it's kind of an
+interesting system because it actually
+has these two drums that kind of digs
+itself into the earth and starts
+rotating and picking up the regulate the
+reason for that is that's a normal kind
+of bigger machine that you would have on
+earth but it just kind of digs up work
+slightly differently because they're
+having machines in to use their own
+weights to really kind of
+action-reaction pick up dust so earth we
+only have a third of gravity on Mars so
+we don't have that weight to actually
+dig so that's where we have that system
+which has two drums that kind of counter
+rotate and the whole thing actually kind
+of digs itself into the earth once it
+has everything he kind of transports it
+this is the first renderings we got from
+our visualization team and I noticed
+this thing on the right-hand sides which
+are finished a job and there's kind of
+graveyards of robots happening there
+this is kind of wrong that was creating
+the shell structure and never do
+anything with them recycle reuse
+whatever we bring there as and as much
+as we can so I thought this is wrong
+right so we went back to the drawing
+board
+and we actually kind of start to rethink
+our robots and there might be less
+optimum than the first generation but
+this second generation
+a set of robotic systems that is modular
+and they use the same wheels the same
+the same topology and the same job so
+this is the one the one wheel one that
+actually kind of goes out and looks for
+the right regulate six wheels two
+diggers you can make it bigger robot
+again or we can make it into a
+transporter or transporter then becomes
+Center or stroke microwaving robots got
+a seam here in the field working
+comments from mechanical engineers on
+this one wheel one which was quite funny
+but funny enough when they kind of
+looked at the video quite a bit more in
+detail the one comedy always had was
+that yeah but that yeah that much of the
+thing yeah that might worked out so that
+maybe bit of confidence to kind of that
+we might be in for something it might
+not be just one wheel one but I do
+believe somehow we won't do something
+here so that is the the microwaving one
+no we didn't just invent this
+microwaving thing yeah there are
+actually the German Space Agency and
+there's another research group in Hawaii
+Price's who actually doing research into
+microwaving resolves or kind of regular
+type materials project we never kind of
+it's not what's nice fiction projects
+right we looked at technology days out
+there there's been research and that we
+hope that will be on point within the
+next 10 years
+so for that we kind of gathered existing
+tech that we knew somehow this is
+feasible to kind of show how the
+system's gonna go up and lower kind of
+reconfiguring itself
+into what
+it needs to be put this one up because I
+think it shows dude that I think our
+robotics system is some quite unique I
+think because it's sits in between these
+two extremes right they have on the
+left-hand side these the Tesla factory
+very effective
+these robots very productive they do a
+very specific task and did very well
+over and over again for me is if one
+robot fails in that production line we
+have big problem robot immediately on
+the right hand side is things profit is
+some swarm robotics where you know you
+can get rid of half of them the system
+will still work but you do have to ask
+yourself what kind of it actually
+produces how effective is it in its
+actually doing something and I think
+we're so in the middle where we do have
+a system that is modular can behave as a
+swarm but it still is quite pragmatic at
+the same time so we're kind of thinking
+of actually developing that that idea
+further in a few research projects our
+system has actually kind of noticed
+there is actually two systems right it's
+that shell structure and an inflatable
+now we we actually wind it a little bit
+against the rules that NASA sent because
+NASA's in the brief they kind of said
+that we had to create something that
+would be able to contain an environment
+so we had to create a 3d pretty
+structure that was able to contain a
+pressurized volume now we never really
+believed in that right not true
+three Britain structures but three print
+something and believing that that will
+be a complete sealed unit you know I
+think that's way too risky I think you
+have to do risk it and have to systems
+where you have a shelf structure would
+protect yourself from radiation and you
+have an internal inflatable which is
+manufactured on there with that we can
+manufacture here and we're sure that you
+know or Astral's are not gonna die and
+there are protected in this in this
+environment so we kind of had a
+different view about that we also worked
+with actually o Callaghan engineers to
+create these shell structures as I said
+before if you three bring something
+concrete over here just microwave
+regular together which was performed
+even worse than than than that concrete
+you really only want to do compression
+of his choices so we didn't really
+design it we gave it the parameters of
+it and with rules like kangaroo we're
+able to create that optimum shape and
+that was done by about EFC engineers the
+great thing about it is you know where
+you do shell structures compression Airy
+structures the problem is always when
+you get bending in them or when you get
+wind loads lateral loads on it right big
+issue the great thing in on moon is that
+the atmosphere is a hundred times less
+dense than on earth
+right we have a co2 atmosphere times
+less dense which means the wind on if
+you have a tunic lumps of winds on Mars
+which does exist the pressure you get
+your structure is almost nothing because
+the pot you have a hundred thousand less
+particles blowing on your structure so
+it's actually quite interesting so it's
+actually not deal environment to start
+thinking about confessionary structures
+reference of course felix candelas
+structures which i think that the same
+idea they had this kind of institute on
+sides of the manufactures shell
+structure lots of people right and
+afterwards you get to the facades are of
+course not made on sites they'll be made
+in factories coming in afterwards
+so that idea of having two systems
+prefabricated one and an insulin coming
+together then it's actually the one that
+we followed as well inflatables right so
+we have each tell me the project we have
+these kind of larger pots and we have a
+smaller connection pulse unfolds and at
+the same time inflates
+again it's not something we just made up
+in the 1960s already looking at
+inflatable systems for space great
+because you can take white light you can
+pack them up quite small which means
+your launch costs actually go go lower
+there was actually a very serious
+research project at NASA which called
+trans HAP I really like this idea
+because this one has you see in the
+middle you have a very kind of a hard
+shell element there's no inflexible and
+the outside is inflated which means if
+it's compact that you can get it in the
+fairing of a rocket that's the last of
+whatever and then once the space you
+actually kind of inflated and that
+didn't stay as just a research project
+at the moments at the International
+Space Station there is this inflatable
+module especially done by private
+company called big Lou
+they bought the license of inflatable
+architecture or flexible systems from
+NASA and are developing that now
+and their goal is actually have
+inflatable space hotels so serious about
+it it's been tested in special space
+station is still quite small modular as
+a person in that module is just a pure
+research testing facility now to see if
+we can actually do this so that's a
+habitat but and remember what I said in
+the beginning with Raymond Larry and and
+they are assessed to have like a
+beautiful window right we didn't really
+have that and has a very obvious in
+engineering approach to it right because
+they have these flaps that are able to
+kind of close and protect the cupola
+because this what's called the big
+winner is called the cupola I think you
+kind of not go for an engineering
+approach and go for an architectural
+approach something like this courtyards
+many quarters what it great for is they
+bring in sunlight that bein indirect
+light direct sunlight and they also give
+great views across space across the
+habitats and so we did something similar
+so we created this courtyard inner space
+that with views across but we did quite
+a bit of analysis to look at if it
+actually works we have to kind of tweed
+the browns a little bit it was the same
+tool we would use to do some analysis on
+a building less the only difference is
+that like you see the comes the habitat
+is like the weather the the white
+circles are so one the blue so we never
+have direct sunlight there which is it's
+not that you Billy's gonna overheat it's
+that you could potentially die so it's
+it's quite it's quite a crucial thing to
+do
+ten building these shell structures
+shelters are quite hard to do this is
+looks I'm a dealer thing in the Biennale
+as you see the only work once they've
+finished right so you need to do a full
+structure underneath a support structure
+a full bug before you can kind of build
+it and you might have seen our video
+right it kind of quickly quickly quickly
+builded up and there was no support very
+much aware of that we did try to solve
+that first that it was why don't we use
+another inflatable why do we have a big
+inflatable that sits underneath and is
+your scaffolding ready for building but
+then again it's still a really big thing
+this is we start to think about can we
+do this in a slightly different way in a
+bit more elaborate or maybe even a dumb
+way right and so we look at examples
+like this summer museum which is
+beautiful shell structure and the way
+that was built was by earth formwork so
+they made mounds and then put the
+concrete on top of that we were like
+yeah is this really going to to work
+right how much time digging how much
+time taking the regular hours again is
+that gonna work so we worked again
+without with our team from Cranfield
+University they had a spread she's ready
+I think it was about it will take us
+about a year longer to construct and the
+process we had was indeed instead of
+just building it up without formwork we
+would use regulates loose regulates to
+build it up layer by layer and in the
+end we would just stick it out but we
+can use the same time
+of robots they could reconfigure itself
+in the ends they become all diggers take
+the regulator out so we figured out that
+shell structure I'm going to talk a
+little bit about the interior as well so
+this is in the International Space
+Station's European Space Agency's
+research module it's kind of an
+interesting thing because it's a very
+simple idea right simple idea is that
+you have a cylinder on the left side you
+have science racks and the bottom you
+made basically have storage and have
+these racks it's kind of a corridor with
+each time a science rack and they do
+operate these things this is actually
+how the whole international space
+station works it's all like this it's
+corridors with science racks on the side
+left air rides and I actually think it's
+like a really inefficient structure
+because the astronauts they said yes
+we're way too big it's like massive for
+them right and actually it's from an
+architectural design perspective
+structure I would think right which
+which building do you know where you
+just have corridors and stuff on the
+sides like it's it's a bit of a bizarre
+thing to think about so we start to kind
+of thinking can we do this a bit better
+all right so these archives racks that
+are just able to move around and you
+just go in whenever you need to do
+something if you don't need to be there
+just close it up there's the same idea
+we had there so we kind of we didn't do
+it in a linear way within it in a
+circular way for our pods and each time
+each of these pots has these rack
+systems they are able to move some of
+them are size racks
+some of them are part of the greenhouse
+but it all have the same idea you were
+able to kind of compact so much more
+stuff in a much of small space and you
+just
+in Iraq use it and then close it
+afterwards and we did to kind of see so
+each of the polls is a different
+function one of the living space in
+kitchen the other ones a lab we have a
+fabrication lab as well a greenhouse and
+so forth and the connection ports HD for
+the connection posts is your life
+support system so and they serve one on
+the left and on the right so there's
+like a triple redundancy in the system
+as well and then the third opening it
+can be a suit port which you see on the
+outside there or a normal hatched that
+goes to one of the Rovers
+interior views which I showed you before
+there's a few clues in there that we try
+to do things slightly it's slightly
+different I think
+then then normally when you when you
+look at an ISS or something like that
+and we got a lot by talking to different
+types of people in this project one of
+the people we talked to was John eager
+and he was the winterization things
+capsules of the winterization captain of
+Holly 6 which is the British Antarctic
+Survey they lived there for eight months
+they completely disconnected from the
+rest of the world there's no way to
+evacuate from it but there's a doctor
+there if something needs to happen it
+will be with that doctor that says all
+right you can escape from the evacuate
+from the ISS in about I think about
+twelve hours no way out in winter so
+it's a good analog for Mars we talked a
+lot about them how it is to live there
+and they sent up some pictures so that's
+kind of how it looks like and one of the
+complaints they had John had like what
+was thought the complaint was they had
+that the fact is they kind of live in
+their workplace right kind of then this
+thing kind of looks a bit like a
+workplace actually looks a bit like a
+like some cheap hotel
+I think there's no
+to them whatever there's nothing tactile
+they didn't they wants to have something
+that felt like home because it lived
+there for eight months and then he sent
+me this thing actually talks to me about
+it then I awesome take the picture which
+was this and this is living space and
+they wants to clad one of the walls in
+wood and the wood they have was from
+packaging crates so they made their own
+little thing looks like their local pub
+or something like that because something
+tactile something that wasn't looking
+like a lab or workplace or this kind of
+terrible Floyd out there so they wanted
+something that felt like a home it just
+made me think you know what Galena was
+doing to live so if you see the flooring
+here is it's actually some bamboo is
+growing in the backgrounds so we start
+to think about we maybe we shouldn't
+grow stuff to eat but but maybe we
+should grow stuff on Mars to build if
+you grow stuff to eat you need a volume
+you know you're never gonna get there
+remember like biosphere 2 back in the
+90s somewhere there was a massive
+project that in Arizona I think trying
+to sustain I think 10 people and it was
+massive building it completely felt so
+we were thinking maybe we just grow
+stuff to build stuff with or make
+flooring or something like that
+another thing you might kind of think
+there's a bit weird spacey furniture you
+might think well have compact stuff are
+you gonna have this massive long well we
+did think about that the idea is that
+you will not bring it and that your 3d
+printers with your own printer on Mars
+there's no point in bringing these big
+things so why not it's really printed
+with recycled materials and we
+collaborate with this with money well
+from Nogami
+and we looked at his 3d printing process
+and he actually designed for us some
+furniture for Mars base and this is done
+by recycle with recycled plastics and
+you can imagine that your astronauts
+would have lots of packaging material
+from experiments of food and all that so
+what are gonna do it is there's no waste
+recycling units on Mars so why not reuse
+it and start 3d printing with it
+of course we're not going to bring a
+massive like a BB or cuca robots in the
+in the left you see like a delta 3d
+printer printing one of their first
+chairs and this is this is the the
+workshop really for the habitat which
+was actually also in addy we had but
+talking to people from the Holly 6
+because when they looked at our plans
+the first thing they were like so where
+am I gonna fix stuff but where's your
+workshop because apparently that's about
+half the time they spent is actually
+fixing stuff and making the thing run
+same thing on the ISS so because of that
+we actually started to change our design
+slightly now we also start thinking what
+these astronauts are going to wear they
+were like some cargo pants and polo
+shirts that they only wear for a few
+days and then they get rid of it and it
+gets burned off in the atmosphere one of
+the cargo units so not exactly
+sustainable you can't do that on Mars
+you can't just throw it out so we start
+working with Christopher Rabin
+there was a design practice here in in
+Hackney and he looks at reusing
+materials like for example he uses
+parachute material on the Left there's a
+parachute dam bang one as well there and
+reuses it every makes jackass and
+amateur and and then close out of that
+so we start thinking well maybe maybe
+that's as well because we have landing
+parachutes a lot of this stuff will be
+landed on mars with massive perishes why
+don't we use that again right so it's
+again that idea of kind of thinking
+really radical about recycling and
+reusing and you see the one over two
+astronauts wearing them so that was kind
+of the end of our of our project but
+luckily didn't we stop there because
+then we got approached by za Museum here
+in London and just by pure luck they
+were thinking of organizing an
+exhibition titled moving to Mars an
+exhibition about Mars in the size museum
+this is in the design regime it's still
+the 23rd of February and they asked us
+to see if we could actually make one of
+our pots
+oh no that's what we did it's kind of
+pictures we've taken a couple of weeks
+ago so we wanted to make sure that you
+can go visit that in the Design Museum
+now we can go inside you can touch stuff
+we want to make sure that it really felt
+quite immersive right so we have indeed
+an inflatable structure as you can see
+the white one you can then view out to
+the rest of your port like you know but
+it talks about you have that quartet you
+look at the rest of the of the habitat
+it's about a 10-minute video it goes
+over day and night even so you can sit
+there and see the
+the sky changing as well you see the
+furniture was all three printed with
+Nogami as well with recycled plastics
+and we have racking system also working
+so you can go in there you can move
+stuff around of course we didn't put a
+real lab it's kind of just we did we
+just wanna make sure that people go
+there they kind of have at least that
+kind of physical experience of what it
+might look like and you can see that is
+the kind of the big this was before we
+had the big Expo going over the big
+screen that gives you that that that
+feels kind of a ten minute video that
+gives you the view out to the rest of
+the habitat so we had to build this
+inflatable which was kind of a tricky
+one because of Mars of course there will
+be an airlock now you have an internal
+pressure which is a hundred times bigger
+than the external pressure so you've
+kind of just have a balloon inflated
+which is fine we'll earth and we want to
+create something that the system to
+design this and we won't have an
+inflatable but we didn't want it to look
+very fat quite slim so we start to look
+at these things kite surfing cards
+special with it because I think it's
+like a really interesting way of making
+a structure because the cost of think
+art has again this dual system way has
+on the outsides a sleeve like the green
+one is like a sleeve which has still
+working no yeah that gives you geometry
+on the inside down the bottom right you
+have this kind of latex inflatable that
+just inflates as a big sausage but it
+doesn't really kind of keep a particular
+shape but once you kind of combine these
+through the outsiders shear and stretch
+resistant the
+inside isn't you can actually start
+treating certain geometries that is with
+a company in Slovenia Oliviana company
+called dual and there they are making
+these kind of inflatables and the
+outside sleeves they made out of
+individual pieces of material that are
+all then stitched together to come quite
+a long time to do but this was one of
+the first prototypes of these structures
+they're very kind of like there's a lot
+of hot pressure in there and actually we
+still that was the first in the end and
+you see kind of all the kind of the the
+inflatable the taps that we inflate the
+structure on astronaut relaxing on
+habitat I think I'm gonna finish with
+just a little video that we made and
+that was actually our entry to to the
+competition so let me finish with that
+half a century ago we took our first
+step on the surface of the Moon today
+there is renewed passion to explore for
+our next human endeavor Mars the Red
+Planet
+further than any human has ever been we
+face many challenges from illness no
+livable atmosphere high radiation dust
+storms and extremely low temperatures
+we've already humans set foot on Mars we
+must first design a protective shelter
+we will protect our astronauts from
+radiation with a thick 3d printed shell
+structure using Martian regolith which
+works great in compression but does not
+perform well under tension to overcome
+this shortfall we have chosen to
+construct the pressure retaining parts
+of the habitat from lightweight
+inflatable pods they will be made out of
+high precision engineered composites
+that are prefabricated on earth
+their ellipsoid geometry will be able to
+mitigate the pressure differences wealth
+optimizing spatial planning to create
+the base on moss we will use a two-phase
+approach in phase one an ecosystem of 3d
+printing robots will arrive months in
+advance of any human explore they will
+construct a protective shield for the
+base by adopting a modular robotic swarm
+strategy a plan that allows for
+redundancies and enhances the odds for
+success intelligent autonomous robots
+will have interchangeable roles from
+battery storage to Scout Rovers
+logistics to excavational and even 3d
+printing units all integrated with
+multiple cameras and sensors for
+navigation they can reconfigure
+themselves for a multitude of purposes
+ensuring prolonged usage beyond the
+initial build phases the smaller
+configuration is the one wheeled Scout
+Rover that uses ultrasonic scanning to
+analyze the Martian surface to determine
+the best regions for obtaining optimum
+regolith the digger receives the
+location coordinates and then escapades
+the Martian soil it then delivers the
+payload to the refining assemblies here
+large chunks of Martian regolith can be
+processed down to a finer grain and then
+delivered to the melter robot since its
+you they then use concentrated
+microwaves to mount the regular and
+extrude through the 3d printing nozzle
+the shell is autonomously 3d printed
+layer by layer over several months by
+the robotic system
+in the next phase the first astronauts
+arrived with the habitation units
+equipment and supplies the robots now
+take on their second life rules to aid
+the next phase they come together to
+make flexible mobile platforms that can
+carry the payload from the loading zone
+to the base a convoy begins its journey
+across the Martian surface to the
+habitat site the build commences with a
+connector module placed underneath the
+protective shield and readied for
+inflation the module that unfolds and
+self inflates into its final form the
+habitation units are then placed into
+position and sequentially inflated to
+form the completed pressurized
+environments the circular layout of the
+habitat ensures continuous accessibility
+of the habitat in the event of a
+catastrophic failure each connector
+module houses three integrated
+environmental control life support
+systems delivering essential services
+like power water data and oxygen to all
+the habitation units a circular conduit
+delivers these services to multiple
+endpoints in each pod the base will be
+remotely powered by two nuclear kylo
+power reactors in a solar farm located a
+safe distance away from the base in the
+next stage the astronauts will construct
+and install a flat-pack rail-based
+racking system capable of connecting to
+the distribution system enabling spaces
+to reconfigure according to their
+spatial needs
+is modular and radical design principle
+has been adopted for all the habitat
+pots ensuring multi-use reconfigurable
+environments a martian base should not
+just be a habitat it is home for the
+astronauts
+each pod expresses its own identity
+quality and character a highly
+functional design which places the human
+experience of the court
+spaces include a state-of-the-art
+research laboratory a hydroponic
+greenhouse a fully equipped workshop
+with digital fabrication facilities the
+sleeping quarters with gym facilities
+and immersive virtual-reality platform
+we believe that the key to success of
+human habitation on Mars is the health
+and well-being of its residents creating
+a place where work life and living
+combined holistically to ensure they
+feel connected to each other to
+themselves and somehow to their distant
+home
+questions
+it's all working the way that is Shawn
+liked it don't you have any problems
+would say like it's not working or
+because I'm from em second I know I mean
+we have been dealing with the computer
+programming and everything and I I keep
+remembering everyday an interview
+Byron's a piano and he says computers
+are stupid you have to tell them
+everything like I feel like when I'm
+watching it it's like it's my
+visualization it's a concept I think
+that's what we're good at so good at
+somehow bringing lots of bits of
+knowledge and trying to understand most
+of it a little bit of enough of it and
+then bringing it together and coming up
+with the concepts in the idea of it and
+that has to be super powerful right and
+that's really important in this field we
+have to kind of sit in this kind of
+bizarre zone where you which doesn't
+really happen in space development so
+before I start this bridging before it
+started the other projects I did I
+looked at what is out there right and
+there were like two extremes on the one
+hand side there was people who do really
+detailed studies right maybe about an
+airlock 50 white papers about airlock
+and on the other hand what you also have
+in space is people to come up with
+artist impressions is this kind of like
+you know
+spends about half a day and making a
+drawing but starts fiction because a lot
+of it isn't actually true isn't this
+just as loads of these imagery that you
+see done by you said done by NASA and
+all that and you look at me like this is
+a bit ridiculous
+right so I want to make sure that we
+kind of stay in that middle road where I
+are able to kind of give an overall view
+that is hopefully quite believable and
+that used technology that is kind of
+dare or almost there be realistic and be
+grounded in science and an engineer as
+much as I can you know done it yet you
+know but that's right we don't build the
+buildings we just the concepts that the
+drawings and the ideas and kind of
+putting it together so I do believe
+there's a very particular role to play
+in this field but it's not really
+recognized yet I think leaving the space
+station everything there's no he wanted
+more private space in the design I saw
+the living area small they kind of part
+of the racking system as well so you
+kind of get like a wire rack and from we
+kind of model this by looking at again
+at Hawley six because at Hawley six we
+asked the people there so how much time
+do you spend in your own room simple
+question
+I actually know that much we just we
+like to be even if we read a book or
+something
+they like to be with other people people
+love to be alone with other people right
+but they do want to help psychologically
+have their own space that was actually
+quite formed but the size of it wasn't
+actually a major issue so we do have
+these kind of small pods almost these
+racks so they're kind of wide racks that
+everybody has their own private space
+bed a table your your storage in the
+same and do you think that is a need for
+an architect to be in that building or
+is everything designed on earth
+50 the people from Holly six they said
+like and also the people astronauts
+right so the astronauts what is an
+astronaut an astronaut is a very good
+operator the top scientists right people
+who can follow instructions really
+clearly really and who really kind of
+can concentrate really well can operate
+an immense stress so the kind of perfect
+robots the European astronaut Center in
+Germany there's massive screen that
+shows what each asteroid is gonna do for
+the next six months but I think it's
+five minutes or ten minutes lots so it's
+completely regulated what they do
+there's a control room that knows what
+everybody is doing all the time
+so again halli six on the Arctic base
+the people that go are really practical
+engineers that can fix stuff people that
+can
+operates and do instructions and I can
+fix stuff that's the people you want
+interesting about your approach as
+opposed to some speculations run either
+feasible basis looking to geological
+features like you know placing a base on
+shock Shackleton crater because you know
+is places have been surveyed to give you
+an advantage in a way your scheme almost
+relies on there being no cyclicity in
+some ways is on how you would cite but
+we looked at the location or potential
+not what specific location but we did
+think about actually placing it in a
+valley all right the reason for that is
+that you've got the mountains that
+protect you already from radiation so we
+were that was one of the reason that we
+looked at you know should that should be
+that kind of location is on the moon and
+that's a very good location because
+there's an issue with the moon is if
+you're on the equator you what you get
+is you get fourteen days of on the moon
+yeah fourteen days of of day and
+fourteen days of not so you have the
+lunar night switch everything plummets
+temperature plummets is unlivable so on
+the moon of course you've wanna go check
+out the crater South Pole which means
+you always have the Sun let's never
+build the horizon and turns around you
+over twenty-eight days three and sixty
+degrees so from environmental reasons we
+didn't really have that constraint but
+you're right you could for example start
+to look at lava tubes particularly the
+moon as a protection but but then it's
+also how'd you get into them what is the
+risk but you could potentially do that
+as well yeah that's
+another way of looking but that NASA
+competition was particularly about three
+points anyway it is another way if if
+you would have good data and which we
+don't of 3d data of the environments
+then you could start thinking that yeah
+oh my two questions so the first one I
+thought it was really smart at how you
+reuse materials for furniture and
+clothing but I was wondering if because
+most of the furniture is actually the
+racks and if those were printed as well
+or brought there and also the second
+question is you mentioned it gets down
+to minus 150 degrees and how do how do
+the inflatable structures resist the
+cold weather good questions well as you
+saw the video that kind of flat packed
+programming you more something like that
+racks but one of the things that I'll
+think about which thoughts kind of
+developing more is could we grow our
+racks can we grow bambua can we make a
+racks out of bamboo right and this is
+got this weird thing because people
+would think about space it's all clean
+its wide is brushed aluminium but maybe
+it's a little bit closer to these people
+these pioneers in America that had to
+may we grow our own stuff and start
+making stuff so I think it'd be
+interesting to kind of see what a base
+looks like after ten years there might
+be some Alemany racks some bamboo rags I
+think I think I think the aesthetics
+will be very different that what we
+think they're getting to be right what's
+the same question temperature yeah so
+yeah good question I'm not upset sure we
+think maybe it's to do with aerogels
+that we use something so that that might
+be inflatable you know the environment
+that you have the the inflatable on the
+ISS is insulating it's also kind of
+protecting against micro meteoroids and
+all that so we feel it's possible but we
+haven't 100% figured it out yeah
+other questions yes so I've seen this
+idea grow from sandpit with some small
+robots to the concept you have now how
+do you think this will evolve in the
+next years where it's gonna go next
+yes well for me the next I would love to
+do is really test base most of the
+analog have been developed by NASA base
+and all that there was no designer
+involved but they terribly built it's
+all about of psychology of these
+astronauts they kind of put them in
+these analogs and then do tests and
+Atacama Desert or on the Antarctic but I
+think the environments we live in is it
+has a mash massive influence of
+psychological and your well-being so I'm
+really that's for me the next step is
+actually building one and as a proper
+MRSA analog somewhere on earth so step
+past them Stocki
+they made this 3d print like a 3d
+printer to use the cabo shells to that
+we have a bunch of three printers in
+there to kind of maybe methyl PrinterOn
+who knows we actually bring the printing
+is still require complicated process
+that needs very much control
+environments
+you know it won't be the first
+generation I think you know there is an
+FTM printer on the international space
+station I think they can bring the
+second one in now there was all about
+NASA he said it will now as well but
+it's so but if you kind of if you've a
+little bit if you kind of see how much
+involvement is in there in actually
+developing something that is actually
+works in space it's it's pretty crazy
+and you know development which is the
+simple of the EM printer to get it to
+work in the ISS yeah metal bridges I
+think was still bit the second question
+is related to the fabrication of shell
+itself usually exclusions don't exactly
+happen perfectly the on deposit and all
+the things that will need to be looks at
+you you know yeah of course but you know
+in a three-month project you can't
+really do everything but yeah thank you
+now you kind of need to do that
+we're just two engineers sitting at the
+back here we read enjoyed this talk
+between the between the brief from NASA
+and the delivery of your proposal how
+long did you take what how much time
+[Music]
+[Music]
+what we did at one point was kind of
+halfway through the project and we felt
+I need some people to come and give me
+some input so symposium and invited
+people that are bring us interesting
+knowledge for this project and so we
+invited professor of mining we invited
+people robotics backgrounds people with
+and was it the space anthropologists we
+brought in people with radiation
+radiation experts we bought them all in
+to room we had like quick presentations
+and then most of the afternoon what we
+did we did not actual quit with all of
+them so we put a massive wall all the
+scientists please tell us everything
+that's wrong with this right and we talk
+through it so that we didn't actually
+quit and it took us about four hours and
+it was the most interesting afternoon we
+had we taped the whole thing and that
+was for us really interesting because it
+just kind of shifted things that we were
+able to kind of change things very
+quickly and and the funny thing was is
+that some of the scientists thought this
+kind of review process was quite
+interesting because they never do that
+they never stand in a room with ten
+other people and just really hack into
+it you know that process of design they
+didn't know
+for them it was that kind of Wow maybe
+we should try to eat it as well
+sometimes was another question sausage
+oh cool cool thank you very much

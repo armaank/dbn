@@ -1,0 +1,870 @@
+{'text': 'first of all thank you very much for the', 'start': 0.12, 'duration': 5.31}
+{'text': "invitation it's really always nice to", 'start': 2.21, 'duration': 5.62}
+{'text': 'come back here I remember the last time', 'start': 5.43, 'duration': 6.419}
+{'text': 'I was standing here was mtech student so', 'start': 7.83, 'duration': 5.79}
+{'text': "it's nice to be here again", 'start': 11.849, 'duration': 4.26}
+{'text': "show him what happened so far so I'm", 'start': 13.62, 'duration': 4.04}
+{'text': 'here today to talk about', 'start': 16.109, 'duration': 5.521}
+{'text': "bio-inspired kinetic structures I'm one", 'start': 17.66, 'duration': 7.33}
+{'text': 'of the main research topics at the ITP', 'start': 21.63, 'duration': 9.84}
+{'text': 'insta-bed which is an engineering', 'start': 24.99, 'duration': 8.37}
+{'text': 'Institute was in the Faculty of', 'start': 31.47, 'duration': 6.589}
+{'text': 'architecture led by Professor Dr Octopus', 'start': 33.36, 'duration': 10.17}
+{'text': 'here at the Institute about 15 PhD', 'start': 38.059, 'duration': 7.331}
+{'text': 'students working on all kinds of stuff', 'start': 43.53, 'duration': 5.029}
+{'text': 'one of the traxxas as I mentioned', 'start': 45.39, 'duration': 5.849}
+{'text': 'genetic structure segmented chase wood', 'start': 48.559, 'duration': 7.75}
+{'text': 'construction and fiber binding so one of', 'start': 51.239, 'duration': 11.601}
+{'text': 'the main research topics is related to a', 'start': 56.309, 'duration': 9.0}
+{'text': 'fabrication nasur the fiber composites', 'start': 62.84, 'duration': 4.779}
+{'text': "in general we're here for a stone called", 'start': 65.309, 'duration': 8.461}
+{'text': 'aggregation mr. ICD pestle Mangus mr.', 'start': 67.619, 'duration': 8.161}
+{'text': 'dependable Qualis fiber binding so how', 'start': 73.77, 'duration': 4.709}
+{'text': 'can we use robotic fabrication methods', 'start': 75.78, 'duration': 6.269}
+{'text': 'to create fiber composite structures', 'start': 78.479, 'duration': 7.411}
+{'text': 'without the use of form work and several', 'start': 82.049, 'duration': 6.21}
+{'text': 'examples I want to show just a few here', 'start': 85.89, 'duration': 6.689}
+{'text': 'now the research pavilion 2014-2015', 'start': 88.259, 'duration': 7.04}
+{'text': 'where we had a plume attic formwork and', 'start': 92.579, 'duration': 6.841}
+{'text': 'robot the cooker robot placed inside a', 'start': 95.299, 'duration': 6.221}
+{'text': 'inflated bubble and it was placing', 'start': 99.42, 'duration': 4.769}
+{'text': 'fibers from the inside under membrane', 'start': 101.52, 'duration': 8.309}
+{'text': 'and also no more applied projects like', 'start': 104.189, 'duration': 7.29}
+{'text': 'this first and we buried a couple of', 'start': 109.829, 'duration': 3.93}
+{'text': 'years ago for the University of', 'start': 111.479, 'duration': 6.93}
+{'text': 'Stuttgart to present our research at the', 'start': 113.759, 'duration': 6.72}
+{'text': 'trade fair in Hermosa where we had also', 'start': 118.409, 'duration': 4.951}
+{'text': 'a cooker over robot at the fair who was', 'start': 120.479, 'duration': 5.791}
+{'text': 'which was showcasing this whole process', 'start': 123.36, 'duration': 6.06}
+{'text': 'and the', 'start': 126.27, 'duration': 5.16}
+{'text': 'other main thread will be used fibre', 'start': 129.42, 'duration': 5.69}
+{'text': 'composites those adaptive applications', 'start': 131.43, 'duration': 6.36}
+{'text': 'based on elastic deformation of the', 'start': 135.11, 'duration': 6.72}
+{'text': 'material where we have quite a few', 'start': 137.79, 'duration': 6.78}
+{'text': 'research projects and a couple of years', 'start': 141.83, 'duration': 5.74}
+{'text': 'ago OSHA the geometric Pavilion at the', 'start': 144.57, 'duration': 5.64}
+{'text': 'expo in South Korea that brought this', 'start': 147.57, 'duration': 5.79}
+{'text': 'approach to actual architectural', 'start': 150.21, 'duration': 6.18}
+{'text': 'applications so if we talk about', 'start': 153.36, 'duration': 7.35}
+{'text': 'adaptivity it means broad adapted that', 'start': 156.39, 'duration': 6.36}
+{'text': 'adaptivity means that having the ability', 'start': 160.71, 'duration': 5.66}
+{'text': 'to change to suit different conditions', 'start': 162.75, 'duration': 6.8}
+{'text': 'which is a common phenomenon and', 'start': 166.37, 'duration': 7.41}
+{'text': 'biological systems such as evolution or', 'start': 169.55, 'duration': 7.69}
+{'text': 'changing its appearance to height for', 'start': 173.78, 'duration': 10.09}
+{'text': 'predators or also insects use forming', 'start': 177.24, 'duration': 8.88}
+{'text': 'strategies to adapt material and', 'start': 183.87, 'duration': 5.46}
+{'text': 'adaptable structures to the colony size', 'start': 186.12, 'duration': 6.21}
+{'text': 'into their needs and especially in', 'start': 189.33, 'duration': 6.68}
+{'text': 'plants and we can see a lot of movements', 'start': 192.33, 'duration': 9.93}
+{'text': 'in in the plans to serve different means', 'start': 196.01, 'duration': 9.67}
+{'text': 'to the carnivores plans to feed or to', 'start': 202.26, 'duration': 6.57}
+{'text': 'follow the Sun or to minimize their', 'start': 205.68, 'duration': 6.089}
+{'text': 'surface during night to be not that', 'start': 208.83, 'duration': 7.64}
+{'text': 'obvious to not be eaten and so on so for', 'start': 211.769, 'duration': 8.641}
+{'text': 'adaptive architecture one could argue', 'start': 216.47, 'duration': 5.89}
+{'text': 'that every architecture should be', 'start': 220.41, 'duration': 4.1}
+{'text': 'adaptive and it has to be adapted to', 'start': 222.36, 'duration': 6.72}
+{'text': 'suit different conditions or so during', 'start': 224.51, 'duration': 6.49}
+{'text': 'the day to different needs of the user', 'start': 229.08, 'duration': 4.71}
+{'text': 'but as adaptive architecture we would', 'start': 231.0, 'duration': 7.019}
+{'text': 'understand maybe more structures or', 'start': 233.79, 'duration': 6.3}
+{'text': 'system with systems which are designed', 'start': 238.019, 'duration': 5.341}
+{'text': 'to can actively be altered to serve', 'start': 240.09, 'duration': 5.22}
+{'text': 'different needs and either their', 'start': 243.36, 'duration': 4.5}
+{'text': 'environmental conditions or structural', 'start': 245.31, 'duration': 5.64}
+{'text': 'behavior or programmatic views so they', 'start': 247.86, 'duration': 5.46}
+{'text': 'are also a lot of examples which', 'start': 250.95, 'duration': 6.599}
+{'text': 'reconfigures ace or recently we consider', 'start': 253.32, 'duration': 5.75}
+{'text': 'nitrile pavilion', 'start': 257.549, 'duration': 5.381}
+{'text': 'and the ICD and ITT last year in London', 'start': 259.07, 'duration': 7.77}
+{'text': 'the the movement of the people was track', 'start': 262.93, 'duration': 6.1}
+{'text': 'during the installation and influence', 'start': 266.84, 'duration': 6.24}
+{'text': 'where we would case the next component', 'start': 269.03, 'duration': 9.0}
+{'text': 'based on the movement patterns or the', 'start': 273.08, 'duration': 8.64}
+{'text': 'smart shell which is done at the ELA at', 'start': 278.03, 'duration': 6.87}
+{'text': 'the University instructed which uses', 'start': 281.72, 'duration': 7.35}
+{'text': 'this active support points to contact', 'start': 284.9, 'duration': 8.04}
+{'text': 'vibrations in the shape therefore - I', 'start': 289.07, 'duration': 5.67}
+{'text': 'can be much synod in it you should be', 'start': 292.94, 'duration': 4.28}
+{'text': 'you should be so if you have this', 'start': 294.74, 'duration': 4.65}
+{'text': "structures that's to vibrate those", 'start': 297.22, 'duration': 5.08}
+{'text': 'columns support conditions and contact', 'start': 299.39, 'duration': 4.62}
+{'text': 'this vibration and stabilize the whole', 'start': 302.3, 'duration': 4.05}
+{'text': 'structure', 'start': 304.01, 'duration': 6.06}
+{'text': 'another main topic of adaptive systems', 'start': 306.35, 'duration': 7.35}
+{'text': 'right now in architecture facade so can', 'start': 310.07, 'duration': 6.51}
+{'text': 'be controlled environment inside of a', 'start': 313.7, 'duration': 6.69}
+{'text': 'building by changing the opacity of the', 'start': 316.58, 'duration': 6.66}
+{'text': 'building but most of those systems right', 'start': 320.39, 'duration': 6.57}
+{'text': 'now are based on straight or planar', 'start': 323.24, 'duration': 6.75}
+{'text': 'component components which tied it along', 'start': 326.96, 'duration': 6.69}
+{'text': 'straight rotational squared translation', 'start': 329.99, 'duration': 8.49}
+{'text': 'excesses this leads to very tight design', 'start': 333.65, 'duration': 7.02}
+{'text': 'constraints or if it comes to more', 'start': 338.48, 'duration': 4.95}
+{'text': 'complex geometries like here this', 'start': 340.67, 'duration': 5.94}
+{'text': 'example done by Renzo Piano and for', 'start': 343.43, 'duration': 5.94}
+{'text': 'zucchini Passaic engineers that if you', 'start': 346.61, 'duration': 4.71}
+{'text': 'have double curved geometry star systems', 'start': 349.37, 'duration': 5.07}
+{'text': 'are not applicable anymore and due to', 'start': 351.32, 'duration': 5.91}
+{'text': 'the high mechanical complexity they also', 'start': 354.44, 'duration': 5.55}
+{'text': 'in various various they can be applied', 'start': 357.23, 'duration': 4.8}
+{'text': 'they need to be mounted in the inside', 'start': 359.99, 'duration': 4.77}
+{'text': 'which leads to a sufficiency for Sun', 'start': 362.03, 'duration': 5.64}
+{'text': 'shading then their membrane structures', 'start': 364.76, 'duration': 7.86}
+{'text': 'which can be basically adapted to more', 'start': 367.67, 'duration': 6.69}
+{'text': 'complex or to a higher variety of', 'start': 372.62, 'duration': 6.27}
+{'text': 'geometries but the disadvantage of those', 'start': 374.36, 'duration': 6.09}
+{'text': 'structures is that they can be either', 'start': 378.89, 'duration': 2.94}
+{'text': 'open or closed', 'start': 380.45, 'duration': 3.66}
+{'text': 'and in between state is very vulnerable', 'start': 381.83, 'duration': 5.64}
+{'text': 'so the state needs to be changed very', 'start': 384.11, 'duration': 5.04}
+{'text': 'fast there are only two stable', 'start': 387.47, 'duration': 4.3}
+{'text': 'conditions when', 'start': 389.15, 'duration': 5.35}
+{'text': 'folding structures as pochamma', 'start': 391.77, 'duration': 6.93}
+{'text': 'applicable to curve the double curved', 'start': 394.5, 'duration': 6.24}
+{'text': 'geometry select the hybrid cars per', 'start': 398.7, 'duration': 7.02}
+{'text': "ADA's shows the potential of penalizing", 'start': 400.74, 'duration': 8.31}
+{'text': 'those structures into and in a different', 'start': 405.72, 'duration': 5.91}
+{'text': 'way in a new way but this example relies', 'start': 409.05, 'duration': 5.52}
+{'text': 'on Richard body mechanics each of those', 'start': 411.63, 'duration': 5.79}
+{'text': 'panels is made of high amount of', 'start': 414.57, 'duration': 5.27}
+{'text': 'different parts and that also leads to', 'start': 417.42, 'duration': 7.35}
+{'text': "vulnerability so that's the background", 'start': 419.84, 'duration': 7.42}
+{'text': 'for the reason why we studied the spire', 'start': 424.77, 'duration': 4.29}
+{'text': 'inspired kinetic architectural', 'start': 427.26, 'duration': 4.65}
+{'text': 'applications was the use of compliant', 'start': 429.06, 'duration': 6.38}
+{'text': 'mechanisms so to complete mechanisms an', 'start': 431.91, 'duration': 9.03}
+{'text': 'engineering or craftsmanship in the', 'start': 435.44, 'duration': 7.87}
+{'text': 'human history nashing use of examples', 'start': 440.94, 'duration': 5.01}
+{'text': 'both used also complaint mechanisms', 'start': 443.31, 'duration': 4.98}
+{'text': 'which means that they use an elastic', 'start': 445.95, 'duration': 6.27}
+{'text': 'deformation of the involved parts to', 'start': 448.29, 'duration': 5.81}
+{'text': 'fulfill a certain function leaded', 'start': 452.22, 'duration': 5.37}
+{'text': 'functionality in contradiction to', 'start': 454.1, 'duration': 5.47}
+{'text': 'richard body mechanisms where richard', 'start': 457.59, 'duration': 3.27}
+{'text': 'parts are linked together which', 'start': 459.57, 'duration': 6.96}
+{'text': 'basically frictionless joints we focus', 'start': 460.86, 'duration': 9.44}
+{'text': 'on how can we achieve from generality by', 'start': 466.53, 'duration': 6.36}
+{'text': 'functionally distributed materiality to', 'start': 470.3, 'duration': 5.89}
+{'text': 'concentrate the deformation in parts and', 'start': 472.89, 'duration': 8.31}
+{'text': "we want to have so that's also a huge", 'start': 476.19, 'duration': 6.69}
+{'text': 'research community which applies to', 'start': 481.2, 'duration': 4.32}
+{'text': 'oceans for creepers from a particular', 'start': 482.88, 'duration': 7.14}
+{'text': 'purpose of design research set of this', 'start': 485.52, 'duration': 9.92}
+{'text': 'name their bertram and i measured how to', 'start': 490.02, 'duration': 8.58}
+{'text': 'create a movement person than to arrange', 'start': 495.44, 'duration': 4.84}
+{'text': 'basically material in nevada that', 'start': 498.6, 'duration': 5.67}
+{'text': 'follows those movement parts and', 'start': 500.28, 'duration': 6.21}
+{'text': 'bio-inspired compliant mechanisms i', 'start': 504.27, 'duration': 5.88}
+{'text': 'studied and stood already since 2007 and', 'start': 506.49, 'duration': 6.75}
+{'text': 'dr visa martini started with this topic', 'start': 510.15, 'duration': 6.02}
+{'text': 'at the University in Stuttgart', 'start': 513.24, 'duration': 6.48}
+{'text': 'which was followed by the dissertation', 'start': 516.17, 'duration': 6.44}
+{'text': 'of Simon Schleicher', 'start': 519.72, 'duration': 7.369}
+{'text': "where there's a martini followed more or", 'start': 522.61, 'duration': 8.94}
+{'text': 'less a top-down process that he defined', 'start': 527.089, 'duration': 6.75}
+{'text': 'architectural functionality and tried to', 'start': 531.55, 'duration': 4.479}
+{'text': 'abstract movement principles for the', 'start': 533.839, 'duration': 5.911}
+{'text': "nature seaman's work was more the", 'start': 536.029, 'duration': 6.12}
+{'text': 'bottom-up approach we really tried to', 'start': 539.75, 'duration': 6.24}
+{'text': 'understand the movement principle plants', 'start': 542.149, 'duration': 6.87}
+{'text': 'and simulated those movement principles', 'start': 545.99, 'duration': 6.75}
+{'text': 'on the spinet element analysis and also', 'start': 549.019, 'duration': 5.93}
+{'text': 'tried then to abstract the certain', 'start': 552.74, 'duration': 6.18}
+{'text': 'parameters so what we ever came from on', 'start': 554.949, 'duration': 7.241}
+{'text': 'right now and with my PhD research is', 'start': 558.92, 'duration': 5.849}
+{'text': 'focused on is how can we establish a', 'start': 562.19, 'duration': 4.8}
+{'text': 'design framework for compliant', 'start': 564.769, 'duration': 5.12}
+{'text': 'mechanisms for that adaptive', 'start': 566.99, 'duration': 6.029}
+{'text': 'architecture functionality and how', 'start': 569.889, 'duration': 6.791}
+{'text': 'scalable could this be and also on', 'start': 573.019, 'duration': 8.031}
+{'text': 'finding suitable materializations photos', 'start': 576.68, 'duration': 12.36}
+{'text': 'so while commonly those structures found', 'start': 581.05, 'duration': 12.07}
+{'text': 'in nature categorized in a very', 'start': 589.04, 'duration': 8.31}
+{'text': 'biological race or based on how can the', 'start': 593.12, 'duration': 7.62}
+{'text': 'movement and be produced and they said', 'start': 597.35, 'duration': 5.64}
+{'text': 'to ago pressure or is it an external', 'start': 600.74, 'duration': 4.409}
+{'text': 'actuator or is it and movement of', 'start': 602.99, 'duration': 7.14}
+{'text': 'muscles and bone structures we right now', 'start': 605.149, 'duration': 8.25}
+{'text': 'try to implement more technical view on', 'start': 610.13, 'duration': 6.709}
+{'text': 'those classifications and how this', 'start': 613.399, 'duration': 5.971}
+{'text': 'movements can be amplified so that the', 'start': 616.839, 'duration': 5.651}
+{'text': 'small initial movement leads to a larger', 'start': 619.37, 'duration': 6.54}
+{'text': 'change of the geometry and also in if we', 'start': 622.49, 'duration': 7.17}
+{'text': 'can change the direction of curvature in', 'start': 625.91, 'duration': 7.22}
+{'text': 'the elements so that leads to this', 'start': 629.66, 'duration': 6.39}
+{'text': 'overview that we we define our very', 'start': 633.13, 'duration': 5.649}
+{'text': 'logical role models and at the same time', 'start': 636.05, 'duration': 5.75}
+{'text': 'we define', 'start': 638.779, 'duration': 3.021}
+{'text': 'try to work on a technical descriptions', 'start': 641.86, 'duration': 6.339}
+{'text': 'of how those biological systems would', 'start': 644.689, 'duration': 7.311}
+{'text': 'behave or how they are to their shape', 'start': 648.199, 'duration': 8.481}
+{'text': 'to categorize them in a new way and also', 'start': 652.0, 'duration': 6.9}
+{'text': 'them to have designers to say okay I', 'start': 656.68, 'duration': 3.81}
+{'text': 'want to have a certain movement or a', 'start': 658.9, 'duration': 4.62}
+{'text': 'certain degree of freedom in which kind', 'start': 660.49, 'duration': 5.16}
+{'text': 'of biologic assistance I could find them', 'start': 663.52, 'duration': 5.13}
+{'text': 'and then how they basically utilize for', 'start': 665.65, 'duration': 6.6}
+{'text': 'this movement so first of all we want to', 'start': 668.65, 'duration': 5.19}
+{'text': 'look into the pending behavior of those', 'start': 672.25, 'duration': 4.53}
+{'text': "systems they're several ways so we can", 'start': 673.84, 'duration': 8.73}
+{'text': 'manipulate our structure pens so if we', 'start': 676.78, 'duration': 9.15}
+{'text': 'just bend any sheet of material or what', 'start': 682.57, 'duration': 5.43}
+{'text': 'that always follows elastica curve but', 'start': 685.93, 'duration': 4.46}
+{'text': 'if you start to alter the material', 'start': 688.0, 'duration': 5.73}
+{'text': 'distribution we can differentiate the', 'start': 690.39, 'duration': 5.68}
+{'text': 'bending behavior also by the way how to', 'start': 693.73, 'duration': 4.8}
+{'text': 'actuate them how at which point we', 'start': 696.07, 'duration': 5.76}
+{'text': 'introduced contractions or displacements', 'start': 698.53, 'duration': 5.31}
+{'text': 'and control points manipulates the', 'start': 701.83, 'duration': 4.8}
+{'text': 'bending behavior but also how we fix the', 'start': 703.84, 'duration': 4.74}
+{'text': 'boundary conditions of the irritation if', 'start': 706.63, 'duration': 4.92}
+{'text': 'we or if they were fixed in certain', 'start': 708.58, 'duration': 5.88}
+{'text': 'points and so and so we can manipulate a', 'start': 711.55, 'duration': 7.41}
+{'text': 'lot of this this leads them to what can', 'start': 714.46, 'duration': 6.54}
+{'text': 'we do with this and if we can manipulate', 'start': 718.96, 'duration': 4.68}
+{'text': 'the bending behavior we are going to', 'start': 721.0, 'duration': 6.24}
+{'text': 'show some slides of the master thesis of', 'start': 723.64, 'duration': 7.8}
+{'text': 'a student of mine from FSM from last', 'start': 727.24, 'duration': 8.37}
+{'text': 'year and Witten who this research was', 'start': 731.44, 'duration': 8.66}
+{'text': 'focused on how to how can we assemble', 'start': 735.61, 'duration': 8.61}
+{'text': 'bending active segmented chairs not', 'start': 740.1, 'duration': 6.46}
+{'text': 'limited anymore to the elastic refer you', 'start': 744.22, 'duration': 6.63}
+{'text': 'can see that every isotropic uniformly', 'start': 746.56, 'duration': 7.11}
+{'text': 'deformed distributed material along our', 'start': 750.85, 'duration': 4.95}
+{'text': 'plates that will always follow the', 'start': 753.67, 'duration': 4.35}
+{'text': 'elastic curve but if you distributed in', 'start': 755.8, 'duration': 4.83}
+{'text': 'a way we can basically design our', 'start': 758.02, 'duration': 4.35}
+{'text': 'surface and arrange the material', 'start': 760.63, 'duration': 4.13}
+{'text': 'according to our design criterias', 'start': 762.37, 'duration': 5.88}
+{'text': 'so here it would be possible that we', 'start': 764.76, 'duration': 5.53}
+{'text': 'even can bend an arc that we go from', 'start': 768.25, 'duration': 4.62}
+{'text': "there's a koliseo stiffness to very high", 'start': 770.29, 'duration': 4.799}
+{'text': "stiffness it doesn't follow any modern", 'start': 772.87, 'duration': 6.09}
+{'text': 'elastic a curve that we can end', 'start': 775.089, 'duration': 7.5}
+{'text': 'circa of course and reality is not', 'start': 778.96, 'duration': 5.61}
+{'text': 'possible because we cannot have zero', 'start': 782.589, 'duration': 7.651}
+{'text': 'stiffness but we can broaden the design', 'start': 784.57, 'duration': 8.07}
+{'text': 'range quite a lot so you can see we can', 'start': 790.24, 'duration': 5.03}
+{'text': 'draw the curves we can see here in the', 'start': 792.64, 'duration': 5.46}
+{'text': 'left side and then distribute the', 'start': 795.27, 'duration': 4.87}
+{'text': 'material along our strips according to', 'start': 798.1, 'duration': 6.48}
+{'text': 'the needed stiffness and distant based', 'start': 800.14, 'duration': 8.97}
+{'text': 'on a lamination process of tape plane', 'start': 804.58, 'duration': 7.379}
+{'text': 'measured where we have discrete elements', 'start': 809.11, 'duration': 4.77}
+{'text': 'along our strip and you can orient the', 'start': 811.959, 'duration': 4.171}
+{'text': 'fibers in a way and the sickness and the', 'start': 813.88, 'duration': 6.59}
+{'text': 'amount of layers to fit exactly our', 'start': 816.13, 'duration': 7.95}
+{'text': 'design criterion we can and a lot of', 'start': 820.47, 'duration': 7.3}
+{'text': 'shapes and at the end he developed this', 'start': 824.08, 'duration': 7.86}
+{'text': 'design tool you said can create a', 'start': 827.77, 'duration': 5.069}
+{'text': 'free-form', 'start': 831.94, 'duration': 6.41}
+{'text': 'share structure then why not then this', 'start': 832.839, 'duration': 5.511}
+{'text': 'surface gets discretized into strips', 'start': 838.5, 'duration': 8.08}
+{'text': 'which plenum the eight develop a plan', 'start': 841.33, 'duration': 8.759}
+{'text': 'erasing the cuts along the strip which', 'start': 846.58, 'duration': 4.77}
+{'text': 'is followed by the stiffness', 'start': 850.089, 'duration': 3.991}
+{'text': 'distribution and this whole chain to', 'start': 851.35, 'duration': 5.73}
+{'text': 'prove the concept was exported to a unit', 'start': 854.08, 'duration': 6.92}
+{'text': 'element analysis program here sophistic', 'start': 857.08, 'duration': 7.68}
+{'text': 'you can see a field and just pour', 'start': 861.0, 'duration': 6.1}
+{'text': 'basically the endpoints of the strips to', 'start': 864.76, 'duration': 7.199}
+{'text': 'the final positions of the structure we', 'start': 867.1, 'duration': 7.859}
+{'text': 'bent almost exactly the shape we', 'start': 871.959, 'duration': 7.051}
+{'text': 'designed and if you forced and the', 'start': 874.959, 'duration': 7.201}
+{'text': "strip's together in Herman will you", 'start': 879.01, 'duration': 5.79}
+{'text': 'reach the surface and we overcome also', 'start': 882.16, 'duration': 4.049}
+{'text': 'the weakness of pending active', 'start': 884.8, 'duration': 3.87}
+{'text': 'structures in general they need to be', 'start': 886.209, 'duration': 4.341}
+{'text': 'flexible enough that we can bend them', 'start': 888.67, 'duration': 7.53}
+{'text': 'but we achieve in this way very', 'start': 890.55, 'duration': 6.43}
+{'text': 'sufficient', 'start': 896.2, 'duration': 4.53}
+{'text': 'shade structure and another master she', 'start': 896.98, 'duration': 6.479}
+{'text': "says in a similar topic was done by I'm", 'start': 900.73, 'duration': 4.049}
+{'text': 'Kenya takahashi', 'start': 903.459, 'duration': 3.781}
+{'text': 'he basically investigated the', 'start': 904.779, 'duration': 5.731}
+{'text': 'scalability of bending active', 'start': 907.24, 'duration': 9.3}
+{'text': 'take plates for roof constructions and', 'start': 910.51, 'duration': 10.14}
+{'text': 'he made a lot of experiments and', 'start': 916.54, 'duration': 7.37}
+{'text': 'analytical and simulation right of', 'start': 920.65, 'duration': 6.03}
+{'text': 'studies in how we can scale and by I', 'start': 923.91, 'duration': 5.59}
+{'text': 'Turing the support conditions by how can', 'start': 926.68, 'duration': 5.25}
+{'text': 'we add torsion into the element that we', 'start': 929.5, 'duration': 4.68}
+{'text': 'bent those systems out of plane to', 'start': 931.93, 'duration': 6.15}
+{'text': 'create an opening and closing and tested', 'start': 934.18, 'duration': 6.48}
+{'text': 'them under certain loading conditions', 'start': 938.08, 'duration': 9.54}
+{'text': 'like wind and snow Lord and basically', 'start': 940.66, 'duration': 9.33}
+{'text': 'came up with each of the systems of this', 'start': 947.62, 'duration': 5.01}
+{'text': 'nirvana site supported cable actuated', 'start': 949.99, 'duration': 5.52}
+{'text': 'structure you can see on the left a', 'start': 952.63, 'duration': 5.94}
+{'text': 'range of size we can use a system like', 'start': 955.51, 'duration': 5.7}
+{'text': 'distant unrelated strip in the middle', 'start': 958.57, 'duration': 6.15}
+{'text': 'and the cable supported lamb plate on', 'start': 961.21, 'duration': 8.13}
+{'text': 'the right which would be large enough to', 'start': 964.72, 'duration': 7.8}
+{'text': 'spend a distance of 45 meters that just', 'start': 969.34, 'duration': 5.97}
+{'text': 'actuate in her contract indicators below', 'start': 972.52, 'duration': 8.31}
+{'text': 'those plate structures then as mentioned', 'start': 975.31, 'duration': 7.5}
+{'text': 'before another topic which we are', 'start': 980.83, 'duration': 3.57}
+{'text': 'investigating is the motion', 'start': 982.81, 'duration': 3.78}
+{'text': 'amplification of the system so meaning', 'start': 984.4, 'duration': 4.86}
+{'text': 'we only have a small displacement in a', 'start': 986.59, 'duration': 5.97}
+{'text': 'very discreet position and this should', 'start': 989.26, 'duration': 6.72}
+{'text': 'lead to a large geometrical change where', 'start': 992.56, 'duration': 7.41}
+{'text': 'we especially try to define the mesh', 'start': 995.98, 'duration': 7.95}
+{'text': 'words where we can find her concepts in', 'start': 999.97, 'duration': 5.34}
+{'text': 'biology which are very closely related', 'start': 1003.93, 'duration': 3.87}
+{'text': 'to craft line folding for two straight', 'start': 1005.31, 'duration': 5.43}
+{'text': 'line folding for example insect wings or', 'start': 1007.8, 'duration': 6.09}
+{'text': 'to lecture torsional buckling um like in', 'start': 1010.74, 'duration': 8.12}
+{'text': "this it's a short later in more detail", 'start': 1013.89, 'duration': 8.19}
+{'text': 'again we abstract the principles how we', 'start': 1018.86, 'duration': 5.29}
+{'text': 'need to distribute material if he the', 'start': 1022.08, 'duration': 4.86}
+{'text': 'whole surface is spending of the penile', 'start': 1024.15, 'duration': 5.64}
+{'text': 'system is bending or just in local areas', 'start': 1026.94, 'duration': 6.99}
+{'text': 'and how we could picture it those', 'start': 1029.79, 'duration': 6.11}
+{'text': 'systems then get in the next step', 'start': 1033.93, 'duration': 3.75}
+{'text': 'translated to', 'start': 1035.9, 'duration': 5.29}
+{'text': 'fiber composite structures together with', 'start': 1037.68, 'duration': 9.18}
+{'text': 'our partner Institute and of and now I', 'start': 1041.19, 'duration': 9.47}
+{'text': 'just want to give an overview about the', 'start': 1046.86, 'duration': 6.42}
+{'text': "research projects in this we're looking", 'start': 1050.66, 'duration': 4.57}
+{'text': 'and self that started off with this flag', 'start': 1053.28, 'duration': 5.13}
+{'text': '- which was done already before yes', 'start': 1055.23, 'duration': 5.85}
+{'text': 'before arrived in Stuttgart which as I', 'start': 1058.41, 'duration': 6.74}
+{'text': 'mentioned was based on this still Edina', 'start': 1061.08, 'duration': 7.44}
+{'text': 'that was landing on this stem of this', 'start': 1065.15, 'duration': 6.52}
+{'text': 'flower and then two petals open due to', 'start': 1068.52, 'duration': 10.82}
+{'text': 'the pending deformation of this stem and', 'start': 1071.67, 'duration': 10.5}
+{'text': 'so those petals are connected to it as', 'start': 1079.34, 'duration': 4.57}
+{'text': 'we can see in the bottom or basically if', 'start': 1082.17, 'duration': 6.84}
+{'text': "we bent this what the the plate parker's", 'start': 1083.91, 'duration': 9.63}
+{'text': 'to the side and this is the whole secret', 'start': 1089.01, 'duration': 8.0}
+{'text': 'behind it basically that we have this', 'start': 1093.54, 'duration': 6.84}
+{'text': 'chief appeared as glass fiber what bris', 'start': 1097.01, 'duration': 5.41}
+{'text': 'lamellas from decided if it produced', 'start': 1100.38, 'duration': 4.98}
+{'text': 'bending into this and what the lamellas', 'start': 1102.42, 'duration': 7.08}
+{'text': "opened to the side so that's the usual", 'start': 1105.36, 'duration': 7.41}
+{'text': 'process those concepts are investigated', 'start': 1109.5, 'duration': 6.42}
+{'text': 'that we have the whole model we try to', 'start': 1112.77, 'duration': 5.07}
+{'text': 'figure out the kinetic behavior of it', 'start': 1115.92, 'duration': 4.89}
+{'text': 'with simulations and then we translated', 'start': 1117.84, 'duration': 8.25}
+{'text': 'and we work on the capability to more', 'start': 1120.81, 'duration': 7.44}
+{'text': 'complex geometries rather than two flat', 'start': 1126.09, 'duration': 5.85}
+{'text': 'surfaces but this effect often had some', 'start': 1128.25, 'duration': 5.75}
+{'text': 'challenges which we needed to overcome', 'start': 1131.94, 'duration': 5.52}
+{'text': 'so the materiality of this element is', 'start': 1134.0, 'duration': 6.37}
+{'text': 'very much homogeneous and this leads to', 'start': 1137.46, 'duration': 5.16}
+{'text': 'very high stress concentrations and also', 'start': 1140.37, 'duration': 5.79}
+{'text': "to very high activation forces so that's", 'start': 1142.62, 'duration': 5.85}
+{'text': 'why we by looking into how can we and', 'start': 1146.16, 'duration': 4.38}
+{'text': 'create similar systems but was very', 'start': 1148.47, 'duration': 6.12}
+{'text': 'distinct hinge zones which were flexible', 'start': 1150.54, 'duration': 6.6}
+{'text': "and we could we'd use this stress", 'start': 1154.59, 'duration': 4.26}
+{'text': 'concentrations and also reduced', 'start': 1157.14, 'duration': 5.19}
+{'text': 'activation forces which led to the', 'start': 1158.85, 'duration': 6.2}
+{'text': 'development of the so-called flag toward', 'start': 1162.33, 'duration': 5.47}
+{'text': 'will be again work', 'start': 1165.05, 'duration': 6.39}
+{'text': 'Fryeburg together and with the material', 'start': 1167.8, 'duration': 6.46}
+{'text': 'developers of the idft', 'start': 1171.44, 'duration': 8.31}
+{'text': 'and then enough to finding solutions in', 'start': 1174.26, 'duration': 11.16}
+{'text': 'nature to where to develop systems with', 'start': 1179.75, 'duration': 7.68}
+{'text': 'distinct flexible instance and one of', 'start': 1185.42, 'duration': 4.98}
+{'text': "those examples would be the I'd wonder", 'start': 1187.43, 'duration': 6.15}
+{'text': 'basic Palooza which is a underwater', 'start': 1190.4, 'duration': 6.96}
+{'text': 'carnivores plant genetically very', 'start': 1193.58, 'duration': 6.39}
+{'text': 'closely related to the Venus flytrap but', 'start': 1197.36, 'duration': 4.62}
+{'text': 'the movement is based on completely', 'start': 1199.97, 'duration': 4.56}
+{'text': 'different behaviors where the Venus', 'start': 1201.98, 'duration': 5.01}
+{'text': 'flytrap has this snaps fruit buckling', 'start': 1204.53, 'duration': 7.94}
+{'text': 'effect and this example the whole motion', 'start': 1206.99, 'duration': 9.63}
+{'text': 'is triggered by bending this mid-trip', 'start': 1212.47, 'duration': 9.28}
+{'text': 'and then adjacent ropes close so if you', 'start': 1216.62, 'duration': 6.87}
+{'text': 'have a closer look tat we can see that', 'start': 1221.75, 'duration': 7.22}
+{'text': "there's a zone which is very sinned and", 'start': 1223.49, 'duration': 8.49}
+{'text': 'similar to a fault line to a curved', 'start': 1228.97, 'duration': 5.32}
+{'text': 'fault line so which led us to the', 'start': 1231.98, 'duration': 4.02}
+{'text': 'investigation of curved forum which is', 'start': 1234.29, 'duration': 5.37}
+{'text': 'nothing new and design and studied', 'start': 1236.0, 'duration': 7.86}
+{'text': 'already at Bauhaus and various', 'start': 1239.66, 'duration': 8.1}
+{'text': 'applications from heart objects to car', 'start': 1243.86, 'duration': 7.98}
+{'text': 'design but what was relatively new as', 'start': 1247.76, 'duration': 8.33}
+{'text': 'how can be used as for kinetic systems', 'start': 1251.84, 'duration': 8.1}
+{'text': 'than to understand the king kinematic', 'start': 1256.09, 'duration': 6.43}
+{'text': 'behavior of their systems we needed to', 'start': 1259.94, 'duration': 5.55}
+{'text': "define and to studied parameters it's", 'start': 1262.52, 'duration': 5.04}
+{'text': 'romantic parameters we can change to', 'start': 1265.49, 'duration': 3.78}
+{'text': 'manipulate the bending behavior the', 'start': 1267.56, 'duration': 7.05}
+{'text': 'closing behavior we developed a', 'start': 1269.27, 'duration': 6.9}
+{'text': 'kinematic model based on the reflection', 'start': 1274.61, 'duration': 7.61}
+{'text': 'plane method which says that if we have', 'start': 1276.17, 'duration': 6.05}
+{'text': 'curved geometry and the forward line', 'start': 1282.49, 'duration': 7.81}
+{'text': 'would stay within one plane we can use', 'start': 1286.7, 'duration': 5.969}
+{'text': 'this plane to mirror', 'start': 1290.3, 'duration': 4.619}
+{'text': 'the surface and the approximate', 'start': 1292.669, 'duration': 5.431}
+{'text': 'left4dead geometry so in our case that', 'start': 1294.919, 'duration': 7.591}
+{'text': 'means that in the midrib the introduced', 'start': 1298.1, 'duration': 7.949}
+{'text': 'bending deformation and based on the', 'start': 1302.51, 'duration': 7.08}
+{'text': 'spending deformation we can simulate or', 'start': 1306.049, 'duration': 5.431}
+{'text': 'approximate the holding behavior of the', 'start': 1309.59, 'duration': 9.48}
+{'text': 'system so as we can see here we have a', 'start': 1311.48, 'duration': 10.14}
+{'text': 'very close relationship of the radius of', 'start': 1319.07, 'duration': 4.8}
+{'text': 'those falklands to how much displacement', 'start': 1321.62, 'duration': 5.309}
+{'text': 'we need or how much venom deformation we', 'start': 1323.87, 'duration': 7.47}
+{'text': 'need how much activation we need and so', 'start': 1326.929, 'duration': 6.391}
+{'text': 'on so in short you can say that if you', 'start': 1331.34, 'duration': 6.42}
+{'text': 'have a smaller radius we have larger', 'start': 1333.32, 'duration': 7.02}
+{'text': 'displacement in our control points on', 'start': 1337.76, 'duration': 5.31}
+{'text': 'our support points but also higher', 'start': 1340.34, 'duration': 4.53}
+{'text': 'curvature and thus higher curvature', 'start': 1343.07, 'duration': 4.62}
+{'text': 'could be used for stability reason', 'start': 1344.87, 'duration': 4.5}
+{'text': 'Sophia for higher kravitch and the', 'start': 1347.69, 'duration': 5.03}
+{'text': 'elements and we gain more geometric', 'start': 1349.37, 'duration': 6.059}
+{'text': "stiffness which is especially if you're", 'start': 1352.72, 'duration': 5.589}
+{'text': 'looking on facade shading systems very', 'start': 1355.429, 'duration': 7.681}
+{'text': 'advantageous than later to wind loads', 'start': 1358.309, 'duration': 10.291}
+{'text': 'etc and in the next step then this', 'start': 1363.11, 'duration': 8.22}
+{'text': 'models gets inserted by the kinematic', 'start': 1368.6, 'duration': 7.799}
+{'text': 'model gives us only insights of the', 'start': 1371.33, 'duration': 7.589}
+{'text': 'geometric relationship of all those', 'start': 1376.399, 'duration': 4.081}
+{'text': "parameters but we don't know the", 'start': 1378.919, 'duration': 3.841}
+{'text': "structural performance we don't know how", 'start': 1380.48, 'duration': 5.549}
+{'text': 'much force we need to actuate them we', 'start': 1382.76, 'duration': 7.94}
+{'text': 'use this model and translated into a', 'start': 1386.029, 'duration': 8.25}
+{'text': 'finite element model where we apply', 'start': 1390.7, 'duration': 5.979}
+{'text': 'glass fiber reinforced plastic material', 'start': 1394.279, 'duration': 3.87}
+{'text': 'properties and different sicknesses', 'start': 1396.679, 'duration': 4.441}
+{'text': 'Tudors and different areas developed the', 'start': 1398.149, 'duration': 5.221}
+{'text': 'midrib and our distinct hinge zone and', 'start': 1401.12, 'duration': 5.76}
+{'text': 'we also can simulate the actuation force', 'start': 1403.37, 'duration': 5.22}
+{'text': 'which in this case no would be a', 'start': 1406.88, 'duration': 3.87}
+{'text': 'parametric aschen that just placed', 'start': 1408.59, 'duration': 3.9}
+{'text': 'behind the mid-trip to introduce', 'start': 1410.75, 'duration': 5.34}
+{'text': 'depending to the mid quit and then again', 'start': 1412.49, 'duration': 8.27}
+{'text': 'we can make study with different radius', 'start': 1416.09, 'duration': 4.67}
+{'text': 'different hingeless etc to see um how', 'start': 1420.98, 'duration': 9.15}
+{'text': 'much force we need how much curvature we', 'start': 1426.8, 'duration': 5.6}
+{'text': "really get because it's not one-to-one", 'start': 1430.13, 'duration': 4.89}
+{'text': 'propagated along the hinge etc or the', 'start': 1432.4, 'duration': 5.86}
+{'text': 'hinge is spending and so on and so forth', 'start': 1435.02, 'duration': 5.61}
+{'text': 'and then you can make the study we can', 'start': 1438.26, 'duration': 4.74}
+{'text': 'swim in defined areas where we have high', 'start': 1440.63, 'duration': 4.71}
+{'text': 'stress concentrations of a female change', 'start': 1443.0, 'duration': 5.19}
+{'text': 'the geometry slightly in this areas how', 'start': 1445.34, 'duration': 5.79}
+{'text': 'we can reduce this and another important', 'start': 1448.19, 'duration': 7.26}
+{'text': 'aspect is how a different arm activation', 'start': 1451.13, 'duration': 8.19}
+{'text': 'methods also could influenced at once', 'start': 1455.45, 'duration': 7.58}
+{'text': 'and the bending behavior but also the', 'start': 1459.32, 'duration': 6.42}
+{'text': 'the stress concentrations as we can see', 'start': 1463.03, 'duration': 7.9}
+{'text': 'here the first graph shows the deviation', 'start': 1465.74, 'duration': 8.28}
+{'text': 'of our structure the simulated structure', 'start': 1470.93, 'duration': 5.64}
+{'text': 'to the purely geometric models the', 'start': 1474.02, 'duration': 4.89}
+{'text': 'kinematic model versus perfect arc like', 'start': 1476.57, 'duration': 9.09}
+{'text': 'shapes how much our bent geometry', 'start': 1478.91, 'duration': 9.42}
+{'text': 'differs from this in dispute and if you', 'start': 1485.66, 'duration': 6.48}
+{'text': 'go to the second row of graphs where we', 'start': 1488.33, 'duration': 5.52}
+{'text': 'see the stress concentrations along the', 'start': 1492.14, 'duration': 4.77}
+{'text': "hinge we can see that we have they're", 'start': 1493.85, 'duration': 5.01}
+{'text': 'quite corresponding and where we have', 'start': 1496.91, 'duration': 4.26}
+{'text': 'large deviations of our perfect geometry', 'start': 1498.86, 'duration': 4.5}
+{'text': 'we also have very high stress', 'start': 1501.17, 'duration': 4.95}
+{'text': 'concentrations so the next step here', 'start': 1503.36, 'duration': 7.43}
+{'text': 'would you know how can we adjust', 'start': 1506.12, 'duration': 9.77}
+{'text': 'activation forces to get closer to our', 'start': 1510.79, 'duration': 5.1}
+{'text': 'kinematic geometry to reduce the', 'start': 1516.88, 'duration': 6.28}
+{'text': 'stresses or we can rearrange the', 'start': 1519.95, 'duration': 6.09}
+{'text': 'material in a way that we compensate for', 'start': 1523.16, 'duration': 6.87}
+{'text': 'this button then the next step was how', 'start': 1526.04, 'duration': 8.45}
+{'text': 'can we really materialize this and', 'start': 1530.03, 'duration': 4.46}
+{'text': 'another track we were investigating the', 'start': 1534.97, 'duration': 10.36}
+{'text': 'ring folding patterns of beatless which', 'start': 1538.79, 'duration': 9.51}
+{'text': 'basically know some of them in a really', 'start': 1545.33, 'duration': 4.3}
+{'text': 'very sophisticated', 'start': 1548.3, 'duration': 5.62}
+{'text': 'Pattin able to fold their wings finish', 'start': 1549.63, 'duration': 7.26}
+{'text': 'their four wings and also with a very', 'start': 1553.92, 'duration': 6.15}
+{'text': 'local activation they unfold them very', 'start': 1556.89, 'duration': 5.64}
+{'text': 'rapidly and even they are very small', 'start': 1560.07, 'duration': 6.9}
+{'text': 'they can take what hide loads was very', 'start': 1562.53, 'duration': 9.15}
+{'text': 'very same materials and then we were', 'start': 1566.97, 'duration': 7.8}
+{'text': 'looking especially closer to the forward', 'start': 1571.68, 'duration': 8.07}
+{'text': "lines they're basically two ways or to", 'start': 1574.77, 'duration': 6.48}
+{'text': 'reduce the stiffness in those four', 'start': 1579.75, 'duration': 2.01}
+{'text': 'lengths', 'start': 1581.25, 'duration': 2.7}
+{'text': "so in short it's the sickness of the", 'start': 1581.76, 'duration': 5.76}
+{'text': 'material but also the composition of the', 'start': 1583.95, 'duration': 8.69}
+{'text': 'fibers and protein matrix in this areas', 'start': 1587.52, 'duration': 9.69}
+{'text': "then rich I've been collaboration with", 'start': 1592.64, 'duration': 7.92}
+{'text': 'our material scientists we were able to', 'start': 1597.21, 'duration': 6.69}
+{'text': 'develop material a up again with glass', 'start': 1600.56, 'duration': 6.34}
+{'text': 'fiber reinforced composites and a last', 'start': 1603.9, 'duration': 6.96}
+{'text': 'Tamiya um layers to create those hinge', 'start': 1606.9, 'duration': 8.22}
+{'text': 'zones which allowed us to even not just', 'start': 1610.86, 'duration': 6.93}
+{'text': 'work just to have this fold in behavior', 'start': 1615.12, 'duration': 5.58}
+{'text': 'so at the end we can say that this', 'start': 1617.79, 'duration': 5.97}
+{'text': 'element took the geometric principles', 'start': 1620.7, 'duration': 5.58}
+{'text': 'from one biological model the curved', 'start': 1623.76, 'duration': 4.17}
+{'text': 'folding system and depending of the', 'start': 1626.28, 'duration': 4.41}
+{'text': 'midrib and how the Scots propagated to', 'start': 1627.93, 'duration': 6.12}
+{'text': 'this large traumatic change of the whole', 'start': 1630.69, 'duration': 7.55}
+{'text': 'system by the materiality or the', 'start': 1634.05, 'duration': 6.6}
+{'text': 'abstraction of the new reality came from', 'start': 1638.24, 'duration': 4.0}
+{'text': 'a completely different neurological', 'start': 1640.65, 'duration': 4.65}
+{'text': "model so it's not a translation went to", 'start': 1642.24, 'duration': 5.25}
+{'text': 'one of what we see in nature that we', 'start': 1645.3, 'duration': 5.19}
+{'text': 'take inspiration of different phenomena', 'start': 1647.49, 'duration': 7.71}
+{'text': 'we find and try to we combine and this', 'start': 1650.49, 'duration': 8.04}
+{'text': 'led then to this um large-scale', 'start': 1655.2, 'duration': 5.4}
+{'text': 'demonstrator which was designed and', 'start': 1658.53, 'duration': 3.96}
+{'text': 'constructed by my colleague Samantha', 'start': 1660.6, 'duration': 6.14}
+{'text': 'Fabian which can be seen right now in', 'start': 1662.49, 'duration': 6.47}
+{'text': 'Stuttgart at the Museum', 'start': 1666.74, 'duration': 4.96}
+{'text': "Natural History Museum there's a", 'start': 1668.96, 'duration': 6.34}
+{'text': 'exhibition about biomimetic in building', 'start': 1671.7, 'duration': 5.459}
+{'text': 'industry', 'start': 1675.3, 'duration': 7.099}
+{'text': "it's posted me anyone was interested and", 'start': 1677.159, 'duration': 5.24}
+{'text': 'each of those elements has one of those', 'start': 1684.049, 'duration': 5.921}
+{'text': 'climatic Russians which spent this', 'start': 1686.999, 'duration': 8.75}
+{'text': 'metric and by been intimate with home', 'start': 1689.97, 'duration': 11.899}
+{'text': 'flat surface flat surfaces fault', 'start': 1695.749, 'duration': 6.12}
+{'text': 'so then we were talking a lot about this', 'start': 1710.5, 'duration': 7.08}
+{'text': 'geometry that ability of the system to', 'start': 1714.159, 'duration': 7.711}
+{'text': 'complex geometries and there we run into', 'start': 1717.58, 'duration': 6.36}
+{'text': 'one problem with this left falling', 'start': 1721.87, 'duration': 4.41}
+{'text': 'element because it always needs to have', 'start': 1723.94, 'duration': 5.58}
+{'text': 'a certain preferred condition so that we', 'start': 1726.28, 'duration': 4.769}
+{'text': 'know that if we went the Midway that', 'start': 1729.52, 'duration': 3.51}
+{'text': 'falls in the right way and not bends', 'start': 1731.049, 'duration': 7.171}
+{'text': "just the whole surface so we can't", 'start': 1733.03, 'duration': 8.1}
+{'text': 'isolate the surface into quartz and we', 'start': 1738.22, 'duration': 6.0}
+{'text': 'need to make slightly anti clastic', 'start': 1741.13, 'duration': 6.36}
+{'text': "shaped what's out of those pennies and", 'start': 1744.22, 'duration': 6.56}
+{'text': 'we can translate them into our component', 'start': 1747.49, 'duration': 10.799}
+{'text': 'and perform our deflector folds that are', 'start': 1750.78, 'duration': 9.1}
+{'text': 'useless as production data for', 'start': 1758.289, 'duration': 3.711}
+{'text': 'fabrication so again we see order', 'start': 1759.88, 'duration': 4.44}
+{'text': 'surfaces tessellated how we need to', 'start': 1762.0, 'duration': 5.909}
+{'text': 'adjust slightly the surface and to', 'start': 1764.32, 'duration': 5.7}
+{'text': 'populated with these elements and then', 'start': 1767.909, 'duration': 9.64}
+{'text': 'we have our kinetic facade system but as', 'start': 1770.02, 'duration': 10.889}
+{'text': 'I said this always needs this before and', 'start': 1777.549, 'duration': 6.601}
+{'text': 'we need to alter a traumatic condition', 'start': 1780.909, 'duration': 9.031}
+{'text': "so therefore we're looking awful way so", 'start': 1784.15, 'duration': 8.88}
+{'text': 'we can start from a flat surface or we', 'start': 1789.94, 'duration': 5.43}
+{'text': 'can change the direction of curvature', 'start': 1793.03, 'duration': 5.82}
+{'text': 'even so one possibility would be to', 'start': 1795.37, 'duration': 6.21}
+{'text': 'actuate the hinge itself so we can start', 'start': 1798.85, 'duration': 5.52}
+{'text': 'from a flat condition and by actuating', 'start': 1801.58, 'duration': 4.62}
+{'text': 'were inducing our bending in the', 'start': 1804.37, 'duration': 4.98}
+{'text': 'discrete hinge zone we can go from flat', 'start': 1806.2, 'duration': 6.479}
+{'text': 'to left or if you have two actuators and', 'start': 1809.35, 'duration': 5.28}
+{'text': 'the interest on video even can change', 'start': 1812.679, 'duration': 6.571}
+{'text': 'the direction or we changed on geometric', 'start': 1814.63, 'duration': 9.51}
+{'text': 'variation which leads to the element and', 'start': 1819.25, 'duration': 6.6}
+{'text': 'the white board I said you just rotate', 'start': 1824.14, 'duration': 3.96}
+{'text': 'the whole system by 90 degree and', 'start': 1825.85, 'duration': 5.189}
+{'text': 'actuated the x axis of an under laying', 'start': 1828.1, 'duration': 7.85}
+{'text': 'mesh and', 'start': 1831.039, 'duration': 4.911}
+{'text': "editor's left folding elements where we", 'start': 1836.29, 'duration': 5.769}
+{'text': 'also can go for mass and classic', 'start': 1838.64, 'duration': 5.76}
+{'text': 'romantic lastic surface without altering', 'start': 1842.059, 'duration': 5.761}
+{'text': 'the surface which we then built as a', 'start': 1844.4, 'duration': 6.75}
+{'text': 'prototype in a workshop last year in', 'start': 1847.82, 'duration': 7.05}
+{'text': 'Tehran and also it was interesting but', 'start': 1851.15, 'duration': 5.25}
+{'text': "it's interesting to mention years that", 'start': 1854.87, 'duration': 5.31}
+{'text': "we don't have any stiff connections to a", 'start': 1856.4, 'duration': 7.79}
+{'text': 'fixed substructure that we have this', 'start': 1860.18, 'duration': 7.08}
+{'text': 'sort of compliant connection points', 'start': 1864.19, 'duration': 5.58}
+{'text': 'between all four complete sub structure', 'start': 1867.26, 'duration': 5.49}
+{'text': 'so if we shorten those extra spare', 'start': 1869.77, 'duration': 4.93}
+{'text': 'inflate in them the whole deformation is', 'start': 1872.75, 'duration': 4.53}
+{'text': "compensated in the extras and we don't", 'start': 1874.7, 'duration': 4.32}
+{'text': 'have any moving parts in the whole', 'start': 1877.28, 'duration': 4.98}
+{'text': 'system so we just tested the whole', 'start': 1879.02, 'duration': 7.23}
+{'text': 'system on a again double curved surface', 'start': 1882.26, 'duration': 6.63}
+{'text': 'we tessellated into a triangulated mesh', 'start': 1886.25, 'duration': 6.96}
+{'text': 'and yeah like some experiments in how', 'start': 1888.89, 'duration': 8.24}
+{'text': 'can we optimize the structural system', 'start': 1893.21, 'duration': 6.78}
+{'text': "populated with our element and we're", 'start': 1897.13, 'duration': 6.13}
+{'text': 'then bending the edge Chester facade', 'start': 1899.99, 'duration': 11.61}
+{'text': 'opens and closes H and wasp it so as we', 'start': 1903.26, 'duration': 10.76}
+{'text': 'can see here when we inflate in the', 'start': 1911.6, 'duration': 5.88}
+{'text': 'actuators the size of each edge changes', 'start': 1914.02, 'duration': 6.039}
+{'text': 'but we have no not one single moving', 'start': 1917.48, 'duration': 7.53}
+{'text': 'connection in the whole structure and', 'start': 1920.059, 'duration': 9.261}
+{'text': 'then the last topic um would be the', 'start': 1925.01, 'duration': 8.16}
+{'text': 'change of curvature direction which can', 'start': 1929.32, 'duration': 8.52}
+{'text': 'be also found in various um biological', 'start': 1933.17, 'duration': 7.56}
+{'text': 'role models as mentioned before the', 'start': 1937.84, 'duration': 5.65}
+{'text': 'venus flytrap with justice snaps will', 'start': 1940.73, 'duration': 4.92}
+{'text': 'behavior basically as a speed boost to', 'start': 1943.49, 'duration': 10.5}
+{'text': 'catch its prey but for example this fan', 'start': 1945.65, 'duration': 13.2}
+{'text': 'on the right side undergoes very similar', 'start': 1953.99, 'duration': 6.81}
+{'text': 'to a metrical change but in a very', 'start': 1958.85, 'duration': 6.27}
+{'text': "smooth transition so it's a question for", 'start': 1960.8, 'duration': 6.48}
+{'text': 'the biologists how this can happen', 'start': 1965.12, 'duration': 5.46}
+{'text': 'so by one snap screw the other one not', 'start': 1967.28, 'duration': 5.76}
+{'text': "for us it's interesting because snaps", 'start': 1970.58, 'duration': 5.01}
+{'text': 'through behaviors always accompanied by', 'start': 1973.04, 'duration': 6.66}
+{'text': 'a very high release of elastic stored', 'start': 1975.59, 'duration': 7.34}
+{'text': 'energy which can be quite dangerous', 'start': 1979.7, 'duration': 7.53}
+{'text': 'period of systems up and also the', 'start': 1982.93, 'duration': 8.37}
+{'text': 'fatigue in the material is very high so', 'start': 1987.23, 'duration': 6.81}
+{'text': 'we were shrinking how could this work', 'start': 1991.3, 'duration': 7.6}
+{'text': 'and we had an idea so maybe the initial', 'start': 1994.04, 'duration': 6.99}
+{'text': 'geometry of this fan is actually not', 'start': 1998.9, 'duration': 7.08}
+{'text': "clear but it's flat and by trying out a", 'start': 2001.03, 'duration': 7.44}
+{'text': 'way of collecting whatever cell', 'start': 2005.98, 'duration': 4.29}
+{'text': 'expansion in different layers it can', 'start': 2008.47, 'duration': 5.01}
+{'text': 'change its geometry then we tested this', 'start': 2010.27, 'duration': 9.36}
+{'text': 'again and if any element analysis that', 'start': 2013.48, 'duration': 9.69}
+{'text': 'we have a quit of fiber bundles and says', 'start': 2019.63, 'duration': 5.82}
+{'text': 'which can expand and contract and we', 'start': 2023.17, 'duration': 4.98}
+{'text': 'considered in this way we can go from a', 'start': 2025.45, 'duration': 4.47}
+{'text': 'flat to a curved position and if you', 'start': 2028.15, 'duration': 4.35}
+{'text': 'know have two layers of cells so you can', 'start': 2029.92, 'duration': 6.95}
+{'text': 'easily imagine that you can change the', 'start': 2032.5, 'duration': 4.37}
+{'text': 'direction of curvature of a system like', 'start': 2037.32, 'duration': 7.87}
+{'text': 'this and this is quite interesting', 'start': 2040.06, 'duration': 6.93}
+{'text': 'because then you can imagine that you', 'start': 2045.19, 'duration': 4.709}
+{'text': 'can inform or so the geometry you want', 'start': 2046.99, 'duration': 5.01}
+{'text': 'to achieve by the arrangement of your', 'start': 2049.899, 'duration': 4.081}
+{'text': 'fiber bundles and where you contract', 'start': 2052.0, 'duration': 4.86}
+{'text': 'where you expand to control also the', 'start': 2053.98, 'duration': 6.48}
+{'text': 'geometry between system like this could', 'start': 2056.86, 'duration': 7.35}
+{'text': 'change which and again leads me to the', 'start': 2060.46, 'duration': 6.12}
+{'text': 'master chooses a flat hiding and choi', 'start': 2064.21, 'duration': 7.77}
+{'text': 'geumja gravity we just finished one', 'start': 2066.58, 'duration': 8.22}
+{'text': 'months ago their master thesis on', 'start': 2071.98, 'duration': 5.429}
+{'text': 'tailoring cell formation fabrication and', 'start': 2074.8, 'duration': 4.32}
+{'text': 'simulation of membrane iterated', 'start': 2077.409, 'duration': 4.351}
+{'text': 'stiffness gradient so the idea of them', 'start': 2079.12, 'duration': 7.43}
+{'text': 'was to place glass fiber or carbon fiber', 'start': 2081.76, 'duration': 7.8}
+{'text': 'strength unto a prestressed membrane and', 'start': 2086.55, 'duration': 6.79}
+{'text': 'after releasing the tension it formed', 'start': 2089.56, 'duration': 6.75}
+{'text': 'the geometry so inspired there lot of', 'start': 2093.34, 'duration': 5.01}
+{'text': 'projects which were done before like the', 'start': 2096.31, 'duration': 3.4}
+{'text': 'adidas future', 'start': 2098.35, 'duration': 3.85}
+{'text': "she's the fiber tailored fiber placement", 'start': 2099.71, 'duration': 6.96}
+{'text': 'to manipulate the bending behavior to', 'start': 2102.2, 'duration': 7.2}
+{'text': 'bend this shoes into a predefined', 'start': 2106.67, 'duration': 5.16}
+{'text': 'geometry or the active shoes at the', 'start': 2109.4, 'duration': 5.37}
+{'text': 'self-assembly lab at MIT which was a', 'start': 2111.83, 'duration': 6.12}
+{'text': 'similar principle a print material onto', 'start': 2114.77, 'duration': 4.8}
+{'text': 'the membrane and then releasing the', 'start': 2117.95, 'duration': 5.55}
+{'text': 'tension and it forms this and the last', 'start': 2119.57, 'duration': 6.33}
+{'text': 'example which was developed here a', 'start': 2123.5, 'duration': 4.589}
+{'text': 'couple of years ago by M Tech students', 'start': 2125.9, 'duration': 5.52}
+{'text': 'and was presented this year at ISS in', 'start': 2128.089, 'duration': 8.131}
+{'text': 'Hamburg which also used this', 'start': 2131.42, 'duration': 7.11}
+{'text': 'pre-stressed membranes and by cutting', 'start': 2136.22, 'duration': 5.22}
+{'text': 'out certain areas of her stiff material', 'start': 2138.53, 'duration': 6.15}
+{'text': 'to form sheets so they wanted to take', 'start': 2141.44, 'duration': 6.39}
+{'text': 'this worker trying to lift up on this', 'start': 2144.68, 'duration': 5.34}
+{'text': 'previous work which was done to', 'start': 2147.83, 'duration': 4.8}
+{'text': 'basically define formation rule so how', 'start': 2150.02, 'duration': 6.66}
+{'text': 'really can be in manipulate pattern of', 'start': 2152.63, 'duration': 9.33}
+{'text': 'those fibers to to fit to a given', 'start': 2156.68, 'duration': 8.58}
+{'text': 'geometry which we want to achieve so', 'start': 2161.96, 'duration': 7.94}
+{'text': 'they had this design intention they did', 'start': 2165.26, 'duration': 8.28}
+{'text': 'for more than six months a lot of', 'start': 2169.9, 'duration': 6.31}
+{'text': 'physical and digital experiments and how', 'start': 2173.54, 'duration': 6.18}
+{'text': 'we need to shape those cells to achieve', 'start': 2176.21, 'duration': 6.18}
+{'text': 'to allow for deformation into some', 'start': 2179.72, 'duration': 6.119}
+{'text': 'classical inter clastic geometries and', 'start': 2182.39, 'duration': 6.209}
+{'text': 'then use this data based on the', 'start': 2185.839, 'duration': 5.071}
+{'text': 'fabrication constraints of tailored', 'start': 2188.599, 'duration': 7.471}
+{'text': 'fiber placement to allow for designing', 'start': 2190.91, 'duration': 7.92}
+{'text': 'of the surfaces in a sunglass type in', 'start': 2196.07, 'duration': 6.12}
+{'text': 'the entire class division so as', 'start': 2198.83, 'duration': 5.07}
+{'text': 'mentioned they used in this fiber tailor', 'start': 2202.19, 'duration': 4.8}
+{'text': 'placement so they figure out the', 'start': 2203.9, 'duration': 4.62}
+{'text': 'curvature and certain areas they', 'start': 2206.99, 'duration': 5.22}
+{'text': 'influenced how those fibers Valley laid', 'start': 2208.52, 'duration': 5.61}
+{'text': 'up how those cells are formed to', 'start': 2212.21, 'duration': 6.889}
+{'text': 'contract in different directions then', 'start': 2214.13, 'duration': 8.76}
+{'text': 'yeah so they suit those fibers onto the', 'start': 2219.099, 'duration': 8.411}
+{'text': 'membrane applied the resin that it cure', 'start': 2222.89, 'duration': 6.87}
+{'text': 'let it half cure it is also important to', 'start': 2227.51, 'duration': 5.06}
+{'text': 'say then they released attention', 'start': 2229.76, 'duration': 5.15}
+{'text': 'it bends into shape then it cures', 'start': 2232.57, 'duration': 5.07}
+{'text': 'completely and it gets a well as rigid', 'start': 2234.91, 'duration': 6.89}
+{'text': 'structure and justice measured so at the', 'start': 2237.64, 'duration': 8.82}
+{'text': 'top row we can see the design so they', 'start': 2241.8, 'duration': 8.32}
+{'text': 'wanted to design a sim clastic dome-like', 'start': 2246.46, 'duration': 6.24}
+{'text': "shape cordis saddle shaped and they're", 'start': 2250.12, 'duration': 6.09}
+{'text': 'applied their design rules and', 'start': 2252.7, 'duration': 6.57}
+{'text': 'information woods and on the bottom or', 'start': 2256.21, 'duration': 5.4}
+{'text': 'we can see that the physically resides', 'start': 2259.27, 'duration': 5.94}
+{'text': 'actually pretty close to the design', 'start': 2261.61, 'duration': 7.43}
+{'text': 'intense and then also this Bergson', 'start': 2265.21, 'duration': 6.33}
+{'text': 'combinations and transitions and they', 'start': 2269.04, 'duration': 5.44}
+{'text': 'also developed and sort of design tool', 'start': 2271.54, 'duration': 6.77}
+{'text': 'that we can design this changes of', 'start': 2274.48, 'duration': 6.99}
+{'text': 'curvature curvature direction positive', 'start': 2278.31, 'duration': 6.07}
+{'text': 'and negative Gaussian curvature and the', 'start': 2281.47, 'duration': 6.12}
+{'text': "pattern gets applied to it and they're", 'start': 2284.38, 'duration': 5.88}
+{'text': 'able to showcase Thyssen above RIT of', 'start': 2287.59, 'duration': 8.34}
+{'text': 'some physical exam dress and yeah which', 'start': 2290.26, 'duration': 8.04}
+{'text': 'this area first went to mention it all', 'start': 2295.93, 'duration': 5.1}
+{'text': "the work we're doing this no PhD", 'start': 2298.3, 'duration': 5.58}
+{'text': 'research also the pavilions would not be', 'start': 2301.03, 'duration': 6.87}
+{'text': 'possible without our great and amazing I', 'start': 2303.88, 'duration': 7.08}
+{'text': 'take students which really bring a lot', 'start': 2307.9, 'duration': 6.78}
+{'text': 'of input and work into our environment', 'start': 2310.96, 'duration': 9.65}
+{'text': 'and wish to say would like to close and', 'start': 2314.68, 'duration': 5.93}
+{'text': 'any any questions thank you very much', 'start': 2331.35, 'duration': 6.37}
+{'text': 'first of all for a very interesting', 'start': 2336.43, 'duration': 24.24}
+{'text': 'lecture and if there any question is', 'start': 2337.72, 'duration': 26.97}
+{'text': 'yeah yeah they made yes I mentioned I', 'start': 2360.67, 'duration': 7.05}
+{'text': "mean they're a really short is not very", 'start': 2364.69, 'duration': 6.179}
+{'text': "very briefly because I should we didn't", 'start': 2367.72, 'duration': 6.96}
+{'text': 'publish anything about this so far but', 'start': 2370.869, 'duration': 6.451}
+{'text': 'they yeah I mean they made experiments', 'start': 2374.68, 'duration': 4.32}
+{'text': 'with a lot of different membrane', 'start': 2377.32, 'duration': 4.2}
+{'text': 'materials for much quistis especially in', 'start': 2379.0, 'duration': 4.43}
+{'text': 'the simulation how much elongation', 'start': 2381.52, 'duration': 4.98}
+{'text': 'uniform pre-stress or directed', 'start': 2383.43, 'duration': 5.23}
+{'text': 'pre-stress different stiffness of the', 'start': 2386.5, 'duration': 4.08}
+{'text': 'fibers different densities of the fibers', 'start': 2388.66, 'duration': 10.74}
+{'text': 'different orientations yeah so I have', 'start': 2390.58, 'duration': 11.46}
+{'text': 'two questions one is that basically you', 'start': 2399.4, 'duration': 7.34}
+{'text': 'use a lot of this by inspiration so how', 'start': 2402.04, 'duration': 8.01}
+{'text': 'this transition from biology to', 'start': 2406.74, 'duration': 5.2}
+{'text': 'architecture is happening you have your', 'start': 2410.05, 'duration': 3.66}
+{'text': 'architectural ambition and then you are', 'start': 2411.94, 'duration': 4.26}
+{'text': "trying to find let's say the biological", 'start': 2413.71, 'duration': 4.86}
+{'text': "principle to it or you're inspired by", 'start': 2416.2, 'duration': 4.32}
+{'text': 'biological principle and then you apply', 'start': 2418.57, 'duration': 5.07}
+{'text': 'to architectural idea which can be', 'start': 2420.52, 'duration': 5.73}
+{'text': "suitable that's one question another one", 'start': 2423.64, 'duration': 5.94}
+{'text': "maybe it's quite done but for the last", 'start': 2426.25, 'duration': 4.98}
+{'text': 'project you showed you have add I agree', 'start': 2429.58, 'duration': 3.99}
+{'text': 'right to change the curvature what will', 'start': 2431.23, 'duration': 4.53}
+{'text': 'happen if you will put different pattern', 'start': 2433.57, 'duration': 4.289}
+{'text': 'like a triangle or a hexagon will it', 'start': 2435.76, 'duration': 5.99}
+{'text': 'work no will it change it somehow', 'start': 2437.859, 'duration': 6.871}
+{'text': "triangle is it doesn't work because and", 'start': 2441.75, 'duration': 7.38}
+{'text': 'it looks okay and', 'start': 2444.73, 'duration': 4.4}
+{'text': 'so the clock based patterns move quickly', 'start': 2449.2, 'duration': 8.86}
+{'text': "on the first question it's maybe a bit", 'start': 2453.14, 'duration': 7.98}
+{'text': "more difficult I think it's it's also", 'start': 2458.06, 'duration': 6.48}
+{'text': "not possible to answer isn't very clear", 'start': 2461.12, 'duration': 6.51}
+{'text': "short answer because it's a false", 'start': 2464.54, 'duration': 7.83}
+{'text': 'context or I mean redefining a problem', 'start': 2467.63, 'duration': 9.0}
+{'text': 'and we are looking for a solution but', 'start': 2472.37, 'duration': 7.05}
+{'text': "then we don't get a look at this plant", 'start': 2476.63, 'duration': 5.07}
+{'text': 'from the biologists as the answer for', 'start': 2479.42, 'duration': 13.38}
+{'text': "problems right so it's I think it in the", 'start': 2481.7, 'duration': 13.05}
+{'text': "day to day work it's swimming in", 'start': 2492.8, 'duration': 5.22}
+{'text': 'swimming out all the time so here we', 'start': 2494.75, 'duration': 7.28}
+{'text': 'want to find certain principles which', 'start': 2498.02, 'duration': 4.01}
+{'text': 'enable a certain behavior but and we', 'start': 2502.63, 'duration': 5.11}
+{'text': 'have a broad range of fun systems which', 'start': 2505.28, 'duration': 4.53}
+{'text': 'are doing this more some of the more', 'start': 2507.74, 'duration': 3.66}
+{'text': 'suited or some of the my less suitable', 'start': 2509.81, 'duration': 6.48}
+{'text': 'then we analyzed one role model but can', 'start': 2511.4, 'duration': 7.23}
+{'text': 'not find the immunization today I mean', 'start': 2516.29, 'duration': 4.5}
+{'text': "it's just you cannot find the solution", 'start': 2518.63, 'duration': 3.93}
+{'text': 'of our problem in one role model but we', 'start': 2520.79, 'duration': 5.67}
+{'text': 'can extract certain principles and', 'start': 2522.56, 'duration': 6.63}
+{'text': 'combine them as principles we found in', 'start': 2526.46, 'duration': 6.29}
+{'text': "another role model and that's also why", 'start': 2529.19, 'duration': 6.66}
+{'text': 'so my personal purpose related to', 'start': 2532.75, 'duration': 7.81}
+{'text': 'identifying let say some how to put', 'start': 2535.85, 'duration': 6.81}
+{'text': 'categories on those phenomenas we find', 'start': 2540.56, 'duration': 5.07}
+{'text': 'in relation to what we would need in a', 'start': 2542.66, 'duration': 8.04}
+{'text': 'technical application and discussed the', 'start': 2545.63, 'duration': 7.65}
+{'text': 'Standish and the colleagues from biology', 'start': 2550.7, 'duration': 9.63}
+{'text': 'also which helps them then them to have', 'start': 2553.28, 'duration': 9.0}
+{'text': 'a new or a different look into the very', 'start': 2560.33, 'duration': 6.83}
+{'text': 'logical systems because they lookin into', 'start': 2562.28, 'duration': 6.91}
+{'text': 'Gnostic movement so', 'start': 2567.16, 'duration': 6.669}
+{'text': 'movements based on microscopic behavior', 'start': 2569.19, 'duration': 8.19}
+{'text': 'but that movements which are triggered', 'start': 2573.829, 'duration': 6.73}
+{'text': 'by this can be found also certain', 'start': 2577.38, 'duration': 6.87}
+{'text': 'animals or can be found triggered by a', 'start': 2580.559, 'duration': 5.55}
+{'text': 'completely different mechanism or', 'start': 2584.25, 'duration': 5.039}
+{'text': 'different purpose cross links all of', 'start': 2586.109, 'duration': 14.49}
+{'text': 'this logic and one question please first', 'start': 2589.289, 'duration': 13.32}
+{'text': 'of all thank you for a very interesting', 'start': 2600.599, 'duration': 6.27}
+{'text': 'presentation um regarding biomimetics', 'start': 2602.609, 'duration': 5.161}
+{'text': 'principles', 'start': 2606.869, 'duration': 3.871}
+{'text': 'um you just mentioned hygroscopic', 'start': 2607.77, 'duration': 5.7}
+{'text': 'movement I wanted to ask there seem to', 'start': 2610.74, 'duration': 6.349}
+{'text': 'be a trend moving away from using', 'start': 2613.47, 'duration': 5.97}
+{'text': 'natural material to synthetics when', 'start': 2617.089, 'duration': 5.431}
+{'text': 'applying a biomimetic principles um', 'start': 2619.44, 'duration': 5.52}
+{'text': 'could you maybe comment about the', 'start': 2622.52, 'duration': 6.76}
+{'text': 'material of choice how come it is seen', 'start': 2624.96, 'duration': 7.02}
+{'text': 'more from I see DNA tech using synthetic', 'start': 2629.28, 'duration': 8.13}
+{'text': 'materials as opposed to natural ones in', 'start': 2631.98, 'duration': 17.599}
+{'text': 'applying biomimetics principles I mean', 'start': 2637.41, 'duration': 12.169}
+{'text': "it's a first of all this first I mean", 'start': 2649.88, 'duration': 8.02}
+{'text': 'there also to research tracks but in the', 'start': 2654.299, 'duration': 7.111}
+{'text': 'ICD and idk if we want to have negative', 'start': 2657.9, 'duration': 7.35}
+{'text': 'materials which um that actuated by a', 'start': 2661.41, 'duration': 7.56}
+{'text': 'hocus copic phenomena compared to having', 'start': 2665.25, 'duration': 7.94}
+{'text': 'a system which is actively controlled by', 'start': 2668.97, 'duration': 9.349}
+{'text': 'any sort of control mechanism then the', 'start': 2673.19, 'duration': 7.96}
+{'text': 'choice of material that we use Technica', 'start': 2678.319, 'duration': 7.571}
+{'text': 'composite materials is based on the', 'start': 2681.15, 'duration': 9.929}
+{'text': 'quite now availability that we know if', 'start': 2685.89, 'duration': 6.55}
+{'text': 'we use certain', 'start': 2691.079, 'duration': 5.741}
+{'text': 'seriously yes research dan roden proven', 'start': 2692.44, 'duration': 7.65}
+{'text': 'to have certain parameters but at the', 'start': 2696.82, 'duration': 6.45}
+{'text': 'same time professor Han I died here at', 'start': 2700.09, 'duration': 7.14}
+{'text': 'our Institute is researching into', 'start': 2703.27, 'duration': 6.63}
+{'text': 'bio-based composite materials to replace', 'start': 2707.23, 'duration': 5.67}
+{'text': 'those them synthetic materials more and', 'start': 2709.9, 'duration': 6.72}
+{'text': 'more with very logical fibers or bio', 'start': 2712.9, 'duration': 7.71}
+{'text': "essence so it's just research which goes", 'start': 2716.62, 'duration': 6.48}
+{'text': 'in parallel on different levels to quite', 'start': 2720.61, 'duration': 5.52}
+{'text': 'now we have met you we have this', 'start': 2723.1, 'duration': 5.4}
+{'text': 'material if you define how we can', 'start': 2726.13, 'duration': 5.01}
+{'text': 'produce it with that he will hey we can', 'start': 2728.5, 'duration': 4.74}
+{'text': 'use this knowledge to apply to another', 'start': 2731.14, 'duration': 6.47}
+{'text': 'material but at this moment we have', 'start': 2733.24, 'duration': 6.92}
+{'text': 'basically not so much choice and', 'start': 2737.61, 'duration': 5.05}
+{'text': 'material components we can use filler', 'start': 2740.16, 'duration': 22.3}
+{'text': 'systems release he has to exhaust the', 'start': 2742.66, 'duration': 22.61}
+{'text': 'air or you can feed it back into the', 'start': 2762.46, 'duration': 9.98}
+{'text': 'system like a like a hydraulic system', 'start': 2765.27, 'duration': 7.17}
+{'text': "in Syria could be back but it's not so", 'start': 2773.9, 'duration': 12.48}
+{'text': "um there's one Inlet but the air gets", 'start': 2781.9, 'duration': 6.67}
+{'text': 'pushed out put up in this case we have', 'start': 2786.38, 'duration': 3.9}
+{'text': 'stored elastic energy in the whole', 'start': 2788.57, 'duration': 5.85}
+{'text': 'system if we release the pressure the', 'start': 2790.28, 'duration': 6.57}
+{'text': 'elastic energy is just used to let', 'start': 2794.42, 'duration': 6.39}
+{'text': "material so it's the nice ring on those", 'start': 2796.85, 'duration': 6.15}
+{'text': 'systems we have this dramatic actions', 'start': 2800.81, 'duration': 4.08}
+{'text': "which are very light don't need a lot of", 'start': 2803.0, 'duration': 9.39}
+{'text': 'energy and could use still quite high', 'start': 2804.89, 'duration': 9.51}
+{'text': 'forces but in the examples we show here', 'start': 2812.39, 'duration': 8.22}
+{'text': 'we are below 1 bar range and we just', 'start': 2814.4, 'duration': 8.55}
+{'text': 'need an impulse in one direction we', 'start': 2820.61, 'duration': 4.08}
+{'text': "don't need a controlled movement and", 'start': 2822.95, 'duration': 3.81}
+{'text': 'also what I shot with this example today', 'start': 2824.69, 'duration': 4.32}
+{'text': 'works have been tellin that we also', 'start': 2826.76, 'duration': 4.56}
+{'text': "don't need the site accuracy of", 'start': 2829.01, 'duration': 5.22}
+{'text': 'controlling each movement in a perfect', 'start': 2831.32, 'duration': 4.89}
+{'text': 'choreographed way because all this', 'start': 2834.23, 'duration': 4.92}
+{'text': 'elastic parts working together allow for', 'start': 2836.21, 'duration': 9.44}
+{'text': 'distribution of those and inaccuracies', 'start': 2839.15, 'duration': 6.5}
+{'text': 'um just a question about the mechanics', 'start': 2867.38, 'duration': 9.19}
+{'text': 'of it in your research are you also', 'start': 2874.5, 'duration': 5.58}
+{'text': 'thinking about how these structures will', 'start': 2876.57, 'duration': 7.38}
+{'text': 'be powered like how you will act the', 'start': 2880.08, 'duration': 7.05}
+{'text': 'movements all of these things how what', 'start': 2883.95, 'duration': 5.419}
+{'text': "kind of energy you'll use to actually", 'start': 2887.13, 'duration': 9.39}
+{'text': 'make them work um yeah we do in general', 'start': 2889.369, 'duration': 10.661}
+{'text': "it's not part of my personal research", 'start': 2896.52, 'duration': 7.28}
+{'text': 'but yes so first of all as I mentioned', 'start': 2900.03, 'duration': 6.66}
+{'text': 'we use a lot of cinematic actuators', 'start': 2903.8, 'duration': 6.76}
+{'text': "because they don't need so high amounts", 'start': 2906.69, 'duration': 10.38}
+{'text': 'of pressure and also quite now we are', 'start': 2910.56, 'duration': 8.67}
+{'text': 'working on how to integrate different', 'start': 2917.07, 'duration': 6.26}
+{'text': 'functionality in those elements such as', 'start': 2919.23, 'duration': 7.95}
+{'text': 'solar cells and ago solar cells etc so', 'start': 2923.33, 'duration': 11.26}
+{'text': 'too was okay and again energy okay cool', 'start': 2927.18, 'duration': 12.11}
+{'text': 'we need energy too okay yes a source', 'start': 2934.59, 'duration': 4.7}
+{'text': '[Applause]', 'start': 2940.55, 'duration': 2.75}

@@ -1,0 +1,1153 @@
+{'text': "so we're gonna go and get started good", 'start': 4.8, 'duration': 5.8}
+{'text': 'evening everyone and welcome to the', 'start': 8.59, 'duration': 4.08}
+{'text': "Balmer series my name is Eric Berman I'm", 'start': 10.6, 'duration': 3.959}
+{'text': 'an assistant professor of our picture', 'start': 12.67, 'duration': 3.15}
+{'text': 'here at Hamilton school', 'start': 14.559, 'duration': 2.551}
+{'text': "and it's my privilege to introduce", 'start': 15.82, 'duration': 4.709}
+{'text': "tonight's speaker Zach come on - zach is", 'start': 17.11, 'duration': 5.46}
+{'text': 'the co-founder of common craft which is', 'start': 20.529, 'duration': 3.451}
+{'text': 'an architectural practice based in', 'start': 22.57, 'duration': 3.66}
+{'text': 'Brooklyn and the SAO visiting assistant', 'start': 23.98, 'duration': 4.379}
+{'text': 'professor in architecture this year at', 'start': 26.23, 'duration': 5.07}
+{'text': 'Norman through his research teaching and', 'start': 28.359, 'duration': 5.281}
+{'text': 'practice zach cultivates a dual material', 'start': 31.3, 'duration': 4.5}
+{'text': 'and philosophical project and digital', 'start': 33.64, 'duration': 4.919}
+{'text': 'fabrication his specific focus is in', 'start': 35.8, 'duration': 6.27}
+{'text': 'digital include new notions of digital', 'start': 38.559, 'duration': 5.851}
+{'text': 'craft and interrogate the architect', 'start': 42.07, 'duration': 5.009}
+{'text': 'machine relationship zach earned his', 'start': 44.41, 'duration': 3.93}
+{'text': 'Master of Science in architecture', 'start': 47.079, 'duration': 7.5}
+{'text': 'studies at MIT in 2018 page turner where', 'start': 48.34, 'duration': 7.949}
+{'text': 'he received the arthur Raj special files', 'start': 54.579, 'duration': 3.901}
+{'text': 'for academic achievement he was a', 'start': 56.289, 'duration': 5.131}
+{'text': 'researcher at the MIT self-assembly lab', 'start': 58.48, 'duration': 4.559}
+{'text': 'and talked courses in digital', 'start': 61.42, 'duration': 5.01}
+{'text': 'fabrication and design and MIT and the', 'start': 63.039, 'duration': 5.731}
+{'text': 'Wentworth Institute of Technology he', 'start': 66.43, 'duration': 3.42}
+{'text': 'also holds a Bachelor of architecture', 'start': 68.77, 'duration': 3.24}
+{'text': 'whoo Carnegie Mellon University with', 'start': 69.85, 'duration': 4.95}
+{'text': 'highest honors prior to study at MIT is', 'start': 72.01, 'duration': 5.25}
+{'text': 'that practice at and architects Steven', 'start': 74.8, 'duration': 4.53}
+{'text': 'Holl architects and Marvel architects in', 'start': 77.26, 'duration': 3.32}
+{'text': 'England', 'start': 79.33, 'duration': 3.36}
+{'text': 'sex work is at the intersection of', 'start': 80.58, 'duration': 5.05}
+{'text': 'technology and performance something you', 'start': 82.69, 'duration': 4.23}
+{'text': "may have noticed if you've been down the", 'start': 85.63, 'duration': 3.93}
+{'text': 'lab as he forces pilots of deposition', 'start': 86.92, 'duration': 5.07}
+{'text': 'columns or saw his eight hour lie of', 'start': 89.56, 'duration': 4.62}
+{'text': 'fuzzy printing performance earlier this', 'start': 91.99, 'duration': 4.88}
+{'text': 'semester in space right behind this', 'start': 94.18, 'duration': 4.86}
+{'text': 'watching Zack construct his own machines', 'start': 96.87, 'duration': 3.82}
+{'text': 'as past minister makes clear that is', 'start': 99.04, 'duration': 3.12}
+{'text': 'part of a new generation of visual', 'start': 100.69, 'duration': 3.66}
+{'text': 'fabricators less enthralled by high', 'start': 102.16, 'duration': 5.16}
+{'text': 'water acts performed by advanced robot', 'start': 104.35, 'duration': 4.94}
+{'text': 'arms and other tools of heavy industry', 'start': 107.32, 'duration': 3.15}
+{'text': 'instead', 'start': 109.29, 'duration': 3.85}
+{'text': 'exactly for activism instruments his', 'start': 110.47, 'duration': 4.1}
+{'text': 'work utilize assistant', 'start': 113.14, 'duration': 3.8}
+{'text': 'those techniques may diffuse but the DIY', 'start': 114.57, 'duration': 5.46}
+{'text': 'movement 3d printed and micro computing', 'start': 116.94, 'duration': 4.98}
+{'text': "he's part of an emerging generation of", 'start': 120.03, 'duration': 3.39}
+{'text': 'digital fabricators just beginning to', 'start': 121.92, 'duration': 3.21}
+{'text': 'explore the aesthetic and performative', 'start': 123.42, 'duration': 3.69}
+{'text': 'range made possible by low-tech', 'start': 125.13, 'duration': 3.84}
+{'text': 'distributable and perhaps most', 'start': 127.11, 'duration': 4.11}
+{'text': 'importantly more accessible technologies', 'start': 128.97, 'duration': 4.47}
+{'text': 'this past weekend at the wonderful', 'start': 131.22, 'duration': 3.9}
+{'text': 'roaming the machine symposium he', 'start': 133.44, 'duration': 4.44}
+{'text': 'organized with elements as a carpenter', 'start': 135.12, 'duration': 3.87}
+{'text': 'brief introduction to digital', 'start': 137.88, 'duration': 4.02}
+{'text': 'fabrication in architecture he began', 'start': 138.99, 'duration': 5.91}
+{'text': 'with Bill masters project ps1 a project', 'start': 141.9, 'duration': 5.25}
+{'text': 'whose director had Japan to CNC', 'start': 144.9, 'duration': 4.29}
+{'text': 'production methods paralleled a fraught', 'start': 147.15, 'duration': 3.93}
+{'text': 'conversation on the fate of drawing and', 'start': 149.19, 'duration': 4.23}
+{'text': 'architecture speculations of the term', 'start': 151.08, 'duration': 3.72}
+{'text': 'were abound on how these technologies', 'start': 153.42, 'duration': 2.67}
+{'text': 'might even eleminate the need for', 'start': 154.8, 'duration': 3.78}
+{'text': 'drawing all together in this tension', 'start': 156.09, 'duration': 3.81}
+{'text': 'arose because architecture might', 'start': 158.58, 'duration': 3.96}
+{'text': 'eventually be understood as a libretto a', 'start': 159.9, 'duration': 5.01}
+{'text': 'two-stage part that requires first the', 'start': 162.54, 'duration': 4.85}
+{'text': 'preparation of instructions typically', 'start': 164.91, 'duration': 5.4}
+{'text': 'drawings and second in the performance', 'start': 167.39, 'duration': 5.59}
+{'text': 'or in the act of building traditionally', 'start': 170.31, 'duration': 4.02}
+{'text': 'instructions in architecture about the', 'start': 172.98, 'duration': 2.49}
+{'text': 'description geometry through', 'start': 174.33, 'duration': 2.879}
+{'text': 'orthographic projections of the world', 'start': 175.47, 'duration': 4.32}
+{'text': 'but notably the code or instructions', 'start': 177.209, 'duration': 4.471}
+{'text': 'that prepares in collaboration with his', 'start': 179.79, 'duration': 3.99}
+{'text': 'own machines a more akin to the musical', 'start': 181.68, 'duration': 3.839}
+{'text': 'score in the architectural drawing set', 'start': 183.78, 'duration': 3.989}
+{'text': 'it is the notation where form is', 'start': 185.519, 'duration': 5.071}
+{'text': 'rendered through cadence tempo rhythm as', 'start': 187.769, 'duration': 5.401}
+{'text': 'material deposits use time and speed and', 'start': 190.59, 'duration': 5.25}
+{'text': 'the all-important pause to render new', 'start': 193.17, 'duration': 5.19}
+{'text': 'material possibilities in this way as', 'start': 195.84, 'duration': 3.959}
+{'text': 'experts might be better understood as', 'start': 198.36, 'duration': 3.469}
+{'text': 'the description time rather than a', 'start': 199.799, 'duration': 7.621}
+{'text': 'descriptive project of geometry Zacks', 'start': 201.829, 'duration': 7.151}
+{'text': 'work also engages the feedback loops', 'start': 207.42, 'duration': 3.42}
+{'text': 'between architects and their tools his', 'start': 208.98, 'duration': 4.02}
+{'text': "work isn't on improvisation acknowledges", 'start': 210.84, 'duration': 4.29}
+{'text': 'the aleatory nature of materials our', 'start': 213.0, 'duration': 3.9}
+{'text': 'environment and importantly designers', 'start': 215.13, 'duration': 3.87}
+{'text': "themselves and this is where it's at", 'start': 216.9, 'duration': 3.839}
+{'text': 'spark resistance potential any questions', 'start': 219.0, 'duration': 4.019}
+{'text': 'for digital fabrication particularly at', 'start': 220.739, 'duration': 4.801}
+{'text': 'a time when the line between ourselves', 'start': 223.019, 'duration': 4.411}
+{'text': 'and our machines is getting actively', 'start': 225.54, 'duration': 3.509}
+{'text': 'work through new models of collaboration', 'start': 227.43, 'duration': 4.68}
+{'text': 'and as our machines gets smaller more', 'start': 229.049, 'duration': 4.651}
+{'text': 'agile and more personal', 'start': 232.11, 'duration': 3.74}
+{'text': "Zac's project explores the possibilities", 'start': 233.7, 'duration': 48.68}
+{'text': 'between the future that means work in', 'start': 235.85, 'duration': 48.0}
+{'text': 'order to understand them to my own terms', 'start': 282.38, 'duration': 3.72}
+{'text': 'but also speculate on the ways in which', 'start': 283.85, 'duration': 4.86}
+{'text': 'they could work differently what these', 'start': 286.1, 'duration': 4.47}
+{'text': 'ways new ways of working money for', 'start': 288.71, 'duration': 2.58}
+{'text': 'architecture', 'start': 290.57, 'duration': 3.24}
+{'text': 'I imagine theatres the digital', 'start': 291.29, 'duration': 4.08}
+{'text': 'fabrication to be like other theoretical', 'start': 293.81, 'duration': 3.33}
+{'text': 'fields like theoretical physics in', 'start': 295.37, 'duration': 3.69}
+{'text': 'theoretical computer science in which', 'start': 297.14, 'duration': 4.17}
+{'text': 'abstract models of actual phenomena are', 'start': 299.06, 'duration': 3.72}
+{'text': 'used to rationalize and predict what', 'start': 301.31, 'duration': 3.42}
+{'text': 'things that things that might actually', 'start': 302.78, 'duration': 4.59}
+{'text': 'happen just like in the experimental', 'start': 304.73, 'duration': 3.9}
+{'text': 'fields the work that comes out of', 'start': 307.37, 'duration': 3.24}
+{'text': 'theoretical teacher fabrication does it', 'start': 308.63, 'duration': 4.56}
+{'text': "immediately lend itself to utility it's", 'start': 310.61, 'duration': 4.29}
+{'text': 'more about critical reflection in what', 'start': 313.19, 'duration': 3.51}
+{'text': 'ifs and iterally working through', 'start': 314.9, 'duration': 4.59}
+{'text': "concepts it's not I believe unlike the", 'start': 316.7, 'duration': 5.66}
+{'text': 'architectural design process itself I', 'start': 319.49, 'duration': 4.89}
+{'text': "think it's important to acknowledge that", 'start': 322.36, 'duration': 3.43}
+{'text': 'my theorization of how digital', 'start': 324.38, 'duration': 3.18}
+{'text': 'fabrication machines works begins with', 'start': 325.79, 'duration': 4.65}
+{'text': 'examining how I work as a designer and', 'start': 327.56, 'duration': 5.67}
+{'text': 'as a material body I understand that', 'start': 330.44, 'duration': 3.87}
+{'text': 'this could be read like some kind of', 'start': 333.23, 'duration': 3.15}
+{'text': 'egotistical crusade or even a weird form', 'start': 334.31, 'duration': 4.65}
+{'text': 'of sub psychoanalysis let me say now but', 'start': 336.38, 'duration': 4.05}
+{'text': "I don't do this because I think I'm the", 'start': 338.96, 'duration': 2.88}
+{'text': 'best designer or the perfect specimen', 'start': 340.43, 'duration': 3.47}
+{'text': 'but because I believe that each of us', 'start': 341.84, 'duration': 3.78}
+{'text': 'architectural designers think to', 'start': 343.9, 'duration': 3.31}
+{'text': 'cultivate intuition of the ways in which', 'start': 345.62, 'duration': 3.27}
+{'text': 'we work prior to engaging with tools', 'start': 347.21, 'duration': 3.81}
+{'text': 'machines particularly those that have', 'start': 348.89, 'duration': 3.27}
+{'text': 'what I would call frictionless', 'start': 351.02, 'duration': 4.86}
+{'text': 'interfaces I use myself as a subject in', 'start': 352.16, 'duration': 5.13}
+{'text': 'order to demonstrate what such a process', 'start': 355.88, 'duration': 3.66}
+{'text': 'of cultivating intuition and creating', 'start': 357.29, 'duration': 6.27}
+{'text': 'friction might look like I should also', 'start': 359.54, 'duration': 8.72}
+{'text': "say in a similar vein because I'm", 'start': 363.56, 'duration': 6.59}
+{'text': 'nice project there is undeniably', 'start': 368.26, 'duration': 4.16}
+{'text': 'personal stakes in the work that I do I', 'start': 370.15, 'duration': 4.41}
+{'text': 'feel he does that in architecture in', 'start': 372.42, 'duration': 4.06}
+{'text': 'general and digital technologies more', 'start': 374.56, 'duration': 3.45}
+{'text': "specifically we don't tend to omit the", 'start': 376.48, 'duration': 2.82}
+{'text': 'degrees to which there are personal', 'start': 378.01, 'duration': 4.59}
+{'text': "stakes and maybe it's for good cause but", 'start': 379.3, 'duration': 5.01}
+{'text': 'to me the very physicality of making', 'start': 382.6, 'duration': 3.0}
+{'text': 'things makes the act of making', 'start': 384.31, 'duration': 4.29}
+{'text': "inherently personal you can't not make", 'start': 385.6, 'duration': 4.95}
+{'text': 'or id8 things in our own bodies', 'start': 388.6, 'duration': 3.42}
+{'text': 'even though current research into the', 'start': 390.55, 'duration': 3.57}
+{'text': 'fabrication points to a future with just', 'start': 392.02, 'duration': 4.5}
+{'text': 'that happen and so the act of making', 'start': 394.12, 'duration': 4.02}
+{'text': 'ineffability reflects our individual', 'start': 396.52, 'duration': 3.78}
+{'text': 'embodiments and perceptions I think this', 'start': 398.14, 'duration': 4.64}
+{'text': 'is an inevitability that we should all I', 'start': 400.3, 'duration': 4.86}
+{'text': 'also think on a related note that', 'start': 402.78, 'duration': 4.21}
+{'text': 'digital technology in general is already', 'start': 405.16, 'duration': 3.84}
+{'text': 'extremely personal we willing to', 'start': 406.99, 'duration': 3.21}
+{'text': 'document our thoughts and share', 'start': 409.0, 'duration': 2.97}
+{'text': 'important moments via social media and', 'start': 410.2, 'duration': 3.45}
+{'text': 'unwillingly share information about', 'start': 411.97, 'duration': 3.0}
+{'text': 'ourselves through Google searches', 'start': 413.65, 'duration': 3.36}
+{'text': 'Facebook feeds Amazon purchases and so', 'start': 414.97, 'duration': 4.62}
+{'text': "on so there's already a kind of bio", 'start': 417.01, 'duration': 4.2}
+{'text': 'politics at play at digital school in', 'start': 419.59, 'duration': 3.3}
+{'text': "today's digital culture and I think", 'start': 421.21, 'duration': 3.39}
+{'text': 'architects need to engage in Spile', 'start': 422.89, 'duration': 3.24}
+{'text': 'politics by getting physical with our', 'start': 424.6, 'duration': 5.43}
+{'text': 'digital things that said much of this', 'start': 426.13, 'duration': 5.82}
+{'text': 'top will be autobiographical or even', 'start': 430.03, 'duration': 4.23}
+{'text': 'memoir like I hope that while the work', 'start': 431.95, 'duration': 4.88}
+{'text': 'is personal the takeaways were relatable', 'start': 434.26, 'duration': 4.89}
+{'text': "so tonight I'm going to show the feed", 'start': 436.83, 'duration': 4.18}
+{'text': 'ongoing research projects each and two', 'start': 439.15, 'duration': 3.51}
+{'text': 'parts in each at varying levels of', 'start': 441.01, 'duration': 3.99}
+{'text': 'development none of these projects are', 'start': 442.66, 'duration': 3.96}
+{'text': 'what we might call complete words or', 'start': 445.0, 'duration': 3.63}
+{'text': "rather processes and I'm very much in", 'start': 446.62, 'duration': 5.16}
+{'text': 'the process of working through the first', 'start': 448.63, 'duration': 4.53}
+{'text': 'part of each project involves you making', 'start': 451.78, 'duration': 3.45}
+{'text': 'something usually something absurd or', 'start': 453.16, 'duration': 3.78}
+{'text': 'the very least not immediately or', 'start': 455.23, 'duration': 3.32}
+{'text': 'identified the architectural', 'start': 456.94, 'duration': 4.08}
+{'text': 'the second part of each project involves', 'start': 458.55, 'duration': 3.73}
+{'text': 'me using the learnings from this thing', 'start': 461.02, 'duration': 3.24}
+{'text': 'that I made or did to theorize and', 'start': 462.28, 'duration': 6.3}
+{'text': 'reconfigure digital fabrication because', 'start': 464.26, 'duration': 5.7}
+{'text': 'I think it might be helpful and because', 'start': 468.58, 'duration': 3.09}
+{'text': 'as you later find out I like to delay', 'start': 469.96, 'duration': 2.25}
+{'text': 'things', 'start': 471.67, 'duration': 3.18}
+{'text': 'let me prolong this prologue with a', 'start': 472.21, 'duration': 5.0}
+{'text': 'couple quick introduction definitions', 'start': 474.85, 'duration': 4.71}
+{'text': 'the first is my own and the one that', 'start': 477.21, 'duration': 4.48}
+{'text': "I've already mentioned i define", 'start': 479.56, 'duration': 3.87}
+{'text': 'theoretical with digital fabrication as', 'start': 481.69, 'duration': 3.48}
+{'text': 'the practice of prototyping fear of the', 'start': 483.43, 'duration': 3.33}
+{'text': 'models of how digital fabrication', 'start': 485.17, 'duration': 3.84}
+{'text': 'machines work in order to speculate on', 'start': 486.76, 'duration': 4.29}
+{'text': 'digital aesthetics robotic construction', 'start': 489.01, 'duration': 3.589}
+{'text': 'method', 'start': 491.05, 'duration': 4.559}
+{'text': 'and second definition I like the', 'start': 492.599, 'duration': 4.24}
+{'text': "sheriff's from an early 20th century", 'start': 495.609, 'duration': 3.06}
+{'text': 'continental philosophy of boundary', 'start': 496.839, 'duration': 3.69}
+{'text': 'Bergson whose thinking has been very', 'start': 498.669, 'duration': 6.15}
+{'text': 'influential Brixton defines intuition as', 'start': 500.529, 'duration': 6.12}
+{'text': 'the sympathy vote one is transported', 'start': 504.819, 'duration': 3.9}
+{'text': 'into the interior object in order to', 'start': 506.649, 'duration': 3.81}
+{'text': 'coincide I thought there is unique and', 'start': 508.719, 'duration': 5.28}
+{'text': "consequently inexpressible I won't go", 'start': 510.459, 'duration': 4.83}
+{'text': 'into what I think this means just yet', 'start': 513.999, 'duration': 2.76}
+{'text': 'but instead will using this kind of', 'start': 515.289, 'duration': 3.48}
+{'text': 'philosophical backdrop since I think it', 'start': 516.759, 'duration': 3.9}
+{'text': 'resonates at my approach design and', 'start': 518.769, 'duration': 3.9}
+{'text': "research and I'll circle back to it at", 'start': 520.659, 'duration': 5.6}
+{'text': 'the end and try to show my I think that', 'start': 522.669, 'duration': 6.59}
+{'text': 'so this talk is called Vikki machines', 'start': 526.259, 'duration': 5.68}
+{'text': 'but since I like subtitles and more', 'start': 529.259, 'duration': 5.95}
+{'text': 'delays you can also call out how to', 'start': 531.939, 'duration': 10.02}
+{'text': 'build sympathy with the builders so', 'start': 535.209, 'duration': 8.73}
+{'text': 'during my undergraduate at Penn State I', 'start': 541.959, 'duration': 3.451}
+{'text': 'was investigating how architecture could', 'start': 543.939, 'duration': 4.111}
+{'text': 'be in form or in service of nonviolent', 'start': 545.41, 'duration': 5.52}
+{'text': 'resistance specifically nonviolent', 'start': 548.05, 'duration': 4.17}
+{'text': 'resistance to the Performing Arts and', 'start': 550.93, 'duration': 3.12}
+{'text': 'specifically Palestinian nonviolent', 'start': 552.22, 'duration': 3.239}
+{'text': 'resistance to the Performing Arts but', 'start': 554.05, 'duration': 3.599}
+{'text': "that's another project for another time", 'start': 555.459, 'duration': 4.261}
+{'text': 'what I want to talk about today is that', 'start': 557.649, 'duration': 3.841}
+{'text': 'part of this work was conceptualized on', 'start': 559.72, 'duration': 3.299}
+{'text': 'how architecture could be nonviolent', 'start': 561.49, 'duration': 4.11}
+{'text': 'resistance and I would do that through', 'start': 563.019, 'duration': 5.25}
+{'text': 'these experiments part which I saw on', 'start': 565.6, 'duration': 5.549}
+{'text': "screen I'll show again I'm in my studio", 'start': 568.269, 'duration': 5.341}
+{'text': 'at the time which I would breathe into a', 'start': 571.149, 'duration': 5.42}
+{'text': 'paper bag for hours and hours matters', 'start': 573.61, 'duration': 5.07}
+{'text': 'and then at the same time I would', 'start': 576.569, 'duration': 3.851}
+{'text': 'simultaneously projected the video of', 'start': 578.68, 'duration': 3.509}
+{'text': 'the surface of the bag onto an adjacent', 'start': 580.42, 'duration': 4.68}
+{'text': 'wall the wall eterna performs like it', 'start': 582.189, 'duration': 3.421}
+{'text': 'was breathing', 'start': 585.1, 'duration': 2.7}
+{'text': 'pushing out or we could even say non', 'start': 585.61, 'duration': 5.37}
+{'text': 'violently resisting at surroundings so', 'start': 587.8, 'duration': 13.769}
+{'text': 'here I enjoy the beginning great timing', 'start': 590.98, 'duration': 13.969}
+{'text': 'you should all appreciate where you are', 'start': 601.569, 'duration': 3.38}
+{'text': 'after having an initial met on my desk', 'start': 605.49, 'duration': 3.789}
+{'text': 'for several days I realize I had', 'start': 607.839, 'duration': 2.701}
+{'text': 'actually held my breath for a really', 'start': 609.279, 'duration': 4.11}
+{'text': "long time so I'm honestly not sure how", 'start': 610.54, 'duration': 4.68}
+{'text': 'but I came up the idea of sending bags', 'start': 613.389, 'duration': 4.341}
+{'text': 'of my breath', 'start': 615.22, 'duration': 2.51}
+{'text': "and in case they didn't know and I", 'start': 618.43, 'duration': 4.02}
+{'text': 'imagined them many of them had no idea', 'start': 620.35, 'duration': 4.26}
+{'text': 'what was going on I rolled on the bags', 'start': 622.45, 'duration': 5.22}
+{'text': 'this is my breath and it the boxes with', 'start': 624.61, 'duration': 5.13}
+{'text': 'the bags of breath or what I call pops I', 'start': 627.67, 'duration': 4.2}
+{'text': 'place it hard I would take them to a', 'start': 629.74, 'duration': 5.49}
+{'text': 'website where they find instructions for', 'start': 631.87, 'duration': 6.27}
+{'text': 'holding your breath procure a brown', 'start': 635.23, 'duration': 5.18}
+{'text': 'paper bag a drinking straw and some tea', 'start': 638.14, 'duration': 5.91}
+{'text': 'take the paper bag shut make a small', 'start': 640.41, 'duration': 5.89}
+{'text': 'incision in the paper bag stick the', 'start': 644.05, 'duration': 4.83}
+{'text': 'drinking straw inside breathe through', 'start': 646.3, 'duration': 5.1}
+{'text': 'the straw into the paper bag breathe in', 'start': 648.88, 'duration': 4.44}
+{'text': 'and out as many times as necessary to', 'start': 651.4, 'duration': 4.16}
+{'text': 'ensure that the best breath is inside', 'start': 653.32, 'duration': 5.31}
+{'text': 'fill the bag with your breath leave the', 'start': 655.56, 'duration': 5.89}
+{'text': 'straw inside send it back to someone you', 'start': 658.63, 'duration': 5.04}
+{'text': 'want to hold your breath and I said', 'start': 661.45, 'duration': 4.56}
+{'text': 'dozens of bags to different people over', 'start': 663.67, 'duration': 5.24}
+{'text': 'the course of several years', 'start': 666.01, 'duration': 2.9}
+{'text': 'some people would send me photos of the', 'start': 669.54, 'duration': 4.72}
+{'text': 'bags once they had them and some people', 'start': 672.4, 'duration': 3.53}
+{'text': 'told me that they just threw them out', 'start': 674.26, 'duration': 3.98}
+{'text': 'and others would inhale it and then', 'start': 675.93, 'duration': 4.63}
+{'text': 'throw it out which was interesting and', 'start': 678.24, 'duration': 4.12}
+{'text': 'then others within kala and then fill it', 'start': 680.56, 'duration': 3.09}
+{'text': 'with their own breath and then send that', 'start': 682.36, 'duration': 2.85}
+{'text': 'back to someone else that record this', 'start': 683.65, 'duration': 3.33}
+{'text': 'way and some people would even create', 'start': 685.21, 'duration': 5.16}
+{'text': 'their own and others would simply keep', 'start': 686.98, 'duration': 5.01}
+{'text': 'those mental pieces for as long as the', 'start': 690.37, 'duration': 7.41}
+{'text': 'referent lasts so at the same time that', 'start': 691.99, 'duration': 6.87}
+{'text': 'I was doing my research on the', 'start': 697.78, 'duration': 2.64}
+{'text': 'architecture is not about resistance in', 'start': 698.86, 'duration': 3.39}
+{'text': "my box I'm just learning how to use", 'start': 700.42, 'duration': 6.12}
+{'text': 'erotic art and when you learn how to use', 'start': 702.25, 'duration': 5.79}
+{'text': 'an industrial robotic are among the', 'start': 706.54, 'duration': 2.76}
+{'text': 'first things that you learned how they', 'start': 708.04, 'duration': 4.05}
+{'text': 'hold off tools and they do this in part', 'start': 709.3, 'duration': 4.71}
+{'text': 'by having a continuous internal air flow', 'start': 712.09, 'duration': 3.81}
+{'text': 'that enables them to basically pick up', 'start': 714.01, 'duration': 4.38}
+{'text': 'things through suction but they think', 'start': 715.9, 'duration': 4.08}
+{'text': "they don't teach you about robotic arms", 'start': 718.39, 'duration': 3.72}
+{'text': 'is what to use them for it so I like to', 'start': 719.98, 'duration': 4.02}
+{'text': 'call them nothing machines because', 'start': 722.11, 'duration': 3.24}
+{'text': "they're designed purposefully did do", 'start': 724.0, 'duration': 3.33}
+{'text': 'nothing anything that we instruct them', 'start': 725.35, 'duration': 4.2}
+{'text': 'to do so in other words they can perform', 'start': 727.33, 'duration': 6.18}
+{'text': 'any task that we can imagine so like', 'start': 729.55, 'duration': 6.15}
+{'text': 'anyone else I had to imagine my own use', 'start': 733.51, 'duration': 3.84}
+{'text': 'robotic arm and since one of the things', 'start': 735.7, 'duration': 3.99}
+{'text': 'I knew about it was that it had this', 'start': 737.35, 'duration': 3.78}
+{'text': 'regional airflow in order to pull arms', 'start': 739.69, 'duration': 4.35}
+{'text': 'of tools I thought to myself what if I', 'start': 741.13, 'duration': 5.27}
+{'text': 'imagine that the world', 'start': 744.04, 'duration': 5.61}
+{'text': 'and then I thought what if I get the', 'start': 746.4, 'duration': 6.22}
+{'text': 'robot believe me and to me these are two', 'start': 749.65, 'duration': 5.04}
+{'text': 'different but related theoretical models', 'start': 752.62, 'duration': 72.66}
+{'text': 'of digital fabrication so in this', 'start': 754.69, 'duration': 72.9}
+{'text': 'initial experimentation I program really', 'start': 825.28, 'duration': 4.29}
+{'text': "basic tool cuts because it wasn't so", 'start': 827.59, 'duration': 4.2}
+{'text': 'much about geometries or tuned in a kind', 'start': 829.57, 'duration': 4.89}
+{'text': 'of particular form as is also in cases', 'start': 831.79, 'duration': 5.28}
+{'text': 'interpretation I really just wanted to', 'start': 834.46, 'duration': 4.02}
+{'text': 'understand the relationship between the', 'start': 837.07, 'duration': 3.27}
+{'text': 'concrete and the robot and their', 'start': 838.48, 'duration': 3.78}
+{'text': 'distinct temporal processes one being', 'start': 840.34, 'duration': 3.99}
+{'text': 'finite and the other being potentially', 'start': 842.26, 'duration': 5.85}
+{'text': 'endless and one thing I found', 'start': 844.33, 'duration': 5.19}
+{'text': 'interesting is that the materiality of', 'start': 848.11, 'duration': 2.97}
+{'text': 'these panels expresses this kind of', 'start': 849.52, 'duration': 3.21}
+{'text': 'violent tension between these distinct', 'start': 851.08, 'duration': 3.45}
+{'text': 'temporalities the robot relentlessly', 'start': 852.73, 'duration': 3.05}
+{'text': 'breathing on the concrete the concrete', 'start': 854.53, 'duration': 4.17}
+{'text': 'continually trying to form itself what', 'start': 855.78, 'duration': 4.39}
+{'text': 'you end up with is this piece of popular', 'start': 858.7, 'duration': 3.33}
+{'text': 'looks like in heaven - cutting into it', 'start': 860.17, 'duration': 4.169}
+{'text': 'or like it was strategically and', 'start': 862.03, 'duration': 6.18}
+{'text': 'precisely or a little bit or if you', 'start': 864.339, 'duration': 5.791}
+{'text': 'reduce the air pressure you can then', 'start': 868.21, 'duration': 3.54}
+{'text': 'actually create more subtle surface', 'start': 870.13, 'duration': 3.93}
+{'text': "textures so you're the panel looks like", 'start': 871.75, 'duration': 6.62}
+{'text': 'a frozen frozen concrete', 'start': 874.06, 'duration': 4.31}
+{'text': "what I've had to be most interesting is", 'start': 879.32, 'duration': 3.97}
+{'text': 'that you can use this technique which I', 'start': 881.94, 'duration': 4.26}
+{'text': 'call robotic exhalation to form channels', 'start': 883.29, 'duration': 4.74}
+{'text': 'and apertures into concrete panels which', 'start': 886.2, 'duration': 2.79}
+{'text': "otherwise it's not such a", 'start': 888.03, 'duration': 2.1}
+{'text': 'straightforward thing to do', 'start': 888.99, 'duration': 3.18}
+{'text': 'so this finding may be interested in', 'start': 890.13, 'duration': 3.75}
+{'text': 'this idea that you can embed the', 'start': 892.17, 'duration': 3.45}
+{'text': 'performance of making a thing into the', 'start': 893.88, 'duration': 5.01}
+{'text': 'performance of the thing itself here for', 'start': 895.62, 'duration': 5.04}
+{'text': 'example air is used to create Airy', 'start': 898.89, 'duration': 3.6}
+{'text': 'concrete panels in the end we could say', 'start': 900.66, 'duration': 3.33}
+{'text': 'that the concrete itself is also', 'start': 902.49, 'duration': 5.34}
+{'text': 'breathing so this research is really', 'start': 903.99, 'duration': 5.46}
+{'text': "fluid entering the house they haven't", 'start': 907.83, 'duration': 4.5}
+{'text': 'really done anything since 2011 when I', 'start': 909.45, 'duration': 5.85}
+{'text': 'first learned about robotic arms I like', 'start': 912.33, 'duration': 4.44}
+{'text': 'to revisit sometime in the future', 'start': 915.3, 'duration': 4.68}
+{'text': 'I share it now mainly because for me it', 'start': 916.77, 'duration': 5.07}
+{'text': 'exemplifies the practice that I called', 'start': 919.98, 'duration': 4.71}
+{'text': 'theoretical physics application taking', 'start': 921.84, 'duration': 4.44}
+{'text': 'abstract ideas of how I work in this', 'start': 924.69, 'duration': 3.99}
+{'text': 'case as a physical body and using them', 'start': 926.28, 'duration': 3.93}
+{'text': 'to rethink the ways in which I work with', 'start': 928.68, 'duration': 3.14}
+{'text': 'machines and then importantly', 'start': 930.21, 'duration': 4.05}
+{'text': 'speculating on the creative implications', 'start': 931.82, 'duration': 8.35}
+{'text': 'of this process of reframe so I wrote on', 'start': 934.26, 'duration': 8.99}
+{'text': 'hundreds of $1 bills for several years', 'start': 940.17, 'duration': 5.46}
+{'text': 'almost every day at some point on the', 'start': 943.25, 'duration': 3.55}
+{'text': 'break down the first thing that came to', 'start': 945.63, 'duration': 3.06}
+{'text': 'my mind on the dollar bill is whenever', 'start': 946.8, 'duration': 3.9}
+{'text': 'my first impulse was I would put it down', 'start': 948.69, 'duration': 4.23}
+{'text': 'and I would spend that dollar bill and', 'start': 950.7, 'duration': 4.53}
+{'text': 'secretly to myself I call the project', 'start': 952.92, 'duration': 6.0}
+{'text': 'banknotes and I really thought about it', 'start': 955.23, 'duration': 5.34}
+{'text': "for a long time in part because I wasn't", 'start': 958.92, 'duration': 5.43}
+{'text': 'totally sure it was legal but I took a', 'start': 960.57, 'duration': 6.18}
+{'text': 'photo of each Bank LaVon just in case', 'start': 964.35, 'duration': 5.16}
+{'text': 'anyone any one of them came back to me I', 'start': 966.75, 'duration': 4.37}
+{'text': 'have proof for better or worse and', 'start': 969.51, 'duration': 3.72}
+{'text': "they're really worth hundred so tonight", 'start': 971.12, 'duration': 5.8}
+{'text': 'I will show you a few of them and it was', 'start': 973.23, 'duration': 5.82}
+{'text': 'part socio-economic experiment I wanted', 'start': 976.92, 'duration': 3.48}
+{'text': 'to see how long it takes a while my', 'start': 979.05, 'duration': 3.69}
+{'text': 'banknotes come back to me in part that I', 'start': 980.4, 'duration': 3.66}
+{'text': 'was working in an office and I was', 'start': 982.74, 'duration': 4.44}
+{'text': 'feeling Restless and not like I was not', 'start': 984.06, 'duration': 4.74}
+{'text': 'creating anything as many of you might', 'start': 987.18, 'duration': 3.15}
+{'text': 'have felt working in an office or my', 'start': 988.8, 'duration': 4.14}
+{'text': "field later I'm working office so the", 'start': 990.33, 'duration': 3.96}
+{'text': 'bank notes were my way of constantly', 'start': 992.94, 'duration': 4.94}
+{'text': 'putting something of value of the world', 'start': 994.29, 'duration': 3.59}
+{'text': 'ok abrupt change fast forward a few', 'start': 997.94, 'duration': 3.85}
+{'text': "years I'm learning how to write software", 'start': 1000.17, 'duration': 3.36}
+{'text': 'for 3d printers as part of my graduate', 'start': 1001.79, 'duration': 4.32}
+{'text': 'thesis work and as some of you may know', 'start': 1003.53, 'duration': 4.06}
+{'text': 'and all my students definitely', 'start': 1006.11, 'duration': 3.41}
+{'text': '3d printers use a very specific', 'start': 1007.59, 'duration': 4.12}
+{'text': 'programming language called G code which', 'start': 1009.52, 'duration': 3.6}
+{'text': 'gives the printer instructions from how', 'start': 1011.71, 'duration': 4.74}
+{'text': 'to make them so this says for example go', 'start': 1013.12, 'duration': 5.37}
+{'text': 'to X thirty six point three seven six', 'start': 1016.45, 'duration': 4.05}
+{'text': 'five thirteen point three six six and', 'start': 1018.49, 'duration': 4.14}
+{'text': 'put this amount of material and go here', 'start': 1020.5, 'duration': 3.96}
+{'text': 'and put this amount of material and so', 'start': 1022.63, 'duration': 4.89}
+{'text': 'on so on and so on so we can tell just', 'start': 1024.46, 'duration': 4.62}
+{'text': 'by looking at their cheat code is a', 'start': 1027.52, 'duration': 7.5}
+{'text': 'series of repetitive instructions and as', 'start': 1029.08, 'duration': 7.95}
+{'text': 'many of you also might know the 3d', 'start': 1035.02, 'duration': 4.2}
+{'text': 'printer continually repeats these series', 'start': 1037.03, 'duration': 4.08}
+{'text': 'that are almost identical in order to', 'start': 1039.22, 'duration': 4.13}
+{'text': 'just slowly build up 3d printed things', 'start': 1041.11, 'duration': 4.77}
+{'text': 'so I like to think of the 3d printer as', 'start': 1043.35, 'duration': 7.18}
+{'text': 'as basically a repetition okay back to', 'start': 1045.88, 'duration': 7.62}
+{'text': "the bank that's yeah as I was beginning", 'start': 1050.53, 'duration': 4.44}
+{'text': 'to conceptualize in the thesis work in', 'start': 1053.5, 'duration': 3.06}
+{'text': 'digital fabrication I reflected on the', 'start': 1054.97, 'duration': 3.15}
+{'text': 'banknotes and my own repetition of', 'start': 1056.56, 'duration': 4.65}
+{'text': 'writing one almost every day for several', 'start': 1058.12, 'duration': 7.26}
+{'text': 'years and as part of this reflection and', 'start': 1061.21, 'duration': 6.15}
+{'text': 'extracting what the banknotes really', 'start': 1065.38, 'duration': 3.48}
+{'text': 'meant to me as a digital fabricator and', 'start': 1067.36, 'duration': 2.52}
+{'text': 'a digital circuit', 'start': 1068.86, 'duration': 3.03}
+{'text': 'I literally extracted each message and', 'start': 1069.88, 'duration': 3.48}
+{'text': 'eats a serial number from each novel', 'start': 1071.89, 'duration': 4.08}
+{'text': "that I wrote it's also made me", 'start': 1073.36, 'duration': 3.62}
+{'text': 'interesting to point out that I', 'start': 1075.97, 'duration': 3.39}
+{'text': 'automated in this process with the', 'start': 1076.98, 'duration': 4.36}
+{'text': 'script because it just so happened that', 'start': 1079.36, 'duration': 3.54}
+{'text': 'I wrote a blue shark boot which is', 'start': 1081.34, 'duration': 10.95}
+{'text': 'really easy to pick up and if the', 'start': 1082.9, 'duration': 10.8}
+{'text': 'messages were not served before they', 'start': 1092.29, 'duration': 3.27}
+{'text': 'took on even greater absurdity but also', 'start': 1093.7, 'duration': 5.58}
+{'text': 'I would say a greater meaning now so', 'start': 1095.56, 'duration': 4.83}
+{'text': 'this one says the hands are not the', 'start': 1099.28, 'duration': 2.88}
+{'text': 'problem when the feet to be moved in', 'start': 1100.39, 'duration': 4.74}
+{'text': 'most directions and I thought I never', 'start': 1102.16, 'duration': 5.57}
+{'text': 'been talked about before', 'start': 1105.13, 'duration': 4.77}
+{'text': 'headgear is just another word for', 'start': 1107.73, 'duration': 5.47}
+{'text': "pronunciation master something else'", 'start': 1109.9, 'duration': 6.75}
+{'text': 'postman pushing the pencil just ahead of', 'start': 1113.2, 'duration': 5.03}
+{'text': "Nova Tori's", 'start': 1116.65, 'duration': 4.58}
+{'text': 'step right up and see monsters that go', 'start': 1118.23, 'duration': 6.5}
+{'text': 'to start with it wrong', 'start': 1121.23, 'duration': 6.2}
+{'text': 'and I can have these back nuts into a', 'start': 1124.73, 'duration': 7.7}
+{'text': 'book also caught something female and', 'start': 1127.43, 'duration': 8.13}
+{'text': 'this whole process of unpacking a', 'start': 1132.43, 'duration': 4.48}
+{'text': "strange project that I've been doing for", 'start': 1135.56, 'duration': 2.88}
+{'text': 'several years how we can see that what I', 'start': 1136.91, 'duration': 3.57}
+{'text': 'was really doing with my banknotes was', 'start': 1138.44, 'duration': 3.66}
+{'text': 'pairing the serial nature of the dollar', 'start': 1140.48, 'duration': 3.72}
+{'text': 'bill with my own serial nature in order', 'start': 1142.1, 'duration': 3.66}
+{'text': 'to give the dollar bill which is a thing', 'start': 1144.2, 'duration': 3.3}
+{'text': 'born from mechanical reproduction a', 'start': 1145.76, 'duration': 4.14}
+{'text': 'different kind of mechanical value I', 'start': 1147.5, 'duration': 5.79}
+{'text': 'would say value that reflected my own', 'start': 1149.9, 'duration': 7.77}
+{'text': 'mechanics so while I was learning', 'start': 1153.29, 'duration': 5.52}
+{'text': 'directly through your picture I asked', 'start': 1157.67, 'duration': 2.79}
+{'text': "myself what it's like I did with the", 'start': 1158.81, 'duration': 3.9}
+{'text': 'dollar bills I paired the 3d printer', 'start': 1160.46, 'duration': 7.35}
+{'text': 'serial nature of mine and in response to', 'start': 1162.71, 'duration': 6.93}
+{'text': 'that Thera throw question I envisioned a', 'start': 1167.81, 'duration': 3.15}
+{'text': '3d printing software in which the', 'start': 1169.64, 'duration': 3.68}
+{'text': 'designer tells each line on a 3d printer', 'start': 1170.96, 'duration': 4.86}
+{'text': "so I'll be honest at first I had no idea", 'start': 1173.32, 'duration': 5.11}
+{'text': "that would do this and I didn't know", 'start': 1175.82, 'duration': 3.81}
+{'text': 'anything about programming or', 'start': 1178.43, 'duration': 3.0}
+{'text': 'electronics so I just started piecing', 'start': 1179.63, 'duration': 4.5}
+{'text': 'things together with what technical', 'start': 1181.43, 'duration': 4.53}
+{'text': 'knowledge I did have so my first', 'start': 1184.13, 'duration': 4.02}
+{'text': 'iteration which is here I drew a circle', 'start': 1185.96, 'duration': 6.06}
+{'text': 'or something close to a circle and trace', 'start': 1188.15, 'duration': 5.73}
+{'text': 'the circle of multiple times and scanned', 'start': 1192.02, 'duration': 4.65}
+{'text': 'it span those faces into a computer Rob', 'start': 1193.88, 'duration': 4.62}
+{'text': 'those traces into Rhino turn the image', 'start': 1196.67, 'duration': 4.65}
+{'text': 'into images into lines snap the lines', 'start': 1198.5, 'duration': 5.19}
+{'text': 'vertically extruded them and then 3d', 'start': 1201.32, 'duration': 3.69}
+{'text': 'printed resulting form so it was a', 'start': 1203.69, 'duration': 3.65}
+{'text': 'pretty comfy process', 'start': 1205.01, 'duration': 4.65}
+{'text': 'the second iteration was a little bit', 'start': 1207.34, 'duration': 3.79}
+{'text': 'elaborate and a little more refined a', 'start': 1209.66, 'duration': 2.97}
+{'text': 'real visual analysis script', 'start': 1211.13, 'duration': 2.79}
+{'text': 'that could be when we determine any', 'start': 1212.63, 'duration': 3.48}
+{'text': "photo it's a decode and I made a paper", 'start': 1213.92, 'duration': 4.08}
+{'text': 'halting attachment for my laptop which', 'start': 1216.11, 'duration': 5.73}
+{'text': 'is this little wooden frame a perfectly', 'start': 1218.0, 'duration': 6.27}
+{'text': "line with its built-in camera so I'm", 'start': 1221.84, 'duration': 4.14}
+{'text': 'hanging each sheet of trace paper on the', 'start': 1224.27, 'duration': 2.49}
+{'text': 'paper holder', 'start': 1225.98, 'duration': 2.94}
+{'text': 'take a photo of it turn into decode and', 'start': 1226.76, 'duration': 4.23}
+{'text': 'then compile ohnkoji code into a single', 'start': 1228.92, 'duration': 7.2}
+{'text': 'text file and finally I consolidated', 'start': 1230.99, 'duration': 6.6}
+{'text': 'span and compiling a virtual', 'start': 1236.12, 'duration': 3.54}
+{'text': 'communication into one piece of software', 'start': 1237.59, 'duration': 4.95}
+{'text': 'I also programmed an interface to go', 'start': 1239.66, 'duration': 4.92}
+{'text': "with it which I'll show in a moment so", 'start': 1242.54, 'duration': 4.47}
+{'text': 'in this word code the designer draws and', 'start': 1244.58, 'duration': 4.47}
+{'text': 'traces each line of the 3d print on a', 'start': 1247.01, 'duration': 3.66}
+{'text': 'sheet of trace which is overlaid on top', 'start': 1249.05, 'duration': 3.84}
+{'text': 'of the graphics tablet as soon as the', 'start': 1250.67, 'duration': 3.749}
+{'text': 'designer picks up their pen', 'start': 1252.89, 'duration': 2.94}
+{'text': 'where it sends the trace to the 3d', 'start': 1254.419, 'duration': 3.63}
+{'text': 'printer which then prints it moves up a', 'start': 1255.83, 'duration': 4.01}
+{'text': 'letter and waits for the next race', 'start': 1258.049, 'duration': 4.771}
+{'text': "there's also a retrace button what I", 'start': 1259.84, 'duration': 4.539}
+{'text': 'call a retracement which you can kind of', 'start': 1262.82, 'duration': 3.75}
+{'text': 'see here which enables the designer to', 'start': 1264.379, 'duration': 3.93}
+{'text': 'automatically repeat any trace without', 'start': 1266.57, 'duration': 3.719}
+{'text': 'having to physically trace it again', 'start': 1268.309, 'duration': 4.2}
+{'text': 'so the retrace button enables is not', 'start': 1270.289, 'duration': 3.661}
+{'text': 'essentially to add moments a smooth', 'start': 1272.509, 'duration': 3.091}
+{'text': 'listen to this otherwise pretty sketchy', 'start': 1273.95, 'duration': 5.789}
+{'text': 'thing I also built in a function that', 'start': 1275.6, 'duration': 5.759}
+{'text': 'makes the amount of extrusion relative', 'start': 1279.739, 'duration': 3.091}
+{'text': 'to how hard the designer presses on the', 'start': 1281.359, 'duration': 3.9}
+{'text': "tablet when they're tracing so the", 'start': 1282.83, 'duration': 4.14}
+{'text': 'harder you press the more plastic that', 'start': 1285.259, 'duration': 3.6}
+{'text': 'comes out and the idea was that it would', 'start': 1286.97, 'duration': 3.48}
+{'text': 'make extrusion and control haptic and', 'start': 1288.859, 'duration': 7.68}
+{'text': "that's hopefully more intuitive so", 'start': 1290.45, 'duration': 7.859}
+{'text': "here's what the interface normally looks", 'start': 1296.539, 'duration': 3.441}
+{'text': "like it's basic information like", 'start': 1298.309, 'duration': 5.881}
+{'text': 'pressure and the number of traces after', 'start': 1299.98, 'duration': 7.299}
+{'text': 'each trace the trace line disappears and', 'start': 1304.19, 'duration': 5.189}
+{'text': 'then reappears as a file on what I call', 'start': 1307.279, 'duration': 5.46}
+{'text': 'the trace Bank there on the Left where', 'start': 1309.379, 'duration': 5.311}
+{'text': 'it can be selected and then retraced', 'start': 1312.739, 'duration': 6.63}
+{'text': 'automatically and so why do I pop this', 'start': 1314.69, 'duration': 5.969}
+{'text': 'is that came out of this experimentation', 'start': 1319.369, 'duration': 2.971}
+{'text': "was that it's actually impossible for us", 'start': 1320.659, 'duration': 4.801}
+{'text': 'to trace our own lines precisely the 3d', 'start': 1322.34, 'duration': 4.89}
+{'text': 'printer on the other hand can reproduce', 'start': 1325.46, 'duration': 3.809}
+{'text': 'everything a perfect race perfectly so', 'start': 1327.23, 'duration': 3.75}
+{'text': 'if in act minute it actually tends to', 'start': 1329.269, 'duration': 4.98}
+{'text': 'amplify imperfections by compounding so', 'start': 1330.98, 'duration': 5.069}
+{'text': 'I would say that is the precise', 'start': 1334.249, 'duration': 3.601}
+{'text': 'reproducibility of the 3d printer and', 'start': 1336.049, 'duration': 3.84}
+{'text': 'precise repetition of the designer puts', 'start': 1337.85, 'duration': 3.689}
+{'text': 'forth a materiality that neither of the', 'start': 1339.889, 'duration': 3.301}
+{'text': 'design and the weather machine could on', 'start': 1341.539, 'duration': 6.301}
+{'text': 'the road I also find interesting was', 'start': 1343.19, 'duration': 5.88}
+{'text': 'that the software enables you to', 'start': 1347.84, 'duration': 2.579}
+{'text': 'improvise forms', 'start': 1349.07, 'duration': 4.319}
+{'text': 'line my language face to face so things', 'start': 1350.419, 'duration': 4.14}
+{'text': 'that actually might be quite difficult', 'start': 1353.389, 'duration': 3.811}
+{'text': 'to model on a 3d printer if you think', 'start': 1354.559, 'duration': 4.771}
+{'text': 'about trying to prepare a digital file', 'start': 1357.2, 'duration': 5.909}
+{'text': "for a 3d printer that's watertight of", 'start': 1359.33, 'duration': 5.669}
+{'text': "this form it's actually not be such an", 'start': 1363.109, 'duration': 3.51}
+{'text': 'easy thing to do but here you can', 'start': 1364.999, 'duration': 4.38}
+{'text': 'actually build up that file without', 'start': 1366.619, 'duration': 4.89}
+{'text': 'having to model anything just trace by', 'start': 1369.379, 'duration': 4.62}
+{'text': "Trace and graduates visit it's an", 'start': 1371.509, 'duration': 4.591}
+{'text': "admittedly rough thing but it's kind of", 'start': 1373.999, 'duration': 4.821}
+{'text': 'sketch model', 'start': 1376.1, 'duration': 2.72}
+{'text': 'so here again we can see this kind of', 'start': 1379.5, 'duration': 5.09}
+{'text': "hide Remus hybrid missile it's reality", 'start': 1381.6, 'duration': 5.67}
+{'text': 'contrast with our normal perception of', 'start': 1384.59, 'duration': 5.28}
+{'text': "3d printed things it's clean rigid and", 'start': 1387.27, 'duration': 6.42}
+{'text': 'sterile objects and the 3d printer here', 'start': 1389.87, 'duration': 5.919}
+{'text': "was almost like Peter Ling it's like", 'start': 1393.69, 'duration': 5.25}
+{'text': 'legs to this you know to some beasts I', 'start': 1395.789, 'duration': 9.061}
+{'text': 'like to look at as you might have been', 'start': 1398.94, 'duration': 7.02}
+{'text': 'able to tell for the last product and', 'start': 1404.85, 'duration': 3.059}
+{'text': 'actually as as Eric mentioned also an', 'start': 1405.96, 'duration': 3.75}
+{'text': 'introduction and to see even more above', 'start': 1407.909, 'duration': 4.861}
+{'text': 'the next project as a recurring interest', 'start': 1409.71, 'duration': 5.79}
+{'text': 'in my work on time or what the', 'start': 1412.77, 'duration': 4.7}
+{'text': 'philosopher Burton would call duration', 'start': 1415.5, 'duration': 4.35}
+{'text': 'which roughly give you a define us how', 'start': 1417.47, 'duration': 6.04}
+{'text': 'we exist in time so I have this another', 'start': 1419.85, 'duration': 5.16}
+{'text': 'hypothesis that for as long as there', 'start': 1423.51, 'duration': 2.669}
+{'text': 'have been machines that have been people', 'start': 1425.01, 'duration': 4.2}
+{'text': 'waiting for machines and in my opinion', 'start': 1426.179, 'duration': 5.341}
+{'text': 'this is waiting for an update kind of', 'start': 1429.21, 'duration': 4.11}
+{'text': 'disappointing forms we usually leave the', 'start': 1431.52, 'duration': 3.48}
+{'text': 'machine to go to something else we get', 'start': 1433.32, 'duration': 6.0}
+{'text': 'angry frustrated or most often if you go', 'start': 1435.0, 'duration': 6.03}
+{'text': 'down and you watch people and watch the', 'start': 1439.32, 'duration': 4.38}
+{'text': "CNC right down the shop you'll see them", 'start': 1441.03, 'duration': 4.8}
+{'text': 'browsing on their smartphones so these', 'start': 1443.7, 'duration': 3.45}
+{'text': 'are actually like waiting for browsers', 'start': 1445.83, 'duration': 3.599}
+{'text': 'to learn to look while you wait for the', 'start': 1447.15, 'duration': 4.17}
+{'text': 'machine so you have to end up waiting on', 'start': 1449.429, 'duration': 4.441}
+{'text': 'you wait now and I think this kind of', 'start': 1451.32, 'duration': 4.17}
+{'text': 'interesting waiting loop is something', 'start': 1453.87, 'duration': 3.12}
+{'text': 'that we experience on a daily basis', 'start': 1455.49, 'duration': 8.01}
+{'text': 'waiting for the elevator I think that 3d', 'start': 1456.99, 'duration': 9.12}
+{'text': 'printers are the three ventures is', 'start': 1463.5, 'duration': 4.08}
+{'text': 'basically no different we send our files', 'start': 1466.11, 'duration': 6.24}
+{'text': 'presto and we walk away and the results', 'start': 1467.58, 'duration': 6.39}
+{'text': 'of that impatience to me is that we', 'start': 1472.35, 'duration': 3.329}
+{'text': 'become fundamentally disembodiment from', 'start': 1473.97, 'duration': 3.569}
+{'text': 'the making of our designs and all the', 'start': 1475.679, 'duration': 5.821}
+{'text': 'thinking I go sighs so this software', 'start': 1477.539, 'duration': 5.971}
+{'text': 'theorizes is the value of waiting with', 'start': 1481.5, 'duration': 4.38}
+{'text': 'the machine of embodying a machines', 'start': 1483.51, 'duration': 4.409}
+{'text': 'temporality and repetition or just', 'start': 1485.88, 'duration': 4.2}
+{'text': 'sympathize with it and I argue that you', 'start': 1487.919, 'duration': 3.841}
+{'text': 'can in a sense reading by our own making', 'start': 1490.08, 'duration': 3.959}
+{'text': 'processes processes by the body of the', 'start': 1491.76, 'duration': 5.01}
+{'text': "machine and you could say so what's so", 'start': 1494.039, 'duration': 5.101}
+{'text': 'great about making things physically I', 'start': 1496.77, 'duration': 4.11}
+{'text': "think that's a really great question", 'start': 1499.14, 'duration': 5.46}
+{'text': "that we should probably head out and I'm", 'start': 1500.88, 'duration': 6.21}
+{'text': 'not going too deep into it I would say', 'start': 1504.6, 'duration': 4.12}
+{'text': 'you know', 'start': 1507.09, 'duration': 2.949}
+{'text': "there's a certain fulfillment that comes", 'start': 1508.72, 'duration': 3.48}
+{'text': "with it frankly you know anybody's made", 'start': 1510.039, 'duration': 4.951}
+{'text': "anything physically I think that there's", 'start': 1512.2, 'duration': 4.109}
+{'text': 'a certain sense of satisfaction that', 'start': 1514.99, 'duration': 3.2}
+{'text': 'comes with working materials that', 'start': 1516.309, 'duration': 3.72}
+{'text': "hopefully you've all experienced in", 'start': 1518.19, 'duration': 3.7}
+{'text': 'school so that would be my short answer', 'start': 1520.029, 'duration': 3.601}
+{'text': 'to that question though I think you know', 'start': 1521.89, 'duration': 3.75}
+{'text': 'the place of physical paths and', 'start': 1523.63, 'duration': 5.13}
+{'text': 'education in practice it is obviously', 'start': 1525.64, 'duration': 5.19}
+{'text': 'something that or something that should', 'start': 1528.76, 'duration': 7.95}
+{'text': 'be accessible the other also mentioned', 'start': 1530.83, 'duration': 11.52}
+{'text': 'actually performance I think that at', 'start': 1536.71, 'duration': 6.689}
+{'text': 'least with regards to digital', 'start': 1542.35, 'duration': 2.819}
+{'text': 'fabrication before making me the means', 'start': 1543.399, 'duration': 3.991}
+{'text': 'or a way of stepping outside of our', 'start': 1545.169, 'duration': 5.791}
+{'text': 'normal routines and then viewing them', 'start': 1547.39, 'duration': 8.759}
+{'text': 'from a distance and I said also if you', 'start': 1550.96, 'duration': 6.719}
+{'text': 'look at this photo to me of the kind of', 'start': 1556.149, 'duration': 3.991}
+{'text': 'the performance points to the absurd', 'start': 1557.679, 'duration': 4.5}
+{'text': "distance between I don't wait up start", 'start': 1560.14, 'duration': 3.509}
+{'text': 'descendants in a kind of negative sense', 'start': 1562.179, 'duration': 3.661}
+{'text': "I mean there's a subservience between", 'start': 1563.649, 'duration': 4.14}
+{'text': 'technologies that we use in the spaces', 'start': 1565.84, 'duration': 4.05}
+{'text': 'we inhabit on an everyday basis so here', 'start': 1567.789, 'duration': 4.5}
+{'text': "I'm using a 3d printer which has", 'start': 1569.89, 'duration': 5.07}
+{'text': 'invented about 35 years ago in his face', 'start': 1572.289, 'duration': 4.441}
+{'text': 'in reinforced concrete which has have', 'start': 1574.96, 'duration': 5.339}
+{'text': 'been to about 135 years ago and and we', 'start': 1576.73, 'duration': 5.16}
+{'text': 'all know that technology moves much', 'start': 1580.299, 'duration': 3.541}
+{'text': 'faster than architecture goes with I', 'start': 1581.89, 'duration': 3.93}
+{'text': 'think that you know taking the machine', 'start': 1583.84, 'duration': 4.26}
+{'text': 'out of the shop and kind of playing with', 'start': 1585.82, 'duration': 4.859}
+{'text': 'another locations in recontextualizing', 'start': 1588.1, 'duration': 4.89}
+{'text': 'as a kind of test of technology is an', 'start': 1590.679, 'duration': 7.98}
+{'text': "interesting kind of okay you're changing", 'start': 1592.99, 'duration': 7.47}
+{'text': 'courses a little bit but staying for a', 'start': 1598.659, 'duration': 8.451}
+{'text': 'second on the spirit of performance so I', 'start': 1600.46, 'duration': 11.219}
+{'text': "didn't residency back in 2012 in a small", 'start': 1607.11, 'duration': 6.58}
+{'text': 'fishing town Colorado harvest round', 'start': 1611.679, 'duration': 3.541}
+{'text': 'which is in the north of Iceland and', 'start': 1613.69, 'duration': 3.719}
+{'text': "there's like 500 people in the town and", 'start': 1615.22, 'duration': 4.86}
+{'text': 'each house in the talent has a name', 'start': 1617.409, 'duration': 3.74}
+{'text': "that's an Icelandic", 'start': 1620.08, 'duration': 3.649}
+{'text': 'and I send it work so this house is', 'start': 1621.149, 'duration': 4.801}
+{'text': 'named week and the house is both the', 'start': 1623.729, 'duration': 3.9}
+{'text': "white and the gray volume you'll see in", 'start': 1625.95, 'duration': 4.799}
+{'text': 'a second and week might sound familiar', 'start': 1627.629, 'duration': 4.41}
+{'text': "because it's actually the root of the", 'start': 1630.749, 'duration': 4.35}
+{'text': 'word by key or the key and an Icelandic', 'start': 1632.039, 'duration': 6.3}
+{'text': 'meeting today so Viking means one who is', 'start': 1635.099, 'duration': 5.7}
+{'text': 'from the bay basically so this house is', 'start': 1638.339, 'duration': 7.621}
+{'text': 'the bay so the house was almost', 'start': 1640.799, 'duration': 8.01}
+{'text': 'completely boarded up when we approached', 'start': 1645.96, 'duration': 4.829}
+{'text': 'it we as I was working with a thing', 'start': 1648.809, 'duration': 5.85}
+{'text': 'based painter aneurysm at the time and', 'start': 1650.789, 'duration': 6.69}
+{'text': 'so when the town was almost completely', 'start': 1654.659, 'duration': 4.68}
+{'text': 'boarded up except for this original', 'start': 1657.479, 'duration': 4.17}
+{'text': 'structure which is the very bottom which', 'start': 1659.339, 'duration': 4.351}
+{'text': 'was completely open and generally used', 'start': 1661.649, 'duration': 3.63}
+{'text': 'by the local kids is kind of hang out', 'start': 1663.69, 'duration': 2.819}
+{'text': 'where they would go and do mischievous', 'start': 1665.279, 'duration': 5.82}
+{'text': 'things and so our basic idea was to', 'start': 1666.509, 'duration': 6.35}
+{'text': 'finish the active boarded of the house', 'start': 1671.099, 'duration': 4.5}
+{'text': 'and in doing so it to turn the Hangout', 'start': 1672.859, 'duration': 3.99}
+{'text': 'into a hideout', 'start': 1675.599, 'duration': 3.15}
+{'text': 'essentially the people little kids a', 'start': 1676.849, 'duration': 5.14}
+{'text': 'fort to play and be mr. the city but', 'start': 1678.749, 'duration': 4.65}
+{'text': "there's obstacles because we just", 'start': 1681.989, 'duration': 4.591}
+{'text': 'graduated he had no money and we were in', 'start': 1683.399, 'duration': 4.65}
+{'text': "a remote town of ice and so we didn't", 'start': 1686.58, 'duration': 2.88}
+{'text': 'really have access to that many building', 'start': 1688.049, 'duration': 3.21}
+{'text': 'materials so we had to kind of resort to', 'start': 1689.46, 'duration': 7.699}
+{'text': 'using only found with donated things so', 'start': 1691.259, 'duration': 9.03}
+{'text': 'we got this recycling wood siding so', 'start': 1697.159, 'duration': 5.44}
+{'text': 'actually a few years before we arrived', 'start': 1700.289, 'duration': 4.531}
+{'text': 'up until a few years before they arrived', 'start': 1702.599, 'duration': 4.17}
+{'text': "they did this experiment or that's", 'start': 1704.82, 'duration': 4.459}
+{'text': 'probably for the local school where', 'start': 1706.769, 'duration': 6.96}
+{'text': "students wouldn't unlike you school and", 'start': 1709.279, 'duration': 5.38}
+{'text': 'the students would build little houses', 'start': 1713.729, 'duration': 2.7}
+{'text': 'for themselves and they stopped painting', 'start': 1714.659, 'duration': 2.911}
+{'text': "projects so they had all I'm just like", 'start': 1716.429, 'duration': 2.79}
+{'text': "really colorful wood that they weren't", 'start': 1717.57, 'duration': 3.649}
+{'text': 'using which is really fortunate for us', 'start': 1719.219, 'duration': 5.28}
+{'text': 'so we were psychic that website oh we', 'start': 1721.219, 'duration': 5.68}
+{'text': 'got a bunch of house paint from our from', 'start': 1724.499, 'duration': 4.26}
+{'text': 'the neighbors of the think house and', 'start': 1726.899, 'duration': 4.73}
+{'text': 'then probably like two of the most', 'start': 1728.759, 'duration': 5.46}
+{'text': 'plentiful Icelandic resources our moss', 'start': 1731.629, 'duration': 5.65}
+{'text': "and rocks and then now that's from the", 'start': 1734.219, 'duration': 4.59}
+{'text': 'fishing part because I think I mentioned', 'start': 1737.279, 'duration': 2.591}
+{'text': 'before', 'start': 1738.809, 'duration': 7.301}
+{'text': "we were in a fishing town so there's so", 'start': 1739.87, 'duration': 7.89}
+{'text': "here's how we found it on the left and", 'start': 1746.11, 'duration': 3.03}
+{'text': "here's kind of what it looks like on the", 'start': 1747.76, 'duration': 2.64}
+{'text': "right though it's a little difficult to", 'start': 1749.14, 'duration': 4.769}
+{'text': "tell because it's pretty small space and", 'start': 1750.4, 'duration': 6.75}
+{'text': "that's that's I'm planning which colors", 'start': 1753.909, 'duration': 5.4}
+{'text': 'are going to go where and you can see', 'start': 1757.15, 'duration': 3.81}
+{'text': 'some of what we did here was to', 'start': 1759.309, 'duration': 3.48}
+{'text': 'selectively trace the existing cracks in', 'start': 1760.96, 'duration': 3.27}
+{'text': 'the concrete surface with the paint', 'start': 1762.789, 'duration': 3.75}
+{'text': 'essentially create a composition with', 'start': 1764.23, 'duration': 4.47}
+{'text': 'from the existing fragments and services', 'start': 1766.539, 'duration': 4.231}
+{'text': 'and you can also see that when we were', 'start': 1768.7, 'duration': 4.229}
+{'text': 'done with our intervention the only way', 'start': 1770.77, 'duration': 3.81}
+{'text': 'you can get in and out of the space is', 'start': 1772.929, 'duration': 6.301}
+{'text': 'through these ladders but the project', 'start': 1774.58, 'duration': 6.15}
+{'text': 'really became about these cracks and', 'start': 1779.23, 'duration': 4.41}
+{'text': 'misalignments or really how we use the', 'start': 1780.73, 'duration': 4.65}
+{'text': 'town or donate the materials at the', 'start': 1783.64, 'duration': 3.93}
+{'text': 'point to trace a point to or trace', 'start': 1785.38, 'duration': 6.149}
+{'text': 'existing cracks in this one as well as', 'start': 1787.57, 'duration': 5.88}
+{'text': 'add new paths and misalignments of our', 'start': 1791.529, 'duration': 4.26}
+{'text': 'own so this was also an interesting', 'start': 1793.45, 'duration': 5.15}
+{'text': 'moment where we we ran out of screws', 'start': 1795.789, 'duration': 5.25}
+{'text': "because again we didn't have there was a", 'start': 1798.6, 'duration': 4.36}
+{'text': 'lot of materials around so instead of', 'start': 1801.039, 'duration': 3.51}
+{'text': 'using these wood slats and you normally', 'start': 1802.96, 'duration': 4.01}
+{'text': 'went to a kind of vertical orientation', 'start': 1804.549, 'duration': 4.86}
+{'text': 'and because we have a ton of wood slats', 'start': 1806.97, 'duration': 4.75}
+{'text': 'we just stack them on top of one another', 'start': 1809.409, 'duration': 6.171}
+{'text': 'and then what we got was this kind of', 'start': 1811.72, 'duration': 6.959}
+{'text': 'composite but all the dripping edges', 'start': 1815.58, 'duration': 4.569}
+{'text': 'because you might even how much the boat', 'start': 1818.679, 'duration': 3.391}
+{'text': "kits painting houses they're gonna be", 'start': 1820.149, 'duration': 5.39}
+{'text': 'really popular so now that you know that', 'start': 1822.07, 'duration': 5.4}
+{'text': 'messiness that sloppiness kind of', 'start': 1825.539, 'duration': 5.071}
+{'text': 'becomes a virtue of design it becomes a', 'start': 1827.47, 'duration': 8.579}
+{'text': 'feature of this new facade and in the', 'start': 1830.61, 'duration': 7.0}
+{'text': 'end the existing landscape could only be', 'start': 1836.049, 'duration': 3.151}
+{'text': 'perceived through these these mirrored', 'start': 1837.61, 'duration': 4.59}
+{'text': 'existing cups and while I enjoyed the', 'start': 1839.2, 'duration': 4.469}
+{'text': 'final result and I think I think', 'start': 1842.2, 'duration': 4.05}
+{'text': 'residence it as well what was most', 'start': 1843.669, 'duration': 5.061}
+{'text': 'interesting to me and I was this kind of', 'start': 1846.25, 'duration': 4.5}
+{'text': 'improvisational process that we engaged', 'start': 1848.73, 'duration': 4.27}
+{'text': "in we're refining materials and then", 'start': 1850.75, 'duration': 3.899}
+{'text': 'literally finding places for them in the', 'start': 1853.0, 'duration': 3.33}
+{'text': 'space so you can see it kind of', 'start': 1854.649, 'duration': 5.76}
+{'text': 'foreshadowing of my improvisational 3d', 'start': 1856.33, 'duration': 6.089}
+{'text': '15 books actually five minutes after', 'start': 1860.409, 'duration': 4.38}
+{'text': "this but it's also a very different kind", 'start': 1862.419, 'duration': 5.12}
+{'text': 'of improvisation', 'start': 1864.789, 'duration': 2.75}
+{'text': '[Music]', 'start': 1882.65, 'duration': 3.089}
+{'text': '[Music]', 'start': 1890.51, 'duration': 3.099}
+{'text': '[Music]', 'start': 1905.55, 'duration': 3.269}
+{'text': '[Music]', 'start': 1933.02, 'duration': 7.299}
+{'text': '[Music]', 'start': 1950.61, 'duration': 3.12}
+{'text': "like the Bob's and the robotic", 'start': 1965.4, 'duration': 4.57}
+{'text': 'exploration and improvisational 3d', 'start': 1968.05, 'duration': 3.51}
+{'text': 'printing elements of duration and', 'start': 1969.97, 'duration': 3.03}
+{'text': 'repetition improvisation and how I', 'start': 1971.56, 'duration': 3.87}
+{'text': 'intuitively approach making things but', 'start': 1973.0, 'duration': 6.42}
+{'text': 'also I would say a consistent concern', 'start': 1975.43, 'duration': 6.21}
+{'text': 'for physicality and touch and what', 'start': 1979.42, 'duration': 4.38}
+{'text': 'materials want to do or even I would say', 'start': 1981.64, 'duration': 18.06}
+{'text': "how the materials won't be okay so now", 'start': 1983.8, 'duration': 17.7}
+{'text': 'back to decode and for you printing and', 'start': 1999.7, 'duration': 4.47}
+{'text': 'five years after Iceland this was around', 'start': 2001.5, 'duration': 4.38}
+{'text': 'the same time that I had the idea for', 'start': 2004.17, 'duration': 3.75}
+{'text': 'improvisational 3d printing and I', 'start': 2005.88, 'duration': 3.3}
+{'text': "considered this work they're about to", 'start': 2007.92, 'duration': 2.64}
+{'text': 'show the movie the second part of the', 'start': 2009.18, 'duration': 2.4}
+{'text': 'beat', 'start': 2010.56, 'duration': 4.71}
+{'text': 'second part of the beat hi dad so at the', 'start': 2011.58, 'duration': 5.25}
+{'text': 'sign on the door wearing the first', 'start': 2015.27, 'duration': 3.8}
+{'text': 'versions of my own g-code soft heart and', 'start': 2016.83, 'duration': 4.98}
+{'text': 'testing it by having a 3d printer do', 'start': 2019.07, 'duration': 4.75}
+{'text': "unusual things that you couldn't do in", 'start': 2021.81, 'duration': 3.18}
+{'text': 'the normal sort so this should sound', 'start': 2023.82, 'duration': 3.6}
+{'text': 'familiar to all my students again who', 'start': 2024.99, 'duration': 6.42}
+{'text': 'just recently did the same exercise one', 'start': 2027.42, 'duration': 5.31}
+{'text': 'of those things are telling you machine', 'start': 2031.41, 'duration': 4.02}
+{'text': 'via code to extrude to retract extremely', 'start': 2032.73, 'duration': 5.61}
+{'text': 'quick intervals and what I found was', 'start': 2035.43, 'duration': 5.72}
+{'text': "that it couldn't keep up so kind of", 'start': 2038.34, 'duration': 5.1}
+{'text': 'instead of hiccup through the printing', 'start': 2041.15, 'duration': 4.75}
+{'text': 'process and sporadically spewed material', 'start': 2043.44, 'duration': 4.62}
+{'text': 'around and left holes wherever you', 'start': 2045.9, 'duration': 3.63}
+{'text': 'normally expect them to open so you can', 'start': 2048.06, 'duration': 4.83}
+{'text': 'see this kind of lazy materiality that', 'start': 2049.53, 'duration': 4.889}
+{'text': 'resulted from this pattern', 'start': 2052.89, 'duration': 4.83}
+{'text': "hiccuping that's it and in the back and", 'start': 2054.419, 'duration': 5.13}
+{'text': 'forth between being at work and being', 'start': 2057.72, 'duration': 4.349}
+{'text': 'almost broken suggested to me that the', 'start': 2059.549, 'duration': 3.75}
+{'text': '3d printer needed a certain amount of', 'start': 2062.069, 'duration': 4.35}
+{'text': 'time to do work to be functional being', 'start': 2063.299, 'duration': 5.671}
+{'text': 'sick so I came up with this theory that', 'start': 2066.419, 'duration': 5.281}
+{'text': 'I call a machine delay which states that', 'start': 2068.97, 'duration': 6.349}
+{'text': 'all machines take time to do with and so', 'start': 2071.7, 'duration': 6.089}
+{'text': 'we could then ask whose time well what', 'start': 2075.319, 'duration': 4.6}
+{'text': 'time is the Machine take I think for me', 'start': 2077.789, 'duration': 3.691}
+{'text': 'dance is pretty clear and I kind of', 'start': 2079.919, 'duration': 3.39}
+{'text': 'alluded to it in my apartment 3d', 'start': 2081.48, 'duration': 3.809}
+{'text': 'printing work is that the machines take', 'start': 2083.309, 'duration': 6.181}
+{'text': 'art so then I asked well what if I take', 'start': 2085.289, 'duration': 7.711}
+{'text': 'the machines time and then what if I', 'start': 2089.49, 'duration': 7.319}
+{'text': 'delete this year and this led to the', 'start': 2093.0, 'duration': 5.97}
+{'text': 'development of a temporal or time-based', 'start': 2096.809, 'duration': 3.571}
+{'text': 'model of digital fabrication so', 'start': 2098.97, 'duration': 5.76}
+{'text': 'previously we saw anthropomorphic and', 'start': 2100.38, 'duration': 6.51}
+{'text': 'the material model now I would say this', 'start': 2104.73, 'duration': 3.99}
+{'text': 'is more of a temporal order more time', 'start': 2106.89, 'duration': 6.54}
+{'text': 'just and to test this model I developed', 'start': 2108.72, 'duration': 6.329}
+{'text': 'a method of 3d printing concrete that is', 'start': 2113.43, 'duration': 3.929}
+{'text': 'founded on two legs so on the left you', 'start': 2115.049, 'duration': 5.96}
+{'text': 'can see normal robot code for robot', 'start': 2117.359, 'duration': 6.541}
+{'text': "which is similar to G code and then it's", 'start': 2121.009, 'duration': 4.6}
+{'text': 'a series of point locations for now as', 'start': 2123.9, 'duration': 3.6}
+{'text': 'those ABC dots which are actually the', 'start': 2125.609, 'duration': 4.92}
+{'text': 'kinematics on the right you can see my', 'start': 2127.5, 'duration': 5.25}
+{'text': 'modified robot code and which I', 'start': 2130.529, 'duration': 5.34}
+{'text': 'literally tell the robot to wait wait is', 'start': 2132.75, 'duration': 4.97}
+{'text': 'the command for wait which i think is', 'start': 2135.869, 'duration': 6.511}
+{'text': 'amazing in a sense and so what this does', 'start': 2137.72, 'duration': 9.069}
+{'text': 'is it says go to for 2060 25 turn on the', 'start': 2142.38, 'duration': 6.149}
+{'text': 'printing system wait a little bit for', 'start': 2146.789, 'duration': 3.661}
+{'text': 'material come out turn off the printing', 'start': 2148.529, 'duration': 4.23}
+{'text': 'system and then basically wait for the', 'start': 2150.45, 'duration': 3.659}
+{'text': 'material or the extruder to bleed out', 'start': 2152.759, 'duration': 4.381}
+{'text': 'and set and then move to the next point', 'start': 2154.109, 'duration': 9.66}
+{'text': 'and do the same thing and so I went to', 'start': 2157.14, 'duration': 8.729}
+{'text': 'mystic time-based deposition but since I', 'start': 2163.769, 'duration': 4.411}
+{'text': 'always like subtitles I also just call', 'start': 2165.869, 'duration': 7.261}
+{'text': 'it dripping and the research involved', 'start': 2168.18, 'duration': 6.329}
+{'text': 'designing and building a little concrete', 'start': 2173.13, 'duration': 3.899}
+{'text': 'through your printing system which I', 'start': 2174.509, 'duration': 6.6}
+{'text': "won't go into I won't go in to really do", 'start': 2177.029, 'duration': 6.151}
+{'text': 'it but I just want to point it out to', 'start': 2181.109, 'duration': 4.111}
+{'text': 'say that always it was no way necessary', 'start': 2183.18, 'duration': 2.61}
+{'text': 'and', 'start': 2185.22, 'duration': 2.28}
+{'text': 'helpful for me to create the bespoke', 'start': 2185.79, 'duration': 3.54}
+{'text': 'machine in order to do this kind of', 'start': 2187.5, 'duration': 6.02}
+{'text': 'theoretical research in order to make', 'start': 2189.33, 'duration': 7.28}
+{'text': 'sort of', 'start': 2193.52, 'duration': 3.09}
+{'text': '[Music]', 'start': 2201.24, 'duration': 7.479}
+{'text': 'so the visualization on the ledge to', 'start': 2223.5, 'duration': 4.5}
+{'text': 'imagine that each drop have its own', 'start': 2226.619, 'duration': 5.0}
+{'text': 'flock and the robot becomes', 'start': 2228.0, 'duration': 3.619}
+{'text': 'ever taken way too much material', 'start': 2235.33, 'duration': 5.76}
+{'text': 'measurement', 'start': 2238.28, 'duration': 2.81}
+{'text': "so here's a close-up of that process", 'start': 2262.53, 'duration': 4.36}
+{'text': 'which is what I would say is a standard', 'start': 2264.76, 'duration': 5.85}
+{'text': 'dirty process and maybe taking out of a', 'start': 2266.89, 'duration': 6.36}
+{'text': 'this aluminum plate which actually ended', 'start': 2270.61, 'duration': 5.31}
+{'text': 'up becoming really important to the', 'start': 2273.25, 'duration': 3.72}
+{'text': "current research on paper which I'll", 'start': 2275.92, 'duration': 4.11}
+{'text': 'show in a few months but it kind of ends', 'start': 2276.97, 'duration': 5.76}
+{'text': 'up flattening you continue on the right', 'start': 2280.03, 'duration': 5.7}
+{'text': 'and flattening drops so that you can', 'start': 2282.73, 'duration': 9.15}
+{'text': 'stack somewhat level courses okay so a', 'start': 2285.73, 'duration': 7.56}
+{'text': 'lot of the temporal parameters I call', 'start': 2291.88, 'duration': 4.65}
+{'text': "extrusion title and let's say the drop", 'start': 2293.29, 'duration': 5.04}
+{'text': 'is on a piece of geometry so much as is', 'start': 2296.53, 'duration': 5.13}
+{'text': 'that so much as it is a temporal unit so', 'start': 2298.33, 'duration': 5.43}
+{'text': 'for example this is the materialization', 'start': 2301.66, 'duration': 3.66}
+{'text': 'of turning the extruder on for one', 'start': 2303.76, 'duration': 3.36}
+{'text': 'second two seconds three seconds four', 'start': 2305.32, 'duration': 4.68}
+{'text': 'seconds and so the literal', 'start': 2307.12, 'duration': 5.07}
+{'text': 'materialization of one second we could', 'start': 2310.0, 'duration': 4.56}
+{'text': "say and I think it's also pretty clear", 'start': 2312.19, 'duration': 4.26}
+{'text': 'to see how extrusion time determines the', 'start': 2314.56, 'duration': 4.2}
+{'text': 'size of the material deposit at the drop', 'start': 2316.45, 'duration': 5.0}
+{'text': 'or at the drop point', 'start': 2318.76, 'duration': 2.69}
+{'text': 'the other main temporal parameter is', 'start': 2321.48, 'duration': 4.24}
+{'text': 'something I call the wait time which is', 'start': 2324.01, 'duration': 3.24}
+{'text': 'the variation for which the robot waits', 'start': 2325.72, 'duration': 3.51}
+{'text': 'before moving from one job to the next', 'start': 2327.25, 'duration': 4.86}
+{'text': 'so this parameter controls how much one', 'start': 2329.23, 'duration': 5.13}
+{'text': 'drops one drop conforms to the drops', 'start': 2332.11, 'duration': 5.19}
+{'text': 'around it and in this diagram similarly', 'start': 2334.36, 'duration': 4.35}
+{'text': "we can see there's five separate stacks", 'start': 2337.3, 'duration': 3.96}
+{'text': 'with increasingly more weight times 5 10', 'start': 2338.71, 'duration': 6.66}
+{'text': '15 20 25 and the five second one kind of', 'start': 2341.26, 'duration': 17.22}
+{'text': 'slumped into amounts really per mass the', 'start': 2345.37, 'duration': 15.81}
+{'text': 'other a couple other parameters one is', 'start': 2358.48, 'duration': 4.35}
+{'text': 'the travel time and this is affected by', 'start': 2361.18, 'duration': 4.47}
+{'text': 'the robots but I started to proximity', 'start': 2362.83, 'duration': 6.75}
+{'text': 'the order of the drops as well as the', 'start': 2365.65, 'duration': 9.48}
+{'text': 'the robot speed so here for example it', 'start': 2369.58, 'duration': 7.53}
+{'text': 'was printing a 10% speed on the left and', 'start': 2375.13, 'duration': 4.86}
+{'text': '100% speed on the right and maybe as a', 'start': 2377.11, 'duration': 4.23}
+{'text': 'kind of side note when I think this was', 'start': 2379.99, 'duration': 1.859}
+{'text': 'just', 'start': 2381.34, 'duration': 7.379}
+{'text': 'to me is is that delayed you can see', 'start': 2381.849, 'duration': 8.19}
+{'text': 'that delay is actually the relative', 'start': 2388.719, 'duration': 3.06}
+{'text': "relationship so if you're going really", 'start': 2390.039, 'duration': 3.93}
+{'text': 'fast and you make it abrupt stop this', 'start': 2391.779, 'duration': 4.351}
+{'text': "kind of bulb it forms at the end it's", 'start': 2393.969, 'duration': 3.27}
+{'text': "really pronounced if you're already", 'start': 2396.13, 'duration': 3.719}
+{'text': "going slow if you're already delayed", 'start': 2397.239, 'duration': 4.74}
+{'text': "let's say and there's less delay at the", 'start': 2399.849, 'duration': 6.781}
+{'text': 'end and so I mean again I could talk for', 'start': 2401.979, 'duration': 5.431}
+{'text': 'a while about the philosophical', 'start': 2406.63, 'duration': 2.459}
+{'text': 'implications of that or at all but I', 'start': 2407.41, 'duration': 3.449}
+{'text': 'think that could be but I think that', 'start': 2409.089, 'duration': 3.42}
+{'text': 'this idea that I figure out a kind of', 'start': 2410.859, 'duration': 4.771}
+{'text': "slow pace to begin with there's less", 'start': 2412.509, 'duration': 9.6}
+{'text': 'delay it was less pronounced doing and', 'start': 2415.63, 'duration': 7.979}
+{'text': 'much of the research was tuning the', 'start': 2422.109, 'duration': 3.39}
+{'text': 'mechanical and computational parameters', 'start': 2423.609, 'duration': 3.42}
+{'text': 'to the material parameters and then', 'start': 2425.499, 'duration': 3.81}
+{'text': 'speculate on results so for example if', 'start': 2427.029, 'duration': 3.871}
+{'text': "you have two inch plasticizer you'll get", 'start': 2429.309, 'duration': 3.24}
+{'text': 'this which is essentially just a puddle', 'start': 2430.9, 'duration': 3.51}
+{'text': 'and we could look at this we could say', 'start': 2432.549, 'duration': 4.351}
+{'text': "okay maybe it's maybe they're like", 'start': 2434.41, 'duration': 8.97}
+{'text': 'concrete shingles which is always', 'start': 2436.9, 'duration': 7.799}
+{'text': "interesting but it's probably not what", 'start': 2443.38, 'duration': 2.51}
+{'text': 'we want', 'start': 2444.699, 'duration': 3.6}
+{'text': 'and then a little less plasticizer will', 'start': 2445.89, 'duration': 3.76}
+{'text': 'get you this which i think is', 'start': 2448.299, 'duration': 3.45}
+{'text': "interesting because it's interlocking", 'start': 2449.65, 'duration': 5.459}
+{'text': 'the saddle configuration and not enough', 'start': 2451.749, 'duration': 6.21}
+{'text': 'what time will get you this so when you', 'start': 2455.109, 'duration': 3.811}
+{'text': "don't wait for long enough for the", 'start': 2457.959, 'duration': 2.941}
+{'text': 'material just collapses like a mountain', 'start': 2458.92, 'duration': 3.779}
+{'text': 'I saw and you saw in the previous', 'start': 2460.9, 'duration': 5.189}
+{'text': "diagram and eventually he's sort of", 'start': 2462.699, 'duration': 4.681}
+{'text': 'start to find the right tune between', 'start': 2466.089, 'duration': 4.62}
+{'text': "different parameters but here it's kinda", 'start': 2467.38, 'duration': 6.02}
+{'text': "it's complaining beginning innocence and", 'start': 2470.709, 'duration': 4.681}
+{'text': 'eventually it was something that looks', 'start': 2473.4, 'duration': 4.439}
+{'text': 'maybe vaguely architectural', 'start': 2475.39, 'duration': 4.709}
+{'text': 'so it was important to kind of step', 'start': 2477.839, 'duration': 4.091}
+{'text': 'establish a control over the dripping', 'start': 2480.099, 'duration': 3.18}
+{'text': 'with the dog out over all these', 'start': 2481.93, 'duration': 2.399}
+{'text': 'parameters so that I could then', 'start': 2483.279, 'duration': 3.57}
+{'text': 'speculate on aesthetic and constructive', 'start': 2484.329, 'duration': 6.601}
+{'text': 'possibilities so for example within a', 'start': 2486.849, 'duration': 6.321}
+{'text': 'standard stack of drops I can now insert', 'start': 2490.93, 'duration': 4.47}
+{'text': 'longer extrusion times in order to', 'start': 2493.17, 'duration': 5.26}
+{'text': "intentionally odd ornaments so here I'm", 'start': 2495.4, 'duration': 5.11}
+{'text': 'plotting this kind of tongue-like', 'start': 2498.43, 'duration': 7.97}
+{'text': 'in order or I can move the extruder', 'start': 2500.51, 'duration': 7.48}
+{'text': 'during the wait time so that the bleedin', 'start': 2506.4, 'duration': 3.06}
+{'text': 'material becomes the kind of ornamental', 'start': 2507.99, 'duration': 5.37}
+{'text': "tips here I'm dripping and then as the", 'start': 2509.46, 'duration': 5.94}
+{'text': "turn off system and it hasn't believed", 'start': 2513.36, 'duration': 7.47}
+{'text': 'on kind of pulling away doing that weird', 'start': 2515.4, 'duration': 10.17}
+{'text': 'concrete assets and if I expect the', 'start': 2520.83, 'duration': 6.0}
+{'text': 'right balance between weight times and', 'start': 2525.57, 'duration': 2.61}
+{'text': 'extrusion times I can actually end up', 'start': 2526.83, 'duration': 3.12}
+{'text': 'with perforations or little holes', 'start': 2528.18, 'duration': 5.1}
+{'text': 'between the drawers but maybe what I', 'start': 2529.95, 'duration': 4.65}
+{'text': 'like most about the system and again', 'start': 2533.28, 'duration': 2.37}
+{'text': "it's coming back to this idea of", 'start': 2534.6, 'duration': 3.36}
+{'text': 'improvisation is that you you can you', 'start': 2535.65, 'duration': 3.84}
+{'text': 'can try it a lot of our faiths you can', 'start': 2537.96, 'duration': 3.3}
+{'text': 'do a little something here and then', 'start': 2539.49, 'duration': 3.45}
+{'text': 'change the timing of the rhythm', 'start': 2541.26, 'duration': 3.0}
+{'text': 'completely over here and your super', 'start': 2542.94, 'duration': 3.3}
+{'text': 'slowly build up variation and not', 'start': 2544.26, 'duration': 3.18}
+{'text': 'everything needs to be completely', 'start': 2546.24, 'duration': 4.56}
+{'text': 'hard-coded actually in the system you', 'start': 2547.44, 'duration': 8.4}
+{'text': 'could play with play with the delay and', 'start': 2550.8, 'duration': 8.07}
+{'text': 'then I started to try to scale this is', 'start': 2555.84, 'duration': 5.28}
+{'text': 'the mob and reimagine prototypical', 'start': 2558.87, 'duration': 3.81}
+{'text': 'architectural conditions like the', 'start': 2561.12, 'duration': 4.41}
+{'text': "90-degree corner which is actually it's", 'start': 2562.68, 'duration': 4.83}
+{'text': 'a difficult to achieve with most', 'start': 2565.53, 'duration': 4.8}
+{'text': 'materials or difficult to achieve most', 'start': 2567.51, 'duration': 4.62}
+{'text': 'materials and all kind of forcing them', 'start': 2570.33, 'duration': 3.84}
+{'text': 'together and I always think to myself', 'start': 2572.13, 'duration': 3.75}
+{'text': 'why do we need to have 90-degree corners', 'start': 2574.17, 'duration': 3.84}
+{'text': "everywhere when they're so difficult to", 'start': 2575.88, 'duration': 3.45}
+{'text': 'achieve and why do we need to force the', 'start': 2578.01, 'duration': 3.21}
+{'text': 'material and tip into this form that it', 'start': 2579.33, 'duration': 5.46}
+{'text': "doesn't inherently want to take my own", 'start': 2581.22, 'duration': 5.67}
+{'text': 'sort of material purist sentiment that I', 'start': 2584.79, 'duration': 4.77}
+{'text': 'take to my work and the thing itself', 'start': 2586.89, 'duration': 6.57}
+{'text': 'kind of takes on a comic I think if you', 'start': 2589.56, 'duration': 5.34}
+{'text': "try to make it do this it's like a", 'start': 2593.46, 'duration': 4.05}
+{'text': '90-degree corner from like some planet', 'start': 2594.9, 'duration': 3.93}
+{'text': "where there's a different gravitational", 'start': 2597.51, 'duration': 4.68}
+{'text': "pull perhaps a planet moving didn't care", 'start': 2598.83, 'duration': 6.35}
+{'text': 'about 90 to be quite as much as we do', 'start': 2602.19, 'duration': 6.24}
+{'text': "and for me it's important to entertain", 'start': 2605.18, 'duration': 4.51}
+{'text': 'the notion of this being a new quarter', 'start': 2608.43, 'duration': 3.39}
+{'text': 'detail or a new method of Bernard', 'start': 2609.69, 'duration': 5.28}
+{'text': "agility and I think in general we've", 'start': 2611.82, 'duration': 5.1}
+{'text': 'become really accustomed to this to a', 'start': 2614.97, 'duration': 3.57}
+{'text': 'particular kind of aesthetic not just in', 'start': 2616.92, 'duration': 3.87}
+{'text': 'our digital work but in architecture in', 'start': 2618.54, 'duration': 3.81}
+{'text': 'general which is smooth and precise and', 'start': 2620.79, 'duration': 4.59}
+{'text': 'sometimes fairly but usually straight', 'start': 2622.35, 'duration': 5.55}
+{'text': "and what I'm trying to explore are these", 'start': 2625.38, 'duration': 4.11}
+{'text': 'prototypes as an alternative', 'start': 2627.9, 'duration': 3.99}
+{'text': 'and I call this aesthetic a digital', 'start': 2629.49, 'duration': 6.42}
+{'text': 'object where precision is balance of', 'start': 2631.89, 'duration': 6.449}
+{'text': "indeterminate on purpose and where it's", 'start': 2635.91, 'duration': 4.14}
+{'text': 'not completely clear who or what made', 'start': 2638.339, 'duration': 4.201}
+{'text': 'the thing in in other words where the', 'start': 2640.05, 'duration': 4.44}
+{'text': 'hand of the tool in the hand of the', 'start': 2642.54, 'duration': 4.38}
+{'text': 'maker both kind of disappeared and the', 'start': 2644.49, 'duration': 5.25}
+{'text': 'thing itself and now we just see this', 'start': 2646.92, 'duration': 4.679}
+{'text': 'kind of violent twisting and tearing of', 'start': 2649.74, 'duration': 3.93}
+{'text': 'concrete guts like the concrete is', 'start': 2651.599, 'duration': 4.081}
+{'text': 'almost trying to shake itself off and it', 'start': 2653.67, 'duration': 3.77}
+{'text': 'has a knife and a body of its own', 'start': 2655.68, 'duration': 5.31}
+{'text': "argument does I think it's important to", 'start': 2657.44, 'duration': 6.49}
+{'text': 'explore this kind of abject aesthetic in', 'start': 2660.99, 'duration': 4.14}
+{'text': 'order to broaden the possibilities of', 'start': 2663.93, 'duration': 7.65}
+{'text': 'what can be delightful beautiful but', 'start': 2665.13, 'duration': 8.61}
+{'text': 'tripping also has some some fairly', 'start': 2671.58, 'duration': 3.63}
+{'text': 'constructive possibilities so for', 'start': 2673.74, 'duration': 3.109}
+{'text': 'example if you wait long enough you can', 'start': 2675.21, 'duration': 4.2}
+{'text': 'drop sequence that to form a column and', 'start': 2676.849, 'duration': 4.871}
+{'text': "if you don't like long enough this is", 'start': 2679.41, 'duration': 6.03}
+{'text': 'what happens so we all know that we all', 'start': 2681.72, 'duration': 5.34}
+{'text': 'know that columns need reinforcement if', 'start': 2685.44, 'duration': 2.669}
+{'text': "they're going to send up and we also", 'start': 2687.06, 'duration': 3.35}
+{'text': 'know that they need a certain', 'start': 2688.109, 'duration': 4.441}
+{'text': 'slenderness ratio in the cross-section', 'start': 2690.41, 'duration': 5.92}
+{'text': 'to the height so this actually led to my', 'start': 2692.55, 'duration': 6.21}
+{'text': 'current work which is you go to a shop', 'start': 2696.33, 'duration': 3.72}
+{'text': 'you see some of it which is the', 'start': 2698.76, 'duration': 3.0}
+{'text': 'development of I call incremental', 'start': 2700.05, 'duration': 4.77}
+{'text': 'piloting and solution or a 3d pie line', 'start': 2701.76, 'duration': 5.93}
+{'text': 'would be the subtitle for this project', 'start': 2704.82, 'duration': 7.26}
+{'text': "but I'm a PC today", 'start': 2707.69, 'duration': 7.3}
+{'text': 'so three piping is a method for the', 'start': 2712.08, 'duration': 4.529}
+{'text': 'automated deposition of reinforced', 'start': 2714.99, 'duration': 4.83}
+{'text': 'concrete columns so I essentially have', 'start': 2716.609, 'duration': 4.891}
+{'text': 'taken that drip column that we just saw', 'start': 2719.82, 'duration': 4.14}
+{'text': 'and place it in a rebar cage so that I', 'start': 2721.5, 'duration': 9.48}
+{'text': 'can grow which is weird and I shot it', 'start': 2723.96, 'duration': 8.78}
+{'text': 'mainly because I do believe that', 'start': 2730.98, 'duration': 3.81}
+{'text': 'theoretical digit verification which', 'start': 2732.74, 'duration': 3.76}
+{'text': 'originates from this kind of absurdist', 'start': 2734.79, 'duration': 4.65}
+{'text': "and even it's a oblique place can", 'start': 2736.5, 'duration': 4.68}
+{'text': 'actually inform speculation that results', 'start': 2739.44, 'duration': 2.94}
+{'text': 'into something and something that could', 'start': 2741.18, 'duration': 2.46}
+{'text': 'actually be the useful piece of', 'start': 2742.38, 'duration': 3.84}
+{'text': "architecture now I think that there's", 'start': 2743.64, 'duration': 6.06}
+{'text': 'utility here but or utility to this', 'start': 2746.22, 'duration': 4.98}
+{'text': 'approach that said but tie-dye', 'start': 2749.7, 'duration': 3.389}
+{'text': 'admittedly chose to focus on what some I', 'start': 2751.2, 'duration': 3.17}
+{'text': 'think are less utility', 'start': 2753.089, 'duration': 3.711}
+{'text': 'aspects in my feeling is that learning', 'start': 2754.37, 'duration': 4.05}
+{'text': 'how to think in different ways is just', 'start': 2756.8, 'duration': 3.12}
+{'text': 'as useful as suddenly how to build a', 'start': 2758.42, 'duration': 4.62}
+{'text': "column drives it really to me you can't", 'start': 2759.92, 'duration': 4.89}
+{'text': "or shouldn't separate the two activities", 'start': 2763.04, 'duration': 8.37}
+{'text': "so that's so maybe to briefly summarize", 'start': 2764.81, 'duration': 9.36}
+{'text': 'what theoretical just publications it', 'start': 2771.41, 'duration': 4.35}
+{'text': 'involves cultivating intuition about the', 'start': 2774.17, 'duration': 3.48}
+{'text': 'ways in which we work both as designers', 'start': 2775.76, 'duration': 4.53}
+{'text': 'and in his material box and then using', 'start': 2777.65, 'duration': 4.68}
+{'text': 'that information to design a theoretical', 'start': 2780.29, 'duration': 3.39}
+{'text': 'model of how digital publication', 'start': 2782.33, 'duration': 3.99}
+{'text': 'machines work and then speculate on the', 'start': 2783.68, 'duration': 4.23}
+{'text': 'aesthetic constructive and ethical', 'start': 2786.32, 'duration': 8.45}
+{'text': 'implications and so why do I think that', 'start': 2787.91, 'duration': 14.97}
+{'text': 'is necessary well because the complete', 'start': 2794.77, 'duration': 15.04}
+{'text': "picture of the scene is this so we've", 'start': 2802.88, 'duration': 8.82}
+{'text': 'really become bystanders and fabrication', 'start': 2809.81, 'duration': 5.52}
+{'text': 'processes or maybe even worse in this', 'start': 2811.7, 'duration': 5.16}
+{'text': 'photo the thing in my hand is called at', 'start': 2815.33, 'duration': 3.36}
+{'text': 'each pendant you can on the teach', 'start': 2816.86, 'duration': 3.45}
+{'text': "pendant there's a button called the", 'start': 2818.69, 'duration': 3.42}
+{'text': 'neighborhood search but I need to know', 'start': 2820.31, 'duration': 3.24}
+{'text': 'all about to in order for the robot to', 'start': 2822.11, 'duration': 3.54}
+{'text': 'run that literally makes me the', 'start': 2823.55, 'duration': 4.92}
+{'text': "machine's enabled against some kind of", 'start': 2825.65, 'duration': 6.05}
+{'text': 'addiction to making that disease you', 'start': 2828.47, 'duration': 5.58}
+{'text': 'know turning a visit I step out of the', 'start': 2831.7, 'duration': 3.76}
+{'text': 'cage and close the door to let the', 'start': 2834.05, 'duration': 3.54}
+{'text': 'machine automatically autonomously', 'start': 2835.46, 'duration': 5.31}
+{'text': 'without me and I think neither scenario', 'start': 2837.59, 'duration': 5.31}
+{'text': 'is ideal because if nothing else the', 'start': 2840.77, 'duration': 3.39}
+{'text': 'material that were meant to be working', 'start': 2842.9, 'duration': 3.3}
+{'text': 'on or designing this is literally put', 'start': 2844.16, 'duration': 3.84}
+{'text': "out of touch and I'd argument that of", 'start': 2846.2, 'duration': 5.4}
+{'text': 'mind so I think we need to find ways', 'start': 2848.0, 'duration': 6.51}
+{'text': 'into these processes not just to regain', 'start': 2851.6, 'duration': 4.62}
+{'text': 'or preserve our material namitha because', 'start': 2854.51, 'duration': 3.69}
+{'text': 'automation that seems like this are all', 'start': 2856.22, 'duration': 5.19}
+{'text': 'ready to be as reality we need to make a', 'start': 2858.2, 'duration': 4.8}
+{'text': "case for why we're so needed and then", 'start': 2861.41, 'duration': 3.72}
+{'text': 'basically automating the world and we', 'start': 2863.0, 'duration': 3.45}
+{'text': 'need to be able to say white architects', 'start': 2865.13, 'duration': 3.78}
+{'text': 'are so valuable and I think are', 'start': 2866.45, 'duration': 4.2}
+{'text': 'evaluating this neckman on technological', 'start': 2868.91, 'duration': 6.48}
+{'text': 'moment is intuition so if we go back to', 'start': 2870.65, 'duration': 7.76}
+{'text': 'persons definition of intuition', 'start': 2875.39, 'duration': 5.25}
+{'text': 'superseded by which one is transported', 'start': 2878.41, 'duration': 4.0}
+{'text': 'into the interior of an object in order', 'start': 2880.64, 'duration': 3.18}
+{'text': 'to coincide', 'start': 2882.41, 'duration': 5.76}
+{'text': 'and consequently expensable and we can', 'start': 2883.82, 'duration': 6.48}
+{'text': 'infer that the wild birds in is', 'start': 2888.17, 'duration': 4.49}
+{'text': 'referring to here is a subject or a', 'start': 2890.3, 'duration': 5.31}
+{'text': 'living being no matter how intelligent', 'start': 2892.66, 'duration': 5.26}
+{'text': 'or learning machines become they will', 'start': 2895.61, 'duration': 4.29}
+{'text': 'always be objects and we in turn all', 'start': 2897.92, 'duration': 4.32}
+{'text': 'these subjects so in arguing you can', 'start': 2899.9, 'duration': 4.29}
+{'text': 'give a machine intelligence and you can', 'start': 2902.24, 'duration': 4.32}
+{'text': "definitely give it a leak but you can't", 'start': 2904.19, 'duration': 6.99}
+{'text': 'give a machine intuition and if we take', 'start': 2906.56, 'duration': 6.06}
+{'text': 'this farther and think for a second', 'start': 2911.18, 'duration': 2.61}
+{'text': 'about what it means to call something', 'start': 2912.62, 'duration': 3.45}
+{'text': 'intuitive for example when we say that', 'start': 2913.79, 'duration': 4.29}
+{'text': 'something is welcomed into their machine', 'start': 2916.07, 'duration': 3.78}
+{'text': 'I think we take for granted that we', 'start': 2918.08, 'duration': 3.33}
+{'text': "don't mean that the machine itself has", 'start': 2919.85, 'duration': 3.63}
+{'text': 'intuition but rather that the machine is', 'start': 2921.41, 'duration': 4.77}
+{'text': 'intuitive to use that we credibly', 'start': 2923.48, 'duration': 4.41}
+{'text': 'understand how to engage with it and', 'start': 2926.18, 'duration': 4.29}
+{'text': 'what it does and I would offer another', 'start': 2927.89, 'duration': 4.59}
+{'text': 'possibility that the idea of intuitive', 'start': 2930.47, 'duration': 3.63}
+{'text': 'machine can be a machine that helps us', 'start': 2932.48, 'duration': 4.41}
+{'text': 'cultivate our intuitions I think today', 'start': 2934.1, 'duration': 4.47}
+{'text': 'in particular we need to do this kind of', 'start': 2936.89, 'duration': 5.39}
+{'text': 'cultivation which is frankly hard work', 'start': 2938.57, 'duration': 5.67}
+{'text': "because I've heard a lot of architects", 'start': 2942.28, 'duration': 4.51}
+{'text': 'say I know a lot I feel it in reference', 'start': 2944.24, 'duration': 4.65}
+{'text': 'to identifying a good and bad design I', 'start': 2946.79, 'duration': 3.96}
+{'text': 'know it what I see it in reference to a', 'start': 2948.89, 'duration': 4.02}
+{'text': 'pretty or not pretty thing which i think', 'start': 2950.75, 'duration': 4.02}
+{'text': 'is fine and we should be able to go off', 'start': 2952.91, 'duration': 3.96}
+{'text': 'our intuitions and the way things make', 'start': 2954.77, 'duration': 5.97}
+{'text': "us feel but it's not enough I can't just", 'start': 2956.87, 'duration': 5.52}
+{'text': "say I know when I feel that if you don't", 'start': 2960.74, 'duration': 3.9}
+{'text': 'have ways to precisely feel things and', 'start': 2962.39, 'duration': 4.62}
+{'text': 'so my research in a way is guided by', 'start': 2964.64, 'duration': 6.39}
+{'text': 'this idea of feeling precisely we also', 'start': 2967.01, 'duration': 5.61}
+{'text': "clarify and say that I'm not against", 'start': 2971.03, 'duration': 3.15}
+{'text': "technology and I'm not trying to declare", 'start': 2972.62, 'duration': 4.17}
+{'text': 'on the machines or suggest that we go', 'start': 2974.18, 'duration': 4.32}
+{'text': 'back to some time before robot sort of', 'start': 2976.79, 'duration': 4.47}
+{'text': 'thing instead my work is about finding', 'start': 2978.5, 'duration': 5.1}
+{'text': 'ways to sympathize as technologies to', 'start': 2981.26, 'duration': 4.05}
+{'text': 'evaluate them on our own terms and to', 'start': 2983.6, 'duration': 4.83}
+{'text': "sense our intuitions through them it's", 'start': 2985.31, 'duration': 4.77}
+{'text': 'about finding ways into the interior of', 'start': 2988.43, 'duration': 3.21}
+{'text': 'the robot even when I can only stand', 'start': 2990.08, 'duration': 5.13}
+{'text': 'beside it and so I do that by trying to', 'start': 2991.64, 'duration': 6.54}
+{'text': 'figure out how to make this more like', 'start': 2995.21, 'duration': 6.66}
+{'text': 'this in other words by showing the', 'start': 2998.18, 'duration': 5.96}
+{'text': 'machine', 'start': 3001.87, 'duration': 2.27}
+{'text': '[Applause]', 'start': 3005.58, 'duration': 4.2}
+{'text': 'you', 'start': 3008.77, 'duration': 5.039}
+{'text': '[Applause]', 'start': 3009.78, 'duration': 4.029}

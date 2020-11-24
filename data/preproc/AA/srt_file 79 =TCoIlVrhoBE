@@ -1,0 +1,1328 @@
+hello everyone and welcome to the summer
+D lab extra series this year we're very
+happy to welcome Satya Bhushan for our
+first lecture and we've known each other
+for a very long time and Shoji is a
+studio master in design research lab
+graduate program at the AAA and he's
+also the co-founder of the architects
+computational research team called and
+he's a he has completed his MPhil in
+2016 in University of Malta now he's
+working towards his PhD in eth3 and
+Sergey has great expertise in several
+ranges of subjects touching on
+computation programming mathematics
+geometry rationalization optimization as
+well as advanced fabrication so please
+allow me to say welcome to SH a.j and we
+look forward to hearing his research
+[Music]
+[Applause]
+yeah thank you leaf and thank you for
+being accommodating for this light
+earlier start to lecture series and
+thanks also for the invitation as a leaf
+mentioned we have we studied together so
+we kind of really know each other for a
+long time and so there's been like parts
+of our careers that like have had
+synergetic synergies let's say so today
+I have a focus because it is the D lab
+like of course I will focus more on the
+digital design and fabrication aspects
+but I would just like to start off by
+giving it a little bit of a context at
+least the way we approach it in code and
+also in Zaha and further into our
+collaborative networks and so on this
+particular essay resonates a lot with
+with me and like in
+general I think it should resonate with
+like most people who have been involved
+in kind of technical research for a
+while because on the face of it it
+sounds like we have to educate our
+clients and just tell them how things
+are produced but it actually sa actually
+means a whole lot more like it kind of
+suggests more participation trying to
+bring users to get them to participate
+in the design process get them to
+participate in what is actually produced
+so it's not like you know empty words or
+like flowery words to try and sell
+whatever you design to to the consumer
+but like to make a consumer active part
+in what is produced and he Walter
+Benjamin wrote this in 1934 and it was
+in the context of like literary work and
+comparing like novels with like
+newspapers but I think it's as
+applicable to digital design and
+fabrication today because we are
+similarly in similar crossroads so
+there's been an extensive amount of
+research like perhaps in accelerated in
+the last decade or so in on this topic
+of digital design and fabrication and
+code is part of this community and so a
+large part of what we do is indeed
+research but we also do a equal part
+applied projects try to push boundaries
+like one step at a time
+we also increasingly partake or
+participate in exhibitions and in
+communicating what it is that we do and
+like trying to get feed back into our
+design processes and lastly we also
+develop in
+kind of in-house talent like it's not
+that we just hire specialists we are a
+bit like a Barcelona football club in
+that sense like we try to nurture and
+grow talent in house and also nurture
+and grow our collaborative network
+because a research team or any
+architectural team is only as good as
+its collaborative network so of these
+like I will only speak about the
+research part like and a little bit
+about the projects I mean through the
+projects I will talk a bit about the
+research and for the last bit like there
+is a small exhibition that's opening in
+the building center like just five
+minutes from here
+those of you interested or those of you
+still interested at the end of my talk
+you can go take a look so as I mentioned
+like a large part of the last decade
+that the code team has been active like
+we have focused like many other
+colleagues and extended networks mostly
+on the production aspects the physical
+aspects the scientific aspects and so on
+and so forth which most of you would be
+very familiar with since you're here
+doing the D lab and it's also
+technological and very in-depth in that
+sense but oscillate like we are also
+realizing along with like the rest of
+the fraternity in the sense that like
+it's about time to ask what where does
+all of this lead to what what can we do
+already with like this increasing rate
+of extraordinary progress that the
+profession and discipline has made so in
+that sense again like the essay as I've
+mentioned like resonates a lot because
+we're beginning to think like you know
+how do people consume architecture and
+can we incorporate that in the way we
+produce or can we utilize all our
+research in the production aspects to
+address some of the opportunities that
+lie in bringing users into the design
+process and
+production process so so there is this
+kind of slight tension between the
+production aspects the physical and the
+science with the social and the
+storytelling aspects and so on and so
+forth so and we actively aim to suppress
+technology in in whatever we produce
+meaning like there's a lot of technology
+that goes into it but like at the
+outside we're not actively talking about
+it anymore so in that sense all my
+affiliations are kind of not by chance
+it's over by deliberate consideration
+that like half of my affiliations are in
+the design world and the other is more
+in the kind of let's say research and
+scientific or research and then more
+narrow scientific sense
+so what other disciplines and
+professions actually do this dichotomy
+or manage this dichotomy very well
+computer graphics and animations are
+perhaps the most beautiful and and clear
+example of this because like when we
+look at a movie whether it's animated or
+not they're by now in this in 2018
+there's a lot and a lot of Technology
+not only in the camera but also in the
+direction and in the although all the
+digital technology that goes into making
+a movie is extraordinary like it's
+perhaps even more than than most
+buildings and and it also it's
+cumulative like so when you look at snow
+or other movies like you're not like
+really thinking about like you know the
+physics of snow and like all the
+hundreds of researchers and
+mathematicians and like others who have
+like slaved over all the technical
+aspects closer to architecture like it's
+again not new like in in the 17th 18th
+century like perhaps best exemplified by
+like Gaudi like there was lots and lots
+of fabrication aspects there are lots of
+structural aspects into the that went
+into the work of Gaudi and his
+contemporaries again he didn't invent
+like most of these it's cultural
+illusion that like he had access to like
+ways to calculate structural behavior
+just through geometry and geometric
+calculations like the drawings on the my
+left show but when it was about making
+the building it wasn't about like how
+things were fabricated that was only a
+part of it right like there was like a
+lot more to to to Sagrada família than
+like like the cleverness in like cutting
+stone or the cleverness in arranging
+stone in a structurally meaningful and
+structurally efficient way so and the
+same can be said about like like the
+other 20th century phenomena of like the
+Maison Domino and like how it's like
+spread through through all our cities
+it's it's not only because you know
+kuboos EA came up with this diagram like
+and kind of made it accessible to a lot
+a lot wider audience but also because it
+went hand in hand with like
+technological progress the trade schools
+new ways to calculate behavior and new
+materials like reinforced concrete and
+like new patents and how to use concrete
+along with like reinforced reinforcement
+like so all of this was like exciting
+new world in the 20th century the same
+way we are like super excited about like
+robots and AI and data and geometry and
+form finding and so on and so forth so
+it's helpful to look back into history
+and see how these two aspects like kind
+of go hand in hand
+especially in architecture one couple
+like that has like a profound influence
+and our serve as a constant inspiration
+are the aims called the Eames is Ray and
+Charles seems like they had like a
+prolific 80 odd years of career and they
+also started somehow in this way like
+they bought this patent of like forming
+wood from the US Army set up a company
+got the machine into their living room
+and then the rest is history now Eames
+chairs like sell all over the world like
+for incredible amounts of money and but
+they were also another
+earliest investors or pioneers in from
+the design world to invest time and
+effort and collaborative develop
+collaborations in the use of software
+like particularly Mathematica and also
+production processes exactly the same
+way we're we're doing now in the 21st
+century but and again this diagram is
+from the Eames what that means is like
+at the top at the very top is what is
+what they were looking for a vocabulary
+a design language that relates to
+materials and technique so in other
+words it is like I know did it this is
+like if you add digital to that it is
+digital design and fabrication but they
+were also quickly to understand that
+like that you have to follow that up
+with like understanding the social part
+like how families behave or how they how
+people interact in communities and so on
+and so forth you also have to consider
+production systems economics financing
+servicing and so on and so forth like so
+and what's very interesting for us is
+like their career like kinda ended up in
+like looking at houses and like how
+people use they only made one house but
+with the idea of their ideas like kind
+of work more profoundly influencing the
+entire case that house movement so that
+that's the kind of backdrop to to to the
+presentation like this idea that like
+we're spent like the first eight years
+like looking at developing our language
+digital design and fabrication language
+or vocabulary of materials techniques
+and now we're like adding to that or
+attempting to add to that like social
+understanding and utilize our recall
+ready rehearsed language to address like
+some some more more social opportunities
+and communal community building
+opportunities so as I said I will only
+touch upon the social part like towards
+the very end like most of the
+presentation is indeed about the
+physical
+aspects the research aspects and
+particularly about geometry and how
+geometry can be a common tool a common
+way to many people to collaborate
+compared to like let's say more
+numerical studies that have a very
+handful of people can understand
+geometry and physical things like a lot
+of us can understand intuitively and
+therefore contribute collectively to to
+the design process and also to what is
+actually eventually produced so there is
+idea that we can draw from history so
+it's in that sense cumulative and idea
+that we can draw from many different
+disciplines in that sense it's computer
+it's collaborative and ultimately we are
+adding the term architectural geometry
+architectural to to the idea of geometry
+to because it will be physically
+realized unlike several other geometric
+aspect which are more mathematical in
+that sense just a brief again like a
+background like in the twentieth century
+like they were like increasing use of
+NURBS borrowed from the automobile
+industry and as most of you know like
+there are three major ways to represent
+geometry on a computer NURBS meshes and
+images and NURBS comes from the
+automobile and like the aviation
+industry and like architecture also
+inherited this from from that industry
+predominantly in the in the 20th century
+in the late 20th century they were like
+many buildings and perhaps the early
+success and and
+of rhino for example it was based on on
+that paradigm of using NURBS a lot like
+but most of our work borrows from the
+computer graphics community the movie
+industry and we use meshes almost
+exclusively but not not entirely true
+but like let's say predominantly we use
+meshes we are also increasingly looking
+at like image image based ways to
+represent geometry why because like
+images are easy capture a lot more
+detail like so you've never heard of a
+cat scan that is like represented as
+NURBS why because human bodies and other
+things are not just smooth objects there
+they have a lot of a lot of detail and
+like so images in that Center and you
+can also consider hybrids but like for
+the sake of this presentation let's say
+most of the work that I will show will
+fall into these predominant either the
+mesh representation and also a little
+bit in the image representation so why
+use meshes for example well because it's
+fun these kind of things like the that's
+one of the reasons like computer
+graphics like really fascinates me and a
+lot of the people in the team is is
+because like geometry and math and
+programming can really be fun and as
+soon as you can like leverage and
+understand what's going on you can like
+then you know use it for less like more
+boring applications like architecture
+like like here facade optimization and
+like paneling and blah blah blah like
+curvature based paneling in the sense
+and also to make sure all the panels are
+then like flat and like you can join
+them all nicely together and like you
+can bolt them together so there's not
+twisted so all of these things are
+enabled because you're using meshes in
+your because we're borrowing like the
+stuff that's like 30 to 40 years old in
+many cases and some are like really
+literally released like two weeks ago
+like in
+in in a different community so we just
+have to borrow and and make it our own
+so yeah so and that's how like you know
+we view complex geometry like not as
+something that needs to be optimized and
+rational like complex is actually good
+because curvature is good in in more
+more cases than not like curvature is
+better than flat and so how do we
+leverage new ways of making to actually
+physically produce that curvature so
+again we're boring a lot of the
+technologies and terminology from from
+the computer graphics industry and
+particularly when it comes to use of
+meshes and so hopefully like buildings
+like these or at least sculptures like
+these get built that's and again I won't
+go too much into the the boring
+technological technical aspects just to
+say that like we are not alone in this
+and we're not pioneering any anything
+other than like just looking into the
+right places and making and forging the
+right connections so all these research
+groups across the world like from
+Carnegie Mellon to TU Vienna and like in
+Asia and and Tokyo and so on and so
+forth are using meshes like when it's
+coming to the production of buildings
+they're beginning to use meshes in in
+conjunction with nerves so like why not
+join them and begin to utilize a lot of
+the emerging research and so again the
+term architectural geometry is just
+using meshes that are aware of how they
+stand up
+ie they're aware of gravity and also
+they're aware of like how they might be
+physically realized so it's not some
+arbitrary curvy geometry that has no
+idea of gravity or no idea of how we
+event so geometry which is like a
+designer's problem is architectural
+geometry if geometry you allows the
+engineer to rationalize for you then
+that's not architectural geometry that's
+just geometry that someone's having fun
+with
+at least that's our definition so we
+collaborate we want to collaborate with
+like all these people and all of this
+extensive emerging knowledge and that's
+that's another reason to look at meshes
+leading research organization like the
+one that I'm where I'm doing my PhD at
+is like also a like you might already be
+using Rhino vault and caramba and like
+whatnot they're all meshes mesh based
+technology so you can actually begin to
+see that like you know lots of
+researchers like with with 10 10 plus
+years of funding they're looking at
+investing heavily into meshes so it's
+only a matter of time when this becomes
+more mainstream in architecture and also
+like in you know pioneering engineers or
+like advocating the use of this like
+honey Takara I don't know how many of
+you know he was one of the founders of a
+Katie that helped Zaha Hadid Architects
+like realized several several seminal
+buildings interestingly also people from
+other disciplines were now coming into
+architecture like this guy mark poly is
+like one of the exceptional geniuses
+let's say he sold FaceTime to Apple and
+now he's interested in architecture
+don't ask me why but he's also like
+interested in in in in augmenting meshes
+with like fabrication related
+information structure related
+information environment related
+information like aesthetic information
+like curvature flow and so on and so
+forth
+and of course these these two guys like
+you I am sure all of you know and they
+are also beginning to switch to use of
+meshes and mesh based technologies and
+and also they're demonstrative projects
+like when these kind of stunning
+prototypes I mean they're they're soon
+to become buildings this was in first
+one was in 2016 in the Venice Biennale
+and the next one was in 2017 and so you
+can like just join the dots and we can
+see in the in the next five years where
+things are going to go and
+but for us like what's really important
+is not so much the technology alone like
+we really want to understand the
+technology but what we want to really do
+is to explore the space of solutions
+like all of these solutions here are
+like valid in some way or the other in
+certain structural conditions but what's
+what's what we see here is this universe
+of possibilities so design then becomes
+like how do you search through this
+space for the more appropriate one for
+your given set of constraints for your
+given set of opportunities and so on and
+so forth so the the images images on my
+right like it's from my PhD advisors PhD
+Philly block and they're all
+compression-only geometries ie different
+kinds of domes and walls so you can make
+produce all of these with just brick and
+and and the the more tensile ones I'm
+sure all of you recognized there from
+the engineers of Rey Auto in 1960s from
+one of the first computer programs that
+was used to do form finding they also
+came up with the math behind it and so
+on and so forth so then they called link
+with link widths and sheykh and so to
+this day like these their method forms
+the basis for a lot of the form finding
+that like you might do using like
+kangaroo or any or Rhino Walt and so
+underlying that the numerical method is
+from from the 1960s 1973 okay so to that
+then like what do we do with that like
+so the gist of it is geometry like this
+the main action or the the main strategy
+to address structural and fabrication
+constraints is to basically move the
+points of a mesh
+until certain geometric conditions are
+met for example if you want a stretch
+fabric all parts will have like negative
+curvature or zero mean curvature let's
+say minimal surfaces so which means like
+you move the points until that curvature
+condition is satisfied and if you want
+to make it out of paper and things you
+move the points again in a slightly
+different way until it becomes you know
+a certain Gaussian curvature is minimal
+so the main takeaway here is that like
+you move points until you are satisfied
+and how you define satisfaction is the
+key key key strategy so for example with
+shell structures like which we have kind
+of invested the early part of the team's
+efforts into here's here's like
+something in action like this was from
+like 2007 or 8 or something but you can
+see that like the user manipulates or
+the designer manipulates like like a
+kind of caged geometry and behind the
+scenes like these points are being moved
+almost real-time so you can see so
+that's that's one example of like moving
+points until certain curvature
+conditions are met or structural
+conditions or environmental conditions
+so on and so forth
+this is usual strategy so having done so
+like it becomes very easy to produce why
+would why did we do move those points in
+that particular way because we could
+then describe the same piece of geometry
+on-site physically by just stretching
+fabric along the rails so and then there
+is like a physical meaning of
+fabrication meaning to the geometry and
+that's like one of the aspects of
+architectural geometry is that like that
+geometry is aware of how it will be made
+and it's aware of how the forces
+affected let's say and
+and the last person on the in this
+series like I would totally recommend
+you to like to watch that
+it's called geometry instructure like
+Kris Williams who was like a professor
+who was a professor in but like in one
+of the pioneers who helped foster and
+partners build the British Museum
+Library when Caramba and all of these
+software wasn't available like he wrote
+a piece of software to enable and it was
+only a two hundred kilobyte piece of
+software but like you can see the impact
+its had on on the profession like the
+modern Lee the British Museum and then
+like 15 years later there's like Kings
+Cross station and then there's a
+resurgence of shell structures
+everywhere is because of pioneering
+efforts like Kris Williams and others
+like other research organizations that
+are pushing this paradigm anyway so for
+us it was like very simple like so you
+want to generate that geometry that way
+you just unfold it cut cut up the panels
+give it to a tailor they stretch it he
+brought the fabric on site and then we
+stretch stretch the fabric across across
+across the pipes which are also manually
+bent again how do you make sure that the
+pimp pipe is bendable you move the
+points of the curve until certain
+curvature conditions are met that it is
+only singly curved or though all the
+arcs lie on a plane and so on and so
+forth so this moving points is the key
+strategy no matter what you do and so
+and then like you just stretch the
+fabric and then put concrete on it and
+and this was like done already several
+years ago with like with hardly any
+digital fabrication almost all of this
+was manual but like we still think this
+is a very useful example like - - that
+you can use digital tools in interactive
+ways you don't necessarily need to be
+only in a high-tech environment to
+actually deliver these complex
+geometries and this
+this was in India like in 2009 or
+something and again made with like a
+handful of labor and over like just ten
+days and you can also it's also very
+scalable that's one of the key aspects
+of like parametric design or digital
+design is that like once you can make
+something at a smaller scale you can
+literally do the same at us in a much
+larger scale here the pipe is of course
+bent in a more professional more
+engineered way and everything is more
+calculated but like the principle
+remains the same you just bend pipe and
+stretch fabric and then then you know
+you have a restaurant underneath this
+this building open I think in 2014 it
+was the architects and in the serpentine
+extension to the Sackler gallery again
+so geometry is key but like an why is
+geometry key here like this job if
+someone told you that this is entirely
+compression meaning you can make this
+curvy geometry on entirely stand without
+any glue and without any reinforcement
+like only in stone you won't probably
+believe it but what's important here is
+that like this and all the importance of
+Philip block and his PhD and the
+research of block research group is is
+trying to open up like this numerical
+calculation to kind of geometric
+intuition like so the bottom right
+diagram already tells you the forces if
+you know how to read it tells you the
+forces that are going to be active in in
+the geometry and how do you get that
+diagram that's also very clever it's
+purely by construction you just take the
+geometry that is projected down and
+rotate all the edges and then you
+already get that of course there's some
+numerical aspects but like because a lot
+of this is like geometric operations you
+know it becomes more accessible to
+designers
+and and and so at least that's that's
+why I what originally faceted fascinated
+me about Philippe's work was was the
+geometric nature of that entire field
+it's called graphic statics and it's
+again not invented in the 20th century
+it's like goes all the way back to
+Newton and others who use geometry to do
+some of their physics aspects okay so
+and it also correlates very well with
+like physical reality so if this model
+stands up or doesn't stand up you can be
+very sure that like that the bigger one
+is likely to fall and kill people and
+but like if you somehow managed to make
+it stand without glue obviously things
+these become not just a representational
+model but that you can literally begin
+to scale this like so if you scale the
+geometry up you can also imagine the
+forces are gonna be scaled up in at
+least quadratic or cubic way so that so
+that's like also physical intuition like
+and you can correlate like physical
+behavior with like geometric quantities
+whole lot more easily than like physical
+behavior with color like an or physical
+behavior with numbers so that's so
+that's again like so this is again
+collaborative work with like block
+research group and these architects like
+that we're trying to extend this things
+that we do in workshops like like the D
+11 etc is not just one way traffic so we
+take those ideas and I kind of try and
+scale them up like add to that like our
+magic sauce and kind of you know hope
+hope to construct some of these things
+in the near future
+again it's meant to be only compression
+and like made out of stone without much
+reinforcement once we do that like we
+try to apply similar ideas to make a
+small chair in stone and carbon
+reinforcement so the black areas are
+where there's more tension in the in the
+shape and so you put reinforcement and
+the white areas where the stone that
+were armed or compressive let's say I
+mean it's not exactly a mapping
+one-to-one but general idea again we're
+trying to combine like some of the
+furniture ideas from Wagner and like
+with like the structural ideas from
+block research group and and then also
+craftsmanship in Italy and Switzerland
+like to kind of produce some of our some
+of these shapes so it's it's digital but
+it's also handicraft in that sense or
+traditional craft and also CNC milling
+digital fabrication doesn't necessarily
+afford usually always means there's a
+whole lot of more manual work so and
+it's a similar story would like this
+thing 3d printing on top of like a kind
+of hot work cut mold start to finish
+this was like about three maybe six
+weeks designing making to installing so
+and again there were two startups that
+collaborated here one was in Denmark
+called OD Co that does the only thing
+they do is use a hot wire cutter mounted
+on a robot to cut foam and then a I
+build which is a start-up here in London
+like they print in plastic again
+mounting extruder on to play on to a
+robot and they print so when we decided
+we decided that these two companies
+should collaborate they're never known
+of each other and so we designed this
+piece so that we can enable that
+collaboration so on the one hand the
+base geometry on which the printing
+happens is hot wire cutter Bowl meaning
+it's made of straight lines and then
+obviously you have to stack all of these
+pieces together and so on and so forth
+and on the other hand like the curly
+geometry is more adherent or more
+conducive for printing because printers
+don't want to start and stop especially
+if they're mounted on a robot so you
+want the job the path to be as
+continuous as possible so all we did was
+make this little
+simulation game of like pushing wire
+into a contained contained volume and so
+it naturally has to curl and so we did
+that digitally and and then if you can
+do it on a flat piece of box you can
+also do it on a curved box which is the
+diagram on the on the bottom which says
+you take whatever is happening on the
+flat region you just map it onto onto
+the curved regions and then the robot
+like in like you know you'd rotates the
+drum then like it just prints and
+there's a video at the end of this so
+you'll see them with the more details of
+it like that so here's everything taped
+up and print and things printed similar
+story with like another favorite topic
+of ours is like curved origami very
+related cousin of like straight line
+prismatic origami and again this has
+like a deep history like an
+architectural II one of the interesting
+aspects that this was it was taught in
+the Bauhaus as there was a textbook a
+little textbook of like folding these
+kind of shapes the black and white one
+and then like mathematicians and artists
+in MIT and elsewhere began to pick this
+up now and like and then those also
+another topic another feature that is
+underlying most of our work is that like
+many people are interested in these kind
+of topics it's like on the one hand
+they're mathematicians like the the the
+this bearded guy who was more known for
+compression algorithms that go onto CDs
+and stuff like but he was interested in
+origami and he's made seminal
+contributions to that David Huffman and
+also artists like Ron Resch they also
+made like seminal contributions to the
+field so again it's already
+collaborative knowledge and historic
+knowledge so it's one of the aspects
+that interests us like similar to shell
+structures curved origami is another
+topic which shares this these kind of
+features plus there's increasing
+interest in in the computational
+recreation of this and
+the mathematics behind it and so on and
+so forth but at the base of it it's like
+very very designer intuitive like it's
+so simple that you just cut paper and
+lexcorp it and then you fold and you get
+like really a curvature for free on top
+of it like you get like the entire
+design space for free like so it's like
+a massive so design then as I said like
+becomes like which what these do use
+tools and how do you choose that like
+you kind of have a directed search
+through design space and like four to
+two years we we used to run this
+workshop in in the DRL students just did
+this 2d to 3d conversion manually like
+drawn 2d and fold on paper and then if
+you can fold in paper you can scale up
+to acetate metal so on and so forth so
+they used to do lots and lots and lots
+of these little paper models and then
+like one day they suddenly start scaling
+up but this is the process you do in 2d
+and then you fold right and if it is
+extraordinarily surprising this entire
+piece like rocking-chair that one of the
+teams did like it comes from one single
+piece of paper or plastic or any flat
+sheet there but the real bigger scale
+one obviously had to be joined together
+by folding half of it because the laser
+cutter couldn't accommodate like a three
+metre sheet as I said like and then we
+did the exact same 2d to 3d
+hardly any anything digital here we
+explored this in paper on physically and
+then like we literally measured measured
+what was in paper and scaled up the 2d
+drawing and that's how we produce a big
+3d thing like by scaling up the 2d
+drawing like so we there wasn't a
+digital representation of this until
+very late
+so almost all production drawings were
+like just scaled up like manual drawings
+like and cleaned up a little bit and not
+in Rhino and AutoCAD so again built
+in India with just a laser cutter and
+like 35 students built over or made over
+like three to four hours each for each
+of these eggs and that's what I did my M
+feelin like to to try and cap understand
+somewhat geometrically what's going on
+or how do you understand curved origami
+and and so the basic principle again is
+very geometric there's no I mean there's
+a lot of physics but it's physics
+abstracted into geometric conditions the
+only thing you only two conditions you
+need to be making curved origami is that
+the strip's they need to be flat so all
+the great strips here all each of the
+squares need to be flat they cannot be
+twisted and where the squares meet they
+all all the angles around around that
+around that vertex need to add up to 360
+meaning you can flatten it so these are
+only two geometric conditions and you
+notice there are no crazy physics
+calculations here and with a little bit
+of programming you can ensure again by
+moving points that these conditions are
+true that like all the faces are flat
+and all the vertices the angles add up
+to 360 so the key idea move points until
+certain conditions are met and in this
+case the conditions are these two
+geometric conditions and you can see
+that as soon as those conditions are met
+like it unfolds perfectly and then like
+you can produce all the nuts and bolts
+and like you know get you get your
+minions to make it and so on and so
+forth so it's and again like you can do
+it in paper and like do a smaller one
+like and in this case like we we did
+this slightly more complicated process
+because like we had to simultaneously
+unfold 400 panels and make sure that the
+boundary is aligned like so you couldn't
+unfold it once because then the next one
+is going to be affected so you have to
+simultaneously ensure that all 400
+panels are have these conditions that
+like the faces are flat and the vertices
+all those pinpoints and that the angles
+add up to 360 and so so that's the
+difference between the pain
+and the gray ones that like when it says
+perturb G equal to zero means move the
+points until those in curvature or the
+angles add up to zero and the rest is
+unfold you check for things match and
+like production things and then we
+folded that this time with like 80% of
+the panels are folded by a robot 20% was
+too big for a robot so we needed like
+smaller human hands and then they were
+all bolted together this was for the
+2012 when is being are they yeah okay so
+continuing with this idea of flat sheet
+material like so this is already 4 years
+after 2012 like all of these curved
+parts are actually produced from flat
+sheet material and inside these are like
+standard aluminum box sections and from
+our side this this entire project was
+like about three months and there was
+like literally one person working on it
+at any given time so that's how much
+profession has progressed like all the
+previous ones used to take like five of
+us and like you know working four months
+and so on and so forth like like by now
+there's so much knowledge in the in the
+community and so many tools that like
+you can really see that digital
+fabrication is coming coming of age
+becoming more mainstream again the same
+principles are similar like you somehow
+generate whatever design process you use
+you generate a net of points points and
+lines and then in this case move the
+points until all the beams are torsion
+free or until they're they're not
+twisted so you will see that so here's
+the points points and lines version or
+the mesh version of that geometry and
+pink means lots of twists and you will
+see that you move them a little bit and
+these are like literally centimeters
+moving some of the points barely move
+and already ensures that everything is
+green and once that is true you can
+literally make everything that is based
+on that underlying geometry is
+developable
+and if it means if it's developable then
+you can unfold it and you can use a
+laser cutter to skin skin a skin the
+structure let's say so that in general
+that's the that's idea and yeah here's I
+don't know how many number of panels
+unfolded so again to say like little
+bits of moving of points makes the left
+side of our geometry which we call
+that's our designer job it ensures that
+like everything on the right side like
+downstream construction and fabrication
+and shop drawings everything it becomes
+so much more simpler like infinitely
+simpler because like the left side is
+ever so slightly different from your
+initial like random or whatever
+arbitrarily drawn geometry so and so in
+that sense it has fabrication
+rationality embedded in the geometry and
+therefore insures that the downstream
+processes are more smooth and more easy
+to do if we hadn't done that
+moving up points the right side
+everything would be like super twisted
+and like and the budget would be going
+through the roof because everything had
+to be then made custom and so on and so
+forth so you can see how the profession
+is progressing from making everything
+custom to just changing the design ever
+so slightly so we are incorporating a
+lot of the downstream construction
+aspects already upstream yeah as I said
+this is the fabrication always means
+lots of manual labor this in this case
+they're welding and grinding some of the
+pieces similar to 3d printing this is I
+will end with this research topic which
+we this is part of my PhD that I'm
+pursuing again with block research group
+again with the idea that like how do you
+understand 3d printing especially
+printing in concrete and clay in a kind
+of intuitive way so how do you generate
+shapes how do you generate shapes that
+are 3d printable or highlight 3d
+printing capacities and how do you
+understand how material behaves in when
+it is 3d printed so one of the the main
+intuitions here is that like if you
+scale down masonry structures earth
+structures unreinforced masonry if you
+scale them down you can perhaps begin to
+understand intuitively how 3d printing
+works not plastic 3d printing but like
+printing in clay and compression
+dominant materials so that's that's a
+general intuition so you scale down and
+make the bricks little bit squishy
+virtually and in the digital space and
+you you get some kind of idea so that's
+so that's the idea here like the lots
+the physics of two rigid bodies meeting
+is like well studied for both
+computationally and and also in general
+physics to that like you just make the
+bricks a little bit skooshy and if you
+can understand the relationship between
+two bricks you can understand the
+relationship between two rows of bricks
+and once you can understand relationship
+between two rows of bricks you can then
+begin to understand relationship between
+multiple rows which in many ways is what
+is 3d printing right it's always layer
+by layer yeah so that's that's the
+general structural or physical side of
+the things and then then there's also
+how do you create those layers the
+typical 3d printing process is this you
+model some arbitrary shape and then you
+cut it up you take it to slicer Cora
+whatever so but like the printer only
+cares about the pad like so you have
+gone through this like weird process of
+generating some shape and then cutting
+it up and it's and you don't even know
+where that line is gonna be on your
+geometry because it's another another
+piece of software and like you're not
+actively visualizing these lines so the
+second intuition is how do you generate
+shapes layer by layer so to inverse this
+process where the geometry is you build
+the geometry in layers so you highlight
+or emphasize so the overall geometry is
+implicit and you are make explicit all
+the the paths what is called the task
+graph is the path that the robot or the
+machine will follow you make that
+visible to the designer and make make it
+visible in the design process not as a
+after process and the one intuition here
+is like we can represent those paths as
+boundaries of images like in Photoshop
+when you do find edges you can literally
+use that algorithm to represent the
+entire piece of geometry like a CD scan
+as a stack of images and when you want
+the paths or when you want to show the
+paths like you only find the edges of
+that image and this has several
+advantages and I will only go through
+one one of the main advantage is that
+you can blend in in images and you can
+literally use Photoshop to design 3d
+geometry because it's very easy to blend
+images as you know and it's much harder
+to blend like geometry of a rabbit with
+with the Taurus for example right like
+and that that's very hard to do in
+measures it's super easy to do in in
+images so you - we choose to use image
+representation and not mesh
+representation for one of for this
+reason and then we highlight the layers
+because that's what designer should be
+aware of like the relationship between
+layers and that's so and then you can
+begin to literally design all kinds of
+complex geometries by keeping track of
+how the layer layers evolve from one
+layer to another so one circle becomes
+two and like so on and so forth so you
+can see here all you have to specify is
+the start and end and you do the
+blending in image space or as images
+and the curves are doing their thing and
+then you get like this this is rather
+hard to do you can definitely model this
+in in meshes but it's almost trivial to
+do in with images so you just blend the
+the image on the Left f2g and like the
+geometry evolves from A to E and so you
+can see like this has several advantages
+so you only have to specify at the top
+as three circles and the bottom has two
+circles and everything else in between
+becomes natural consequence of blending
+from one image to another and and then
+once the process is so simple you can
+like really like explore a wide range of
+like shapes that make it very which
+highlight one of the key capacities of
+3d printing even though it's layer by
+layer like you can like do all of these
+complex geometries and complex
+topologies so each of these 3d prints is
+basically represented by two images one
+on the top one on the bottom and
+everything else is like a blend
+interpolation between them okay so to
+conclude a large part part of like our
+research is in the physical but also to
+abstract the physical into geometry so
+that it becomes
+I'm Anubha a vehicle for us to
+collaborate with engineers with
+mathematicians with clients with because
+everyone understands geometry or more
+people understand geometry and then they
+understand physics so if you can like
+then abstract physics into geometric
+properties like of curvature of light of
+out light bounces of reflectance these
+are all geometric properties and then
+everyone can have have a say and then
+that's so that provides the substrate or
+the the kind of technologies for our
+next phase to really bring consumers
+into the design process so by by already
+rehearsing all of these geometric based
+language so if you remember the Eames
+diagram over the last decade like we
+have tried to rehearse like a vocabulary
+of of materials and techniques and how
+to make things and we built our
+collaborative network to be able to
+design freely again not just not to
+disregard all the beam stuff and all the
+other usual aspects of delivery we have
+a separate team doing that these are
+very very important aspects of
+construction but we are more focused on
+the early part of design and how that
+can all of this geometric all of these
+complexities can be somewhat abstracted
+early on in the design process so this
+is generally we are very optimistic for
+the future because every year we see
+these kind of pavilions like get bigger
+and bigger and bigger and more and more
+people in the world are doing these kind
+of things including you you might put up
+something at the end of the lab outside
+like so and this is this is a status quo
+and
+and we also think our contribution to
+this is this little gallery for
+mathematics that we that we did in the
+Science Museum in London where again all
+of the things that that has been
+rehearsed has we have tried to suppress
+that a little bit so everything you see
+in this image is some application of Vol
+all the research things that we are done
+so for example the benches were hot were
+cut the fabric stuff is like a kind of
+tensile structure we also studied how to
+put the seam layouts you can like
+randomly put seam layouts wherever you
+want you otherwise they would the fabric
+will wrinkle so all of these things was
+feasible with a very small team in a
+very small time budget the entire design
+for the phase was like like maybe two
+months and then like start to finish was
+maybe 16 months it's a small gallery but
+like there are over 200 objects and so
+in the next phase we want to pay more
+and more attention to the people and
+less - so we want to take for granted
+that like we already know I mean of
+course that research is gonna continue
+like in the in the discipline and domain
+but we are slowly trying to fifth focus
+to begin to understand equally
+computationally and equally irrationally
+how people why are these two people
+standing there
+why not over there you can begin to
+leverage some of the same kind of
+thinking and technologies from other
+disciplines some of the math from social
+science and and and data science and AI
+and other things you can begin to
+leverage to study equally
+computationally and equally rigorously
+what what the user experience of spaces
+is likely to be and how you can maximize
+that so
+that that's a general outlook let's say
+so with that I will stop here and I will
+play a video for you thank you very much
+[Applause]
+where's the video and if you have
+questions I can take them
+[Music]
+the streak of playing a video I learned
+like a few years ago so there's no
+questions and I quietly escape
+[Music]
+[Music]
+again maybe in across all these videos
+you will see that almost all projects at
+some stage will involve the strategy of
+moving points you start somewhere nearby
+and like then move it until you are
+happy and then you start again so it's
+it's I mean I'm kind of trivializing
+like all of the the the the several
+communities of knowledge that is coming
+together and is evolving but like I just
+want to give you an intuition about it
+and I don't want to try and trivialize
+lots and lots of people's work for the
+more technical bits and that's specially
+the structural bits as I said you should
+watch the or come to the lecture by
+Chris Williams
+the previous project like it was
+literally us doing the manual
+fabrication in 40 degree heat in Venice
+we're climbing up there like putting
+bolts so for those of you think that
+like people ins I have like an infinite
+budget actually not we are genuinely
+interested in this and so we put put our
+who put our efforts on the line to see
+some of these things through its it's
+not that somehow magically like people
+throw money at us you know that that
+doesn't happen to you it doesn't happen
+to us it doesn't happen ever
+also this one it was literally everyone
+from the three teams like AI builds
+Oracle and and code literally putting
+their their physical effort apart from
+like machines and like programming
+things and just because it was genuinely
+interesting to and exciting to do this
+not because it was like some kind of
+scientific demonstration right they were
+just a joy it was fun to collaborate and
+and then try and do something and it
+this has become one of the most popular
+pieces of in our exhibitions almost
+entirely by accident because we had no
+idea what's gonna in all these projects
+we had no idea that like if things would
+actually materialize so it we almost go
+into all of these projects like not
+knowing how to produce things and then
+relying on risk-taking but like
+calculator risks and like early on like
+we built a collaborative team and we
+know amongst the team like there has to
+be the necessary knowledge to actually
+physically realize this and design these
+kind of things well so it's not that
+like you know we already have all of
+this knowledge and then we're applying
+it we use these projects to generate
+knowledge like so by taking risk trying
+to do like what is usually not or
+consider done doable or like too
+expensive you forcing people to
+collaborate and be clever and that's
+that's a key message I want to convey
+that like if you understand things
+geometrically many people can
+communicate and
+and you build a collaborative team first
+and the results will follow so with with
+with your D lab efforts I would say
+that's that's what you should take away
+the most apart from knowing how to move
+some sliders you know that's important
+too but yeah thank you
+[Music]
+okay
+[Music]
+what you've seen today is quite
+interesting but my question is whenever
+when we apply this to an architectural
+skill I still haven't seen the
+relationship with the context I'm saying
+this because I'm from Saudi Arabia
+yeah I'm in Riyadh and it has three
+projects there yeah and a million other
+architects and our problem is that every
+building is becoming an iconic building
+yeah so we have a visual clutter yeah I
+mean they're lovely buildings but they
+don't come together yeah you should give
+all the buildings to us you won't have
+clutter no that fair point that as I
+said like it's it's there there was by
+my definition and a necessity that like
+all of this technology and and the
+technical aspects are not trivial so the
+discipline and the profession and
+various aspects have to come together to
+begin to address the more true concerns
+of architecture like which is how do
+people how does architecture how do
+consumers of architecture how they can
+be participating in the production and
+so we can then actually produce what
+they want rather than kind of just
+telling them this is how its produced so
+that's that's why I said that like these
+these kind of deliberate suspension of
+disbelief for our period of focused
+endeavors and efforts across the world
+not just in one architecture firm but
+like in academia in
+and collaborative and cumulative ways of
+working is a necessary step towards
+actually addressing all of these other
+concerns so now even so we are saying
+social concerns but like or social value
+propositions but like engineers are
+equally looking at saying ok now we have
+understood all the math or enough of the
+map and off of the material behavior
+like can we now make it more
+environmentally sustainable like so so
+it's it's now beginning we we think that
+we should begin to address these other
+concerns and they might relate to
+context and some might relate to
+environment some might relate to
+cultural context I might relate to
+communal context and so on and so forth
+so give us a few more buildings and wait
+a few more years that's that's my answer
+have another okay all right thank you
+[Applause]
