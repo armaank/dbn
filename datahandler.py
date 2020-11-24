@@ -108,7 +108,7 @@ def preprocess(fpath: str, save_dir: str):
 
             # removes "{'text': '" and everything after  "'/", 'start'",
             # re-adds newline
-            line = line[10 : m.span()[0]] + "\n"
+            line = line[10: m.span()[0]] + "\n"
 
             # write cleaned line to the destination file
             e.writelines(line)
@@ -134,7 +134,6 @@ class DataHandler:
         self.seed = seed
         np.random.seed(seed)
 
-
         self.root_dir = root_dir
 
         self.inst_dict = self.get_insts()
@@ -142,18 +141,20 @@ class DataHandler:
 
         self.stats = self.get_stats()
 
-        #self.data = list(self.inst_dict.values())
-        #self.data = np.random.permutation(self.data)
-        #self.data = [os.path.join(inst, os.listdir(inst)) for inst in self.inst_dict.values()]
-        data = []
+        paths = []
         inst = []
         for inst_dir in self.inst_dict.values():
             for fname in os.listdir(inst_dir):
-                data.append(os.path.join(inst_dir, fname))
+                paths.append(os.path.join(inst_dir, fname))
                 inst.append(os.path.basename(inst_dir))
 
-        self.data = dict(zip((data), (inst)))
+        # randomly permute corpus
+        indicies = np.arrange(paths.shape[0])
+        np.random.shuffle(indicies)
+        paths = paths[indicies]
+        inst = inst[indicies]
 
+        self.data = dict(zip((paths), (inst)))
 
     def get_insts(self) -> dict:
         """gets the subdirectories of the data, cooresdponding to each
