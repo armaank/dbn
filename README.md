@@ -1,0 +1,2 @@
+# textschema
+analysing architecture lectures 
