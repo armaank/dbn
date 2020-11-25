@@ -106,6 +106,10 @@ def preprocess(fpath: str, save_dir: str):
             # find regex match in the line
             m = pattern.search(line)
 
+            line = str(line)
+            # remove newlines from MIT/GSD
+            line = line.replace('\\n', " ")
+
             # removes "{'text': '" and everything after  "'/", 'start'",
             # re-adds newline
             line = line[10: m.span()[0]] + "\n"
@@ -149,10 +153,10 @@ class DataHandler:
                 inst.append(os.path.basename(inst_dir))
 
         # randomly permute corpus
-        indicies = np.arrange(paths.shape[0])
-        np.random.shuffle(indicies)
-        paths = paths[indicies]
-        inst = inst[indicies]
+        #indicies = np.arange(paths.shape[0])
+        #np.random.shuffle(indicies)
+        #paths = paths[indicies]
+        #inst = inst[indicies]
 
         self.data = dict(zip((paths), (inst)))
 
@@ -247,7 +251,7 @@ class DataHandler:
 def main():
 
     cur_dir = os.getcwd()
-    data_dir = os.path.join(cur_dir, "data_temp")
+    data_dir = os.path.join(cur_dir, "data")
     save_dir = os.path.join(data_dir, "preproc")
 
     # loop through each directory and preprocess the files
