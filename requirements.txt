@@ -56,7 +56,8 @@ nltk==3.5
 notebook==6.1.5
 numba==0.51.2
 numexpr==2.7.1
-numpy==1.19.4
+numpy==1.19.3; platform_system == "Windows"
+numpy>=1.19.4; platform_system == "linux"
 packaging==20.4
 pandas==1.1.4
 pandocfilters==1.4.3
