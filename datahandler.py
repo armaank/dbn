@@ -152,12 +152,6 @@ class DataHandler:
                 paths.append(os.path.join(inst_dir, fname))
                 inst.append(os.path.basename(inst_dir))
 
-        # randomly permute corpus
-        #indicies = np.arange(paths.shape[0])
-        #np.random.shuffle(indicies)
-        #paths = paths[indicies]
-        #inst = inst[indicies]
-
         self.data = dict(zip((paths), (inst)))
 
     def get_insts(self) -> dict:
