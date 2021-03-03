@@ -18,11 +18,15 @@ stopwords = nltk.corpus.stopwords.words()
 
 
 def filter_ngram(ngram: str, n: int) -> bool:
-    tag = nltk.pos_tag(ngram)
-    if tag[0][1] not in ["JJ", "NN"] and tag[1][1] not in ["NN"]:
+    """
+    This function filters stopwords anything that is not a noun (or adjective-noun bigram) (stopwords are only filtered for bigrams)
+    PRON is pronoun
+    """
+    tag = nltk.pos_tag(ngram) #nltk.pos_tag provides the part of speech of the ngram
+    if tag[0][1] not in ["JJ", "NN"] and tag[1][1] not in ["NN"]: #JJ is adjective, NN is noun
         return False
     if n == 2:
-        if ngram[0] in stopwords or ngram[1] in stopwords:
+        if ngram[0] in stopwords or ngram[1] in stopwords: #checks for stopwords
             return False
     if n == 3:
         if (
@@ -31,7 +35,7 @@ def filter_ngram(ngram: str, n: int) -> bool:
             or ngram[1] in stopwords
         ):
             return False
-    if "n" in ngram or "t" in ngram:
+    if "n" in ngram or "t" in ngram: #n is noun
         return False
     if "PRON" in ngram:
         return False
@@ -39,6 +43,9 @@ def filter_ngram(ngram: str, n: int) -> bool:
 
 
 def merge_ngram(text: str, bigrams: str, trigrams: str) -> str:
+    """
+    This function loops through text and merges bigrams and trigrams that have already been identified
+    """
     for gram in trigrams:
         text = text.replace(gram, "_".join(gram.split()))
     for gram in bigrams:
@@ -47,12 +54,18 @@ def merge_ngram(text: str, bigrams: str, trigrams: str) -> str:
 
 
 def filter_stopwords(text: str) -> str:
+    """
+    This function filters stopwords for all of the text
+    """
     return [
         word for word in text.split() if word not in stopwords and len(word) > 2
     ]
 
 
 def filter_pos(text: str) -> str:
+    """
+    Filters all non-nouns from text
+    """
     pos = nltk.pos_tag(text)
     filtered = [word[0] for word in pos if word[1] in ["NN"]]
     return filtered
@@ -65,7 +78,7 @@ def main() -> None:
     print("Loading corpus")
     corpus = DataHandler(data_dir, seed)
 
-    # print some various information from the corpus
+    # prints some various information from the corpus
     print("Total Word Count: {}".format(corpus.total_words))
     print("Number of Docs in the Corpus: {}".format(corpus.total_docs))
 
@@ -89,12 +102,12 @@ def main() -> None:
 
     min_bigram_frequency = 50
 
-    bigram_measures = nltk.collocations.BigramAssocMeasures()
+    bigram_measures = nltk.collocations.BigramAssocMeasures()  #finds bigrams in document
     finder = nltk.collocations.BigramCollocationFinder.from_documents(
         [doc.split() for doc in corpus]
     )
-    finder.apply_freq_filter(min_bigram_frequency)
-    bigram_scores = finder.score_ngrams(bigram_measures.pmi)
+    finder.apply_freq_filter(min_bigram_frequency)  #removes uncommon bigrams (appears fewer than min_bigram_frequency times)
+    bigram_scores = finder.score_ngrams(bigram_measures.pmi)  #pmi = pointwise mutual information, measures how "useful" bigram is
 
     bigram_pmi = pd.DataFrame(bigram_scores)
     bigram_pmi.columns = ["bigram", "pmi"]
@@ -118,6 +131,7 @@ def main() -> None:
     min_pmi = 5
     max_ngrams = 500
 
+    #Removes low pmi bigrams and trigrams
     filtered_bigram = bigram_pmi[
         bigram_pmi.apply(
             lambda bigram: filter_ngram(bigram["bigram"], 2) and min_pmi > 5,
@@ -145,6 +159,7 @@ def main() -> None:
 
     print("cell done")
 
+    #merges all ngrams
     corpus_w_ngrams = corpus.copy()
     corpus_w_ngrams = corpus_w_ngrams.map(
         lambda x: merge_ngram(x, bigrams, trigrams)
@@ -152,7 +167,7 @@ def main() -> None:
 
     print("cell done")
 
-    p = multiprocessing.Pool()
+    p = multiprocessing.Pool()  #multiprocessing lets you deploy to multiple cpus at once
     corpus_w_ngrams = p.map(filter_stopwords, [doc for doc in corpus_w_ngrams])
     p.close()
     print("cell done")
