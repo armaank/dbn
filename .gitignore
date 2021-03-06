@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 
 */images_captions/*
+/data/*
