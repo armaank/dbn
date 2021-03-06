@@ -54,8 +54,7 @@ def preprocess(fpath: str, save_dir: str):
 
     tmp = "tmp.txt"
 
-
-    #re-encode file as utf-8
+    # re-encode file as utf-8
     try:
         # open text file w/ read permissions, temp file w/ write permissions
         with open(fpath, "r", encoding=codec) as f, open(
@@ -78,7 +77,6 @@ def preprocess(fpath: str, save_dir: str):
     except UnicodeEncodeError:
         print("Encode Error")
 
-
     # create directory to save preprocessed text
 
     new_dir = os.path.join(save_dir, os.path.basename(os.path.dirname(fpath)))
@@ -95,32 +93,33 @@ def preprocess(fpath: str, save_dir: str):
     ) as e:
 
         # regex for determing where 'start' label in json-like format begins
-        #regex = r"((\'|\"), (?:^|\W)start(?:$|\W))"
-        #pattern = re.compile(regex)
+        # regex = r"((\'|\"), (?:^|\W)start(?:$|\W))"
+        # pattern = re.compile(regex)
 
         # loop through all lines in the text file
         for line in csv.reader(f):
 
             line = line.pop()
             # find regex match in the line
-            #m = pattern.search(line)
+            # m = pattern.search(line)
 
-            #line = str(line)
+            # line = str(line)
             # remove newlines from MIT/GSD
-            #line = line.replace('\\n', " ")
+            # line = line.replace('\\n', " ")
 
             # removes "{'text': '" and everything after  "'/", 'start'",
             # re-adds newline
-            #line = line[10: m.span()[0]] + "\n"
+            # line = line[10: m.span()[0]] + "\n"
 
             # write cleaned line to the destination file
             e.writelines(line)
 
+
 def main():
 
     cur_dir = os.getcwd()
-    data_dir = os.path.join(cur_dir,"..", "web_data","Projects")
-    save_dir = os.path.join(data_dir, "..","preproc")
+    data_dir = os.path.join(cur_dir, "..", "ArtchDaily-Share", "all_text")
+    save_dir = os.path.join(data_dir, "..", "preproc")
 
     # loop through each directory and preprocess the files
     for dir_name in os.listdir(data_dir):

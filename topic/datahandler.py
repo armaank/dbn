@@ -108,11 +108,11 @@ def preprocess(fpath: str, save_dir: str):
 
             line = str(line)
             # remove newlines from MIT/GSD
-            line = line.replace('\\n', " ")
+            line = line.replace("\\n", " ")
 
             # removes "{'text': '" and everything after  "'/", 'start'",
             # re-adds newline
-            line = line[10: m.span()[0]] + "\n"
+            line = line[10 : m.span()[0]] + "\n"
 
             # write cleaned line to the destination file
             e.writelines(line)
@@ -185,7 +185,10 @@ class DataHandler:
         # make dictionary with institution name as keys and the datapath as
         # values
         inst_dict = dict(
-            zip((entries), (os.path.join(self.root_dir, entry) for entry in entries))
+            zip(
+                (entries),
+                (os.path.join(self.root_dir, entry) for entry in entries),
+            )
         )
 
         return inst_dict
