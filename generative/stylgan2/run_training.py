@@ -639,7 +639,7 @@ def get_arg_parser():
     parser.add_argument(
         '--data_channels',
         help='Number of channels in the data. Default: 3 (RGB)',
-        default=3,
+        default=1,
         type=int,
         choices=[1, 3],
         metavar='CHANNELS'

@@ -46,8 +46,8 @@ def preprocess_img_dset(fpath: str, w: int = 256, h: int = 256) -> None:
                 img = Image.open(filename)
                 img = img.resize((w, h))
 
-                if img.mode != "RGB":
-                    img = img.convert("RGB")
+                #if img.mode != "RGB":
+                img = img.convert("LA") # converts to grayscale
                 img.save(filename, "JPEG")
 
             except PIL.UnidentifiedImageError:
