@@ -1,5 +1,6 @@
-# textschema
-analysing architecture lectures 
+# archml
+
+WIP
 
 ## TODO:
 
