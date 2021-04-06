@@ -74,7 +74,7 @@ def filter_pos(text: str) -> str:
 def main() -> None:
 
     seed = 123
-    data_dir = os.path.join(os.pardir, "ArtchDaily-Share", "preproc")
+    data_dir = os.path.join(os.pardir,os.pardir,  "data","text-corpus", "preproc")
     print("Loading corpus")
     corpus = DataHandler(data_dir, seed)
 
@@ -183,7 +183,8 @@ def main() -> None:
     print("cell done")
 
     coherence = []
-    for ii in range(3, 20):
+    n_tops = [7, 10, 13, 15, 19] # these are topics chosen by jesse
+    for ii in n_tops:
         print("lda with {} topics".format(ii))
         Lda = gensim.models.ldamulticore.LdaMulticore
         ldamodel = Lda(
@@ -207,8 +208,14 @@ def main() -> None:
         p = pyLDAvis.gensim.prepare(
             ldamodel, corpus_bow, dictionary, mds="tsne"
         )
-        title = "topic_tsne_{}.html".format(ii)
+        title = "./lda_tsne/topic_tsne_{}.html".format(ii)
         pyLDAvis.save_html(p, title)
+        dist = []
+        for doc in final_corpus:
+            bow = dictionary.doc2bow(doc)
+            dist.append(ldamodel.get_document_topics(bow, minimum_probability=0, minimum_phi_value=None, per_word_topics = False))
+        col = "topic_dist_{}".format(ii)
+        df[col] = dist
         print("done")
 
     n_topics = [x[0] for x in coherence]
@@ -220,8 +227,13 @@ def main() -> None:
     plt.xlabel("Number of Topics")
     plt.ylabel("Coherence")
     plt.xticks(n_topics)
-    plt.savefig("topic_coherence_debug.png")
+    plt.savefig("./lda_tsne/topic_coherence_debug.png")
     plt.close()
+
+    df_exp = df.drop(columns='text')
+
+    df_exp.to_csv("./lda_tsne/topic_dist.csv")
+
 
     pass
 
