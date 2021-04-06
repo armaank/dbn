@@ -253,7 +253,7 @@ class ImageFolder(torchvision.datasets.ImageFolder):
 
     def __init__(self,
                  *args,
-                 mirror=False,
+                 mirror=True,
                  pixel_min=-1,
                  pixel_max=1,
                  height=None,
