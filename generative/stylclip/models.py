@@ -26,7 +26,7 @@ class GPT2(torch.nn.Module):
         self.model = load_weight(self.model, state_dict)
         self.model.to(self.config.device)
         self.model.eval()
-        
+
         self.init_tokens = torch.tensor(self.enc.encode(self.config.init_text)).to(self.config.device)
 
     def parse_out(self, out):
@@ -37,7 +37,7 @@ class GPT2(torch.nn.Module):
             else:
                 text = seq[self.config.dim_z:]
             text = self.enc.decode(text)
-            
+
             texts.append(text[:self.config.max_text_len])
         return texts
 
@@ -46,7 +46,7 @@ class GPT2(torch.nn.Module):
         #TODO: implement minibatch
         init_tokens = self.init_tokens.repeat(z.shape[0], 1)
         z = torch.cat((z, init_tokens), dim=1)
-        
+
         out = sample_sequence(
             model=self.model,
             length=self.config.max_tokens_len,
@@ -97,14 +97,16 @@ class StyleGAN2(torch.nn.Module):
                 model = "car"
             elif "church" in config.config:
                 model = "church"
+            elif "Adaily" in config.config:
+                model = "Adaily"
             print("Weights not found!\nRun : ./download-weights.sh StyleGAN2-%s" % (model))
             sys.exit(1)
         self.G = stylegan2.models.load(os.path.join(config.weights, "G.pth"))
         self.D = stylegan2.models.load(os.path.join(config.weights, "D.pth"))
-    
+
     def has_discriminator(self):
         return True
-    
+
     def generate(self, z, minibatch = None):
         if minibatch is None:
             return self.G(z)
@@ -116,7 +118,7 @@ class StyleGAN2(torch.nn.Module):
                 gen_images.append(self.G(z_minibatch))
             gen_images = torch.cat(gen_images)
             return gen_images
-    
+
     def discriminate(self, images, minibatch = None):
         if minibatch is None:
             return self.D(images)
