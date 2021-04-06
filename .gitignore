@@ -130,3 +130,6 @@ dmypy.json
 
 */images_captions/*
 /data/*
+
+*.jpg
+
