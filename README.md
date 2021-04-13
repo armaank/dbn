@@ -23,7 +23,6 @@ a genetic latent space search method developed by [clip-glass]. See below for ra
 * add readme to archlecture/topic
 * update readme for generative
 * clean up archlectures/generative
-* add license file for our code (gplv3?)
 * add references
 
 
