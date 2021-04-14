@@ -1,4 +1,4 @@
-# Name - tbd
+# tbd
 
 This repo contains code to construct topic models for text data scrapped from Architecture Daily, and generative models used to create synthetic imagery trained on images from Architecture Daily and other architecture websites. 
 
@@ -18,10 +18,9 @@ our models.
 Inside `./generative`, we have code to build generative models from image corpora. We first trained a StyleGan2 [[4](https://arxiv.org/abs/1912.04958), 
 [5](https://github.com/Tetratrio/stylegan2_pytorch)] on an image corpus scrapped from architecture daily as well as other sources. We then developed a text to 
 image model using our trained StyleGan2 and CLIP [[6](https://arxiv.org/abs/2103.00020)], using a latent space search method developed by 
-[[7](https://arxiv.org/abs/2102.01645)]. Fig. 2 shows some raw samples from our text to image model, generated from [this colab notebook]
-(https://colab.research.google.com/drive/1p8mfxWCvkI3pbgRiYIxsKjoFcEUhw0id#scrollTo=bfXK5iLY3rjQ).
+[[7](https://arxiv.org/abs/2102.01645)]. Fig. 2 shows some raw samples from our text to image model, generated from 
+[this colab notebook](https://colab.research.google.com/drive/1p8mfxWCvkI3pbgRiYIxsKjoFcEUhw0id#scrollTo=bfXK5iLY3rjQ).
 See `./generative/readme.md` for instructions to replicate our generative models. 
-
 
 
 ## TODO:
@@ -34,6 +33,9 @@ See `./generative/readme.md` for instructions to replicate our generative models
 * add hylinks to authors
 * update ack
 
+## Acknolwedgments
+We'd like to thank (clip-glass authors, stylegan2-pytorch authors, clip, more here?)
+for providing open source implementations of algorithms used for this project. 
 
 ## References
 [1] https://www.di.ens.fr/~fbach/mdhnips2010.pdf
@@ -49,9 +51,6 @@ See `./generative/readme.md` for instructions to replicate our generative models
 [6] https://arxiv.org/abs/2103.00020
 
 [7] https://arxiv.org/abs/2102.01645
-
-## Acknolwedgments
-We'd like to thank (clip-glass authors, stylegan2-pytorch authors, clip) 
 
 
 ## Authors
