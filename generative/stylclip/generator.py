@@ -45,7 +45,7 @@ class Generator:
             image = kornia.resize(input, (224, 224))
             if self.augmentation is not None:
                 image = self.augmentation(image)
-            image = image.repeat(1, 3, 1, 1)
+            #image = image.repeat(1, 3, 1, 1)
             image_features = self.CLIP.encode_image(image)
 
             sim = torch.cosine_similarity(image_features, self.text_features)

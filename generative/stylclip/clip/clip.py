@@ -68,9 +68,9 @@ def load(name: str, device: Union[str, torch.device] = "cuda" if torch.cuda.is_a
     transform = Compose([
         Resize(n_px, interpolation=Image.BICUBIC),
         CenterCrop(n_px),
-        #lambda image: image.convert("RGB"),
+        lambda image: image.convert("RGB"),
         ToTensor(),
-        #Normalize((0.48145466, 0.4578275, 0.40821073), (0.26862954, 0.26130258, 0.27577711)),
+        Normalize((0.48145466, 0.4578275, 0.40821073), (0.26862954, 0.26130258, 0.27577711)),
     ])
 
     if not jit:

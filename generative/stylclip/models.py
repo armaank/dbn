@@ -97,6 +97,8 @@ class StyleGAN2(torch.nn.Module):
                 model = "car"
             elif "church" in config.config:
                 model = "church"
+            elif "Adaily_big" in config.config:
+                model = "Adaily_big"
             elif "Adaily" in config.config:
                 model = "Adaily"
             print("Weights not found!\nRun : ./download-weights.sh StyleGAN2-%s" % (model))
