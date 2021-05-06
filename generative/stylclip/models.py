@@ -99,8 +99,11 @@ class StyleGAN2(torch.nn.Module):
                 model = "church"
             elif "Adaily_big" in config.config:
                 model = "Adaily_big"
-            elif "Adaily" in config.config:
-                model = "Adaily"
+            elif "Adaily_A" in config.config:
+                model = "Adaily_A"
+            elif "Adaily_B" in config.config:
+                model = "Adaily_B"
+
             print("Weights not found!\nRun : ./download-weights.sh StyleGAN2-%s" % (model))
             sys.exit(1)
         self.G = stylegan2.models.load(os.path.join(config.weights, "G.pth"))

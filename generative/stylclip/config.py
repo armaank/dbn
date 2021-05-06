@@ -112,13 +112,13 @@ configs = dict(
             xu = 10,
         ),
     ),
-    Adaily_1024 = dict(
+    Adaily_A = dict(
         task = "txt2img",
         dim_z = 512,
         latent = StyleGAN2LatentSpace,
         model = StyleGAN2,
         use_discriminator = True,
-        weights = "../models/adaily-1024/torch_custom",
+        weights = "../models/Adaily_A/torch_custom",
         algorithm = "nsga2",
         norm = biggan_norm,
         denorm = biggan_denorm,
@@ -132,7 +132,26 @@ configs = dict(
             xu = 10,
         ),
     ),
-
+    Adaily_B = dict(
+        task = "txt2img",
+        dim_z = 512,
+        latent = StyleGAN2LatentSpace,
+        model = StyleGAN2,
+        use_discriminator = True,
+        weights = "../models/Adaily_B/torch_custom",
+        algorithm = "nsga2",
+        norm = biggan_norm,
+        denorm = biggan_denorm,
+        pop_size = 16,
+        batch_size = 4,
+        problem_args = dict(
+            n_var = 512,
+            n_obj = 2,
+            n_constr = 512,
+            xl = -10,
+            xu = 10,
+        ),
+    ),
     StyleGAN2_car_d = dict(
         task = "txt2img",
         dim_z = 512,

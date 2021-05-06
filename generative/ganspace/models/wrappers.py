@@ -96,7 +96,7 @@ class BaseModel(AbstractBaseClass, torch.nn.Module):
 # PyTorch port of StyleGAN 2
 class StyleGAN2(BaseModel):
     def __init__(self, device, class_name, truncation=1.0, use_w=False):
-        super(StyleGAN2, self).__init__('StyleGAN2', class_name or 'Adaily')
+        super(StyleGAN2, self).__init__('StyleGAN2', class_name or 'Adaily_B')
         self.device = device
         self.truncation = truncation
         self.latent_avg = None
@@ -114,7 +114,8 @@ class StyleGAN2(BaseModel):
             'bedrooms': 256,
             'kitchen': 256,
             'places': 256,
-            'Adaily': 1024,
+            'Adaily_A': 1024,
+            'Adaily_B': 1024,
         }
 
         assert self.outclass in configs, \
@@ -155,7 +156,8 @@ class StyleGAN2(BaseModel):
         #checkpoint_root = os.environ.get('GANCONTROL_CHECKPOINT_DIR', Path(__file__).parent / 'checkpoints')
         #checkpoint_root = './
         #checkpoint = Path(checkpoint_root) / f'stylegan2/stylegan2_{self.outclass}_{self.resolution}.pt'
-        checkpoint = os.path.join(os.pardir, 'models','adaily-1024','torch_official','stylegan2_Adaily_1024.pt')
+        #checkpoint = os.path.join(os.pardir, 'models','adaily-1024','torch_official','stylegan2_Adaily_1024.pt')
+        checkpoint = os.path.join(os.pardir, 'models', self.outclass, 'torch_official', 'stylegan2_Adaily_1024.pt')
         print(checkpoint)
         self.model = stylegan2.Generator(self.resolution, 512, 8).to(self.device)
 
