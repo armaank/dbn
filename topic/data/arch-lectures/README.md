@@ -1,6 +1,8 @@
 Datasheet
 
-Description
+Description and Use
+
+Download the data by running `python3 get_dataset.py`
 
 `raw_data` is the original data as scrapped from YouTube. 
 
