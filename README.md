@@ -40,11 +40,10 @@ See `./generative/readme.md` for instructions to replicate our generative models
 * clean up archlectures/generative
 * add docs to datsets
 * add hylinks to authors
-* update ack
 
 ## Acknolwedgments
-We'd like to thank (clip-glass authors, stylegan2-pytorch authors, clip, more here?)
-for providing open source implementations of algorithms used for this project. 
+We'd like to thank Federico Galatolo and the authors of [CLIP-GLASS](https://github.com/galatolofederico/clip-glass),
+for providing open source implementations of their methods and guidance. 
 
 ## References
 [1] https://www.di.ens.fr/~fbach/mdhnips2010.pdf
