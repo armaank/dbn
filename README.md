@@ -1,11 +1,17 @@
-# tbd
+# dbn - [Draw By Number](https://jessebassett.net/Thesis.html)
 
-This repo contains code to construct topic models for text data scrapped from Architecture Daily, and generative models used to create synthetic imagery trained on images from Architecture Daily and other architecture websites. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-- webscrapper? 
-- topic modeling for arch-daily text corpus
-- generative model (styleganv2) for arch-daily + other image corpora
-- text-to-image model via stylegav2 + CLIP
+
+This repo contains code used to analyze architecture lectures and construct generative models used to create synthetic architecture schematics.
+
+
+## Generative Models 
+
+## Text Analysis 
+
+## Requirements 
 
 ## Structure
 `./topic` contains code to preprocess text and generate topic models. Specifically, these topic models were made to better understand 
@@ -24,18 +30,20 @@ See `./generative/readme.md` for instructions to replicate our generative models
 
 
 ## TODO:
-* change the name 'archlectures'
-* cleanup archlectures/topic/data folder
-* change the name 'generative'
-* add readme to archlecture/topic
-* update readme for generative
+* update colab link
+* add photo 
+* host dataset on ee site
+* host models on ee site
+* get colab notebooks working
+* document colab notebooks
+* update text analysis notebooks to colab
 * clean up archlectures/generative
+* add docs to datsets
 * add hylinks to authors
-* update ack
 
 ## Acknolwedgments
-We'd like to thank (clip-glass authors, stylegan2-pytorch authors, clip, more here?)
-for providing open source implementations of algorithms used for this project. 
+We'd like to thank Federico Galatolo and the authors of [CLIP-GLASS](https://github.com/galatolofederico/clip-glass),
+for providing open source implementations of their methods and guidance. 
 
 ## References
 [1] https://www.di.ens.fr/~fbach/mdhnips2010.pdf
@@ -55,8 +63,8 @@ for providing open source implementations of algorithms used for this project.
 
 ## Authors
 
-Anna Konvicka
-
 Jesse Bassett
+
+Anna Konvicka
 
 Armaan Kohli 
