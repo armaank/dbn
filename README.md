@@ -14,9 +14,6 @@ This repo contains code used to analyze architecture prose and construct generat
 Basic [topic models](https://colab.research.google.com/github/armaank/dbn/blob/main/text-analysis/topicmodel.ipynb) and [clustering](https://colab.research.google.com/github/armaank/dbn/blob/main/text-analysis/umap.ipynb) of architecture lectures and a cohort of architecture project descriptions. 
 
 
-
-## Requirements 
-
 ## Structure 
 
 Inside `./generative`, we have code to build generative models from image corpora. We first trained a StyleGan2 [[4](https://arxiv.org/abs/1912.04958), 
@@ -30,11 +27,11 @@ See `./generative/readme.md` for instructions to replicate our generative models
 ## TODO:
 * update colab link
 * add photo 
-* host dataset on ee site
+* host dataset on ee site (done for text)
 * host models on ee site
 * get colab notebooks working
 * document colab notebooks
-* clean up archlectures/generative
+* clean up generative
 * add docs to datsets
 
 ## Acknolwedgments
