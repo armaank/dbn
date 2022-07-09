@@ -4,22 +4,17 @@
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
-This repo contains code used to analyze architecture lectures and construct generative models used to create synthetic architecture schematics.
+This repo contains code used to analyze architecture prose and construct generative models used to create synthetic architecture schematics.
 
 
 ## Generative Models 
 
 ## Text Analysis 
 
-## Requirements 
+Basic [topic models](https://colab.research.google.com/github/armaank/dbn/blob/main/text-analysis/topicmodel.ipynb) and [clustering](https://colab.research.google.com/github/armaank/dbn/blob/main/text-analysis/umap.ipynb) of architecture lectures and a cohort of architecture project descriptions. 
 
-## Structure
-`./topic` contains code to preprocess text and generate topic models. Specifically, these topic models were made to better understand 
-Architecture Daily image captions and descriptions. We built these topic models with Latent Dirichlet Allocation using 
-Gensim [[1](https://www.di.ens.fr/~fbach/mdhnips2010.pdf), [2](https://radimrehurek.com/gensim/index.html)], and visualized said models with pyLDAVis
-[[3](https://github.com/bmabey/pyLDAvis)]. We found that loosely, for sufficiently many topics, the topics represented architectural programs. You can examine 
-interactive topic models [here](https://ee.cooper.edu/~kohli/topics/), a sample is pictured in Fig. 1. See `./topic/readme.md` for instruction to replicate
-our models. 
+
+## Structure 
 
 Inside `./generative`, we have code to build generative models from image corpora. We first trained a StyleGan2 [[4](https://arxiv.org/abs/1912.04958), 
 [5](https://github.com/Tetratrio/stylegan2_pytorch)] on an image corpus scrapped from architecture daily as well as other sources. We then developed a text to 
@@ -32,34 +27,16 @@ See `./generative/readme.md` for instructions to replicate our generative models
 ## TODO:
 * update colab link
 * add photo 
-* host dataset on ee site
+* host dataset on ee site (done for text)
 * host models on ee site
 * get colab notebooks working
 * document colab notebooks
-* update text analysis notebooks to colab
-* clean up archlectures/generative
+* clean up generative
 * add docs to datsets
-* add hylinks to authors
 
 ## Acknolwedgments
 We'd like to thank Federico Galatolo and the authors of [CLIP-GLASS](https://github.com/galatolofederico/clip-glass),
 for providing open source implementations of their methods and guidance. 
-
-## References
-[1] https://www.di.ens.fr/~fbach/mdhnips2010.pdf
-
-[2] https://radimrehurek.com/gensim/index.html
-
-[3] https://github.com/bmabey/pyLDAvis
-
-[4] https://arxiv.org/abs/1912.04958
-
-[5] https://github.com/Tetratrio/stylegan2_pytorch
-
-[6] https://arxiv.org/abs/2103.00020
-
-[7] https://arxiv.org/abs/2102.01645
-
 
 ## Authors
 
