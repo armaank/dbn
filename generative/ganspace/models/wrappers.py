@@ -96,7 +96,7 @@ class BaseModel(AbstractBaseClass, torch.nn.Module):
 # PyTorch port of StyleGAN 2
 class StyleGAN2(BaseModel):
     def __init__(self, device, class_name, truncation=1.0, use_w=False):
-        super(StyleGAN2, self).__init__('StyleGAN2', class_name or 'Adaily_B')
+        super(StyleGAN2, self).__init__('StyleGAN2', class_name or 'Adaily-B')
         self.device = device
         self.truncation = truncation
         self.latent_avg = None
@@ -114,8 +114,8 @@ class StyleGAN2(BaseModel):
             'bedrooms': 256,
             'kitchen': 256,
             'places': 256,
-            'Adaily_A': 1024,
-            'Adaily_B': 1024,
+            'Adaily-A': 1024,
+            'Adaily-B': 1024,
         }
 
         assert self.outclass in configs, \
