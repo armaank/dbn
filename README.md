@@ -6,7 +6,7 @@
 
 This repo contains code used to analyze architecture prose and construct generative models used to create synthetic architecture schematics.
 
-<img src="https://github.com/armaank/dbn/blob/main/img/outline.gif" alt="outline" width="275"> <img src="https://github.com/armaank/dbn/blob/main/img/site.gif" alt="site" width="275"> <img src="https://github.com/armaank/dbn/blob/main/img/elevation.gif" alt="elevation" width="275">
+<img src="https://github.com/armaank/dbn/blob/main/img/outline.gif" alt="outline" width="250"> <img src="https://github.com/armaank/dbn/blob/main/img/site.gif" alt="site" width="250"> <img src="https://github.com/armaank/dbn/blob/main/img/elevation.gif" alt="elevation" width="250">
 
 
 ## Generative Models
