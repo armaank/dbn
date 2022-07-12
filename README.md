@@ -6,6 +6,8 @@
 
 This repo contains code used to analyze architecture prose and construct generative models used to create synthetic architecture schematics.
 
+<img src="https://github.com/armaank/dbn/blob/main/img/outline.gif" alt="outline" width="300"> <img src="https://github.com/armaank/dbn/blob/main/img/site.gif" alt="site" width="300"> <img src="https://github.com/armaank/dbn/blob/main/img/elevation.gif" alt="elevation" width="300">
+
 
 ## Generative Models
 * Explore fixed latent directions in a StyleGAN2 model trained trained on the ArchML dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Explore.ipynb)
@@ -16,8 +18,7 @@ This repo contains code used to analyze architecture prose and construct generat
 Basic [topic models](https://colab.research.google.com/github/armaank/dbn/blob/main/text-analysis/topicmodel.ipynb) and [clustering](https://colab.research.google.com/github/armaank/dbn/blob/main/text-analysis/umap.ipynb) of architecture lectures and a cohort of architecture project descriptions. 
 
 ## TODO:
-* add photo 
-* host dataset on ee site (done for text)
+* host img datasets on ee site 
 * get colab notebooks working
 * document colab notebooks
 * clean up generative
