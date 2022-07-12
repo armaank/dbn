@@ -8,8 +8,8 @@ This repo contains code used to analyze architecture prose and construct generat
 
 
 ## Generative Models
-* Explore fixed latent directions in a StyleGAN2 model trained trained on the ArchML dataset
-* 
+* Explore fixed latent directions in a StyleGAN2 model trained trained on the ArchML dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Explore.ipynb)
+* Discover new StyleGAN2 controls [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/RepresentationSpace.ipynb)
 
 ## Text Analysis 
 
