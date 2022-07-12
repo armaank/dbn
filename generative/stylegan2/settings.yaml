@@ -1,0 +1,7 @@
+channels: [32, 64, 128, 256, 256, 256, 256]
+tensorboard_log_dir: 'runs/stylegan2_256x256'
+tensorboard_image_interval: 500
+checkpoint_dir: 'checkpoints/stylegan2_256x256l'
+checkpoint_interval: 10000 
+data_dir: '/home/armaank/archml/data/ArtchDaily-Share-256'
+gpu: [0]
