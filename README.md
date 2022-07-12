@@ -1,6 +1,6 @@
 # dbn - [Draw By Number](https://jessebassett.net/Thesis.html)
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Explore.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Explore.ipynb)
 [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 
