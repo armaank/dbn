@@ -13,12 +13,14 @@ This repo contains code used to analyze architecture prose and construct generat
 
 With all colab notebooks, make sure that you're connected to a GPU runtime. If you have issues with installation, then restart the runtime and re-run the notebook cells. 
 
-* Use text to generate new architecture imagery via a CLIP + genetic algorithms[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Text2Representation.ipynb)
+* Use text to generate new architecture imagery via a CLIP + genetic algorithms [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Text2Representation.ipynb)
 * Explore fixed latent directions in a StyleGAN2 model trained trained on the ArchML dataset [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/Explore.ipynb)
 * Discover new StyleGAN2 controls [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/RepresentationSpace.ipynb)
 * Visualize the principal components of a StyleGAN2 latent space [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/pca.ipynb)
 * Generate some static figures from a StyleGAN2 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/armaank/dbn/blob/main/dbn/figure_gen.ipynb)
 
+## Dataset Visualization
+Visualize the [ArchML dataset](https://jessebassett.net/pixplot2/index.html#) interactively. Explore the data used to train the models
 
 
 ## Text Analysis 
@@ -37,6 +39,7 @@ We'd like to thank:
 for providing open source implementations of their methods and guidance. (`generative/styleclip`) 
 * Erik Härkönen and the authors of [ganspace](https://github.com/harskish/ganspace) (`generative/ganspace)`
 * The authors of the following PyTorch implementation of [StyleGAN2](https://github.com/adriansahlman/stylegan2_pytorch) (`generative/styleclip`)
+* The authors of [pix-plot](https://github.com/YaleDHLab/pix-plot) for their interactive data visualizer. 
 
 All of their work should be distributed following the terms of their original licenses. 
 
